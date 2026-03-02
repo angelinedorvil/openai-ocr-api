@@ -1,0 +1,62 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\3041001d-e69c-4bd8-bfbc-3490951e1c26\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.PDF
+Processing Date: 2026-03-02 11:29:36
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+[Redacted] Confidential Document  
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+Anat Path Reports  
+[Redacted]  
+* Final Report *
+
+Document Type: Anat Path Reports  
+Document Date: [Redacted]  
+Document Status: Auth (Verified)  
+Document Title: Histology  
+Encounter info: [Redacted]
+
+* Final Report *
+
+APRPT (Verified)
+
+Patient Name: [Redacted]  
+MRN: [Redacted]  
+DOB: [Redacted]  
+Acc #: [Redacted]  
+Location: [Redacted]  
+Gender: F  
+Client: [Redacted]  
+Collected: [Redacted]  
+Submitting Phys: [Redacted]  
+Received: [Redacted]  
+Reported: [Redacted]
+
+Final Surgical Pathology Report
+
+Final Pathologic Diagnosis  
+A. LYMPH NODES, #7; EXCISION:  
+- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  
+
+B. LYMPH NODES, #11R; EXCISION:  
+- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  
+
+C. LUNG, RIGHT LOWER LOBE; LOBECTOMY, C1FS:  
+- ADENOCARCINOMA, MIXED SUBTYPE, WITH PREDOMINANTLY PAPILLARY AND MICROPAPILLARY PATTERNS OF GROWTH.  
+- THE TUMOR IS WELL-DIFFERENTIATED AND MEASURES 4.0 X 4.0 X 2.0 CM.  
+- ANGIOLYMPHATIC INVASION IDENTIFIED.  
+- BRONCHIAL AND VASCULAR MARGINS ARE NEGATIVE.  
+- VISCERAL PLEURAL INVASION IS IDENTIFIED.  
+- ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).  
+- SEE SYNOPTIC REPORT.
+
+Printed by: [Redacted]  
+Printed on: [Redacted]  
+Page 1 of 5  
+(Continued)

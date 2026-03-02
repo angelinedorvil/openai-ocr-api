@@ -1,0 +1,190 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\2f71c5f6-f211-4df6-b581-13d0c43e8fb4\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3.PDF
+Processing Date: 2026-03-02 11:17:07
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+████ Path Reports                                                                                     █
+
+* Final Report *
+
+Document Type:                                                                                                  
+Document Date:                                                                                                  
+Document Status:                                                                                                  
+Document Title:                                                                                                  
+Encounter info:                                                                                                  
+
+* Final Report *
+
+████ (Verified)
+
+Patient Name:                                                                                                  
+MRN:                                                                                   DOB:                                                                                                  
+Location:                                                                                                  
+Client:                                                                                                  
+Submitting                                                                                                  
+Phys:                                                                                                  
+
+                    Final Surgical Pathology Report
+
+Final Pathologic Diagnosis
+A.       LUNG, LEFT UPPER LOBE, WEDGE EXCISION, A1FS:
+              - ADENOCARCINOMA, MIXED SUBTYPE, PREDOMINANTLY A LEPIDIC PATTERN OF GROWTH WITH LESSER AREAS OF MICROPAPILLARY PATTERN OF GROWTH, MODERATELY DIFFERENTIATED (SEE PARTB).
+              - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+              - LYMPHOVASCULAR INVASION IS PRESENT.
+              - SEE PART B FOR FINAL MARGIN.
+              - SEE SYNOTIC REPORT.
+
+B.       LUNG, LEFT UPPER LOBE, LOBECTOMY, B1FS:
+              - INVASIVE SQUAMOUS CELL CARCINOMA, POORLY DIFFERENTIATED, 4.5 X 3.5 X 1.9 CM.
+              - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+              - RESIDUAL ADENOCARCINOMA, 4.0 CM IN GREATEST DIMENSION.
+              - BRONCHOVASCULAR MARGINS ARE NEGATIVE FOR CARCINOMA..
+              - UNINVOLVED LUNG PARENCHYMA WITH EMPHYSEMATOUS CHANGES.
+              - FOUR BENIGN PERIBRONCHIAL LYMPH NODES (0/4).
+              - ONE BENIGN INTRAPARENCHYMAL LYMPH NODE (0/1).
+
+Printed by:                                                                                                  
+Printed on:                                                                                                  
+                                                                                                                                Page 1 of 5
+                                                                                                                                (Continued)
+
+================================================================================
+PAGE 2
+================================================================================
+Path Reports
+* Final Report *
+
+- SEE SYNOPTIC REPORT.
+
+C.	MEDIASTINUM, LEVEL 6, LYMPH NODE BIOPSY:
+- SIX BENIGN LYMPH NODE FRAGMENTS (0/6).
+
+D.	MEDIASTINUM, LEVEL 7, LYMPH NODE BIOPSY:
+- ADENOCARCINOMA SIMILAR TO ABOVE INVOLVING LUNG PARENCHYMA.
+- NO LYMPH NODE TISSUE IS IDENTIFIED (ENTIRELY SUBMITTED SPECIMEN).
+
+Synoptic Worksheet
+B.	Left upper lobe lung, FS:
+Specimen:	Lobe(s) of lung: left upper lobe
+Procedure:	Lobectomy
+Specimen Integrity:	Intact
+Specimen Laterality:	Left
+Tumor Site:	Upper lobe
+Tumor Focality:	Separate tumor nodules in same lobe
+Histologic Type:	Other: Two foci of carcinoma, squamous cell carcinoma and separate adenocarcinoma
+Histologic Grade:	Other: Squamous cell carcinoma: poorly differentiated, Adenocarcinoma: Moderately differentiated
+Tumor Size:	Cannot be determined: Squamous cell carcinoma: 4.5 cm; Adenocarcinoma: 4 cm
+Visceral Pleura Invasion:	Not identified
+Tumor Extension:	Not identified
+Bronchial Margin:	Uninvolved by invasive carcinoma
+Vascular Margin:	Squamous cell carcinoma in situ (CIS) not identified at bronchial margin Uninvolved by invasive carcinoma
+Parenchymal Margin:	Not applicable
+Parietal Pleural Margin:	Not applicable
+Chest Wall Margin:	Not applicable
+Other Attached Tissue Margin:	Not applicable
+All Margins Uninvolved By Invasive Carcinoma:	Distance of invasive carcinoma from closest margin: 23 mm Margin closest to invasive carcinoma:: bronchial, vascular
+Treatment Effect:	Not applicable
+Lymph-Vascular Invasion:	Present
+
+Printed by:	
+Printed on:	
+
+Page 2 of 5
+(Continued)
+
+================================================================================
+PAGE 3
+================================================================================
+Anat Path Reports
+* Final Report *
+
+TNM Descriptors:	m (multiple primary tumors)
+Primary Tumor (pT):	pT2a: Tumor greater than 3 cm, but 5 cm or less in greatest dimension surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or Tumor 5 cm or less in greatest dimension with any of the following features of extent: involves main bronchus, 2 cm or more distal to the carina; invades the visceral pleura; associated with atelectasis or obstructive pneumonitis that extends to the hilar region but does not involve th the entire lung
+Regional Lymph Nodes (pN):	pN0: No regional lymph node metastasis
+	Nodes examined: 11
+	Nodes involved: 0
+Distant Metastasis (pM):	Not applicable
+Additional Pathologic Findings:	Emphysema
+----------------------------------------------------
+
+Clinical History
+Left VATS, lobectomy. Left lung mass.
+
+Specimen(s) Received
+A: Left upper lobe wedge
+B: Left upper lobe lung
+C: #6 lymph node
+D: #7 lymph node
+
+Gross Description
+Specimen A is received fresh, labeled with the patient's name, medical record number and is designated as "left upper lobe wedge." The specimen consists of a wedge of lung measuring 7.0 x 3.4 x 2.3 cm. The specimen is incised prior to receipt. There is a nodule measuring approximately 1.5 cm in greatest dimension present in the specimen, causing pleural puckering, less than 0.5 cm from the nearest staple line. Representative section of the tissue is submitted for frozen section (A1FS). Representative section of the remainder of the specimen is submitted as follows.
+
+Specimen B is received fresh for intraoperative consultation labeled with the patient's name, medical record number, and is designated as "left upper lobe lung." The specimen consists of a lobe of lung weighing 180 grams and measuring 11.0 x 8.0 x 5.0 cm. There is a mass measuring 4.5 x 3.5 x 1.9 cm abutting the visceral pleura, causing puckering. The mass is 1.0 cm from the staple line of the presumed previous wedge resection. The mass is 2.3 cm from the bronchial and vascular margins. The mass surrounds the large vessel (probable vein) but does not appear to invade it. No gross bronchovascular invasion is identified. An additional area of pleural thickening spanning approximately 4.0 cm is present, grossly 1.0 cm from the aforementioned mass and 1.0 cm from the bronchovascular margins. The thickening abuts the staple line. Multiple possible peribronchial lymph nodes are identified. The bronchial margin is submitted for frozen section (B1FS). No other lesions are identified. The area of visceral pleura puckering overlying the 4.5 cm mass is inked blue. Representative sections are submitted as follows.
+
+Specimen C is received in formalin, labeled with the patient's name, medical record number, and is designated as "#6 lymph
+
+Printed by:
+Printed on:	Page 3 of 5
+		(Continued)
+
+================================================================================
+PAGE 4
+================================================================================
+Anat Path Reports
+
+* Final Report *
+
+node." The specimen consists of two soft tissue fragments, in aggregate measuring 2.9 x 2.2 x 1.0 cm. The specimen is entirely submitted as follows.
+
+Specimen D is received in formalin, labeled with the patient's name, medical record number, and is designated as "#7 lymph node." The specimen consists of a soft tissue fragment measuring 1.0 cm in greatest dimension. The specimen is bisected and entirely submitted in one cassette.
+
+A2,3: Remainder of mass and visceral pleura (blue)
+A4: Representative uninvolved lung
+B2: Vascular margin
+B3,4: Tumor, vasculature, bronchi, visceral pleura puckering
+B5: Tumor, normal
+B6: Tumor, bronchus, lymph node
+B7: Multiple possible peribronchial lymph nodes, whole
+B8: Remainder of lymph node from section B6, fragmented
+B9: One possible peribronchial lymph node, fragmented
+B10: One possible peribronchial lymph node, fragmented
+B11: Possible intraparenchymal lymph nodes, whole
+B12: Visceral pleural thickening near staple line
+B13: Hilar unremarkable lung
+B14: Peripheral unremarkable lung
+B15,16: Additonal sections of pleural thickening
+B17,18: Tissue in between mass and pleural thickening
+C1: Smallest soft tissue fragment, whole
+C2,3: Largest soft tissue fragment, bisected
+
+Intraoperative Consult Diagnosis
+A1FS: LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.
+Frozen section results were communicated to the surgical team and were repeated back by
+LUNG, LEFT UPPER LOBE, BRONCHIAL MARGIN (FROZEN SECTION): NEGATIVE FOR CARCINOMA.
+Frozen section results were communicated to the surgical team and were repeated back
+
+Microscopic Description
+Microscopic examination performed.
+
+Printed by:
+Printed on:                                                                                      Page 4 of 5
+                                                                                               (Continued)
+
+================================================================================
+PAGE 5
+================================================================================
+Anat Path Reports
+
+* Final Report *
+
+Page 5 of 5
+(End of Report)
+
+Printed by:  
+Printed on:  

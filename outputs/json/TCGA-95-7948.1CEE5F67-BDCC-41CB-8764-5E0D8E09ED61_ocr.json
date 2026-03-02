@@ -1,0 +1,95 @@
+{
+  "pdf": "input_pdfs\\high_quality\\3041001d-e69c-4bd8-bfbc-3490951e1c26\\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 10.22417163848877,
+        "chars": 1553,
+        "words": 205,
+        "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports  \n[Redacted]  \n* Final Report *\n\nDocument Type: Anat Path Reports  \nDocument Date: [Redacted]  \nDocument Status: Auth (Verified)  \nDocument Title: Histology  \nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted]  \nMRN: [Redacted]  \nDOB: [Redacted]  \nAcc #: [Redacted]  \nLocation: [Redacted]  \nGender: F  \nClient: [Redacted]  \nCollected: [Redacted]  \nSubmitting Phys: [Redacted]  \nReceived: [Redacted]  \nReported: [Redacted]\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis  \nA. LYMPH NODES, #7; EXCISION:  \n- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nB. LYMPH NODES, #11R; EXCISION:  \n- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nC. LUNG, RIGHT LOWER LOBE; LOBECTOMY, C1FS:  \n- ADENOCARCINOMA, MIXED SUBTYPE, WITH PREDOMINANTLY PAPILLARY AND MICROPAPILLARY PATTERNS OF GROWTH.  \n- THE TUMOR IS WELL-DIFFERENTIATED AND MEASURES 4.0 X 4.0 X 2.0 CM.  \n- ANGIOLYMPHATIC INVASION IDENTIFIED.  \n- BRONCHIAL AND VASCULAR MARGINS ARE NEGATIVE.  \n- VISCERAL PLEURAL INVASION IS IDENTIFIED.  \n- ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n- SEE SYNOPTIC REPORT.\n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 1 of 5  \n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9777310426882289,
+          "mean_log_probability": -0.030873968421052632,
+          "perplexity": 1.031355512331499,
+          "min_probability": 0.17530131248564573
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 476,
+          "total_tokens": 2948
+        },
+        "composite_score": 0.884773521178356,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.712806940078735,
+          "chars": 1926,
+          "words": 202,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information.  Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports  \n[Redacted]  \n\n* Final Report *  \n\nDocument Type:                       Anat Path Reports  \nDocument Date:                      [Redacted]  \nDocument Status:                   Auth (Verified)  \nDocument Title:                      Histology  \nEncounter info:                     [Redacted]  \n\n* Final Report *  \n\nAPRPT (Verified)  \n\nPatient Name:                      [Redacted]  \nMRN:                                    [Redacted]                  DOB: [Redacted]  \nLocation:                              [Redacted]  \nClient:                                  [Redacted]  \nSubmitting Phys:                    [Redacted]  \n\nAcc #:                                [Redacted]  \nGender:                              F  \nCollected:  \nReceived:  \nReported:  \n\nFinal Surgical Pathology Report  \n\nFinal Pathologic Diagnosis  \nA. LYMPH NODES, #7; EXCISION:  \n   - FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nB. LYMPH NODES, #11R; EXCISION:  \n   - FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nC. LUNG, RIGHT LOWER LOBE; LOBECTOMY, C1FS:  \n   - ADENOCARCINOMA, MIXED SUBTYPE, WITH PREDOMINANTLY PAPILLARY AND MICROPAPILLARY PATTERNS OF GROWTH.  \n   - THE TUMOR IS WELL-DIFFERENTIATED AND MEASURES 4.0 X 4.0 X 2.0 CM.  \n   - ANGIOLYMPHATIC INVASION IDENTIFIED.  \n   - BRONCHIAL AND VASCULAR MARGINS ARE NEGATIVE.  \n   - VISCERAL PLEURAL INVASION IS IDENTIFIED.  \n   - ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n   - SEE SYNOPTIC REPORT.  \n\nPrinted by:                         [Redacted]  \nPrinted on:                        [Redacted]  \n\nPage 1 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9555507070429179,
+            "mean_log_probability": -0.07847669979716025,
+            "perplexity": 1.081638152480312,
+            "min_probability": 0.03382605214046106
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 494,
+            "total_tokens": 2966
+          },
+          "composite_score": 0.6540709027829018
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.22417163848877,
+          "chars": 1553,
+          "words": 205,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports  \n[Redacted]  \n* Final Report *\n\nDocument Type: Anat Path Reports  \nDocument Date: [Redacted]  \nDocument Status: Auth (Verified)  \nDocument Title: Histology  \nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted]  \nMRN: [Redacted]  \nDOB: [Redacted]  \nAcc #: [Redacted]  \nLocation: [Redacted]  \nGender: F  \nClient: [Redacted]  \nCollected: [Redacted]  \nSubmitting Phys: [Redacted]  \nReceived: [Redacted]  \nReported: [Redacted]\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis  \nA. LYMPH NODES, #7; EXCISION:  \n- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nB. LYMPH NODES, #11R; EXCISION:  \n- FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).  \n\nC. LUNG, RIGHT LOWER LOBE; LOBECTOMY, C1FS:  \n- ADENOCARCINOMA, MIXED SUBTYPE, WITH PREDOMINANTLY PAPILLARY AND MICROPAPILLARY PATTERNS OF GROWTH.  \n- THE TUMOR IS WELL-DIFFERENTIATED AND MEASURES 4.0 X 4.0 X 2.0 CM.  \n- ANGIOLYMPHATIC INVASION IDENTIFIED.  \n- BRONCHIAL AND VASCULAR MARGINS ARE NEGATIVE.  \n- VISCERAL PLEURAL INVASION IS IDENTIFIED.  \n- ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n- SEE SYNOPTIC REPORT.\n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 1 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9777310426882289,
+            "mean_log_probability": -0.030873968421052632,
+            "perplexity": 1.031355512331499,
+            "min_probability": 0.17530131248564573
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 476,
+            "total_tokens": 2948
+          },
+          "composite_score": 0.884773521178356,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 13.295496940612793,
+          "chars": 2087,
+          "words": 201,
+          "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nDocument Type:                Anat Path Reports\nDocument Date:               [Redacted]\nDocument Status:             Auth (Verified)\nDocument Title:               Histology\nEncounter info:              [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name:                [Redacted]                                  Acc #:\nMRN:                          [Redacted]               DOB:               [Redacted]\nLocation:                     [Redacted]                     Gender:  F        Collected:\nClient:                       [Redacted]                                   Received:\nSubmitting\nPhys:                         [Redacted]                                   Reported:\n\n\n                        Final Surgical Pathology Report\n\nFinal Pathologic Diagnosis\nA.        LYMPH NODES, #7; EXCISION:\n          - FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).\n\nB.        LYMPH NODES, #11R; EXCISION:\n          - FOUR LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/4).\n\nC.        LUNG, RIGHT LOWER LOBE; LOBECTOMY, C1FS:\n          - ADENOCARCINOMA, MIXED SUBTYPE, WITH PREDOMINANTLY PAPILLARY AND MICROPAPILLARY PATTERNS OF GROWTH.\n          - THE TUMOR IS WELL-DIFFERENTIATED AND MEASURES 4.0 X 4.0 X 2.0 CM.\n          - ANGIOLYMPHATIC INVASION IDENTIFIED.\n          - BRONCHIAL AND VASCULAR MARGINS ARE NEGATIVE.\n          - VISCERAL PLEURAL INVASION IS IDENTIFIED.\n          - ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).\n          - SEE SYNOPTIC REPORT.\n\nPrinted by:                  [Redacted]\nPrinted on:                  [Redacted]                                                    Page 1 of 5\n                                                                                         (Continued)",
+          "confidence": {
+            "mean_probability": 0.9502580706486158,
+            "mean_log_probability": -0.10196640803382664,
+            "perplexity": 1.1073462731646,
+            "min_probability": 0.03014741793821049
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 474,
+            "total_tokens": 2946
+          },
+          "composite_score": 0.6157733369379345
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

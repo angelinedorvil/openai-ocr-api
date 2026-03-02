@@ -194,4 +194,65 @@ Page 3 - 3 attempts
 Page 1 - 3 attempts
   Attempt 1/3 (temp=0.1) ... ok | chars=8310 | perplexity=1.02
   Attempt 2/3 (temp=0.2) ... ok | chars=8461 | perplexity=1.03
-  Attempt 3/3 (temp=0.3) ... 
+  Attempt 3/3 (temp=0.3) ... ok | chars=8433 | perplexity=1.03
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\2b9b9171-883c-4173-9efe-1049d64e235e\\TCGA-55-1592.99AE36EE-BB6C-4934-8E5C-388FF5A69C46.PDF', 'total_pages': 1, 'attempts_per_page': 3, 'total_time_seconds': 475.57525515556335, 'total_input_tokens': 2472, 'total_output_tokens': 2048, 'output_txt': 'outputs\\TCGA-55-1592.99AE36EE-BB6C-4934-8E5C-388FF5A69C46.txt', 'output_json': 'outputs\\json\\TCGA-55-1592.99AE36EE-BB6C-4934-8E5C-388FF5A69C46_ocr.json'}
+
+[START] input_pdfs\high_quality\2e2514e4-71b8-48e3-823e-7daa63911a20\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759.PDF
+  -> TXT:  outputs\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759.txt
+  -> JSON: outputs\json\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1592 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1593 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1594 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8147 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8147 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8149 | perplexity=1.01
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\2e2514e4-71b8-48e3-823e-7daa63911a20\\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759.PDF', 'total_pages': 2, 'attempts_per_page': 3, 'total_time_seconds': 534.1741557121277, 'total_input_tokens': 4944, 'total_output_tokens': 2475, 'output_txt': 'outputs\\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759.txt', 'output_json': 'outputs\\json\\TCGA-96-7545.C3A70C66-AE03-435F-A2E7-05AF6A9F0759_ocr.json'}
+
+[START] input_pdfs\high_quality\2f71c5f6-f211-4df6-b581-13d0c43e8fb4\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3.PDF
+  -> TXT:  outputs\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3.txt
+  -> JSON: outputs\json\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3005 | perplexity=1.11
+  Attempt 2/3 (temp=0.2) ... ok | chars=8311 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1932 | perplexity=1.10
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1538 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=8083 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1543 | perplexity=1.04
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2916 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8236 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8197 | perplexity=1.02
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1899 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1900 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1937 | perplexity=1.03
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=93 | perplexity=1.14
+  Attempt 2/3 (temp=0.2) ... ok | chars=93 | perplexity=1.10
+  Attempt 3/3 (temp=0.3) ... ok | chars=93 | perplexity=1.14
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\2f71c5f6-f211-4df6-b581-13d0c43e8fb4\\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 748.2957026958466, 'total_input_tokens': 12360, 'total_output_tokens': 2075, 'output_txt': 'outputs\\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3.txt', 'output_json': 'outputs\\json\\TCGA-94-7557.9C906FE6-AF3F-42D4-AD03-4CFE825C92D3_ocr.json'}
+
+[START] input_pdfs\high_quality\3041001d-e69c-4bd8-bfbc-3490951e1c26\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.PDF
+  -> TXT:  outputs\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.txt
+  -> JSON: outputs\json\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1926 | perplexity=1.08
+  Attempt 2/3 (temp=0.2) ... ok | chars=1553 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2087 | perplexity=1.11
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... 
