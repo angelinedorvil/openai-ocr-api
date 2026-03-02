@@ -1,0 +1,455 @@
+{
+  "pdf": "input_pdfs\\high_quality\\08128e5e-f4ec-4f3e-a69d-45d6bc3bbe3f\\TCGA-44-7670.B93C87AC-5344-408E-A0E1-763B998A55B7.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 4.964343786239624,
+        "chars": 372,
+        "words": 49,
+        "text": "DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\n\nSURGICAL PATHOLOGY REPORT\n\nSPECIMEN\n\n      A. Left upper lobe mass\n\n      B. Level 5\n\n      C. Level 11\n\n      D. Level 9\n\n      E. Level 7\n\n      F. Level 10\n\nCLINICAL NOTES\n\n      PRE-OP DIAGNOSIS: Lung mass.\n\n\nFROZEN SECTION DIAGNOSIS\n\n      FSA) Left upper lobe - Poorly differentiated non-small cell\n\n      carcinoma.",
+        "confidence": {
+          "mean_probability": 0.969268745271024,
+          "mean_log_probability": -0.043935999999999996,
+          "perplexity": 1.0449154781578092,
+          "min_probability": 0.23848425204385237
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 116,
+          "total_tokens": 2588
+        },
+        "composite_score": 0.8035305030193423,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 4.964343786239624,
+          "chars": 372,
+          "words": 49,
+          "text": "DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\n\nSURGICAL PATHOLOGY REPORT\n\nSPECIMEN\n\n      A. Left upper lobe mass\n\n      B. Level 5\n\n      C. Level 11\n\n      D. Level 9\n\n      E. Level 7\n\n      F. Level 10\n\nCLINICAL NOTES\n\n      PRE-OP DIAGNOSIS: Lung mass.\n\n\nFROZEN SECTION DIAGNOSIS\n\n      FSA) Left upper lobe - Poorly differentiated non-small cell\n\n      carcinoma.",
+          "confidence": {
+            "mean_probability": 0.969268745271024,
+            "mean_log_probability": -0.043935999999999996,
+            "perplexity": 1.0449154781578092,
+            "min_probability": 0.23848425204385237
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 116,
+            "total_tokens": 2588
+          },
+          "composite_score": 0.8035305030193423,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.4257380962371826,
+          "chars": 361,
+          "words": 49,
+          "text": "DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\nSURGICAL PATHOLOGY REPORT\n\nSPECIMEN\n\n     A. Left upper lobe mass\n\n     B. Level 5\n\n     C. Level 11\n\n     D. Level 9\n\n     E. Level 7\n\n     F. Level 10\n\nCLINICAL NOTES\n\n     PRE-OP DIAGNOSIS: Lung mass.\n\nFROZEN SECTION DIAGNOSIS\n\n     FSA) Left upper lobe - Poorly differentiated non-small cell\n\n     carcinoma.",
+          "confidence": {
+            "mean_probability": 0.9758779717661392,
+            "mean_log_probability": -0.03511225217391304,
+            "perplexity": 1.0357359658882166,
+            "min_probability": 0.18114019310174345
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 116,
+            "total_tokens": 2588
+          },
+          "composite_score": 0.7685148862044863
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.7122416496276855,
+          "chars": 389,
+          "words": 49,
+          "text": "DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\n\nSURGICAL PATHOLOGY REPORT\n\nSPECIMEN\n\n        A. Left upper lobe mass\n\n        B. Level 5\n\n        C. Level 11\n\n        D. Level 9\n\n        E. Level 7\n\n        F. Level 10\n\nCLINICAL NOTES\n\n        PRE-OP DIAGNOSIS: Lung mass.\n\nFROZEN SECTION DIAGNOSIS\n\n        FSA) Left upper lobe - Poorly differentiated non-small cell\n\n        carcinoma.",
+          "confidence": {
+            "mean_probability": 0.9723141834877542,
+            "mean_log_probability": -0.045519634782608696,
+            "perplexity": 1.0465715536171503,
+            "min_probability": 0.09160201589105008
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 116,
+            "total_tokens": 2588
+          },
+          "composite_score": 0.7638662647109914
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.830661535263062,
+        "chars": 1364,
+        "words": 225,
+        "text": "GROSS DESCRIPTION\n\n        A.  Submitted fresh for frozen section labeled \"left upper\nlobe\" is an intact lobe of lung tissue measuring 17 x 16 x\n6-8 cm. in thickness.  It has been amputated at the level of its\nmain bronchi which are grossly unremarkable.  Several anthracotic\nlymph nodes are present around that margin as well as lines of\nstaples.  There are several blebs of tissue present along one\npleural surface as well as a firm nodule on the pleura measuring 1\ncm. in size approximately 5 cm. from the bronchial stump. Serial\nsections are then placed in the lobe and this reveals the presence\nof a second mass, this is a spiculated tumor nodule which measures\nmaximally 2.5 cm. across, it has a granular tan and black cut\nsurface with anthracotic pigment within it.  It is puckered and\nfolds the surrounding red brown lung parenchyma towards it.  It is\nbelow the pleural surface by approximately 1 cm.  Representative\nportion of that tumor nodule is submitted for frozen section and\ntissue procurement as per request of ████████  Sections through\nthe remainder of the lung revealed no additional nodules other than\nthe two mentioned.  Sections after fixation. █████\n\n        B.  Received fresh, subsequently fixed in formalin labeled\n\"level 5\" are multiple black red irregular soft tissue\nfragments which have an aggregate measurement of 1.5 x 1.5 x 0.4 cm.",
+        "confidence": {
+          "mean_probability": 0.9887630552017569,
+          "mean_log_probability": -0.014635479532163742,
+          "perplexity": 1.014743102559966,
+          "min_probability": 0.3213115711403759
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 343,
+          "total_tokens": 2815
+        },
+        "composite_score": 0.924860502454409,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.830661535263062,
+          "chars": 1364,
+          "words": 225,
+          "text": "GROSS DESCRIPTION\n\n        A.  Submitted fresh for frozen section labeled \"left upper\nlobe\" is an intact lobe of lung tissue measuring 17 x 16 x\n6-8 cm. in thickness.  It has been amputated at the level of its\nmain bronchi which are grossly unremarkable.  Several anthracotic\nlymph nodes are present around that margin as well as lines of\nstaples.  There are several blebs of tissue present along one\npleural surface as well as a firm nodule on the pleura measuring 1\ncm. in size approximately 5 cm. from the bronchial stump. Serial\nsections are then placed in the lobe and this reveals the presence\nof a second mass, this is a spiculated tumor nodule which measures\nmaximally 2.5 cm. across, it has a granular tan and black cut\nsurface with anthracotic pigment within it.  It is puckered and\nfolds the surrounding red brown lung parenchyma towards it.  It is\nbelow the pleural surface by approximately 1 cm.  Representative\nportion of that tumor nodule is submitted for frozen section and\ntissue procurement as per request of ████████  Sections through\nthe remainder of the lung revealed no additional nodules other than\nthe two mentioned.  Sections after fixation. █████\n\n        B.  Received fresh, subsequently fixed in formalin labeled\n\"level 5\" are multiple black red irregular soft tissue\nfragments which have an aggregate measurement of 1.5 x 1.5 x 0.4 cm.",
+          "confidence": {
+            "mean_probability": 0.9887630552017569,
+            "mean_log_probability": -0.014635479532163742,
+            "perplexity": 1.014743102559966,
+            "min_probability": 0.3213115711403759
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 343,
+            "total_tokens": 2815
+          },
+          "composite_score": 0.924860502454409,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 7.151331424713135,
+          "chars": 1363,
+          "words": 225,
+          "text": "GROSS DESCRIPTION\n\n        A.  Submitted fresh for frozen section labeled \"left upper\nlobe\" is an intact lobe of lung tissue measuring 17 x 16 x\n6-8 cm. in thickness.  It has been amputated at the level of its\nmain bronchi which are grossly unremarkable.  Several anthracotic\nlymph nodes are present around that margin as well as lines of\nstaples.  There are several blebs of tissue present along one\npleural surface as well as a firm nodule on the pleura measuring 1\ncm. in size approximately 5 cm. from the bronchial stump. Serial\nsections are then placed in the lobe and this reveals the presence\nof a second mass, this is a spiculated tumor nodule which measures\nmaximally 2.5 cm. across, it has a granular tan and black cut\nsurface with anthracotic pigment within it.  It is puckered and\nfolds the surrounding red brown lung parenchyma towards it.  It is\nbelow the pleural surface by approximately 1 cm.  Representative\nportion of that tumor nodule is submitted for frozen section and\ntissue procurement as per request of ████████  Sections through\nthe remainder of the lung revealed no additional nodules other than\nthe two mentioned.  Sections after fixation. ████\n\n        B.  Received fresh, subsequently fixed in formalin labeled\n\"level 5\" are multiple black red irregular soft tissue\nfragments which have an aggregate measurement of 1.5 x 1.5 x 0.4 cm.",
+          "confidence": {
+            "mean_probability": 0.9888783182578437,
+            "mean_log_probability": -0.01456391545189504,
+            "perplexity": 1.0146704860015219,
+            "min_probability": 0.29312210973772884
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 344,
+            "total_tokens": 2816
+          },
+          "composite_score": 0.8785753120297648
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.272701978683472,
+          "chars": 1363,
+          "words": 225,
+          "text": "GROSS DESCRIPTION\n\n        A.  Submitted fresh for frozen section labeled \"left upper\nlobe\" is an intact lobe of lung tissue measuring 17 x 16 x\n6-8 cm. in thickness.  It has been amputated at the level of its\nmain bronchi which are grossly unremarkable.  Several anthracotic\nlymph nodes are present around that margin as well as lines of\nstaples.  There are several blebs of tissue present along one\npleural surface as well as a firm nodule on the pleura measuring 1\ncm. in size approximately 5 cm. from the bronchial stump. Serial\nsections are then placed in the lobe and this reveals the presence\nof a second mass, this is a spiculated tumor nodule which measures\nmaximally 2.5 cm. across, it has a granular tan and black cut\nsurface with anthracotic pigment within it.  It is puckered and\nfolds the surrounding red brown lung parenchyma towards it.  It is\nbelow the pleural surface by approximately 1 cm.  Representative\nportion of that tumor nodule is submitted for frozen section and\ntissue procurement as per request of ████████  Sections through\nthe remainder of the lung revealed no additional nodules other than\nthe two mentioned.  Sections after fixation. ████\n\n        B.  Received fresh, subsequently fixed in formalin labeled\n\"level 5\" are multiple black red irregular soft tissue\nfragments which have an aggregate measurement of 1.5 x 1.5 x 0.4 cm.",
+          "confidence": {
+            "mean_probability": 0.9887646717095215,
+            "mean_log_probability": -0.014810151603498543,
+            "perplexity": 1.014920365320539,
+            "min_probability": 0.29371158398480934
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 344,
+            "total_tokens": 2816
+          },
+          "composite_score": 0.8783935508251234
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.319333791732788,
+        "chars": 1116,
+        "words": 170,
+        "text": "██████\n██████\n██████\n\nThe specimens are entirely submitted in one cassette. ████\n\nC.  Received fresh, subsequently fixed in formalin labeled\n     \"level 11\" is a 0.6 x 0.3 x 0.3 cm. red irregular soft\ntissue fragment which is entirely submitted in one cassette. ████\n\nD.  Received fresh, subsequently fixed in formalin labeled\n     \"level 9\" is a 1.7 x 0.7 x 0.3 cm. gray red irregular soft\ntissue which is entirely submitted in one cassette. ████\n\nE.  Received fresh, subsequently fixed in formalin labeled\n     \"level 7\" is a 1.2 x 0.6 x 0.3 cm. gray red irregular soft\ntissue fragment. ████\n\nF.  Received fresh, subsequently fixed in formalin labeled\n     \"level 10\" is a 1.5 x 0.8 x 0.3 cm. pink red irregular soft\ntissue fragment which is entirely submitted in one cassette. ████\n\n██████\n██████\n\nMICROSCOPIC DESCRIPTION\n\n     Histologic type:  Adenocarcinoma.\n\n     Histologic grade:  Moderate to poorly differentiated.\n\n     Primary tumor (pT):  The tumor measures maximally 2.5 cm and is\nconfined to\n\n          the lung without involvement of the visceral pleura (pT1b).\n\n     Margins of resection:  Negative.",
+        "confidence": {
+          "mean_probability": 0.9716544536559999,
+          "mean_log_probability": -0.039985467889908255,
+          "perplexity": 1.0407956491255328,
+          "min_probability": 0.2151344709683751
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 328,
+          "total_tokens": 2800
+        },
+        "composite_score": 0.8808415179831024,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.319333791732788,
+          "chars": 1116,
+          "words": 170,
+          "text": "██████\n██████\n██████\n\nThe specimens are entirely submitted in one cassette. ████\n\nC.  Received fresh, subsequently fixed in formalin labeled\n     \"level 11\" is a 0.6 x 0.3 x 0.3 cm. red irregular soft\ntissue fragment which is entirely submitted in one cassette. ████\n\nD.  Received fresh, subsequently fixed in formalin labeled\n     \"level 9\" is a 1.7 x 0.7 x 0.3 cm. gray red irregular soft\ntissue which is entirely submitted in one cassette. ████\n\nE.  Received fresh, subsequently fixed in formalin labeled\n     \"level 7\" is a 1.2 x 0.6 x 0.3 cm. gray red irregular soft\ntissue fragment. ████\n\nF.  Received fresh, subsequently fixed in formalin labeled\n     \"level 10\" is a 1.5 x 0.8 x 0.3 cm. pink red irregular soft\ntissue fragment which is entirely submitted in one cassette. ████\n\n██████\n██████\n\nMICROSCOPIC DESCRIPTION\n\n     Histologic type:  Adenocarcinoma.\n\n     Histologic grade:  Moderate to poorly differentiated.\n\n     Primary tumor (pT):  The tumor measures maximally 2.5 cm and is\nconfined to\n\n          the lung without involvement of the visceral pleura (pT1b).\n\n     Margins of resection:  Negative.",
+          "confidence": {
+            "mean_probability": 0.9716544536559999,
+            "mean_log_probability": -0.039985467889908255,
+            "perplexity": 1.0407956491255328,
+            "min_probability": 0.2151344709683751
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 328,
+            "total_tokens": 2800
+          },
+          "composite_score": 0.8808415179831024,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.324982166290283,
+          "chars": 1082,
+          "words": 170,
+          "text": "████\n████\n████\n\nThe specimens are entirely submitted in one cassette. ████\n\nC.  Received fresh, subsequently fixed in formalin labeled\n\n\"level 11\" is a 0.6 x 0.3 x 0.3 cm. red irregular soft\n\ntissue fragment which is entirely submitted in one cassette. ████\n\nD.  Received fresh, subsequently fixed in formalin labeled\n\n\"level 9\" is a 1.7 x 0.7 x 0.3 cm. gray red irregular soft\n\ntissue which is entirely submitted in one cassette. ████\n\nE.  Received fresh, subsequently fixed in formalin labeled\n\n\"level 7\" is a 1.2 x 0.6 x 0.3 cm. gray red irregular soft\n\ntissue fragment. ████\n\nF.  Received fresh, subsequently fixed in formalin labeled\n\n\"level 10\" is a 1.5 x 0.8 x 0.3 cm. pink red irregular soft\n\ntissue fragment which is entirely submitted in one cassette. ████\n\n████\n\n████\n\nMICROSCOPIC DESCRIPTION\n\n    Histologic type:  Adenocarcinoma.\n\n    Histologic grade:  Moderate to poorly differentiated.\n\n    Primary tumor (pT):  The tumor measures maximally 2.5 cm and is\n\nconfined to\n\n    the lung without involvement of the visceral pleura (pT1b).\n\nMargins of resection:  Negative.",
+          "confidence": {
+            "mean_probability": 0.9777184852903633,
+            "mean_log_probability": -0.032777731012658226,
+            "perplexity": 1.0333208385381987,
+            "min_probability": 0.23760705480362385
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 317,
+            "total_tokens": 2789
+          },
+          "composite_score": 0.8386695384315709
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.157270908355713,
+          "chars": 1197,
+          "words": 170,
+          "text": "█████\n█████\n█████\n\n       The specimens are entirely submitted in one cassette. ████\n\n       C.  Received fresh, subsequently fixed in formalin labeled\n\n           \"level 11\" is a 0.6 x 0.3 x 0.3 cm. red irregular soft\n\n       tissue fragment which is entirely submitted in one cassette. ████\n\n       D.  Received fresh, subsequently fixed in formalin labeled\n\n           \"level 9\" is a 1.7 x 0.7 x 0.3 cm. gray red irregular soft\n\n       tissue which is entirely submitted in one cassette. ████\n\n       E.  Received fresh, subsequently fixed in formalin labeled\n\n           \"level 7\" is a 1.2 x 0.6 x 0.3 cm. gray red irregular soft\n\n       tissue fragment. ████\n\n       F.  Received fresh, subsequently fixed in formalin labeled\n\n           \"level 10\" is a 1.5 x 0.8 x 0.3 cm. pink red irregular soft\n\n       tissue fragment which is entirely submitted in one cassette. ████\n\n█████\n█████\n\nMICROSCOPIC DESCRIPTION\n\n     Histologic type:  Adenocarcinoma.\n\n     Histologic grade:  Moderate to poorly differentiated.\n\n     Primary tumor (pT):  The tumor measures maximally 2.5 cm and is\n\nconfined to\n\n     the lung without involvement of the visceral pleura (pT1b).\n\nMargins of resection:  Negative.",
+          "confidence": {
+            "mean_probability": 0.9719558397083927,
+            "mean_log_probability": -0.0424578212121212,
+            "perplexity": 1.0433720472772987,
+            "min_probability": 0.11617239817512427
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 331,
+            "total_tokens": 2803
+          },
+          "composite_score": 0.8427612832503933
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.897250175476074,
+        "chars": 1045,
+        "words": 106,
+        "text": "███████\n███████\n███████\n\nDirect extension of tumor:  Absent.\n\n        Venous (large vessel) invasion:  Negative.\n\n        Arterial (large vessel) invasion:  Negative.\n\n        Lymphatic (small vessel) invasion:  Negative.\n\n        Regional lymph nodes (pN):  One of seven peribronchial lymph nodes\n\n                contains metastatic carcinoma.  All sampled mediastinal nodes are\n\n                negative (pN1).\n\nDistant metastasis (pM):  pMX.\n\nOther findings:  Subpleural fibrosis and focal emphysematous\n\nchanges.\n\n███████\n\nDIAGNOSIS\n\n        A.  Lung, left upper lobectomy:\n\n                Invasive moderate to poorly-differentiated adenocarcinoma.\n\n                Tumor is confined to the lung without involvement of\n\n                the visceral pleural surface.\n\n                Bronchial margin of resection is free of tumor.\n\n                One of seven peribronchial lymph nodes contains metastatic\n\n                        adenocarcinoma.(1/7)\n\n        B.  Lymph node, level 5, resection:\n\n                Negative for malignancy.",
+        "confidence": {
+          "mean_probability": 0.9726351763888302,
+          "mean_log_probability": -0.0353257603305785,
+          "perplexity": 1.0359571275741573,
+          "min_probability": 0.3108076645743764
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 243,
+          "total_tokens": 2715
+        },
+        "composite_score": 0.8772036558469876,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.897250175476074,
+          "chars": 1045,
+          "words": 106,
+          "text": "███████\n███████\n███████\n\nDirect extension of tumor:  Absent.\n\n        Venous (large vessel) invasion:  Negative.\n\n        Arterial (large vessel) invasion:  Negative.\n\n        Lymphatic (small vessel) invasion:  Negative.\n\n        Regional lymph nodes (pN):  One of seven peribronchial lymph nodes\n\n                contains metastatic carcinoma.  All sampled mediastinal nodes are\n\n                negative (pN1).\n\nDistant metastasis (pM):  pMX.\n\nOther findings:  Subpleural fibrosis and focal emphysematous\n\nchanges.\n\n███████\n\nDIAGNOSIS\n\n        A.  Lung, left upper lobectomy:\n\n                Invasive moderate to poorly-differentiated adenocarcinoma.\n\n                Tumor is confined to the lung without involvement of\n\n                the visceral pleural surface.\n\n                Bronchial margin of resection is free of tumor.\n\n                One of seven peribronchial lymph nodes contains metastatic\n\n                        adenocarcinoma.(1/7)\n\n        B.  Lymph node, level 5, resection:\n\n                Negative for malignancy.",
+          "confidence": {
+            "mean_probability": 0.9726351763888302,
+            "mean_log_probability": -0.0353257603305785,
+            "perplexity": 1.0359571275741573,
+            "min_probability": 0.3108076645743764
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 243,
+            "total_tokens": 2715
+          },
+          "composite_score": 0.8772036558469876,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.985908508300781,
+          "chars": 1012,
+          "words": 106,
+          "text": "███████\n███████\n███████\n\nDirect extension of tumor:  Absent.\n\n       Venous (large vessel) invasion:  Negative.\n\n       Arterial (large vessel) invasion:  Negative.\n\n       Lymphatic (small vessel) invasion:  Negative.\n\n       Regional lymph nodes (pN):  One of seven peribronchial lymph nodes\n\n              contains metastatic carcinoma.  All sampled mediastinal nodes are\n\n              negative (pN1).\n\nDistant metastasis (pM):  pMX.\n\nOther findings:  Subpleural fibrosis and focal emphysematous\n\nchanges.\n\n███████\nDIAGNOSIS\n\n       A.  Lung, left upper lobectomy:\n\n              Invasive moderate to poorly-differentiated adenocarcinoma.\n\n              Tumor is confined to the lung without involvement of\n\n              the visceral pleural surface.\n\n              Bronchial margin of resection is free of tumor.\n\n              One of seven peribronchial lymph nodes contains metastatic\n\n              adenocarcinoma.(1/7)\n\n       B.  Lymph node, level 5, resection:\n\n              Negative for malignancy.",
+          "confidence": {
+            "mean_probability": 0.9684825581884486,
+            "mean_log_probability": -0.0467771694214876,
+            "perplexity": 1.0478884814655338,
+            "min_probability": 0.1973473312289871
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 243,
+            "total_tokens": 2715
+          },
+          "composite_score": 0.8221779975807286
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.650693655014038,
+          "chars": 1076,
+          "words": 106,
+          "text": "███████\n███████\n███████\n\nDirect extension of tumor:  Absent.\n\n        Venous (large vessel) invasion:  Negative.\n\n        Arterial (large vessel) invasion:  Negative.\n\n        Lymphatic (small vessel) invasion:  Negative.\n\n        Regional lymph nodes (pN):  One of seven peribronchial lymph nodes\n\n                contains metastatic carcinoma.  All sampled mediastinal nodes are\n\n                negative (pN1).\n\n        Distant metastasis (pM):  pMX.\n\n        Other findings:  Subpleural fibrosis and focal emphysematous\n\n                changes.\n\n███████\nDIAGNOSIS\n\n        A.  Lung, left upper lobectomy:\n\n                Invasive moderate to poorly-differentiated adenocarcinoma.\n\n                Tumor is confined to the lung without involvement of\n\n                the visceral pleural surface.\n\n                Bronchial margin of resection is free of tumor.\n\n                One of seven peribronchial lymph nodes contains metastatic\n\n                        adenocarcinoma.(1/7)\n\n        B.  Lymph node, level 5, resection:\n\n                Negative for malignancy.",
+          "confidence": {
+            "mean_probability": 0.9715898628932471,
+            "mean_log_probability": -0.03752666530612245,
+            "perplexity": 1.0382396816916548,
+            "min_probability": 0.2843225346034877
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 246,
+            "total_tokens": 2718
+          },
+          "composite_score": 0.8347312938429992
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 2.8504700660705566,
+        "chars": 385,
+        "words": 50,
+        "text": "C.  Lymph node, level 11, resection:\n\n      No lymph node tissue is present; negative for malignancy.\n\nD.  Lymph node, level 9, resection:\n\n      Negative for malignancy.\n\nE.  Lymph node, level 7, resection:\n\n      Negative for malignancy.\n\nF.  Lymph node, level 10, resection:\n\n      Negative for malignancy.\n\n----------------------------\n\nElectronic Signature)\n\n--- End Of Report ---",
+        "confidence": {
+          "mean_probability": 0.9433692806173545,
+          "mean_log_probability": -0.08050451020408164,
+          "perplexity": 1.0838337349425624,
+          "min_probability": 0.25210238104236526
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 99,
+          "total_tokens": 2571
+        },
+        "composite_score": 0.7788948733623509,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 2.8504700660705566,
+          "chars": 385,
+          "words": 50,
+          "text": "C.  Lymph node, level 11, resection:\n\n      No lymph node tissue is present; negative for malignancy.\n\nD.  Lymph node, level 9, resection:\n\n      Negative for malignancy.\n\nE.  Lymph node, level 7, resection:\n\n      Negative for malignancy.\n\nF.  Lymph node, level 10, resection:\n\n      Negative for malignancy.\n\n----------------------------\n\nElectronic Signature)\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9433692806173545,
+            "mean_log_probability": -0.08050451020408164,
+            "perplexity": 1.0838337349425624,
+            "min_probability": 0.25210238104236526
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 99,
+            "total_tokens": 2571
+          },
+          "composite_score": 0.7788948733623509,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.9886765480041504,
+          "chars": 385,
+          "words": 50,
+          "text": "C.  Lymph node, level 11, resection:\n\n      No lymph node tissue is present; negative for malignancy.\n\nD.  Lymph node, level 9, resection:\n\n      Negative for malignancy.\n\nE.  Lymph node, level 7, resection:\n\n      Negative for malignancy.\n\nF.  Lymph node, level 10, resection:\n\n      Negative for malignancy.\n\n----------------------------\n\nElectronic Signature)\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9442354855910348,
+            "mean_log_probability": -0.07936266326530611,
+            "perplexity": 1.0825968690003585,
+            "min_probability": 0.2539050247996559
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 99,
+            "total_tokens": 2571
+          },
+          "composite_score": 0.7406942231912443
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.7242703437805176,
+          "chars": 396,
+          "words": 50,
+          "text": "C.  Lymph node, level 11, resection:\n\n        No lymph node tissue is present; negative for malignancy.\n\nD.  Lymph node, level 9, resection:\n\n        Negative for malignancy.\n\nE.  Lymph node, level 7, resection:\n\n        Negative for malignancy.\n\nF.  Lymph node, level 10, resection:\n\n        Negative for malignancy.\n\n-----------------------------\n\n\nElectronic Signature)\n\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9320958586829897,
+            "mean_log_probability": -0.12105197959183675,
+            "perplexity": 1.1286835793543555,
+            "min_probability": 0.09036664960052809
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 99,
+            "total_tokens": 2571
+          },
+          "composite_score": 0.7155546665769307
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

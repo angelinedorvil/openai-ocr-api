@@ -1,0 +1,100 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\0f1a8df0-57fe-4a8a-bd45-2e53205344c7\TCGA-64-5775.EB576E3D-FA59-42B7-AF77-416013A9BC90.PDF
+Processing Date: 2026-03-02 10:42:08
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Clinical History/Diagnosis: Lung CA. Malignant Pleural Effusion.
+
+Source of Specimen(s):
+1: Speciment sent to Microbiology
+2: Speciment sent to Microbiology
+3: Speciment sent to Microbiology
+4: Pleural tissue
+5: Speciment sent to Microbiology
+6: Speciment sent to Microbiology
+7: Speciment sent to Microbiology
+8: Fistula, chest wall
+9: Fistula, chest wall left
+10: Pleura left chest
+
+Gross Description:
+Received in ten parts.
+Source of Tissue: 1. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 2. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 3. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 4. Labeled #4, "pleural tissue"
+Frozen Section Diagnosis: 4FS- HIGH GRADE NEOPLASM AS DISCUSSED PER
+Gross Description: Received fresh for frozen section evaluation with
+patient name and medical record number labeled "pleural tissue" are 6.5 x
+4.5 x 1.2 cm of tan to tan-pink rubbery firm tissue fragments.
+Representative sections are submitted for frozen section evaluation and
+the frozen section residue is submitted in one block. Additional
+representative sections are submitted in three blocks.
+Designation of Sections: 4FS, 4A-4C
+**************************************************************************
+Source of Tissue: 5. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 6. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 7. Microbiology Specimen
+**************************************************************************
+Source of Tissue: 8. Labeled #8, "chest wall fistula"
+Frozen Section Diagnosis: 8FS- HIGH GRADE NEOPLASM PER
+Gross Description: Received fresh for frozen section evaluation with
+patient name and medical record number labeled "chest wall fistula" is a
+1.5 x 1.0 cm tan rubbery firm tissue fragment. It is submitted in toto for
+frozen section evaluation and the frozen itself is submitted in one block.
+Designation of Sections: 8FS
+**************************************************************************
+Source of Tissue: 9. Labeled #9, "left chest wall fistula"
+Gross Description: Received fresh with patient name and medical record
+number labeled "left chest wall fistula" is a 8.5 x 3.0 cm light-tan skin
+
+================================================================================
+PAGE 2
+================================================================================
+ellipse excised to a depth of 2.6 cm. There are two tan raised lesions on
+the skin surface, 2.0 cm in greatest dimension. These are sectioned to
+reveal two fistulous tracts containing tan to pink-red soft material.
+Representative sections are submitted in three blocks.
+Designation of Sections: 9A-9B- fistula tract, 9C- soft tissue
+***********************************************************************
+Source of Tissue: 10. Labeled #10, "pleura left chest"
+Gross Description: Received fresh with patient name and medical record
+number labeled "pleura left chest" are 24.0 x 15.0 x 3.0 cm of tan to
+pink-red irregular fragments of soft tissue and clotted blood.
+Representative sections are submitted in four blocks.
+Designation of Sections: 10A-10D
+***********************************************************************
+Final Diagnosis:
+1, 2, 3. Cultures
+
+4. Pleural tissue:
+- Adenocarcinoma.
+
+5, 6, 7. Cultures
+
+8. Chest wall fistula:
+- Adenocarcinoma invading chest wall.
+
+9. Chest wall fistula, left:
+- Adenocarcinoma invading chest wall and skin with ulceration, extending
+to the circumferential margin and deep tissue free wall.
+
+10. Pleural left chest:
+- Adenocarcinoma.
+
+Comment: The tumor is positive for CK7, TTF-1, Cam 5.2, cytokeratin
+AE1/AE3, and vimentin; and negative for MA903, CK20, CD31, CD34, CD45,
+CD20, Calretinin, EMA, Melan A, HMB-45, and S-100 protein. These findings
+support the diagnosis of a primary lung adenocarcinoma.
+pTNM: T4 N0 Mx.

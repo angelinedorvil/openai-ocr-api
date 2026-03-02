@@ -1,0 +1,365 @@
+{
+  "pdf": "input_pdfs\\high_quality\\148b70b7-91df-403f-aca4-08846ca2750d\\TCGA-38-6178.C2B33805-C417-4D5B-97FF-EC0D93AFEE8C.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.631290674209595,
+        "chars": 1495,
+        "words": 201,
+        "text": "SURGICAL PATHOLOGY REVISED REPORT  \nCase Number : ██████  \n\nSurgical Pathology Report  \nAddenda Present  \n\nDiagnosis:  \nA: Lymph node, R4, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nB: Lymph node, Station 7, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nC: Lymph node, Station 5, biopsy:  \n- Three of three lymph nodes positive for metastatic malignancy (3/3).  \n\nD: Lung, left upper lobe, biopsy:  \n\nTumor histologic type (WHO): Adenocarcinoma.  \n\nTumor histologic grade (WHO): Moderately differentiated (G2).  \n\nTumor size: 5.5 cm (gross measurement).  \n\nFocality: Unifocal.  \n\nOther structures involved: Visceral pleura and lobar bronchus.  \n\nIn situ carcinoma: Present.  \n\nExtent of invasion:  \nVenous: Present.  \nArterial: Present.  \nLymphatic: Present.  \nPerineural: Focus suspicious for perineural invasion.  \nPleura: Visceral pleural invasion.  \n\nSurgical Margins:  \nPleural: Positive.  \nBronchial: Positive [See comment].  \nVascular: Positive.  \n\nLymph nodes:  \nLobar (part D): Five of six positive (5/6).  \nR4 (part A): Negative (0/1).  \nStation 7 (part B): Negative (0/1).  \nStation 5 (part C): Three of three positive (3/3).  \nStation 9 (part E): Negative (0/1).  \nStation 10 (part F): Two of two positive (2/2).  \nTotal: Ten of fourteen positive (10/14).  \n\nSize of largest metastasis: 1.3 cm (microscopic measurement, D6).  \n\nExtracapsular extension of tumor in lymph nodes: Present.  \n\nFindings in nontumorous lung: No specific pathologic changes.",
+        "confidence": {
+          "mean_probability": 0.995937269380161,
+          "mean_log_probability": -0.005667614318706698,
+          "perplexity": 1.0056837056301586,
+          "min_probability": 0.33979594612329694
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 434,
+          "total_tokens": 2906
+        },
+        "composite_score": 0.9449914612040711,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.631290674209595,
+          "chars": 1495,
+          "words": 201,
+          "text": "SURGICAL PATHOLOGY REVISED REPORT  \nCase Number : ██████  \n\nSurgical Pathology Report  \nAddenda Present  \n\nDiagnosis:  \nA: Lymph node, R4, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nB: Lymph node, Station 7, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nC: Lymph node, Station 5, biopsy:  \n- Three of three lymph nodes positive for metastatic malignancy (3/3).  \n\nD: Lung, left upper lobe, biopsy:  \n\nTumor histologic type (WHO): Adenocarcinoma.  \n\nTumor histologic grade (WHO): Moderately differentiated (G2).  \n\nTumor size: 5.5 cm (gross measurement).  \n\nFocality: Unifocal.  \n\nOther structures involved: Visceral pleura and lobar bronchus.  \n\nIn situ carcinoma: Present.  \n\nExtent of invasion:  \nVenous: Present.  \nArterial: Present.  \nLymphatic: Present.  \nPerineural: Focus suspicious for perineural invasion.  \nPleura: Visceral pleural invasion.  \n\nSurgical Margins:  \nPleural: Positive.  \nBronchial: Positive [See comment].  \nVascular: Positive.  \n\nLymph nodes:  \nLobar (part D): Five of six positive (5/6).  \nR4 (part A): Negative (0/1).  \nStation 7 (part B): Negative (0/1).  \nStation 5 (part C): Three of three positive (3/3).  \nStation 9 (part E): Negative (0/1).  \nStation 10 (part F): Two of two positive (2/2).  \nTotal: Ten of fourteen positive (10/14).  \n\nSize of largest metastasis: 1.3 cm (microscopic measurement, D6).  \n\nExtracapsular extension of tumor in lymph nodes: Present.  \n\nFindings in nontumorous lung: No specific pathologic changes.",
+          "confidence": {
+            "mean_probability": 0.995937269380161,
+            "mean_log_probability": -0.005667614318706698,
+            "perplexity": 1.0056837056301586,
+            "min_probability": 0.33979594612329694
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 434,
+            "total_tokens": 2906
+          },
+          "composite_score": 0.9449914612040711,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.312385320663452,
+          "chars": 1495,
+          "words": 201,
+          "text": "SURGICAL PATHOLOGY REVISED REPORT  \nCase Number : ██████  \n\nSurgical Pathology Report  \nAddenda Present  \n\nDiagnosis:  \nA: Lymph node, R4, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nB: Lymph node, Station 7, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nC: Lymph node, Station 5, biopsy:  \n- Three of three lymph nodes positive for metastatic malignancy (3/3).  \n\nD: Lung, left upper lobe, biopsy:  \n\nTumor histologic type (WHO): Adenocarcinoma.  \n\nTumor histologic grade (WHO): Moderately differentiated (G2).  \n\nTumor size: 5.5 cm (gross measurement).  \n\nFocality: Unifocal.  \n\nOther structures involved: Visceral pleura and lobar bronchus.  \n\nIn situ carcinoma: Present.  \n\nExtent of invasion:  \nVenous: Present.  \nArterial: Present.  \nLymphatic: Present.  \nPerineural: Focus suspicious for perineural invasion.  \nPleura: Visceral pleural invasion.  \n\nSurgical Margins:  \nPleural: Positive.  \nBronchial: Positive [See comment].  \nVascular: Positive.  \n\nLymph nodes:  \nLobar (part D): Five of six positive (5/6).  \nR4 (part A): Negative (0/1).  \nStation 7 (part B): Negative (0/1).  \nStation 5 (part C): Three of three positive (3/3).  \nStation 9 (part E): Negative (0/1).  \nStation 10 (part F): Two of two positive (2/2).  \nTotal: Ten of fourteen positive (10/14).  \n\nSize of largest metastasis: 1.3 cm (microscopic measurement, D6).  \n\nExtracapsular extension of tumor in lymph nodes: Present.  \n\nFindings in nontumorous lung: No specific pathologic changes.",
+          "confidence": {
+            "mean_probability": 0.9958814215845234,
+            "mean_log_probability": -0.0058776420323325635,
+            "perplexity": 1.005894949262215,
+            "min_probability": 0.3041190628927364
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 434,
+            "total_tokens": 2906
+          },
+          "composite_score": 0.8975840941105447
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.347284317016602,
+          "chars": 1497,
+          "words": 201,
+          "text": "SURGICAL PATHOLOGY REVISED REPORT  \nCase Number : ████████  \n\nSurgical Pathology Report  \nAddenda Present  \n\nDiagnosis:  \nA: Lymph node, R4, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nB: Lymph node, Station 7, biopsy:  \n- One lymph node negative for malignancy (0/1).  \n\nC: Lymph node, Station 5, biopsy:  \n- Three of three lymph nodes positive for metastatic malignancy (3/3).  \n\nD: Lung, left upper lobe, biopsy:  \n\nTumor histologic type (WHO): Adenocarcinoma.  \n\nTumor histologic grade (WHO): Moderately differentiated (G2).  \n\nTumor size: 5.5 cm (gross measurement).  \n\nFocality: Unifocal.  \n\nOther structures involved: Visceral pleura and lobar bronchus.  \n\nIn situ carcinoma: Present.  \n\nExtent of invasion:  \nVenous: Present.  \nArterial: Present.  \nLymphatic: Present.  \nPerineural: Focus suspicious for perineural invasion.  \nPleura: Visceral pleural invasion.  \n\nSurgical Margins:  \nPleural: Positive.  \nBronchial: Positive [See comment].  \nVascular: Positive.  \n\nLymph nodes:  \nLobar (part D): Five of six positive (5/6).  \nR4 (part A): Negative (0/1).  \nStation 7 (part B): Negative (0/1).  \nStation 5 (part C): Three of three positive (3/3).  \nStation 9 (part E): Negative (0/1).  \nStation 10 (part F): Two of two positive (2/2).  \nTotal: Ten of fourteen positive (10/14).  \n\nSize of largest metastasis: 1.3 cm (microscopic measurement, D6).  \n\nExtracapsular extension of tumor in lymph nodes: Present.  \n\nFindings in nontumorous lung: No specific pathologic changes.",
+          "confidence": {
+            "mean_probability": 0.9952359213369626,
+            "mean_log_probability": -0.006797064516129031,
+            "perplexity": 1.006820216985698,
+            "min_probability": 0.324753125224394
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 435,
+            "total_tokens": 2907
+          },
+          "composite_score": 0.8970841059853847
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.546858549118042,
+        "chars": 2070,
+        "words": 325,
+        "text": "AJCC PATHOLOGIC TNM STAGE: pT2b pN2 pM N/A\nNOTE: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending clinical review and additional information.\n\nE: Lymph node, Station 9, biopsy:\n- One lymph node negative for malignancy (0/1).\n\nF: Lymph node, Station 10, biopsy\n- Two of two lymph nodes positive for metastatic malignancy (2/2).\n\nComment:\nD) The bronchial margin was called \"negative...one peribronchiolar lymph node positive for metastatic carcinoma\" at the time of frozen section. On permanent sectioning the bronchial margin is positive. On review of the frozen section slides, there is a focal area of atypical cells in a rounded configuration which could correspond to the tumor seen on permanent sectioning, thus the margin is felt to be truly positive.\n\nThese findings were discussed with Dr.\n\nIntraoperative Consult Diagnosis:\nAn intraoperative consultation was requested by Dr\n\nFSA1: Lymph node, R4, biopsy\n- No tumor seen\n\nFSB1: Lymph node, Station 7, biopsy\n- No tumor seen\n\nFSC1: Lymph node, Station 5, biopsy\n- Metastatic non-small cell carcinoma\n\nFSD1: Lung, left upper lobe, lobectomy\n- Bronchial margin negative. One peribronchiolar lymph node positive for metastatic carcinoma.\n\nFrozen Section Pathologist:\n\nClinical History:\nleft lung mass.\n\nGross Description:\nReceived are six appropriately labeled containers.\n\nContainer A is additionally labeled \"R4 lymph node.\" The contents of this container is a 1.0 x 0.5 x 0.3 cm black soft tissue fragment which is completely submitted in block FSA1, NTR.\n\nContainer B is additionally labeled \"Station 7.\" The contents of this container is a 3.2 x 1.1 x 0.4 cm black/tan soft tissue fragment which is entirely submitted in block FSB1, NTR.\n\nContainer C is additionally labeled \"Station 5 lymph node.\" The contents of this container is a 3.5 x 2.0 x 0.6 cm black/tan soft tissue fragment. Lymph node candidates are separated away from fat and submitted in blocks FSC1-FSC3. Only fat remains.\n\nContainer D:\n\nSpecimen fixation: formalin",
+        "confidence": {
+          "mean_probability": 0.997368254657936,
+          "mean_log_probability": -0.0031212055335968383,
+          "perplexity": 1.003126081567303,
+          "min_probability": 0.6149661828027982
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 507,
+          "total_tokens": 2979
+        },
+        "composite_score": 0.997510804862759,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.546858549118042,
+          "chars": 2070,
+          "words": 325,
+          "text": "AJCC PATHOLOGIC TNM STAGE: pT2b pN2 pM N/A\nNOTE: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending clinical review and additional information.\n\nE: Lymph node, Station 9, biopsy:\n- One lymph node negative for malignancy (0/1).\n\nF: Lymph node, Station 10, biopsy\n- Two of two lymph nodes positive for metastatic malignancy (2/2).\n\nComment:\nD) The bronchial margin was called \"negative...one peribronchiolar lymph node positive for metastatic carcinoma\" at the time of frozen section. On permanent sectioning the bronchial margin is positive. On review of the frozen section slides, there is a focal area of atypical cells in a rounded configuration which could correspond to the tumor seen on permanent sectioning, thus the margin is felt to be truly positive.\n\nThese findings were discussed with Dr.\n\nIntraoperative Consult Diagnosis:\nAn intraoperative consultation was requested by Dr\n\nFSA1: Lymph node, R4, biopsy\n- No tumor seen\n\nFSB1: Lymph node, Station 7, biopsy\n- No tumor seen\n\nFSC1: Lymph node, Station 5, biopsy\n- Metastatic non-small cell carcinoma\n\nFSD1: Lung, left upper lobe, lobectomy\n- Bronchial margin negative. One peribronchiolar lymph node positive for metastatic carcinoma.\n\nFrozen Section Pathologist:\n\nClinical History:\nleft lung mass.\n\nGross Description:\nReceived are six appropriately labeled containers.\n\nContainer A is additionally labeled \"R4 lymph node.\" The contents of this container is a 1.0 x 0.5 x 0.3 cm black soft tissue fragment which is completely submitted in block FSA1, NTR.\n\nContainer B is additionally labeled \"Station 7.\" The contents of this container is a 3.2 x 1.1 x 0.4 cm black/tan soft tissue fragment which is entirely submitted in block FSB1, NTR.\n\nContainer C is additionally labeled \"Station 5 lymph node.\" The contents of this container is a 3.5 x 2.0 x 0.6 cm black/tan soft tissue fragment. Lymph node candidates are separated away from fat and submitted in blocks FSC1-FSC3. Only fat remains.\n\nContainer D:\n\nSpecimen fixation: formalin",
+          "confidence": {
+            "mean_probability": 0.997368254657936,
+            "mean_log_probability": -0.0031212055335968383,
+            "perplexity": 1.003126081567303,
+            "min_probability": 0.6149661828027982
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 507,
+            "total_tokens": 2979
+          },
+          "composite_score": 0.997510804862759,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.802544116973877,
+          "chars": 2070,
+          "words": 325,
+          "text": "AJCC PATHOLOGIC TNM STAGE: pT2b pN2 pM N/A\nNOTE: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending clinical review and additional information.\n\nE: Lymph node, Station 9, biopsy:\n- One lymph node negative for malignancy (0/1).\n\nF: Lymph node, Station 10, biopsy\n- Two of two lymph nodes positive for metastatic malignancy (2/2).\n\nComment:\nD) The bronchial margin was called \"negative...one peribronchiolar lymph node positive for metastatic carcinoma\" at the time of frozen section. On permanent sectioning the bronchial margin is positive. On review of the frozen section slides, there is a focal area of atypical cells in a rounded configuration which could correspond to the tumor seen on permanent sectioning, thus the margin is felt to be truly positive.\n\nThese findings were discussed with Dr.\n\nIntraoperative Consult Diagnosis:\nAn intraoperative consultation was requested by Dr\n\nFSA1: Lymph node, R4, biopsy\n- No tumor seen\n\nFSB1: Lymph node, Station 7, biopsy\n- No tumor seen\n\nFSC1: Lymph node, Station 5, biopsy\n- Metastatic non-small cell carcinoma\n\nFSD1: Lung, left upper lobe, lobectomy\n- Bronchial margin negative. One peribronchiolar lymph node positive for metastatic carcinoma.\n\nFrozen Section Pathologist:\n\nClinical History:\nleft lung mass.\n\nGross Description:\nReceived are six appropriately labeled containers.\n\nContainer A is additionally labeled \"R4 lymph node.\" The contents of this container is a 1.0 x 0.5 x 0.3 cm black soft tissue fragment which is completely submitted in block FSA1, NTR.\n\nContainer B is additionally labeled \"Station 7.\" The contents of this container is a 3.2 x 1.1 x 0.4 cm black/tan soft tissue fragment which is entirely submitted in block FSB1, NTR.\n\nContainer C is additionally labeled \"Station 5 lymph node.\" The contents of this container is a 3.5 x 2.0 x 0.6 cm black/tan soft tissue fragment. Lymph node candidates are separated away from fat and submitted in blocks FSC1-FSC3. Only fat remains.\n\nContainer D:\n\nSpecimen fixation: formalin",
+          "confidence": {
+            "mean_probability": 0.9973009967462455,
+            "mean_log_probability": -0.0032072806324110665,
+            "perplexity": 1.0032124294600455,
+            "min_probability": 0.6149631079795713
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 507,
+            "total_tokens": 2979
+          },
+          "composite_score": 0.9475702595787625
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 25.468964338302612,
+          "chars": 2071,
+          "words": 325,
+          "text": "AJCC PATHOLOGIC TNM STAGE: pT2b pN2 pM N/A\nNOTE: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending clinical review and additional information.\n\nE: Lymph node, Station 9, biopsy:\n- One lymph node negative for malignancy (0/1).\n\nF: Lymph node, Station 10, biopsy\n- Two of two lymph nodes positive for metastatic malignancy (2/2).\n\nComment:\nD) The bronchial margin was called \"negative...one peribronchiolar lymph node positive for metastatic carcinoma\" at the time of frozen section. On permanent sectioning the bronchial margin is positive. On review of the frozen section slides, there is a focal area of atypical cells in a rounded configuration which could correspond to the tumor seen on permanent sectioning, thus the margin is felt to be truly positive.\n\nThese findings were discussed with Dr.\n\nIntraoperative Consult Diagnosis:\nAn intraoperative consultation was requested by Dr\n\n\nFSA1: Lymph node, R4, biopsy\n- No tumor seen\n\nFSB1: Lymph node, Station 7, biopsy\n- No tumor seen\n\nFSC1: Lymph node, Station 5, biopsy\n- Metastatic non-small cell carcinoma\n\nFSD1: Lung, left upper lobe, lobectomy\n- Bronchial margin negative. One peribronchiolar lymph node positive for metastatic carcinoma.\n\nFrozen Section Pathologist:\n\nClinical History:\nleft lung mass.\n\nGross Description:\nReceived are six appropriately labeled containers.\n\nContainer A is additionally labeled \"R4 lymph node.\" The contents of this container is a 1.0 x 0.5 x 0.3 cm black soft tissue fragment which is completely submitted in block FSA1, NTR.\n\nContainer B is additionally labeled \"Station 7.\" The contents of this container is a 3.2 x 1.1 x 0.4 cm black/tan soft tissue fragment which is entirely submitted in block FSB1, NTR.\n\nContainer C is additionally labeled \"Station 5 lymph node.\" The contents of this container is a 3.5 x 2.0 x 0.6 cm black/tan soft tissue fragment. Lymph node candidates are separated away from fat and submitted in blocks FSC1-FSC3. Only fat remains.\n\nContainer D:\n\nSpecimen fixation: formalin",
+          "confidence": {
+            "mean_probability": 0.9960677094403237,
+            "mean_log_probability": -0.005158950592885375,
+            "perplexity": 1.0051722808920884,
+            "min_probability": 0.37321635025348926
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 507,
+            "total_tokens": 2979
+          },
+          "composite_score": 0.9460993209598542
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.11306118965149,
+        "chars": 1896,
+        "words": 295,
+        "text": "Type of specimen/parts of lung received: left upper lobe\n\nSize of specimen: 13 x 10.2 x 5.2 cm\n\nWeight of specimen: 250 grams\n\nOther attached structures: none\n\nSpecimen Integrity: intact\n\nLaterality: left\n\nOrientation: The lung parenchyma surrounding and immediately over the tumor is inked blue.\n\nTumor location: located centrally in this specimen\n\nTumor size: 5.5 cm x 2.6 cm x 2.5 cm\n\nTumor description: firm, white with candidate areas of hemorrhage/necrosis\n\nTumor focality: unifocal\n\nRelationship of tumor to bronchus: The bronchus is not grossly involved.\n\nDistance of tumor to bronchial margin: 2.5 cm\n\nRelationship/distance of tumor to pleura: grossly invading the pleura\n\nDistance of tumor to other surgical margins: not applicable\n\nTumor extension: the tumor is directly adjacent to and possibly extending into the parietal pleura\n\nDescription of nontumorous lung: spongy, soft, dark\n\nDigital photograph taken: not taken\n\nTissue submitted for special investigation: none\n\nBlock Summary:\n\nFSD1 - bronchial margin\nD1,D2 - tumor directly adjacent to pleura\nD3 - normal lung\nD4 - three peribronchiolar lymph node candidates\nD5 - one peribronchiolar lymph node candidate\nD6-D8 - one peribronchiolar lymph node candidate, trisected\nD9 - vascular margins\n\nContainer E is additionally labeled \"Station 9 lymph node.\" The contents of this container is one lymph node candidate measuring 2.0 x 0.7 x 0.7 cm. This lymph node candidate is bisected and entirely submitted in block E1, NTR.\n\nContainer F is additionally labeled \"Station 10 lymph node.\" The contents of this container are two lymph node candidates. The first measures 1.9 x 1.0 x 0.6 cm. The second measures 1.0 x 0.8 x 0.6 cm. The first lymph node is bisected and submitted in block F1. The second is bisected and submitted in block F2, NTR.\n\nGrossing Pathologist:\nLight Microscopy:\nLight microscopic examination is performed by Dr.",
+        "confidence": {
+          "mean_probability": 0.9991469605863982,
+          "mean_log_probability": -0.0009471067761806979,
+          "perplexity": 1.0009475554234313,
+          "min_probability": 0.7299998137330049
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 488,
+          "total_tokens": 2960
+        },
+        "composite_score": 0.9888430315090425,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.11306118965149,
+          "chars": 1896,
+          "words": 295,
+          "text": "Type of specimen/parts of lung received: left upper lobe\n\nSize of specimen: 13 x 10.2 x 5.2 cm\n\nWeight of specimen: 250 grams\n\nOther attached structures: none\n\nSpecimen Integrity: intact\n\nLaterality: left\n\nOrientation: The lung parenchyma surrounding and immediately over the tumor is inked blue.\n\nTumor location: located centrally in this specimen\n\nTumor size: 5.5 cm x 2.6 cm x 2.5 cm\n\nTumor description: firm, white with candidate areas of hemorrhage/necrosis\n\nTumor focality: unifocal\n\nRelationship of tumor to bronchus: The bronchus is not grossly involved.\n\nDistance of tumor to bronchial margin: 2.5 cm\n\nRelationship/distance of tumor to pleura: grossly invading the pleura\n\nDistance of tumor to other surgical margins: not applicable\n\nTumor extension: the tumor is directly adjacent to and possibly extending into the parietal pleura\n\nDescription of nontumorous lung: spongy, soft, dark\n\nDigital photograph taken: not taken\n\nTissue submitted for special investigation: none\n\nBlock Summary:\n\nFSD1 - bronchial margin\nD1,D2 - tumor directly adjacent to pleura\nD3 - normal lung\nD4 - three peribronchiolar lymph node candidates\nD5 - one peribronchiolar lymph node candidate\nD6-D8 - one peribronchiolar lymph node candidate, trisected\nD9 - vascular margins\n\nContainer E is additionally labeled \"Station 9 lymph node.\" The contents of this container is one lymph node candidate measuring 2.0 x 0.7 x 0.7 cm. This lymph node candidate is bisected and entirely submitted in block E1, NTR.\n\nContainer F is additionally labeled \"Station 10 lymph node.\" The contents of this container are two lymph node candidates. The first measures 1.9 x 1.0 x 0.6 cm. The second measures 1.0 x 0.8 x 0.6 cm. The first lymph node is bisected and submitted in block F1. The second is bisected and submitted in block F2, NTR.\n\nGrossing Pathologist:\nLight Microscopy:\nLight microscopic examination is performed by Dr.",
+          "confidence": {
+            "mean_probability": 0.9991469605863982,
+            "mean_log_probability": -0.0009471067761806979,
+            "perplexity": 1.0009475554234313,
+            "min_probability": 0.7299998137330049
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 488,
+            "total_tokens": 2960
+          },
+          "composite_score": 0.9888430315090425,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.936720848083496,
+          "chars": 1896,
+          "words": 295,
+          "text": "Type of specimen/parts of lung received: left upper lobe\n\nSize of specimen: 13 x 10.2 x 5.2 cm\n\nWeight of specimen: 250 grams\n\nOther attached structures: none\n\nSpecimen Integrity: intact\n\nLaterality: left\n\nOrientation: The lung parenchyma surrounding and immediately over the tumor is inked blue.\n\nTumor location: located centrally in this specimen\n\nTumor size: 5.5 cm x 2.6 cm x 2.5 cm\n\nTumor description: firm, white with candidate areas of hemorrhage/necrosis\n\nTumor focality: unifocal\n\nRelationship of tumor to bronchus: The bronchus is not grossly involved.\n\nDistance of tumor to bronchial margin: 2.5 cm\n\nRelationship/distance of tumor to pleura: grossly invading the pleura\n\nDistance of tumor to other surgical margins: not applicable\n\nTumor extension: the tumor is directly adjacent to and possibly extending into the parietal pleura\n\nDescription of nontumorous lung: spongy, soft, dark\n\nDigital photograph taken: not taken\n\nTissue submitted for special investigation: none\n\nBlock Summary:\n\nFSD1 - bronchial margin\nD1,D2 - tumor directly adjacent to pleura\nD3 - normal lung\nD4 - three peribronchiolar lymph node candidates\nD5 - one peribronchiolar lymph node candidate\nD6-D8 - one peribronchiolar lymph node candidate, trisected\nD9 - vascular margins\n\nContainer E is additionally labeled \"Station 9 lymph node.\" The contents of this container is one lymph node candidate measuring 2.0 x 0.7 x 0.7 cm. This lymph node candidate is bisected and entirely submitted in block E1, NTR.\n\nContainer F is additionally labeled \"Station 10 lymph node.\" The contents of this container are two lymph node candidates. The first measures 1.9 x 1.0 x 0.6 cm. The second measures 1.0 x 0.8 x 0.6 cm. The first lymph node is bisected and submitted in block F1. The second is bisected and submitted in block F2, NTR.\n\nGrossing Pathologist:\nLight Microscopy:\nLight microscopic examination is performed by Dr.",
+          "confidence": {
+            "mean_probability": 0.999251599425481,
+            "mean_log_probability": -0.0008243572895277208,
+            "perplexity": 1.0008246971653847,
+            "min_probability": 0.7537941189877345
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 488,
+            "total_tokens": 2960
+          },
+          "composite_score": 0.9394940045039094
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.134186506271362,
+          "chars": 1896,
+          "words": 295,
+          "text": "Type of specimen/parts of lung received: left upper lobe\n\nSize of specimen: 13 x 10.2 x 5.2 cm\n\nWeight of specimen: 250 grams\n\nOther attached structures: none\n\nSpecimen Integrity: intact\n\nLaterality: left\n\nOrientation: The lung parenchyma surrounding and immediately over the tumor is inked blue.\n\nTumor location: located centrally in this specimen\n\nTumor size: 5.5 cm x 2.6 cm x 2.5 cm\n\nTumor description: firm, white with candidate areas of hemorrhage/necrosis\n\nTumor focality: unifocal\n\nRelationship of tumor to bronchus: The bronchus is not grossly involved.\n\nDistance of tumor to bronchial margin: 2.5 cm\n\nRelationship/distance of tumor to pleura: grossly invading the pleura\n\nDistance of tumor to other surgical margins: not applicable\n\nTumor extension: the tumor is directly adjacent to and possibly extending into the parietal pleura\n\nDescription of nontumorous lung: spongy, soft, dark\n\nDigital photograph taken: not taken\n\nTissue submitted for special investigation: none\n\nBlock Summary:\n\nFSD1 - bronchial margin\nD1,D2 - tumor directly adjacent to pleura\nD3 - normal lung\nD4 - three peribronchiolar lymph node candidates\nD5 - one peribronchiolar lymph node candidate\nD6-D8 - one peribronchiolar lymph node candidate, trisected\nD9 - vascular margins\n\nContainer E is additionally labeled \"Station 9 lymph node.\" The contents of this container is one lymph node candidate measuring 2.0 x 0.7 x 0.7 cm. This lymph node candidate is bisected and entirely submitted in block E1, NTR.\n\nContainer F is additionally labeled \"Station 10 lymph node.\" The contents of this container are two lymph node candidates. The first measures 1.9 x 1.0 x 0.6 cm. The second measures 1.0 x 0.8 x 0.6 cm. The first lymph node is bisected and submitted in block F1. The second is bisected and submitted in block F2, NTR.\n\nGrossing Pathologist:\nLight Microscopy:\nLight microscopic examination is performed by Dr.",
+          "confidence": {
+            "mean_probability": 0.9995785398633003,
+            "mean_log_probability": -0.0004280533880903491,
+            "perplexity": 1.0004281450160153,
+            "min_probability": 0.9315308228580151
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 488,
+            "total_tokens": 2960
+          },
+          "composite_score": 0.9397948186200428
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 18.685333251953125,
+        "chars": 389,
+        "words": 51,
+        "text": "Signature\nResident Physician\nAttending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above diagnosis(es).\n\nElectronically Signed by:\n\nProcedures/Addenda:\nAddendum\nCytogenetic studies for ALK gene rearrangements and molecular studies for EGFR and KRAS mutations have been requested.\nPlease see these reports (as indicated) for results.",
+        "confidence": {
+          "mean_probability": 0.9950588094197134,
+          "mean_log_probability": -0.005306766233766234,
+          "perplexity": 1.005320872058763,
+          "min_probability": 0.8241291713593571
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 78,
+          "total_tokens": 2550
+        },
+        "composite_score": 0.8346769975000589,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 18.685333251953125,
+          "chars": 389,
+          "words": 51,
+          "text": "Signature\nResident Physician\nAttending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above diagnosis(es).\n\nElectronically Signed by:\n\nProcedures/Addenda:\nAddendum\nCytogenetic studies for ALK gene rearrangements and molecular studies for EGFR and KRAS mutations have been requested.\nPlease see these reports (as indicated) for results.",
+          "confidence": {
+            "mean_probability": 0.9950588094197134,
+            "mean_log_probability": -0.005306766233766234,
+            "perplexity": 1.005320872058763,
+            "min_probability": 0.8241291713593571
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 78,
+            "total_tokens": 2550
+          },
+          "composite_score": 0.8346769975000589,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.4718077182769775,
+          "chars": 389,
+          "words": 51,
+          "text": "Signature\nResident Physician\nAttending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above diagnosis(es).\n\nElectronically Signed by:\n\nProcedures/Addenda:\nAddendum\nCytogenetic studies for ALK gene rearrangements and molecular studies for EGFR and KRAS mutations have been requested.\nPlease see these reports (as indicated) for results.",
+          "confidence": {
+            "mean_probability": 0.9944808113828106,
+            "mean_log_probability": -0.006007012987012987,
+            "perplexity": 1.0060250912702255,
+            "min_probability": 0.7772952606188857
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 78,
+            "total_tokens": 2550
+          },
+          "composite_score": 0.7924169303730552
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.8722434043884277,
+          "chars": 389,
+          "words": 51,
+          "text": "Signature\nResident Physician\nAttending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above diagnosis(es).\n\nElectronically Signed by:\n\nProcedures/Addenda:\nAddendum\nCytogenetic studies for ALK gene rearrangements and molecular studies for EGFR and KRAS mutations have been requested.\nPlease see these reports (as indicated) for results.",
+          "confidence": {
+            "mean_probability": 0.9944701992256859,
+            "mean_log_probability": -0.005909493506493507,
+            "perplexity": 1.0059269890094538,
+            "min_probability": 0.8354798905479671
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 78,
+            "total_tokens": 2550
+          },
+          "composite_score": 0.7924901698200212
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

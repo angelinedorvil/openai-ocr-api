@@ -1,0 +1,281 @@
+{
+  "pdf": "input_pdfs\\high_quality\\18fc06e4-776c-4679-a754-eecead797f56\\TCGA-18-3406.A0EEF850-7543-4F82-8E46-3D81E203412D.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.200834274291992,
+        "chars": 1644,
+        "words": 184,
+        "text": "```\n                                                                                      TCGA-18-3406\n\n                                                                                      Copath #:\n                                                                                      Collected:\n                                                                                      Resulted:\n\nSurgical Pathology Consultation Report\n\n\nSPECIMEN(S) RECEIVED\n1. Soft-Tissue: tissue near aorta / QS\n2. LUNG: BIOPSY LEFT UPPER LOBE / QS\n3. Lymph node: A-P WINDOW NODE\n4. LUNG: NODULE ON PLEURA NEAR AORTA / QS\n5. LUNG: COMPLETION LT PNEUMONECTOMY\n\n\nDIAGNOSIS\n1. Tissue near aorta - Fibrous connective tissue: No neoplasia\n\n2. Biopsy, left upper lobe bronchus - Fragments of squamous cell\n   carcinoma with no associated stroma\n                                                therefore precluding assessment of invasion\n\n3. AP window lymph node - Negative for malignancy\n\n4. Nodule on pleura near aorta - Lymph node within connective tissue - No neoplasia\n\n5. Completion left pneumonectomy\n   a) Invasive well-differentiated squamous cell carcinoma, 2.0 cm maximum\n      dimension, peripheral with no invasion into pleura\n   b) Bronchial margin of resection - Negative for malignancy\n   c) Two interlobar and one segmental lymph node - Negative for malignancy.\n\n\nCOMMENT\nExaminationof this material indicates apparent complete resection of a\nT1N0 squamous sell carcinoma. This appears to be metachronous to a tumor\nat the patient had undergone a lower lobectomy for in .\n\n\nStatus: complete                                             Page: 1 of 3\n```",
+        "confidence": {
+          "mean_probability": 0.9585282704693114,
+          "mean_log_probability": -0.07341600574712644,
+          "perplexity": 1.0761781400967123,
+          "min_probability": 0.038552859705465084
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 349,
+          "total_tokens": 2821
+        },
+        "composite_score": 0.6367789471013382,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0386 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0386 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.200834274291992,
+          "chars": 1644,
+          "words": 184,
+          "text": "```\n                                                                                      TCGA-18-3406\n\n                                                                                      Copath #:\n                                                                                      Collected:\n                                                                                      Resulted:\n\nSurgical Pathology Consultation Report\n\n\nSPECIMEN(S) RECEIVED\n1. Soft-Tissue: tissue near aorta / QS\n2. LUNG: BIOPSY LEFT UPPER LOBE / QS\n3. Lymph node: A-P WINDOW NODE\n4. LUNG: NODULE ON PLEURA NEAR AORTA / QS\n5. LUNG: COMPLETION LT PNEUMONECTOMY\n\n\nDIAGNOSIS\n1. Tissue near aorta - Fibrous connective tissue: No neoplasia\n\n2. Biopsy, left upper lobe bronchus - Fragments of squamous cell\n   carcinoma with no associated stroma\n                                                therefore precluding assessment of invasion\n\n3. AP window lymph node - Negative for malignancy\n\n4. Nodule on pleura near aorta - Lymph node within connective tissue - No neoplasia\n\n5. Completion left pneumonectomy\n   a) Invasive well-differentiated squamous cell carcinoma, 2.0 cm maximum\n      dimension, peripheral with no invasion into pleura\n   b) Bronchial margin of resection - Negative for malignancy\n   c) Two interlobar and one segmental lymph node - Negative for malignancy.\n\n\nCOMMENT\nExaminationof this material indicates apparent complete resection of a\nT1N0 squamous sell carcinoma. This appears to be metachronous to a tumor\nat the patient had undergone a lower lobectomy for in .\n\n\nStatus: complete                                             Page: 1 of 3\n```",
+          "confidence": {
+            "mean_probability": 0.9585282704693114,
+            "mean_log_probability": -0.07341600574712644,
+            "perplexity": 1.0761781400967123,
+            "min_probability": 0.038552859705465084
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 349,
+            "total_tokens": 2821
+          },
+          "composite_score": 0.6367789471013382,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0386 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0386 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.078667879104614,
+          "chars": 1658,
+          "words": 184,
+          "text": "```\n                                                                                      TCGA-18-3406\n\n\n                                                                                      Copath #:\n                                                                                      Collected:\n                                                                                      Resulted:\n\n\nSurgical Pathology Consultation  Report\n\n\nSPECIMEN(S) RECEIVED\n1. Soft-Tissue: tissue near aorta / QS\n2. LUNG: BIOPSY LEFT UPPER LOBE / QS\n3. Lymph node: A-P WINDOW NODE\n4. LUNG: NODULE ON PLEURA NEAR AORTA / QS\n5. LUNG: COMPLETION LT PNEUMONECTOMY\n\n\nDIAGNOSIS\n1. Tissue near aorta - Fibrous connective tissue: No neoplasia\n\n2. Biopsy, left upper lobe bronchus - Fragments of squamous cell\n   carcinoma with no associated stroma\n                                                therefore precluding assessment of invasion\n\n3. AP window lymph node - Negative for malignancy\n\n4. Nodule on pleura near aorta - Lymph node within connective tissue - No neoplasia\n\n5. Completion left pneumonectomy\n   a) Invasive well-differentiated squamous cell carcinoma, 2.0 cm maximum\n       dimension, peripheral with no invasion into pleura\n   b) Bronchial margin of resection - Negative for malignancy\n   c) Two interlobar and one segmental lymph node - Negative for malignancy.\n\n\nCOMMENT\nExaminationof this material indicates apparent complete resection of a\nT1N0 squamous sell carcinoma. This appears to be metachronous to a tumor\nat the patient had undergone a lower lobectomy for in .\n\n\nStatus: complete                                                      Page: 1 of  3\n```",
+          "confidence": {
+            "mean_probability": 0.9540943544168038,
+            "mean_log_probability": -0.08280532857142857,
+            "perplexity": 1.086330310489148,
+            "min_probability": 0.0371500188654572
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 351,
+            "total_tokens": 2823
+          },
+          "composite_score": 0.6015733852840293
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.026679277420044,
+          "chars": 1700,
+          "words": 184,
+          "text": "```\n                                                                                         TCGA-18-3406\n\n                                                                                         Copath #:\n                                                                                         Collected:\n                                                                                         Resulted:\n\nSurgical Pathology Consultation  Report\n\n\nSPECIMEN(S) RECEIVED\n1. Soft-Tissue: tissue near aorta / QS\n2. LUNG: BIOPSY LEFT UPPER LOBE / QS\n3. Lymph node: A-P WINDOW NODE\n4. LUNG: NODULE ON PLEURA NEAR AORTA / QS\n5. LUNG: COMPLETION LT PNEUMONECTOMY\n\n\nDIAGNOSIS\n1. Tissue near aorta - Fibrous connective tissue: No neoplasia\n\n2. Biopsy, left upper lobe bronchus - Fragments of squamous cell\n   carcinoma with no associated stroma\n                                                      therefore\n   precluding assessment of invasion\n\n3. AP window lymph node - Negative for malignancy\n\n4. Nodule on pleura near aorta - Lymph node within connective tissue - No\n   neoplasia\n\n5. Completion left pneumonectomy\n   a) Invasive well-differentiated squamous cell carcinoma, 2.0 cm\n      maximum\n                  dimension, peripheral with no invasion into pleura\n   b) Bronchial margin of resection - Negative for malignancy\n   c) Two interlobar and one segmental lymph node - Negative for\n      malignancy.\n\n\nCOMMENT\nExaminationof this material indicates apparent complete resection of a\nT1N0 squamous sell carcinoma. This appears to be metachronous to a tumor\n  at the patient had undergone a lower lobectomy for in .\n\nStatus: complete                                                 Page:  1 of  3\n```",
+          "confidence": {
+            "mean_probability": 0.9570500122923995,
+            "mean_log_probability": -0.08256690277777777,
+            "perplexity": 1.086071332197482,
+            "min_probability": 0.023975878896757216
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 361,
+            "total_tokens": 2833
+          },
+          "composite_score": 0.6044745933761061
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.835835218429565,
+        "chars": 1842,
+        "words": 305,
+        "text": "Sure, here is the extracted text from the image:\n\n```\nCLINICAL HISTORY\nCancer. lung\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"tissue\nnear aorta q.s\", contains a single piece of tissue measuring 0.8 x 0.3 x\n1 cm received fresh. This was examined at intraoperative consultation\nfrozen section performed on the entire specimen.\n1A frozen section embedded in toto resubmitted\n\n2. The specimen container labeled with the patient' s name and as \"biopsy\nleft upper lobe q.s\", contains multiple tiny tan pieces of tissue\nmeasuring collectively 0.2 x 0.2 x 0.1 cm received fresh. This was\nexamined at intraoperative consultation by frozen section performed on\nthe entire specimen.\n2A frozen section embedded in toto resubmitted\n\n3. The specimen container labeled with the patient' s name and as \"AP\nwindow node\", contains five pieces of yellowish black tissue measuring\nfrom 0.3 x 0.2 x 0.1 cm up to 2.0 x 0.8 x 0.4 cm. received in 10%\nbuffered formalin.\n3A submitted in toto.\n\n4. The specimen container labeled with the patient' s name and as \"nodule\non pleura near aorta q.s.\", contains a piece of pink-tan tissue measuring\n1.5 x 1.5 x 0.2 cm received fresh. This was examined at intraoperative\nconsultation by frozen section performed on the entire specimen.\n4A embedded in toto resubmitted\n\n5. The specimen container labeled with the patient' s name and as\n\"completion left pneumonectomy\", contains a greyish-tan predominantly\nleft upper lobe of the lung measuring 21.0 x 15.5 x 11.0 cm received in\n10% buffered formalin. There are pleural adhesions noted with organized\nfibrinous exudate on most portion of the lung tissue and there is a torn\neura associated by the lower aspect of the specimen. On sectioning\nlere is peripheral tumor associated with fibrous adhesion\n\nStatus: complete Page: 2 of 3\n```",
+        "confidence": {
+          "mean_probability": 0.9857896061206475,
+          "mean_log_probability": -0.02134475789473684,
+          "perplexity": 1.0215741866992936,
+          "min_probability": 0.17219426359496984
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 476,
+          "total_tokens": 2948
+        },
+        "composite_score": 0.967481055506676,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.835835218429565,
+          "chars": 1842,
+          "words": 305,
+          "text": "Sure, here is the extracted text from the image:\n\n```\nCLINICAL HISTORY\nCancer. lung\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"tissue\nnear aorta q.s\", contains a single piece of tissue measuring 0.8 x 0.3 x\n1 cm received fresh. This was examined at intraoperative consultation\nfrozen section performed on the entire specimen.\n1A frozen section embedded in toto resubmitted\n\n2. The specimen container labeled with the patient' s name and as \"biopsy\nleft upper lobe q.s\", contains multiple tiny tan pieces of tissue\nmeasuring collectively 0.2 x 0.2 x 0.1 cm received fresh. This was\nexamined at intraoperative consultation by frozen section performed on\nthe entire specimen.\n2A frozen section embedded in toto resubmitted\n\n3. The specimen container labeled with the patient' s name and as \"AP\nwindow node\", contains five pieces of yellowish black tissue measuring\nfrom 0.3 x 0.2 x 0.1 cm up to 2.0 x 0.8 x 0.4 cm. received in 10%\nbuffered formalin.\n3A submitted in toto.\n\n4. The specimen container labeled with the patient' s name and as \"nodule\non pleura near aorta q.s.\", contains a piece of pink-tan tissue measuring\n1.5 x 1.5 x 0.2 cm received fresh. This was examined at intraoperative\nconsultation by frozen section performed on the entire specimen.\n4A embedded in toto resubmitted\n\n5. The specimen container labeled with the patient' s name and as\n\"completion left pneumonectomy\", contains a greyish-tan predominantly\nleft upper lobe of the lung measuring 21.0 x 15.5 x 11.0 cm received in\n10% buffered formalin. There are pleural adhesions noted with organized\nfibrinous exudate on most portion of the lung tissue and there is a torn\neura associated by the lower aspect of the specimen. On sectioning\nlere is peripheral tumor associated with fibrous adhesion\n\nStatus: complete Page: 2 of 3\n```",
+          "confidence": {
+            "mean_probability": 0.9857896061206475,
+            "mean_log_probability": -0.02134475789473684,
+            "perplexity": 1.0215741866992936,
+            "min_probability": 0.17219426359496984
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 476,
+            "total_tokens": 2948
+          },
+          "composite_score": 0.967481055506676,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.581009149551392,
+          "chars": 1895,
+          "words": 304,
+          "text": "[Redacted]\n[Redacted]\n[Redacted]\n\n[Redacted]copath #:\nCollected: [Redacted]\nResulted: [Redacted]\n\n[Redacted]\n\nCLINICAL HISTORY\nCancer. lung\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"tissue\nnear aorta q.s\", contains a single piece of tissue measuring 0.8 x 0.3 x\n1 cm received fresh. This was examined at intraoperative consultation\nfrozen section performed on the entire specimen.\n1A frozen section embedded in toto resubmitted\n\n2. The specimen container labeled with the patient' s name and as \"biopsy\nleft upper lobe q.s\", contains multiple tiny tan pieces of tissue\nmeasuring collectively 0.2 x 0.2 x 0.1 cm received fresh. This was\nexamined at intraoperative consultation by frozen section performed on\nthe entire specimen.\n2A frozen section embedded in toto resubmitted\n\n3. The specimen container labeled with the patient' s name and as \"AP\nwindow node\", contains five pieces of yellowish black tissue measuring\nfrom 0.3 x 0.2 x 0.1 cm up to 2.0 x 0.8 x 0.4 cm. received in 10%\nbuffered formalin.\n3A submitted in toto.\n\n4. The specimen container labeled with the patient' s name and as \"nodule\non pleura near aorta q.s.\", contains a piece of pink-tan tissue measuring\n1.5 x 1.5 x 0.2 cm received fresh. This was examined at intraoperative\nconsultation by frozen section performed on the entire specimen.\n4A embedded in toto resubmitted\n\n5. The specimen container labeled with the patient' s name and as\n\"completion left pneumonectomy\", contains a greyish-tan predominantly\nleft upper lobe of the lung measuring 21.0 x 15.5 x 11.0 cm received in\n10% buffered formalin. There are pleural adhesions noted with organized\nfibrinous exudate on most portion of the lung tissue and there is a torn\neura associated by the lower aspect of the specimen. On sectioning\nthere is peripheral tumor associated with fibrous adhesion\n\nStatus: complete Page: 2 of 3",
+          "confidence": {
+            "mean_probability": 0.9791932592149916,
+            "mean_log_probability": -0.030118875251509056,
+            "perplexity": 1.0305770367765419,
+            "min_probability": 0.1390239581378344
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 498,
+            "total_tokens": 2970
+          },
+          "composite_score": 0.9178039284896289
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.450877904891968,
+          "chars": 1918,
+          "words": 303,
+          "text": "[Redacted]\n[Redacted]\n[Redacted]\n\n[Redacted]  Copath #:\n[Redacted]  Collected: [Redacted]\n[Redacted]  Resulted: [Redacted]\n\n[Redacted]\n\nCLINICAL HISTORY\nCancer, lung\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient's name and as \"tissue near aorta q.s\", contains a single piece of tissue measuring 0.8 x 0.3 x 1 cm received fresh. This was examined at intraoperative consultation - frozen section performed on the entire specimen.\n1A frozen section embedded in toto resubmitted\n\n2. The specimen container labeled with the patient's name and as \"biopsy left upper lobe q.s\", contains multiple tiny tan pieces of tissue measuring collectively 0.2 x 0.2 x 0.1 cm received fresh. This was examined at intraoperative consultation by frozen section performed on the entire specimen.\n2A frozen section embedded in toto resubmitted\n\n3. The specimen container labeled with the patient's name and as \"AP window node\", contains five pieces of yellowish black tissue measuring from 0.3 x 0.2 x 0.1 cm up to 2.0 x 0.8 x 0.4 cm. received in 10% buffered formalin.\n3A submitted in toto.\n\n4. The specimen container labeled with the patient's name and as \"nodule on pleura near aorta q.s.\", contains a piece of pink-tan tissue measuring 1.5 x 1.5 x 0.2 cm received fresh. This was examined at intraoperative consultation by frozen section performed on the entire specimen.\n4A embedded in toto resubmitted\n\n5. The specimen container labeled with the patient's name and as \"completion left pneumonectomy\", contains a greyish-tan predominantly left upper lobe of the lung measuring 21.0 x 15.5 x 11.0 cm received in 10% buffered formalin. There are pleural adhesions noted with organized fibrinous exudate on most portion of the lung tissue and there is a torn eura associated by the lower aspect of the specimen. On sectioning there is peripheral tumor associated with fibrous adhesion\n\nStatus: complete Page: 2 of 3",
+          "confidence": {
+            "mean_probability": 0.9756817028620062,
+            "mean_log_probability": -0.03772757411273486,
+            "perplexity": 1.0384482941424187,
+            "min_probability": 0.06266156610965516
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 480,
+            "total_tokens": 2952
+          },
+          "composite_score": 0.9145794763048057
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.134199857711792,
+        "chars": 925,
+        "words": 136,
+        "text": "[Redacted]\n[Redacted]\n[Redacted]\n\nlocated posterior aspect at the level of the main stem bronchus. The tumor is well circumscribed yellowish-tan firm measuring 2.0 cm in maximum dimension. On further sectioning the remainder of the lung tissue appears to be grossly unremarkable. One interlobar lobe is bisected and multiple segmental nodes measuring from 0.8 cm in maximum dimension. Representative sections are submitted as follows:\n5A bronchial resection margin\n5B one interlobar node\n5C four segmental nodes\n5D -5F representative section of the tumor\n5G--6I representative section of apparently normal lung parenchyma\n\npiece of tumoral tissue and piece of alveolar tissue and pieces of bronchial mucosa tissue are taken for tissue frozen.\n? submitted in toto.\n\n[Redacted]\nQUICK SECTION\n1A \"Fibrovascular negative for carcinoma\"\n4A \"Fibrous tissue and focal chronic inflammation\"\n\n[Redacted]\n\nStatus: complete Page: 3 of 3",
+        "confidence": {
+          "mean_probability": 0.966203481571428,
+          "mean_log_probability": -0.04946535746606335,
+          "perplexity": 1.0507091923554825,
+          "min_probability": 0.11304944382455288
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 222,
+          "total_tokens": 2694
+        },
+        "composite_score": 0.8547929087736655,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.134199857711792,
+          "chars": 925,
+          "words": 136,
+          "text": "[Redacted]\n[Redacted]\n[Redacted]\n\nlocated posterior aspect at the level of the main stem bronchus. The tumor is well circumscribed yellowish-tan firm measuring 2.0 cm in maximum dimension. On further sectioning the remainder of the lung tissue appears to be grossly unremarkable. One interlobar lobe is bisected and multiple segmental nodes measuring from 0.8 cm in maximum dimension. Representative sections are submitted as follows:\n5A bronchial resection margin\n5B one interlobar node\n5C four segmental nodes\n5D -5F representative section of the tumor\n5G--6I representative section of apparently normal lung parenchyma\n\npiece of tumoral tissue and piece of alveolar tissue and pieces of bronchial mucosa tissue are taken for tissue frozen.\n? submitted in toto.\n\n[Redacted]\nQUICK SECTION\n1A \"Fibrovascular negative for carcinoma\"\n4A \"Fibrous tissue and focal chronic inflammation\"\n\n[Redacted]\n\nStatus: complete Page: 3 of 3",
+          "confidence": {
+            "mean_probability": 0.966203481571428,
+            "mean_log_probability": -0.04946535746606335,
+            "perplexity": 1.0507091923554825,
+            "min_probability": 0.11304944382455288
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 222,
+            "total_tokens": 2694
+          },
+          "composite_score": 0.8547929087736655,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.510995864868164,
+          "chars": 927,
+          "words": 136,
+          "text": "[Redacted]\n\n[Redacted]\n\n[Redacted]\n\nlocated posterior aspect at the level of the main stem bronchus. The tumor is well circumscribed yellowish-tan firm measuring 2.0 cm in maximum dimension. On further sectioning the remainder of the lung tissue appears to be grossly unremarkable. One interlobar lobe is bisected and multiple segmental nodes measuring from 0.8 cm in maximum dimension. Representative sections are submitted as follows:\n5A bronchial resection margin\n5B one interlobar node\n5C four segmental nodes\n5D -5F representative section of the tumor\n5G--6I representative section of apparently normal lung parenchyma\n\npiece of tumoral tissue and piece of alveolar tissue and pieces of bronchial mucosa tissue are taken for tissue frozen.\n? submitted in toto.\n\n[Redacted]\nQUICK SECTION\n1A \"Fibrovascular negative for carcinoma\"\n4A \"Fibrous tissue and focal chronic inflammation\"\n\n[Redacted]\n\nStatus: complete Page: 3 of 3",
+          "confidence": {
+            "mean_probability": 0.9677646987848015,
+            "mean_log_probability": -0.04651711764705881,
+            "perplexity": 1.0476160116361921,
+            "min_probability": 0.12137771304930883
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 222,
+            "total_tokens": 2694
+          },
+          "composite_score": 0.8142834126607973
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.233346462249756,
+          "chars": 927,
+          "words": 136,
+          "text": "[Redacted]\n\n[Redacted]\n\n[Redacted]\n\nlocated posterior aspect at the level of the main stem bronchus. The tumor is well circumscribed yellowish-tan firm measuring 2.0 cm in maximum dimension. On further sectioning the remainder of the lung tissue appears to be grossly unremarkable. One interlobar lobe is bisected and multiple segmental nodes measuring from 0.8 cm in maximum dimension. Representative sections are submitted as follows:\n5A bronchial resection margin\n5B one interlobar node\n5C four segmental nodes\n5D -5F representative section of the tumor\n5G--6I representative section of apparently normal lung parenchyma\n\npiece of tumoral tissue and piece of alveolar tissue and pieces of bronchial mucosa tissue are taken for tissue frozen.\n? submitted in toto.\n\n[Redacted]\nQUICK SECTION\n1A \"Fibrovascular negative for carcinoma\"\n4A \"Fibrous tissue and focal chronic inflammation\"\n\n[Redacted]\n\nStatus: complete Page: 3 of 3",
+          "confidence": {
+            "mean_probability": 0.9674595181620059,
+            "mean_log_probability": -0.04695385972850678,
+            "perplexity": 1.048073649561268,
+            "min_probability": 0.1054654360631245
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 222,
+            "total_tokens": 2694
+          },
+          "composite_score": 0.8139804669882788
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

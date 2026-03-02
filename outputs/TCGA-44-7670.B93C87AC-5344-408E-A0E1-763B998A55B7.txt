@@ -1,0 +1,183 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\08128e5e-f4ec-4f3e-a69d-45d6bc3bbe3f\TCGA-44-7670.B93C87AC-5344-408E-A0E1-763B998A55B7.PDF
+Processing Date: 2026-03-02 10:35:07
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE
+
+
+SURGICAL PATHOLOGY REPORT
+
+SPECIMEN
+
+      A. Left upper lobe mass
+
+      B. Level 5
+
+      C. Level 11
+
+      D. Level 9
+
+      E. Level 7
+
+      F. Level 10
+
+CLINICAL NOTES
+
+      PRE-OP DIAGNOSIS: Lung mass.
+
+
+FROZEN SECTION DIAGNOSIS
+
+      FSA) Left upper lobe - Poorly differentiated non-small cell
+
+      carcinoma.
+
+================================================================================
+PAGE 2
+================================================================================
+GROSS DESCRIPTION
+
+        A.  Submitted fresh for frozen section labeled "left upper
+lobe" is an intact lobe of lung tissue measuring 17 x 16 x
+6-8 cm. in thickness.  It has been amputated at the level of its
+main bronchi which are grossly unremarkable.  Several anthracotic
+lymph nodes are present around that margin as well as lines of
+staples.  There are several blebs of tissue present along one
+pleural surface as well as a firm nodule on the pleura measuring 1
+cm. in size approximately 5 cm. from the bronchial stump. Serial
+sections are then placed in the lobe and this reveals the presence
+of a second mass, this is a spiculated tumor nodule which measures
+maximally 2.5 cm. across, it has a granular tan and black cut
+surface with anthracotic pigment within it.  It is puckered and
+folds the surrounding red brown lung parenchyma towards it.  It is
+below the pleural surface by approximately 1 cm.  Representative
+portion of that tumor nodule is submitted for frozen section and
+tissue procurement as per request of ████████  Sections through
+the remainder of the lung revealed no additional nodules other than
+the two mentioned.  Sections after fixation. █████
+
+        B.  Received fresh, subsequently fixed in formalin labeled
+"level 5" are multiple black red irregular soft tissue
+fragments which have an aggregate measurement of 1.5 x 1.5 x 0.4 cm.
+
+================================================================================
+PAGE 3
+================================================================================
+██████
+██████
+██████
+
+The specimens are entirely submitted in one cassette. ████
+
+C.  Received fresh, subsequently fixed in formalin labeled
+     "level 11" is a 0.6 x 0.3 x 0.3 cm. red irregular soft
+tissue fragment which is entirely submitted in one cassette. ████
+
+D.  Received fresh, subsequently fixed in formalin labeled
+     "level 9" is a 1.7 x 0.7 x 0.3 cm. gray red irregular soft
+tissue which is entirely submitted in one cassette. ████
+
+E.  Received fresh, subsequently fixed in formalin labeled
+     "level 7" is a 1.2 x 0.6 x 0.3 cm. gray red irregular soft
+tissue fragment. ████
+
+F.  Received fresh, subsequently fixed in formalin labeled
+     "level 10" is a 1.5 x 0.8 x 0.3 cm. pink red irregular soft
+tissue fragment which is entirely submitted in one cassette. ████
+
+██████
+██████
+
+MICROSCOPIC DESCRIPTION
+
+     Histologic type:  Adenocarcinoma.
+
+     Histologic grade:  Moderate to poorly differentiated.
+
+     Primary tumor (pT):  The tumor measures maximally 2.5 cm and is
+confined to
+
+          the lung without involvement of the visceral pleura (pT1b).
+
+     Margins of resection:  Negative.
+
+================================================================================
+PAGE 4
+================================================================================
+███████
+███████
+███████
+
+Direct extension of tumor:  Absent.
+
+        Venous (large vessel) invasion:  Negative.
+
+        Arterial (large vessel) invasion:  Negative.
+
+        Lymphatic (small vessel) invasion:  Negative.
+
+        Regional lymph nodes (pN):  One of seven peribronchial lymph nodes
+
+                contains metastatic carcinoma.  All sampled mediastinal nodes are
+
+                negative (pN1).
+
+Distant metastasis (pM):  pMX.
+
+Other findings:  Subpleural fibrosis and focal emphysematous
+
+changes.
+
+███████
+
+DIAGNOSIS
+
+        A.  Lung, left upper lobectomy:
+
+                Invasive moderate to poorly-differentiated adenocarcinoma.
+
+                Tumor is confined to the lung without involvement of
+
+                the visceral pleural surface.
+
+                Bronchial margin of resection is free of tumor.
+
+                One of seven peribronchial lymph nodes contains metastatic
+
+                        adenocarcinoma.(1/7)
+
+        B.  Lymph node, level 5, resection:
+
+                Negative for malignancy.
+
+================================================================================
+PAGE 5
+================================================================================
+C.  Lymph node, level 11, resection:
+
+      No lymph node tissue is present; negative for malignancy.
+
+D.  Lymph node, level 9, resection:
+
+      Negative for malignancy.
+
+E.  Lymph node, level 7, resection:
+
+      Negative for malignancy.
+
+F.  Lymph node, level 10, resection:
+
+      Negative for malignancy.
+
+----------------------------
+
+Electronic Signature)
+
+--- End Of Report ---

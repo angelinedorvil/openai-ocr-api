@@ -1,0 +1,127 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\18fc06e4-776c-4679-a754-eecead797f56\TCGA-18-3406.A0EEF850-7543-4F82-8E46-3D81E203412D.PDF
+Processing Date: 2026-03-02 10:46:03
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+                                                                                      TCGA-18-3406
+
+                                                                                      Copath #:
+                                                                                      Collected:
+                                                                                      Resulted:
+
+Surgical Pathology Consultation Report
+
+
+SPECIMEN(S) RECEIVED
+1. Soft-Tissue: tissue near aorta / QS
+2. LUNG: BIOPSY LEFT UPPER LOBE / QS
+3. Lymph node: A-P WINDOW NODE
+4. LUNG: NODULE ON PLEURA NEAR AORTA / QS
+5. LUNG: COMPLETION LT PNEUMONECTOMY
+
+
+DIAGNOSIS
+1. Tissue near aorta - Fibrous connective tissue: No neoplasia
+
+2. Biopsy, left upper lobe bronchus - Fragments of squamous cell
+   carcinoma with no associated stroma
+                                                therefore precluding assessment of invasion
+
+3. AP window lymph node - Negative for malignancy
+
+4. Nodule on pleura near aorta - Lymph node within connective tissue - No neoplasia
+
+5. Completion left pneumonectomy
+   a) Invasive well-differentiated squamous cell carcinoma, 2.0 cm maximum
+      dimension, peripheral with no invasion into pleura
+   b) Bronchial margin of resection - Negative for malignancy
+   c) Two interlobar and one segmental lymph node - Negative for malignancy.
+
+
+COMMENT
+Examinationof this material indicates apparent complete resection of a
+T1N0 squamous sell carcinoma. This appears to be metachronous to a tumor
+at the patient had undergone a lower lobectomy for in .
+
+
+Status: complete                                             Page: 1 of 3
+```
+
+================================================================================
+PAGE 2
+================================================================================
+Sure, here is the extracted text from the image:
+
+```
+CLINICAL HISTORY
+Cancer. lung
+
+GROSS DESCRIPTION
+1. The specimen container labeled with the patient' s name and as "tissue
+near aorta q.s", contains a single piece of tissue measuring 0.8 x 0.3 x
+1 cm received fresh. This was examined at intraoperative consultation
+frozen section performed on the entire specimen.
+1A frozen section embedded in toto resubmitted
+
+2. The specimen container labeled with the patient' s name and as "biopsy
+left upper lobe q.s", contains multiple tiny tan pieces of tissue
+measuring collectively 0.2 x 0.2 x 0.1 cm received fresh. This was
+examined at intraoperative consultation by frozen section performed on
+the entire specimen.
+2A frozen section embedded in toto resubmitted
+
+3. The specimen container labeled with the patient' s name and as "AP
+window node", contains five pieces of yellowish black tissue measuring
+from 0.3 x 0.2 x 0.1 cm up to 2.0 x 0.8 x 0.4 cm. received in 10%
+buffered formalin.
+3A submitted in toto.
+
+4. The specimen container labeled with the patient' s name and as "nodule
+on pleura near aorta q.s.", contains a piece of pink-tan tissue measuring
+1.5 x 1.5 x 0.2 cm received fresh. This was examined at intraoperative
+consultation by frozen section performed on the entire specimen.
+4A embedded in toto resubmitted
+
+5. The specimen container labeled with the patient' s name and as
+"completion left pneumonectomy", contains a greyish-tan predominantly
+left upper lobe of the lung measuring 21.0 x 15.5 x 11.0 cm received in
+10% buffered formalin. There are pleural adhesions noted with organized
+fibrinous exudate on most portion of the lung tissue and there is a torn
+eura associated by the lower aspect of the specimen. On sectioning
+lere is peripheral tumor associated with fibrous adhesion
+
+Status: complete Page: 2 of 3
+```
+
+================================================================================
+PAGE 3
+================================================================================
+[Redacted]
+[Redacted]
+[Redacted]
+
+located posterior aspect at the level of the main stem bronchus. The tumor is well circumscribed yellowish-tan firm measuring 2.0 cm in maximum dimension. On further sectioning the remainder of the lung tissue appears to be grossly unremarkable. One interlobar lobe is bisected and multiple segmental nodes measuring from 0.8 cm in maximum dimension. Representative sections are submitted as follows:
+5A bronchial resection margin
+5B one interlobar node
+5C four segmental nodes
+5D -5F representative section of the tumor
+5G--6I representative section of apparently normal lung parenchyma
+
+piece of tumoral tissue and piece of alveolar tissue and pieces of bronchial mucosa tissue are taken for tissue frozen.
+? submitted in toto.
+
+[Redacted]
+QUICK SECTION
+1A "Fibrovascular negative for carcinoma"
+4A "Fibrous tissue and focal chronic inflammation"
+
+[Redacted]
+
+Status: complete Page: 3 of 3

@@ -1,0 +1,190 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\148b70b7-91df-403f-aca4-08846ca2750d\TCGA-38-6178.C2B33805-C417-4D5B-97FF-EC0D93AFEE8C.PDF
+Processing Date: 2026-03-02 10:43:30
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+SURGICAL PATHOLOGY REVISED REPORT  
+Case Number : ██████  
+
+Surgical Pathology Report  
+Addenda Present  
+
+Diagnosis:  
+A: Lymph node, R4, biopsy:  
+- One lymph node negative for malignancy (0/1).  
+
+B: Lymph node, Station 7, biopsy:  
+- One lymph node negative for malignancy (0/1).  
+
+C: Lymph node, Station 5, biopsy:  
+- Three of three lymph nodes positive for metastatic malignancy (3/3).  
+
+D: Lung, left upper lobe, biopsy:  
+
+Tumor histologic type (WHO): Adenocarcinoma.  
+
+Tumor histologic grade (WHO): Moderately differentiated (G2).  
+
+Tumor size: 5.5 cm (gross measurement).  
+
+Focality: Unifocal.  
+
+Other structures involved: Visceral pleura and lobar bronchus.  
+
+In situ carcinoma: Present.  
+
+Extent of invasion:  
+Venous: Present.  
+Arterial: Present.  
+Lymphatic: Present.  
+Perineural: Focus suspicious for perineural invasion.  
+Pleura: Visceral pleural invasion.  
+
+Surgical Margins:  
+Pleural: Positive.  
+Bronchial: Positive [See comment].  
+Vascular: Positive.  
+
+Lymph nodes:  
+Lobar (part D): Five of six positive (5/6).  
+R4 (part A): Negative (0/1).  
+Station 7 (part B): Negative (0/1).  
+Station 5 (part C): Three of three positive (3/3).  
+Station 9 (part E): Negative (0/1).  
+Station 10 (part F): Two of two positive (2/2).  
+Total: Ten of fourteen positive (10/14).  
+
+Size of largest metastasis: 1.3 cm (microscopic measurement, D6).  
+
+Extracapsular extension of tumor in lymph nodes: Present.  
+
+Findings in nontumorous lung: No specific pathologic changes.
+
+================================================================================
+PAGE 2
+================================================================================
+AJCC PATHOLOGIC TNM STAGE: pT2b pN2 pM N/A
+NOTE: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending clinical review and additional information.
+
+E: Lymph node, Station 9, biopsy:
+- One lymph node negative for malignancy (0/1).
+
+F: Lymph node, Station 10, biopsy
+- Two of two lymph nodes positive for metastatic malignancy (2/2).
+
+Comment:
+D) The bronchial margin was called "negative...one peribronchiolar lymph node positive for metastatic carcinoma" at the time of frozen section. On permanent sectioning the bronchial margin is positive. On review of the frozen section slides, there is a focal area of atypical cells in a rounded configuration which could correspond to the tumor seen on permanent sectioning, thus the margin is felt to be truly positive.
+
+These findings were discussed with Dr.
+
+Intraoperative Consult Diagnosis:
+An intraoperative consultation was requested by Dr
+
+FSA1: Lymph node, R4, biopsy
+- No tumor seen
+
+FSB1: Lymph node, Station 7, biopsy
+- No tumor seen
+
+FSC1: Lymph node, Station 5, biopsy
+- Metastatic non-small cell carcinoma
+
+FSD1: Lung, left upper lobe, lobectomy
+- Bronchial margin negative. One peribronchiolar lymph node positive for metastatic carcinoma.
+
+Frozen Section Pathologist:
+
+Clinical History:
+left lung mass.
+
+Gross Description:
+Received are six appropriately labeled containers.
+
+Container A is additionally labeled "R4 lymph node." The contents of this container is a 1.0 x 0.5 x 0.3 cm black soft tissue fragment which is completely submitted in block FSA1, NTR.
+
+Container B is additionally labeled "Station 7." The contents of this container is a 3.2 x 1.1 x 0.4 cm black/tan soft tissue fragment which is entirely submitted in block FSB1, NTR.
+
+Container C is additionally labeled "Station 5 lymph node." The contents of this container is a 3.5 x 2.0 x 0.6 cm black/tan soft tissue fragment. Lymph node candidates are separated away from fat and submitted in blocks FSC1-FSC3. Only fat remains.
+
+Container D:
+
+Specimen fixation: formalin
+
+================================================================================
+PAGE 3
+================================================================================
+Type of specimen/parts of lung received: left upper lobe
+
+Size of specimen: 13 x 10.2 x 5.2 cm
+
+Weight of specimen: 250 grams
+
+Other attached structures: none
+
+Specimen Integrity: intact
+
+Laterality: left
+
+Orientation: The lung parenchyma surrounding and immediately over the tumor is inked blue.
+
+Tumor location: located centrally in this specimen
+
+Tumor size: 5.5 cm x 2.6 cm x 2.5 cm
+
+Tumor description: firm, white with candidate areas of hemorrhage/necrosis
+
+Tumor focality: unifocal
+
+Relationship of tumor to bronchus: The bronchus is not grossly involved.
+
+Distance of tumor to bronchial margin: 2.5 cm
+
+Relationship/distance of tumor to pleura: grossly invading the pleura
+
+Distance of tumor to other surgical margins: not applicable
+
+Tumor extension: the tumor is directly adjacent to and possibly extending into the parietal pleura
+
+Description of nontumorous lung: spongy, soft, dark
+
+Digital photograph taken: not taken
+
+Tissue submitted for special investigation: none
+
+Block Summary:
+
+FSD1 - bronchial margin
+D1,D2 - tumor directly adjacent to pleura
+D3 - normal lung
+D4 - three peribronchiolar lymph node candidates
+D5 - one peribronchiolar lymph node candidate
+D6-D8 - one peribronchiolar lymph node candidate, trisected
+D9 - vascular margins
+
+Container E is additionally labeled "Station 9 lymph node." The contents of this container is one lymph node candidate measuring 2.0 x 0.7 x 0.7 cm. This lymph node candidate is bisected and entirely submitted in block E1, NTR.
+
+Container F is additionally labeled "Station 10 lymph node." The contents of this container are two lymph node candidates. The first measures 1.9 x 1.0 x 0.6 cm. The second measures 1.0 x 0.8 x 0.6 cm. The first lymph node is bisected and submitted in block F1. The second is bisected and submitted in block F2, NTR.
+
+Grossing Pathologist:
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+================================================================================
+PAGE 4
+================================================================================
+Signature
+Resident Physician
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above diagnosis(es).
+
+Electronically Signed by:
+
+Procedures/Addenda:
+Addendum
+Cytogenetic studies for ALK gene rearrangements and molecular studies for EGFR and KRAS mutations have been requested.
+Please see these reports (as indicated) for results.

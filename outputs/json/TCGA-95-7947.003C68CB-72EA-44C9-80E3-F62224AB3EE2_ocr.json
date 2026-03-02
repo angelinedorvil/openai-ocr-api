@@ -90,6 +90,366 @@
         }
       ],
       "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 13.05545163154602,
+        "chars": 1810,
+        "words": 234,
+        "text": "[Redacted]-Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nD. LYMPH NODE, #9, EXCISION, D1FS:\n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).\n\nE. LYMPH NODE, 10L, EXCISION, E1FS:\n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).\n\nF. LUNG, LEFT UPPER LOBE, MEDIAL, WEDGE RESECTION:\n- LUNG WITH BULLOUS EMPHYSEMATOUS CHANGES.\n- NEGATIVE FOR CARCINOMA.\n\nComment\nImmunohistochemical and special stains (all on block A3):\n- CK7 -------------------------------- positive\n- CK20 -------------------------------- negative\n- TTF1 -------------------------------- positive\n- Napsin A ---------------------------- negative\n- Pax 8 -------------------------------- negative\n- Mucicarmine ----------------------- positive (focal)\nThis staining profile is compatible with a lung primary.\n\n[Redacted] [Redacted]\n\nSynoptic Worksheet\nA. Wedge excision left upper lobe:\nSpecimen: Lung\nProcedure: Wedge resection\nSpecimen Integrity: Intact\nSpecimen Laterality: Left\nTumor Site: Upper lobe\nTumor Focality: Unifocal\nHistologic Type: Adenocarcinoma, mixed subtype\nHistologic Grade: G2: Moderately differentiated\nTumor Size: Greatest dimension: 1.5 cm\nAdditional dimension: 1.1 cm\nAdditional dimension: 0.7 cm\nVisceral Pleura Invasion: Not identified\nTumor Extension: Not applicable\nBronchial Margin: Involvement by invasive carcinoma not applicable\nInvolvement by squamous cell carcinoma in situ (CIS) not applicable\nVascular Margin: Not applicable\n\nPrinted by: [Redacted]\nPrinted on: [Redacted] Page 2 of 5\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9800382745362941,
+          "mean_log_probability": -0.027107090322580647,
+          "perplexity": 1.0274778298042069,
+          "min_probability": 0.17998603759809886
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 466,
+          "total_tokens": 2938
+        },
+        "composite_score": 0.959886649247788,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 13.05545163154602,
+          "chars": 1810,
+          "words": 234,
+          "text": "[Redacted]-Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nD. LYMPH NODE, #9, EXCISION, D1FS:\n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).\n\nE. LYMPH NODE, 10L, EXCISION, E1FS:\n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).\n\nF. LUNG, LEFT UPPER LOBE, MEDIAL, WEDGE RESECTION:\n- LUNG WITH BULLOUS EMPHYSEMATOUS CHANGES.\n- NEGATIVE FOR CARCINOMA.\n\nComment\nImmunohistochemical and special stains (all on block A3):\n- CK7 -------------------------------- positive\n- CK20 -------------------------------- negative\n- TTF1 -------------------------------- positive\n- Napsin A ---------------------------- negative\n- Pax 8 -------------------------------- negative\n- Mucicarmine ----------------------- positive (focal)\nThis staining profile is compatible with a lung primary.\n\n[Redacted] [Redacted]\n\nSynoptic Worksheet\nA. Wedge excision left upper lobe:\nSpecimen: Lung\nProcedure: Wedge resection\nSpecimen Integrity: Intact\nSpecimen Laterality: Left\nTumor Site: Upper lobe\nTumor Focality: Unifocal\nHistologic Type: Adenocarcinoma, mixed subtype\nHistologic Grade: G2: Moderately differentiated\nTumor Size: Greatest dimension: 1.5 cm\nAdditional dimension: 1.1 cm\nAdditional dimension: 0.7 cm\nVisceral Pleura Invasion: Not identified\nTumor Extension: Not applicable\nBronchial Margin: Involvement by invasive carcinoma not applicable\nInvolvement by squamous cell carcinoma in situ (CIS) not applicable\nVascular Margin: Not applicable\n\nPrinted by: [Redacted]\nPrinted on: [Redacted] Page 2 of 5\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9800382745362941,
+            "mean_log_probability": -0.027107090322580647,
+            "perplexity": 1.0274778298042069,
+            "min_probability": 0.17998603759809886
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.959886649247788,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 15.783905744552612,
+          "chars": 1898,
+          "words": 235,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n[Redacted]  \n* Final Report *  \n\nD. LYMPH NODE, #9, EXCISION, D1FS:  \n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n\nE. LYMPH NODE, 10L, EXCISION, E1FS:  \n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n\nF. LUNG, LEFT UPPER LOBE, MEDIAL, WEDGE RESECTION:  \n- LUNG WITH BULLOUS EMPHYSEMATOUS CHANGES.  \n- NEGATIVE FOR CARCINOMA.  \n\nComment  \nImmunohistochemical and special stains (all on block A3):  \n- CK7 -------------------------------- positive  \n- CK20 -------------------------------- negative  \n- TTF1 -------------------------------- positive  \n- Napsin A ---------------------------- negative  \n- Pax 8 -------------------------------- negative  \n- Mucicarmine ------------------------ positive (focal)  \nThis staining profile is compatible with a lung primary.  \n\n[Redacted]  \n[Redacted]  \n\nSynoptic Worksheet  \nA. Wedge excision left upper lobe:  \nSpecimen: Lung  \nProcedure: Wedge resection  \nSpecimen Integrity: Intact  \nSpecimen Laterality: Left  \nTumor Site: Upper lobe  \nTumor Focality: Unifocal  \nHistologic Type: Adenocarcinoma, mixed subtype  \nHistologic Grade: G2: Moderately differentiated  \nTumor Size: Greatest dimension: 1.5 cm  \nAdditional dimension: 1.1 cm  \nAdditional dimension: 0.7 cm  \nVisceral Pleura Invasion: Not identified  \nTumor Extension: Not applicable  \nBronchial Margin: Involvement by invasive carcinoma not applicable  \nInvolvement by squamous cell carcinoma in situ (CIS) not applicable  \nVascular Margin: Not applicable  \n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 2 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9836296613166163,
+            "mean_log_probability": -0.020626583850931676,
+            "perplexity": 1.0208407820222085,
+            "min_probability": 0.34232695151954395
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 484,
+            "total_tokens": 2956
+          },
+          "composite_score": 0.9249506080590609
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.507595300674438,
+          "chars": 1897,
+          "words": 235,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n[Redacted]  \n* Final Report *  \n\nD. LYMPH NODE, #9, EXCISION, D1FS:  \n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n\nE. LYMPH NODE, 10L, EXCISION, E1FS:  \n- ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).  \n\nF. LUNG, LEFT UPPER LOBE, MEDIAL, WEDGE RESECTION:  \n- LUNG WITH BULLOUS EMPHYSEMATOUS CHANGES.  \n- NEGATIVE FOR CARCINOMA.  \n\nComment  \nImmunohistochemical and special stains (all on block A3):  \n- CK7 -------------------------------- positive  \n- CK20 -------------------------------- negative  \n- TTF1 -------------------------------- positive  \n- Napsin A ---------------------------- negative  \n- Pax 8 -------------------------------- negative  \n- Mucicarmine ----------------------- positive (focal)  \nThis staining profile is compatible with a lung primary.  \n\n[Redacted]  \n[Redacted]  \n\nSynoptic Worksheet  \nA. Wedge excision left upper lobe:  \nSpecimen: Lung  \nProcedure: Wedge resection  \nSpecimen Integrity: Intact  \nSpecimen Laterality: Left  \nTumor Site: Upper lobe  \nTumor Focality: Unifocal  \nHistologic Type: Adenocarcinoma, mixed subtype  \nHistologic Grade: G2: Moderately differentiated  \nTumor Size: Greatest dimension: 1.5 cm  \nAdditional dimension: 1.1 cm  \nAdditional dimension: 0.7 cm  \nVisceral Pleura Invasion: Not identified  \nTumor Extension: Not applicable  \nBronchial Margin: Involvement by invasive carcinoma not applicable  \nInvolvement by squamous cell carcinoma in situ (CIS) not applicable  \nVascular Margin: Not applicable  \n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 2 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9827324864012233,
+            "mean_log_probability": -0.02278868322981366,
+            "perplexity": 1.0230503290123012,
+            "min_probability": 0.23203570924515846
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 484,
+            "total_tokens": 2956
+          },
+          "composite_score": 0.9232814930707228
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 25.72994327545166,
+        "chars": 2756,
+        "words": 414,
+        "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nParenchymal Margin:\tUninvolved by invasive carcinoma\nParietal Pleural Margin:\tNot applicable\nChest Wall Margin:\tNot applicable\nOther Attached Tissue Margin:\tNot applicable\nTreatment Effect:\tNot applicable\nLymph-Vascular Invasion:\tPresent\nTNM Descriptors:\tNot applicable\nPrimary Tumor (pT):\tpT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or Superficial spreading tumor of any size with its invasive component limited to the bronchial wall, which may extend proximally to the main bronchus\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\nNumber of nodes examined cannot be determined\nDistant Metastasis (pM):\tNot applicable\n------------------------------------------------------\n\nClinical History\nLeft VATS, upper lobe wedge, lymph node dissection. Laryngeal cancer.\n\nSpecimen(s) Received\nA: Wedge excision left upper lobe\nB: #6 Lymph node\nC: #7 Lymph node\nD: #9 Lymph node\nE: 10 L lymph node\nF: Medial wedge excision left upper lobe\n\nGross Description\nSpecimen A is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and labeled \"wedge excision, left upper lobe.\" It consists of a wedge of lung that weighs 23.8 gram and measures 10.8 x 4.7 x 2.2 cm. There is a firm, well-defined lesion (that was previously incised) that measures 1.5 x 1.1 x 0.7 cm. The lesion is 0.4 cm from the parenchymal margin and puckers the pleura. The remainder of the lung is unremarkable. The pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nA2,A3:\tLesion pleura and margin\nA4;\tTumor in relation to surrounding lung\nA5:\tRepresentative sections of uninvolved lung parenchyma\n\nSpecimen B is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as additionally \"#6 lymph node for frozen.\" It consists of multiple pieces of soft tissue measuring in aggregate, 1.8 x 1.7 x 0.9 cm. The tissue is partially calcified. The non-calcified portions are submitted for frozen and the contents of the cryoblock are submitted in cassette \"B1FS.\" The calcified tissue is sectioned and submitted for decal in its entirety in cassette \"B2.\" Dictated by [Redacted]\n\nPrinted by: [Redacted]\t\tPage 3 of 5\nPrinted on: [Redacted]\t\t(Continued)",
+        "confidence": {
+          "mean_probability": 0.9874663600841702,
+          "mean_log_probability": -0.018033352855051244,
+          "perplexity": 1.018196935598279,
+          "min_probability": 0.13055117284518858
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 684,
+          "total_tokens": 3156
+        },
+        "composite_score": 0.9858288706911404,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 25.72994327545166,
+          "chars": 2756,
+          "words": 414,
+          "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nParenchymal Margin:\tUninvolved by invasive carcinoma\nParietal Pleural Margin:\tNot applicable\nChest Wall Margin:\tNot applicable\nOther Attached Tissue Margin:\tNot applicable\nTreatment Effect:\tNot applicable\nLymph-Vascular Invasion:\tPresent\nTNM Descriptors:\tNot applicable\nPrimary Tumor (pT):\tpT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or Superficial spreading tumor of any size with its invasive component limited to the bronchial wall, which may extend proximally to the main bronchus\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\nNumber of nodes examined cannot be determined\nDistant Metastasis (pM):\tNot applicable\n------------------------------------------------------\n\nClinical History\nLeft VATS, upper lobe wedge, lymph node dissection. Laryngeal cancer.\n\nSpecimen(s) Received\nA: Wedge excision left upper lobe\nB: #6 Lymph node\nC: #7 Lymph node\nD: #9 Lymph node\nE: 10 L lymph node\nF: Medial wedge excision left upper lobe\n\nGross Description\nSpecimen A is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and labeled \"wedge excision, left upper lobe.\" It consists of a wedge of lung that weighs 23.8 gram and measures 10.8 x 4.7 x 2.2 cm. There is a firm, well-defined lesion (that was previously incised) that measures 1.5 x 1.1 x 0.7 cm. The lesion is 0.4 cm from the parenchymal margin and puckers the pleura. The remainder of the lung is unremarkable. The pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nA2,A3:\tLesion pleura and margin\nA4;\tTumor in relation to surrounding lung\nA5:\tRepresentative sections of uninvolved lung parenchyma\n\nSpecimen B is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as additionally \"#6 lymph node for frozen.\" It consists of multiple pieces of soft tissue measuring in aggregate, 1.8 x 1.7 x 0.9 cm. The tissue is partially calcified. The non-calcified portions are submitted for frozen and the contents of the cryoblock are submitted in cassette \"B1FS.\" The calcified tissue is sectioned and submitted for decal in its entirety in cassette \"B2.\" Dictated by [Redacted]\n\nPrinted by: [Redacted]\t\tPage 3 of 5\nPrinted on: [Redacted]\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9874663600841702,
+            "mean_log_probability": -0.018033352855051244,
+            "perplexity": 1.018196935598279,
+            "min_probability": 0.13055117284518858
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 684,
+            "total_tokens": 3156
+          },
+          "composite_score": 0.9858288706911404,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 22.857878923416138,
+          "chars": 2756,
+          "words": 414,
+          "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nParenchymal Margin:\tUninvolved by invasive carcinoma\nParietal Pleural Margin:\tNot applicable\nChest Wall Margin:\tNot applicable\nOther Attached Tissue Margin:\tNot applicable\nTreatment Effect:\tNot applicable\nLymph-Vascular Invasion:\tPresent\nTNM Descriptors:\tNot applicable\nPrimary Tumor (pT):\tpT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or Superficial spreading tumor of any size with its invasive component limited to the bronchial wall, which may extend proximally to the main bronchus\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\nNumber of nodes examined cannot be determined\nDistant Metastasis (pM):\tNot applicable\n------------------------------------------------------\n\nClinical History\nLeft VATS, upper lobe wedge, lymph node dissection. Laryngeal cancer.\n\nSpecimen(s) Received\nA: Wedge excision left upper lobe\nB: #6 Lymph node\nC: #7 Lymph node\nD: #9 Lymph node\nE: 10 L lymph node\nF: Medial wedge excision left upper lobe\n\nGross Description\nSpecimen A is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and labeled \"wedge excision, left upper lobe.\" It consists of a wedge of lung that weighs 23.8 gram and measures 10.8 x 4.7 x 2.2 cm. There is a firm, well-defined lesion (that was previously incised) that measures 1.5 x 1.1 x 0.7 cm. The lesion is 0.4 cm from the parenchymal margin and puckers the pleura. The remainder of the lung is unremarkable. The pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nA2,A3:\tLesion pleura and margin\nA4:\tTumor in relation to surrounding lung\nA5:\tRepresentative sections of uninvolved lung parenchyma\n\nSpecimen B is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as additionally \"#6 lymph node for frozen.\" It consists of multiple pieces of soft tissue measuring in aggregate, 1.8 x 1.7 x 0.9 cm. The tissue is partially calcified. The non-calcified portions are submitted for frozen and the contents of the cryoblock are submitted in cassette \"B1FS.\" The calcified tissue is sectioned and submitted for decal in its entirety in cassette \"B2.\" Dictated by [Redacted]\n\nPrinted by: [Redacted]\t\tPage 3 of 5\nPrinted on: [Redacted]\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9872996124131401,
+            "mean_log_probability": -0.018288682284040996,
+            "perplexity": 1.0184569444329854,
+            "min_probability": 0.13036526991118288
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 684,
+            "total_tokens": 3156
+          },
+          "composite_score": 0.936350237631342
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.88619613647461,
+          "chars": 2756,
+          "words": 414,
+          "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nParenchymal Margin:\tUninvolved by invasive carcinoma\nParietal Pleural Margin:\tNot applicable\nChest Wall Margin:\tNot applicable\nOther Attached Tissue Margin:\tNot applicable\nTreatment Effect:\tNot applicable\nLymph-Vascular Invasion:\tPresent\nTNM Descriptors:\tNot applicable\nPrimary Tumor (pT):\tpT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or Superficial spreading tumor of any size with its invasive component limited to the bronchial wall, which may extend proximally to the main bronchus\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\n\tNumber of nodes examined cannot be determined\nDistant Metastasis (pM):\tNot applicable\n-----------------------------------------------------\n\nClinical History\nLeft VATS, upper lobe wedge, lymph node dissection. Laryngeal cancer.\n\nSpecimen(s) Received\nA: Wedge excision left upper lobe\nB: #6 Lymph node\nC: #7 Lymph node\nD: #9 Lymph node\nE: 10 L lymph node\nF: Medial wedge excision left upper lobe\n\nGross Description\nSpecimen A is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and labeled \"wedge excision, left upper lobe.\" It consists of a wedge of lung that weighs 23.8 gram and measures 10.8 x 4.7 x 2.2 cm. There is a firm, well-defined lesion (that was previously incised) that measures 1.5 x 1.1 x 0.7 cm. The lesion is 0.4 cm from the parenchymal margin and puckers the pleura. The remainder of the lung is unremarkable. The pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nA2,A3:\tLesion pleura and margin\nA4;\tTumor in relation to surrounding lung\nA5:\tRepresentative sections of uninvolved lung parenchyma\n\nSpecimen B is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as additionally \"#6 lymph node for frozen.\" It consists of multiple pieces of soft tissue measuring in aggregate, 1.8 x 1.7 x 0.9 cm. The tissue is partially calcified. The non-calcified portions are submitted for frozen and the contents of the cryoblock are submitted in cassette \"B1FS.\" The calcified tissue is sectioned and submitted for decal in its entirety in cassette \"B2.\" Dictated by [Redacted]\n\nPrinted by: [Redacted]\t\tPage 3 of 5\nPrinted on: [Redacted]\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9868799130230494,
+            "mean_log_probability": -0.019102251461988302,
+            "perplexity": 1.0192858667591487,
+            "min_probability": 0.10278025668494807
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 685,
+            "total_tokens": 3157
+          },
+          "composite_score": 0.9357544116988414
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 30.015284299850464,
+        "chars": 3361,
+        "words": 483,
+        "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nSpecimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#7 lymph node.\" It consists of four pieces of soft tissue in aggregate measuring 1.5 x 0.2 x 0.1 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"C1FS.\" (Dictated by [Redacted])\n\nSpecimen D is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#9 lymph node.\" It consists of a fatty soft tissue fragment measuring 0.6 x 0.4 x 0.3 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"D1FS.\" (Dictated by [Redacted])\n\nSpecimen E is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"10L lymph node.\" It consists of a soft tissue fragment measuring 0.6 x 0.5 x 0.4 cm. The fragment is entirely submitted for intraoperative consultation and transferred to cassette \"E1FS.\" (Dictated by [Redacted])\n\nSpecimen F is received in formalin, labeled with the patient's name, medical record number and additionally \"medial wedge excision, left upper lobe.\" It consists of a wedge of lung that measures 8.1 x 2.0 x 2.0 cm and weighs 15 grams. There is a pleural bleb that measures 2.8 x 1.9 x 1.9 cm. The remainder of the lung is unremarkable. The parenchymal margin is inked green and the pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nF1: Section of bleb and normal lung parenchyma\nF2: Normal lung parenchyma\n\n[Redacted]\n\nIntraoperative Consult Diagnosis\nA1FS: LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]\nB1FS,B1TP: #6 LYMPH NODE (FROZEN SECTION AND TOUCH PREPARATION): NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]\nC1FS: #7 LYMPH NODES (FROZEN SECTION): THREE LYMPH NODES NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\nD1FS: #9 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\nE1FS: #10 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\n\nPathologist [Redacted]\n\nPrinted by: [Redacted]                                                                                  Page 4 of 5\nPrinted on: [Redacted]                                                                                  (Continued)",
+        "confidence": {
+          "mean_probability": 0.9903885258274598,
+          "mean_log_probability": -0.015436090575275398,
+          "perplexity": 1.0155558423946278,
+          "min_probability": 0.06627105853134413
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 818,
+          "total_tokens": 3290
+        },
+        "composite_score": 0.9878388481807612,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 30.015284299850464,
+          "chars": 3361,
+          "words": 483,
+          "text": "[Redacted] Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n[Redacted]\n\n* Final Report *\n\nSpecimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#7 lymph node.\" It consists of four pieces of soft tissue in aggregate measuring 1.5 x 0.2 x 0.1 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"C1FS.\" (Dictated by [Redacted])\n\nSpecimen D is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#9 lymph node.\" It consists of a fatty soft tissue fragment measuring 0.6 x 0.4 x 0.3 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"D1FS.\" (Dictated by [Redacted])\n\nSpecimen E is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"10L lymph node.\" It consists of a soft tissue fragment measuring 0.6 x 0.5 x 0.4 cm. The fragment is entirely submitted for intraoperative consultation and transferred to cassette \"E1FS.\" (Dictated by [Redacted])\n\nSpecimen F is received in formalin, labeled with the patient's name, medical record number and additionally \"medial wedge excision, left upper lobe.\" It consists of a wedge of lung that measures 8.1 x 2.0 x 2.0 cm and weighs 15 grams. There is a pleural bleb that measures 2.8 x 1.9 x 1.9 cm. The remainder of the lung is unremarkable. The parenchymal margin is inked green and the pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]\nF1: Section of bleb and normal lung parenchyma\nF2: Normal lung parenchyma\n\n[Redacted]\n\nIntraoperative Consult Diagnosis\nA1FS: LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]\nB1FS,B1TP: #6 LYMPH NODE (FROZEN SECTION AND TOUCH PREPARATION): NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]\nC1FS: #7 LYMPH NODES (FROZEN SECTION): THREE LYMPH NODES NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\nD1FS: #9 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\nE1FS: #10 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\n\nPathologist [Redacted]\n\nPrinted by: [Redacted]                                                                                  Page 4 of 5\nPrinted on: [Redacted]                                                                                  (Continued)",
+          "confidence": {
+            "mean_probability": 0.9903885258274598,
+            "mean_log_probability": -0.015436090575275398,
+            "perplexity": 1.0155558423946278,
+            "min_probability": 0.06627105853134413
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 818,
+            "total_tokens": 3290
+          },
+          "composite_score": 0.9878388481807612,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 34.65583038330078,
+          "chars": 3257,
+          "words": 484,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n[Redacted]  \n* Final Report *  \n\nSpecimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#7 lymph node.\" It consists of four pieces of soft tissue in aggregate measuring 1.5 x 0.2 x 0.1 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"C1FS.\" (Dictated by [Redacted])  \n\nSpecimen D is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#9 lymph node.\" It consists of a fatty soft tissue fragment measuring 0.6 x 0.4 x 0.3 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"D1FS.\" (Dictated by [Redacted])  \n\nSpecimen E is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"10L lymph node.\" It consists of a soft tissue fragment measuring 0.6 x 0.5 x 0.4 cm. The fragment is entirely submitted for intraoperative consultation and transferred to cassette \"E1FS.\" (Dictated by [Redacted])  \n\nSpecimen F is received in formalin, labeled with the patient's name, medical record number and additionally \"medial wedge excision, left upper lobe.\" It consists of a wedge of lung that measures 8.1 x 2.0 x 2.0 cm and weighs 15 grams. There is a pleural bleb that measures 2.8 x 1.9 x 1.9 cm. The remainder of the lung is unremarkable. The parenchymal margin is inked green and the pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]  \nF1: Section of bleb and normal lung parenchyma  \nF2: Normal lung parenchyma  \n\n[Redacted]  \n\nIntraoperative Consult Diagnosis  \nA1FS: LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]  \n\nB1FS, B1TP: #6 LYMPH NODE (FROZEN SECTION AND TOUCH PREPARATION): NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]  \n\nC1FS: #7 LYMPH NODES (FROZEN SECTION): THREE LYMPH NODES NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]  \n\nD1FS: #9 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]  \n\nE1FS: #10 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]  \n\nPathologist [Redacted]  \n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 4 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.992599732246226,
+            "mean_log_probability": -0.009510440718562874,
+            "perplexity": 1.0095558086689036,
+            "min_probability": 0.34862724272386075
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 836,
+            "total_tokens": 3308
+          },
+          "composite_score": 0.9428401583038972
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.50617814064026,
+          "chars": 3236,
+          "words": 483,
+          "text": "[Redacted] Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports  \n[Redacted]  \n* Final Report *\n\nSpecimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#7 lymph node.\" It consists of four pieces of soft tissue in aggregate measuring 1.5 x 0.2 x 0.1 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"C1FS.\" (Dictated by [Redacted])\n\nSpecimen D is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"#9 lymph node.\" It consists of a fatty soft tissue fragment measuring 0.6 x 0.4 x 0.3 cm. The specimen is entirely submitted for intraoperative consultation and transferred to cassette \"D1FS.\" (Dictated by [Redacted])\n\nSpecimen E is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and \"10L lymph node.\" It consists of a soft tissue fragment measuring 0.6 x 0.5 x 0.4 cm. The fragment is entirely submitted for intraoperative consultation and transferred to cassette \"E1FS.\" (Dictated by [Redacted])\n\nSpecimen F is received in formalin, labeled with the patient's name, medical record number and additionally \"medial wedge excision, left upper lobe.\" It consists of a wedge of lung that measures 8.1 x 2.0 x 2.0 cm and weighs 15 grams. There is a pleural bleb that measures 2.8 x 1.9 x 1.9 cm. The remainder of the lung is unremarkable. The parenchymal margin is inked green and the pleura is inked blue. Sections are submitted as follows: Dictated by [Redacted]  \nF1: Section of bleb and normal lung parenchyma  \nF2: Normal lung parenchyma  \n\n[Redacted]\n\nIntraoperative Consult Diagnosis  \nA1FS: LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]  \nB1FS,B1TP: #6 LYMPH NODE (FROZEN SECTION AND TOUCH PREPARATION): NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] in at [Redacted] out at [Redacted]  \nC1FS: #7 LYMPH NODES (FROZEN SECTION): THREE LYMPH NODES NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]  \nD1FS: #9 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]  \nE1FS: #10 LYMPH NODE (FROZEN SECTION): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by [Redacted] on [Redacted] at [Redacted] and start time [Redacted]\n\nPathologist [Redacted]\n\nPrinted by: [Redacted]  \nPrinted on: [Redacted]  \nPage 4 of 5  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.990743780876508,
+            "mean_log_probability": -0.0125028813559322,
+            "perplexity": 1.012581369143766,
+            "min_probability": 0.14800902904767396
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 827,
+            "total_tokens": 3299
+          },
+          "composite_score": 0.940615147862312
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 4.495871543884277,
+        "chars": 1004,
+        "words": 147,
+        "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nMicroscopic Description\nMicroscopic examination performed.\n\nANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER:\nSome of the above tests may use Class I ASRs. These tests were developed and their performance characteristics determined by They have not been cleared or approved by the Federal Drug Administration (FDA). The FDA does not require these tests to go through premarket FDA review. These tests are used for clinical purposes, and should not be regarded as investigational or for research. is certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing.\n\nPage 5 of 5\n(End of Report)\n\nPrinted by: \nPrinted on:",
+        "confidence": {
+          "mean_probability": 0.9761193963035806,
+          "mean_log_probability": -0.03199374210526316,
+          "perplexity": 1.0325110439394736,
+          "min_probability": 0.2995266151797905
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 191,
+          "total_tokens": 2663
+        },
+        "composite_score": 0.8755984991381859,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 4.495871543884277,
+          "chars": 1004,
+          "words": 147,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nMicroscopic Description\nMicroscopic examination performed.\n\nANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER:\nSome of the above tests may use Class I ASRs. These tests were developed and their performance characteristics determined by They have not been cleared or approved by the Federal Drug Administration (FDA). The FDA does not require these tests to go through premarket FDA review. These tests are used for clinical purposes, and should not be regarded as investigational or for research. is certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing.\n\nPage 5 of 5\n(End of Report)\n\nPrinted by: \nPrinted on:",
+          "confidence": {
+            "mean_probability": 0.9761193963035806,
+            "mean_log_probability": -0.03199374210526316,
+            "perplexity": 1.0325110439394736,
+            "min_probability": 0.2995266151797905
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 191,
+            "total_tokens": 2663
+          },
+          "composite_score": 0.8755984991381859,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.240432977676392,
+          "chars": 1177,
+          "words": 147,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nMicroscopic Description\nMicroscopic examination performed.\n\nANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER:\nSome of the above tests may use Class I ASRs. These tests were developed and their performance characteristics determined by They have not been cleared or approved by the Federal Drug Administration (FDA). The FDA does not require these tests to go through premarket FDA review. These tests are used for clinical purposes, and should not be regarded as investigational or for research. is certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing.\n\nPrinted by:\nPrinted on:                                                                                   Page 5 of 5\n                                                                                             (End of Report)",
+          "confidence": {
+            "mean_probability": 0.9646072672219642,
+            "mean_log_probability": -0.06402156476683937,
+            "perplexity": 1.066115389043403,
+            "min_probability": 0.04362818031121618
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 194,
+            "total_tokens": 2666
+          },
+          "composite_score": 0.578260366386381
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 6.06486701965332,
+          "chars": 1081,
+          "words": 154,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [redacted]\n\n* Final Report *\n\nMicroscopic Description\nMicroscopic examination performed.\n\nANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER:\nSome of the above tests may use Class I ASRs. These tests were developed and their performance characteristics determined by [redacted]. They have not been cleared or approved by the Federal Drug Administration (FDA). The FDA does not require these tests to go through premarket FDA review. These tests are used for clinical purposes, and should not be regarded as investigational or for research. [redacted] is certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing.\n\n[redacted]\n\nPrinted by: [redacted]\nPrinted on: [redacted] Page 5 of 5\n(End of Report)",
+          "confidence": {
+            "mean_probability": 0.979241012815364,
+            "mean_log_probability": -0.03409522222222222,
+            "perplexity": 1.0346831268640262,
+            "min_probability": 0.06503693107822356
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 217,
+            "total_tokens": 2689
+          },
+          "composite_score": 0.8376369895459875
+        }
+      ],
+      "total_attempts": 3
     }
   ]
 }

@@ -1,0 +1,461 @@
+{
+  "pdf": "input_pdfs\\high_quality\\0c4cfb37-1ef3-4782-8a37-92c3cc3e7828\\TCGA-J2-8192.AB6BB598-F1A2-4691-90C4-E8D63DEA8772.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 7.760243654251099,
+        "chars": 949,
+        "words": 181,
+        "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n_________________________________________________________________________________________\nPrepared f",
+        "confidence": {
+          "mean_probability": 0.979130346500935,
+          "mean_log_probability": -0.029206456989247315,
+          "perplexity": 1.0296371483184215,
+          "min_probability": 0.22287415370039662
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 373,
+          "total_tokens": 2845
+        },
+        "composite_score": 0.8721978828176533,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 7.760243654251099,
+          "chars": 949,
+          "words": 181,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n_________________________________________________________________________________________\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.979130346500935,
+            "mean_log_probability": -0.029206456989247315,
+            "perplexity": 1.0296371483184215,
+            "min_probability": 0.22287415370039662
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 373,
+            "total_tokens": 2845
+          },
+          "composite_score": 0.8721978828176533,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.401131391525269,
+          "chars": 861,
+          "words": 180,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.983002270717919,
+            "mean_log_probability": -0.022884122282608697,
+            "perplexity": 1.0231479726260966,
+            "min_probability": 0.3003475424520343
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 369,
+            "total_tokens": 2841
+          },
+          "composite_score": 0.8247921620871661
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.457602500915527,
+          "chars": 946,
+          "words": 181,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n_____________________________________________________________________________________\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.9783801830349708,
+            "mean_log_probability": -0.0313679811827957,
+            "perplexity": 1.0318651409876503,
+            "min_probability": 0.16095684393865198
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 373,
+            "total_tokens": 2845
+          },
+          "composite_score": 0.8267553928628026
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.967219591140747,
+        "chars": 926,
+        "words": 136,
+        "text": "Page 2 of 5\n\nH. HILAR NODE #1-\nLYMPH NODE, NO TUMOR SEEN.\nI. HILAR NODE #2-\nLYMPH NODE WITH METASTATIC ADENOCARCINOMA.\nJ. HILAR NODE #3-\nLYMPH NODE, NO TUMOR SEEN.\nK. LEFT UPPER LOBE LUNG NONFS-\nINVASIVE CARCINOMA.\n\nHISTOLOGIC TYPE: ADENOCARCINOMA.\n\nHISTOLOGIC GRADE: 2/4.\n\nTUMOR FOCALITY: UNIFOCAL.\n\nTUMOR SIZE: 3.5 CM.\n\nTUMOR SITE: LEFT UPPER LOBE.\n\nVISCERAL PLEURA INVASION: NOT PRESENT.\n\nATELECTASIS/OBSTRUCTIVE PNEUMONITIS EXTENDING TO HILUM: NOT\nSEEN.\n\nLYMPHATIC (SMALL VESSEL) INVASION: NOT SEEN.\n\nLARGE VESSEL INVASION: NOT SEEN.\n\n2 OF 2 PERIBRONCHIAL NODES ARE POSITIVE FOR METASTATIC TUMOR.\n\nLYMPH NODES INCLUDED IN ALL PARTS: NUMBER INVOLVED : 3\n        NUMBER EXAMINED: 12\n\nTNM STAGE: pT2a, pN1, pMX.\n\nINCIDENTAL MENINGOTHELIAL-LIKE NODULE.\n\nSPECIMEN TYPE: LEFT UPPER LOBECTOMY.\n\nNO TUMOR SEEN AT RESECTION MARGINS.\nL. LEFT UPPER LOBE LUNG FS-\nSEE PART K.\n[redacted]\n\n[redacted]\n\n[redacted]\n\n[redacted]\n\n[redacted]",
+        "confidence": {
+          "mean_probability": 0.9862156289460591,
+          "mean_log_probability": -0.019836978494623656,
+          "perplexity": 1.020035038824222,
+          "min_probability": 0.10622179130789729
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 373,
+          "total_tokens": 2845
+        },
+        "composite_score": 0.8770390984732445,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.967219591140747,
+          "chars": 926,
+          "words": 136,
+          "text": "Page 2 of 5\n\nH. HILAR NODE #1-\nLYMPH NODE, NO TUMOR SEEN.\nI. HILAR NODE #2-\nLYMPH NODE WITH METASTATIC ADENOCARCINOMA.\nJ. HILAR NODE #3-\nLYMPH NODE, NO TUMOR SEEN.\nK. LEFT UPPER LOBE LUNG NONFS-\nINVASIVE CARCINOMA.\n\nHISTOLOGIC TYPE: ADENOCARCINOMA.\n\nHISTOLOGIC GRADE: 2/4.\n\nTUMOR FOCALITY: UNIFOCAL.\n\nTUMOR SIZE: 3.5 CM.\n\nTUMOR SITE: LEFT UPPER LOBE.\n\nVISCERAL PLEURA INVASION: NOT PRESENT.\n\nATELECTASIS/OBSTRUCTIVE PNEUMONITIS EXTENDING TO HILUM: NOT\nSEEN.\n\nLYMPHATIC (SMALL VESSEL) INVASION: NOT SEEN.\n\nLARGE VESSEL INVASION: NOT SEEN.\n\n2 OF 2 PERIBRONCHIAL NODES ARE POSITIVE FOR METASTATIC TUMOR.\n\nLYMPH NODES INCLUDED IN ALL PARTS: NUMBER INVOLVED : 3\n        NUMBER EXAMINED: 12\n\nTNM STAGE: pT2a, pN1, pMX.\n\nINCIDENTAL MENINGOTHELIAL-LIKE NODULE.\n\nSPECIMEN TYPE: LEFT UPPER LOBECTOMY.\n\nNO TUMOR SEEN AT RESECTION MARGINS.\nL. LEFT UPPER LOBE LUNG FS-\nSEE PART K.\n[redacted]\n\n[redacted]\n\n[redacted]\n\n[redacted]\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.9862156289460591,
+            "mean_log_probability": -0.019836978494623656,
+            "perplexity": 1.020035038824222,
+            "min_probability": 0.10622179130789729
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 373,
+            "total_tokens": 2845
+          },
+          "composite_score": 0.8770390984732445,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.253789186477661,
+          "chars": 854,
+          "words": 127,
+          "text": "H. HILAR NODE #1-\nLYMPH NODE, NO TUMOR SEEN.\nI. HILAR NODE #2-\nLYMPH NODE WITH METASTATIC ADENOCARCINOMA.\nJ. HILAR NODE #3-\nLYMPH NODE, NO TUMOR SEEN.\nK. LEFT UPPER LOBE LUNG NONFS-\nINVASIVE CARCINOMA.\n\nHISTOLOGIC TYPE: ADENOCARCINOMA.\n\nHISTOLOGIC GRADE: 2/4.\n\nTUMOR FOCALITY: UNIFOCAL.\n\nTUMOR SIZE: 3.5 CM.\n\nTUMOR SITE: LEFT UPPER LOBE.\n\nVISCERAL PLEURA INVASION: NOT PRESENT.\n\nATELECTASIS/OBSTRUCTIVE PNEUMONITIS EXTENDING TO HILUM: NOT\nSEEN.\n\nLYMPHATIC (SMALL VESSEL) INVASION: NOT SEEN.\n\nLARGE VESSEL INVASION: NOT SEEN.\n\n2 OF 2 PERIBRONCHIAL NODES ARE POSITIVE FOR METASTATIC TUMOR.\n\nLYMPH NODES INCLUDED IN ALL PARTS: NUMBER INVOLVED : 3\n        NUMBER EXAMINED: 12\n\nTNM STAGE: pT2a, pN1, pMX.\n\nINCIDENTAL MENINGOTHELIAL-LIKE NODULE.\n\nSPECIMEN TYPE: LEFT UPPER LOBECTOMY.\n\nNO TUMOR SEEN AT RESECTION MARGINS.\nL. LEFT UPPER LOBE LUNG FS-\nSEE PART K.",
+          "confidence": {
+            "mean_probability": 0.992621275600239,
+            "mean_log_probability": -0.011668878260869564,
+            "perplexity": 1.011737225206155,
+            "min_probability": 0.10472881333173341
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 346,
+            "total_tokens": 2818
+          },
+          "composite_score": 0.832363942578617
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.30005931854248,
+          "chars": 846,
+          "words": 127,
+          "text": "H. HILAR NODE #1-\nLYMPH NODE, NO TUMOR SEEN.\nI. HILAR NODE #2-\nLYMPH NODE WITH METASTATIC ADENOCARCINOMA.\nJ. HILAR NODE #3-\nLYMPH NODE, NO TUMOR SEEN.\nK. LEFT UPPER LOBE LUNG NONFS-\nINVASIVE CARCINOMA.\n\nHISTOLOGIC TYPE: ADENOCARCINOMA.\n\nHISTOLOGIC GRADE: 2/4.\n\nTUMOR FOCALITY: UNIFOCAL.\n\nTUMOR SIZE: 3.5 CM.\n\nTUMOR SITE: LEFT UPPER LOBE.\n\nVISCERAL PLEURA INVASION: NOT PRESENT.\n\nATELECTASIS/OBSTRUCTIVE PNEUMONITIS EXTENDING TO HILUM: NOT\nSEEN.\n\nLYMPHATIC (SMALL VESSEL) INVASION: NOT SEEN.\n\nLARGE VESSEL INVASION: NOT SEEN.\n\n2 OF 2 PERIBRONCHIAL NODES ARE POSITIVE FOR METASTATIC TUMOR.\n\nLYMPH NODES INCLUDED IN ALL PARTS: NUMBER INVOLVED : 3\nNUMBER EXAMINED: 12\n\nTNM STAGE: pT2a, pN1, pMX.\n\nINCIDENTAL MENINGOTHELIAL-LIKE NODULE.\n\nSPECIMEN TYPE: LEFT UPPER LOBECTOMY.\n\nNO TUMOR SEEN AT RESECTION MARGINS.\nL. LEFT UPPER LOBE LUNG FS-\nSEE PART K.",
+          "confidence": {
+            "mean_probability": 0.9936328483702475,
+            "mean_log_probability": -0.010103790697674418,
+            "perplexity": 1.0101550063362714,
+            "min_probability": 0.13485421134986292
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 345,
+            "total_tokens": 2817
+          },
+          "composite_score": 0.8327679288059806
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.788660526275635,
+        "chars": 1888,
+        "words": 317,
+        "text": "Signed Others\nFrozen Section\nA. LEFT UPPER LOBE LYMPH NODES: 4R#1, 4R#2, STATION 7, 4L#1,\n4L#2, 4L#3 - NO TUMOR SEEN.\n\nLEFT UPPER LOBE - ADENOCARCINOMA.\n\nCase Clinical Information\nLEFT UPPER LOBE MASS\n\nGross Description\nA. Received in formalin labeled with the patient's name and \"4R\n#1 node FS\" are two yellow-tan fibroadipose soft tissue\nfragments measuring 0.7 x 0.4 cm. Wrapped and submitted in A1.\nB. Received in formalin labeled with the patient's name and \"4R\n#2 node FS\" is a yellow-tan fibroadipose tissue measuring 1.5 x\n1.0 cm. Wrapped and entirely submitted in B1.\nC. Received in formalin labeled with the patient's name and\n\"station 7 lymph node FS\" are three yellow-tan fibroadipose\ntissue fragment measuring 0.7 x 0.5 cm. Wrapped and submitted in\nC1.\nD. Received in formalin labeled with the patient's name and \"4L\n#1 lymph node FS\" is a yellow-brown fibroadipose tissue\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in D1.\nE. Received in formalin labeled with the patient's name and \"4L\n#2 lymph node FS\" are two yellow-brown fibroadipose tissue\nfragment measuring 0.5 x 0.5 cm. Wrapped and submitted in E1.\n\nF. Received in formalin labeled with the patient's name and \"4L\n#3 lymph node FS\" is a yellow-tan fibroadipose tissue fragment\nmeasuring 0.7 x 0.5 cm. Wrapped and submitted in F1.\nG. Received in formalin labeled with the patient's name and\n\"station #5\" are three yellow-tan fibroadipose tissue fragments\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in G1.\nH. Received in formalin labeled with the patient's name and\n\"hilar node #1\" is a dark brown adipose tissue fragment\nmeasuring 0.4 x 0.3 cm. Wrapped and submitted in H1.\nI. Received in formalin labeled with the patient's name and\n\"hilar node #2\" is a yellow-tan fibroadipose tissue measuring\n0.8 x 0.7 cm. Wrapped and submitted in I1.\nJ. Received in formalin labeled with the patient's name and\n\nPrepared fo",
+        "confidence": {
+          "mean_probability": 0.9932787446159769,
+          "mean_log_probability": -0.008232505263157894,
+          "perplexity": 1.0082664855181478,
+          "min_probability": 0.42407285952939555
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 571,
+          "total_tokens": 3043
+        },
+        "composite_score": 0.9822677723876723,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.788660526275635,
+          "chars": 1888,
+          "words": 317,
+          "text": "Signed Others\nFrozen Section\nA. LEFT UPPER LOBE LYMPH NODES: 4R#1, 4R#2, STATION 7, 4L#1,\n4L#2, 4L#3 - NO TUMOR SEEN.\n\nLEFT UPPER LOBE - ADENOCARCINOMA.\n\nCase Clinical Information\nLEFT UPPER LOBE MASS\n\nGross Description\nA. Received in formalin labeled with the patient's name and \"4R\n#1 node FS\" are two yellow-tan fibroadipose soft tissue\nfragments measuring 0.7 x 0.4 cm. Wrapped and submitted in A1.\nB. Received in formalin labeled with the patient's name and \"4R\n#2 node FS\" is a yellow-tan fibroadipose tissue measuring 1.5 x\n1.0 cm. Wrapped and entirely submitted in B1.\nC. Received in formalin labeled with the patient's name and\n\"station 7 lymph node FS\" are three yellow-tan fibroadipose\ntissue fragment measuring 0.7 x 0.5 cm. Wrapped and submitted in\nC1.\nD. Received in formalin labeled with the patient's name and \"4L\n#1 lymph node FS\" is a yellow-brown fibroadipose tissue\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in D1.\nE. Received in formalin labeled with the patient's name and \"4L\n#2 lymph node FS\" are two yellow-brown fibroadipose tissue\nfragment measuring 0.5 x 0.5 cm. Wrapped and submitted in E1.\n\nF. Received in formalin labeled with the patient's name and \"4L\n#3 lymph node FS\" is a yellow-tan fibroadipose tissue fragment\nmeasuring 0.7 x 0.5 cm. Wrapped and submitted in F1.\nG. Received in formalin labeled with the patient's name and\n\"station #5\" are three yellow-tan fibroadipose tissue fragments\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in G1.\nH. Received in formalin labeled with the patient's name and\n\"hilar node #1\" is a dark brown adipose tissue fragment\nmeasuring 0.4 x 0.3 cm. Wrapped and submitted in H1.\nI. Received in formalin labeled with the patient's name and\n\"hilar node #2\" is a yellow-tan fibroadipose tissue measuring\n0.8 x 0.7 cm. Wrapped and submitted in I1.\nJ. Received in formalin labeled with the patient's name and\n\nPrepared fo",
+          "confidence": {
+            "mean_probability": 0.9932787446159769,
+            "mean_log_probability": -0.008232505263157894,
+            "perplexity": 1.0082664855181478,
+            "min_probability": 0.42407285952939555
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 571,
+            "total_tokens": 3043
+          },
+          "composite_score": 0.9822677723876723,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 15.723906517028809,
+          "chars": 1888,
+          "words": 317,
+          "text": "Signed Others\nFrozen Section\nA. LEFT UPPER LOBE LYMPH NODES: 4R#1, 4R#2, STATION 7, 4L#1,\n4L#2, 4L#3 - NO TUMOR SEEN.\n\nLEFT UPPER LOBE - ADENOCARCINOMA.\n\nCase Clinical Information\nLEFT UPPER LOBE MASS\n\nGross Description\nA. Received in formalin labeled with the patient's name and \"4R\n#1 node FS\" are two yellow-tan fibroadipose soft tissue\nfragments measuring 0.7 x 0.4 cm. Wrapped and submitted in A1.\nB. Received in formalin labeled with the patient's name and \"4R\n#2 node FS\" is a yellow-tan fibroadipose tissue measuring 1.5 x\n1.0 cm. Wrapped and entirely submitted in B1.\nC. Received in formalin labeled with the patient's name and\n\"station 7 lymph node FS\" are three yellow-tan fibroadipose\ntissue fragment measuring 0.7 x 0.5 cm. Wrapped and submitted in\nC1.\nD. Received in formalin labeled with the patient's name and \"4L\n#1 lymph node FS\" is a yellow-brown fibroadipose tissue\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in D1.\nE. Received in formalin labeled with the patient's name and \"4L\n#2 lymph node FS\" are two yellow-brown fibroadipose tissue\nfragment measuring 0.5 x 0.5 cm. Wrapped and submitted in E1.\n\nF. Received in formalin labeled with the patient's name and \"4L\n#3 lymph node FS\" is a yellow-tan fibroadipose tissue fragment\nmeasuring 0.7 x 0.5 cm. Wrapped and submitted in F1.\nG. Received in formalin labeled with the patient's name and\n\"station #5\" are three yellow-tan fibroadipose tissue fragments\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in G1.\nH. Received in formalin labeled with the patient's name and\n\"hilar node #1\" is a dark brown adipose tissue fragment\nmeasuring 0.4 x 0.3 cm. Wrapped and submitted in H1.\nI. Received in formalin labeled with the patient's name and\n\"hilar node #2\" is a yellow-tan fibroadipose tissue measuring\n0.8 x 0.7 cm. Wrapped and submitted in I1.\nJ. Received in formalin labeled with the patient's name and\n\nPrepared fo",
+          "confidence": {
+            "mean_probability": 0.993425120539184,
+            "mean_log_probability": -0.008562414035087717,
+            "perplexity": 1.0085991763519577,
+            "min_probability": 0.2731399439330656
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 571,
+            "total_tokens": 3043
+          },
+          "composite_score": 0.9329078116414913
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.322102308273315,
+          "chars": 1888,
+          "words": 317,
+          "text": "Signed Others\nFrozen Section\nA. LEFT UPPER LOBE LYMPH NODES: 4R#1, 4R#2, STATION 7, 4L#1,\n4L#2, 4L#3 - NO TUMOR SEEN.\n\nLEFT UPPER LOBE - ADENOCARCINOMA.\n\n\nCase Clinical Information\nLEFT UPPER LOBE MASS\n\nGross Description\nA. Received in formalin labeled with the patient's name and \"4R\n#1 node FS\" are two yellow-tan fibroadipose soft tissue\nfragments measuring 0.7 x 0.4 cm. Wrapped and submitted in A1.\nB. Received in formalin labeled with the patient's name and \"4R\n#2 node FS\" is a yellow-tan fibroadipose tissue measuring 1.5 x\n1.0 cm. Wrapped and entirely submitted in B1.\nC. Received in formalin labeled with the patient's name and\n\"station 7 lymph node FS\" are three yellow-tan fibroadipose\ntissue fragment measuring 0.7 x 0.5 cm. Wrapped and submitted in\nC1.\nD. Received in formalin labeled with the patient's name and \"4L\n#1 lymph node FS\" is a yellow-brown fibroadipose tissue\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in D1.\nE. Received in formalin labeled with the patient's name and \"4L\n#2 lymph node FS\" are two yellow-brown fibroadipose tissue\nfragment measuring 0.5 x 0.5 cm. Wrapped and submitted in E1.\nF. Received in formalin labeled with the patient's name and \"4L\n#3 lymph node FS\" is a yellow-tan fibroadipose tissue fragment\nmeasuring 0.7 x 0.5 cm. Wrapped and submitted in F1.\nG. Received in formalin labeled with the patient's name and\n\"station #5\" are three yellow-tan fibroadipose tissue fragments\nmeasuring 0.4 x 0.4 cm. Wrapped and submitted in G1.\nH. Received in formalin labeled with the patient's name and\n\"hilar node #1\" is a dark brown adipose tissue fragment\nmeasuring 0.4 x 0.3 cm. Wrapped and submitted in H1.\nI. Received in formalin labeled with the patient's name and\n\"hilar node #2\" is a yellow-tan fibroadipose tissue measuring\n0.8 x 0.7 cm. Wrapped and submitted in I1.\nJ. Received in formalin labeled with the patient's name and\n\nPrepared fo",
+          "confidence": {
+            "mean_probability": 0.9931018111363871,
+            "mean_log_probability": -0.010410861403508772,
+            "perplexity": 1.0104652429769234,
+            "min_probability": 0.15001649864016608
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 571,
+            "total_tokens": 3043
+          },
+          "composite_score": 0.9315292699782778
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 16.008787393569946,
+        "chars": 1934,
+        "words": 298,
+        "text": "\"hilar node #3\" is a yellow-tan fibroadipose tissue measuring 0.4 x 0.3 cm. Wrapped and submitted in J1. [redacted] K. Received in formalin labeled with the patient's name and \"left upper lobe lung NONFS\" is a left upper lobe lung weighing 150 grams and measuring 15 x 7 x 4.0 cm. The pleura is a gray-dark brown with a moderate anthracotic streaking and has the staple line along one of the edges inked in black. The pleura has a retracted area which is inked in red. The specimen is serially sectioned showing gray-tan nodule measuring 3.5 x 2.5 x 3.5 cm located 1.7 cm from the stapled inked resection margin and 0.1 cm from the red inked pleura. The remainder of the parenchyma is gray-brown and spongy. No other lesion is grossly identified. Represented as follows: Bronchial and vascular resection margin in K1; tumor in relation with the pleural retracted area represented in K2-K7; parenchyma to the black inked stapled resection margin = K8; parenchyma away from the lesion = K9; and potential lymph node from the hilum measuring 0.7 cm = K10. [redacted] L. Received in formalin labeled with the patient's name and \"left upper lobe FS\" is a gray-tan frozen section tissue fragment measuring 1.5 x 1.2 cm. Entirely submitted in L1. [redacted]\n\n[redacted]\n\nSigned Supplemental\n\nK. BLOCK K4 WAS SENT TO RESPONSE GENETICS FOR EGFR MUTATION AND EXPRESSION, ERCC1, RRM1, TS, KRAS, AND ALK BREAK APART FISH. THE RESULTS ARE AS FOLLOWS:\n\nMARKER:        VALUE:        RESULTS:\nEGFR EXPRESSION  9.64         HIGH EXPRESSION\nERCC1           1.75         HIGH EXPRESSION\nRRM1            1.40         HIGH EXPRESSION\nTS              2.02         LOW EXPRESSION\nEGFR MUTATION   E19DEL       MUTATION\nKRAS            WILD-TYPE    NO MUTATION\nALK BREAK APART FISH  NEGATIVE  NEGATIVE REARRANGEMENT\n\n\nTHE FULL REPORT FROM RESPONSE GENETICS IS ON FILE IN THE PATHOLOGY DEPARTMENT.\n\n[redacted]\n\nProcedure\nPre[redacted]\n\n[redacted]... [redacted]",
+        "confidence": {
+          "mean_probability": 0.9788392528066742,
+          "mean_log_probability": -0.029555165170556556,
+          "perplexity": 1.029996253823695,
+          "min_probability": 0.19786763142673341
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 558,
+          "total_tokens": 3030
+        },
+        "composite_score": 0.9704346136503251,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 71.2% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 71.2% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 16.008787393569946,
+          "chars": 1934,
+          "words": 298,
+          "text": "\"hilar node #3\" is a yellow-tan fibroadipose tissue measuring 0.4 x 0.3 cm. Wrapped and submitted in J1. [redacted] K. Received in formalin labeled with the patient's name and \"left upper lobe lung NONFS\" is a left upper lobe lung weighing 150 grams and measuring 15 x 7 x 4.0 cm. The pleura is a gray-dark brown with a moderate anthracotic streaking and has the staple line along one of the edges inked in black. The pleura has a retracted area which is inked in red. The specimen is serially sectioned showing gray-tan nodule measuring 3.5 x 2.5 x 3.5 cm located 1.7 cm from the stapled inked resection margin and 0.1 cm from the red inked pleura. The remainder of the parenchyma is gray-brown and spongy. No other lesion is grossly identified. Represented as follows: Bronchial and vascular resection margin in K1; tumor in relation with the pleural retracted area represented in K2-K7; parenchyma to the black inked stapled resection margin = K8; parenchyma away from the lesion = K9; and potential lymph node from the hilum measuring 0.7 cm = K10. [redacted] L. Received in formalin labeled with the patient's name and \"left upper lobe FS\" is a gray-tan frozen section tissue fragment measuring 1.5 x 1.2 cm. Entirely submitted in L1. [redacted]\n\n[redacted]\n\nSigned Supplemental\n\nK. BLOCK K4 WAS SENT TO RESPONSE GENETICS FOR EGFR MUTATION AND EXPRESSION, ERCC1, RRM1, TS, KRAS, AND ALK BREAK APART FISH. THE RESULTS ARE AS FOLLOWS:\n\nMARKER:        VALUE:        RESULTS:\nEGFR EXPRESSION  9.64         HIGH EXPRESSION\nERCC1           1.75         HIGH EXPRESSION\nRRM1            1.40         HIGH EXPRESSION\nTS              2.02         LOW EXPRESSION\nEGFR MUTATION   E19DEL       MUTATION\nKRAS            WILD-TYPE    NO MUTATION\nALK BREAK APART FISH  NEGATIVE  NEGATIVE REARRANGEMENT\n\n\nTHE FULL REPORT FROM RESPONSE GENETICS IS ON FILE IN THE PATHOLOGY DEPARTMENT.\n\n[redacted]\n\nProcedure\nPre[redacted]\n\n[redacted]... [redacted]",
+          "confidence": {
+            "mean_probability": 0.9788392528066742,
+            "mean_log_probability": -0.029555165170556556,
+            "perplexity": 1.029996253823695,
+            "min_probability": 0.19786763142673341
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 558,
+            "total_tokens": 3030
+          },
+          "composite_score": 0.9704346136503251,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 71.2% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 71.2% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.812257051467896,
+          "chars": 1931,
+          "words": 298,
+          "text": "\"hilar node #3\" is a yellow-tan fibroadipose tissue measuring 0.4 x 0.3 cm. Wrapped and submitted in J1. [redacted] K. Received in formalin labeled with the patient's name and \"left upper lobe lung NONFS\" is a left upper lobe lung weighing 150 grams and measuring 15 x 7 x 4.0 cm. The pleura is a gray-dark brown with a moderate anthracotic streaking and has the staple line along one of the edges inked in black. The pleura has a retracted area which is inked in red. The specimen is serially sectioned showing gray-tan nodule measuring 3.5 x 2.5 x 3.5 cm located 1.7 cm from the stapled inked resection margin and 0.1 cm from the red inked pleura. The remainder of the parenchyma is gray-brown and spongy. No other lesion is grossly identified. Represented as follows: Bronchial and vascular resection margin in K1; tumor in relation with the pleural retracted area represented in K2-K7; parenchyma to the black inked stapled resection margin = K8; parenchyma away from the lesion = K9; and potential lymph node from the hilum measuring 0.7 cm = K10. [redacted] L. Received in formalin labeled with the patient's name and \"left upper lobe FS\" is a gray-tan frozen section tissue fragment measuring 1.5 x 1.2 cm. Entirely submitted in L1. [redacted]\n\n[redacted]\n\nSigned Supplemental\n\nK. BLOCK K4 WAS SENT TO RESPONSE GENETICS FOR EGFR MUTATION AND EXPRESSION, ERCC1, RRM1, TS, KRAS, AND ALK BREAK APART FISH. THE RESULTS ARE AS FOLLOWS:\n\nMARKER:       VALUE:       RESULTS:\nEGFR EXPRESSION     9.64     HIGH EXPRESSION\nERCC1               1.75     HIGH EXPRESSION\nRRM1                1.40     HIGH EXPRESSION\nTS                  2.02     LOW EXPRESSION\nEGFR MUTATION       E19DEL    MUTATION\nKRAS                WILD-TYPE NO MUTATION\nALK BREAK APART FISH NEGATIVE NEGATIVE REARRANGEMENT\n\n\nTHE FULL REPORT FROM RESPONSE GENETICS IS ON FILE IN THE PATHOLOGY DEPARTMENT.\n\n[redacted]\n\nProcedure\nPre[redacted]\n\n[redacted]... [redacted]",
+          "confidence": {
+            "mean_probability": 0.9797707886081122,
+            "mean_log_probability": -0.030643319494584837,
+            "perplexity": 1.0311176587211677,
+            "min_probability": 0.1632984125693494
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 555,
+            "total_tokens": 3027
+          },
+          "composite_score": 0.9208485086868801
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 158.27114963531494,
+          "chars": 7819,
+          "words": 293,
+          "text": "\"hilar node #3\" is a yellow-tan fibroadipose tissue measuring\n0.4 x 0.3 cm. Wrapped and submitted in J1. ██████\nK. Received in formalin labeled with the patient's name and\n\"left upper lobe lung NONFS\" is a left upper lobe lung weighing\n150 grams and measuring 15 x 7 x 4.0 cm. The pleura is a\ngray-dark brown with a moderate anthracotic streaking and has\nthe staple line along one of the edges inked in black. The\npleura has a retracted area which is inked in red. The specimen\nis serially sectioned showing gray-tan nodule measuring 3.5 x\n2.5 x 3.5 cm located 1.7 cm from the stapled inked resection\nmargin and 0.1 cm from the red inked pleura. The remainder of\nthe parenchyma is gray-brown and spongy. No other lesion is\ngrossly identified. Represented as follows: Bronchial and\nvascular resection margin in K1; tumor in relation with the\npleural retracted area represented in K2-K7; parenchyma to the\nblack inked stapled resection margin = K8; parenchyma away from\nthe lesion = K9; and potential lymph node from the hilum\nmeasuring 0.7 cm = K10. ██████s)\nL. Received in formalin labeled with the patient's name and\n\"left upper lobe FS\" is a gray-tan frozen section tissue\nfragment measuring 1.5 x 1.2 cm. Entirely submitted in L1.█n\n(██████\n\nSigned Supplemental\nK. BLOCK K4 WAS SENT TO RESPONSE GENETICS FOR EGFR MUTATION AND\nEXPRESSION, ERCC1, RRM1, TS, KRAS, AND ALK BREAK APART FISH.\nTHE RESULTS ARE AS FOLLOWS:\n\nMARKER:        VALUE:       RESULTS:\nEGFR EXPRESSION  9.64       HIGH EXPRESSION\nERCC1           1.75       HIGH EXPRESSION\nRRM1            1.40       HIGH EXPRESSION\nTS              2.02       LOW EXPRESSION\nEGFR MUTATION   E19DEL     MUTATION\nKRAS            WILD-TYPE  NO MUTATION\nALK BREAK APART FISH NEGATIVE  NEGATIVE REARRANGEMENT\n\n\nTHE FULL REPORT FROM RESPONSE GENETICS IS ON FILE IN THE\nPATHOLOGY DEPARTMENT.\n\n████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9854436918272229,
+            "mean_log_probability": -0.0188411357421875,
+            "perplexity": 1.0190197499415212,
+            "min_probability": 0.18055244308528187
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.5615673233077905
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.68338942527771,
+        "chars": 816,
+        "words": 168,
+        "text": "A. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nB. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nC. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nD. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nE. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nF. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nG. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nH. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nI. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nJ. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.1  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.2  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.3  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.4  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.5  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.6  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.7  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.8  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.9  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.10  \nH&E X1  \nL. AA ROUTINE H&E X1 BLOCK  \nH&E X1",
+        "confidence": {
+          "mean_probability": 0.9967406558448442,
+          "mean_log_probability": -0.004196123943661972,
+          "perplexity": 1.0042049399985105,
+          "min_probability": 0.5245780782368377
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 356,
+          "total_tokens": 2828
+        },
+        "composite_score": 0.8782571279505178,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.68338942527771,
+          "chars": 816,
+          "words": 168,
+          "text": "A. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nB. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nC. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nD. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nE. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nF. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nG. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nH. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nI. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nJ. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.1  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.2  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.3  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.4  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.5  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.6  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.7  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.8  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.9  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.10  \nH&E X1  \nL. AA ROUTINE H&E X1 BLOCK  \nH&E X1",
+          "confidence": {
+            "mean_probability": 0.9967406558448442,
+            "mean_log_probability": -0.004196123943661972,
+            "perplexity": 1.0042049399985105,
+            "min_probability": 0.5245780782368377
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 356,
+            "total_tokens": 2828
+          },
+          "composite_score": 0.8782571279505178,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.722018241882324,
+          "chars": 816,
+          "words": 168,
+          "text": "A. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nB. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nC. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nD. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nE. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nF. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nG. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nH. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nI. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nJ. AA ROUTINE H&E X1 BLOCK  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.1  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.2  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.3  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.4  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.5  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.6  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.7  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.8  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.9  \nH&E X1  \nK. AA ROUTINE H&E X1 BLOCK.10  \nH&E X1  \nL. AA ROUTINE H&E X1 BLOCK  \nH&E X1",
+          "confidence": {
+            "mean_probability": 0.9970451717398919,
+            "mean_log_probability": -0.0037971042253521123,
+            "perplexity": 1.0038043223587112,
+            "min_probability": 0.4648214154303112
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 356,
+            "total_tokens": 2828
+          },
+          "composite_score": 0.8346451170190466
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.961522579193115,
+          "chars": 894,
+          "words": 178,
+          "text": "```plaintext\nPage 5 of 5\n\nA. AA ROUTINE H&E X1 BLOCK\nH&E X1\nB. AA ROUTINE H&E X1 BLOCK\nH&E X1\nC. AA ROUTINE H&E X1 BLOCK\nH&E X1\nD. AA ROUTINE H&E X1 BLOCK\nH&E X1\nE. AA ROUTINE H&E X1 BLOCK\nH&E X1\nF. AA ROUTINE H&E X1 BLOCK\nH&E X1\nG. AA ROUTINE H&E X1 BLOCK\nH&E X1\nH. AA ROUTINE H&E X1 BLOCK\nH&E X1\nI. AA ROUTINE H&E X1 BLOCK\nH&E X1\nJ. AA ROUTINE H&E X1 BLOCK\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.1\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.2\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.3\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.4\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.5\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.6\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.7\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.8\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.9\nH&E X1\nK. AA ROUTINE H&E X1 BLOCK.10\nH&E X1\nL. AA ROUTINE H&E X1 BLOCK\nH&E X1\n\n______________________________________________________________________________________________\nPrepared fo[redacted]\n\n[redacted]\n```",
+          "confidence": {
+            "mean_probability": 0.9804943996068818,
+            "mean_log_probability": -0.035956737532808404,
+            "perplexity": 1.0366109991714858,
+            "min_probability": 0.11376560997692006
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 382,
+            "total_tokens": 2854
+          },
+          "composite_score": 0.8185513689868792
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
