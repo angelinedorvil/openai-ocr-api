@@ -1,0 +1,95 @@
+{
+  "pdf": "input_pdfs\\high_quality\\0c4cfb37-1ef3-4782-8a37-92c3cc3e7828\\TCGA-J2-8192.AB6BB598-F1A2-4691-90C4-E8D63DEA8772.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.109574794769287,
+        "chars": 861,
+        "words": 180,
+        "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n\nPrepared f",
+        "confidence": {
+          "mean_probability": 0.9853898851141909,
+          "mean_log_probability": -0.018971217391304345,
+          "perplexity": 1.0191523143329868,
+          "min_probability": 0.27120616252480617
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 369,
+          "total_tokens": 2841
+        },
+        "composite_score": 0.8712055911550687,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.109574794769287,
+          "chars": 861,
+          "words": 180,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.9853898851141909,
+            "mean_log_probability": -0.018971217391304345,
+            "perplexity": 1.0191523143329868,
+            "min_probability": 0.27120616252480617
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 369,
+            "total_tokens": 2841
+          },
+          "composite_score": 0.8712055911550687,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.813660144805908,
+          "chars": 861,
+          "words": 180,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.9845086968717931,
+            "mean_log_probability": -0.020017065217391303,
+            "perplexity": 1.0202187501329594,
+            "min_probability": 0.312800710154081
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 369,
+            "total_tokens": 2841
+          },
+          "composite_score": 0.8268805734830523
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.203740358352661,
+          "chars": 861,
+          "words": 180,
+          "text": "Page 1 of 5\n\nMRN\nName\nEncounter Number\nCOPY ONLY DO NOT FILE\n\nSURGICAL PATHOLOGY\n\nTime Collected\nTime Reported\nOrdering Provider\nStatus\n\nTime Received\nOrder Number\n\nResults\nCorrection\n\nSource of Specimen\nA. 4R #1 NODE - FS-\nB. 4R #2 NODE - FS-\nC. STATION 7 LYMPH NODE - FS-\nD. 4L #1 LYMPH NODE - FS-\nE. 4L #2 LYMPH NODE - FS-\nF. 4L #3 LYMPH NODE - FS-\nG. STATION #5-\nH. HILAR NODE #1-\nI. HILAR NODE #2-\nJ. HILAR NODE #3-\nK. LEFT UPPER LOBE LUNG NONFS-\nL. LEFT UPPER LOBE LUNG FS-\n\nFINAL DIAGNOSIS:\nA. 4R #1 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nB. 4R #2 NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nC. STATION 7 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nD. 4L #1 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nE. 4L #2 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nF. 4L #3 LYMPH NODE - FS-\nLYMPH NODE, NO TUMOR SEEN.\nG. STATION #5-\nLYMPH NODE, NO TUMOR SEEN.\n\nPrepared f",
+          "confidence": {
+            "mean_probability": 0.9839160146645484,
+            "mean_log_probability": -0.021612173913043476,
+            "perplexity": 1.0218474085310245,
+            "min_probability": 0.20677852211214331
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 369,
+            "total_tokens": 2841
+          },
+          "composite_score": 0.8257172235273488
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

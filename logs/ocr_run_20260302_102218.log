@@ -1,0 +1,20 @@
+================================================================================
+OPENAI OCR RUN START
+Timestamp: 2026-03-02T10:22:18.544845
+Input folder: input_pdfs
+Output folder: outputs
+Limits: {'high_quality': 15, 'low_quality': 15, 'medium_quality': 20}
+================================================================================
+
+--------------------------------------------------------------------------------
+QUALITY: high_quality | limit=15
+--------------------------------------------------------------------------------
+
+[START] input_pdfs\high_quality\05fc3749-a445-4f28-97c6-872b27de29f1\TCGA-95-7947.003C68CB-72EA-44C9-80E3-F62224AB3EE2.PDF
+  -> TXT:  outputs\TCGA-95-7947.003C68CB-72EA-44C9-80E3-F62224AB3EE2.txt
+  -> JSON: outputs\json\TCGA-95-7947.003C68CB-72EA-44C9-80E3-F62224AB3EE2_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=4095 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=4095 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... 

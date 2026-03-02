@@ -1,0 +1,62 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\0c4cfb37-1ef3-4782-8a37-92c3cc3e7828\TCGA-J2-8192.AB6BB598-F1A2-4691-90C4-E8D63DEA8772.PDF
+Processing Date: 2026-03-02 09:58:28
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 5
+
+MRN
+Name
+Encounter Number
+COPY ONLY DO NOT FILE
+
+SURGICAL PATHOLOGY
+
+Time Collected
+Time Reported
+Ordering Provider
+Status
+
+Time Received
+Order Number
+
+Results
+Correction
+
+Source of Specimen
+A. 4R #1 NODE - FS-
+B. 4R #2 NODE - FS-
+C. STATION 7 LYMPH NODE - FS-
+D. 4L #1 LYMPH NODE - FS-
+E. 4L #2 LYMPH NODE - FS-
+F. 4L #3 LYMPH NODE - FS-
+G. STATION #5-
+H. HILAR NODE #1-
+I. HILAR NODE #2-
+J. HILAR NODE #3-
+K. LEFT UPPER LOBE LUNG NONFS-
+L. LEFT UPPER LOBE LUNG FS-
+
+FINAL DIAGNOSIS:
+A. 4R #1 NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+B. 4R #2 NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+C. STATION 7 LYMPH NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+D. 4L #1 LYMPH NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+E. 4L #2 LYMPH NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+F. 4L #3 LYMPH NODE - FS-
+LYMPH NODE, NO TUMOR SEEN.
+G. STATION #5-
+LYMPH NODE, NO TUMOR SEEN.
+
+Prepared f

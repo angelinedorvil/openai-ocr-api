@@ -2,6 +2,7 @@ import os
 import io
 import time
 import base64
+import sys
 import json
 import traceback
 from datetime import datetime
@@ -24,8 +25,31 @@ MIN_PROB_THRESHOLD = 0.05
 
 DEFAULT_DPI = 300
 DEFAULT_MAX_OUTPUT_TOKENS = 2048
+DEBUG = False
 
 client = OpenAI()
+
+
+# -----------------------------
+# PDF -> file paths
+# -----------------------------
+def iter_pdfs_recursive(root: str):
+    for dirpath, _, filenames in os.walk(root):
+        for fn in filenames:
+            if fn.lower().endswith(".pdf"):
+                yield os.path.join(dirpath, fn)
+
+class FileOnlyLogger:
+    """Redirect stdout/stderr to a file only."""
+    def __init__(self, f):
+        self.f = f
+
+    def write(self, data):
+        self.f.write(data)
+        self.f.flush()
+
+    def flush(self):
+        self.f.flush()
 
 # -----------------------------
 # PDF -> Images
@@ -93,7 +117,7 @@ def confidence_from_logprobs(token_logprobs: List[float]) -> Dict:
 # -----------------------------
 # Scoring / selection
 # -----------------------------
-def calculate_composite_score(chars: int, confidence: Dict, temperature: float) -> float:
+def calculate_composite_score(chars: int, confidence: Dict, temperature: float, expected_chars: int) -> float:
     if confidence.get("perplexity") is None:
         return 0.0
 
@@ -106,13 +130,22 @@ def calculate_composite_score(chars: int, confidence: Dict, temperature: float) 
     min_prob_penalty = 1.0 if min_prob > MIN_PROB_THRESHOLD else 0.7
     temperature_penalty = 1.0 if temperature <= 0.1 else 0.95
 
-    return ((0.80 * quality_score) + (0.20 * normalized_length)) * min_prob_penalty * temperature_penalty
+    # NEW: length outlier penalty (prevents runaway long attempts)
+    # If attempt is > 1.8x expected length, penalize.
+    length_penalty = 1.0
+    if expected_chars > 0 and chars > int(1.8 * expected_chars):
+        length_penalty = 0.6
+
+    return ((0.80 * quality_score) + (0.20 * normalized_length)) * min_prob_penalty * temperature_penalty * length_penalty
 
 
 def select_best_ocr(all_responses: List[Dict]) -> Dict:
     scored = []
+    char_counts = [r["chars"] for r in all_responses]
+    expected_chars = int(np.median(char_counts))
+
     for r in all_responses:
-        score = calculate_composite_score(r["chars"], r["confidence"], r["temperature"])
+        score = calculate_composite_score(r["chars"], r["confidence"], r["temperature"], expected_chars)
         r["composite_score"] = score
         scored.append((score, r))
 
@@ -171,6 +204,19 @@ def ocr_via_api_once(
         }],
     )
 
+    if DEBUG:
+        print("DEBUG: resp.output types:", [item.type for item in resp.output])
+        for item in resp.output:
+            if item.type == "message":
+                for c in item.content:
+                    print("DEBUG: content type:", getattr(c, "type", None), "has logprobs:", hasattr(c, "logprobs"))
+                    if hasattr(c, "logprobs") and c.logprobs:
+                        lp0 = c.logprobs[0]
+                        print("DEBUG: first logprob entry type:", type(lp0))
+                        print("DEBUG: first logprob entry attrs:", [a for a in dir(lp0) if not a.startswith("_")][:25])
+                        print("DEBUG: first logprob entry logprob:", getattr(lp0, "logprob", None))
+                        print("DEBUG: first logprob entry token:", getattr(lp0, "token", None))
+
     elapsed = time.time() - start
     text = getattr(resp, "output_text", "") or ""
 
@@ -182,10 +228,12 @@ def ocr_via_api_once(
                     lp_list = getattr(c, "logprobs", None)
                     if lp_list:
                         for lp in lp_list:
-                            if lp.get("logprob") is not None:
-                                token_logprobs.append(lp["logprob"])
+                            lpv = getattr(lp, "logprob", None)
+                            if lpv is not None:
+                                token_logprobs.append(float(lpv))
     except Exception:
         token_logprobs = []
+        pass
 
     usage = getattr(resp, "usage", None)
     return {"text": text, "time": elapsed, "usage": usage, "token_logprobs": token_logprobs}
@@ -344,19 +392,93 @@ def ocr_pdf_api(
     return {"summary": summary, "pages": results_pages}
 
 if __name__ == "__main__":
-    pdf_path = r"input_pdfs\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.PDF"
-    out_txt = r"outputs\TCGA-94-7943_ocr.txt"
-    out_json = r"outputs\json\TCGA-94-7943_ocr.json"
+    input_folder = r"input_pdfs"
+    output_folder = r"outputs"   
+    logs_folder = r"logs"
 
-    result = ocr_pdf_api(
-        pdf_path=pdf_path,
-        out_txt_path=out_txt,
-        out_json_path=out_json,
-        dpi=300,
-        attempts_per_page=3,
-        use_cot=True,
-        max_pages=1  # start with 1 page to test
+    os.makedirs(logs_folder, exist_ok=True)
+    os.makedirs(os.path.join(output_folder, "json"), exist_ok=True)
+
+    log_path = os.path.join(
+        logs_folder,
+        f"ocr_run_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
     )
 
-    print("\nDONE")
-    print(result["summary"])
+    limits = {
+        "high_quality": 15,
+        "low_quality": 15,
+        "medium_quality": 20,
+    }
+
+    with open(log_path, "a", encoding="utf-8") as logf:
+        # Redirect ALL prints + exceptions to the log file only
+        old_stdout, old_stderr = sys.stdout, sys.stderr
+        sys.stdout = FileOnlyLogger(logf)
+        sys.stderr = FileOnlyLogger(logf)
+
+        try:
+            print("=" * 80)
+            print("OPENAI OCR RUN START")
+            print(f"Timestamp: {datetime.now().isoformat()}")
+            print(f"Input folder: {input_folder}")
+            print(f"Output folder: {output_folder}")
+            print(f"Limits: {limits}")
+            print("=" * 80)
+
+            for quality, limit in limits.items():
+                pdf_root = os.path.join(input_folder, quality)
+                if not os.path.exists(pdf_root):
+                    print(f"[WARN] Missing folder: {pdf_root}")
+                    continue
+
+                print("\n" + "-" * 80)
+                print(f"QUALITY: {quality} | limit={limit}")
+                print("-" * 80)
+
+                processed = 0
+
+                for pdf_path in iter_pdfs_recursive(pdf_root):
+                    if processed >= limit:
+                        break
+
+                    base_name = os.path.splitext(os.path.basename(pdf_path))[0]
+                    out_txt = os.path.join(output_folder, f"{base_name}.txt")
+                    out_json = os.path.join(output_folder, "json", f"{base_name}_ocr.json")
+
+                    print(f"\n[START] {pdf_path}")
+                    print(f"  -> TXT:  {out_txt}")
+                    print(f"  -> JSON: {out_json}")
+
+                    try:
+                        result = ocr_pdf_api(
+                            pdf_path=pdf_path,
+                            out_txt_path=out_txt,
+                            out_json_path=out_json,
+                            dpi=300,
+                            attempts_per_page=3,
+                            use_cot=True,
+                            max_pages=10,   # keep your cost-control cap; set None later
+                        )
+                        print("[DONE]")
+                        print(result["summary"])
+                        processed += 1
+
+                    except Exception as e:
+                        print("[ERROR]")
+                        print(f"Exception: {e}")
+                        print(traceback.format_exc())
+
+                print(f"\n[SUMMARY] {quality}: processed {processed}/{limit}")
+
+            print("\n" + "=" * 80)
+            print("OPENAI OCR RUN END")
+            print(f"Finished: {datetime.now().isoformat()}")
+            print("=" * 80)
+
+        finally:
+            # Restore normal stdout/stderr so your terminal isn't “silent” forever
+            sys.stdout, sys.stderr = old_stdout, old_stderr
+
+    # Optional: one final terminal line so you know where the log is.
+    # If you truly want NOTHING in terminal, delete this.
+    print(f"Log written to: {log_path}")
