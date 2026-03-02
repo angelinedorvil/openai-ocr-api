@@ -1,0 +1,185 @@
+{
+  "pdf": "input_pdfs\\low_quality\\1f9e31e4-6c5b-4b77-a865-bba33d8effdb\\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.810802459716797,
+        "chars": 1617,
+        "words": 226,
+        "text": "```\nSURGICAL PATHOLOGY REPORT\n\nDIAGNOSIS:\n\nDIAGNOSIS:\nA. Right upper lobe lung mass; biopsy:\n        Adenocarcinoma.\n        Intraoperative consultation corroborated.\n\nB. Station 10; excision:\n        No metastatic carcinoma identified (0/1).\n\nC. Interlobar lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nD. Right paratracheal lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nE. Right upper lung lobe; lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: Poorly differentiated.\n3. Tumor site: Right upper lobe.\n4. Tumor focality: Unifocal.\n5. Tumor size: 4.5 x 3.0 x 2.5 cm.\n6. Visceral pleural invasion: Not identified.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Tumor limited to the pulmonary parenchyma.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 0.2 cm.\n2. Tumor distance from parenchymal (stapled) margin: 0.2 cm.\n3. Tumor distance from pleural surface: 0.7 cm.\n        Lymph Node Status:\n1. Total number of lymph nodes received: 4, see specimens B, C, D and F.\n2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/4).\n        Other:\n1. pTNM stage: pT2a N0.\n2. Lung cancer molecular panel is pending, results will be reported as an addendum.\n\nF. Subcarinal lymph node; excision:\n        No metastatic carcinoma identified in one lymph node (0/1).\n\nCOMMENTS:\nThe tumor is positive for cytokeratin 7 and TTF and negative for cytokeratin 20 and p63. Supporting the diagnosis of adenocarcinoma of the lung.\n```",
+        "confidence": {
+          "mean_probability": 0.9854033642989201,
+          "mean_log_probability": -0.01850583673469388,
+          "perplexity": 1.0186781309062118,
+          "min_probability": 0.34862759135127774
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 442,
+          "total_tokens": 2914
+        },
+        "composite_score": 0.9471643254326174,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.810802459716797,
+          "chars": 1617,
+          "words": 226,
+          "text": "```\nSURGICAL PATHOLOGY REPORT\n\nDIAGNOSIS:\n\nDIAGNOSIS:\nA. Right upper lobe lung mass; biopsy:\n        Adenocarcinoma.\n        Intraoperative consultation corroborated.\n\nB. Station 10; excision:\n        No metastatic carcinoma identified (0/1).\n\nC. Interlobar lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nD. Right paratracheal lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nE. Right upper lung lobe; lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: Poorly differentiated.\n3. Tumor site: Right upper lobe.\n4. Tumor focality: Unifocal.\n5. Tumor size: 4.5 x 3.0 x 2.5 cm.\n6. Visceral pleural invasion: Not identified.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Tumor limited to the pulmonary parenchyma.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 0.2 cm.\n2. Tumor distance from parenchymal (stapled) margin: 0.2 cm.\n3. Tumor distance from pleural surface: 0.7 cm.\n        Lymph Node Status:\n1. Total number of lymph nodes received: 4, see specimens B, C, D and F.\n2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/4).\n        Other:\n1. pTNM stage: pT2a N0.\n2. Lung cancer molecular panel is pending, results will be reported as an addendum.\n\nF. Subcarinal lymph node; excision:\n        No metastatic carcinoma identified in one lymph node (0/1).\n\nCOMMENTS:\nThe tumor is positive for cytokeratin 7 and TTF and negative for cytokeratin 20 and p63. Supporting the diagnosis of adenocarcinoma of the lung.\n```",
+          "confidence": {
+            "mean_probability": 0.9854033642989201,
+            "mean_log_probability": -0.01850583673469388,
+            "perplexity": 1.0186781309062118,
+            "min_probability": 0.34862759135127774
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 442,
+            "total_tokens": 2914
+          },
+          "composite_score": 0.9471643254326174,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.123940229415894,
+          "chars": 1617,
+          "words": 226,
+          "text": "```\nSURGICAL PATHOLOGY REPORT\n\nDIAGNOSIS:\n\nDIAGNOSIS:\nA. Right upper lobe lung mass; biopsy:\n        Adenocarcinoma.\n        Intraoperative consultation corroborated.\n\nB. Station 10; excision:\n        No metastatic carcinoma identified (0/1).\n\nC. Interlobar lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nD. Right paratracheal lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nE. Right upper lung lobe; lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: Poorly differentiated.\n3. Tumor site: Right upper lobe.\n4. Tumor focality: Unifocal.\n5. Tumor size: 4.5 x 3.0 x 2.5 cm.\n6. Visceral pleural invasion: Not identified.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Tumor limited to the pulmonary parenchyma.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 0.2 cm.\n2. Tumor distance from parenchymal (stapled) margin: 0.2 cm.\n3. Tumor distance from pleural surface: 0.7 cm.\n        Lymph Node Status:\n1. Total number of lymph nodes received: 4, see specimens B, C, D and F.\n2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/4).\n        Other:\n1. pTNM stage: pT2a N0.\n2. Lung cancer molecular panel is pending, results will be reported as an addendum.\n\nF. Subcarinal lymph node; excision:\n        No metastatic carcinoma identified in one lymph node (0/1).\n\nCOMMENTS:\nThe tumor is positive for cytokeratin 7 and TTF and negative for cytokeratin 20 and p63. Supporting the diagnosis of adenocarcinoma of the lung.\n```",
+          "confidence": {
+            "mean_probability": 0.9856468084308605,
+            "mean_log_probability": -0.018097142857142853,
+            "perplexity": 1.0182618884545798,
+            "min_probability": 0.3435591445655629
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 442,
+            "total_tokens": 2914
+          },
+          "composite_score": 0.9001056520287148
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 18.590295553207397,
+          "chars": 1616,
+          "words": 226,
+          "text": "```\nSURGICAL PATHOLOGY REPORT\n\nDIAGNOSIS:\nDIAGNOSIS:\nA. Right upper lobe lung mass; biopsy:\n        Adenocarcinoma.\n        Intraoperative consultation corroborated.\n\nB. Station 10; excision:\n        No metastatic carcinoma identified (0/1).\n\nC. Interlobar lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nD. Right paratracheal lymph node; excision:\n        No metastatic carcinoma identified (0/1).\n\nE. Right upper lung lobe; lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: Poorly differentiated.\n3. Tumor site: Right upper lobe.\n4. Tumor focality: Unifocal.\n5. Tumor size: 4.5 x 3.0 x 2.5 cm.\n6. Visceral pleural invasion: Not identified.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Tumor limited to the pulmonary parenchyma.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 0.2 cm.\n2. Tumor distance from parenchymal (stapled) margin: 0.2 cm.\n3. Tumor distance from pleural surface: 0.7 cm.\n        Lymph Node Status:\n1. Total number of lymph nodes received: 4, see specimens B, C, D and F.\n2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/4).\n        Other:\n1. pTNM stage: pT2a N0.\n2. Lung cancer molecular panel is pending, results will be reported as an addendum.\n\nF. Subcarinal lymph node; excision:\n        No metastatic carcinoma identified in one lymph node (0/1).\n\nCOMMENTS:\nThe tumor is positive for cytokeratin 7 and TTF and negative for cytokeratin 20 and p63. Supporting the diagnosis of adenocarcinoma of the lung.\n```",
+          "confidence": {
+            "mean_probability": 0.9851319862570656,
+            "mean_log_probability": -0.01876200453514739,
+            "perplexity": 1.018939116869049,
+            "min_probability": 0.2770572819861333
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 442,
+            "total_tokens": 2914
+          },
+          "composite_score": 0.8995234793374353
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 21.383461713790894,
+        "chars": 2536,
+        "words": 401,
+        "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right upper lobe lung mass, suspicious for carcinoma.\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Right upper lobe lung mass\nB. Station 10\nC. Interlobar lymph node\nD. Right paratracheal lymph node\nE. Right upper lung lobe\nF. Subcarinal lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. Container A is labeled #1'. Received for frozen section and subsequently placed in formalin are numerous fragments of yellow-tan soft tissue,\nup to 0.7 x 0.2 x 0.2 cm. The entire specimen is submitted in cassette A1 labeled\n\nB. Container B is labeled 'station 10'. Received in formalin, is a 1.4 x 1.0 x 0.3 cm portion of anthracotic tissue. The entire specimen is sectioned\nand submitted in cassette B1 labeled\n\nC. Container C is labeled interlobar lymph node'. Received in formalin, is a 1.4 x 0.6 x 0.4 cm anthracotic lymph node. The lymph node is\nquadrisected and submitted in cassette C1 labeled\n\nD. Container D is labeled right paratracheal lymph node'. Received in formalin are three anthracotic lymph nodes, ranging from 0.5 cm to 2.2 cm\nin greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: D1) intact smallest lymph node; D2-D3) each\nwith one sectioned lymph node in toto.\n\nE. Container E is labeled right upper lung lobe'. Received in formalin is a 175 gram, 11.8 x 14.5 x 3.3 cm lobe of lung with a 12.5 cm long\nstapled margin at one aspect. The staples are removed and the underlying parenchyma is inked black. The pleura is smooth and glistening, moderately\nviolaceous and has been previously focally inked blue. Sectioning reveals a 4.5 x 3.0 x 2.5 cm tan-white, focally anthracotic tumor which extends to\nwithin 0.7 cm of the previously inked pleura, and 0.2 cm from the bronchial and vascular resection margins. The remaining lung is spongy, red-tan.\nRepresentative sections are submitted for genomics studies in three cassettes labeled Sections are submitted in cassettes labeled\nas follows: E1) bronchial resection margin; E2) vascular resection margin; E3-E6) tumor to inked pleura; E7-E8) representative remaining lung\nparenchyma.\n\nF. Container F is labeled subcarinal lymph node'. Received in formalin are four pieces of anthracotic tissue ranging from 1.1 cm to 2.3 cm in\ngreatest dimensions. The entire specimen is submitted in cassettes labeled as follows: F1-F4) each with one sectioned lymph node in\ntoto.\n\nINTRA-OPERATIVE CONSULTATION:\nA. FROZEN SECTION DIAGNOSIS: Non-small cell carcinoma per Dr.",
+        "confidence": {
+          "mean_probability": 0.992427677737055,
+          "mean_log_probability": -0.01024912518195051,
+          "perplexity": 1.0103018273619768,
+          "min_probability": 0.12514465134150857
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 688,
+          "total_tokens": 3160
+        },
+        "composite_score": 0.9918838829540351,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 21.383461713790894,
+          "chars": 2536,
+          "words": 401,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right upper lobe lung mass, suspicious for carcinoma.\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Right upper lobe lung mass\nB. Station 10\nC. Interlobar lymph node\nD. Right paratracheal lymph node\nE. Right upper lung lobe\nF. Subcarinal lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. Container A is labeled #1'. Received for frozen section and subsequently placed in formalin are numerous fragments of yellow-tan soft tissue,\nup to 0.7 x 0.2 x 0.2 cm. The entire specimen is submitted in cassette A1 labeled\n\nB. Container B is labeled 'station 10'. Received in formalin, is a 1.4 x 1.0 x 0.3 cm portion of anthracotic tissue. The entire specimen is sectioned\nand submitted in cassette B1 labeled\n\nC. Container C is labeled interlobar lymph node'. Received in formalin, is a 1.4 x 0.6 x 0.4 cm anthracotic lymph node. The lymph node is\nquadrisected and submitted in cassette C1 labeled\n\nD. Container D is labeled right paratracheal lymph node'. Received in formalin are three anthracotic lymph nodes, ranging from 0.5 cm to 2.2 cm\nin greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: D1) intact smallest lymph node; D2-D3) each\nwith one sectioned lymph node in toto.\n\nE. Container E is labeled right upper lung lobe'. Received in formalin is a 175 gram, 11.8 x 14.5 x 3.3 cm lobe of lung with a 12.5 cm long\nstapled margin at one aspect. The staples are removed and the underlying parenchyma is inked black. The pleura is smooth and glistening, moderately\nviolaceous and has been previously focally inked blue. Sectioning reveals a 4.5 x 3.0 x 2.5 cm tan-white, focally anthracotic tumor which extends to\nwithin 0.7 cm of the previously inked pleura, and 0.2 cm from the bronchial and vascular resection margins. The remaining lung is spongy, red-tan.\nRepresentative sections are submitted for genomics studies in three cassettes labeled Sections are submitted in cassettes labeled\nas follows: E1) bronchial resection margin; E2) vascular resection margin; E3-E6) tumor to inked pleura; E7-E8) representative remaining lung\nparenchyma.\n\nF. Container F is labeled subcarinal lymph node'. Received in formalin are four pieces of anthracotic tissue ranging from 1.1 cm to 2.3 cm in\ngreatest dimensions. The entire specimen is submitted in cassettes labeled as follows: F1-F4) each with one sectioned lymph node in\ntoto.\n\nINTRA-OPERATIVE CONSULTATION:\nA. FROZEN SECTION DIAGNOSIS: Non-small cell carcinoma per Dr.",
+          "confidence": {
+            "mean_probability": 0.992427677737055,
+            "mean_log_probability": -0.01024912518195051,
+            "perplexity": 1.0103018273619768,
+            "min_probability": 0.12514465134150857
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 688,
+            "total_tokens": 3160
+          },
+          "composite_score": 0.9918838829540351,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 27.46122121810913,
+          "chars": 2537,
+          "words": 401,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right upper lobe lung mass, suspicious for carcinoma.\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Right upper lobe lung mass\nB. Station 10\nC. Interlobar lymph node\nD. Right paratracheal lymph node\nE. Right upper lung lobe\nF. Subcarinal lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. Container A is labeled #1'. Received for frozen section and subsequently placed in formalin are numerous fragments of yellow-tan soft tissue,\nup to 0.7 x 0.2 x 0.2 cm. The entire specimen is submitted in cassette A1 labeled\n\nB. Container B is labeled 'station 10'. Received in formalin, is a 1.4 x 1.0 x 0.3 cm portion of anthracotic tissue. The entire specimen is sectioned\nand submitted in cassette B1 labeled\n\nC. Container C is labeled interlobar lymph node'. Received in formalin, is a 1.4 x 0.6 x 0.4 cm anthracotic lymph node. The lymph node is\nquadrisected and submitted in cassette C1 labeled.\n\nD. Container D is labeled right paratracheal lymph node'. Received in formalin are three anthracotic lymph nodes, ranging from 0.5 cm to 2.2 cm\nin greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: D1) intact smallest lymph node; D2-D3) each\nwith one sectioned lymph node in toto.\n\nE. Container E is labeled right upper lung lobe'. Received in formalin is a 175 gram, 11.8 x 14.5 x 3.3 cm lobe of lung with a 12.5 cm long\nstapled margin at one aspect. The staples are removed and the underlying parenchyma is inked black. The pleura is smooth and glistening, moderately\nviolaceous and has been previously focally inked blue. Sectioning reveals a 4.5 x 3.0 x 2.5 cm tan-white, focally anthracotic tumor which extends to\nwithin 0.7 cm of the previously inked pleura, and 0.2 cm from the bronchial and vascular resection margins. The remaining lung is spongy, red-tan.\nRepresentative sections are submitted for genomics studies in three cassettes labeled Sections are submitted in cassettes labeled\nas follows: E1) bronchial resection margin; E2) vascular resection margin; E3-E6) tumor to inked pleura; E7-E8) representative remaining lung\nparenchyma.\n\nF. Container F is labeled subcarinal lymph node'. Received in formalin are four pieces of anthracotic tissue ranging from 1.1 cm to 2.3 cm in\ngreatest dimensions. The entire specimen is submitted in cassettes labeled as follows: F1-F4) each with one sectioned lymph node in\ntoto.\n\nINTRA-OPERATIVE CONSULTATION:\nA. FROZEN SECTION DIAGNOSIS: Non-small cell carcinoma per Dr.",
+          "confidence": {
+            "mean_probability": 0.9922009278521017,
+            "mean_log_probability": -0.010582659388646288,
+            "perplexity": 1.0106388537822846,
+            "min_probability": 0.12950769224905878
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 688,
+            "total_tokens": 3160
+          },
+          "composite_score": 0.942041401996511
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 27.596742153167725,
+          "chars": 2536,
+          "words": 401,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right upper lobe lung mass, suspicious for carcinoma.\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Right upper lobe lung mass\nB. Station 10\nC. Interlobar lymph node\nD. Right paratracheal lymph node\nE. Right upper lung lobe\nF. Subcarinal lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. Container A is labeled #1'. Received for frozen section and subsequently placed in formalin are numerous fragments of yellow-tan soft tissue,\nup to 0.7 x 0.2 x 0.2 cm. The entire specimen is submitted in cassette A1 labeled\n\nB. Container B is labeled 'station 10'. Received in formalin, is a 1.4 x 1.0 x 0.3 cm portion of anthracotic tissue. The entire specimen is sectioned\nand submitted in cassette B1 labeled\n\nC. Container C is labeled interlobar lymph node'. Received in formalin, is a 1.4 x 0.6 x 0.4 cm anthracotic lymph node. The lymph node is\nquadrisected and submitted in cassette C1 labeled\n\nD. Container D is labeled right paratracheal lymph node'. Received in formalin are three anthracotic lymph nodes, ranging from 0.5 cm to 2.2 cm\nin greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: D1) intact smallest lymph node; D2-D3) each\nwith one sectioned lymph node in toto.\n\nE. Container E is labeled right upper lung lobe'. Received in formalin is a 175 gram, 11.8 x 14.5 x 3.3 cm lobe of lung with a 12.5 cm long\nstapled margin at one aspect. The staples are removed and the underlying parenchyma is inked black. The pleura is smooth and glistening, moderately\nviolaceous and has been previously focally inked blue. Sectioning reveals a 4.5 x 3.0 x 2.5 cm tan-white, focally anthracotic tumor which extends to\nwithin 0.7 cm of the previously inked pleura, and 0.2 cm from the bronchial and vascular resection margins. The remaining lung is spongy, red-tan.\nRepresentative sections are submitted for genomics studies in three cassettes labeled Sections are submitted in cassettes labeled\nas follows: E1) bronchial resection margin; E2) vascular resection margin; E3-E6) tumor to inked pleura; E7-E8) representative remaining lung\nparenchyma.\n\nF. Container F is labeled subcarinal lymph node'. Received in formalin are four pieces of anthracotic tissue ranging from 1.1 cm to 2.3 cm in\ngreatest dimensions. The entire specimen is submitted in cassettes labeled as follows: F1-F4) each with one sectioned lymph node in\ntoto.\n\nINTRA-OPERATIVE CONSULTATION:\nA. FROZEN SECTION DIAGNOSIS: Non-small cell carcinoma per Dr.",
+          "confidence": {
+            "mean_probability": 0.992204013271553,
+            "mean_log_probability": -0.010426093158660846,
+            "perplexity": 1.010480634253312,
+            "min_probability": 0.12270563540485714
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 688,
+            "total_tokens": 3160
+          },
+          "composite_score": 0.9421579313378461
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

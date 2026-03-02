@@ -1,0 +1,112 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\313e1d02-1efb-4f63-9922-f8962e195e18\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.PDF
+Processing Date: 2026-03-02 11:43:23
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE
+
+SURGICAL PATHOLOGY REPORT
+
+Date Coll: 
+
+SPECIMEN
+    A. Right upper middle lobe
+    B. Level 7
+    C. R4
+    D. R2
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:  Lung mass
+
+GROSS DESCRIPTION
+    A. Received fresh in a container labeled "right upper
+        middle lobe" is a 197 gm, 19 x 11.8 x 3.5 cm, portion of
+        lung tissue, compatible with right upper and middle lobes. The
+        pleural surface is tan-pink to gray-black, and mottled. There are
+        bronchial stumps averaging 1 cm in length associated with each of
+        the upper and middle lobes.  In the hilar region surrounding each
+        bronchial stump there are several gray-black soft rubbery lymph
+        nodes.  There is a 3.2 x 2.8 x 2.2 cm. rubbery pale tan lesion which
+        appears to be within the middle lobe, and which extends to within 1
+        cm from the bronchial stump.  The lesion grossly extends to beneath
+        the pleural surface, but does not appear to involve the pleura.  The
+        pleural surface overlying the tumor is inked blue.  Tissue is
+        submitted for tissue procurement per the clinical request.  The
+        parenchyma away from the mass is spongy and tan-pink-red, with some
+        bleb form          in the upper lobe. There are no additional mass
+        lesions.  .
+    
+    BLOCK SUMMARY: A1 - bronchial margin, right upper lobe; A2 -
+        vascular margins; A3 - hilar lymph nodes right upper lobe; A4 -
+        bronchial margin right middle lobe; A5 - hilar lymph nodes right
+        middle lobe; A6-A10 - tumor, including relation to pleural surface
+        and adjacent parenchyma; A11,A12 - representative right upper lobe;
+        A13,A14 - right middle lobe away from mass.
+        B.  Received fresh in a container labeled "level 7" are six
+        slightly fragmented portions of soft gray-black tissue
+        atible with lymph nodes, up to 1.2 cm in greatest dimension.
+        .
+        C.  Received fresh in a container labeled "R4" are five
+        pieces of soft gray-black to tan-gold tissue up to 0.8 cm
+        in greatest dimension.  There appear to be three lymph nodes
+        present.
+        D.  Received fresh in a container labeled "R2" are six
+        fragmented soft gray-black to tan-yellow pieces of tissue
+        ranging from 0.3 cm up to 1.1 cm in greatest dimension.  Due to the
+        degree      agm      ation, it is difficult to enumerate the lymph
+        nodes.  
+```
+
+================================================================================
+PAGE 2
+================================================================================
+```
+█████
+
+                MICROSCOPIC DESCRIPTION
+                     The following template summarizes the findings in this
+                     case:
+
+                Histologic type:  Adenocarcinoma (mixed papillary and not otherwise
+                     specified), comprising the mass lesion in the right middle lobe in
+                     part A.
+                Histologic grade:  Moderately differentiated.
+                Primary tumor (pT):  pT2a. The tumor is 3.2 cm in greatest
+                     dimension.  Pleural invasion is not identified.
+                Margins of resection:  Negative for tumor
+                Direct extension of tumor:  Not identified
+                Vascular invasion:  Not definitively identified
+                Regional lymph nodes (pN):  pN0. The hilar lymph nodes identified in
+                     part A, as well as the separately submitted lymph nodes in parts B,
+                     C, and D, are negative for tumor.
+                Distant metastasis (pM):  pMX
+                Other findings:  Emphysematous change with bleb formation in the
+                     upper lobe, with bronchiolar metaplasia, and subpleural fibrosis.
+                Note:  This case has been reviewed in Intradepartmental Consultation
+                     with concurrence with the interpretation.
+
+████
+
+DIAGNOSIS
+       A.  Lung, right upper and middle lobes, excision
+            - Moderately differentiated adenocarcinoma, 3.2 cm in
+               greatest dimension (pT2a), margins negative for malignancy
+               (see microscopic description).
+            - Emphysematous changes, with bleb formation.
+            - Lymph nodes negative for malignancy.
+
+       B,C,D. Lymph nodes, level 7, R4, and R2, excisions
+            - Negative for malignancy.
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+
+                              --- End Of Report ---
+```

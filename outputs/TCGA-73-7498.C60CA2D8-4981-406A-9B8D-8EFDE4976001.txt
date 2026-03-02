@@ -1,0 +1,160 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\high_quality\459a7eb5-7350-4880-9588-71036ad37995\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001.PDF
+Processing Date: 2026-03-02 11:59:08
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TSS ██████
+
+SPECIMENS:
+    A. 4R RIGHT PARATRACHEAL LYMPH NODE
+    B. LEVEL 7 LYMPH NODE
+    C. RIGHT LOWER LOBE WEDGE
+    D. LEVEL 8 LYMPH NODE
+    E. LEVEL 9 LYMPH NODE
+    F. RIGHT LOWER LOBE
+
+SPECIMEN(S):
+    A. 4R RIGHT PARATRACHEAL LYMPH NODE
+    B. LEVEL 7 LYMPH NODE
+    C. RIGHT LOWER LOBE WEDGE
+    D. LEVEL 8 LYMPH NODE
+    E. LEVEL 9 LYMPH NODE
+    F. RIGHT LOWER LOBE
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+    FSA, Lymph node, 4R right paratracheal, biopsy: Negative for malignancy
+
+    FSB, Lymph node, level 7, biopsy: Negative for malignancy
+
+    FSC, Lung, right lower lobe, wedge biopsy: Positive for malignancy non-small cell carcinoma, favor adenocarcinoma, diagnoses called at ████████ and ████████ by ██
+
+    FSF, lung, right lower, lobectomy: Bronchial margin negative for malignancy, diagnosis called at ████
+    ███. by ██
+
+DIAGNOSIS:
+    A. LYMPH NODE, RIGHT PARATRACHEAL – 4R, EXCISION:
+    - NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE (0/1).
+
+    B. LYMPH NODE, LEVEL 7, EXCISION:
+    - NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE (0/1).
+
+    C. LUNG, RIGHT LOWER LOBE, WEDGE RESECTION:
+    - ADENOCARCINOMA, MODERATELY DIFFERENTIATED WITH BRONCHIOLOALVEOLAR FEATURES
+    - 2.5 CM IN GREATEST DIMENSION
+    - 1.8 X 1.0 CM IN ADDITIONAL DIMENSIONS
+    - THE PLEURAL SURFACE IS NEGATIVE FOR TUMOR
+    - NO ANGIOLYMPHATIC INVASION IDENTIFIED
+    - MILD EMPHYSEMATOUS CHANGES
+
+    D. LYMPH NODE, LEVEL 8, EXCISION:
+    - NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE (0/1).
+
+    E. LYMPH NODE, LEVEL 9, EXCISION:
+    - NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE (0/1).
+
+    F. LUNG, RIGHT LOWER LOBE, COMPLETION LOBECTOMY:
+    - SEPARATE MICROSCOPIC FOCUS OF ADENOCARCINOMA, BRONCHIOLOALVEOLAR TYPE
+    - 0.9 CM IN GREATEST DIMENSION (MEASURED MICROSCOPICALLY)
+    - THE PLEURAL SURFACE IS NEGATIVE FOR TUMOR.
+    - THE BRONCHIAL MARGIN IS NEGATIVE FOR TUMOR.
+    - NO ANGIOLYMPHATIC INVASION IDENTIFIED
+    - PLEURAL PLAQUE
+    - NO MALIGNANCY IDENTIFIED IN TWO LYMPH NODES (0/2).
+    - MILD EMPHYSEMATOUS CHANGES
+
+    COMMENT: Two tumors are identified. The tumor in part C was identified grossly, and the tumor in part F was only identified microscopically. These tumors are consistent with synchronous primary tumors, and the tumor in part C will be used for the synoptic report. This case was shown to ███ and he agrees.
+
+================================================================================
+PAGE 2
+================================================================================
+TSS: ██████
+
+
+                             SYNOPTIC REPORT - LUNG
+                             Specimens Involved
+                             Specimens:  C: RIGHT LOWER LOBE WEDGE
+
+                             Surgical Procedure:  Lobectomy
+                             Laterality:  Right
+                             Tumor Site:  Lower lobe
+                             Tumor Location:  Peripheral
+                             Tumor Size:  Greatest diameter:          2.5cm
+                             Additional dimensions:          1.8cm x 1cm
+                             WHO CLASSIFICATION
+                             Adenocarcinoma
+                             Histologic Grade:          G2: Moderately differentiated
+                             Angiolymphatic Invasion:          Absent
+                             Bronchial Margins:          Bronchial margins uninvolved
+                             Visceral Pleural Involvement:          Absent
+                             Satellite Tumor(s):          Absent
+                             Lymph Node Involvement:          N1: Ipsilateral Hilar and/or Peribronchial (levels 10-14)
+                             Negative 0 / 2
+                             N2: Ipsilateral Mediastinal and/or Subcarinal (Levels 1-9)
+                             Negative 0 / 4
+                             N3: Contralateral Mediastinal/Hilar, Scalene or Supraclavicular
+                             N/A
+                             Non-Neoplastic Lung: Emphysematous changes
+                             Additional Pathologic Findings: None identified
+                             Pathological Staging (pTNM):          pT 1b     N 0     M  X
+                             Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+GROSS DESCRIPTION:
+     A. 4R RIGHT PARATRACHEAL LYMPH NODE
+          Received fresh labeled with the patient's identification and designated "4R right paratracheal lymph
+          node" is a fragment of tan-pink to anthracotic soft tissue measuring 1 x 0.5 and 0.2-cm.  Specimen is
+          bisected.  Touch preparation performed.  Submitted entirely for frozen section, FSA.
+
+     B. LEVEL 7 LYMPH NODE
+          Received fresh labeled with the patient's identification and designated "level 7 lymph node" is a
+          fragment of tan-pink soft tissue measuring 0.7 x 0.5 x 0.2 cm.  Specimen is bisected.  Touch
+          preparation performed.  Submitted entirely for frozen section, FSB.
+
+     C. RIGHT LOWER LOBE WEDGE
+          Received fresh labeled with the patient's identification and designated "right lower lobe wedge" is a
+          stapled wedge of lung tissue weighing 15 g and measuring 6.5 x 3 x 2 cm.  The pleural surface inked
+          black, staple line inked blue.  Sectioning shows a firm ill-defined tan mass measuring 2.5 x 1.8 x 1 cm,
+          located 0.5-cm from the stapled margin.  A portion of the specimen is submitted for tissue procurement.
+          The specimen representatively submitted:
+          FSC1: Mass, frozen section sample
+          C2: Remainder of mass and pleural surface
+          C3: Uninvolved lung parenchyma
+
+     D. LEVEL 8 LYMPH NODE
+          Received in formalin labeled with the patient's identification and designated "level 8 lymph node" is a
+          fragment of yellow-tan soft tissue measuring 0.6 x 0.3 x 0.2 cm.  Entirely submitted, D1.
+
+     E. LEVEL 9 LYMPH NODE
+          Received in formalin labeled with the patient's identification and designated "level 9 lymph node" is a
+          fragment of red-tan soft tissue measuring 0.8 x 0.5 x 0.2 cm.  Entirely submitted, E1.
+
+     F. RIGHT LOWER LOBE
+          Received fresh labeled with the patient's identification and designated "right lower lobe" it the resected
+          lobectomy specimen weighing 182 g and measuring 13.5 x 11 x 3 cm.  The pleural surface
+
+================================================================================
+PAGE 3
+================================================================================
+TSS: ██████
+
+demonstrates two 0.3-cm plaque like areas, both located approximately 4-cm from the bronchial margin.
+Sectioning shows deep red consolidated lung parenchyma. No lesions or nodules are grossly
+appreciated. A portion of the specimen is submitted for tissue procurement. The specimen is
+representatively submitted:
+FSF1: Shaved bronchial margin
+F2: Plaque like areas, entirely submitted
+F3: Possible peribronchial lymph nodes
+F4-F5: Random sections lung parenchyma
+
+CLINICAL HISTORY:
+      None given
+
+PRE-OPERATIVE DIAGNOSIS:
+      Right lower lobe lung nodule
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████

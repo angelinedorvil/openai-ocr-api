@@ -1,0 +1,184 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\151dcd21-c932-4168-bc9b-cfb64e2bd560\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C.PDF
+Processing Date: 2026-03-02 13:03:43
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Anat Path Reports
+
+* Final Report *
+
+Document Type:
+Document Date:
+Document Status:
+Document Title:
+Encounter info:
+
+* Final Report *
+
+APRPT (Verified)
+
+Patient Name:
+MRN:
+Location:
+Client:
+Submitting
+Phys:
+
+Acc #:
+DOB:
+Gender: M
+
+Collected:
+Received:
+Reported:
+
+Final Surgical Pathology Report
+
+Final Pathologic Diagnosis
+A.  10R LYMPH NODE, EXCISION, A1FS:
+   - NO METASTATIC CARCINOMA IN FRAGMENTED LYMPH NODAL TISSUE.
+
+B.  LUNG, RIGHT UPPER LOBE, LOBECTOMY, B1FS:
+   - MODERATELY DIFFERENTIATED ADENOCARCINOMA (1.7 X 1.7 X 2.5 CM).
+   - NO PLEURAL INVOLVEMENT.
+   - COMPLETELY EXCISED.
+   - EMPHYSEMA.
+
+C.  11R LYMPH NODE, EXCISION:
+   - NO METASTATIC CARCINOMA IN FRAGMENTED LYMPH NODAL TISSUE.
+
+D.  4R LYMPH NODE, EXCISION:
+   - NO METASTATIC CARCINOMA IN FRAGMENTED LYMPH NODAL TISSUE.
+
+E.  #7 LYMPH NODE, EXCISION:
+
+Printed by:
+Printed on:
+
+Page 1 of 4
+(Continued)
+
+================================================================================
+PAGE 2
+================================================================================
+Anat Path Reports
+
+* Final Report *
+
+- NO METASTATIC CARCINOMA IN FRAGMENTED LYMPH NODAL TISSUE.
+
+F.  9R LYMPH NODE, EXCISION:
+- NO METASTATIC CARCINOMA IN FRAGMENTED LYMPH NODAL TISSUE.
+
+Synoptic Worksheet
+B.  Right upper lobe:
+Specimen:  Lobe(s) of lung: Right upper lobe
+Procedure:  Lobectomy
+Specimen Integrity:  Intact
+Specimen Laterality:  Right
+Tumor Site:  Upper lobe
+Tumor Focality:  Unifocal
+Histologic Type:  Acinar adenocarcinoma
+Histologic Grade:  G2: Moderately differentiated
+Tumor Size:  Greatest dimension: 2.5 cm
+Additional dimension: 1.7 cm
+Additional dimension: 1.7 cm
+Visceral Pleura Invasion:  Not identified
+Tumor Extension:  Not applicable
+Bronchial Margin:  Uninvolved by invasive carcinoma
+Involvement by squamous cell carcinoma in situ (CIS) not applicable
+Vascular Margin:  Uninvolved by invasive carcinoma
+Parenchymal Margin:  Not applicable
+Parietal Pleural Margin:  Not applicable
+Chest Wall Margin:  Not applicable
+Other Attached Tissue Margin:  Not applicable
+All Margins Uninvolved By Invasive Carcinoma:
+Distance of invasive carcinoma from closest margin: 50 mm
+Margin closest to invasive carcinoma:: Bronchial margin
+Treatment Effect:  Not applicable
+Lymph-Vascular Invasion:  Not identified
+TNM Descriptors:  Not applicable
+Primary Tumor (pT):  pT1b: Tumor greater than 2 cm, but 3 cm or less in greatest dimension,
+surrounded by lung or visceral pleura, without bronchoscopic evidence of
+invasion more proximal than the lobar bronchus (ie, not in the main bronchus)
+
+Printed by:
+Printed on:                                                                                  Page 2 of 4
+                                                                                           (Continued)
+
+================================================================================
+PAGE 3
+================================================================================
+Anat Path Reports
+
+* Final Report *
+
+Regional Lymph Nodes (pN):	pN0: No regional lymph node metastasis
+				Number of nodes examined cannot be determined
+Distant Metastasis (pM):	Not applicable
+---------------------------------------------------
+
+Clinical History
+Right VATS. Right upper lobe lung CA.
+
+Specimen(s) Received
+A: 10R Lymph node
+B: Right upper lobe
+C: 11R Lymph node
+D: 4R Lymph node
+E: #7 Lymph node
+F: 9R Lymph node
+
+Gross Description
+Six specimens are received, each labeled with the patient's name and medical record number.
+
+Specimen A is received fresh for intraoperative consultation and is labeled "10R lymph node." It consists of multiple fragments of soft black tissue measuring 1.0 x 0.9 x 0.2 cm. The specimen is submitted entirely for frozen section diagnosis in cassette "A1FS."
+
+Specimen B is received fresh for intraoperative consultation and is labeled as "right upper lobe." It consists of a lung lobe measuring 4.5 x 13.0 x 3.0 cm and weighing 141.0 grams. There is a fleshy tan mass with lobulated borders that puckers the overlying pleura (inked blue) and measures 1.7 x 1.7 x 2.5 cm. It is 5.0 cm from the bronchial margin. The surrounding parenchyma immediately adjacent to the mass is hemorrhagic. The uninvolved parenchyma is emphysematous. The bronchial margin is submitted for frozen section diagnosis in cassette "B1FS." Additional representative sections are submitted as follows.
+
+Specimen C is received in formalin, labeled with the patient's name, medical record number and as "right #11 lymph node." The specimen consists of multiple fragments of black soft tissue measuring 1.5 x 1.4 x 0.3 cm in aggregate. The specimen is entirely submitted in cassette "C1."
+
+Specimen D is received in formalin, labeled with the patient's name, medical record number and as "4R lymph node." The specimen consists of multiple fragments of black soft tissue measuring 1.6 x 1.3 x 0.2 cm. The specimen is entirely submitted in cassette "D1."
+
+Specimen E is received in formalin, labeled with the patient's name, medical record number and as "#7 lymph node." The specimen consists of multiple fragments of black soft tissue measuring 1.6 x 1.4 x 0.3 cm. The specimen is submitted entirely in cassette "E1."
+
+Specimen F is received in formalin, labeled with the patient's name, medical record number and a "#9R lymph node." The specimen consists of two fragments of black soft tissue measuring 0.5 x 0.4 x 0.1 cm. The specimen is submitted entirely in cassette "F1."
+
+Printed by: 
+Printed on: 							Page 3 of 4
+								(Continued)
+
+================================================================================
+PAGE 4
+================================================================================
+Anat Path Reports
+* Final Report *
+
+CASSETTE SUMMARY:
+B2: Bronchial edge and vascular margin, shave
+B3: Mass with respect to overlying pleura
+B4: Mass with respect to uninvolved parenchyma
+B5: Additional representative mass
+B6: Representative uninvolved parenchyma
+
+Intraoperative Consult Diagnosis
+A1FS: 10R LYMPH NODE (FROZEN SECTION): NEGATIVE FOR CARCINOMA.
+Frozen section results were communicated to the surgical team and were repeated back by
+B1FS: LUNG, RIGHT UPPER LOBE (FROZEN SECTION): BRONCHIAL MARGIN NEGATIVE FOR CARCINOMA.
+Frozen section results were communicated to the surgical team and were repeated back by
+
+Pathologist:
+
+Microscopic Description
+Microscopic examination performed.
+
+An elastic stain performed on block B3 confirms that the visceral pleura is not involved by carcinoma.
+
+Page 4 of 4
+(End of Report)

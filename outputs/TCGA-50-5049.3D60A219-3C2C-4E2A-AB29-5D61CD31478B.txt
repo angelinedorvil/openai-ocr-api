@@ -1,0 +1,38 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\09390da8-0289-4c9a-819f-174edbdab136\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.PDF
+Processing Date: 2026-03-02 13:03:13
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TCGA-50-5049
+
+FINAL DIAGNOSIS:                                                                                     
+
+                                                                                         Summary Statement
+The right upper lobe demonstrates a 2.8 cm invasive moderately differentiated adenocarcinoma associated with
+angiolymphatic and visceral pleural invasion. All sampled lymph nodes are benign. Surgical resection margins are free
+of tumor. Pathologic stage is T2N0MX.
+
+PART 1: LUNG, RIGHT UPPER LOBE, BRONCHOSCOPIC BIOPSY -
+          RESPIRATORY MUCOSA WITH SUBMUCOSAL SCARRING AND CHRONIC INFLAMMATION.
+
+PART 2: BONE, 5TH RIB, RESECTION -
+          PENDING DECALCIFICATION. ADDENDUM REPORT TO FOLLOW.
+
+PART 3: LUNG, RIGHT UPPER LOBE, POSTERIOR SEGMENT, SEGMENTECTOMY -
+          A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.8 CM IN DIAMETER) ASSOCIATED WITH
+              ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MARKED LYMPHOCYTIC HOST RESPONSE.
+              PATHOLOGIC STAGE: T2N0MX.
+          B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.
+          C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE.
+
+PART 4: LYMPH NODE, LEVEL 11, BIOPSY -
+          THREE (3) FRAGMENTS OF BENIGN LYMPH NODE.
+
+PART 5: LYMPH NODE, LEVEL 4, BIOPSY -
+          UNREMARKABLE FIBROADIPOSE TISSUE. NO LYMPHOID TISSUE SEEN.

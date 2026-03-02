@@ -1,0 +1,150 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\533c0f37-9630-4595-968e-700c8d7785cf\TCGA-55-8619.DCBC1E01-C61A-4D30-B741-965C99418ECF.PDF
+Processing Date: 2026-03-02 13:19:21
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+Diagnosis:
+
+A. - M.) LUNG, RIGHT, LYMPH NODES, N4R, N4R#2, N4R#3, N10R, N7, N10L, N4L, N2R,
+N7, N7#2, LYMPH NODE BIOPSIES AND RESECTIONS, WEDGE RESECTIONS (X2),
+AND COMPLETION PNEUMONECTOMY:
+  - Adenocarcinoma with mucinous features, well differentiated.
+    - Two foci in right lower lobe, 1.5 cm in greatest dimension each.
+    - One focus in right upper lobe, 2.0 cm in greatest dimension.
+    - Visceral pleural invasion present, tumor does not extend to pleural surface.
+  - Surgical margins negative.
+  - Twenty-two lymph nodes, no tumor seen (0/22).
+  - See comment.
+
+PATHOLOGIC TUMOR STAGING SYNOPSIS (Right lower lobe):
+  Type and grade: Adenocarcinoma, well differentiated.
+  Primary tumor: pT3(2 tumor foci).
+  Regional lymph nodes: pN0.
+  Distant metastasis: N/A.
+  Pathologic stage: IIB.
+  Lymphovascular invasion: Not identified.
+  Margin status: R0, negative.
+
+PATHOLOGIC TUMOR STAGING SYNOPSIS (Right upper lobe):
+  Type and grade: Adenocarcinoma, well differentiated.
+  Primary tumor: pT2a.
+  Regional lymph nodes: pN0.
+  Distant metastasis: N/A.
+  Pathologic stage: IB.
+  Lymphovascular invasion: Not identified.
+  Margin status: R0, negative.
+
+COMMENT: Sections show three histologically similar foci of adenocarcinoma with
+with areas of definitive invasion and areas of a mucinous bronchioloalveolar pattern.
+The tumor cells are diffusely, strongly positive for CK7 and show patchy positivity for
+
+================================================================================
+PAGE 2
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+CDX2 and villin and are negative for CK20, TTF-1, and Napsin-A. There are three foci
+of adenocarcinoma identified (two in the right lower lobe and one in the right upper
+lobe). The differential diagnosis includes adenocarcinoma of lung primary versus
+metastatic adenocarcinoma of gastrointestinal primary (upper GI, pancreato-biliary
+and colon). Lung primary adenocarcinomas are typically positive for CK7, TTF-1 and
+Napsin-A and negative for CDX2, villin and CK20, however, lung primary
+adenocarcinomas with mucinous differentiation can show patchy positivity for CDX2.
+Three tumor foci are seen in the lung, which can be seen in the setting of metastatic
+disease and a multifocal lung primary. The diffusely, strongly positive CK7, patchy
+CDX2 positivity, negative CK20, and the presence of a bronchioloalveolar growth
+pattern favor a lung primary origin, therefore, the patient is staged accordingly,
+however, metastatic gastrointestinal adenocarcinoma cannot be completely
+excluded. Because the patient has no lymphovascular invasion, negative lymph
+nodes and associated bronchioloalveolar growth pattern, the right upper lobe and
+right lower lobe are staged separately.
+
+================================================================================
+PAGE 3
+================================================================================
+Procedure:	Multiple lymph node biopsies and resections, right upper lobe and right lower lobe lobectomies, and right lung resection.
+Specimen type:	Right upper lobe, right lower lobe, right lung resection, multiple lymph node biopsies and resections.
+Specimen laterality:	Right.
+Specimen integrity:	Intact.
+
+Tumor Features:
+	Tumor site:	Right upper lobe, right lower lobe.
+	Tumor size:	Multifocal, Right upper lobe: 2.0; right lower lobe two foci: 1.5 and 1.5 cm.
+	Tumor focality:	Multifocal.
+	Histologic type:	Adenocarcinoma with mucinous features.
+	Histologic grade:	Well differentiated (G1).
+	Lymphovascular invasion:	Not identified.
+	Perineural invasion:	Not identified.
+	Visceral pleural invasion:	PL1, tumor extends into visceral pleura but does not extend to pleural surface (seen in both the right upper lobe and right lower lobe.
+	Tumor extension into extra-pulmonary structures:	Not identified.
+	Treatment effect:	N/A.
+
+Lymph Nodes:	Twenty-two lymph nodes, no tumor seen.
+
+Margin Evaluation:
+	Distance to closest margin:	Parietal pleura at 0.1 cm.
+	Bronchial margin:	Greater than 2 cm.
+	Vascular margin:	Greater than 2 cm.
+	Parenchymal margin:	0.1 cm.
+	Parietal pleural margin:	N/A.
+	Chest wall margin:	N/A.
+	Other margins:	
+
+Pathologic tumor staging descriptors:
+	Primary tumor (pT):	Right lower lobe/Right upper lobe.
+		Right lower lobe pT3; Right upper lobe pT2a.
+	Regional lymph nodes (pN):	pN0.
+	Distant metastasis (pM):	N/A.
+	Margin status (R):	R0, negative.
+	Pathologic stage:	Right lower lobe IIB; Right upper lobe IB.
+
+Additional pathologic findings:	Emphysematous changes.
+
+Comment:	N/A.
+
+================================================================================
+PAGE 4
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+Source of Specimen:
+A. N4R
+B. N4R#2
+C. N10R
+D. N7
+E. N10L
+F. N4L
+G. N2R
+H. Lung;right lower wedge lobe resection
+I. Lung;right upper lobe wedge resection
+J. Lung;right lung
+K. N4R #3
+L. N7#2
+M. N7
+
+Clinical History/Operative Dx:
+Right lung cancer.
+
+Intraoperative Diagnosis:
+A. (FSA) Lymph node, N4R excision:
+   - Benign lymph node.
+
+B. (FSB) Lymph node, N4R #2, excision:
+   - Benign lymph node.
+
+D. (FSD) Lymph node, N7, excision:
+   - Benign lymph node.
+
+E. (FSE) Lymph node, N10L, excision:
+   - Benign lymph node.
+
+F. (FSF) Lymph node, N4L, excision:
+   - Benign lymph node.

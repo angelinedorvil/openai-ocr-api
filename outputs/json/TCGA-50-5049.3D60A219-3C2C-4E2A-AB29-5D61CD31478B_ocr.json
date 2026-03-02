@@ -1,0 +1,95 @@
+{
+  "pdf": "input_pdfs\\low_quality\\09390da8-0289-4c9a-819f-174edbdab136\\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 9.718915462493896,
+        "chars": 1339,
+        "words": 148,
+        "text": "TCGA-50-5049\n\nFINAL DIAGNOSIS:                                                                                     \n\n                                                                                         Summary Statement\nThe right upper lobe demonstrates a 2.8 cm invasive moderately differentiated adenocarcinoma associated with\nangiolymphatic and visceral pleural invasion. All sampled lymph nodes are benign. Surgical resection margins are free\nof tumor. Pathologic stage is T2N0MX.\n\nPART 1: LUNG, RIGHT UPPER LOBE, BRONCHOSCOPIC BIOPSY -\n          RESPIRATORY MUCOSA WITH SUBMUCOSAL SCARRING AND CHRONIC INFLAMMATION.\n\nPART 2: BONE, 5TH RIB, RESECTION -\n          PENDING DECALCIFICATION. ADDENDUM REPORT TO FOLLOW.\n\nPART 3: LUNG, RIGHT UPPER LOBE, POSTERIOR SEGMENT, SEGMENTECTOMY -\n          A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.8 CM IN DIAMETER) ASSOCIATED WITH\n              ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MARKED LYMPHOCYTIC HOST RESPONSE.\n              PATHOLOGIC STAGE: T2N0MX.\n          B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.\n          C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE.\n\nPART 4: LYMPH NODE, LEVEL 11, BIOPSY -\n          THREE (3) FRAGMENTS OF BENIGN LYMPH NODE.\n\nPART 5: LYMPH NODE, LEVEL 4, BIOPSY -\n          UNREMARKABLE FIBROADIPOSE TISSUE. NO LYMPHOID TISSUE SEEN.",
+        "confidence": {
+          "mean_probability": 0.9718320502174319,
+          "mean_log_probability": -0.051084962566844916,
+          "perplexity": 1.0524123051356433,
+          "min_probability": 0.052109239723825626
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 375,
+          "total_tokens": 2847
+        },
+        "composite_score": 0.8502673851225224,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.674596548080444,
+          "chars": 1293,
+          "words": 150,
+          "text": "```\nTCGA-50-5049\n\n\nFINAL DIAGNOSIS:                                                                                     \n\n                                                    Summary Statement\nThe right upper lobe demonstrates a 2.8 cm invasive moderately differentiated adenocarcinoma associated with\nangiolymphatic and visceral pleural invasion. All sampled lymph nodes are benign. Surgical resection margins are free\nof tumor. Pathologic stage is T2N0MX.\n\nPART 1: LUNG, RIGHT UPPER LOBE, BRONCHOSCOPIC BIOPSY -\n        RESPIRATORY MUCOSA WITH SUBMUCOSAL SCARRING AND CHRONIC INFLAMMATION.\n\nPART 2: BONE, 5TH RIB, RESECTION -\n        PENDING DECALCIFICATION. ADDENDUM REPORT TO FOLLOW.\n\nPART 3: LUNG, RIGHT UPPER LOBE, POSTERIOR SEGMENT, SEGMENTECTOMY -\n        A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.8 CM IN DIAMETER) ASSOCIATED WITH\n            ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MARKED LYMPHOCYTIC HOST RESPONSE.\n            PATHOLOGIC STAGE: T2N0MX.\n        B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.\n        C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE.\n\nPART 4: LYMPH NODE, LEVEL 11, BIOPSY -\n        THREE (3) FRAGMENTS OF BENIGN LYMPH NODE.\n\nPART 5: LYMPH NODE, LEVEL 4, BIOPSY -\n        UNREMARKABLE FIBROADIPOSE TISSUE. NO LYMPHOID TISSUE SEEN.\n```",
+          "confidence": {
+            "mean_probability": 0.9726453940004597,
+            "mean_log_probability": -0.0500147420212766,
+            "perplexity": 1.0512865943511298,
+            "min_probability": 0.04422195030211376
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 377,
+            "total_tokens": 2849
+          },
+          "composite_score": 0.6238358454276565
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.718915462493896,
+          "chars": 1339,
+          "words": 148,
+          "text": "TCGA-50-5049\n\nFINAL DIAGNOSIS:                                                                                     \n\n                                                                                         Summary Statement\nThe right upper lobe demonstrates a 2.8 cm invasive moderately differentiated adenocarcinoma associated with\nangiolymphatic and visceral pleural invasion. All sampled lymph nodes are benign. Surgical resection margins are free\nof tumor. Pathologic stage is T2N0MX.\n\nPART 1: LUNG, RIGHT UPPER LOBE, BRONCHOSCOPIC BIOPSY -\n          RESPIRATORY MUCOSA WITH SUBMUCOSAL SCARRING AND CHRONIC INFLAMMATION.\n\nPART 2: BONE, 5TH RIB, RESECTION -\n          PENDING DECALCIFICATION. ADDENDUM REPORT TO FOLLOW.\n\nPART 3: LUNG, RIGHT UPPER LOBE, POSTERIOR SEGMENT, SEGMENTECTOMY -\n          A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.8 CM IN DIAMETER) ASSOCIATED WITH\n              ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MARKED LYMPHOCYTIC HOST RESPONSE.\n              PATHOLOGIC STAGE: T2N0MX.\n          B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.\n          C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE.\n\nPART 4: LYMPH NODE, LEVEL 11, BIOPSY -\n          THREE (3) FRAGMENTS OF BENIGN LYMPH NODE.\n\nPART 5: LYMPH NODE, LEVEL 4, BIOPSY -\n          UNREMARKABLE FIBROADIPOSE TISSUE. NO LYMPHOID TISSUE SEEN.",
+          "confidence": {
+            "mean_probability": 0.9718320502174319,
+            "mean_log_probability": -0.051084962566844916,
+            "perplexity": 1.0524123051356433,
+            "min_probability": 0.052109239723825626
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 375,
+            "total_tokens": 2847
+          },
+          "composite_score": 0.8502673851225224,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.862823724746704,
+          "chars": 1322,
+          "words": 148,
+          "text": "TCGA-50-5049\n\nFINAL DIAGNOSIS:                                                                                        \n\n                                                                                       Summary Statement\nThe right upper lobe demonstrates a 2.8 cm invasive moderately differentiated adenocarcinoma associated with\nangiolymphatic and visceral pleural invasion. All sampled lymph nodes are benign. Surgical resection margins are free\nof tumor. Pathologic stage is T2N0MX.\n\nPART 1: LUNG, RIGHT UPPER LOBE, BRONCHOSCOPIC BIOPSY -\n        RESPIRATORY MUCOSA WITH SUBMUCOSAL SCARRING AND CHRONIC INFLAMMATION.\n\nPART 2: BONE, 5TH RIB, RESECTION -\n        PENDING DECALCIFICATION. ADDENDUM REPORT TO FOLLOW.\n\nPART 3: LUNG, RIGHT UPPER LOBE, POSTERIOR SEGMENT, SEGMENTECTOMY -\n        A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.8 CM IN DIAMETER) ASSOCIATED WITH\n            ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MARKED LYMPHOCYTIC HOST RESPONSE.\n            PATHOLOGIC STAGE: T2N0MX.\n        B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.\n        C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE.\n\nPART 4: LYMPH NODE, LEVEL 11, BIOPSY -\n        THREE (3) FRAGMENTS OF BENIGN LYMPH NODE.\n\nPART 5: LYMPH NODE, LEVEL 4, BIOPSY -\n        UNREMARKABLE FIBROADIPOSE TISSUE. NO LYMPHOID TISSUE SEEN.",
+          "confidence": {
+            "mean_probability": 0.9732945215118939,
+            "mean_log_probability": -0.0498940294117647,
+            "perplexity": 1.0511596984621019,
+            "min_probability": 0.034056785015386726
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 375,
+            "total_tokens": 2847
+          },
+          "composite_score": 0.5946308068419622
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

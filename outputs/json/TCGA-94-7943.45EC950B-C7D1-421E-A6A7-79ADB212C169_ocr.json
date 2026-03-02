@@ -1,0 +1,365 @@
+{
+  "pdf": "input_pdfs\\high_quality\\3dfd04a7-54ec-4325-8327-3e58b4e439fe\\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 7.339414834976196,
+        "chars": 1210,
+        "words": 167,
+        "text": "[Redacted] Confidential Document [Redacted]\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nDocument Type: Anat Path Reports\nDocument Date: [Redacted]\nDocument Status: Auth (Verified)\nDocument Title: Histology\nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted] Acc #:\nMRN: [Redacted] DOB: [Redacted]\nLocation: [Redacted] Gender: M Collected:\nClient: [Redacted] Received:\nSubmitting Phys: [Redacted] Reported:\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis\nA. LUNG, LEFT, LINGULA AND MEDIAL SEGMENT LEFT LOWER LOBE, WEDGE BIOPSY AND SEGEMENTECTOMY, A1FS:\n- POORLY DIFFERENTIATED SQUAMOUS CELL CARCINOMA, 2.4 X 1.9 X 1.4 CM.\n- VISCERAL PLEURAL INVASION IDENTIFIED.\n- ANGIOLYMPHATIC INVASION IDENTIFIED.\n- TUMOR IS LESS THAN 1MM FROM PARENCHYMAL RESECTION MARGIN.\n- FIBROUS ADHESIONS.\n- SEE COMMENT AND STAGING SUMMARY.\n\nPrinted by: [Redacted]\nPrinted on: [Redacted] Page 1 of 4\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9786105684753077,
+          "mean_log_probability": -0.030556704477611937,
+          "perplexity": 1.0310283523153503,
+          "min_probability": 0.16430513510240935
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 336,
+          "total_tokens": 2808
+        },
+        "composite_score": 0.8972794580095611,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 7.339414834976196,
+          "chars": 1210,
+          "words": 167,
+          "text": "[Redacted] Confidential Document [Redacted]\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nDocument Type: Anat Path Reports\nDocument Date: [Redacted]\nDocument Status: Auth (Verified)\nDocument Title: Histology\nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted] Acc #:\nMRN: [Redacted] DOB: [Redacted]\nLocation: [Redacted] Gender: M Collected:\nClient: [Redacted] Received:\nSubmitting Phys: [Redacted] Reported:\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis\nA. LUNG, LEFT, LINGULA AND MEDIAL SEGMENT LEFT LOWER LOBE, WEDGE BIOPSY AND SEGEMENTECTOMY, A1FS:\n- POORLY DIFFERENTIATED SQUAMOUS CELL CARCINOMA, 2.4 X 1.9 X 1.4 CM.\n- VISCERAL PLEURAL INVASION IDENTIFIED.\n- ANGIOLYMPHATIC INVASION IDENTIFIED.\n- TUMOR IS LESS THAN 1MM FROM PARENCHYMAL RESECTION MARGIN.\n- FIBROUS ADHESIONS.\n- SEE COMMENT AND STAGING SUMMARY.\n\nPrinted by: [Redacted]\nPrinted on: [Redacted] Page 1 of 4\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9786105684753077,
+            "mean_log_probability": -0.030556704477611937,
+            "perplexity": 1.0310283523153503,
+            "min_probability": 0.16430513510240935
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 336,
+            "total_tokens": 2808
+          },
+          "composite_score": 0.8972794580095611,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.7545976638793945,
+          "chars": 1772,
+          "words": 167,
+          "text": "[Redacted] Confidential Document [Redacted]\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nDocument Type: Anat Path Reports\nDocument Date: [Redacted]\nDocument Status: Auth (Verified)\nDocument Title: Histology\nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted]                                                                                  Acc #:\nMRN: [Redacted]          DOB: [Redacted]\nLocation: [Redacted]                                                                 Gender: M               Collected:\nClient: [Redacted]                                                                                          Received:\nSubmitting                                                                                                    Reported:\nPhys: [Redacted]\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis\nA. LUNG, LEFT, LINGULA AND MEDIAL SEGMENT LEFT LOWER LOBE, WEDGE BIOPSY AND SEGEMENTECTOMY, A1FS:\n- POORLY DIFFERENTIATED SQUAMOUS CELL CARCINOMA, 2.4 X 1.9 X 1.4 CM.\n- VISCERAL PLEURAL INVASION IDENTIFIED.\n- ANGIOLYMPHATIC INVASION IDENTIFIED.\n- TUMOR IS LESS THAN 1MM FROM PARENCHYMAL RESECTION MARGIN.\n- FIBROUS ADHESIONS.\n- SEE COMMENT AND STAGING SUMMARY.\n\nPrinted by: [Redacted]\nPrinted on: [Redacted]                                                                                      Page 1 of 4\n                                                                                                                         (Continued)",
+          "confidence": {
+            "mean_probability": 0.9533070500580806,
+            "mean_log_probability": -0.09786185344827587,
+            "perplexity": 1.1028104251273103,
+            "min_probability": 0.044700571151757754
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 349,
+            "total_tokens": 2821
+          },
+          "composite_score": 0.6024162721469376
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.914309978485107,
+          "chars": 1210,
+          "words": 167,
+          "text": "[Redacted] Confidential Document [Redacted]\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of [Redacted] regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports [Redacted]\n\n* Final Report *\n\nDocument Type: Anat Path Reports\nDocument Date: [Redacted]\nDocument Status: Auth (Verified)\nDocument Title: Histology\nEncounter info: [Redacted]\n\n* Final Report *\n\nAPRPT (Verified)\n\nPatient Name: [Redacted] Acc #:\nMRN: [Redacted] DOB: [Redacted]\nLocation: [Redacted] Gender: M Collected:\nClient: [Redacted] Received:\nSubmitting Phys: [Redacted] Reported:\n\nFinal Surgical Pathology Report\n\nFinal Pathologic Diagnosis\nA. LUNG, LEFT, LINGULA AND MEDIAL SEGMENT LEFT LOWER LOBE, WEDGE BIOPSY AND SEGEMENTECTOMY, A1FS:\n- POORLY DIFFERENTIATED SQUAMOUS CELL CARCINOMA, 2.4 X 1.9 X 1.4 CM.\n- VISCERAL PLEURAL INVASION IDENTIFIED.\n- ANGIOLYMPHATIC INVASION IDENTIFIED.\n- TUMOR IS LESS THAN 1MM FROM PARENCHYMAL RESECTION MARGIN.\n- FIBROUS ADHESIONS.\n- SEE COMMENT AND STAGING SUMMARY.\n\nPrinted by: [Redacted]\nPrinted on: [Redacted] Page 1 of 4\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9790676219641735,
+            "mean_log_probability": -0.031174570149253726,
+            "perplexity": 1.0316655861829287,
+            "min_probability": 0.13100837847523222
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 336,
+            "total_tokens": 2808
+          },
+          "composite_score": 0.8519736058963289
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.313873529434204,
+        "chars": 2000,
+        "words": 266,
+        "text": "Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n* Final Report *  \n\nComment  \nElastic stains were evaluated to demonstrate visceral pleural invasion.  \n\nSynoptic Worksheet  \nA. Lingula and medial segment left lower lobe:  \nSpecimen: Lung  \nProcedure: Other: wedge biopsy and segementectomy  \nSpecimen Integrity: Disrupted  \nSpecimen Laterality: Left  \nTumor Site: Other: lingula and medial segment left lower lobe  \nTumor Focality: Unifocal  \nHistologic Type: Squamous cell carcinoma  \nHistologic Grade: G3: Poorly differentiated  \nTumor Size: Greatest dimension: 2.4 cm  \nAdditional dimension: 1.9 cm  \nAdditional dimension: 1.4 cm  \nVisceral Pleura Invasion: Present  \nTumor Extension: Not applicable  \nBronchial Margin: Involvement by invasive carcinoma not applicable  \nInvolvement by squamous cell carcinoma in situ (CIS) not applicable  \nVascular Margin: Not applicable  \nParenchymal Margin: Uninvolved by invasive carcinoma  \nParietal Pleural Margin: Not applicable  \nChest Wall Margin: Not applicable  \nOther Attached Tissue Margin: Not applicable  \nAll Margins Uninvolved By Invasive Carcinoma:  \nDistance of invasive carcinoma from closest margin: 1 mm  \nMargin closest to invasive carcinoma:: parenchymal  \nTreatment Effect: Not applicable  \nLymph-Vascular Invasion: Present  \nTNM Descriptors: m (multiple primary tumors)  \nPrimary Tumor (pT): pT1b: Tumor greater than 2 cm, but 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus)  \nRegional Lymph Nodes (pN): pNX: Regional lymph nodes cannot be assessed  \nInvolved nodal station(s): none  \n\nPrinted by:  \nPrinted on:  \n\nPage 2 of 4  \n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9889003233436915,
+          "mean_log_probability": -0.014389388157894738,
+          "perplexity": 1.014493413759717,
+          "min_probability": 0.2868585620077201
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 457,
+          "total_tokens": 2929
+        },
+        "composite_score": 0.9886517833677062,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.313873529434204,
+          "chars": 2000,
+          "words": 266,
+          "text": "Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n* Final Report *  \n\nComment  \nElastic stains were evaluated to demonstrate visceral pleural invasion.  \n\nSynoptic Worksheet  \nA. Lingula and medial segment left lower lobe:  \nSpecimen: Lung  \nProcedure: Other: wedge biopsy and segementectomy  \nSpecimen Integrity: Disrupted  \nSpecimen Laterality: Left  \nTumor Site: Other: lingula and medial segment left lower lobe  \nTumor Focality: Unifocal  \nHistologic Type: Squamous cell carcinoma  \nHistologic Grade: G3: Poorly differentiated  \nTumor Size: Greatest dimension: 2.4 cm  \nAdditional dimension: 1.9 cm  \nAdditional dimension: 1.4 cm  \nVisceral Pleura Invasion: Present  \nTumor Extension: Not applicable  \nBronchial Margin: Involvement by invasive carcinoma not applicable  \nInvolvement by squamous cell carcinoma in situ (CIS) not applicable  \nVascular Margin: Not applicable  \nParenchymal Margin: Uninvolved by invasive carcinoma  \nParietal Pleural Margin: Not applicable  \nChest Wall Margin: Not applicable  \nOther Attached Tissue Margin: Not applicable  \nAll Margins Uninvolved By Invasive Carcinoma:  \nDistance of invasive carcinoma from closest margin: 1 mm  \nMargin closest to invasive carcinoma:: parenchymal  \nTreatment Effect: Not applicable  \nLymph-Vascular Invasion: Present  \nTNM Descriptors: m (multiple primary tumors)  \nPrimary Tumor (pT): pT1b: Tumor greater than 2 cm, but 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus)  \nRegional Lymph Nodes (pN): pNX: Regional lymph nodes cannot be assessed  \nInvolved nodal station(s): none  \n\nPrinted by:  \nPrinted on:  \n\nPage 2 of 4  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9889003233436915,
+            "mean_log_probability": -0.014389388157894738,
+            "perplexity": 1.014493413759717,
+            "min_probability": 0.2868585620077201
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 457,
+            "total_tokens": 2929
+          },
+          "composite_score": 0.9886517833677062,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.270693063735962,
+          "chars": 2176,
+          "words": 266,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n* Final Report *\n\nComment\nElastic stains were evaluated to demonstrate visceral pleural invasion.\n\nSynoptic Worksheet\nA. Lingula and medial segment left lower lobe:\n    Specimen: Lung\n    Procedure: Other: wedge biopsy and segementectomy\n    Specimen Integrity: Disrupted\n    Specimen Laterality: Left\n    Tumor Site: Other: lingula and medial segment left lower lobe\n    Tumor Focality: Unifocal\n    Histologic Type: Squamous cell carcinoma\n    Histologic Grade: G3: Poorly differentiated\n    Tumor Size: Greatest dimension: 2.4 cm\n                Additional dimension: 1.9 cm\n                Additional dimension: 1.4 cm\n    Visceral Pleura Invasion: Present\n    Tumor Extension: Not applicable\n    Bronchial Margin: Involvement by invasive carcinoma not applicable\n                    Involvement by squamous cell carcinoma in situ (CIS) not applicable\n    Vascular Margin: Not applicable\n    Parenchymal Margin: Uninvolved by invasive carcinoma\n    Parietal Pleural Margin: Not applicable\n    Chest Wall Margin: Not applicable\n    Other Attached Tissue Margin: Not applicable\n    All Margins Uninvolved By Invasive Carcinoma:\n                Distance of invasive carcinoma from closest margin: 1 mm\n                Margin closest to invasive carcinoma:: parenchymal\n    Treatment Effect: Not applicable\n    Lymph-Vascular Invasion: Present\n    TNM Descriptors: m (multiple primary tumors)\n    Primary Tumor (pT): pT1b: Tumor greater than 2 cm, but 3 cm or less in greatest dimension,\n                        surrounded by lung or visceral pleura, without bronchoscopic evidence of\n                        invasion more proximal than the lobar bronchus (ie, not in the main bronchus)\n    Regional Lymph Nodes (pN): pNX: Regional lymph nodes cannot be assessed\n                              Involved nodal station(s): none\n\nPrinted by: \nPrinted on: \n\nPage 2 of 4\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9801380583666721,
+            "mean_log_probability": -0.028861943866943872,
+            "perplexity": 1.02928248590605,
+            "min_probability": 0.23426343646488937
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 482,
+            "total_tokens": 2954
+          },
+          "composite_score": 0.928680252030282
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.782091856002808,
+          "chars": 2000,
+          "words": 266,
+          "text": "Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.  \n\nAnat Path Reports  \n* Final Report *  \n\nComment  \nElastic stains were evaluated to demonstrate visceral pleural invasion.  \n\nSynoptic Worksheet  \nA. Lingula and medial segment left lower lobe:  \nSpecimen: Lung  \nProcedure: Other: wedge biopsy and segementectomy  \nSpecimen Integrity: Disrupted  \nSpecimen Laterality: Left  \nTumor Site: Other: lingula and medial segment left lower lobe  \nTumor Focality: Unifocal  \nHistologic Type: Squamous cell carcinoma  \nHistologic Grade: G3: Poorly differentiated  \nTumor Size: Greatest dimension: 2.4 cm  \nAdditional dimension: 1.9 cm  \nAdditional dimension: 1.4 cm  \nVisceral Pleura Invasion: Present  \nTumor Extension: Not applicable  \nBronchial Margin: Involvement by invasive carcinoma not applicable  \nInvolvement by squamous cell carcinoma in situ (CIS) not applicable  \nVascular Margin: Not applicable  \nParenchymal Margin: Uninvolved by invasive carcinoma  \nParietal Pleural Margin: Not applicable  \nChest Wall Margin: Not applicable  \nOther Attached Tissue Margin: Not applicable  \nAll Margins Uninvolved By Invasive Carcinoma:  \nDistance of invasive carcinoma from closest margin: 1 mm  \nMargin closest to invasive carcinoma:: parenchymal  \nTreatment Effect: Not applicable  \nLymph-Vascular Invasion: Present  \nTNM Descriptors: m (multiple primary tumors)  \nPrimary Tumor (pT): pT1b: Tumor greater than 2 cm, but 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus)  \nRegional Lymph Nodes (pN): pNX: Regional lymph nodes cannot be assessed  \nInvolved nodal station(s): none  \n\nPrinted by:  \nPrinted on:  \n\nPage 2 of 4  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9891515692559661,
+            "mean_log_probability": -0.013904054824561404,
+            "perplexity": 1.014001165751418,
+            "min_probability": 0.3194051242395758
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 457,
+            "total_tokens": 2929
+          },
+          "composite_score": 0.9395778287734581
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.574854135513306,
+        "chars": 2073,
+        "words": 301,
+        "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nDistant Metastasis (pM):\tNot applicable\n-------------------------------------------------------\n\nClinical History\nLeft VATS with wedge resection, excision and biopsy.\n\nSpecimen(s) Received\nA: Lingula and medial segment left lower lobe\n\nGross Description\nSpecimen A is received fresh in a container labeled with the patient's name and medical record number and as \"wedge excision.\"\nThe specimen consists of a two segments of lung adhered together measuring in total 6.0 x 5.5 x 2.2 cm and weighing 23.9 grams. Multiple staple lines are present in the specimen. Within the lung parenchyma is a solid mass with infiltrative borders measuring 2.4 x 1.9 x 1.4 cm. This mass abuts the parenchymal resection margin following staple line removal and appears to focally abut the overlying pleura. The pleura overlying the mass is disrupted prior to receipt in pathology. No additional masses are identified and the remaining lung parenchyma appears unremarkable. The pleura overlying the mass is inked green; the parenchymal resection margins are inked blue. A touch preparation of the nodule is performed. A portion of the nodule is submitted for frozen section diagnosis in cassette \"A1FS.\" Tissue is submitted for Representative sections are submitted as stated below.\n\nCassette Summary:\n\nA1FS:\tRepresentative nodule\nA2:\tMass overlying pleura and parenchymal resection margin\nA3,4:\tMass and surrounding lung\nA5:\tRepresentative uninvolved lung\n\nIntraoperative Consult Diagnosis\nA1FS:\tLEFT LOWER LOBE LUNG WEDGE NODULE (FROZEN SECTION): NON SMALL CELL CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by\n\nMicroscopic Description\nMicroscopic examination performed.\n\nPrinted by:\t\nPrinted on:\t\n\nPage 3 of 4\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9829567967520018,
+          "mean_log_probability": -0.024549696120689652,
+          "perplexity": 1.02485352108595,
+          "min_probability": 0.11819682921052845
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 465,
+          "total_tokens": 2937
+        },
+        "composite_score": 0.9808308401525914,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.574854135513306,
+          "chars": 2073,
+          "words": 301,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nDistant Metastasis (pM):\tNot applicable\n-------------------------------------------------------\n\nClinical History\nLeft VATS with wedge resection, excision and biopsy.\n\nSpecimen(s) Received\nA: Lingula and medial segment left lower lobe\n\nGross Description\nSpecimen A is received fresh in a container labeled with the patient's name and medical record number and as \"wedge excision.\"\nThe specimen consists of a two segments of lung adhered together measuring in total 6.0 x 5.5 x 2.2 cm and weighing 23.9 grams. Multiple staple lines are present in the specimen. Within the lung parenchyma is a solid mass with infiltrative borders measuring 2.4 x 1.9 x 1.4 cm. This mass abuts the parenchymal resection margin following staple line removal and appears to focally abut the overlying pleura. The pleura overlying the mass is disrupted prior to receipt in pathology. No additional masses are identified and the remaining lung parenchyma appears unremarkable. The pleura overlying the mass is inked green; the parenchymal resection margins are inked blue. A touch preparation of the nodule is performed. A portion of the nodule is submitted for frozen section diagnosis in cassette \"A1FS.\" Tissue is submitted for Representative sections are submitted as stated below.\n\nCassette Summary:\n\nA1FS:\tRepresentative nodule\nA2:\tMass overlying pleura and parenchymal resection margin\nA3,4:\tMass and surrounding lung\nA5:\tRepresentative uninvolved lung\n\nIntraoperative Consult Diagnosis\nA1FS:\tLEFT LOWER LOBE LUNG WEDGE NODULE (FROZEN SECTION): NON SMALL CELL CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by\n\nMicroscopic Description\nMicroscopic examination performed.\n\nPrinted by:\t\nPrinted on:\t\n\nPage 3 of 4\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9829567967520018,
+            "mean_log_probability": -0.024549696120689652,
+            "perplexity": 1.02485352108595,
+            "min_probability": 0.11819682921052845
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 465,
+            "total_tokens": 2937
+          },
+          "composite_score": 0.9808308401525914,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.091850519180298,
+          "chars": 2072,
+          "words": 301,
+          "text": "Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports\n\n* Final Report *\n\nDistant Metastasis (pM):\tNot applicable\n-------------------------------------------------------\n\nClinical History\nLeft VATS with wedge resection, excision and biopsy.\n\nSpecimen(s) Received\nA: Lingula and medial segment left lower lobe\n\nGross Description\nSpecimen A is received fresh in a container labeled with the patient's name and medical record number and as \"wedge excision.\"\nThe specimen consists of a two segments of lung adhered together measuring in total 6.0 x 5.5 x 2.2 cm and weighing 23.9 grams. Multiple staple lines are present in the specimen. Within the lung parenchyma is a solid mass with infiltrative borders measuring 2.4 x 1.9 x 1.4 cm. This mass abuts the parenchymal resection margin following staple line removal and appears to focally abut the overlying pleura. The pleura overlying the mass is disrupted prior to receipt in pathology. No additional masses are identified and the remaining lung parenchyma appears unremarkable. The pleura overlying the mass is inked green; the parenchymal resection margins are inked blue. A touch preparation of the nodule is performed. A portion of the nodule is submitted for frozen section diagnosis in cassette \"A1FS.\" Tissue is submitted for Representative sections are submitted as stated below.\n\nCassette Summary:\n\nA1FS:\tRepresentative nodule\nA2:\tMass overlying pleura and parenchymal resection margin\nA3,4:\tMass and surrounding lung\nA5:\tRepresentative uninvolved lung\n\nIntraoperative Consult Diagnosis\nA1FS:\tLEFT LOWER LOBE LUNG WEDGE NODULE (FROZEN SECTION): NON SMALL CELL CARCINOMA.\nFrozen section results were communicated to the surgical team and were repeated back by\n\nMicroscopic Description\nMicroscopic examination performed.\n\nPrinted by:\nPrinted on:\tPage 3 of 4\n\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9805409265587104,
+            "mean_log_probability": -0.02901998060344827,
+            "perplexity": 1.02944516320522,
+            "min_probability": 0.11609017722686651
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 465,
+            "total_tokens": 2937
+          },
+          "composite_score": 0.9285668056263722
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.118938446044922,
+          "chars": 2121,
+          "words": 301,
+          "text": "Confidential Document  \nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports  \n* Final Report *\n\nDistant Metastasis (pM): Not applicable  \n---------------------------------------------------\n\n**Clinical History**  \nLeft VATS with wedge resection, excision and biopsy.\n\n**Specimen(s) Received**  \nA: Lingula and medial segment left lower lobe\n\n**Gross Description**  \nSpecimen A is received fresh in a container labeled with the patient's name and medical record number and as \"wedge excision.\"  \nThe specimen consists of a two segments of lung adhered together measuring in total 6.0 x 5.5 x 2.2 cm and weighing 23.9 grams. Multiple staple lines are present in the specimen. Within the lung parenchyma is a solid mass with infiltrative borders measuring 2.4 x 1.9 x 1.4 cm. This mass abuts the parenchymal resection margin following staple line removal and appears to focally abut the overlying pleura. The pleura overlying the mass is disrupted prior to receipt in pathology. No additional masses are identified and the remaining lung parenchyma appears unremarkable. The pleura overlying the mass is inked green; the parenchymal resection margins are inked blue. A touch preparation of the nodule is performed. A portion of the nodule is submitted for frozen section diagnosis in cassette \"A1FS.\" Tissue is submitted for Representative sections are submitted as stated below.\n\nCassette Summary:  \nA1FS: Representative nodule  \nA2: Mass overlying pleura and parenchymal resection margin  \nA3,4: Mass and surrounding lung  \nA5: Representative uninvolved lung  \n\n**Intraoperative Consult Diagnosis**  \nA1FS: LEFT LOWER LOBE LUNG WEDGE NODULE (FROZEN SECTION): NON SMALL CELL CARCINOMA.  \nFrozen section results were communicated to the surgical team and were repeated back by\n\n**Microscopic Description**  \nMicroscopic examination performed.\n\nPrinted by:  \nPrinted on:  \n\nPage 3 of 4  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9801145977003116,
+            "mean_log_probability": -0.029406244161358806,
+            "perplexity": 1.0298428771628927,
+            "min_probability": 0.07336971725136472
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 472,
+            "total_tokens": 2944
+          },
+          "composite_score": 0.9282896735964139
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 151.7122185230255,
+        "chars": 8192,
+        "words": 1,
+        "text": "████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "confidence": {
+          "mean_probability": 0.9868916686811017,
+          "mean_log_probability": -0.015229770019531252,
+          "perplexity": 1.015346333962527,
+          "min_probability": 0.4999950903040779
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9879989571076206,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 151.7122185230255,
+          "chars": 8192,
+          "words": 1,
+          "text": "████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9868916686811017,
+            "mean_log_probability": -0.015229770019531252,
+            "perplexity": 1.015346333962527,
+            "min_probability": 0.4999950903040779
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9879989571076206,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 177.90395736694336,
+          "chars": 8292,
+          "words": 41,
+          "text": "████████████████████████████Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of████████████regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9909024590302399,
+            "mean_log_probability": -0.010358974609374998,
+            "perplexity": 1.0104128145350655,
+            "min_probability": 0.3754901649494208
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9422078974889407
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 170.34829449653625,
+          "chars": 8285,
+          "words": 41,
+          "text": "█████████████████████████████████████████████████████████████████████Confidential Document\nThis information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures of████████████████regarding\npatient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.\n\nAnat Path Reports █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9874146908354124,
+            "mean_log_probability": -0.01522608935546875,
+            "perplexity": 1.0153425968206422,
+            "min_probability": 0.11693863136968467
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9386017232698356
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

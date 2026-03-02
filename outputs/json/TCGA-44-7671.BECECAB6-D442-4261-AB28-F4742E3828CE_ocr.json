@@ -1,0 +1,191 @@
+{
+  "pdf": "input_pdfs\\high_quality\\313e1d02-1efb-4f63-9922-f8962e195e18\\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 16.868496417999268,
+        "chars": 2487,
+        "words": 368,
+        "text": "```\nDEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\nSURGICAL PATHOLOGY REPORT\n\nDate Coll: \n\nSPECIMEN\n    A. Right upper middle lobe\n    B. Level 7\n    C. R4\n    D. R2\n\nCLINICAL NOTES\n    PRE-OP DIAGNOSIS:  Lung mass\n\nGROSS DESCRIPTION\n    A. Received fresh in a container labeled \"right upper\n        middle lobe\" is a 197 gm, 19 x 11.8 x 3.5 cm, portion of\n        lung tissue, compatible with right upper and middle lobes. The\n        pleural surface is tan-pink to gray-black, and mottled. There are\n        bronchial stumps averaging 1 cm in length associated with each of\n        the upper and middle lobes.  In the hilar region surrounding each\n        bronchial stump there are several gray-black soft rubbery lymph\n        nodes.  There is a 3.2 x 2.8 x 2.2 cm. rubbery pale tan lesion which\n        appears to be within the middle lobe, and which extends to within 1\n        cm from the bronchial stump.  The lesion grossly extends to beneath\n        the pleural surface, but does not appear to involve the pleura.  The\n        pleural surface overlying the tumor is inked blue.  Tissue is\n        submitted for tissue procurement per the clinical request.  The\n        parenchyma away from the mass is spongy and tan-pink-red, with some\n        bleb form          in the upper lobe. There are no additional mass\n        lesions.  .\n    \n    BLOCK SUMMARY: A1 - bronchial margin, right upper lobe; A2 -\n        vascular margins; A3 - hilar lymph nodes right upper lobe; A4 -\n        bronchial margin right middle lobe; A5 - hilar lymph nodes right\n        middle lobe; A6-A10 - tumor, including relation to pleural surface\n        and adjacent parenchyma; A11,A12 - representative right upper lobe;\n        A13,A14 - right middle lobe away from mass.\n        B.  Received fresh in a container labeled \"level 7\" are six\n        slightly fragmented portions of soft gray-black tissue\n        atible with lymph nodes, up to 1.2 cm in greatest dimension.\n        .\n        C.  Received fresh in a container labeled \"R4\" are five\n        pieces of soft gray-black to tan-gold tissue up to 0.8 cm\n        in greatest dimension.  There appear to be three lymph nodes\n        present.\n        D.  Received fresh in a container labeled \"R2\" are six\n        fragmented soft gray-black to tan-yellow pieces of tissue\n        ranging from 0.3 cm up to 1.1 cm in greatest dimension.  Due to the\n        degree      agm      ation, it is difficult to enumerate the lymph\n        nodes.  \n```",
+        "confidence": {
+          "mean_probability": 0.9792757379329382,
+          "mean_log_probability": -0.029286916149068323,
+          "perplexity": 1.029719995391154,
+          "min_probability": 0.18039525037471782
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 645,
+          "total_tokens": 3117
+        },
+        "composite_score": 0.9772371215919922,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 16.868496417999268,
+          "chars": 2487,
+          "words": 368,
+          "text": "```\nDEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\nSURGICAL PATHOLOGY REPORT\n\nDate Coll: \n\nSPECIMEN\n    A. Right upper middle lobe\n    B. Level 7\n    C. R4\n    D. R2\n\nCLINICAL NOTES\n    PRE-OP DIAGNOSIS:  Lung mass\n\nGROSS DESCRIPTION\n    A. Received fresh in a container labeled \"right upper\n        middle lobe\" is a 197 gm, 19 x 11.8 x 3.5 cm, portion of\n        lung tissue, compatible with right upper and middle lobes. The\n        pleural surface is tan-pink to gray-black, and mottled. There are\n        bronchial stumps averaging 1 cm in length associated with each of\n        the upper and middle lobes.  In the hilar region surrounding each\n        bronchial stump there are several gray-black soft rubbery lymph\n        nodes.  There is a 3.2 x 2.8 x 2.2 cm. rubbery pale tan lesion which\n        appears to be within the middle lobe, and which extends to within 1\n        cm from the bronchial stump.  The lesion grossly extends to beneath\n        the pleural surface, but does not appear to involve the pleura.  The\n        pleural surface overlying the tumor is inked blue.  Tissue is\n        submitted for tissue procurement per the clinical request.  The\n        parenchyma away from the mass is spongy and tan-pink-red, with some\n        bleb form          in the upper lobe. There are no additional mass\n        lesions.  .\n    \n    BLOCK SUMMARY: A1 - bronchial margin, right upper lobe; A2 -\n        vascular margins; A3 - hilar lymph nodes right upper lobe; A4 -\n        bronchial margin right middle lobe; A5 - hilar lymph nodes right\n        middle lobe; A6-A10 - tumor, including relation to pleural surface\n        and adjacent parenchyma; A11,A12 - representative right upper lobe;\n        A13,A14 - right middle lobe away from mass.\n        B.  Received fresh in a container labeled \"level 7\" are six\n        slightly fragmented portions of soft gray-black tissue\n        atible with lymph nodes, up to 1.2 cm in greatest dimension.\n        .\n        C.  Received fresh in a container labeled \"R4\" are five\n        pieces of soft gray-black to tan-gold tissue up to 0.8 cm\n        in greatest dimension.  There appear to be three lymph nodes\n        present.\n        D.  Received fresh in a container labeled \"R2\" are six\n        fragmented soft gray-black to tan-yellow pieces of tissue\n        ranging from 0.3 cm up to 1.1 cm in greatest dimension.  Due to the\n        degree      agm      ation, it is difficult to enumerate the lymph\n        nodes.  \n```",
+          "confidence": {
+            "mean_probability": 0.9792757379329382,
+            "mean_log_probability": -0.029286916149068323,
+            "perplexity": 1.029719995391154,
+            "min_probability": 0.18039525037471782
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 645,
+            "total_tokens": 3117
+          },
+          "composite_score": 0.9772371215919922,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.475786209106445,
+          "chars": 2280,
+          "words": 368,
+          "text": "```\nDEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\nSURGICAL PATHOLOGY REPORT\n\nDate Coll: \n\nSPECIMEN\n        A.  Right upper middle lobe\n        B.  Level 7\n        C.  R4\n        D.  R2\n\nCLINICAL NOTES\n        PRE-OP DIAGNOSIS:  Lung mass\n\nGROSS DESCRIPTION\n        A.  Received fresh in a container labeled \"right upper\nmiddle lobe\" is a 197 gm, 19 x 11.8 x 3.5 cm, portion of\nlung tissue, compatible with right upper and middle lobes.  The\npleural surface is tan-pink to gray-black, and mottled.  There are\nbronchial stumps averaging 1 cm in length associated with each of\nthe upper and middle lobes.  In the hilar region surrounding each\nbronchial stump there are several gray-black soft rubbery lymph\nnodes.  There is a 3.2 x 2.8 x 2.2 cm. rubbery pale tan lesion which\nappears to be within the middle lobe, and which extends to within 1\ncm from the bronchial stump.  The lesion grossly extends to beneath\nthe pleural surface, but does not appear to involve the pleura.  The\npleural surface overlying the tumor is inked blue.  Tissue is\nsubmitted for tissue procurement per the clinical request.  The\nparenchyma away from the mass is spongy and tan-pink-red, with some\nbleb form           in the upper lobe. There are no additional mass\nlesions.  .\n\nBLOCK SUMMARY: A1 - bronchial margin, right upper lobe; A2 -\nvascular margins; A3 - hilar lymph nodes right upper lobe; A4 -\nbronchial margin right middle lobe; A5 - hilar lymph nodes right\nmiddle lobe; A6-A10 - tumor, including relation to pleural surface\nand adjacent parenchyma; A11,A12 - representative right upper lobe;\nA13,A14 - right middle lobe away from mass.\n        B.  Received fresh in a container labeled \"level 7\" are six\nslightly fragmented portions of soft gray-black tissue\natible with lymph nodes, up to 1.2 cm in greatest dimension.\n      .\n        C.  Received fresh in a container labeled \"R4\" are five\npieces of soft gray-black to tan-gold tissue up to 0.8 cm\nin greatest dimension.  There appear to be three lymph nodes\npresent.\n        D.  Received fresh in a container labeled \"R2\" are six\nfragmented soft gray-black to tan-yellow pieces of tissue\nranging from 0.3 cm up to 1.1 cm in greatest dimension.  Due to the\ndegree      agm      ation, it is difficult to enumerate the lymph\nnodes.    \n\n```",
+          "confidence": {
+            "mean_probability": 0.983314961545128,
+            "mean_log_probability": -0.02756021496815287,
+            "perplexity": 1.027943510829477,
+            "min_probability": 0.09217245000117147
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 629,
+            "total_tokens": 3101
+          },
+          "composite_score": 0.9296160234011732
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 19.391815900802612,
+          "chars": 2512,
+          "words": 368,
+          "text": "```\nDEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE\n\nSURGICAL PATHOLOGY REPORT\n\nDate Coll: \n\nSPECIMEN\n    A.  Right upper middle lobe\n    B.  Level 7\n    C.  R4\n    D.  R2\n\nCLINICAL NOTES\n    PRE-OP DIAGNOSIS:  Lung mass\n\nGROSS DESCRIPTION\n    A.  Received fresh in a container labeled \"right upper\n        middle lobe\" is a 197 gm, 19 x 11.8 x 3.5 cm, portion of\n        lung tissue, compatible with right upper and middle lobes.  The\n        pleural surface is tan-pink to gray-black, and mottled.  There are\n        bronchial stumps averaging 1 cm in length associated with each of\n        the upper and middle lobes.  In the hilar region surrounding each\n        bronchial stump there are several gray-black soft rubbery lymph\n        nodes.  There is a 3.2 x 2.8 x 2.2 cm. rubbery pale tan lesion which\n        appears to be within the middle lobe, and which extends to within 1\n        cm from the bronchial stump.  The lesion grossly extends to beneath\n        the pleural surface, but does not appear to involve the pleura.  The\n        pleural surface overlying the tumor is inked blue.  Tissue is\n        submitted for tissue procurement per the clinical request.  The\n        parenchyma away from the mass is spongy and tan-pink-red, with some\n        bleb form           in the upper lobe. There are no additional mass\n        lesions.  .\n        \n    BLOCK SUMMARY: A1 - bronchial margin, right upper lobe; A2 -\n        vascular margins; A3 - hilar lymph nodes right upper lobe; A4 -\n        bronchial margin right middle lobe; A5 - hilar lymph nodes right\n        middle lobe; A6-A10 - tumor, including relation to pleural surface\n        and adjacent parenchyma; A11,A12 - representative right upper lobe;\n        A13,A14 - right middle lobe away from mass.\n        B.  Received fresh in a container labeled \"level 7\" are six\n            slightly fragmented portions of soft gray-black tissue\n        atible with lymph nodes, up to 1.2 cm in greatest dimension.\n        .\n        C.  Received fresh in a container labeled \"R4\" are five\n            pieces of soft gray-black to tan-gold tissue up to 0.8 cm\n        in greatest dimension.  There appear to be three lymph nodes\n        present.\n        D.  Received fresh in a container labeled \"R2\" are six\n            fragmented soft gray-black to tan-yellow pieces of tissue\n        ranging from 0.3 cm up to 1.1 cm in greatest dimension.  Due to the\n        degree      agm      ation, it is difficult to enumerate the lymph\n        nodes.   \n```",
+          "confidence": {
+            "mean_probability": 0.981106752018821,
+            "mean_log_probability": -0.026951321044546853,
+            "perplexity": 1.0273177927892112,
+            "min_probability": 0.17835452429344417
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 652,
+            "total_tokens": 3124
+          },
+          "composite_score": 0.9300545521738832
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 11.396215438842773,
+        "chars": 1972,
+        "words": 197,
+        "text": "```\n█████\n\n                MICROSCOPIC DESCRIPTION\n                     The following template summarizes the findings in this\n                     case:\n\n                Histologic type:  Adenocarcinoma (mixed papillary and not otherwise\n                     specified), comprising the mass lesion in the right middle lobe in\n                     part A.\n                Histologic grade:  Moderately differentiated.\n                Primary tumor (pT):  pT2a. The tumor is 3.2 cm in greatest\n                     dimension.  Pleural invasion is not identified.\n                Margins of resection:  Negative for tumor\n                Direct extension of tumor:  Not identified\n                Vascular invasion:  Not definitively identified\n                Regional lymph nodes (pN):  pN0. The hilar lymph nodes identified in\n                     part A, as well as the separately submitted lymph nodes in parts B,\n                     C, and D, are negative for tumor.\n                Distant metastasis (pM):  pMX\n                Other findings:  Emphysematous change with bleb formation in the\n                     upper lobe, with bronchiolar metaplasia, and subpleural fibrosis.\n                Note:  This case has been reviewed in Intradepartmental Consultation\n                     with concurrence with the interpretation.\n\n████\n\nDIAGNOSIS\n       A.  Lung, right upper and middle lobes, excision\n            - Moderately differentiated adenocarcinoma, 3.2 cm in\n               greatest dimension (pT2a), margins negative for malignancy\n               (see microscopic description).\n            - Emphysematous changes, with bleb formation.\n            - Lymph nodes negative for malignancy.\n\n       B,C,D. Lymph nodes, level 7, R4, and R2, excisions\n            - Negative for malignancy.\n\n█████████████████████████████████████████████████████████████████████████████████████████████████████████████████\n\n\n                              --- End Of Report ---\n```",
+        "confidence": {
+          "mean_probability": 0.9559406345345989,
+          "mean_log_probability": -0.07162440677966103,
+          "perplexity": 1.0742517865938512,
+          "min_probability": 0.050962969409430466
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 414,
+          "total_tokens": 2886
+        },
+        "composite_score": 0.8965437053204829,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 78.5% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 78.5% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 181.42691850662231,
+          "chars": 8479,
+          "words": 191,
+          "text": "```\n██████\n\n                MICROSCOPIC DESCRIPTION\n                      The following template summarizes the findings in this\n                case:\n\n                Histologic type:  Adenocarcinoma (mixed papillary and not otherwise\n                specified), comprising the mass lesion in the right middle lobe in\n                part A.\n                Histologic grade:  Moderately differentiated.\n                Primary tumor (pT):  pT2a. The tumor is 3.2 cm in greatest\n                dimension.  Pleural invasion is not identified.\n                Margins of resection:  Negative for tumor\n                Direct extension of tumor:  Not identified\n                Vascular invasion:  Not definitively identified\n                Regional lymph nodes (pN):  pN0. The hilar lymph nodes identified in\n                part A, as well as the separately submitted lymph nodes in parts B,\n                C, and D, are negative for tumor.\n                Distant metastasis (pM):  pMX\n                Other findings:  Emphysematous change with bleb formation in the\n                upper lobe, with bronchiolar metaplasia, and subpleural fibrosis.\n                Note:  This case has been reviewed in Intradepartmental Consultation\n                with concurrence with the interpretation.\n\n                ████\n\nDIAGNOSIS\n        A.  Lung, right upper and middle lobes, excision\n                - Moderately differentiated adenocarcinoma, 3.2 cm in\n                  greatest dimension (pT2a), margins negative for malignancy\n                  (see microscopic description).\n                - Emphysematous changes, with bleb formation.\n                - Lymph nodes negative for malignancy.\n\n        B,C,D. Lymph nodes, level 7, R4, and R2, excisions\n                - Negative for malignancy.\n\n████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9806141641560291,
+            "mean_log_probability": -0.0239090830078125,
+            "perplexity": 1.0241971967290042,
+            "min_probability": 0.1842634042904745
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.5887916221916527
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.9237220287323,
+          "chars": 1612,
+          "words": 192,
+          "text": "MICROSCOPIC DESCRIPTION\n        The following template summarizes the findings in this\n        case:\n\n        Histologic type:  Adenocarcinoma (mixed papillary and not otherwise\n        specified), comprising the mass lesion in the right middle lobe in\n        part A.\n        Histologic grade:  Moderately differentiated.\n        Primary tumor (pT):  pT2a. The tumor is 3.2 cm in greatest\n        dimension.  Pleural invasion is not identified.\n        Margins of resection:  Negative for tumor\n        Direct extension of tumor:  Not identified\n        Vascular invasion:  Not definitively identified\n        Regional lymph nodes (pN):  pN0. The hilar lymph nodes identified in\n        part A, as well as the separately submitted lymph nodes in parts B,\n        C, and D, are negative for tumor.\n        Distant metastasis (pM):  pMX\n        Other findings:  Emphysematous change with bleb formation in the\n        upper lobe, with bronchiolar metaplasia, and subpleural fibrosis.\n        Note:  This case has been reviewed in Intradepartmental Consultation\n        with concurrence with the interpretation.\n\nDIAGNOSIS\n        A.  Lung, right upper and middle lobes, excision\n                - Moderately differentiated adenocarcinoma, 3.2 cm in\n                greatest dimension (pT2a), margins negative for malignancy\n                (see microscopic description).\n                - Emphysematous changes, with bleb formation.\n                - Lymph nodes negative for malignancy.\n\n        B,C,D. Lymph nodes, level 7, R4, and R2, excisions\n                - Negative for malignancy.\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9815710632729706,
+            "mean_log_probability": -0.024019449197860962,
+            "perplexity": 1.0243102397094124,
+            "min_probability": 0.353390359060225
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 375,
+            "total_tokens": 2847
+          },
+          "composite_score": 0.8953134036353766
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.396215438842773,
+          "chars": 1972,
+          "words": 197,
+          "text": "```\n█████\n\n                MICROSCOPIC DESCRIPTION\n                     The following template summarizes the findings in this\n                     case:\n\n                Histologic type:  Adenocarcinoma (mixed papillary and not otherwise\n                     specified), comprising the mass lesion in the right middle lobe in\n                     part A.\n                Histologic grade:  Moderately differentiated.\n                Primary tumor (pT):  pT2a. The tumor is 3.2 cm in greatest\n                     dimension.  Pleural invasion is not identified.\n                Margins of resection:  Negative for tumor\n                Direct extension of tumor:  Not identified\n                Vascular invasion:  Not definitively identified\n                Regional lymph nodes (pN):  pN0. The hilar lymph nodes identified in\n                     part A, as well as the separately submitted lymph nodes in parts B,\n                     C, and D, are negative for tumor.\n                Distant metastasis (pM):  pMX\n                Other findings:  Emphysematous change with bleb formation in the\n                     upper lobe, with bronchiolar metaplasia, and subpleural fibrosis.\n                Note:  This case has been reviewed in Intradepartmental Consultation\n                     with concurrence with the interpretation.\n\n████\n\nDIAGNOSIS\n       A.  Lung, right upper and middle lobes, excision\n            - Moderately differentiated adenocarcinoma, 3.2 cm in\n               greatest dimension (pT2a), margins negative for malignancy\n               (see microscopic description).\n            - Emphysematous changes, with bleb formation.\n            - Lymph nodes negative for malignancy.\n\n       B,C,D. Lymph nodes, level 7, R4, and R2, excisions\n            - Negative for malignancy.\n\n█████████████████████████████████████████████████████████████████████████████████████████████████████████████████\n\n\n                              --- End Of Report ---\n```",
+          "confidence": {
+            "mean_probability": 0.9559406345345989,
+            "mean_log_probability": -0.07162440677966103,
+            "perplexity": 1.0742517865938512,
+            "min_probability": 0.050962969409430466
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 414,
+            "total_tokens": 2886
+          },
+          "composite_score": 0.8965437053204829,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 78.5% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 78.5% - results inconsistent"
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

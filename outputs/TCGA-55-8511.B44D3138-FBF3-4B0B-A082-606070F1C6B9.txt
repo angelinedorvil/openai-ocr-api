@@ -1,0 +1,107 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\1f9e31e4-6c5b-4b77-a865-bba33d8effdb\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.PDF
+Processing Date: 2026-03-02 13:17:01
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+SURGICAL PATHOLOGY REPORT
+
+DIAGNOSIS:
+
+DIAGNOSIS:
+A. Right upper lobe lung mass; biopsy:
+        Adenocarcinoma.
+        Intraoperative consultation corroborated.
+
+B. Station 10; excision:
+        No metastatic carcinoma identified (0/1).
+
+C. Interlobar lymph node; excision:
+        No metastatic carcinoma identified (0/1).
+
+D. Right paratracheal lymph node; excision:
+        No metastatic carcinoma identified (0/1).
+
+E. Right upper lung lobe; lobectomy:
+        Tumor Characteristics:
+1. Histologic type: Adenocarcinoma.
+2. Histologic grade: Poorly differentiated.
+3. Tumor site: Right upper lobe.
+4. Tumor focality: Unifocal.
+5. Tumor size: 4.5 x 3.0 x 2.5 cm.
+6. Visceral pleural invasion: Not identified.
+7. Lymphovascular space invasion: Not identified.
+8. Tumor extension: Tumor limited to the pulmonary parenchyma.
+9. Treatment effect: Not identified.
+        Surgical Margin Status:
+1. Tumor distance from bronchial margin: 0.2 cm.
+2. Tumor distance from parenchymal (stapled) margin: 0.2 cm.
+3. Tumor distance from pleural surface: 0.7 cm.
+        Lymph Node Status:
+1. Total number of lymph nodes received: 4, see specimens B, C, D and F.
+2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/4).
+        Other:
+1. pTNM stage: pT2a N0.
+2. Lung cancer molecular panel is pending, results will be reported as an addendum.
+
+F. Subcarinal lymph node; excision:
+        No metastatic carcinoma identified in one lymph node (0/1).
+
+COMMENTS:
+The tumor is positive for cytokeratin 7 and TTF and negative for cytokeratin 20 and p63. Supporting the diagnosis of adenocarcinoma of the lung.
+```
+
+================================================================================
+PAGE 2
+================================================================================
+CLINICAL INFORMATION
+
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right upper lobe lung mass, suspicious for carcinoma.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+
+SPECIMENS:
+A. Right upper lobe lung mass
+B. Station 10
+C. Interlobar lymph node
+D. Right paratracheal lymph node
+E. Right upper lung lobe
+F. Subcarinal lymph node
+
+SPECIMEN DATA
+
+GROSS DESCRIPTION:
+A. Container A is labeled #1'. Received for frozen section and subsequently placed in formalin are numerous fragments of yellow-tan soft tissue,
+up to 0.7 x 0.2 x 0.2 cm. The entire specimen is submitted in cassette A1 labeled
+
+B. Container B is labeled 'station 10'. Received in formalin, is a 1.4 x 1.0 x 0.3 cm portion of anthracotic tissue. The entire specimen is sectioned
+and submitted in cassette B1 labeled
+
+C. Container C is labeled interlobar lymph node'. Received in formalin, is a 1.4 x 0.6 x 0.4 cm anthracotic lymph node. The lymph node is
+quadrisected and submitted in cassette C1 labeled
+
+D. Container D is labeled right paratracheal lymph node'. Received in formalin are three anthracotic lymph nodes, ranging from 0.5 cm to 2.2 cm
+in greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: D1) intact smallest lymph node; D2-D3) each
+with one sectioned lymph node in toto.
+
+E. Container E is labeled right upper lung lobe'. Received in formalin is a 175 gram, 11.8 x 14.5 x 3.3 cm lobe of lung with a 12.5 cm long
+stapled margin at one aspect. The staples are removed and the underlying parenchyma is inked black. The pleura is smooth and glistening, moderately
+violaceous and has been previously focally inked blue. Sectioning reveals a 4.5 x 3.0 x 2.5 cm tan-white, focally anthracotic tumor which extends to
+within 0.7 cm of the previously inked pleura, and 0.2 cm from the bronchial and vascular resection margins. The remaining lung is spongy, red-tan.
+Representative sections are submitted for genomics studies in three cassettes labeled Sections are submitted in cassettes labeled
+as follows: E1) bronchial resection margin; E2) vascular resection margin; E3-E6) tumor to inked pleura; E7-E8) representative remaining lung
+parenchyma.
+
+F. Container F is labeled subcarinal lymph node'. Received in formalin are four pieces of anthracotic tissue ranging from 1.1 cm to 2.3 cm in
+greatest dimensions. The entire specimen is submitted in cassettes labeled as follows: F1-F4) each with one sectioned lymph node in
+toto.
+
+INTRA-OPERATIVE CONSULTATION:
+A. FROZEN SECTION DIAGNOSIS: Non-small cell carcinoma per Dr.

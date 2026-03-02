@@ -1,0 +1,365 @@
+{
+  "pdf": "input_pdfs\\low_quality\\533c0f37-9630-4595-968e-700c8d7785cf\\TCGA-55-8619.DCBC1E01-C61A-4D30-B741-965C99418ECF.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.275604486465454,
+        "chars": 1449,
+        "words": 198,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - M.) LUNG, RIGHT, LYMPH NODES, N4R, N4R#2, N4R#3, N10R, N7, N10L, N4L, N2R,\nN7, N7#2, LYMPH NODE BIOPSIES AND RESECTIONS, WEDGE RESECTIONS (X2),\nAND COMPLETION PNEUMONECTOMY:\n  - Adenocarcinoma with mucinous features, well differentiated.\n    - Two foci in right lower lobe, 1.5 cm in greatest dimension each.\n    - One focus in right upper lobe, 2.0 cm in greatest dimension.\n    - Visceral pleural invasion present, tumor does not extend to pleural surface.\n  - Surgical margins negative.\n  - Twenty-two lymph nodes, no tumor seen (0/22).\n  - See comment.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right lower lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT3(2 tumor foci).\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IIB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right upper lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT2a.\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nCOMMENT: Sections show three histologically similar foci of adenocarcinoma with\nwith areas of definitive invasion and areas of a mucinous bronchioloalveolar pattern.\nThe tumor cells are diffusely, strongly positive for CK7 and show patchy positivity for",
+        "confidence": {
+          "mean_probability": 0.9933869544334768,
+          "mean_log_probability": -0.008925742924528302,
+          "perplexity": 1.008965696150176,
+          "min_probability": 0.33421225293933826
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 425,
+          "total_tokens": 2897
+        },
+        "composite_score": 0.9378225769193632,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.275604486465454,
+          "chars": 1449,
+          "words": 198,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - M.) LUNG, RIGHT, LYMPH NODES, N4R, N4R#2, N4R#3, N10R, N7, N10L, N4L, N2R,\nN7, N7#2, LYMPH NODE BIOPSIES AND RESECTIONS, WEDGE RESECTIONS (X2),\nAND COMPLETION PNEUMONECTOMY:\n  - Adenocarcinoma with mucinous features, well differentiated.\n    - Two foci in right lower lobe, 1.5 cm in greatest dimension each.\n    - One focus in right upper lobe, 2.0 cm in greatest dimension.\n    - Visceral pleural invasion present, tumor does not extend to pleural surface.\n  - Surgical margins negative.\n  - Twenty-two lymph nodes, no tumor seen (0/22).\n  - See comment.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right lower lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT3(2 tumor foci).\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IIB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right upper lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT2a.\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nCOMMENT: Sections show three histologically similar foci of adenocarcinoma with\nwith areas of definitive invasion and areas of a mucinous bronchioloalveolar pattern.\nThe tumor cells are diffusely, strongly positive for CK7 and show patchy positivity for",
+          "confidence": {
+            "mean_probability": 0.9933869544334768,
+            "mean_log_probability": -0.008925742924528302,
+            "perplexity": 1.008965696150176,
+            "min_probability": 0.33421225293933826
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 425,
+            "total_tokens": 2897
+          },
+          "composite_score": 0.9378225769193632,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.593585968017578,
+          "chars": 1449,
+          "words": 198,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - M.) LUNG, RIGHT, LYMPH NODES, N4R, N4R#2, N4R#3, N10R, N7, N10L, N4L, N2R,\nN7, N7#2, LYMPH NODE BIOPSIES AND RESECTIONS, WEDGE RESECTIONS (X2),\nAND COMPLETION PNEUMONECTOMY:\n  - Adenocarcinoma with mucinous features, well differentiated.\n    - Two foci in right lower lobe, 1.5 cm in greatest dimension each.\n    - One focus in right upper lobe, 2.0 cm in greatest dimension.\n    - Visceral pleural invasion present, tumor does not extend to pleural surface.\n  - Surgical margins negative.\n  - Twenty-two lymph nodes, no tumor seen (0/22).\n  - See comment.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right lower lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT3(2 tumor foci).\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IIB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right upper lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT2a.\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nCOMMENT: Sections show three histologically similar foci of adenocarcinoma with\nwith areas of definitive invasion and areas of a mucinous bronchioloalveolar pattern.\nThe tumor cells are diffusely, strongly positive for CK7 and show patchy positivity for",
+          "confidence": {
+            "mean_probability": 0.9930755940239666,
+            "mean_log_probability": -0.009535830188679246,
+            "perplexity": 1.009581441081334,
+            "min_probability": 0.32028437690518985
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 425,
+            "total_tokens": 2897
+          },
+          "composite_score": 0.8904762246394052
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.400625467300415,
+          "chars": 1449,
+          "words": 198,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - M.) LUNG, RIGHT, LYMPH NODES, N4R, N4R#2, N4R#3, N10R, N7, N10L, N4L, N2R,\nN7, N7#2, LYMPH NODE BIOPSIES AND RESECTIONS, WEDGE RESECTIONS (X2),\nAND COMPLETION PNEUMONECTOMY:\n  - Adenocarcinoma with mucinous features, well differentiated.\n    - Two foci in right lower lobe, 1.5 cm in greatest dimension each.\n    - One focus in right upper lobe, 2.0 cm in greatest dimension.\n    - Visceral pleural invasion present, tumor does not extend to pleural surface.\n  - Surgical margins negative.\n  - Twenty-two lymph nodes, no tumor seen (0/22).\n  - See comment.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right lower lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT3(2 tumor foci).\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IIB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS (Right upper lobe):\n  Type and grade: Adenocarcinoma, well differentiated.\n  Primary tumor: pT2a.\n  Regional lymph nodes: pN0.\n  Distant metastasis: N/A.\n  Pathologic stage: IB.\n  Lymphovascular invasion: Not identified.\n  Margin status: R0, negative.\n\nCOMMENT: Sections show three histologically similar foci of adenocarcinoma with\nwith areas of definitive invasion and areas of a mucinous bronchioloalveolar pattern.\nThe tumor cells are diffusely, strongly positive for CK7 and show patchy positivity for",
+          "confidence": {
+            "mean_probability": 0.9931552995507148,
+            "mean_log_probability": -0.009252264150943396,
+            "perplexity": 1.0092951986585479,
+            "min_probability": 0.3506930287971744
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 425,
+            "total_tokens": 2897
+          },
+          "composite_score": 0.8906877421552701
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.456661462783813,
+        "chars": 1207,
+        "words": 171,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nCDX2 and villin and are negative for CK20, TTF-1, and Napsin-A. There are three foci\nof adenocarcinoma identified (two in the right lower lobe and one in the right upper\nlobe). The differential diagnosis includes adenocarcinoma of lung primary versus\nmetastatic adenocarcinoma of gastrointestinal primary (upper GI, pancreato-biliary\nand colon). Lung primary adenocarcinomas are typically positive for CK7, TTF-1 and\nNapsin-A and negative for CDX2, villin and CK20, however, lung primary\nadenocarcinomas with mucinous differentiation can show patchy positivity for CDX2.\nThree tumor foci are seen in the lung, which can be seen in the setting of metastatic\ndisease and a multifocal lung primary. The diffusely, strongly positive CK7, patchy\nCDX2 positivity, negative CK20, and the presence of a bronchioloalveolar growth\npattern favor a lung primary origin, therefore, the patient is staged accordingly,\nhowever, metastatic gastrointestinal adenocarcinoma cannot be completely\nexcluded. Because the patient has no lymphovascular invasion, negative lymph\nnodes and associated bronchioloalveolar growth pattern, the right upper lobe and\nright lower lobe are staged separately.",
+        "confidence": {
+          "mean_probability": 0.9981928081087569,
+          "mean_log_probability": -0.002081342560553634,
+          "perplexity": 1.0020835100574879,
+          "min_probability": 0.6565542194484236
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 290,
+          "total_tokens": 2762
+        },
+        "composite_score": 0.9190383843429435,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.456661462783813,
+          "chars": 1207,
+          "words": 171,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nCDX2 and villin and are negative for CK20, TTF-1, and Napsin-A. There are three foci\nof adenocarcinoma identified (two in the right lower lobe and one in the right upper\nlobe). The differential diagnosis includes adenocarcinoma of lung primary versus\nmetastatic adenocarcinoma of gastrointestinal primary (upper GI, pancreato-biliary\nand colon). Lung primary adenocarcinomas are typically positive for CK7, TTF-1 and\nNapsin-A and negative for CDX2, villin and CK20, however, lung primary\nadenocarcinomas with mucinous differentiation can show patchy positivity for CDX2.\nThree tumor foci are seen in the lung, which can be seen in the setting of metastatic\ndisease and a multifocal lung primary. The diffusely, strongly positive CK7, patchy\nCDX2 positivity, negative CK20, and the presence of a bronchioloalveolar growth\npattern favor a lung primary origin, therefore, the patient is staged accordingly,\nhowever, metastatic gastrointestinal adenocarcinoma cannot be completely\nexcluded. Because the patient has no lymphovascular invasion, negative lymph\nnodes and associated bronchioloalveolar growth pattern, the right upper lobe and\nright lower lobe are staged separately.",
+          "confidence": {
+            "mean_probability": 0.9981928081087569,
+            "mean_log_probability": -0.002081342560553634,
+            "perplexity": 1.0020835100574879,
+            "min_probability": 0.6565542194484236
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 290,
+            "total_tokens": 2762
+          },
+          "composite_score": 0.9190383843429435,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.573415517807007,
+          "chars": 1207,
+          "words": 171,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nCDX2 and villin and are negative for CK20, TTF-1, and Napsin-A. There are three foci\nof adenocarcinoma identified (two in the right lower lobe and one in the right upper\nlobe). The differential diagnosis includes adenocarcinoma of lung primary versus\nmetastatic adenocarcinoma of gastrointestinal primary (upper GI, pancreato-biliary\nand colon). Lung primary adenocarcinomas are typically positive for CK7, TTF-1 and\nNapsin-A and negative for CDX2, villin and CK20, however, lung primary\nadenocarcinomas with mucinous differentiation can show patchy positivity for CDX2.\nThree tumor foci are seen in the lung, which can be seen in the setting of metastatic\ndisease and a multifocal lung primary. The diffusely, strongly positive CK7, patchy\nCDX2 positivity, negative CK20, and the presence of a bronchioloalveolar growth\npattern favor a lung primary origin, therefore, the patient is staged accordingly,\nhowever, metastatic gastrointestinal adenocarcinoma cannot be completely\nexcluded. Because the patient has no lymphovascular invasion, negative lymph\nnodes and associated bronchioloalveolar growth pattern, the right upper lobe and\nright lower lobe are staged separately.",
+          "confidence": {
+            "mean_probability": 0.9981467573627811,
+            "mean_log_probability": -0.0021610657439446366,
+            "perplexity": 1.002163402529532,
+            "min_probability": 0.6381588789958951
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 290,
+            "total_tokens": 2762
+          },
+          "composite_score": 0.8730261317366649
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 6.8823676109313965,
+          "chars": 1207,
+          "words": 171,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nCDX2 and villin and are negative for CK20, TTF-1, and Napsin-A. There are three foci\nof adenocarcinoma identified (two in the right lower lobe and one in the right upper\nlobe). The differential diagnosis includes adenocarcinoma of lung primary versus\nmetastatic adenocarcinoma of gastrointestinal primary (upper GI, pancreato-biliary\nand colon). Lung primary adenocarcinomas are typically positive for CK7, TTF-1 and\nNapsin-A and negative for CDX2, villin and CK20, however, lung primary\nadenocarcinomas with mucinous differentiation can show patchy positivity for CDX2.\nThree tumor foci are seen in the lung, which can be seen in the setting of metastatic\ndisease and a multifocal lung primary. The diffusely, strongly positive CK7, patchy\nCDX2 positivity, negative CK20, and the presence of a bronchioloalveolar growth\npattern favor a lung primary origin, therefore, the patient is staged accordingly,\nhowever, metastatic gastrointestinal adenocarcinoma cannot be completely\nexcluded. Because the patient has no lymphovascular invasion, negative lymph\nnodes and associated bronchioloalveolar growth pattern, the right upper lobe and\nright lower lobe are staged separately.",
+          "confidence": {
+            "mean_probability": 0.9979256945680524,
+            "mean_log_probability": -0.002486733564013841,
+            "perplexity": 1.0024898280504457,
+            "min_probability": 0.5911946256310516
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 290,
+            "total_tokens": 2762
+          },
+          "composite_score": 0.8727797705546871
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.919503927230835,
+        "chars": 1607,
+        "words": 223,
+        "text": "Procedure:\tMultiple lymph node biopsies and resections, right upper lobe and right lower lobe lobectomies, and right lung resection.\nSpecimen type:\tRight upper lobe, right lower lobe, right lung resection, multiple lymph node biopsies and resections.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact.\n\nTumor Features:\n\tTumor site:\tRight upper lobe, right lower lobe.\n\tTumor size:\tMultifocal, Right upper lobe: 2.0; right lower lobe two foci: 1.5 and 1.5 cm.\n\tTumor focality:\tMultifocal.\n\tHistologic type:\tAdenocarcinoma with mucinous features.\n\tHistologic grade:\tWell differentiated (G1).\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tPL1, tumor extends into visceral pleura but does not extend to pleural surface (seen in both the right upper lobe and right lower lobe.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-two lymph nodes, no tumor seen.\n\nMargin Evaluation:\n\tDistance to closest margin:\tParietal pleura at 0.1 cm.\n\tBronchial margin:\tGreater than 2 cm.\n\tVascular margin:\tGreater than 2 cm.\n\tParenchymal margin:\t0.1 cm.\n\tParietal pleural margin:\tN/A.\n\tChest wall margin:\tN/A.\n\tOther margins:\t\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tRight lower lobe/Right upper lobe.\n\t\tRight lower lobe pT3; Right upper lobe pT2a.\n\tRegional lymph nodes (pN):\tpN0.\n\tDistant metastasis (pM):\tN/A.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tRight lower lobe IIB; Right upper lobe IB.\n\nAdditional pathologic findings:\tEmphysematous changes.\n\nComment:\tN/A.",
+        "confidence": {
+          "mean_probability": 0.9884798792973194,
+          "mean_log_probability": -0.013746593548387096,
+          "perplexity": 1.0138415124037565,
+          "min_probability": 0.49600166272236285
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 466,
+          "total_tokens": 2938
+        },
+        "composite_score": 0.9498518502664297,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.919503927230835,
+          "chars": 1607,
+          "words": 223,
+          "text": "Procedure:\tMultiple lymph node biopsies and resections, right upper lobe and right lower lobe lobectomies, and right lung resection.\nSpecimen type:\tRight upper lobe, right lower lobe, right lung resection, multiple lymph node biopsies and resections.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact.\n\nTumor Features:\n\tTumor site:\tRight upper lobe, right lower lobe.\n\tTumor size:\tMultifocal, Right upper lobe: 2.0; right lower lobe two foci: 1.5 and 1.5 cm.\n\tTumor focality:\tMultifocal.\n\tHistologic type:\tAdenocarcinoma with mucinous features.\n\tHistologic grade:\tWell differentiated (G1).\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tPL1, tumor extends into visceral pleura but does not extend to pleural surface (seen in both the right upper lobe and right lower lobe.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-two lymph nodes, no tumor seen.\n\nMargin Evaluation:\n\tDistance to closest margin:\tParietal pleura at 0.1 cm.\n\tBronchial margin:\tGreater than 2 cm.\n\tVascular margin:\tGreater than 2 cm.\n\tParenchymal margin:\t0.1 cm.\n\tParietal pleural margin:\tN/A.\n\tChest wall margin:\tN/A.\n\tOther margins:\t\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tRight lower lobe/Right upper lobe.\n\t\tRight lower lobe pT3; Right upper lobe pT2a.\n\tRegional lymph nodes (pN):\tpN0.\n\tDistant metastasis (pM):\tN/A.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tRight lower lobe IIB; Right upper lobe IB.\n\nAdditional pathologic findings:\tEmphysematous changes.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.9884798792973194,
+            "mean_log_probability": -0.013746593548387096,
+            "perplexity": 1.0138415124037565,
+            "min_probability": 0.49600166272236285
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.9498518502664297,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.2782564163208,
+          "chars": 1605,
+          "words": 223,
+          "text": "Procedure:\tMultiple lymph node biopsies and resections, right upper lobe and right lower lobe lobectomies, and right lung resection.\nSpecimen type:\tRight upper lobe, right lower lobe, right lung resection, multiple lymph node biopsies and resections.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact.\n\nTumor Features:\n\tTumor site:\tRight upper lobe, right lower lobe.\n\tTumor size:\tMultifocal, Right upper lobe: 2.0; right lower lobe two foci: 1.5 and 1.5 cm.\n\tTumor focality:\tMultifocal.\n\tHistologic type:\tAdenocarcinoma with mucinous features.\n\tHistologic grade:\tWell differentiated (G1).\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tPL1, tumor extends into visceral pleura but does not extend to pleural surface (seen in both the right upper lobe and right lower lobe.\nTumor extension into extra-pulmonary structures:\tNot identified.\nTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-two lymph nodes, no tumor seen.\n\nMargin Evaluation:\n\tDistance to closest margin:\tParietal pleura at 0.1 cm.\n\tBronchial margin:\tGreater than 2 cm.\n\tVascular margin:\tGreater than 2 cm.\n\tParenchymal margin:\t0.1 cm.\n\tParietal pleural margin:\tN/A.\n\tChest wall margin:\tN/A.\n\tOther margins:\t\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tRight lower lobe/Right upper lobe.\n\t\tRight lower lobe pT3; Right upper lobe pT2a.\n\tRegional lymph nodes (pN):\tpN0.\n\tDistant metastasis (pM):\tN/A.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tRight lower lobe IIB; Right upper lobe IB.\n\nAdditional pathologic findings:\tEmphysematous changes.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.9890024282940942,
+            "mean_log_probability": -0.013121285097192221,
+            "perplexity": 1.0132077469079892,
+            "min_probability": 0.4976177833262109
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 464,
+            "total_tokens": 2936
+          },
+          "composite_score": 0.9026319764444248
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.284071922302246,
+          "chars": 1607,
+          "words": 223,
+          "text": "Procedure:\tMultiple lymph node biopsies and resections, right upper lobe and right lower lobe lobectomies, and right lung resection.\nSpecimen type:\tRight upper lobe, right lower lobe, right lung resection, multiple lymph node biopsies and resections.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact.\n\nTumor Features:\n\tTumor site:\tRight upper lobe, right lower lobe.\n\tTumor size:\tMultifocal, Right upper lobe: 2.0; right lower lobe two foci: 1.5 and 1.5 cm.\n\tTumor focality:\tMultifocal.\n\tHistologic type:\tAdenocarcinoma with mucinous features.\n\tHistologic grade:\tWell differentiated (G1).\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tPL1, tumor extends into visceral pleura but does not extend to pleural surface (seen in both the right upper lobe and right lower lobe.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-two lymph nodes, no tumor seen.\n\nMargin Evaluation:\n\tDistance to closest margin:\tParietal pleura at 0.1 cm.\n\tBronchial margin:\tGreater than 2 cm.\n\tVascular margin:\tGreater than 2 cm.\n\tParenchymal margin:\t0.1 cm.\n\tParietal pleural margin:\tN/A.\n\tChest wall margin:\tN/A.\n\tOther margins:\t\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tRight lower lobe/Right upper lobe.\n\t\tRight lower lobe pT3; Right upper lobe pT2a.\n\tRegional lymph nodes (pN):\tpN0.\n\tDistant metastasis (pM):\tN/A.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tRight lower lobe IIB; Right upper lobe IB.\n\nAdditional pathologic findings:\tEmphysematous changes.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.9878078355206357,
+            "mean_log_probability": -0.014977849462365593,
+            "perplexity": 1.015090579564607,
+            "min_probability": 0.43761489085117294
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.9014498137795052
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.304559707641602,
+        "chars": 613,
+        "words": 102,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N4R\nB. N4R#2\nC. N10R\nD. N7\nE. N10L\nF. N4L\nG. N2R\nH. Lung;right lower wedge lobe resection\nI. Lung;right upper lobe wedge resection\nJ. Lung;right lung\nK. N4R #3\nL. N7#2\nM. N7\n\nClinical History/Operative Dx:\nRight lung cancer.\n\nIntraoperative Diagnosis:\nA. (FSA) Lymph node, N4R excision:\n   - Benign lymph node.\n\nB. (FSB) Lymph node, N4R #2, excision:\n   - Benign lymph node.\n\nD. (FSD) Lymph node, N7, excision:\n   - Benign lymph node.\n\nE. (FSE) Lymph node, N10L, excision:\n   - Benign lymph node.\n\nF. (FSF) Lymph node, N4L, excision:\n   - Benign lymph node.",
+        "confidence": {
+          "mean_probability": 0.9866296925670274,
+          "mean_log_probability": -0.017808868852459015,
+          "perplexity": 1.0179683923278626,
+          "min_probability": 0.26989696605986463
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 245,
+          "total_tokens": 2717
+        },
+        "composite_score": 0.8473021900791351,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.304559707641602,
+          "chars": 613,
+          "words": 102,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N4R\nB. N4R#2\nC. N10R\nD. N7\nE. N10L\nF. N4L\nG. N2R\nH. Lung;right lower wedge lobe resection\nI. Lung;right upper lobe wedge resection\nJ. Lung;right lung\nK. N4R #3\nL. N7#2\nM. N7\n\nClinical History/Operative Dx:\nRight lung cancer.\n\nIntraoperative Diagnosis:\nA. (FSA) Lymph node, N4R excision:\n   - Benign lymph node.\n\nB. (FSB) Lymph node, N4R #2, excision:\n   - Benign lymph node.\n\nD. (FSD) Lymph node, N7, excision:\n   - Benign lymph node.\n\nE. (FSE) Lymph node, N10L, excision:\n   - Benign lymph node.\n\nF. (FSF) Lymph node, N4L, excision:\n   - Benign lymph node.",
+          "confidence": {
+            "mean_probability": 0.9866296925670274,
+            "mean_log_probability": -0.017808868852459015,
+            "perplexity": 1.0179683923278626,
+            "min_probability": 0.26989696605986463
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 245,
+            "total_tokens": 2717
+          },
+          "composite_score": 0.8473021900791351,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.059831142425537,
+          "chars": 673,
+          "words": 112,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N4R\nB. N4R#2\nC. N10R\nD. N7\nE. N10L\nF. N4L\nG. N2R\nH. Lung;right lower wedge lobe resection\nI. Lung;right upper lobe wedge resection\nJ. Lung;right lung\nK. N4R #3\nL. N7#2\nM. N7\n\nClinical History/Operative Dx:\nRight lung cancer.\n\nIntraoperative Diagnosis:\nA. (FSA) Lymph node, N4R excision:\n   - Benign lymph node.\n\nB. (FSB) Lymph node, N4R #2, excision:\n   - Benign lymph node.\n\nC. (FSC) Lymph node, N4R excision:\n   - Benign lymph node.\n\nD. (FSD) Lymph node, N7, excision:\n   - Benign lymph node.\n\nE. (FSE) Lymph node, N10L, excision:\n   - Benign lymph node.\n\nF. (FSF) Lymph node, N4L, excision:\n   - Benign lymph node.",
+          "confidence": {
+            "mean_probability": 0.9862014041606423,
+            "mean_log_probability": -0.01853189513108614,
+            "perplexity": 1.0187046763706076,
+            "min_probability": 0.26580535132632344
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 268,
+            "total_tokens": 2740
+          },
+          "composite_score": 0.8101070184051647
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.025051832199097,
+          "chars": 673,
+          "words": 112,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N4R\nB. N4R#2\nC. N10R\nD. N7\nE. N10L\nF. N4L\nG. N2R\nH. Lung;right lower wedge lobe resection\nI. Lung;right upper lobe wedge resection\nJ. Lung;right lung\nK. N4R #3\nL. N7#2\nM. N7\n\nClinical History/Operative Dx:\nRight lung cancer.\n\nIntraoperative Diagnosis:\nA. (FSA) Lymph node, N4R excision:\n   - Benign lymph node.\n\nB. (FSB) Lymph node, N4R #2, excision:\n   - Benign lymph node.\n\nC. (FSC) Lymph node, N4R excision:\n   - Benign lymph node.\n\nD. (FSD) Lymph node, N7, excision:\n   - Benign lymph node.\n\nE. (FSE) Lymph node, N10L, excision:\n   - Benign lymph node.\n\nF. (FSF) Lymph node, N4L, excision:\n   - Benign lymph node.",
+          "confidence": {
+            "mean_probability": 0.9865886354659097,
+            "mean_log_probability": -0.018306205992509365,
+            "perplexity": 1.0184747917319423,
+            "min_probability": 0.25068703258152525
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 268,
+            "total_tokens": 2740
+          },
+          "composite_score": 0.8102723939268622
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

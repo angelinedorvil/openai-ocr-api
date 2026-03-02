@@ -255,4 +255,363 @@ Page 1 - 3 attempts
   Attempt 3/3 (temp=0.3) ... ok | chars=2087 | perplexity=1.11
 
 Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8293 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8293 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8284 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8192 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2443 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2333 | perplexity=1.03
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2952 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=3135 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2939 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=701 | perplexity=1.04
+  Attempt 2/3 (temp=0.2) ... ok | chars=697 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=877 | perplexity=1.10
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\3041001d-e69c-4bd8-bfbc-3490951e1c26\\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 827.0182211399078, 'total_input_tokens': 12360, 'total_output_tokens': 3938, 'output_txt': 'outputs\\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61.txt', 'output_json': 'outputs\\json\\TCGA-95-7948.1CEE5F67-BDCC-41CB-8764-5E0D8E09ED61_ocr.json'}
+
+[START] input_pdfs\high_quality\313e1d02-1efb-4f63-9922-f8962e195e18\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.PDF
+  -> TXT:  outputs\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.txt
+  -> JSON: outputs\json\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2487 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=2280 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2512 | perplexity=1.03
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8479 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1612 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1972 | perplexity=1.07
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\313e1d02-1efb-4f63-9922-f8962e195e18\\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.PDF', 'total_pages': 2, 'attempts_per_page': 3, 'total_time_seconds': 255.52666664123535, 'total_input_tokens': 4944, 'total_output_tokens': 1059, 'output_txt': 'outputs\\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE.txt', 'output_json': 'outputs\\json\\TCGA-44-7671.BECECAB6-D442-4261-AB28-F4742E3828CE_ocr.json'}
+
+[START] input_pdfs\high_quality\3aaf618f-3e71-4684-9bf2-150ed5b00c4e\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22.PDF
+  -> TXT:  outputs\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22.txt
+  -> JSON: outputs\json\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2623 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2663 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2648 | perplexity=1.03
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1420 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1421 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1421 | perplexity=1.02
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\3aaf618f-3e71-4684-9bf2-150ed5b00c4e\\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22.PDF', 'total_pages': 2, 'attempts_per_page': 3, 'total_time_seconds': 86.58177590370178, 'total_input_tokens': 4944, 'total_output_tokens': 1011, 'output_txt': 'outputs\\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22.txt', 'output_json': 'outputs\\json\\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22_ocr.json'}
+
+[START] input_pdfs\high_quality\3dfd04a7-54ec-4325-8327-3e58b4e439fe\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.PDF
+  -> TXT:  outputs\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.txt
+  -> JSON: outputs\json\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1210 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1772 | perplexity=1.10
+  Attempt 3/3 (temp=0.3) ... ok | chars=1210 | perplexity=1.03
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2000 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2176 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2000 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2073 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2072 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2121 | perplexity=1.03
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8192 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=8292 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8285 | perplexity=1.02
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\3dfd04a7-54ec-4325-8327-3e58b4e439fe\\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.PDF', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 601.2899384498596, 'total_input_tokens': 9888, 'total_output_tokens': 3306, 'output_txt': 'outputs\\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169.txt', 'output_json': 'outputs\\json\\TCGA-94-7943.45EC950B-C7D1-421E-A6A7-79ADB212C169_ocr.json'}
+
+[START] input_pdfs\high_quality\459a7eb5-7350-4880-9588-71036ad37995\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001.PDF
+  -> TXT:  outputs\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001.txt
+  -> JSON: outputs\json\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2347 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2347 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2475 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3877 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=3933 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=3724 | perplexity=1.02
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8161 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8161 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=674 | perplexity=1.06
+[DONE]
+{'pdf_path': 'input_pdfs\\high_quality\\459a7eb5-7350-4880-9588-71036ad37995\\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001.PDF', 'total_pages': 3, 'attempts_per_page': 3, 'total_time_seconds': 519.6678729057312, 'total_input_tokens': 7416, 'total_output_tokens': 3708, 'output_txt': 'outputs\\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001.txt', 'output_json': 'outputs\\json\\TCGA-73-7498.C60CA2D8-4981-406A-9B8D-8EFDE4976001_ocr.json'}
+
+[SUMMARY] high_quality: processed 15/15
+
+--------------------------------------------------------------------------------
+QUALITY: low_quality | limit=15
+--------------------------------------------------------------------------------
+
+[START] input_pdfs\low_quality\0024a989-8e18-42b5-b791-c4824002b27d\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE.PDF
+  -> TXT:  outputs\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE.txt
+  -> JSON: outputs\json\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1578 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8300 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1125 | perplexity=1.02
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=9102 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2362 | perplexity=1.38
+  Attempt 3/3 (temp=0.3) ... ok | chars=2088 | perplexity=1.18
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1885 | perplexity=1.22
+  Attempt 2/3 (temp=0.2) ... ok | chars=1818 | perplexity=1.18
+  Attempt 3/3 (temp=0.3) ... ok | chars=1713 | perplexity=1.21
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1039 | perplexity=1.15
+  Attempt 2/3 (temp=0.2) ... ok | chars=802 | perplexity=1.09
+  Attempt 3/3 (temp=0.3) ... ok | chars=1283 | perplexity=1.12
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1500 | perplexity=1.04
+  Attempt 2/3 (temp=0.2) ... ok | chars=1497 | perplexity=1.04
+  Attempt 3/3 (temp=0.3) ... ok | chars=2002 | perplexity=1.07
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\0024a989-8e18-42b5-b791-c4824002b27d\\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 448.7507507801056, 'total_input_tokens': 12360, 'total_output_tokens': 3563, 'output_txt': 'outputs\\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE.txt', 'output_json': 'outputs\\json\\TCGA-71-6725.0D31265B-D292-4550-81CB-509A2AB9A4CE_ocr.json'}
+
+[START] input_pdfs\low_quality\0118d60f-56db-4024-a68b-0d9d609fe7a5\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856.PDF
+  -> TXT:  outputs\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856.txt
+  -> JSON: outputs\json\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1298 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=8146 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8147 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=815 | perplexity=1.06
+  Attempt 2/3 (temp=0.2) ... ok | chars=726 | perplexity=1.05
+  Attempt 3/3 (temp=0.3) ... ok | chars=734 | perplexity=1.05
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=7961 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2161 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2180 | perplexity=1.04
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1906 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1909 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1952 | perplexity=1.04
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8162 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8166 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=719 | perplexity=1.05
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\0118d60f-56db-4024-a68b-0d9d609fe7a5\\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 932.798175573349, 'total_input_tokens': 12360, 'total_output_tokens': 5605, 'output_txt': 'outputs\\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856.txt', 'output_json': 'outputs\\json\\TCGA-67-4679.3528CCEC-AFFF-4212-97AA-1D4F7AF79856_ocr.json'}
+
+[START] input_pdfs\low_quality\0673b45c-dd0d-49de-a75a-f5935439d71c\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9.PDF
+  -> TXT:  outputs\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9.txt
+  -> JSON: outputs\json\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2056 | perplexity=1.06
+  Attempt 2/3 (temp=0.2) ... ok | chars=1699 | perplexity=1.04
+  Attempt 3/3 (temp=0.3) ... ok | chars=1314 | perplexity=1.03
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1801 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1801 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1836 | perplexity=1.04
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1118 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1101 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1109 | perplexity=1.03
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1567 | perplexity=1.08
+  Attempt 2/3 (temp=0.2) ... ok | chars=1627 | perplexity=1.08
+  Attempt 3/3 (temp=0.3) ... ok | chars=992 | perplexity=1.06
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=6215 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=82526 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=70932 | perplexity=132.83
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\0673b45c-dd0d-49de-a75a-f5935439d71c\\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 730.7092504501343, 'total_input_tokens': 12360, 'total_output_tokens': 3767, 'output_txt': 'outputs\\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9.txt', 'output_json': 'outputs\\json\\TCGA-39-5019.6CD83ACA-C74C-49A4-8115-324E7C359CC9_ocr.json'}
+
+[START] input_pdfs\low_quality\0836e492-84ff-479d-adf8-3c4606707605\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228.PDF
+  -> TXT:  outputs\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228.txt
+  -> JSON: outputs\json\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2563 | perplexity=1.10
+  Attempt 2/3 (temp=0.2) ... ok | chars=2308 | perplexity=1.11
+  Attempt 3/3 (temp=0.3) ... ok | chars=2211 | perplexity=1.11
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1894 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1894 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1880 | perplexity=1.02
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3046 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2984 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2986 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8192 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8192 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8192 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8192 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8192 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8293 | perplexity=1.01
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\0836e492-84ff-479d-adf8-3c4606707605\\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228.PDF', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 1208.0165383815765, 'total_input_tokens': 12360, 'total_output_tokens': 5762, 'output_txt': 'outputs\\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228.txt', 'output_json': 'outputs\\json\\TCGA-95-7944.567E989F-6896-4FAF-84BB-8EF786461228_ocr.json'}
+
+[START] input_pdfs\low_quality\09390da8-0289-4c9a-819f-174edbdab136\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.PDF
+  -> TXT:  outputs\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.txt
+  -> JSON: outputs\json\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1293 | perplexity=1.05
+  Attempt 2/3 (temp=0.2) ... ok | chars=1339 | perplexity=1.05
+  Attempt 3/3 (temp=0.3) ... ok | chars=1322 | perplexity=1.05
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\09390da8-0289-4c9a-819f-174edbdab136\\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.PDF', 'total_pages': 1, 'attempts_per_page': 3, 'total_time_seconds': 28.885684967041016, 'total_input_tokens': 2472, 'total_output_tokens': 375, 'output_txt': 'outputs\\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B.txt', 'output_json': 'outputs\\json\\TCGA-50-5049.3D60A219-3C2C-4E2A-AB29-5D61CD31478B_ocr.json'}
+
+[START] input_pdfs\low_quality\151dcd21-c932-4168-bc9b-cfb64e2bd560\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C.PDF
+  -> TXT:  outputs\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C.txt
+  -> JSON: outputs\json\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=872 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=868 | perplexity=1.04
+  Attempt 3/3 (temp=0.3) ... ok | chars=886 | perplexity=1.04
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1724 | perplexity=1.04
+  Attempt 2/3 (temp=0.2) ... ok | chars=1555 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1717 | perplexity=1.04
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2557 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2812 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=2779 | perplexity=1.03
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=832 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1166 | perplexity=1.11
+  Attempt 3/3 (temp=0.3) ... ok | chars=897 | perplexity=1.03
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\151dcd21-c932-4168-bc9b-cfb64e2bd560\\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C.PDF', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 153.59608030319214, 'total_input_tokens': 9888, 'total_output_tokens': 1608, 'output_txt': 'outputs\\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C.txt', 'output_json': 'outputs\\json\\TCGA-95-8039.2BC3D5A2-7341-44A1-A625-FBFDEF9BBA6C_ocr.json'}
+
+[START] input_pdfs\low_quality\158b24cb-3090-4ec5-b8ec-0cb1ded3cfcd\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE.PDF
+  -> TXT:  outputs\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE.txt
+  -> JSON: outputs\json\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8095 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8095 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8095 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=404 | perplexity=1.05
+  Attempt 2/3 (temp=0.2) ... ok | chars=402 | perplexity=1.05
+  Attempt 3/3 (temp=0.3) ... ok | chars=404 | perplexity=1.05
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=579 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=579 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=579 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=523 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=523 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=523 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=797 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=797 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=797 | perplexity=1.01
+
+Page 6 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1403 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=1403 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=1403 | perplexity=1.00
+
+Page 7 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=833 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=833 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=833 | perplexity=1.02
+
+Page 8 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=108 | perplexity=1.27
+  Attempt 2/3 (temp=0.2) ... ok | chars=107 | perplexity=1.25
+  Attempt 3/3 (temp=0.3) ... ok | chars=107 | perplexity=1.24
+
+Page 9 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=188 | perplexity=1.34
+  Attempt 2/3 (temp=0.2) ... ok | chars=248 | perplexity=1.36
+  Attempt 3/3 (temp=0.3) ... ok | chars=215 | perplexity=1.34
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\158b24cb-3090-4ec5-b8ec-0cb1ded3cfcd\\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE.PDF', 'total_pages': 9, 'attempts_per_page': 3, 'total_time_seconds': 642.4879236221313, 'total_input_tokens': 22248, 'total_output_tokens': 3341, 'output_txt': 'outputs\\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE.txt', 'output_json': 'outputs\\json\\TCGA-NJ-A55O.FBB218E1-EB67-4C9D-8149-EE276C1E9BCE_ocr.json'}
+
+[START] input_pdfs\low_quality\1f9e31e4-6c5b-4b77-a865-bba33d8effdb\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.PDF
+  -> TXT:  outputs\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.txt
+  -> JSON: outputs\json\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1617 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1617 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1616 | perplexity=1.02
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2536 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2537 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2536 | perplexity=1.01
+[DONE]
+{'pdf_path': 'input_pdfs\\low_quality\\1f9e31e4-6c5b-4b77-a865-bba33d8effdb\\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.PDF', 'total_pages': 2, 'attempts_per_page': 3, 'total_time_seconds': 125.50522041320801, 'total_input_tokens': 4944, 'total_output_tokens': 1130, 'output_txt': 'outputs\\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9.txt', 'output_json': 'outputs\\json\\TCGA-55-8511.B44D3138-FBF3-4B0B-A082-606070F1C6B9_ocr.json'}
+
+[START] input_pdfs\low_quality\533c0f37-9630-4595-968e-700c8d7785cf\TCGA-55-8619.DCBC1E01-C61A-4D30-B741-965C99418ECF.PDF
+  -> TXT:  outputs\TCGA-55-8619.DCBC1E01-C61A-4D30-B741-965C99418ECF.txt
+  -> JSON: outputs\json\TCGA-55-8619.DCBC1E01-C61A-4D30-B741-965C99418ECF_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1449 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1449 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1449 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1207 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=1207 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=1207 | perplexity=1.00
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1607 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1605 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1607 | perplexity=1.02
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=613 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=673 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=673 | perplexity=1.02
+
+Page 5 - 3 attempts
   Attempt 1/3 (temp=0.1) ... 

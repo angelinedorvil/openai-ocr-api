@@ -1,0 +1,185 @@
+{
+  "pdf": "input_pdfs\\high_quality\\3aaf618f-3e71-4684-9bf2-150ed5b00c4e\\TCGA-44-6776.B28E19BF-F05D-46A6-85B8-2319BE9FCB22.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 20.456942558288574,
+        "chars": 2623,
+        "words": 371,
+        "text": "Date Recd: ████\n\n                              SURGICAL PATHOLOGY REPORT\n\n\nSPECIMEN\n      A. Right hilar lymph node\n      B. Station 4R lymph node\n      C. Right upper lobe\n      D. Station 7 lymph node\n\nCLINICAL NOTES\n      PRE-OP DIAGNOSIS:  Lung cancer.\n      POST-OP DIAGOSIS:  Same.\n\n\nGROSS DESCRIPTION\n      A. Received fresh labeled \"right hilar lymph node\" is a\n         diffusely cauterized and slightly fragmented 1.3 x 0.6 x\n         0.4 cm rubbery gray-black tissue in keeping with lymph node.  The\n         specimen is bisected and entirely submitted in one block.  AS-1\n      B. Received fresh labeled \"station 4R hilar lymph node\"\n         are multiple fragmented slightly rubbery gray-black tissues\n         in keeping with lymph nodes aggregating 1.8 x 1 x 0.25 cm which are\n         submitted in toto.  AS-1\n      C. Received fresh labeled \"right upper node\" is a\n         159-gram, 15.5 x 10.7 x 3.9 cm lobectomy specimen in\n         keeping with right upper lobe, surfaced by smooth to slightly\n         wrinkled tan-pink sclerae.  A moderate amount of diffuse anthracosis\n         is present.  A 0.8 cm in length, 1.4 x 0.6 cm in diameter bronchial\n         stump is present at the hilum.  On sectioning, there is a moderately\n         well-circumscribed, 2 x 1.9 x 1.5 cm rubbery pale tan sub-pleural\n         lesion. The lesion extends to within 0.35 cm of the overlying\n         margin and is greater than 3 cm from the bronchial margin.  A\n         portion of the tumor and a portion of normal parenchyma are\n         submitted for tissue procurement, as requested, at time of receipt.\n         The remaining parenchyma is spongiform, tan-pink, with a scant\n         amount of anthracosis.  No additional discrete mass lesion or\n         abnormality is identified.  A few soft gray-black tissues in keeping\n         with lymph nodes measuring up to 1.8 cm in greatest dimension are\n         recovered from the hilar region.  Representative sections are\n         submitted in ten blocks as labeled.  RS10\n\n      BLOCK SUMMARY:  1 - Bronchial margin, 2 - vascular margin, 3-6 -\n      tumor to inked pleural margin, 7 - random from superior portion of\n      specimen, 8 - random from inferior portion of specimen, 9 - three\n      whole presumptive lymph nodes, 10 - bisected largest presumptive\n      lymph node.\n\n            D. Received fresh labeled \"station 7 lymph node\" is a\n               focally cauterized 2.2 x 0.8 x 0.4 cm slightly rubbery\n               tan-gray-black tissue in keeping with lymph de, which is sectioned\n               and entirely submitted in one block.  AS1 ████\n\n\n█████",
+        "confidence": {
+          "mean_probability": 0.9846571790426742,
+          "mean_log_probability": -0.02216907580174927,
+          "perplexity": 1.0224166357699551,
+          "min_probability": 0.07799933328166801
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 687,
+          "total_tokens": 3159
+        },
+        "composite_score": 0.9826493864261265,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 20.456942558288574,
+          "chars": 2623,
+          "words": 371,
+          "text": "Date Recd: ████\n\n                              SURGICAL PATHOLOGY REPORT\n\n\nSPECIMEN\n      A. Right hilar lymph node\n      B. Station 4R lymph node\n      C. Right upper lobe\n      D. Station 7 lymph node\n\nCLINICAL NOTES\n      PRE-OP DIAGNOSIS:  Lung cancer.\n      POST-OP DIAGOSIS:  Same.\n\n\nGROSS DESCRIPTION\n      A. Received fresh labeled \"right hilar lymph node\" is a\n         diffusely cauterized and slightly fragmented 1.3 x 0.6 x\n         0.4 cm rubbery gray-black tissue in keeping with lymph node.  The\n         specimen is bisected and entirely submitted in one block.  AS-1\n      B. Received fresh labeled \"station 4R hilar lymph node\"\n         are multiple fragmented slightly rubbery gray-black tissues\n         in keeping with lymph nodes aggregating 1.8 x 1 x 0.25 cm which are\n         submitted in toto.  AS-1\n      C. Received fresh labeled \"right upper node\" is a\n         159-gram, 15.5 x 10.7 x 3.9 cm lobectomy specimen in\n         keeping with right upper lobe, surfaced by smooth to slightly\n         wrinkled tan-pink sclerae.  A moderate amount of diffuse anthracosis\n         is present.  A 0.8 cm in length, 1.4 x 0.6 cm in diameter bronchial\n         stump is present at the hilum.  On sectioning, there is a moderately\n         well-circumscribed, 2 x 1.9 x 1.5 cm rubbery pale tan sub-pleural\n         lesion. The lesion extends to within 0.35 cm of the overlying\n         margin and is greater than 3 cm from the bronchial margin.  A\n         portion of the tumor and a portion of normal parenchyma are\n         submitted for tissue procurement, as requested, at time of receipt.\n         The remaining parenchyma is spongiform, tan-pink, with a scant\n         amount of anthracosis.  No additional discrete mass lesion or\n         abnormality is identified.  A few soft gray-black tissues in keeping\n         with lymph nodes measuring up to 1.8 cm in greatest dimension are\n         recovered from the hilar region.  Representative sections are\n         submitted in ten blocks as labeled.  RS10\n\n      BLOCK SUMMARY:  1 - Bronchial margin, 2 - vascular margin, 3-6 -\n      tumor to inked pleural margin, 7 - random from superior portion of\n      specimen, 8 - random from inferior portion of specimen, 9 - three\n      whole presumptive lymph nodes, 10 - bisected largest presumptive\n      lymph node.\n\n            D. Received fresh labeled \"station 7 lymph node\" is a\n               focally cauterized 2.2 x 0.8 x 0.4 cm slightly rubbery\n               tan-gray-black tissue in keeping with lymph de, which is sectioned\n               and entirely submitted in one block.  AS1 ████\n\n\n█████",
+          "confidence": {
+            "mean_probability": 0.9846571790426742,
+            "mean_log_probability": -0.02216907580174927,
+            "perplexity": 1.0224166357699551,
+            "min_probability": 0.07799933328166801
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 687,
+            "total_tokens": 3159
+          },
+          "composite_score": 0.9826493864261265,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 23.997393131256104,
+          "chars": 2663,
+          "words": 371,
+          "text": "Date Recd: ████\n\n                                SURGICAL PATHOLOGY REPORT\n\n\nSPECIMEN\n    A. Right hilar lymph node\n    B. Station 4R lymph node\n    C. Right upper lobe\n    D. Station 7 lymph node\n\nCLINICAL NOTES\n    PRE-OP DIAGNOSIS:  Lung cancer.\n    POST-OP DIAGOSIS:  Same.\n\n\nGROSS DESCRIPTION\n        A. Received fresh labeled \"right hilar lymph node\" is a\n            diffusely cauterized and slightly fragmented 1.3 x 0.6 x\n            0.4 cm rubbery gray-black tissue in keeping with lymph node.  The\n            specimen is bisected and entirely submitted in one block.  AS-1\n        B. Received fresh labeled \"station 4R hilar lymph node\"\n            are multiple fragmented slightly rubbery gray-black tissues\n            in keeping with lymph nodes aggregating 1.8 x 1 x 0.25 cm which are\n            submitted in toto.  AS-1\n        C. Received fresh labeled \"right upper node\" is a\n            159-gram, 15.5 x 10.7 x 3.9 cm lobectomy specimen in\n            keeping with right upper lobe, surfaced by smooth to slightly\n            wrinkled tan-pink sclerae.  A moderate amount of diffuse anthracosis\n            is present.  A 0.8 cm in length, 1.4 x 0.6 cm in diameter bronchial\n            stump is present at the hilum.  On sectioning, there is a moderately\n            well-circumscribed, 2 x 1.9 x 1.5 cm rubbery pale tan sub-pleural\n            lesion. The lesion extends to within 0.35 cm of the overlying\n            margin and is greater than 3 cm from the bronchial margin.  A\n            portion of the tumor and a portion of normal parenchyma are\n            submitted for tissue procurement, as requested, at time of receipt.\n            The remaining parenchyma is spongiform, tan-pink, with a scant\n            amount of anthracosis.  No additional discrete mass lesion or\n            abnormality is identified.  A few soft gray-black tissues in keeping\n            with lymph nodes measuring up to 1.8 cm in greatest dimension are\n            recovered from the hilar region.  Representative sections are\n            submitted in ten blocks as labeled.  RS10\n\n    BLOCK SUMMARY:  1 - Bronchial margin, 2 - vascular margin, 3-6 -\n    tumor to inked pleural margin, 7 - random from superior portion of\n    specimen, 8 - random from inferior portion of specimen, 9 - three\n    whole presumptive lymph nodes, 10 - bisected largest presumptive\n    lymph node.\n\n        D. Received fresh labeled \"station 7 lymph node\" is a\n            focally cauterized 2.2 x 0.8 x 0.4 cm slightly rubbery\n            tan-gray-black tissue in keeping with lymph de, which is sectioned\n            and entirely submitted in one block.  AS1 ████\n\n\n██████",
+          "confidence": {
+            "mean_probability": 0.9840807802131545,
+            "mean_log_probability": -0.022725088921282798,
+            "perplexity": 1.02298527090272,
+            "min_probability": 0.10921039804633013
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 687,
+            "total_tokens": 3159
+          },
+          "composite_score": 0.9331126978625394
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 19.880749702453613,
+          "chars": 2648,
+          "words": 372,
+          "text": "Date Recd: ████\n\n                                SURGICAL PATHOLOGY REPORT\n\n\nSPECIMEN\n      A. Right hilar lymph node\n      B. Station 4R lymph node\n      C. Right upper lobe\n      D. Station 7 lymph node\n\nCLINICAL NOTES\n      PRE-OP DIAGNOSIS:  Lung cancer.\n      POST-OP DIAGOSIS:  Same.\n\n\nGROSS DESCRIPTION\n      A. Received fresh labeled \"right hilar lymph node\" is a\n          diffusely cauterized and slightly fragmented 1.3 x 0.6 x\n          0.4 cm rubbery gray-black tissue in keeping with lymph node.  The\n          specimen is bisected and entirely submitted in one block.  AS-1\n      B. Received fresh labeled \"station 4R hilar lymph node\"\n          are multiple fragmented slightly rubbery gray-black tissues\n          in keeping with lymph nodes aggregating 1.8 x 1 x 0.25 cm which are\n          submitted in toto.  AS-1\n      C. Received fresh labeled \"right upper node\" is a\n          159-gram, 15.5 x 10.7 x 3.9 cm lobectomy specimen in\n          keeping with right upper lobe, surfaced by smooth to slightly\n          wrinkled tan-pink sclerae.  A moderate amount of diffuse anthracosis\n          is present.  A 0.8 cm in length, 1.4 x 0.6 cm in diameter bronchial\n          stump is present at the hilum.  On sectioning, there is a moderately\n          well-circumscribed, 2 x 1.9 x 1.5 cm rubbery pale tan sub-pleural\n          lesion. The lesion extends to within 0.35 cm of the overlying\n          margin and is greater than 3 cm from the bronchial margin.  A\n          portion of the tumor and a portion of normal parenchyma are\n          submitted for tissue procurement, as requested, at time of receipt.\n          The remaining parenchyma is spongiform, tan-pink, with a scant\n          amount of anthracosis.  No additional discrete mass lesion or\n          abnormality is identified.  A few soft gray-black tissues in keeping\n          with lymph nodes measuring up to 1.8 cm in greatest dimension are\n          recovered from the hilar region.  Representative sections are\n          submitted in ten blocks as labeled.  RS10\n\n      BLOCK SUMMARY:  1 - Bronchial margin, 2 - vascular margin, 3-6 -\n      tumor to inked pleural margin, 7 - random from superior portion of\n      specimen, 8 - random from inferior portion of specimen, 9 - three\n      whole presumptive lymph nodes, 10 - bisected largest presumptive\n      lymph node.\n\n            D. Received fresh labeled \"station 7 lymph node\" is a\n                focally cauterized 2.2 x 0.8 x 0.4 cm slightly rubbery\n                tan-gray-black tissue in keeping with lymph █ de, which is sectioned\n                and entirely submitted in one block.  AS1 █\n\n█████",
+          "confidence": {
+            "mean_probability": 0.981760739856852,
+            "mean_log_probability": -0.028522506569343065,
+            "perplexity": 1.0289331683296274,
+            "min_probability": 0.11490368767441742
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 686,
+            "total_tokens": 3158
+          },
+          "composite_score": 0.9289240343752854
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.837468385696411,
+        "chars": 1420,
+        "words": 154,
+        "text": "MICROSCOPIC DESCRIPTION\n        Histologic type:  Adenocarcinoma with a prominent bronchioalveolar\n                pattern.\n        Histologic grade:  Moderately differentiated.\n        Primary tumor (pT):  The tumor measures 2 cm in greatest dimension\n                and is limited to the lung, pT1.\n        Margins of resection:  Negative.\n        Vessel invasion:  Not identified.\n        Regional lymph nodes (pN):  pM0\n        Distant metastasis (pM):  pMx\n        Other findings:  Lymph nodes show focal changes consistent with\n                involvement by CLL; this is confirmed with immunohistochemical\n                stains for CD5,CD20 and CD23.Emphysematous changes.\n\n        3x3,5x1,20x3\n\nDIAGNOSIS\n        A.  Lymph node, right hilar, excision -\n                One lymph node negative for metastatic carcinoma (0/1).\n        B.  Lymph nodes, station 4R hilar, excision -\n                Fragments of lymph node negative for metastatic carcinoma.\n        C.  Lung, right upper lobe, excision -\n                Moderately differentiated adenocarcinoma with a prominent\n                bronchoalveolar growth pattern (see tumor characteristics in\n                the microscopic description).\n                Lymph nodes negative for metastatic carcinoma.\n        D.  Lymph nodes, station 7, excision -\n                One lymph node negative for metastatic adenocarcinoma (0/1).\n\n\n\n\n--- End Of Report ---",
+        "confidence": {
+          "mean_probability": 0.984873789841237,
+          "mean_log_probability": -0.021739520123839014,
+          "perplexity": 1.0219775452125428,
+          "min_probability": 0.19714653386899317
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 324,
+          "total_tokens": 2796
+        },
+        "composite_score": 0.9249784247780067,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.837468385696411,
+          "chars": 1420,
+          "words": 154,
+          "text": "MICROSCOPIC DESCRIPTION\n        Histologic type:  Adenocarcinoma with a prominent bronchioalveolar\n                pattern.\n        Histologic grade:  Moderately differentiated.\n        Primary tumor (pT):  The tumor measures 2 cm in greatest dimension\n                and is limited to the lung, pT1.\n        Margins of resection:  Negative.\n        Vessel invasion:  Not identified.\n        Regional lymph nodes (pN):  pM0\n        Distant metastasis (pM):  pMx\n        Other findings:  Lymph nodes show focal changes consistent with\n                involvement by CLL; this is confirmed with immunohistochemical\n                stains for CD5,CD20 and CD23.Emphysematous changes.\n\n        3x3,5x1,20x3\n\nDIAGNOSIS\n        A.  Lymph node, right hilar, excision -\n                One lymph node negative for metastatic carcinoma (0/1).\n        B.  Lymph nodes, station 4R hilar, excision -\n                Fragments of lymph node negative for metastatic carcinoma.\n        C.  Lung, right upper lobe, excision -\n                Moderately differentiated adenocarcinoma with a prominent\n                bronchoalveolar growth pattern (see tumor characteristics in\n                the microscopic description).\n                Lymph nodes negative for metastatic carcinoma.\n        D.  Lymph nodes, station 7, excision -\n                One lymph node negative for metastatic adenocarcinoma (0/1).\n\n\n\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.984873789841237,
+            "mean_log_probability": -0.021739520123839014,
+            "perplexity": 1.0219775452125428,
+            "min_probability": 0.19714653386899317
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 324,
+            "total_tokens": 2796
+          },
+          "composite_score": 0.9249784247780067,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 7.264844179153442,
+          "chars": 1421,
+          "words": 154,
+          "text": "MICROSCOPIC DESCRIPTION\n        Histologic type:  Adenocarcinoma with a prominent bronchioalveolar\n                pattern.\n        Histologic grade:  Moderately differentiated.\n        Primary tumor (pT):  The tumor measures 2 cm in greatest dimension\n                and is limited to the lung, pT1.\n        Margins of resection:  Negative.\n        Vessel invasion:  Not identified.\n        Regional lymph nodes (pN):  pM0\n        Distant metastasis (pM):  pMx\n        Other findings:  Lymph nodes show focal changes consistent with\n                involvement by CLL; this is confirmed with immunohistochemical\n                stains for CD5,CD20 and CD23.Emphysematous changes.\n\n        3x3,5x1,20x3\n\n\nDIAGNOSIS\n        A.  Lymph node, right hilar, excision -\n                One lymph node negative for metastatic carcinoma (0/1).\n        B.  Lymph nodes, station 4R hilar, excision -\n                Fragments of lymph node negative for metastatic carcinoma.\n        C.  Lung, right upper lobe, excision -\n                Moderately differentiated adenocarcinoma with a prominent\n                bronchoalveolar growth pattern (see tumor characteristics in\n                the microscopic description).\n                Lymph nodes negative for metastatic carcinoma.\n        D.  Lymph nodes, station 7, excision -\n                One lymph node negative for metastatic adenocarcinoma (0/1).\n\n\n\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9849442844260466,
+            "mean_log_probability": -0.021672582043343654,
+            "perplexity": 1.0219091382868966,
+            "min_probability": 0.17856028565858645
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 324,
+            "total_tokens": 2796
+          },
+          "composite_score": 0.8788732378597272
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.100714445114136,
+          "chars": 1421,
+          "words": 154,
+          "text": "MICROSCOPIC DESCRIPTION\n        Histologic type:  Adenocarcinoma with a prominent bronchioalveolar\n                pattern.\n        Histologic grade:  Moderately differentiated.\n        Primary tumor (pT):  The tumor measures 2 cm in greatest dimension\n                and is limited to the lung, pT1.\n        Margins of resection:  Negative.\n        Vessel invasion:  Not identified.\n        Regional lymph nodes (pN):  pM0\n        Distant metastasis (pM):  pMx\n        Other findings:  Lymph nodes show focal changes consistent with\n                involvement by CLL; this is confirmed with immunohistochemical\n                stains for CD5,CD20 and CD23.Emphysematous changes.\n\n        3x3,5x1,20x3\n\n\nDIAGNOSIS\n        A.  Lymph node, right hilar, excision -\n                One lymph node negative for metastatic carcinoma (0/1).\n        B.  Lymph nodes, station 4R hilar, excision -\n                Fragments of lymph node negative for metastatic carcinoma.\n        C.  Lung, right upper lobe, excision -\n                Moderately differentiated adenocarcinoma with a prominent\n                bronchoalveolar growth pattern (see tumor characteristics in\n                the microscopic description).\n                Lymph nodes negative for metastatic carcinoma.\n        D.  Lymph nodes, station 7, excision -\n                One lymph node negative for metastatic adenocarcinoma (0/1).\n\n\n\n\n--- End Of Report ---",
+          "confidence": {
+            "mean_probability": 0.9861601898096509,
+            "mean_log_probability": -0.018982145510835914,
+            "perplexity": 1.0191634518121544,
+            "min_probability": 0.18318842702470914
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 324,
+            "total_tokens": 2796
+          },
+          "composite_score": 0.8808373126923357
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
