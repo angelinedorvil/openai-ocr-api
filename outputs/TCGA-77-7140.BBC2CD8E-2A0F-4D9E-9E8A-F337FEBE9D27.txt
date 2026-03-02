@@ -1,0 +1,61 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\165fec2a-a95e-4494-bb13-1d4c1650e96c\TCGA-77-7140.BBC2CD8E-2A0F-4D9E-9E8A-F337FEBE9D27.PDF
+Processing Date: 2026-03-02 14:54:59
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+HISTORY
+LUL mass. Malignant on Bx.
+1: Left upper lobe with attached nodes.
+2: Pulmonary artery margin resected where involved nodes impinged.
+3: Nodes: LL, #5, lingula.
+
+MACROSCOPIC
+Five specimens received:
+
+1: The first specimen is labelled "left upper lobe" and consists of a lobe of lung measuring 155 x 95 x 58 mm in the fresh state. Below the hilum there is a firm tumour which measures 68 x 65 mm in maximal dimension and has a firm sclerotic cut surface. Towards the superior aspect of this there is a firm node which is adherent to the medial aspect of the tumour. Further enlarged nodes are present surrounding the inferior aspect of the bronchial resection margin and pulmonary artery. The tumour abuts the pleural surface on this medial aspect but appears clear of the lateral aspect by approximately 10 mm. On sectioning there are areas of necrosis and the tumour has a sclerotic cut face. Elsewhere there is apical scarring. Distal to the tumour there is evidence of obstructive pneumonitis and in the basal aspect of the lung there is a firm grey nodule. The lymph node superior to the tumour measures 15 mm in diameter while the lymph node inferior to the tumour measures 23 mm in diameter. [Bronchial resection margin, pulmonary artery and peribronchial lymph node, 1A; enlarged inferior peribronchial lymph node, 1B; enlarged superior peribronchial lymph node, 1C; tumour, 1D-1F; lateral pleura and obstructive pneumonia, 1G; random sections of lung, 1H; grey nodule in lower zone, 11.]
+
+2: The second specimen is labelled "pulmonary artery margin" and consists of a segment of vessel measuring 7 x 6 x 4 mm. [BIT]
+
+3: The third specimen is labelled "L lower lobe node" and consists of fragments of blackened lymph node measuring 16 x 13 x 4 mm in aggregate. [Largest piece bisected and all wrapped and blocked in toto.]
+
+4: The fourth specimen is labelled "No. 5" and consists of several pieces of lymph node invested in fat and measuring 20 x 15 x 14 mm. [Bisected and blocked in toto, 4A]
+
+5: The fifth specimen is labelled "lingula L lung" and consists of two pieces of blackened lymph node, each measuring 4 mm and 17 mm in maximal dimension. [Blocked in toto, 5A]
+
+MICROSCOPIC
+1: Sections show a moderately differentiated squamous cell carcinoma. Patchy necrosis is present. Vascular invasion is present but the pulmonary artery is clear of malignancy. No pleural, lymphatic or perineural invasion is identified. The bronchial resection margin is clear of malignancy and shows no evidence of squamous metaplasia or dysplasia. Obstructive pneumonitis is confirmed adjacent to the tumour. Away from the tumour there are at least three further distinct lesions. The first is the nodule noted in the lower zone which comprises granulomatous inflammation including numerous giant cells of Langhans type with surrounding lymphocytic infiltration and fibrosis. A few tiny foci of necrosis are present within this nodule. There are two further foci of granulomatous inflammation with extensive central necrotic debris surrounded by foamy macrophages and fibrosis. These appear to be centred on bronchi. No organisms are identified in any of these lesions with Grocott or ZN stains. However the appearances are highly suspicious for infection, and I note that atypical Mycobacteria have been found previously in sputum. The peribronchial lymph nodes are confirmed to contain metastatic squamous cell carcinoma, and they also have foci of fibrosis and dystrophic calcification, but they show no evidence of granulomatous inflammation.
+
+2: Sections of the pulmonary artery show no evidence of malignancy.
+
+3: Sections of the lymph node show multiple silicotic nodules together with extensive sheets of pigmented macrophages but there is no evidence of metastatic squamous cell carcinoma.
+
+4: Sections show lymph nodes with a follicular hyperplasia, sinus histiocytosis and aggregates of pigmented macrophages. There is no evidence of malignancy.
+
+================================================================================
+PAGE 2
+================================================================================
+5: Sections show fragments of lymph node and surrounding fat. There is no evidence of metastatic squamous cell carcinoma.
+
+SUMMARY
+Left upper lobectomy and lymph node sampling:
+1: Moderately differentiated squamous cell carcinoma, 68 mm in diameter.
+Vascular invasion present.
+No pleural, lymphatic or perineural infiltration seen.
+Bronchial and pulmonary artery resection margins clear of malignancy.
+Metastatic squamous cell carcinoma in peribronchial lymph nodes.
+Pathological stage T2 N1.
+2: Focally necrotising granulomatous inflammation consistent with atypical Mycobacterial infection.
+
+Dr ████████
+█████████████████████
+Reported █████████████████████
+
+T-28000 M-80703 M-44700 P1-03000
+
+cc: ███████████████

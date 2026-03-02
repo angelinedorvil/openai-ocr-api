@@ -1,0 +1,74 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\15dbc2da-1de2-4805-994d-da979f64e6e8\TCGA-50-6590.13192955-AE90-4708-8F85-3B4E35781345.PDF
+Processing Date: 2026-03-02 14:52:32
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+PATIENT HISTORY:  
+PRE-OP DIAGNOSIS: Nasopharyngeal mass/right lung mass.  
+POST-OP DIAGNOSIS: Not given.  
+PROCEDURE: Not given.  
+FINAL DIAGNOSIS:  
+Summary Statement  
+The right upper lobe demonstrates a 1.7 cm invasive poorly differentiated adenocarcinoma associated with visceral pleural invasion. No angiolymphatic invasion is identified. All sampled lymph nodes are benign. Surgical resection margins are free of tumor. The pathologic stage is T2N0Mx.  
+
+PART 1: NASOPHARYNX, LEFT, BIOPSY -  
+RESPIRATORY MUCOSA WITH MILD CHRONIC INFLAMMATION.  
+
+PARTS 2  
+AND 6: LUNG, RIGHT UPPER LOBE, WEDGE RESECTION AND COMPLETION LOBECTOMY-  
+A. INVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA (1.7 CM. IN DIAMETER) ARISING IN A SCAR AND ASSOCIATED WITH VISCERAL PLEURAL INVASION. NO EVIDENCE OF ANGIOLYMPHATIC INVASION. MILD LYMPHOCYTIC HOST RESPONSE. NINE (9) BENIGN N1 LYMPH NODES WITH ANTHRACOTIC PIGMENT. PATHOLOGIC STAGE: T2N0MX.  
+B. SURGICAL MARGIN NEGATIVE FOR TUMOR.  
+C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE AND RESPIRATORY BRONCHIOLITIS.  
+
+PART 3: LYMPH NODE, POSTERIOR HILAR, BIOPSY -  
+ONE (1) BENIGN ANTHRACOTIC LYMPH NODE.  
+
+PART 4: LYMPH NODE, INTERLOBAR, BIOPSY -  
+TWO (2) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.  
+
+PART 5: LYMPH NODE, RIGHT UPPER LOBE BRONCHUS, BIOPSY -  
+TWO (2) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.  
+
+PART 7: LYMPH NODE, SUBCARINAL, BIOPSY -  
+TWO (2) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.  
+
+PART 8: LYMPH NODE, RIGHT TRACHEOBRONCHIAL ANGLE, BIOPSY -  
+THREE (3) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.  
+
+PART 9: LYMPH NODE, RIGHT PARATRACHEAL, BIOPSY -  
+FOUR (4) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.  
+MICROSCOPIC:  
+SYNOPTIC DATA - PRIMARY LUNG TUMORS  
+TUMOR LOCATION: Right Upper Lobe  
+PROCEDURE: Lobectomy  
+TUMOR SIZE: Maximum dimension: 1.7 cm  
+Minor dimension: 1.3 cm  
+GROSS SATELLITES: Number of gross satellite lesions: 0  
+TUMOR TYPE: Invasive adenocarcinoma  
+HISTOLOGIC GRADE: G3, Poorly differentiated  
+MICROSCOPIC SATELLITES: Number of microscopic satellite lesions: 0  
+EXTRAPULMONARY PARENCHYMAL  
+EXTENSION/INVASION OF TUMOR: Visceral pleura  
+ANGIOLYMPHATIC INVASION: No  
+TUMOR NECROSIS: > 50%  
+SURGICAL MARGIN INVOLVEMENT: No  
+SURGICAL MARGIN SITE: Distance of invasive tumor to closest margin: 6 mm  
+INFLAMMATORY(DESMOPLASTIC) REACTION: Mild  
+N1 LYMPH NODES: Number of N1 lymph nodes positive:: 0  
+Number of N1 lymph nodes examined: 14  
+N2 LYMPH NODES: Number of N2 lymph nodes positive: 0  
+Number of N2 lymph nodes examined: 9  
+UNDERLYING DISEASE(S): Emphysema, Parenchymal scar, Smokers bronchiolitis  
+T STAGE, PATHOLOGIC: pT2  
+N STAGE, PATHOLOGIC: pN0  
+M STAGE, PATHOLOGIC: pMX  
+ANCILLARY STUDIES: Histochemical stains, Immunohistochemical stains, FISH studies, Molecular studies  
+
+Microscopic examination substantiates the diagnosis indicated above. Mucicarmine, PAS and PAS with diastase are positive. Elastic stain highlights tumor invasion into visceral pleura. Trichrome and Grocott stains are negative.  
+The tumor cells are positive for cytokeratin 7, and negative for cytokeratin 20, TTF, mammoglobin and GCDFP.

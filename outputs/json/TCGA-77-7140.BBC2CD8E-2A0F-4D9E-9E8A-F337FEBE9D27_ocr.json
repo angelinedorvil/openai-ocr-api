@@ -1,0 +1,191 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\165fec2a-a95e-4494-bb13-1d4c1650e96c\\TCGA-77-7140.BBC2CD8E-2A0F-4D9E-9E8A-F337FEBE9D27.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 40.21586751937866,
+        "chars": 3957,
+        "words": 636,
+        "text": "HISTORY\nLUL mass. Malignant on Bx.\n1: Left upper lobe with attached nodes.\n2: Pulmonary artery margin resected where involved nodes impinged.\n3: Nodes: LL, #5, lingula.\n\nMACROSCOPIC\nFive specimens received:\n\n1: The first specimen is labelled \"left upper lobe\" and consists of a lobe of lung measuring 155 x 95 x 58 mm in the fresh state. Below the hilum there is a firm tumour which measures 68 x 65 mm in maximal dimension and has a firm sclerotic cut surface. Towards the superior aspect of this there is a firm node which is adherent to the medial aspect of the tumour. Further enlarged nodes are present surrounding the inferior aspect of the bronchial resection margin and pulmonary artery. The tumour abuts the pleural surface on this medial aspect but appears clear of the lateral aspect by approximately 10 mm. On sectioning there are areas of necrosis and the tumour has a sclerotic cut face. Elsewhere there is apical scarring. Distal to the tumour there is evidence of obstructive pneumonitis and in the basal aspect of the lung there is a firm grey nodule. The lymph node superior to the tumour measures 15 mm in diameter while the lymph node inferior to the tumour measures 23 mm in diameter. [Bronchial resection margin, pulmonary artery and peribronchial lymph node, 1A; enlarged inferior peribronchial lymph node, 1B; enlarged superior peribronchial lymph node, 1C; tumour, 1D-1F; lateral pleura and obstructive pneumonia, 1G; random sections of lung, 1H; grey nodule in lower zone, 11.]\n\n2: The second specimen is labelled \"pulmonary artery margin\" and consists of a segment of vessel measuring 7 x 6 x 4 mm. [BIT]\n\n3: The third specimen is labelled \"L lower lobe node\" and consists of fragments of blackened lymph node measuring 16 x 13 x 4 mm in aggregate. [Largest piece bisected and all wrapped and blocked in toto.]\n\n4: The fourth specimen is labelled \"No. 5\" and consists of several pieces of lymph node invested in fat and measuring 20 x 15 x 14 mm. [Bisected and blocked in toto, 4A]\n\n5: The fifth specimen is labelled \"lingula L lung\" and consists of two pieces of blackened lymph node, each measuring 4 mm and 17 mm in maximal dimension. [Blocked in toto, 5A]\n\nMICROSCOPIC\n1: Sections show a moderately differentiated squamous cell carcinoma. Patchy necrosis is present. Vascular invasion is present but the pulmonary artery is clear of malignancy. No pleural, lymphatic or perineural invasion is identified. The bronchial resection margin is clear of malignancy and shows no evidence of squamous metaplasia or dysplasia. Obstructive pneumonitis is confirmed adjacent to the tumour. Away from the tumour there are at least three further distinct lesions. The first is the nodule noted in the lower zone which comprises granulomatous inflammation including numerous giant cells of Langhans type with surrounding lymphocytic infiltration and fibrosis. A few tiny foci of necrosis are present within this nodule. There are two further foci of granulomatous inflammation with extensive central necrotic debris surrounded by foamy macrophages and fibrosis. These appear to be centred on bronchi. No organisms are identified in any of these lesions with Grocott or ZN stains. However the appearances are highly suspicious for infection, and I note that atypical Mycobacteria have been found previously in sputum. The peribronchial lymph nodes are confirmed to contain metastatic squamous cell carcinoma, and they also have foci of fibrosis and dystrophic calcification, but they show no evidence of granulomatous inflammation.\n\n2: Sections of the pulmonary artery show no evidence of malignancy.\n\n3: Sections of the lymph node show multiple silicotic nodules together with extensive sheets of pigmented macrophages but there is no evidence of metastatic squamous cell carcinoma.\n\n4: Sections show lymph nodes with a follicular hyperplasia, sinus histiocytosis and aggregates of pigmented macrophages. There is no evidence of malignancy.",
+        "confidence": {
+          "mean_probability": 0.9970413919924686,
+          "mean_log_probability": -0.003614402854006586,
+          "perplexity": 1.0036209426848226,
+          "min_probability": 0.49286203104446263
+        },
+        "usage": {
+          "input_tokens": 2433,
+          "output_tokens": 912,
+          "total_tokens": 3345
+        },
+        "composite_score": 0.9472629466444151,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 36.6% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 36.6% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 187.56800031661987,
+          "chars": 8157,
+          "words": 378,
+          "text": "HISTORY  \nLUL mass. Malignant on Bx.  \n1: Left upper lobe with attached nodes.  \n2: Pulmonary artery margin resected where involved nodes impinged.  \n3: Nodes: LL, #5, lingula.  \n\nMACROSCOPIC  \nFive specimens received:  \n\n1: The first specimen is labelled \"left upper lobe\" and consists of a lobe of lung measuring 155 x 95 x 58 mm in the fresh state. Below the hilum there is a firm tumour which measures 68 x 65 mm in maximal dimension and has a firm sclerotic cut surface. Towards the superior aspect of this there is a firm node which is adherent to the medial aspect of the tumour. Further enlarged nodes are present surrounding the inferior aspect of the bronchial resection margin and pulmonary artery. The tumour abuts the pleural surface on this medial aspect but appears clear of the lateral aspect by approximately 10 mm. On sectioning there are areas of necrosis and the tumour has a sclerotic cut face. Elsewhere there is apical scarring. Distal to the tumour there is evidence of obstructive pneumonitis and in the basal aspect of the lung there is a firm grey nodule. The lymph node superior to the tumour measures 15 mm in diameter while the lymph node inferior to the tumour measures 23 mm in diameter.  \n[Bronchial resection margin, pulmonary artery and peribronchial lymph node, 1A; enlarged inferior peribronchial lymph node, 1B; enlarged superior peribronchial lymph node, 1C; tumour, 1D-1F; lateral pleura and obstructive pneumonia, 1G; random sections of lung, 1H; grey nodule in lower zone, 1I.]  \n\n2: The second specimen is labelled \"pulmonary artery margin\" and consists of a segment of vessel measuring 7 x 6 x 4 mm. [BIT]  \n\n3: The third specimen is labelled \"L lower lobe node\" and consists of fragments of blackened lymph node measuring 16 x 13 x 4 mm in aggregate. [Largest piece bisected and all wrapped and blocked in toto.]  \n\n4: The fourth specimen is labelled \"No. 5\" and consists of several pieces of lymph node invested in fat and measuring 20 x 15 x 14 mm. [Bisected and blocked in toto, 4A]  \n\n5: The fifth specimen is labelled \"lingula L lung\" and consists of two pieces of blackened lymph node, each measuring 4 mm and 17 mm in maximal dimension. [Blocked in toto, 5A]  \n████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.991810201367501,
+            "mean_log_probability": -0.0091617587890625,
+            "perplexity": 1.0092038561649037,
+            "min_probability": 0.45372136628514365
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 2048,
+            "total_tokens": 4481
+          },
+          "composite_score": 0.5956422801593008
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 40.21586751937866,
+          "chars": 3957,
+          "words": 636,
+          "text": "HISTORY\nLUL mass. Malignant on Bx.\n1: Left upper lobe with attached nodes.\n2: Pulmonary artery margin resected where involved nodes impinged.\n3: Nodes: LL, #5, lingula.\n\nMACROSCOPIC\nFive specimens received:\n\n1: The first specimen is labelled \"left upper lobe\" and consists of a lobe of lung measuring 155 x 95 x 58 mm in the fresh state. Below the hilum there is a firm tumour which measures 68 x 65 mm in maximal dimension and has a firm sclerotic cut surface. Towards the superior aspect of this there is a firm node which is adherent to the medial aspect of the tumour. Further enlarged nodes are present surrounding the inferior aspect of the bronchial resection margin and pulmonary artery. The tumour abuts the pleural surface on this medial aspect but appears clear of the lateral aspect by approximately 10 mm. On sectioning there are areas of necrosis and the tumour has a sclerotic cut face. Elsewhere there is apical scarring. Distal to the tumour there is evidence of obstructive pneumonitis and in the basal aspect of the lung there is a firm grey nodule. The lymph node superior to the tumour measures 15 mm in diameter while the lymph node inferior to the tumour measures 23 mm in diameter. [Bronchial resection margin, pulmonary artery and peribronchial lymph node, 1A; enlarged inferior peribronchial lymph node, 1B; enlarged superior peribronchial lymph node, 1C; tumour, 1D-1F; lateral pleura and obstructive pneumonia, 1G; random sections of lung, 1H; grey nodule in lower zone, 11.]\n\n2: The second specimen is labelled \"pulmonary artery margin\" and consists of a segment of vessel measuring 7 x 6 x 4 mm. [BIT]\n\n3: The third specimen is labelled \"L lower lobe node\" and consists of fragments of blackened lymph node measuring 16 x 13 x 4 mm in aggregate. [Largest piece bisected and all wrapped and blocked in toto.]\n\n4: The fourth specimen is labelled \"No. 5\" and consists of several pieces of lymph node invested in fat and measuring 20 x 15 x 14 mm. [Bisected and blocked in toto, 4A]\n\n5: The fifth specimen is labelled \"lingula L lung\" and consists of two pieces of blackened lymph node, each measuring 4 mm and 17 mm in maximal dimension. [Blocked in toto, 5A]\n\nMICROSCOPIC\n1: Sections show a moderately differentiated squamous cell carcinoma. Patchy necrosis is present. Vascular invasion is present but the pulmonary artery is clear of malignancy. No pleural, lymphatic or perineural invasion is identified. The bronchial resection margin is clear of malignancy and shows no evidence of squamous metaplasia or dysplasia. Obstructive pneumonitis is confirmed adjacent to the tumour. Away from the tumour there are at least three further distinct lesions. The first is the nodule noted in the lower zone which comprises granulomatous inflammation including numerous giant cells of Langhans type with surrounding lymphocytic infiltration and fibrosis. A few tiny foci of necrosis are present within this nodule. There are two further foci of granulomatous inflammation with extensive central necrotic debris surrounded by foamy macrophages and fibrosis. These appear to be centred on bronchi. No organisms are identified in any of these lesions with Grocott or ZN stains. However the appearances are highly suspicious for infection, and I note that atypical Mycobacteria have been found previously in sputum. The peribronchial lymph nodes are confirmed to contain metastatic squamous cell carcinoma, and they also have foci of fibrosis and dystrophic calcification, but they show no evidence of granulomatous inflammation.\n\n2: Sections of the pulmonary artery show no evidence of malignancy.\n\n3: Sections of the lymph node show multiple silicotic nodules together with extensive sheets of pigmented macrophages but there is no evidence of metastatic squamous cell carcinoma.\n\n4: Sections show lymph nodes with a follicular hyperplasia, sinus histiocytosis and aggregates of pigmented macrophages. There is no evidence of malignancy.",
+          "confidence": {
+            "mean_probability": 0.9970413919924686,
+            "mean_log_probability": -0.003614402854006586,
+            "perplexity": 1.0036209426848226,
+            "min_probability": 0.49286203104446263
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 912,
+            "total_tokens": 3345
+          },
+          "composite_score": 0.9472629466444151,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 36.6% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 36.6% - results inconsistent"
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 38.59619975090027,
+          "chars": 4007,
+          "words": 637,
+          "text": "HISTORY  \nLUL mass. Malignant on Bx.  \n1: Left upper lobe with attached nodes.  \n2: Pulmonary artery margin resected where involved nodes impinged.  \n3: Nodes: LL, #5, lingula.  \n\nMACROSCOPIC  \nFive specimens received:  \n\n1: The first specimen is labelled \"left upper lobe\" and consists of a lobe of lung measuring 155 x 95 x 58 mm in the fresh state. Below the hilum there is a firm tumour which measures 68 x 65 mm in maximal dimension and has a firm sclerotic cut surface. Towards the superior aspect of this there is a firm node which is adherent to the medial aspect of the tumour. Further enlarged nodes are present surrounding the inferior aspect of the bronchial resection margin and pulmonary artery. The tumour abuts the pleural surface on this medial aspect but appears clear of the lateral aspect by approximately 10 mm. On sectioning there are areas of necrosis and the tumour has a sclerotic cut face. Elsewhere there is apical scarring. Distal to the tumour there is evidence of obstructive pneumonitis and in the basal aspect of the lung there is a firm grey nodule. The lymph node superior to the tumour measures 15 mm in diameter while the lymph node inferior to the tumour measures 23 mm in diameter. [Bronchial resection margin, pulmonary artery and peribronchial lymph node, 1A; enlarged inferior peribronchial lymph node, 1B; enlarged superior peribronchial lymph node, 1C; tumour, 1D-1F; lateral pleura and obstructive pneumonia, 1G; random sections of lung, 1H; grey nodule in lower zone, 11.]  \n\n2: The second specimen is labelled \"pulmonary artery margin\" and consists of a segment of vessel measuring 7 x 6 x 4 mm. [BIT]  \n\n3: The third specimen is labelled \"L lower lobe node\" and consists of fragments of blackened lymph node measuring 16 x 13 x 4 mm in aggregate. [Largest piece bisected and all wrapped and blocked in toto.]  \n\n4: The fourth specimen is labelled \"No. 5\" and consists of several pieces of lymph node invested in fat and measuring 20 x 15 x 14 mm. [Bisected and blocked in toto, 4A]  \n\n5: The fifth specimen is labelled \"lingula L lung\" and consists of two pieces of blackened lymph node, each measuring 4 mm and 17 mm in maximal dimension. [Blocked in toto, 5A]  \n███████████████  \n\nMICROSCOPIC  \n1: Sections show a moderately differentiated squamous cell carcinoma. Patchy necrosis is present. Vascular invasion is present but the pulmonary artery is clear of malignancy. No pleural, lymphatic or perineural invasion is identified. The bronchial resection margin is clear of malignancy and shows no evidence of squamous metaplasia or dysplasia. Obstructive pneumonitis is confirmed adjacent to the tumour. Away from the tumour there are at least three further distinct lesions. The first is the nodule noted in the lower zone which comprises granulomatous inflammation including numerous giant cells of Langhans type with surrounding lymphocytic infiltration and fibrosis. A few tiny foci of necrosis are present within this nodule. There are two further foci of granulomatous inflammation with extensive central necrotic debris surrounded by foamy macrophages and fibrosis. These appear to be centred on bronchi. No organisms are identified in any of these lesions with Grocott or ZN stains. However the appearances are highly suspicious for infection, and I note that atypical Mycobacteria have been found previously in sputum. The peribronchial lymph nodes are confirmed to contain metastatic squamous cell carcinoma, and they also have foci of fibrosis and dystrophic calcification, but they show no evidence of granulomatous inflammation.  \n\n2: Sections of the pulmonary artery show no evidence of malignancy.  \n\n3: Sections of the lymph node show multiple silicotic nodules together with extensive sheets of pigmented macrophages but there is no evidence of metastatic squamous cell carcinoma.  \n\n4: Sections show lymph nodes with a follicular hyperplasia, sinus histiocytosis and aggregates of pigmented macrophages. There is no evidence of malignancy.",
+          "confidence": {
+            "mean_probability": 0.9957283902775447,
+            "mean_log_probability": -0.005594033333333333,
+            "perplexity": 1.0056097091545246,
+            "min_probability": 0.3508887701139917
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 931,
+            "total_tokens": 3364
+          },
+          "composite_score": 0.9457721852035652
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.498739719390869,
+        "chars": 713,
+        "words": 89,
+        "text": "5: Sections show fragments of lymph node and surrounding fat. There is no evidence of metastatic squamous cell carcinoma.\n\nSUMMARY\nLeft upper lobectomy and lymph node sampling:\n1: Moderately differentiated squamous cell carcinoma, 68 mm in diameter.\nVascular invasion present.\nNo pleural, lymphatic or perineural infiltration seen.\nBronchial and pulmonary artery resection margins clear of malignancy.\nMetastatic squamous cell carcinoma in peribronchial lymph nodes.\nPathological stage T2 N1.\n2: Focally necrotising granulomatous inflammation consistent with atypical Mycobacterial infection.\n\nDr ████████\n█████████████████████\nReported █████████████████████\n\nT-28000 M-80703 M-44700 P1-03000\n\ncc: ███████████████",
+        "confidence": {
+          "mean_probability": 0.9662226075665299,
+          "mean_log_probability": -0.04663381609195402,
+          "perplexity": 1.0477382739293684,
+          "min_probability": 0.29190321124519525
+        },
+        "usage": {
+          "input_tokens": 2433,
+          "output_tokens": 175,
+          "total_tokens": 2608
+        },
+        "composite_score": 0.8356552001665064,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.498739719390869,
+          "chars": 713,
+          "words": 89,
+          "text": "5: Sections show fragments of lymph node and surrounding fat. There is no evidence of metastatic squamous cell carcinoma.\n\nSUMMARY\nLeft upper lobectomy and lymph node sampling:\n1: Moderately differentiated squamous cell carcinoma, 68 mm in diameter.\nVascular invasion present.\nNo pleural, lymphatic or perineural infiltration seen.\nBronchial and pulmonary artery resection margins clear of malignancy.\nMetastatic squamous cell carcinoma in peribronchial lymph nodes.\nPathological stage T2 N1.\n2: Focally necrotising granulomatous inflammation consistent with atypical Mycobacterial infection.\n\nDr ████████\n█████████████████████\nReported █████████████████████\n\nT-28000 M-80703 M-44700 P1-03000\n\ncc: ███████████████",
+          "confidence": {
+            "mean_probability": 0.9662226075665299,
+            "mean_log_probability": -0.04663381609195402,
+            "perplexity": 1.0477382739293684,
+            "min_probability": 0.29190321124519525
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 175,
+            "total_tokens": 2608
+          },
+          "composite_score": 0.8356552001665064,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.534012317657471,
+          "chars": 728,
+          "words": 89,
+          "text": "5: Sections show fragments of lymph node and surrounding fat. There is no evidence of metastatic squamous cell carcinoma.\n\nSUMMARY\nLeft upper lobectomy and lymph node sampling:\n1: Moderately differentiated squamous cell carcinoma, 68 mm in diameter.\nVascular invasion present.\nNo pleural, lymphatic or perineural infiltration seen.\nBronchial and pulmonary artery resection margins clear of malignancy.\nMetastatic squamous cell carcinoma in peribronchial lymph nodes.\nPathological stage T2 N1.\n2: Focally necrotising granulomatous inflammation consistent with atypical Mycobacterial infection.\n\nDr ████████\n█████████████████████████████\nReported █████████████████████████████\nT-28000 M-80703 M-44700 P1-03000\n\ncc: ███████████████",
+          "confidence": {
+            "mean_probability": 0.9537431075785838,
+            "mean_log_probability": -0.06807107865168541,
+            "perplexity": 1.0704413913056121,
+            "min_probability": 0.25835129801797535
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 179,
+            "total_tokens": 2612
+          },
+          "composite_score": 0.7807231301986108
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.1144380569458,
+          "chars": 706,
+          "words": 89,
+          "text": "5: Sections show fragments of lymph node and surrounding fat. There is no evidence of metastatic squamous cell carcinoma.\n\nSUMMARY\nLeft upper lobectomy and lymph node sampling:\n1: Moderately differentiated squamous cell carcinoma, 68 mm in diameter.\nVascular invasion present.\nNo pleural, lymphatic or perineural infiltration seen.\nBronchial and pulmonary artery resection margins clear of malignancy.\nMetastatic squamous cell carcinoma in peribronchial lymph nodes.\nPathological stage T2 N1.\n2: Focally necrotising granulomatous inflammation consistent with atypical Mycobacterial infection.\n\nDr ██████\n██████████████████\nReported ██████████████████\n\nT-28000 M-80703 M-44700 P1-03000\n\ncc: ████████████████",
+          "confidence": {
+            "mean_probability": 0.9659093230743744,
+            "mean_log_probability": -0.04956218497109826,
+            "perplexity": 1.050810934830751,
+            "min_probability": 0.22211278179673827
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 174,
+            "total_tokens": 2607
+          },
+          "composite_score": 0.7911814541687953
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

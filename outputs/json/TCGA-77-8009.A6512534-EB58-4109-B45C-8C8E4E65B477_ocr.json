@@ -1,0 +1,185 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\10e73678-a29d-4f67-9b72-d4f4dc2c0de6\\TCGA-77-8009.A6512534-EB58-4109-B45C-8C8E4E65B477.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 46.69143533706665,
+        "chars": 4143,
+        "words": 655,
+        "text": "HISTORY\nFrozen section. Right lower and middle lobectomy. (L) nodes hilar. Lung Ca.\n\nMACROSCOPIC\nThree specimens received:\n\n1: The specimen is received fresh for frozen section and is labelled ‘arterial margin’ and consists of a piece of muscular artery wall measuring 15 x 4 x 1 mm. No abnormalities are apparent. [BIT for frozen section, 1A].\n\nFROZEN SECTION DIAGNOSIS ████\nNo evidence of malignancy.\n\nResult phoned to ████ on the ████\n\n2: The specimen is labelled ‘right lung lower and middle’ and consists of the right middle and lower lobes as stated. The lower lobe measures 155 x 100 x 40 mm and the middle lobe 135 x 90 x 30 mm. There is a stapled resection margin along the middle lobe, 150 mm in length. A rounded endobronchial tumour plug extends to the bronchial resection margin, however there is no attachment to the bronchial wall in this region. The pleural surface appears indurated and tethered on the anterior apical part of the lower lobe over an area approximately 25 x 30 mm. Sectioning reveals a tumour within the apical segment of the lower lobe measuring 50 x 45 x 45mm with endobronchial extension up to a distance of 40mm. The entire lesion measuring approximately 75mm in maximal dimension. The endobronchial plug of tumour extends to involve the proximal portion of the middle lobe bronchus and is focally tethered to the wall at this point. The alveolated parenchyma of the middle lobe appears clear of tumour and no tumour is present at the stapled resection margin. The endobronchial plug of tumour also extends up the bronchus to the bronchial resection margin. However, as mentioned previously the tumour is not attached to the bronchial wall in this region. A peribronchial lymph node appears to be involved by tumour, possibly by direct extension. The bronchial and peribronchial resection margins appear macroscopically clear of the tumour. Localised bronchiectasis is present distal to the endobronchial tumour plug. [2A, 5 hilar lymph nodes; 2B, bronchial resection margin en face; 2C-D, LS to inked peribronchial resection margin; 2E, tumour plug; 2F, RS tumour plus at branch of bronchus intermedius; 2G, RS of attachment of tumour plug; 2H, RS tumour extending into bronchus; 2I, RS tumour and attachment of tumour plug; 2J, branching of bronchus intermedius with peribronchial tumour and involved peribronchial lymph nodes; 2K, RS tumour and pleural surface; 2L, RS lower lobe uninvolved; 2M, RS middle lobe uninvolved].\n\n3: The specimen is labelled ‘No. 7 node’ and consists of two pieces of fibrofatty tissue, 35 x 23 x 13 mm and 25 x 24 x 6 mm. Within both pieces of tissue there appears to be a lymph node, 24 mm and 34 mm in maximum extent. [3A-B, first lymph node bisected; 3C-D, second lymph node bisected].\n\n████\n\nMICROSCOPIC\n1: Paraffin sections confirm the frozen section diagnosis of an elastic walled artery with no evidence of tumour.\n\n2: Sections reveal a poorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe with extensive endobronchial extension. The tumour does not invade the visceral pleura. The bronchial resection margin is clear of tumour. Tumour extends into peribronchial connective tissue adjacent to the resection margin but is 0.3mm clear of the peribronchial resection margin. Within peribronchial connective tissue in this region perineural permeation by tumour is identified. The involved nerve measures 350um in diameter and in the section examined is 1.3mm clear of the peribronchial resection margin. Lymphatic invasion is identified. Some small blood vessels show evidence of recanalisation, however no unequivocal vascular invasion is seen. A peribronchial lymph node is involved by tumour, possibly by direct extension. Peribronchial lymph nodes also show evidence of sinus histiocytosis, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. Within adjacent lung parenchyma there is bronchiectasis with mucoid plugging and focal endogenous lipoid pneumonia consistent with obstructive pneumonitis. The section of right middle lobe alveolated lung parenchyma shows",
+        "confidence": {
+          "mean_probability": 0.9963105577031436,
+          "mean_log_probability": -0.004604172043010752,
+          "perplexity": 1.0046147875286997,
+          "min_probability": 0.46878032990189833
+        },
+        "usage": {
+          "input_tokens": 2433,
+          "output_tokens": 1024,
+          "total_tokens": 3457
+        },
+        "composite_score": 0.9963335433627376,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 46.69143533706665,
+          "chars": 4143,
+          "words": 655,
+          "text": "HISTORY\nFrozen section. Right lower and middle lobectomy. (L) nodes hilar. Lung Ca.\n\nMACROSCOPIC\nThree specimens received:\n\n1: The specimen is received fresh for frozen section and is labelled ‘arterial margin’ and consists of a piece of muscular artery wall measuring 15 x 4 x 1 mm. No abnormalities are apparent. [BIT for frozen section, 1A].\n\nFROZEN SECTION DIAGNOSIS ████\nNo evidence of malignancy.\n\nResult phoned to ████ on the ████\n\n2: The specimen is labelled ‘right lung lower and middle’ and consists of the right middle and lower lobes as stated. The lower lobe measures 155 x 100 x 40 mm and the middle lobe 135 x 90 x 30 mm. There is a stapled resection margin along the middle lobe, 150 mm in length. A rounded endobronchial tumour plug extends to the bronchial resection margin, however there is no attachment to the bronchial wall in this region. The pleural surface appears indurated and tethered on the anterior apical part of the lower lobe over an area approximately 25 x 30 mm. Sectioning reveals a tumour within the apical segment of the lower lobe measuring 50 x 45 x 45mm with endobronchial extension up to a distance of 40mm. The entire lesion measuring approximately 75mm in maximal dimension. The endobronchial plug of tumour extends to involve the proximal portion of the middle lobe bronchus and is focally tethered to the wall at this point. The alveolated parenchyma of the middle lobe appears clear of tumour and no tumour is present at the stapled resection margin. The endobronchial plug of tumour also extends up the bronchus to the bronchial resection margin. However, as mentioned previously the tumour is not attached to the bronchial wall in this region. A peribronchial lymph node appears to be involved by tumour, possibly by direct extension. The bronchial and peribronchial resection margins appear macroscopically clear of the tumour. Localised bronchiectasis is present distal to the endobronchial tumour plug. [2A, 5 hilar lymph nodes; 2B, bronchial resection margin en face; 2C-D, LS to inked peribronchial resection margin; 2E, tumour plug; 2F, RS tumour plus at branch of bronchus intermedius; 2G, RS of attachment of tumour plug; 2H, RS tumour extending into bronchus; 2I, RS tumour and attachment of tumour plug; 2J, branching of bronchus intermedius with peribronchial tumour and involved peribronchial lymph nodes; 2K, RS tumour and pleural surface; 2L, RS lower lobe uninvolved; 2M, RS middle lobe uninvolved].\n\n3: The specimen is labelled ‘No. 7 node’ and consists of two pieces of fibrofatty tissue, 35 x 23 x 13 mm and 25 x 24 x 6 mm. Within both pieces of tissue there appears to be a lymph node, 24 mm and 34 mm in maximum extent. [3A-B, first lymph node bisected; 3C-D, second lymph node bisected].\n\n████\n\nMICROSCOPIC\n1: Paraffin sections confirm the frozen section diagnosis of an elastic walled artery with no evidence of tumour.\n\n2: Sections reveal a poorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe with extensive endobronchial extension. The tumour does not invade the visceral pleura. The bronchial resection margin is clear of tumour. Tumour extends into peribronchial connective tissue adjacent to the resection margin but is 0.3mm clear of the peribronchial resection margin. Within peribronchial connective tissue in this region perineural permeation by tumour is identified. The involved nerve measures 350um in diameter and in the section examined is 1.3mm clear of the peribronchial resection margin. Lymphatic invasion is identified. Some small blood vessels show evidence of recanalisation, however no unequivocal vascular invasion is seen. A peribronchial lymph node is involved by tumour, possibly by direct extension. Peribronchial lymph nodes also show evidence of sinus histiocytosis, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. Within adjacent lung parenchyma there is bronchiectasis with mucoid plugging and focal endogenous lipoid pneumonia consistent with obstructive pneumonitis. The section of right middle lobe alveolated lung parenchyma shows",
+          "confidence": {
+            "mean_probability": 0.9963105577031436,
+            "mean_log_probability": -0.004604172043010752,
+            "perplexity": 1.0046147875286997,
+            "min_probability": 0.46878032990189833
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 1024,
+            "total_tokens": 3457
+          },
+          "composite_score": 0.9963335433627376,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 43.861010789871216,
+          "chars": 4146,
+          "words": 655,
+          "text": "HISTORY\nFrozen section. Right lower and middle lobectomy. (L) nodes hilar. Lung Ca.\n\nMACROSCOPIC\nThree specimens received:\n\n1: The specimen is received fresh for frozen section and is labelled ‘arterial margin’ and consists of a piece of muscular artery wall measuring 15 x 4 x 1 mm. No abnormalities are apparent. [BIT for frozen section, 1A].\n\nFROZEN SECTION DIAGNOSIS ████\nNo evidence of malignancy.\n\nResult phoned to ████ on the ██████\n\n2: The specimen is labelled ‘right lung lower and middle’ and consists of the right middle and lower lobes as stated. The lower lobe measures 155 x 100 x 40 mm and the middle lobe 135 x 90 x 30 mm. There is a stapled resection margin along the middle lobe, 150 mm in length. A rounded endobronchial tumour plug extends to the bronchial resection margin, however there is no attachment to the bronchial wall in this region. The pleural surface appears indurated and tethered on the anterior apical part of the lower lobe over an area approximately 25 x 30 mm. Sectioning reveals a tumour within the apical segment of the lower lobe measuring 50 x 45 x 45mm with endobronchial extension up to a distance of 40mm. The entire lesion measuring approximately 75mm in maximal dimension. The endobronchial plug of tumour extends to involve the proximal portion of the middle lobe bronchus and is focally tethered to the wall at this point. The alveolated parenchyma of the middle lobe appears clear of tumour and no tumour is present at the stapled resection margin. The endobronchial plug of tumour also extends up the bronchus to the bronchial resection margin. However, as mentioned previously the tumour is not attached to the bronchial wall in this region. A peribronchial lymph node appears to be involved by tumour, possibly by direct extension. The bronchial and peribronchial resection margins appear macroscopically clear of the tumour. Localised bronchiectasis is present distal to the endobronchial tumour plug. [2A, 5 hilar lymph nodes; 2B, bronchial resection margin en face; 2C-D, LS to inked peribronchial resection margin; 2E, tumour plug; 2F, RS tumour plus at branch of bronchus intermedius; 2G, RS of attachment of tumour plug; 2H, RS tumour extending into bronchus; 2I, RS tumour and attachment of tumour plug; 2J, branching of bronchus intermedius with peribronchial tumour and involved peribronchial lymph nodes; 2K, RS tumour and pleural surface; 2L, RS lower lobe uninvolved; 2M, RS middle lobe uninvolved].\n\n3: The specimen is labelled ‘No. 7 node’ and consists of two pieces of fibrofatty tissue, 35 x 23 x 13 mm and 25 x 24 x 6 mm. Within both pieces of tissue there appears to be a lymph node, 24 mm and 34 mm in maximum extent. [3A-B, first lymph node bisected; 3C-D, second lymph node bisected].\n\n█████\n\nMICROSCOPIC\n1: Paraffin sections confirm the frozen section diagnosis of an elastic walled artery with no evidence of tumour.\n\n2: Sections reveal a poorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe with extensive endobronchial extension. The tumour does not invade the visceral pleura. The bronchial resection margin is clear of tumour. Tumour extends into peribronchial connective tissue adjacent to the resection margin but is 0.3mm clear of the peribronchial resection margin. Within peribronchial connective tissue in this region perineural permeation by tumour is identified. The involved nerve measures 350um in diameter and in the section examined is 1.3mm clear of the peribronchial resection margin. Lymphatic invasion is identified. Some small blood vessels show evidence of recanalisation, however no unequivocal vascular invasion is seen. A peribronchial lymph node is involved by tumour, possibly by direct extension. Peribronchial lymph nodes also show evidence of sinus histiocytosis, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. Within adjacent lung parenchyma there is bronchiectasis with mucoid plugging and focal endogenous lipoid pneumonia consistent with obstructive pneumonitis. The section of right middle lobe alveolated lung parenchyma shows",
+          "confidence": {
+            "mean_probability": 0.9960698843997587,
+            "mean_log_probability": -0.00487408984375,
+            "perplexity": 1.0048859875419485,
+            "min_probability": 0.407325361050237
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 1025,
+            "total_tokens": 3458
+          },
+          "composite_score": 0.9463136592746401
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 50.50098729133606,
+          "chars": 4171,
+          "words": 655,
+          "text": "HISTORY  \nFrozen section. Right lower and middle lobectomy. (L) nodes hilar. Lung Ca.  \n\nMACROSCOPIC  \nThree specimens received:  \n\n1: The specimen is received fresh for frozen section and is labelled ‘arterial margin’ and consists of a piece of muscular artery wall measuring 15 x 4 x 1 mm. No abnormalities are apparent. [BIT for frozen section, 1A].  \n\nFROZEN SECTION DIAGNOSIS ████  \nNo evidence of malignancy.  \n\nResult phoned to ████ on the ██████  \n\n2: The specimen is labelled ‘right lung lower and middle’ and consists of the right middle and lower lobes as stated. The lower lobe measures 155 x 100 x 40 mm and the middle lobe 135 x 90 x 30 mm. There is a stapled resection margin along the middle lobe, 150 mm in length. A rounded endobronchial tumour plug extends to the bronchial resection margin, however there is no attachment to the bronchial wall in this region. The pleural surface appears indurated and tethered on the anterior apical part of the lower lobe over an area approximately 25 x 30 mm. Sectioning reveals a tumour within the apical segment of the lower lobe measuring 50 x 45 x 45mm with endobronchial extension up to a distance of 40mm. The entire lesion measuring approximately 75mm in maximal dimension. The endobronchial plug of tumour extends to involve the proximal portion of the middle lobe bronchus and is focally tethered to the wall at this point. The alveolated parenchyma of the middle lobe appears clear of tumour and no tumour is present at the stapled resection margin. The endobronchial plug of tumour also extends up the bronchus to the bronchial resection margin. However, as mentioned previously the tumour is not attached to the bronchial wall in this region. A peribronchial lymph node appears to be involved by tumour, possibly by direct extension. The bronchial and peribronchial resection margins appear macroscopically clear of the tumour. Localised bronchiectasis is present distal to the endobronchial tumour plug. [2A, 5 hilar lymph nodes; 2B, bronchial resection margin en face; 2C-D, LS to inked peribronchial resection margin; 2E, tumour plug; 2F, RS tumour plus at branch of bronchus intermedius; 2G, RS of attachment of tumour plug; 2H, RS tumour extending into bronchus; 2I, RS tumour and attachment of tumour plug; 2J, branching of bronchus intermedius with peribronchial tumour and involved peribronchial lymph nodes; 2K, RS tumour and pleural surface; 2L, RS lower lobe uninvolved; 2M, RS middle lobe uninvolved].  \n\n3: The specimen is labelled ‘No. 7 node’ and consists of two pieces of fibrofatty tissue, 35 x 23 x 13 mm and 25 x 24 x 6 mm. Within both pieces of tissue there appears to be a lymph node, 24 mm and 34 mm in maximum extent. [3A-B, first lymph node bisected; 3C-D, second lymph node bisected].  \n█████  \n\nMICROSCOPIC  \n1: Paraffin sections confirm the frozen section diagnosis of an elastic walled artery with no evidence of tumour.  \n\n2: Sections reveal a poorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe with extensive endobronchial extension. The tumour does not invade the visceral pleura. The bronchial resection margin is clear of tumour. Tumour extends into peribronchial connective tissue adjacent to the resection margin but is 0.3mm clear of the peribronchial resection margin. Within peribronchial connective tissue in this region perineural permeation by tumour is identified. The involved nerve measures 350um in diameter and in the section examined is 1.3mm clear of the peribronchial resection margin. Lymphatic invasion is identified. Some small blood vessels show evidence of recanalisation, however no unequivocal vascular invasion is seen. A peribronchial lymph node is involved by tumour, possibly by direct extension. Peribronchial lymph nodes also show evidence of sinus histiocytosis, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. Within adjacent lung parenchyma there is bronchiectasis with mucoid plugging and focal endogenous lipoid pneumonia consistent with obstructive pneumonitis. The section of right middle lobe alveolated lung parenchyma shows",
+          "confidence": {
+            "mean_probability": 0.99602361033017,
+            "mean_log_probability": -0.004964971871968962,
+            "perplexity": 1.0049773177687005,
+            "min_probability": 0.3163149134760624
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 1032,
+            "total_tokens": 3465
+          },
+          "composite_score": 0.9462452635382228
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.342866897583008,
+        "chars": 1268,
+        "words": 169,
+        "text": "bronchiectasis with mucoid plugging, however no tumour is identified. Rare mixed duct macules are present within the remaining alveolated lung parenchyma which is otherwise unremarkable.\n\n3: Sections of the lymph node show reactive changes with sinus histiocytosis, follicular hyperplasia, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. No tumour is identified.\n\nSUMMARY\n1-3: Right lower and middle lobes, separately submitted No. 7 lymph node:\nPoorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe.\nTumour size 75mm in maximal dimension.\nExtensive endobronchial extension by tumour, endobronchial tumour attached at origin of right middle lobe bronchus (macroscopic finding).\nVisceral pleura not involved.\nResection margins clear of tumour.\nPerineural permeation by tumour within peribronchial tissue adjacent to margin (see microscopic description).\nLymphatic invasion present.\nNo vascular invasion seen.\nPeribronchial lymph node involved by tumour, no tumour in separately submitted No. 7 lymph node.\nPathological stage: T2 N1.\nBronchiectasis and focal endogenous lipoid pneumonia in adjacent lung parenchyma.\n\n[Redacted]\n\nT-28000 M-80703 P1-03000\n\n[Redacted]",
+        "confidence": {
+          "mean_probability": 0.9921574043241844,
+          "mean_log_probability": -0.00943483448275862,
+          "perplexity": 1.0094794828397666,
+          "min_probability": 0.4846074971106126
+        },
+        "usage": {
+          "input_tokens": 2433,
+          "output_tokens": 291,
+          "total_tokens": 2724
+        },
+        "composite_score": 0.9193226796932618,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.342866897583008,
+          "chars": 1268,
+          "words": 169,
+          "text": "bronchiectasis with mucoid plugging, however no tumour is identified. Rare mixed duct macules are present within the remaining alveolated lung parenchyma which is otherwise unremarkable.\n\n3: Sections of the lymph node show reactive changes with sinus histiocytosis, follicular hyperplasia, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. No tumour is identified.\n\nSUMMARY\n1-3: Right lower and middle lobes, separately submitted No. 7 lymph node:\nPoorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe.\nTumour size 75mm in maximal dimension.\nExtensive endobronchial extension by tumour, endobronchial tumour attached at origin of right middle lobe bronchus (macroscopic finding).\nVisceral pleura not involved.\nResection margins clear of tumour.\nPerineural permeation by tumour within peribronchial tissue adjacent to margin (see microscopic description).\nLymphatic invasion present.\nNo vascular invasion seen.\nPeribronchial lymph node involved by tumour, no tumour in separately submitted No. 7 lymph node.\nPathological stage: T2 N1.\nBronchiectasis and focal endogenous lipoid pneumonia in adjacent lung parenchyma.\n\n[Redacted]\n\nT-28000 M-80703 P1-03000\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9921574043241844,
+            "mean_log_probability": -0.00943483448275862,
+            "perplexity": 1.0094794828397666,
+            "min_probability": 0.4846074971106126
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 291,
+            "total_tokens": 2724
+          },
+          "composite_score": 0.9193226796932618,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.966944456100464,
+          "chars": 1267,
+          "words": 169,
+          "text": "bronchiectasis with mucoid plugging, however no tumour is identified. Rare mixed duct macules are present within the remaining alveolated lung parenchyma which is otherwise unremarkable.\n\n3: Sections of the lymph node show reactive changes with sinus histiocytosis, follicular hyperplasia, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate. No tumour is identified.\n\nSUMMARY\n1-3: Right lower and middle lobes, separately submitted No. 7 lymph node:\nPoorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe.\nTumour size 75mm in maximal dimension.\nExtensive endobronchial extension by tumour, endobronchial tumour attached at origin of right middle lobe bronchus (macroscopic finding).\nVisceral pleura not involved.\nResection margins clear of tumour.\nPerineural permeation by tumour within peribronchial tissue adjacent to margin (see microscopic description).\nLymphatic invasion present.\nNo vascular invasion seen.\nPeribronchial lymph node involved by tumour, no tumour in separately submitted No. 7 lymph node.\nPathological stage: T2 N1.\nBronchiectasis and focal endogenous lipoid pneumonia in adjacent lung parenchyma.\n\n[Redacted]\nT-28000 M-80703 P1-03000\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.992163753183031,
+            "mean_log_probability": -0.009364006896551723,
+            "perplexity": 1.0094079863766625,
+            "min_probability": 0.5078901982213325
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 291,
+            "total_tokens": 2724
+          },
+          "composite_score": 0.8733143768424927
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.460137844085693,
+          "chars": 1267,
+          "words": 169,
+          "text": "bronchiectasis with mucoid plugging, however no tumour is identified. Rare mixed duct macules are present within the remaining alveolated lung parenchyma which is otherwise unremarkable.\n\n3: Sections of the lymph node show reactive changes with sinus histiocytosis, follicular hyperplasia, carbon pigment deposition, fibrosis and scattered flecks of birefringent material consistent with silicate.\nNo tumour is identified.\n\nSUMMARY\n1-3: Right lower and middle lobes, separately submitted No. 7 lymph node:\nPoorly differentiated squamous cell carcinoma involving the apical segment of the right lower lobe.\nTumour size 75mm in maximal dimension.\nExtensive endobronchial extension by tumour, endobronchial tumour attached at origin of right middle lobe bronchus (macroscopic finding).\nVisceral pleura not involved.\nResection margins clear of tumour.\nPerineural permeation by tumour within peribronchial tissue adjacent to margin (see microscopic description).\nLymphatic invasion present.\nNo vascular invasion seen.\nPeribronchial lymph node involved by tumour, no tumour in separately submitted No. 7 lymph node.\nPathological stage: T2 N1.\nBronchiectasis and focal endogenous lipoid pneumonia in adjacent lung parenchyma.\n\n[Redacted]\nT-28000 M-80703 P1-03000\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9906250885942917,
+            "mean_log_probability": -0.012972696551724136,
+            "perplexity": 1.013057207027147,
+            "min_probability": 0.2941424809372251
+          },
+          "usage": {
+            "input_tokens": 2433,
+            "output_tokens": 291,
+            "total_tokens": 2724
+          },
+          "composite_score": 0.870632013698521
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

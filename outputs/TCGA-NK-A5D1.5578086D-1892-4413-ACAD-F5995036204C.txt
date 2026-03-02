@@ -1,0 +1,164 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\475a3d97-b51f-4278-9ee1-b06a2febebfe\TCGA-NK-A5D1.5578086D-1892-4413-ACAD-F5995036204C.PDF
+Processing Date: 2026-03-02 15:02:18
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+UUID:5578086D-1892-4413-ACAD-F5995036204C
+TCGA-NK-ASD1-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+A. FROZEN: RIGHT UPPER LOBE WEDGE: (A91, TP, smear): Poorly differentiated squamous cell carcinoma.
+
+NOTE
+The size of the tumor of 3.8 cm reflects the tumor present in both wedge biopsy and lobectomy. Special studies show that tumor cells are positive for P63 and CK 5, negative for TTF-1, synaptophysin, and chromogranin, supporting above diagnosis. Immunohistochemistry controls are examined and show appropriate reactivity.
+Lung Cancer Summary
+Specimen type: Lung
+Procedure: Wedge biopsy and lobectomy
+Specimen integrity: Intact
+Tumor location: Right upper lobe
+Tumor focality: Unifocal
+Tumor size: 3.8 cm
+Histologic type: Squamous cell carcinoma, basaloid type
+Histologic grade: Grade 3
+Treatment effect: N/A
+Status of margins:
+    Bronchial: Free of tumor
+    Vascular: Free of tumor
+    Parenchymal: Free of tumor
+    Pleural: Free of tumor
+Visceral/Parietal pleural invasion: Absent
+Lymphatic vascular invasion: Present
+Lymph node status: Positive for metastatic tumor at level 12R, negative at level 2R, 4R, and 8
+Extension into other structures: Absent
+Non-neoplastic pathology: N/A
+TMN stage: pT2AN1PL0
+GROSS DESCRIPTION
+A. The specimen is labeled right upper lobe wedge. Received fresh for frozen section, is a 9 x 6.1 x 2.2 cm lung wedge with a 9cm staple line. The specimen is previously opened and reveals a 2.5 x 2.2 x 1.8 cm white-tan, irregular, firm tumor. The tumor is 0.1 cm to the nearest margin underneath the staple line. The staple line is removed and the exposed parenchyma is inked black. Representative sections of the tumor are submitted for frozen section with the remnant put in cassette A91. A touch prep is performed; more cassettes are submitted as follows: A1 through A3 sections of tumor with the nearest margin, A4 lung parenchyma underlying the staple line, A5 unaffected lung.
+B. This specimen is labeled level XII R. lymph node. The specimen is received fresh and consists of multiple anthracotic lymph node fragments
+
+================================================================================
+PAGE 3
+================================================================================
+measuring in aggregate 1.1 x 0.9 x 0.2 cm. The specimen is entirely submitted
+in cassette B1.
+C. The specimen is labeled right upper lobe. Received without fixative is a
+145 g, 17.0 x 7.0 x 2.7 cm lobe of lung with stapled bronchial and vascular
+margins. There is a 13.5 cm in length stapled line adjacent to the hilum and
+a 14.0 cm in length stapled line on the opposite side. A palpable mass is
+felt and the overlying pleura is inked green. The staple line adjacent to the
+pleura is removed and the exposed parenchyma is inked yellow. The staple
+line on the opposite side is removed and the exposed parenchyma is inked
+black. Sectioning shows a 1.3 x 1.3 x 1.2 cm firm tan mass that grossly abuts
+the anti-hilar staple line (black) and is 0.2 cm subjacent to the overlying
+pleura (green), is 1.0 cm from the hilar staple line (yellow) and is 1.5 cm
+from the bronchial margin. Additionally, there is a 1.0 x 0.9 x 0.7 cm
+poorly-defined hemorrhagic subpleural nodule located greater than 5.0 cm from
+the bronchial margin and greater than 2.0 cm from both staple lines. The
+remainder of the specimen consists of spongy red lung parenchyma without
+nodules or other lesions.
+C1 - bronchial margin, C2 - vascular margins, C3 and C4 - mass with overlying
+anti-hilar staple margin (black) and pleural (green), C5 - additional sections
+of nearest pleural and anti-hilar staple margins, C6 - hilar staple margin
+(yellow) closest to firm nodule, C7 - hemorrhagic nodule, C8 - representative
+sections of unremarkable lung.
+D. The specimen is labeled 4R lymph node. The specimen is received fresh and
+consists of multiple tan-pink and anthracotic lymph node fragments measuring
+in aggregate 1.1 x 0.9 x 0.2 cm. The specimen is entirely submitted in
+cassette D1.
+E. This specimen is labeled 2R lymph node. The specimen is received fresh
+and consists of a single portion of anthracotic soft tissue that measures 0.3
+x 0.2 x 0.2 cm. The specimen is entirely submitted in cassette E1.
+F. This specimen is labeled 8 lymph node. The specimen is received fresh and
+consists of a single anthracotic portion of lymph node that measures 0.4 x
+0.4 x 0.2 cm. The specimen is entirely submitted in cassette F1
+SPECIMEN(S) RECEIVED
+A: FROZEN:RIGHT UPPER lOBE WEDGE
+B: LEVEL 12R LYMPH NODE
+C: FRESH-RIGHT UPPER LOBE
+D: FRESH- 4R LYMPH NODE
+E: FRESH -2R LYMPH NODE
+F: FRESH-8 LYMPH NODE
+* The above listed tests (if any) were developed and the performance
+characteristics determined by epartment of Pathology. These tests have
+not been cleared or approved for commercial use by the U.S. Food and Drug
+Administration. The FDA has determined that FDA review is not required for
+such in-house assays. (21 CFR 809.30(e))
+OPERATIVE INFORMATION
+DIAGNOSIS: LUNG MASS; PROCEDURE: BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+================================================================================
+PAGE 4
+================================================================================
+THORACOSCOPY VIDEO ASSISTED  
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE  
+ICD-9(s): 162.3  
+CPT(s): A: 88307, 88331, 88334, 88334, 88342 ttf1, 88342 syn, 88342 chrm,  
+88342 generic, 88342 p63, 88365 hpvhr, 88365 hpvlr, 88342 p16  
+B: 88305  
+C: 88309  
+D: 88305  
+E: 88305  
+F: 88305  
+SUPPLEMENTAL REPORTS  
+
+Tumor cells are negative for P16, HPV-6, and HPV-16 . Controls are examined  
+and show appropriate reactivity.  
+The attending pathologist was physically present when this specimen was  
+diagnosed, and actively participated in all key decisions.  
+Lab and Collection  
+
+Result History  
+
+PATHOLOGY SURGICA  
+Pathology  
+
+Procedure Location:  
+
+Diagnostic discrepancy from provided: tissue is  
+small cell squamous cell carcinoma  
+(No basaloid type seen)  
+
+Criteria  11/4/13  
+Diagnosis Discrepancy  Yes  No  
+Primary Tumor Site Discrepancy  /  /  
+HIPAA Discrepancy  /  /  
+Prior Malignancy History  /  /  
+Dual/Synchronous Primary Noted  /  /  
+Cause is (QUALIFIED) (DISQUALIFIED)  
+Reviewer Initials  CPC  
+Date Reviewed:  11/14/13
+
+================================================================================
+PAGE 5
+================================================================================
+TCGA Pathologic Diagnosis Discrepancy Form                                                                                  V2.00
+
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the Case Quality Control Form completed for the submitted case.
+
+Tissue Source Site (TSS): _____________________________
+Completed By (Interviewer Name on OpenClinica) ___________________________
+
+|Diagnosis Information                                                                                         |
+| # | Data Element                          | Entry Alternatives                              | Working Instructions                                                                                      |
+|---|-------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1 | Pathologic Diagnosis                | Squamous Cell Carcinoma,                        | Provide the diagnosis/histologic subtype(s) documented on the initial pathology report for this case. If the histology for this case is mixed, provide all listed subtypes. |
+|   | Provided on Initial                 | Basaloid Type                                   |                                                                                                           |
+|   | Pathology Report                   |                                                |                                                                                                           |
+| 2 | Histologic features of             | Small Cell Squamous                             | Provide the histologic features selected on the TCGA Case Quality Control Form completed for this case.    |
+|   | the sample provided                | Cell Carcinoma                                  |                                                                                                           |
+|   | for TCGA, as reflected             |                                                |                                                                                                           |
+|   | on the CQCF.                      |                                                |                                                                                                           |
+
+Discrepancy between Pathology Report and Case Quality Control Form
+| 3 | Provide the reason for the discrepancy between the pathology report and the TCGA Case Quality Control Form. | Tumor Sampling. No Basaloid component seen. | Provide a reason describing why the diagnosis on the initial pathology report for this case is not consistent with the diagnosis selected on the TCGA Case Quality Control Form. |
+
+| 4 | Name of TSS Reviewing Pathologist or Biorepository Director | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

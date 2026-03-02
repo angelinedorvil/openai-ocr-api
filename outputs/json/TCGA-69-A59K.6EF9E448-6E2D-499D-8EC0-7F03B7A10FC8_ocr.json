@@ -1,0 +1,371 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\16e5f5d2-9b00-4cbb-b592-dd4e7bcc4639\\TCGA-69-A59K.6EF9E448-6E2D-499D-8EC0-7F03B7A10FC8.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.106127738952637,
+        "chars": 804,
+        "words": 125,
+        "text": "ICD-O-3  \nAdenoscarcinoma  \nw/mixed subtypes  \n8255/3  \nSite  B  Lung, upper lobe  \nC34.1  \nJW 1/7/13  \n\nSURGICAL PATHOLOGY REPORT  \n\nPatient Age/Sex          / F  \n\nSPECIMEN SUBMITTED:  \nPart A: #1  \nPart B: #3  \nPart C: R 9  \nPart D: 10 R  \nPart E: 11 R  \nPart F: 12 R  \nPart G: RIGHT UPPER LOBE  \n\nFinal Diagnosis  \n1. Lymph node #1, #3, R9, 11R, 12R, excision (A-C, E-F) - Lymph nodes, negative for malignancy.  \n\n2. Lymph node, 10R, excision (D) - Fibrous tissue and adjacent lung, negative for neoplasm..  \n\n3. Right lung, upper lobe, lobectomy (G) Adenocarcinoma, solid predominant (80%) and acinar  \n(20%) large mass; Acinar preominent (80%) and micropapillary (20%) smaller mass.  \n- Centrilobular emphysema.  \n- Three lymph nodes, negative for malignancy (0/3).  \n\n- See comment.  \n\nPage 1 of 4",
+        "confidence": {
+          "mean_probability": 0.9581993607774856,
+          "mean_log_probability": -0.0594353038869258,
+          "perplexity": 1.0612371008430637,
+          "min_probability": 0.0689828055752911
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 284,
+          "total_tokens": 2756
+        },
+        "composite_score": 0.8355192574618834,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.106127738952637,
+          "chars": 804,
+          "words": 125,
+          "text": "ICD-O-3  \nAdenoscarcinoma  \nw/mixed subtypes  \n8255/3  \nSite  B  Lung, upper lobe  \nC34.1  \nJW 1/7/13  \n\nSURGICAL PATHOLOGY REPORT  \n\nPatient Age/Sex          / F  \n\nSPECIMEN SUBMITTED:  \nPart A: #1  \nPart B: #3  \nPart C: R 9  \nPart D: 10 R  \nPart E: 11 R  \nPart F: 12 R  \nPart G: RIGHT UPPER LOBE  \n\nFinal Diagnosis  \n1. Lymph node #1, #3, R9, 11R, 12R, excision (A-C, E-F) - Lymph nodes, negative for malignancy.  \n\n2. Lymph node, 10R, excision (D) - Fibrous tissue and adjacent lung, negative for neoplasm..  \n\n3. Right lung, upper lobe, lobectomy (G) Adenocarcinoma, solid predominant (80%) and acinar  \n(20%) large mass; Acinar preominent (80%) and micropapillary (20%) smaller mass.  \n- Centrilobular emphysema.  \n- Three lymph nodes, negative for malignancy (0/3).  \n\n- See comment.  \n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9581993607774856,
+            "mean_log_probability": -0.0594353038869258,
+            "perplexity": 1.0612371008430637,
+            "min_probability": 0.0689828055752911
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 284,
+            "total_tokens": 2756
+          },
+          "composite_score": 0.8355192574618834,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.924148797988892,
+          "chars": 801,
+          "words": 125,
+          "text": "ICD-O-3  \nAdenoscarcinoma  \nw/mixed subtypes  \n8255/3  \nSite  B Lung upper lobe  \nC34.1  \nJW 1/7/13  \n\nSURGICAL PATHOLOGY REPORT  \n\nPatient Age/Sex            / F  \nSPECIMEN SUBMITTED:  \nPart A: #1  \nPart B: #3  \nPart C: R 9  \nPart D: 10 R  \nPart E: 11 R  \nPart F: 12 R  \nPart G: RIGHT UPPER LOBE  \n\nFinal Diagnosis  \n1. Lymph node #1, #3, R9, 11R, 12R, excision (A-C, E-F) - Lymph nodes, negative for malignancy.  \n\n2. Lymph node, 10R, excision (D) - Fibrous tissue and adjacent lung, negative for neoplasm..  \n\n3. Right lung, upper lobe, lobectomy (G) Adenocarcinoma, solid predominant (80%) and acinar (20%) large mass; Acinar preominent (80%) and micropapillary (20%) smaller mass.  \n- Centrilobular emphysema.  \n- Three lymph nodes, negative for malignancy (0/3).  \n\n- See comment.  \n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9566013019676807,
+            "mean_log_probability": -0.06348230357142857,
+            "perplexity": 1.065540629370984,
+            "min_probability": 0.05020930052612483
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 281,
+            "total_tokens": 2753
+          },
+          "composite_score": 0.7907284240332331
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 6.071276426315308,
+          "chars": 793,
+          "words": 126,
+          "text": "ICD-O-3  \nAdenoscarcinoma  \nw/mixed subtypes  \n8255/3  \nSite  B Lung, upper lobe  \nC 34.1  \nJW 1/7/13  \n\nSURGICAL PATHOLOGY REPORT  \n\nPatient Age/Sex\t/ F  \n\nSPECIMEN SUBMITTED:  \nPart A: #1  \nPart B: #3  \nPart C: R 9  \nPart D: 10 R  \nPart E: 11 R  \nPart F: 12 R  \nPart G: RIGHT UPPER LOBE  \n\nFinal Diagnosis  \n1. Lymph node #1, #3, R9, 11R, 12R, excision (A-C, E-F) - Lymph nodes, negative for malignancy.  \n\n2. Lymph node, 10R, excision (D) - Fibrous tissue and adjacent lung, negative for neoplasm..  \n\n3. Right lung, upper lobe, lobectomy (G) Adenocarcinoma, solid predominant (80%) and acinar (20%) large mass; Acinar preominent (80%) and micropapillary (20%) smaller mass.  \n- Centrilobular emphysema.  \n- Three lymph nodes, negative for malignancy (0/3).  \n\n- See comment.  \n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9575941233718536,
+            "mean_log_probability": -0.06132092198581562,
+            "perplexity": 1.063240076557782,
+            "min_probability": 0.07058567914714833
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 283,
+            "total_tokens": 2755
+          },
+          "composite_score": 0.7914237760301379
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 11.552218914031982,
+        "chars": 1397,
+        "words": 200,
+        "text": "SURGICAL PATHOLOGY REPORT\n\nDiagnosis Comment:\nLUNG SYNOPTIC REPORT\n\nSPECIMEN: Lobes of lung right upper\nPROCEDURE: Lobectomy\nSPECIMEN INTEGRITY: Intact\nSPECIMEN LATERALITY: Right\nTUMOR SITE: Upper lobe\nTUMOR SIZE: Greatest dimension 3.7 cm, 2.9 x 2.8 cm and 1.2 cm x 0.8 cm x 0.7cm.\nTUMOR FOCALITY: Separate tumor nodules in same lobe\nHISTOLOGIC TYPE: Adenocarcinoma\nHISTOLOGIC GRADE: NA\nVISCERAL PLEURAL INVASION: No invasion Into visceral pleura by either mass.\nTUMOR EXTENSION: Not identified.\nMARGINS:\n- Bronchial margin: Uninvolved by invasive carcinoma.\n- Vascular Margin: Uninvolved by invasive carcinoma.\n- Parenchymal margin: Uninvolved by invasive carcinoma\n- Parietal pleural margin: NA\n- Chest wall margin: NA\n- Distance of invasive carcinoma from closest margin: 3.4 cm\n-- Specify margin: Parenchymal margin\nTREATMENT EFFECT: Not applicable\nLYMPH-VASCULAR INVASION: Not identified.\nPATHOLOGIC STAGING: Stage IIB\npT3\npN0\nNumber of lymph nodes examined: 11\nNumber of lymph nodes involved: 0\npM Not applicable.\n\nAdditional pathologic findings: Centrilobular emphysema\n\nAncillary studies: Epidermal growth factor receptor (EGFR) mutational analysis will be performed on both masses and the results reported as an addendum. Immunohistochemical studies reveal diffuse strong positivity to TTF-1 and no staining for p63, supporting the diagnosis of adenocarcinoma (larger mass).\n\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9922415418465232,
+          "mean_log_probability": -0.009476344827586207,
+          "perplexity": 1.009521387550929,
+          "min_probability": 0.4451744727772265
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 407,
+          "total_tokens": 2879
+        },
+        "composite_score": 0.8855805860973192,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.168685674667358,
+          "chars": 1517,
+          "words": 200,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nDiagnosis Comment:\nLUNG SYNOPTIC REPORT\n\nSPECIMEN: Lobes of lung right upper\nPROCEDURE: Lobectomy\nSPECIMEN INTEGRITY: Intact\nSPECIMEN LATERALITY: Right\nTUMOR SITE: Upper lobe\nTUMOR SIZE: Greatest dimension 3.7 cm, 2.9 x 2.8 cm and 1.2 cm x 0.8 cm x 0.7cm.\nTUMOR FOCALITY: Separate tumor nodules in same lobe\nHISTOLOGIC TYPE: Adenocarcinoma\nHISTOLOGIC GRADE: NA\nVISCERAL PLEURAL INVASION: No invasion Into visceral pleura by either mass.\nTUMOR EXTENSION: Not identified.\nMARGINS:\n- Bronchial margin: Uninvolved by invasive carcinoma.\n- Vascular Margin: Uninvolved by invasive carcinoma.\n- Parenchymal margin: Uninvolved by invasive carcinoma\n- Parietal pleural margin: NA\n- Chest wall margin: NA\n- Distance of invasive carcinoma from closest margin: 3.4 cm\n-- Specify margin: Parenchymal margin\nTREATMENT EFFECT: Not applicable\nLYMPH-VASCULAR INVASION: Not identified.\nPATHOLOGIC STAGING: Stage IIB\npT3\npN0\nNumber of lymph nodes examined: 11\nNumber of lymph nodes involved: 0\npM Not applicable.\n\nAdditional pathologic findings: Centrilobular emphysema\n\nAncillary studies: Epidermal growth factor receptor (EGFR) mutational analysis will be performed on both masses and the results reported as an addendum. Immunohistochemical studies reveal diffuse strong positivity to TTF-1 and no staining for p63, supporting the diagnosis of adenocarcinoma (larger mass).\n\n                                                                                                                        Page 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9899500290942024,
+            "mean_log_probability": -0.01695157107843137,
+            "perplexity": 1.0170960642669689,
+            "min_probability": 0.04722546590500149
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 409,
+            "total_tokens": 2881
+          },
+          "composite_score": 0.6568553570593781
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.658474206924438,
+          "chars": 1514,
+          "words": 200,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nDiagnosis Comment:\nLUNG SYNOPTIC REPORT\n\nSPECIMEN: Lobes of lung right upper\nPROCEDURE: Lobectomy\nSPECIMEN INTEGRITY: Intact\nSPECIMEN LATERALITY: Right\nTUMOR SITE: Upper lobe\nTUMOR SIZE: Greatest dimension 3.7 cm, 2.9 x 2.8 cm and 1.2 cm x 0.8 cm x 0.7cm.\nTUMOR FOCALITY: Separate tumor nodules in same lobe\nHISTOLOGIC TYPE: Adenocarcinoma\nHISTOLOGIC GRADE: NA\nVISCERAL PLEURAL INVASION: No invasion Into visceral pleura by either mass.\nTUMOR EXTENSION: Not identified.\nMARGINS:\n- Bronchial margin: Uninvolved by invasive carcinoma.\n- Vascular Margin: Uninvolved by invasive carcinoma.\n- Parenchymal margin: Uninvolved by invasive carcinoma\n- Parietal pleural margin: NA\n- Chest wall margin: NA\n- Distance of invasive carcinoma from closest margin: 3.4 cm\n- Specify margin: Parenchymal margin\nTREATMENT EFFECT: Not applicable\nLYMPH-VASCULAR INVASION: Not identified.\nPATHOLOGIC STAGING: Stage IIB\npT3\npN0\nNumber of lymph nodes examined: 11\nNumber of lymph nodes involved: 0\npM Not applicable.\n\nAdditional pathologic findings: Centrilobular emphysema\n\nAncillary studies: Epidermal growth factor receptor (EGFR) mutational analysis will be performed on both masses and the results reported as an addendum. Immunohistochemical studies reveal diffuse strong positivity to TTF-1 and no staining for p63, supporting the diagnosis of adenocarcinoma (larger mass).\n\n                                                                                                                      Page 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9895685731842231,
+            "mean_log_probability": -0.01805435049019608,
+            "perplexity": 1.0182183155505016,
+            "min_probability": 0.036937942654849204
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 409,
+            "total_tokens": 2881
+          },
+          "composite_score": 0.623246420739905
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.552218914031982,
+          "chars": 1397,
+          "words": 200,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nDiagnosis Comment:\nLUNG SYNOPTIC REPORT\n\nSPECIMEN: Lobes of lung right upper\nPROCEDURE: Lobectomy\nSPECIMEN INTEGRITY: Intact\nSPECIMEN LATERALITY: Right\nTUMOR SITE: Upper lobe\nTUMOR SIZE: Greatest dimension 3.7 cm, 2.9 x 2.8 cm and 1.2 cm x 0.8 cm x 0.7cm.\nTUMOR FOCALITY: Separate tumor nodules in same lobe\nHISTOLOGIC TYPE: Adenocarcinoma\nHISTOLOGIC GRADE: NA\nVISCERAL PLEURAL INVASION: No invasion Into visceral pleura by either mass.\nTUMOR EXTENSION: Not identified.\nMARGINS:\n- Bronchial margin: Uninvolved by invasive carcinoma.\n- Vascular Margin: Uninvolved by invasive carcinoma.\n- Parenchymal margin: Uninvolved by invasive carcinoma\n- Parietal pleural margin: NA\n- Chest wall margin: NA\n- Distance of invasive carcinoma from closest margin: 3.4 cm\n-- Specify margin: Parenchymal margin\nTREATMENT EFFECT: Not applicable\nLYMPH-VASCULAR INVASION: Not identified.\nPATHOLOGIC STAGING: Stage IIB\npT3\npN0\nNumber of lymph nodes examined: 11\nNumber of lymph nodes involved: 0\npM Not applicable.\n\nAdditional pathologic findings: Centrilobular emphysema\n\nAncillary studies: Epidermal growth factor receptor (EGFR) mutational analysis will be performed on both masses and the results reported as an addendum. Immunohistochemical studies reveal diffuse strong positivity to TTF-1 and no staining for p63, supporting the diagnosis of adenocarcinoma (larger mass).\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9922415418465232,
+            "mean_log_probability": -0.009476344827586207,
+            "perplexity": 1.009521387550929,
+            "min_probability": 0.4451744727772265
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 407,
+            "total_tokens": 2879
+          },
+          "composite_score": 0.8855805860973192,
+          "quality_warning": false,
+          "quality_warnings": []
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.51949143409729,
+        "chars": 748,
+        "words": 66,
+        "text": "SURGICAL PATHOLOGY REPORT\n\nProcedure:  EGFR Mutation Analysis Re                                   Status: Signed Out\nText:           EGFR Mutation Analysis (\n\n\n                     Diagnosis of neoplasm:  No EGFR alteration detected .\n\n                     Genotype result: Wild type\n\n\n                     EGFR Mutation Analysis\n\n                     Diagnosis of neoplasm:  No EGFR alteration detected\n\n                     Genotype result: Wild type\n\n\n\nIntraoperative Diagnosis:\nA. Negative for malignancy\n\nB. Negative for malignancy\n\nG. Bronchial margin negative for malignancy\n\nClinical Diagnosis:\nLUNG NODULES\n\n\n\n                                                                                                                     Page 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9231368156232023,
+          "mean_log_probability": -0.15277205555555554,
+          "perplexity": 1.1650593798598832,
+          "min_probability": 0.031340001317980606
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 127,
+          "total_tokens": 2599
+        },
+        "composite_score": 0.5381455438993265,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0313 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0313 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.51949143409729,
+          "chars": 748,
+          "words": 66,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nProcedure:  EGFR Mutation Analysis Re                                   Status: Signed Out\nText:           EGFR Mutation Analysis (\n\n\n                     Diagnosis of neoplasm:  No EGFR alteration detected .\n\n                     Genotype result: Wild type\n\n\n                     EGFR Mutation Analysis\n\n                     Diagnosis of neoplasm:  No EGFR alteration detected\n\n                     Genotype result: Wild type\n\n\n\nIntraoperative Diagnosis:\nA. Negative for malignancy\n\nB. Negative for malignancy\n\nG. Bronchial margin negative for malignancy\n\nClinical Diagnosis:\nLUNG NODULES\n\n\n\n                                                                                                                     Page 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9231368156232023,
+            "mean_log_probability": -0.15277205555555554,
+            "perplexity": 1.1650593798598832,
+            "min_probability": 0.031340001317980606
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 127,
+            "total_tokens": 2599
+          },
+          "composite_score": 0.5381455438993265,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0313 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0313 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 4.905766010284424,
+          "chars": 611,
+          "words": 66,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nProcedure:  EGFR Mutation Analysis Re\t\tStatus: Signed Out\nText:\tEGFR Mutation Analysis (\n\tDiagnosis of neoplasm:  No EGFR alteration detected .\n\n\tGenotype result: Wild type\n\n\n\tEGFR Mutation Analysis\n\n\tDiagnosis of neoplasm:  No EGFR alteration detected\n\n\tGenotype result: Wild type\n\n\nIntraoperative Diagnosis:\nA. Negative for malignancy\n\nB. Negative for malignancy\n\nG. Bronchial margin negative for malignancy\n\nClinical Diagnosis:\nLUNG NODULES\n\n\n                                                                                                                               Page 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9249550646452992,
+            "mean_log_probability": -80.096786736,
+            "perplexity": 6.103690414315771e+34,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 126,
+            "total_tokens": 2598
+          },
+          "composite_score": 0.04719156262901459
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.4740734100341797,
+          "chars": 605,
+          "words": 66,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nProcedure: EGFR Mutation Analysis Re\tStatus: Signed Out\nText:\tEGFR Mutation Analysis (\n\tDiagnosis of neoplasm: No EGFR alteration detected .\n\n\tGenotype result: Wild type\n\n\tEGFR Mutation Analysis\n\n\tDiagnosis of neoplasm: No EGFR alteration detected\n\n\tGenotype result: Wild type\n\n\nIntraoperative Diagnosis:\nA. Negative for malignancy\n\nB. Negative for malignancy\n\nG. Bronchial margin negative for malignancy\n\nClinical Diagnosis:\nLUNG NODULES\n\n\n                                                                                                                              Page 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9373205053582374,
+            "mean_log_probability": -82.72263199999999,
+            "perplexity": 8.433009821211491e+35,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 122,
+            "total_tokens": 2594
+          },
+          "composite_score": 0.0465868152823958
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 28.043331146240234,
+        "chars": 2975,
+        "words": 484,
+        "text": "SURGICAL PATHOLOGY REPORT\n\nGross Description:\nA. Received fresh for frozen section examination labeled \"#1\" are two black-tan soft tissue measuring in aggregate 0.7 x 0.4 x 0.2 cm. The specimen is totally submitted in cassette FSA1.\n\nB. Received fresh for frozen section examination labeled \"#3\" are multiple red-black soft tissue measuring in aggregate 0.4 x 0.2 x 0.2 cm. The specimen is totally submitted in cassette FSB1.\n\nC. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.2 x 0.2 x 0.2 cm. Totally submitted in one cassette.\n\nD. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.3 x 0.3 x 0.2 cm. Totally submitted in one cassette.\n\nE. Received fresh is a tan-black nodule resembling a lymph node measuring 0.6 x 0.5 x 0.2 cm. Totally submitted in one cassette.\n\nF. Received in formalin is a tan-black nodule resembling a lymph node measuring 0.4 x 0.3 x 0.2 cm. Totally submitted in one cassette.\n\nG. Received in formalin is a specimen labeled \"right upper lobe\" consisting of a single lobe of right lung measuring 16.5 x 13.0 x 4.6 cm, and weighing 297.0 grams. A bronchial stump is present measuring 1.0 cm in length with a luminal diameter of 0.8 cm. Numerous anthracotic lymph nodes are identified within the hilar region. The pleural surface has a tan-pink smooth patchy appearance. A small portion of the pleural surface appears slightly puckered by an underlying mass. Upon multiple cross sections, the mass measures 3.7 x 2.9 x 2.8 cm, and is located near the periphery of the specimen. The mass has a tan-white lobulated appearance with focal area of hemorrhage. The mass extends to within <0.1 cm of the pleural margin and to within 5.0 cm of both the bronchial and vascular margins. In addition, the mass extends within 3.4 cm of the nearest staple line of resection. The pleural margin above the mass is inked blue. Located approximately 1.0 cm from the main mass is a smaller ill-defined tan-black mass measuring 1.2 x 0.8 x 0.7 cm. This mass extends to within 1.5 cm of the pleural margin. In addition, a small area of possible emphysematous changes are identified. Representative sections are submitted as follows: G1 frozen section bronchial margin, G2 additional section of bronchus, G3 vascular margin, G4-G5 lymph nodes, G6-G9 section of larger mass in relation to pleural margin, G10 larger mass with adjacent lung parenchyma, G11 smaller mass with adjacent normal appearing lung parenchyma and smaller portion of larger mass, G12-G13 remainder of smaller mass, G14 section of uninvolved lung parenchyma, G15 area of possible emphysematous changes.\n\nMicroscopic:\n{Not Entered}\n\nPage 4 of 4\n\n[Signature and initials section with illegible handwritten text]\n\nDiagnosis Discrepancy  √\nPrimary Tumor Site Discrepancy  √\nHIPAA Discrepancy  √\nPrior Malignancy History  √\nDual/Synchronous Primary  √\nCase is (circle):  QA  ALF  ID  DISQ  AFED\nReviewer Initials  [illegible]\nDate Reviewed  12/21/17",
+        "confidence": {
+          "mean_probability": 0.9696815201336481,
+          "mean_log_probability": -0.04542289847715735,
+          "perplexity": 1.0464703170483676,
+          "min_probability": 0.17845907067377784
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 789,
+          "total_tokens": 3261
+        },
+        "composite_score": 0.965240555917936,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 28.043331146240234,
+          "chars": 2975,
+          "words": 484,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nGross Description:\nA. Received fresh for frozen section examination labeled \"#1\" are two black-tan soft tissue measuring in aggregate 0.7 x 0.4 x 0.2 cm. The specimen is totally submitted in cassette FSA1.\n\nB. Received fresh for frozen section examination labeled \"#3\" are multiple red-black soft tissue measuring in aggregate 0.4 x 0.2 x 0.2 cm. The specimen is totally submitted in cassette FSB1.\n\nC. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.2 x 0.2 x 0.2 cm. Totally submitted in one cassette.\n\nD. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.3 x 0.3 x 0.2 cm. Totally submitted in one cassette.\n\nE. Received fresh is a tan-black nodule resembling a lymph node measuring 0.6 x 0.5 x 0.2 cm. Totally submitted in one cassette.\n\nF. Received in formalin is a tan-black nodule resembling a lymph node measuring 0.4 x 0.3 x 0.2 cm. Totally submitted in one cassette.\n\nG. Received in formalin is a specimen labeled \"right upper lobe\" consisting of a single lobe of right lung measuring 16.5 x 13.0 x 4.6 cm, and weighing 297.0 grams. A bronchial stump is present measuring 1.0 cm in length with a luminal diameter of 0.8 cm. Numerous anthracotic lymph nodes are identified within the hilar region. The pleural surface has a tan-pink smooth patchy appearance. A small portion of the pleural surface appears slightly puckered by an underlying mass. Upon multiple cross sections, the mass measures 3.7 x 2.9 x 2.8 cm, and is located near the periphery of the specimen. The mass has a tan-white lobulated appearance with focal area of hemorrhage. The mass extends to within <0.1 cm of the pleural margin and to within 5.0 cm of both the bronchial and vascular margins. In addition, the mass extends within 3.4 cm of the nearest staple line of resection. The pleural margin above the mass is inked blue. Located approximately 1.0 cm from the main mass is a smaller ill-defined tan-black mass measuring 1.2 x 0.8 x 0.7 cm. This mass extends to within 1.5 cm of the pleural margin. In addition, a small area of possible emphysematous changes are identified. Representative sections are submitted as follows: G1 frozen section bronchial margin, G2 additional section of bronchus, G3 vascular margin, G4-G5 lymph nodes, G6-G9 section of larger mass in relation to pleural margin, G10 larger mass with adjacent lung parenchyma, G11 smaller mass with adjacent normal appearing lung parenchyma and smaller portion of larger mass, G12-G13 remainder of smaller mass, G14 section of uninvolved lung parenchyma, G15 area of possible emphysematous changes.\n\nMicroscopic:\n{Not Entered}\n\nPage 4 of 4\n\n[Signature and initials section with illegible handwritten text]\n\nDiagnosis Discrepancy  √\nPrimary Tumor Site Discrepancy  √\nHIPAA Discrepancy  √\nPrior Malignancy History  √\nDual/Synchronous Primary  √\nCase is (circle):  QA  ALF  ID  DISQ  AFED\nReviewer Initials  [illegible]\nDate Reviewed  12/21/17",
+          "confidence": {
+            "mean_probability": 0.9696815201336481,
+            "mean_log_probability": -0.04542289847715735,
+            "perplexity": 1.0464703170483676,
+            "min_probability": 0.17845907067377784
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 789,
+            "total_tokens": 3261
+          },
+          "composite_score": 0.965240555917936,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 21.2537682056427,
+          "chars": 2704,
+          "words": 448,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nGross Description:\nA. Received fresh for frozen section examination labeled \"#1\" are two black-tan soft tissue measuring in\naggregate 0.7 x 0.4 x 0.2 cm. The specimen is totally submitted in cassette FSA1.\n\nB. Received fresh for frozen section examination labeled \"#3\" are multiple red-black soft tissue\nmeasuring in aggregate 0.4 x 0.2 x 0.2 cm. The specimen is totally submitted in cassette FSB1.\n\nC. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.2 x 0.2 x 0.2 cm.\nTotally submitted in one cassette.\n\nD. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.3 x 0.3 x 0.2 cm.\nTotally submitted in one cassette.\n\nE. Received fresh is a tan-black nodule resembling a lymph node measuring 0.6 x 0.5 x 0.2 cm. Totally\nsubmitted in one cassette.\n\nF. Received in formalin is a tan-black nodule resembling a lymph node measuring 0.4 x 0.3 x 0.2 cm.\nTotally submitted in one cassette.\n\nG. Received in formalin is a specimen labeled \"right upper lobe\" consisting of a single lobe of right lung\nmeasuring 16.5 x 13.0 x 4.6 cm, and weighing 297.0 grams. A bronchial stump is present measuring\n1.0 cm in length with a luminal diameter of 0.8 cm. Numerous anthracotic lymph nodes are identified\nwithin the hilar region. The pleural surface has a tan-pink smooth patchy appearance. A small portion of\nthe pleural surface appears slightly puckered by an underlying mass. Upon multiple cross sections, the\nmass measures 3.7 x 2.9 x 2.8 cm, and is located near the periphery of the specimen. The mass has a\ntan-white lobulated appearance with focal area of hemorrhage. The mass extends to within <0.1 cm of\nthe pleural margin and to within 5.0 cm of both the bronchial and vascular margins. In addition, the\nmass extends within 3.4 cm of the nearest staple line of resection. The pleural margin above the mass\nis inked blue. Located approximately 1.0 cm from the main mass is a smaller ill-defined tan-black mass\nmeasuring 1.2 x 0.8 x 0.7 cm. This mass extends to within 1.5 cm of the pleural margin. In addition, a\nsmall area of possible emphysematous changes are identified. Representative sections are submitted\nas follows: G1 frozen section bronchial margin, G2 additional section of bronchus, G3 vascular margin,\nG4-G5 lymph nodes, G6-G9 section of larger mass in relation to pleural margin, G10 larger mass with\nadjacent lung parenchyma, G11 smaller mass with adjacent normal appearing lung parenchyma and\nsmaller portion of larger mass, G12-G13 remainder of smaller mass, G14 section of uninvolved lung\nparenchyma, G15 area of possible emphysematous changes.\n\nMicroscopic:\n{Not Entered}\n\nPage 4 of 4\n\n[Signature and date section]",
+          "confidence": {
+            "mean_probability": 0.9902022345219407,
+            "mean_log_probability": -0.01467907142857143,
+            "perplexity": 1.0147873381003216,
+            "min_probability": 0.24526132603813622
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 729,
+            "total_tokens": 3201
+          },
+          "composite_score": 0.9390052977341816
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.404158353805542,
+          "chars": 2661,
+          "words": 440,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nGross Description:\nA. Received fresh for frozen section examination labeled \"#1\" are two black-tan soft tissue measuring in\naggregate 0.7 x 0.4 x 0.2 cm. The specimen is totally submitted in cassette FSA1.\n\nB. Received fresh for frozen section examination labeled \"#3\" are multiple red-black soft tissue\nmeasuring in aggregate 0.4 x 0.2 x 0.2 cm. The specimen is totally submitted in cassette FSB1.\n\nC. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.2 x 0.2 x 0.2 cm.\nTotally submitted in one cassette.\n\nD. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.3 x 0.3 x 0.2 cm.\nTotally submitted in one cassette.\n\nE. Received fresh is a tan-black nodule resembling a lymph node measuring 0.6 x 0.5 x 0.2 cm. Totally\nsubmitted in one cassette.\n\nF. Received in formalin is a tan-black nodule resembling a lymph node measuring 0.4 x 0.3 x 0.2 cm.\nTotally submitted in one cassette.\n\nG. Received in formalin is a specimen labeled \"right upper lobe\" consisting of a single lobe of right lung\nmeasuring 16.5 x 13.0 x 4.6 cm, and weighing 297.0 grams. A bronchial stump is present measuring\n1.0 cm in length with a luminal diameter of 0.8 cm. Numerous anthracotic lymph nodes are identified\nwithin the hilar region. The pleural surface has a tan-pink smooth patchy appearance. A small portion of\nthe pleural surface appears slightly puckered by an underlying mass. Upon multiple cross sections, the\nmass measures 3.7 x 2.9 x 2.8 cm, and is located near the periphery of the specimen. The mass has a\ntan-white lobulated appearance with focal area of hemorrhage. The mass extends to within <0.1 cm of\nthe pleural margin and to within 5.0 cm of both the bronchial and vascular margins. In addition, the\nmass extends within 3.4 cm of the nearest staple line of resection. The pleural margin above the mass\nis inked blue. Located approximately 1.0 cm from the main mass is a smaller ill-defined tan-black mass\nmeasuring 1.2 x 0.8 x 0.7 cm. This mass extends to within 1.5 cm of the pleural margin. In addition, a\nsmall area of possible emphysematous changes are identified. Representative sections are submitted\nas follows: G1 frozen section bronchial margin, G2 additional section of bronchus, G3 vascular margin,\nG4-G5 lymph nodes, G6-G9 section of larger mass in relation to pleural margin, G10 larger mass with\nadjacent lung parenchyma, G11 smaller mass with adjacent normal appearing lung parenchyma and\nsmaller portion of larger mass, G12-G13 remainder of smaller mass, G14 section of uninvolved lung\nparenchyma, G15 area of possible emphysematous changes.\n\nMicroscopic:\n{Not Entered}",
+          "confidence": {
+            "mean_probability": 0.996776725713883,
+            "mean_log_probability": -0.0038044517482517482,
+            "perplexity": 1.0038116978610523,
+            "min_probability": 0.45166026855394475
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 716,
+            "total_tokens": 3188
+          },
+          "composite_score": 0.9471195751088416
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

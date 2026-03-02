@@ -69,3 +69,81 @@ TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
 
 PART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY -
 TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+================================================================================
+PAGE 2
+================================================================================
+PART 5: LYMPH NODE, RIGHT PARATRACHEAL, BIOPSY -
+        ONE (1) LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 6: LYMPH NODES, SUBINNOMINATE, BIOPSY -
+        TWO (2) FRAGMENTS OF LYMPH NQDE WITH ANTHRACOTIC PIGMENT.
+
+PART 7: LYMPH NODES, POSTERIOR HILAR, BIOPSY -
+        TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 8: LYMPH NODES, ANTERIOR HILAR, BIOPSY -
+        TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 9: LYMPH NODE, INTRALOBAR LOBE, BIOPSY -
+        ONE (1) LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 10: LYMPH NODES, RIGHT LOWER LOBE / SUPERIOR SEGMENT, BIOPSY -
+        TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 11: LUNG, RIGHT LOWER LOBE SUPERIOR SEGMENT, SUPERIOR SEGMENTECTOMY -
+        A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (2.5 CM IN DIAMETER) ARISING IN A SCAR
+           AND ASSOCITED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MODERATE LYMPHOCYTIC
+           HOST RESPONSE. PATHOLOGIC STAGE: T2N0MX.
+        B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.
+        C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE, CALCIFIED NODULE, AND MULTIPLE CARCINOID
+           TUMORLETS.
+
+PART 12: LUNG, RIGHT UPPER LOBE, WEDGE BIOPSY -
+        LUNG PARENCHYMA WITH MILD EMPHYSEMATOUS CHANGE AND DUST MACULES.
+
+PART 13: LUNG, RIGHT UPPER LOBE, WEDGE BIOPSY -
+        LUNG PARENCHYMA WITH CARCINOID TUMORLET AND MILD EMPHYSEMATOUS CHANGE.
+
+PART 14: LUNG, RIGHT LOWER LOBE, WEDGE BIOPSY -
+        LUNG PARENCHYMA WITH MILD EMPHYSEMATOUS CHANGE.
+
+PART 15: LUNG, RIGHT MIDDLE LOBE, WEDGE BIOPSY -
+        TYPICAL CARCINOID (0.6 CM IN DIAMETER), ASSOCIATED WITH CARCONOID TUMORLETS AND
+        NEUROENDOCRINE CELL HYPERPLASIA. (See comment).
+
+COMMENT:
+This case in addition to invasive moderately differentiated adenocarcinoma demonstrates typical carcinoid in the right
+middle lobe associated with numerous carcinoid tumorlets and diffuse neuroendocrine cell hyperplasia. A primary lung
+origin of carcinoid is confirmed by positive TTF-1 and synaptophysin immunostaining. CDX2 and calcitonin are negative.
+Surgical resection margin of the right middle lobe demonstrates scattered small microscopic foci of neuroendocrine
+cells. However, based on the gross description it seems that margin is negative for tumor and these neuroendocrine
+cells may represent another focus of tumorlet.
+CASE SYNOPSIS:
+        SYNOPTIC DATA - PRIMARY LUNG TUMORS
+        TUMOR LOCATION:               Right Lower Lobe
+        LUNG SEGMENT(S) INVOLVED:    Superior
+        PROCEDURE:                   Segmental
+        TUMOR SIZE:                  Maximum dimension: 2.5 cm
+                                    Minor dimension: 0.9 cm
+        GROSS SATELLITES:            Number of gross satellite lesions: 0
+        TUMOR TYPE:                  Invasive adenocarcinoma, Carcinoid
+        HISTOLOGIC GRADE:            G2, Moderately differentiated
+        MICROSCOPIC SATELLITES:      Number of microscopic satellite lesions: 0
+        EXTRAPULMONARY PARENCHYMAL
+        EXTENSION/INVASION OF TUMOR: Visceral pleura
+        ANGIOLYMPHATIC INVASION:     Yes
+        TUMOR NECROSIS:              < or = to 50%
+        SURGICAL MARGIN INVOLVEMENT: No
+        SURGICAL MARGIN SITE:        Distance of invasive tumor to closest margin: 12 mm, Parenchymal margin
+        INFLAMMATORY(DESMOPLASTIC) REACTION: Moderate
+        N1 LYMPH NODES:              Number of N1 lymph nodes positive: 0
+                                    Number of N1 lymph nodes examined: 7
+        EXTRACAPSULAR SPREAD OF N1 METASTASES: No
+        N2 LYMPH NODES:              Number of N2 lymph nodes positive: 0
+                                    Number of N2 lymph nodes examined: 15
+        UNDERLYING DISEASE(S):       Emphysema, Parenchymal scar, Tumorlets
+        T STAGE, PATHOLOGIC:         pT2
+        N STAGE, PATHOLOGIC:         pN0
+        M STAGE, PATHOLOGIC:         pMX
+        ANCILLARY STUDIES:           Histochemical stains, Immunohistochemical stains, FISH studies, Molecular studies

@@ -1,0 +1,159 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\16e5f5d2-9b00-4cbb-b592-dd4e7bcc4639\TCGA-69-A59K.6EF9E448-6E2D-499D-8EC0-7F03B7A10FC8.PDF
+Processing Date: 2026-03-02 14:59:47
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD-O-3  
+Adenoscarcinoma  
+w/mixed subtypes  
+8255/3  
+Site  B  Lung, upper lobe  
+C34.1  
+JW 1/7/13  
+
+SURGICAL PATHOLOGY REPORT  
+
+Patient Age/Sex          / F  
+
+SPECIMEN SUBMITTED:  
+Part A: #1  
+Part B: #3  
+Part C: R 9  
+Part D: 10 R  
+Part E: 11 R  
+Part F: 12 R  
+Part G: RIGHT UPPER LOBE  
+
+Final Diagnosis  
+1. Lymph node #1, #3, R9, 11R, 12R, excision (A-C, E-F) - Lymph nodes, negative for malignancy.  
+
+2. Lymph node, 10R, excision (D) - Fibrous tissue and adjacent lung, negative for neoplasm..  
+
+3. Right lung, upper lobe, lobectomy (G) Adenocarcinoma, solid predominant (80%) and acinar  
+(20%) large mass; Acinar preominent (80%) and micropapillary (20%) smaller mass.  
+- Centrilobular emphysema.  
+- Three lymph nodes, negative for malignancy (0/3).  
+
+- See comment.  
+
+Page 1 of 4
+
+================================================================================
+PAGE 2
+================================================================================
+SURGICAL PATHOLOGY REPORT
+
+Diagnosis Comment:
+LUNG SYNOPTIC REPORT
+
+SPECIMEN: Lobes of lung right upper
+PROCEDURE: Lobectomy
+SPECIMEN INTEGRITY: Intact
+SPECIMEN LATERALITY: Right
+TUMOR SITE: Upper lobe
+TUMOR SIZE: Greatest dimension 3.7 cm, 2.9 x 2.8 cm and 1.2 cm x 0.8 cm x 0.7cm.
+TUMOR FOCALITY: Separate tumor nodules in same lobe
+HISTOLOGIC TYPE: Adenocarcinoma
+HISTOLOGIC GRADE: NA
+VISCERAL PLEURAL INVASION: No invasion Into visceral pleura by either mass.
+TUMOR EXTENSION: Not identified.
+MARGINS:
+- Bronchial margin: Uninvolved by invasive carcinoma.
+- Vascular Margin: Uninvolved by invasive carcinoma.
+- Parenchymal margin: Uninvolved by invasive carcinoma
+- Parietal pleural margin: NA
+- Chest wall margin: NA
+- Distance of invasive carcinoma from closest margin: 3.4 cm
+-- Specify margin: Parenchymal margin
+TREATMENT EFFECT: Not applicable
+LYMPH-VASCULAR INVASION: Not identified.
+PATHOLOGIC STAGING: Stage IIB
+pT3
+pN0
+Number of lymph nodes examined: 11
+Number of lymph nodes involved: 0
+pM Not applicable.
+
+Additional pathologic findings: Centrilobular emphysema
+
+Ancillary studies: Epidermal growth factor receptor (EGFR) mutational analysis will be performed on both masses and the results reported as an addendum. Immunohistochemical studies reveal diffuse strong positivity to TTF-1 and no staining for p63, supporting the diagnosis of adenocarcinoma (larger mass).
+
+Page 2 of 4
+
+================================================================================
+PAGE 3
+================================================================================
+SURGICAL PATHOLOGY REPORT
+
+Procedure:  EGFR Mutation Analysis Re                                   Status: Signed Out
+Text:           EGFR Mutation Analysis (
+
+
+                     Diagnosis of neoplasm:  No EGFR alteration detected .
+
+                     Genotype result: Wild type
+
+
+                     EGFR Mutation Analysis
+
+                     Diagnosis of neoplasm:  No EGFR alteration detected
+
+                     Genotype result: Wild type
+
+
+
+Intraoperative Diagnosis:
+A. Negative for malignancy
+
+B. Negative for malignancy
+
+G. Bronchial margin negative for malignancy
+
+Clinical Diagnosis:
+LUNG NODULES
+
+
+
+                                                                                                                     Page 3 of 4
+
+================================================================================
+PAGE 4
+================================================================================
+SURGICAL PATHOLOGY REPORT
+
+Gross Description:
+A. Received fresh for frozen section examination labeled "#1" are two black-tan soft tissue measuring in aggregate 0.7 x 0.4 x 0.2 cm. The specimen is totally submitted in cassette FSA1.
+
+B. Received fresh for frozen section examination labeled "#3" are multiple red-black soft tissue measuring in aggregate 0.4 x 0.2 x 0.2 cm. The specimen is totally submitted in cassette FSB1.
+
+C. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.2 x 0.2 x 0.2 cm. Totally submitted in one cassette.
+
+D. Received in formalin is a tan-gray nodule resembling a lymph node measuring 0.3 x 0.3 x 0.2 cm. Totally submitted in one cassette.
+
+E. Received fresh is a tan-black nodule resembling a lymph node measuring 0.6 x 0.5 x 0.2 cm. Totally submitted in one cassette.
+
+F. Received in formalin is a tan-black nodule resembling a lymph node measuring 0.4 x 0.3 x 0.2 cm. Totally submitted in one cassette.
+
+G. Received in formalin is a specimen labeled "right upper lobe" consisting of a single lobe of right lung measuring 16.5 x 13.0 x 4.6 cm, and weighing 297.0 grams. A bronchial stump is present measuring 1.0 cm in length with a luminal diameter of 0.8 cm. Numerous anthracotic lymph nodes are identified within the hilar region. The pleural surface has a tan-pink smooth patchy appearance. A small portion of the pleural surface appears slightly puckered by an underlying mass. Upon multiple cross sections, the mass measures 3.7 x 2.9 x 2.8 cm, and is located near the periphery of the specimen. The mass has a tan-white lobulated appearance with focal area of hemorrhage. The mass extends to within <0.1 cm of the pleural margin and to within 5.0 cm of both the bronchial and vascular margins. In addition, the mass extends within 3.4 cm of the nearest staple line of resection. The pleural margin above the mass is inked blue. Located approximately 1.0 cm from the main mass is a smaller ill-defined tan-black mass measuring 1.2 x 0.8 x 0.7 cm. This mass extends to within 1.5 cm of the pleural margin. In addition, a small area of possible emphysematous changes are identified. Representative sections are submitted as follows: G1 frozen section bronchial margin, G2 additional section of bronchus, G3 vascular margin, G4-G5 lymph nodes, G6-G9 section of larger mass in relation to pleural margin, G10 larger mass with adjacent lung parenchyma, G11 smaller mass with adjacent normal appearing lung parenchyma and smaller portion of larger mass, G12-G13 remainder of smaller mass, G14 section of uninvolved lung parenchyma, G15 area of possible emphysematous changes.
+
+Microscopic:
+{Not Entered}
+
+Page 4 of 4
+
+[Signature and initials section with illegible handwritten text]
+
+Diagnosis Discrepancy  √
+Primary Tumor Site Discrepancy  √
+HIPAA Discrepancy  √
+Prior Malignancy History  √
+Dual/Synchronous Primary  √
+Case is (circle):  QA  ALF  ID  DISQ  AFED
+Reviewer Initials  [illegible]
+Date Reviewed  12/21/17

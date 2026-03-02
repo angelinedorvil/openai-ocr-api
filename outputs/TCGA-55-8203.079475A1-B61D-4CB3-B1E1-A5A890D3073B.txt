@@ -1,0 +1,141 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\485f898b-2c14-434f-9793-228441b61d75\TCGA-55-8203.079475A1-B61D-4CB3-B1E1-A5A890D3073B.PDF
+Processing Date: 2026-03-02 15:18:16
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+SURGICAL PATHOLOGY:
+
+PROCEDURE DATE: RECEIVED DATE: REPORT DATE: 
+
+COPY TO:
+
+IO Consultation
+FS DIAGNOSIS: "Adenocarcinoma (reported to Dr. positive patient ID)" by Dr. 
+
+Pre-Op Diagnosis
+Lung mass
+Post-Op Diagnosis
+Same as above
+Clinical History
+Nothing indicated
+Gross Description:
+Five parts
+
+Container labeled right lung lower lobe wedge"
+has a previously partially sectioned wedge-shaped portion of recognizable pulmonary parenchyma having intact staple lines as the margin of resection. The specimen as received weighs 8.5 grams and measures 6.0 x 4.5 x 1.6 cm. The pleura is slightly wrinkled and gray-tan to brown. Eccentrically noted is a 2.2 x 2.2 cm area of induration and slight umbilication of the pleura. Sectioning beneath this reveals a poorly defined eccentric 2.3 x 2.0 x 1.5 cm nodular lesion with a gritty gray-tan fibrotic cut surface. This grossly extends up to the pleura but not through it. In addition, this extends to within 0.1 cm of the nearest staple line margin; however, this does not grossly appear to be transected at the staple line margin. The remaining parenchyma is spongy mottled tan-brown without additional lesions. A portion submitted for frozen section is reported as "adenocarcinoma (reported to Dr. positive patient ID)" by Dr. Also received in the same container are three tissue cassettes each labeled The frozen residue is submitted labeled A. Representative sections of the remaining tissue to include the entire remaining lesion are submitted labeled B-G.
+
+Container labeled level 7 lymph node" has two
+
+================================================================================
+PAGE 2
+================================================================================
+nodular portions of gray-tan fleshy tissue, 1.1 x 0.5 x 0.2 cm and
+1.4 x 1.0 x 0.3 cm. The specimen is entirely submitted in a single
+cassette.
+
+Container labeled '██████████████ - right lung lower lobe" has a
+178 gram portion of recognizable pulmonary parenchyma grossly
+consistent with right lower lobe. The specimen as received measures
+16.0 x 9.9 x 3.3 cm and has as its margin of resection the
+bifurcation of the tertiary bronchi. Adjacent to the bronchus is a
+1.0 x 0.9 x 0.3 cm gray-black fleshy nodule. The nodule has a fleshy
+mottled gray-black cut surface. The pleura is smooth to slightly
+wrinkled mottled tan-brown with minimal anthracotic streaking. Noted
+on the anterolateral aspect at the basal margin is a Y-shaped staple
+line over an area of 5.2 cm. This is grossly consistent with a
+staple line matching that of the wedge-shaped portion of pulmonary
+parenchyma described in part one of this case. The staple line is
+grossly intact. On sectioning in this region, the parenchyma is
+hemorrhagic and spongy without gross lesions. This area is noted at
+its nearest point 4.0 cm from the nearest bronchial margin. The
+remaining parenchyma is spongy and tan-gray to pink with slight
+congestion; however, no discrete gross lesions are identified.
+Representative sections are submitted labeled as follows: A - shaved
+bronchial margin and bisected peribronchial nodule; B-F - entire
+shaved area of staple line parenchyma; G - remaining uninvolved
+parenchyma.
+
+Container labeled ██████████████ - level 9 lymph node" has a 1.6
+x 0.9 x 0.3 cm elongated portion of focally shaggy rubbery
+gray-brown tissue which is entirely submitted in a single cassette.
+
+Container labeled ██████████████ - level 4 lymph node right
+lung" has a 2.0 x 1.6 x 0.6 cm partially fragmented lobulated
+portion of focally shaggy gray-tan to brown fleshy tissue covered by
+yellow adipose tissue. This is received along with a 1.2 x 1.0 x 0.3
+cm fragment of similar tissue. The larger portion is bisected and
+the specimen entirely submitted in a single cassette.
+
+███████
+
+Microscopic Description:
+The slides labeled ████████ are examined. See diagnosis.
+
+Final Diagnosis
+Right lung, lower lobe (wedge biopsy):
+Tumor characteristics:
+ Procedure: Wedge biopsy.
+ Specimen integrity: Intact.
+ Specimen laterality: Right.
+ Specimen site: Right lower lobe.
+ Tumor size: 2.3 cm in greatest diameter.
+ Tumor focality: Unifocal.
+ Histologic type: Adenocarcinoma with associated fibrosis (see
+ comment).
+  Histologic grade: Moderately differentiated.
+  Visceral pleural invasion: Carcinoma extends up to but not through
+   visceral pleura.
+  Lymphovascular space invasion: Foci highly suspicious for
+   lymphovascular space invasion
+    identified.
+ Surgical margin status:
+ Carcinoma extends to within 1 mm of the staple line on this wedge
+
+██████████
+
+================================================================================
+PAGE 3
+================================================================================
+resection (see comment).
+Other:
+    Emphysematous changes. ████████
+Level 7 lymph node (biopsy):
+Reactive sinus histiocytosis, lymphoid hyperplasia and
+anthracosilicosis, no metastatic
+    carcinoma identified within two lymph nodes (0/2). ██████
+Right lung, lower lobe (lobectomy):
+    Specimen integrity: Intact, prior wedge biopsy resection noted (see
+comment).
+    Specimen laterality: Right.
+    Specimen site: Lower lobe.
+    Tumor characteristics: No residual carcinoma identified within
+lobectomy specimen, see
+    above diagnosis on wedge biopsy.
+    Bronchial margin: No carcinoma identified.
+    Three peribronchial lymph nodes demonstrating reactive sinus
+histiocytosis, mild lymphoid
+    hyperplasia, and anthracosilicosis, no metastatic carcinoma
+identified (0/3).
+    Area of staple line, prior wedge biopsy, demonstrating recent
+hemorrhage consistent with
+    surgery, no residual carcinoma identified. ██████
+    Emphysematous changes. ██████
+Level 9 lymph node, right lung, specimen four (biopsy):
+Reactive sinus histiocytosis, lymphoid hyperplasia and
+anthracosilicosis, no metastatic
+    carcinoma identified within one lymph node (0/1). ██████
+Level 4 lymph node, right lung, specimen five (biopsy):
+Fragmented lymph nodes demonstrating reactive sinus histiocytosis,
+lymphoid hyperplasia,
+and anthracosilicosis, no metastatic carcinoma identified (see
+comment). ██████ ██████
+
+pTN stage: pT1b N0
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
