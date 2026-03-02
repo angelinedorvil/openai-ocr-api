@@ -1,0 +1,251 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\568a3dab-2df1-4ed1-b51e-8c01c49d66b1\TCGA-J1-A4AH.27031EAD-6E93-4973-869E-EFE13B7F899A.PDF
+Processing Date: 2026-03-02 13:37:26
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 6
+
+UUID:27031EAD-6E93-4973-869E-EFE13B7F899A
+TCGA-J1-A4AH-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 6
+
+
+F. STATION #9-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+G. STATION 11 NODE #1-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+H. STATION 11 NODE #2-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+I. STATION 7 #2-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+J. STATION 5 #2-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+K. STATION 5 #3-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+L. STATION 10-
+NO CARCINOMA SEEN IN TWO LYMPH NODES (0/2).
+M. STATION 5 #1-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+N. PERI-AORTIC NODE-
+NO CARCINOMA SEEN IN ONE LYMPH NODE (0/1).
+O. BRONCHIAL MARGIN FS-
+SEE PART P FOR DIAGNOSIS.
+P. LEFT LUNG NFS-
+INVASIVE CARCINOMA.
+
+HISTOLOGIC TYPE: SQUAMOUS.
+
+HISTOLOGIC GRADE: 2-3/3.
+
+TUMOR FOCALITY: UNIFOCAL.
+
+TUMOR SIZE: 6 CM.
+
+TUMOR SITE: LEFT LOWER LOBE.
+
+TREATMENT EFFECT: NOT SEEN.
+
+VISCERAL PLEURA INVASION: NOT PRESENT.
+
+ATELECTASIS/OBSTRUCTIVE PNEUMONITIS EXTENDING TO HILUM: NOT
+SEEN.
+
+LYMPHATIC (SMALL VESSEL) INVASION: RARE SUSPICIOUS FOCI SEEN.
+
+LARGE VESSEL INVASION: NOT SEEN.
+
+0 OF 7 PERIBRONCHIAL NODES ARE POSITIVE FOR METASTATIC TUMOR.
+
+LYMPH NODE(S) INCLUDED IN ALL PARTS: NUMBER INVOLVED : 0
+NUMBER EXAMINED: 22
+
+
+Prepared for
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 6
+
+TNM STAGE: pT2b, pN0, pMX.
+
+SPECIMEN TYPE: LEFT PNEUMONECTOMY.
+
+SPECIMEN SIZE: 21 X 13 X 7 CM.
+
+NO TUMOR SEEN AT RESECTION MARGINS.
+
+Signed Others
+
+Case Clinical Information
+LEFT LOWER LUNG CA
+
+Gross Description
+A. Received in formalin labeled with the patient's name and
+"4R#1" are three focally anthracotic yellow tissues measuring up
+to 3 mm each. Totally submitted in A1.
+B. Received in formalin labeled with the patient's name and
+"4R#2" are four fatty tissues measuring up to 3 mm in greatest
+dimension each. Entirely submitted in B1.
+C. Received in formalin labeled with the patient's name and
+"4R#3" are two focally anthracotic and yellow/tan tissues
+measuring up to 5 mm in greatest dimension each. Submitted
+totally in C1.
+D. Received in formalin labeled with the patient's name and "4L
+nodes-FS" is a focally anthracotic yellow/tan tissue measuring 5
+mm in greatest dimension. Submitted totally in D1.
+E. Received in formalin labeled with the patient's name and
+"station 7 nodes-FS" are
+10 fragments of focally anthracotic
+yellow/tan tissue measuring 1 x 1 x 1 cm in compact aggregate.
+All material is submitted wrapped in E1.
+F. Received in formalin labeled with the patient's name and
+"station #9" is focally anthracotic yellow/tan tissue measuring
+7 mm in greater dimension. Submitted totally in F1.
+G. Received in formalin labeled with the patient's name and
+"station 11, node #1" is an anthracotic, moderately firm tissue
+measuring 8 x 7 x 6 mm. Submitted totally in G1.
+H. Received in formalin labeled with the patient's name and
+"station 11, node #2" is a focally anthracotic yellow/tan tissue
+measuring 6 mm in greatest dimension. Submitted totally in H1.
+
+Prepared for
+
+================================================================================
+PAGE 4
+================================================================================
+r. Received in formalin labeled with the patient's name and
+"station 7, #2" is focally anthracotic yellow/tan tissue
+measuring 12 x 6 x 5 mm. Submitted totally, bisected in 11.
+
+J. Received in formalin labeled with the patient's name and
+"station 5, #2" is a focally anthracotic yellow/tan tissue
+measuring 4 mm in greatest dimension. Submitted totally in J1.
+
+K. Received in formalin labeled with the patient's name and
+"station 5, #3" is a focally anthracotic yellow/tan tissue
+measuring 12 x 6 x 4 mm. Submitted totally in K1.
+L. Received in formalin labeled with the patient's name and
+"station 10" is a yellow/tan tissue measuring 9 x 5 x 3 mm.
+Submitted totally in L1.
+M. Received in formalin labeled with the patient's name and
+"station 5, lymph node 1" is a focally anthracotic yellow/tan
+tissue measuring 1.5 x 0.8 x 0.6 cm in greatest dimensions.
+Submitted totally in M1.
+N. Received in formalin labeled with the patient's name and
+"peri-aortic" are two focally anthracotic yellow/tan tissues.
+Each measures up to 3 mm in greatest dimensions. Submitted
+totally in N1.
+O. Received in formalin labeled with the patient's name and
+"bronchial margin-FS" is a ring of cartilage and soft tissue
+measuring 2 x 2 x 0.3 cm thick. Submitted totally in 01.
+
+P. Received in formalin labeled with the patient's name and
+"left lung" is a pneumonectomy specimen weighing 425 grams and
+measuring 21 x 13 x 7 cm in greatest dimensions. The hilar
+aspect is inked black at this time. The pleural aspect has been
+previously dissected over an area of tumor measuring 6 x 6 x 5
+cm in greatest dimensions. The tumor extends to within 5 mm of
+the current inked bronchial margin (not true margin, which is
+sampled by frozen section). The section code is as follows:
+P1-P6=extensive sampling of hilar margin perpendicular to inked
+surface (parallel to airways and vascular structures) to include
+scattered areas of anthracosis consistent with lymph nodes;
+P7=indurated lung distal to tumor; P8-P11=extensive sampling of
+tumor which appears friable, white and focally necrotic; and
+P12=representative section of grossly uninvolved lung.
+
+Procedure
+A. AA ROUTINE H&E X1 BLOCK
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK
+
+================================================================================
+PAGE 5
+================================================================================
+Page 5 of 6
+
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK
+H&E X1
+D. AA ROUTINE H&E X1 BLOCK
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK
+H&E X1
+G. AA ROUTINE H&E X1 BLOCK
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK
+H&E X1
+I. AA ROUTINE H&E X1 BLOCK
+H&E X1
+J. AA ROUTINE H&E X1 BLOCK
+H&E X1
+K. AA ROUTINE H&E X1 BLOCK
+H&E X1 A RECUTS
+L. AA ROUTINE H&E X1 BLOCK
+H&E X1
+M. AA ROUTINE H&E X1 BLOCK
+H&E X1
+N. AA ROUTINE H&E X1 BLOCK
+H&E X1
+O. AA ROUTINE H&E X1 BLOCK
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.2
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.3
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.4
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.5
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.6
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.7
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.8
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.9
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.10
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.11
+
+Prepa
+
+================================================================================
+PAGE 6
+================================================================================
+Page 6 of 6
+
+
+H&E X1
+P. AA ROUTINE H&E X1 BLOCK.12
+H&E X1
+
+
+Prepared fo
+
+
+Criteria  | Yes | No
+Diagnosis Discrepancy |  | ✓
+Primary Tumor Site Discrepancy |  | ✓
+HIPAA Discrepancy |  | ✓
+Prior Malignancy History |  | ✓
+Dual/Synchronous Primary | Yes | 
+Case is (circle): QUALIFIED | DISQUALIFIED
+Reviewer Initial: Mc | Date Reviewed: 8-12-12

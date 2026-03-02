@@ -1,0 +1,137 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\062b4e71-bc95-44a6-a4aa-d43a16e3578a\TCGA-56-7221.9C136F18-C53C-45F8-B20F-850086EE0F55.PDF
+Processing Date: 2026-03-02 14:38:49
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+COPY TO: 
+
+Pre-Op Diagnosis
+Right lung cancer
+Post-Op Diagnosis
+Same
+Clinical History
+Nothing indicated on requisition
+Gross Description:
+Six parts
+
+Container labeled " 1 - level 9 lymph node" are two nodular portions of gray tan to black tissue from 1.0 x 0.5 x 0.3 cm and 1.1 x 0.6 x 0.3 cm. The specimen is entirely submitted in a single cassette.
+
+Container labeled " 2 - level 7 lymph node" are 1.2 x 1.0 x 0.4 cm of gray yellow to brown black fleshy and fatty tissue fragments entirely submitted in a single cassette.
+
+Container labeled " 3 - level 10 lymph node" are three irregular fragments of soft fleshy gray black tissue from 0.6 x 0.2 x 0.2 cm to 0.6 x 0.4 x 0.3 cm. The specimen is entirely submitted in a single cassette.
+
+Container labeled " 4 - right lung lower lobe" is a previously partially inked partially sectioned portion of recognizable pulmonary parenchyma grossly consistent with right lower lobe. The specimen as received weighs 180 grams and measures 13.8 x 8.2 x 5.1 cm. The margin of resection is bifurcation of the tertiary bronchi. This is surrounded by a few mottled fleshy gray brown to black nodules up to 1.1 cm in greatest dimension. The pleura is wrinkled and gray tan. Noted on the anterior aspect near the base is a previously inked portion of pleura with moderate
+
+================================================================================
+PAGE 2
+================================================================================
+anthracotic streaking. This is previously sectioned to reveal an
+underlying 3.5 x 3.3 x 2.6 cm lobulated nodular fibrotic lesion with
+a markedly necrotic gray tan cut surface. The lesion is seen at its
+nearest point 0.2 cm from the anterior inked pleura, 0.2 cm from the
+medial pleura, and 0.1 cm from the basal pleura. The lesion does
+not grossly appear to extend through the pleura in any of these
+areas. The lesion is noted at its nearest point 4.3 cm from the
+nearest bronchial margin. A bronchial connection is grossly
+identified. The remaining parenchyma is spongy and tan pink with
+moderate anthracotic streaking. No additional gross lesions are
+identified. Also received in the same container are two tissue
+cassettes each labeled '█████████' Representative sections are
+submitted labeled as follows: A - shaved bronchial margin and
+peribronchial nodules, B - lesion to anterior pleura, C - lesion to
+medial pleura, D - lesion to basal pleura, E - lesion with bronchial
+connection, F - representative lesion, G - random uninvolved
+parenchyma.
+
+Container labeled "█████████ 5 - level 8 lymph node" are 2.9 x
+2.1 x 1.5 cm of fragmented lobulated fleshy gray black tissue
+fragments which are sectioned and entirely submitted in four
+cassettes.
+
+Container labeled "█████████ 6 - level 4 lymph node" are 2.1 x
+1.6 x 0.7 cm of gray yellow fleshy and fatty tissue fragments which
+are entirely submitted in a single cassette.
+
+███████
+Microscopic Description:
+The slides labeled ███████ are examined. See diagnosis.
+
+Final Diagnosis
+Lymph node, level 9 (biopsy):
+Anthrasilicosis and mild reactive sinus histiocytosis, no
+    metastatic carcinoma identified within one (0/1) lymph node. PAS
+    4
+Lymph node, level 7 (biopsy):
+Anthrasilicosis and mild reactive sinus histiocytosis, no
+    metastatic carcinoma identified within four (0/4) lymph nodes.
+    PAS 4
+Lymph node, level 10 (biopsy):
+Anthrasilicosis and mild reactive lymphoid hyperplasia, no
+    metastatic carcinoma identified within three (0/3) lymph nodes.
+    PAS 4
+Lung, right lower lobe (lobectomy):
+Tumor characteristics:
+Histologic type: Large cell carcinoma consistent with squamous
+    cell carcinoma with areas of necrosis (see comment).
+Location of tumor: Right lower lobe near base.
+Size: 3.5 x 3.3 x 2.6 cm in greatest dimension.
+Grade: Poorly differentiated.
+Pleural invasion: Not identified.
+Lymphovascular space invasion: Yes.
+Surgical margin status:
+Tumor distance from bronchial margin: 4.3 cm.
+Tumor distance from parenchymal (stapled) margin: Not
+    applicable.
+Tumor distance from pleural surface: Less than 1 mm (see
+    comment).
+Lymph node status: █████████
+
+================================================================================
+PAGE 3
+================================================================================
+Total number of bronchial lymph nodes examined: 3
+Total number of lymph nodes containing metastatic carcinoma: 0
+    (0/3)
+See above and below diagnoses for remaining lymph nodes. PAS 9
+Other findings:
+    Area of subpleural fibrosis. PAS 4
+    Emphysematous changes. PAS 4
+Lymph node, level 8 (biopsy):
+Multiple fragments of lymph nodes demonstrating anthrasilicosis,
+    reactive sinus histiocytosis, no metastatic carcinoma
+    identified (see comment).
+Lymph nodes demonstrating granulomas (see comment). PAS 6
+Lymph node, level 4 (biopsy):
+Anthrasilicosis and reactive sinus histiocytosis, no metastatic
+carcinoma identified within two (0/2) lymph nodes. PAS 4 SPC-A
+
+CPT: 88309, 88305 x5, 88312 x2 (███████)
+
+Stage: pT2N0
+
+Comments
+Sections show a poorly differentiated large cell carcinoma with
+squamous differentiation (poorly differentiated squamous cell
+carcinoma). This extends to within less than 1 mm of the pleural
+surface, but does not invade the pleura. A focus of lymphovascular
+space invasion is identified. Lymph nodes from level 8 were
+received multiply fragmented and it is impossible to ascertain an
+accurate node count. No metastatic carcinoma is identified.
+Occasional granulomas are present from the level 8 lymph nodes,
+specimen #5. An acid fast and GMS stain are performed which
+demonstrate no acid fast bacilli (with appropriate positive
+control). No fungal organisms are identified (with appropriate
+positive control). Clinical correlation and follow up is
+recommended.
+
+At the request of the undersigned pathologist, these slides have
+been additionally reviewed by Dr. ████ who concurs with the
+diagnosis.
+
+This test has been finalized at the ████████ Campus.

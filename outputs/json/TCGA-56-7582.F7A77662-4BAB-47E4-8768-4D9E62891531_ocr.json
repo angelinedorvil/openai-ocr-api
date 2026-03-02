@@ -1,0 +1,455 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\050481d5-8955-496d-ba0c-323f0e6843fe\\TCGA-56-7582.F7A77662-4BAB-47E4-8768-4D9E62891531.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.5866780281066895,
+        "chars": 856,
+        "words": 112,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - I.) RIGHT LOWER LOBE, LYMPH NODES (N11R, N11R-2, N9R, N7,\nN11R-3, N11R-4, N4R, N10R), LOBECTOMY AND LYMPH NODE BIOPSIES:\n    - Squamous cell carcinoma, moderately differentiated.\n        - Tumor size: 3.3 cm.\n    - Twenty-five lymph nodes, no tumor seen (0/25).\n    - Surgical margins negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS:\n    Type and grade: Squamous cell carcinoma, moderately differentiated.\n    Primary tumor: pT2a.\n    Regional lymph nodes: pN0 (0/25).\n    Distant metastasis: pMX.\n    Pathologic stage: IB.\n    Lymphovascular invasion: Not identified.\n    Perineural invasion: Not identified.\n    Margin status: R0, negative.\n\nLung Tumor Staging Information\nData derived from current specimen. Staging in accordance with or modified from AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol",
+        "confidence": {
+          "mean_probability": 0.9850922183865432,
+          "mean_log_probability": -0.02236524096385542,
+          "perplexity": 1.0226172179680273,
+          "min_probability": 0.18826193774437266
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 250,
+          "total_tokens": 2722
+        },
+        "composite_score": 0.8680992164696288,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.5866780281066895,
+          "chars": 856,
+          "words": 112,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - I.) RIGHT LOWER LOBE, LYMPH NODES (N11R, N11R-2, N9R, N7,\nN11R-3, N11R-4, N4R, N10R), LOBECTOMY AND LYMPH NODE BIOPSIES:\n    - Squamous cell carcinoma, moderately differentiated.\n        - Tumor size: 3.3 cm.\n    - Twenty-five lymph nodes, no tumor seen (0/25).\n    - Surgical margins negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS:\n    Type and grade: Squamous cell carcinoma, moderately differentiated.\n    Primary tumor: pT2a.\n    Regional lymph nodes: pN0 (0/25).\n    Distant metastasis: pMX.\n    Pathologic stage: IB.\n    Lymphovascular invasion: Not identified.\n    Perineural invasion: Not identified.\n    Margin status: R0, negative.\n\nLung Tumor Staging Information\nData derived from current specimen. Staging in accordance with or modified from AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol",
+          "confidence": {
+            "mean_probability": 0.9850922183865432,
+            "mean_log_probability": -0.02236524096385542,
+            "perplexity": 1.0226172179680273,
+            "min_probability": 0.18826193774437266
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 250,
+            "total_tokens": 2722
+          },
+          "composite_score": 0.8680992164696288,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.82262396812439,
+          "chars": 850,
+          "words": 112,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - I.) RIGHT LOWER LOBE, LYMPH NODES (N11R, N11R-2, N9R, N7, N11R-3, N11R-4, N4R, N10R), LOBECTOMY AND LYMPH NODE BIOPSIES:\n   - Squamous cell carcinoma, moderately differentiated.\n   - Tumor size: 3.3 cm.\n- Twenty-five lymph nodes, no tumor seen (0/25).\n- Surgical margins negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS:\n     Type and grade: Squamous cell carcinoma, moderately differentiated.\n     Primary tumor: pT2a.\n     Regional lymph nodes: pN0 (0/25).\n     Distant metastasis: pMX.\n     Pathologic stage: IB.\n     Lymphovascular invasion: Not identified.\n     Perineural invasion: Not identified.\n     Margin status: R0, negative.\n\nLung Tumor Staging Information\nData derived from current specimen. Staging in accordance with or modified from AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol",
+          "confidence": {
+            "mean_probability": 0.9818373136262636,
+            "mean_log_probability": -0.028884615384615384,
+            "perplexity": 1.0293058215666449,
+            "min_probability": 0.14677242808888913
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 248,
+            "total_tokens": 2720
+          },
+          "composite_score": 0.819413975178498
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.072157859802246,
+          "chars": 804,
+          "words": 112,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - I.) RIGHT LOWER LOBE, LYMPH NODES (N11R, N11R-2, N9R, N7,\nN11R-3, N11R-4, N4R, N10R), LOBECTOMY AND LYMPH NODE BIOPSIES:\n- Squamous cell carcinoma, moderately differentiated.\n- Tumor size: 3.3 cm.\n- Twenty-five lymph nodes, no tumor seen (0/25).\n- Surgical margins negative.\n\nPATHOLOGIC TUMOR STAGING SYNOPSIS:\nType and grade: Squamous cell carcinoma, moderately differentiated.\nPrimary tumor: pT2a.\nRegional lymph nodes: pN0 (0/25).\nDistant metastasis: pMX.\nPathologic stage: IB.\nLymphovascular invasion: Not identified.\nPerineural invasion: Not identified.\nMargin status: R0, negative.\n\nLung Tumor Staging Information\nData derived from current specimen. Staging in accordance with or modified from AJCC Cancer Staging\nHandbook, 7th Ed, and CAP protocol",
+          "confidence": {
+            "mean_probability": 0.987277769204167,
+            "mean_log_probability": -0.01859739748953975,
+            "perplexity": 1.0187714061149316,
+            "min_probability": 0.17466070772315131
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 240,
+            "total_tokens": 2712
+          },
+          "composite_score": 0.8225040347492687
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.895732164382935,
+        "chars": 1225,
+        "words": 160,
+        "text": "Procedure:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen type:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact specimen.\n\nTumor Features:\n\tTumor site:\tRight lower lobe.\n\tTumor size:\t3.3 cm.\n\tTumor focality:\tSingle focus.\n\tHistologic type:\tInvasive squamous cell carcinoma.\n\tHistologic grade:\tGrade 2.\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tNot identified.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-three lymph nodes, no tumor seen\n\t\t(0/25).\n\nMargin Evaluation:\n\tDistance to closest margin:\tBronchial margin at 0.7 cm. .\n\tBronchial margin:\t0.7 cm from tumor.\n\tVascular margin:\tGreater than 1 cm.\n\tParenchymal margin:\tGreater than 1 cm.\n\tParietal pleural margin:\tNegative, 0.3 cm.\n\tChest wall margin:\tN/A.\n\tOther margins:\tN/A.\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tpT2a.\n\tRegional lymph nodes (pN):\tpN0 (0/25).\n\tDistant metastasis (pM):\tpMX.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tIB.\n\nAdditional pathologic findings:\tUninvolved lung with organizing pneumonia.\n\nComment:\tN/A.",
+        "confidence": {
+          "mean_probability": 0.9900846869410816,
+          "mean_log_probability": -0.013048545197740112,
+          "perplexity": 1.0131340489587781,
+          "min_probability": 0.26222876692444236
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 355,
+          "total_tokens": 2827
+        },
+        "composite_score": 0.9121956209969638,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.895732164382935,
+          "chars": 1225,
+          "words": 160,
+          "text": "Procedure:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen type:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact specimen.\n\nTumor Features:\n\tTumor site:\tRight lower lobe.\n\tTumor size:\t3.3 cm.\n\tTumor focality:\tSingle focus.\n\tHistologic type:\tInvasive squamous cell carcinoma.\n\tHistologic grade:\tGrade 2.\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tNot identified.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-three lymph nodes, no tumor seen\n\t\t(0/25).\n\nMargin Evaluation:\n\tDistance to closest margin:\tBronchial margin at 0.7 cm. .\n\tBronchial margin:\t0.7 cm from tumor.\n\tVascular margin:\tGreater than 1 cm.\n\tParenchymal margin:\tGreater than 1 cm.\n\tParietal pleural margin:\tNegative, 0.3 cm.\n\tChest wall margin:\tN/A.\n\tOther margins:\tN/A.\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tpT2a.\n\tRegional lymph nodes (pN):\tpN0 (0/25).\n\tDistant metastasis (pM):\tpMX.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tIB.\n\nAdditional pathologic findings:\tUninvolved lung with organizing pneumonia.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.9900846869410816,
+            "mean_log_probability": -0.013048545197740112,
+            "perplexity": 1.0131340489587781,
+            "min_probability": 0.26222876692444236
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 355,
+            "total_tokens": 2827
+          },
+          "composite_score": 0.9121956209969638,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.046597003936768,
+          "chars": 1225,
+          "words": 160,
+          "text": "Procedure:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen type:\tRight lobectomy and regional lymph node\n\t\tdissection.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact specimen.\n\nTumor Features:\n\tTumor site:\tRight lower lobe.\n\tTumor size:\t3.3 cm.\n\tTumor focality:\tSingle focus.\n\tHistologic type:\tInvasive squamous cell carcinoma.\n\tHistologic grade:\tGrade 2.\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tNot identified.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-three lymph nodes, no tumor seen\n\t\t(0/25).\n\nMargin Evaluation:\n\tDistance to closest margin:\tBronchial margin at 0.7 cm. ·\n\tBronchial margin:\t0.7 cm from tumor.\n\tVascular margin:\tGreater than 1 cm.\n\tParenchymal margin:\tGreater than 1 cm.\n\tParietal pleural margin:\tNegative, 0.3 cm.\n\tChest wall margin:\tN/A.\n\tOther margins:\tN/A.\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tpT2a.\n\tRegional lymph nodes (pN):\tpN0 (0/25).\n\tDistant metastasis (pM):\tpMX.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tIB.\n\nAdditional pathologic findings:\tUninvolved lung with organizing pneumonia.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.989552223188695,
+            "mean_log_probability": -0.014205757746478871,
+            "perplexity": 1.0143071390201466,
+            "min_probability": 0.19695736401253827
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 356,
+            "total_tokens": 2828
+          },
+          "composite_score": 0.8657298465832882
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.113474369049072,
+          "chars": 1228,
+          "words": 160,
+          "text": "Procedure:\tRight lobectomy and regional lymph node \n\t\tdissection.\nSpecimen type:\tRight lobectomy and regional lymph node \n\t\tdissection.\nSpecimen laterality:\tRight.\nSpecimen integrity:\tIntact specimen.\n\nTumor Features:\n\tTumor site:\tRight lower lobe.\n\tTumor size:\t3.3 cm.\n\tTumor focality:\tSingle focus.\n\tHistologic type:\tInvasive squamous cell carcinoma.\n\tHistologic grade:\tGrade 2.\n\tLymphovascular invasion:\tNot identified.\n\tPerineural invasion:\tNot identified.\n\tVisceral pleural invasion:\tNot identified.\n\tTumor extension into extra-pulmonary structures:\tNot identified.\n\tTreatment effect:\tN/A.\n\nLymph Nodes:\tTwenty-three lymph nodes, no tumor seen \n\t\t(0/25).\n\nMargin Evaluation:\n\tDistance to closest margin:\tBronchial margin at 0.7 cm. .\n\tBronchial margin:\t0.7 cm from tumor.\n\tVascular margin:\tGreater than 1 cm.\n\tParenchymal margin:\tGreater than 1 cm.\n\tParietal pleural margin:\tNegative, 0.3 cm.\n\tChest wall margin:\tN/A.\n\tOther margins:\tN/A.\n\nPathologic tumor staging descriptors:\n\tPrimary tumor (pT):\tpT2a.\n\tRegional lymph nodes (pN):\tpN0 (0/25).\n\tDistant metastasis (pM):\tpMX.\n\tMargin status (R):\tR0, negative.\n\tPathologic stage:\tIB.\n\nAdditional pathologic findings:\tUninvolved lung with organizing pneumonia.\n\nComment:\tN/A.",
+          "confidence": {
+            "mean_probability": 0.9858507177051735,
+            "mean_log_probability": -0.019393237288135596,
+            "perplexity": 1.019582507656223,
+            "min_probability": 0.18502006506025265
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 355,
+            "total_tokens": 2827
+          },
+          "composite_score": 0.8622015360825893
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.576006174087524,
+        "chars": 1244,
+        "words": 197,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N11R\nB. N11R-2\nC. N9R\nD. N7\nE. N11R-3\nF. N11R-4\nG. Right Lower Lobe\nH. N4R\nI. N10R\n\nClinical History/Operative Dx:\nSquamous cell carcinoma.\n\nIntraoperative Diagnosis:\nA. FS1) Right lower lobe, lobectomy:\n- Bronchial margin negative\n\nReported to at on . Frozen section performed at .\nG. Right lower lobe (FS1): Right lower lobe, lobectomy: Bronchial margin negative\nThe intraoperative interpretation(s) was/were performed and rendered at\n\nGross Description:\nA. Part A is designated as N11R. Received in formalin is a purple-tan lymph node candidate, 1.5 x 0.8 x 0.6 cm. Sectioning demonstrates a speckled dark gray anthracotic pigmentation. The specimen is entirely submitted for microscopic evaluation in A1\n\nB. Part B is designated N11R - 2. Received in formalin are multiple tattered, deep red to dark and gray fragments of soft tissue, measuring in aggregate 2.5 x 2.3 x 0.8 cm. Sectioning the larger fragment demonstrates a 0.8 x 0.5 x 0.4 cm calcified nodule. The larger fragments of lymph node tissue are sectioned and the soft tissue is entirely submitted for microscopic evaluation in B1. The calcified nodule/granuloma candidate is submitted in B2 following brief overnight decal",
+        "confidence": {
+          "mean_probability": 0.9857208188514567,
+          "mean_log_probability": -0.018191620000000002,
+          "perplexity": 1.018358095473092,
+          "min_probability": 0.4205306133331262
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 351,
+          "total_tokens": 2823
+        },
+        "composite_score": 0.91010672188404,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.576006174087524,
+          "chars": 1244,
+          "words": 197,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N11R\nB. N11R-2\nC. N9R\nD. N7\nE. N11R-3\nF. N11R-4\nG. Right Lower Lobe\nH. N4R\nI. N10R\n\nClinical History/Operative Dx:\nSquamous cell carcinoma.\n\nIntraoperative Diagnosis:\nA. FS1) Right lower lobe, lobectomy:\n- Bronchial margin negative\n\nReported to at on . Frozen section performed at .\nG. Right lower lobe (FS1): Right lower lobe, lobectomy: Bronchial margin negative\nThe intraoperative interpretation(s) was/were performed and rendered at\n\nGross Description:\nA. Part A is designated as N11R. Received in formalin is a purple-tan lymph node candidate, 1.5 x 0.8 x 0.6 cm. Sectioning demonstrates a speckled dark gray anthracotic pigmentation. The specimen is entirely submitted for microscopic evaluation in A1\n\nB. Part B is designated N11R - 2. Received in formalin are multiple tattered, deep red to dark and gray fragments of soft tissue, measuring in aggregate 2.5 x 2.3 x 0.8 cm. Sectioning the larger fragment demonstrates a 0.8 x 0.5 x 0.4 cm calcified nodule. The larger fragments of lymph node tissue are sectioned and the soft tissue is entirely submitted for microscopic evaluation in B1. The calcified nodule/granuloma candidate is submitted in B2 following brief overnight decal",
+          "confidence": {
+            "mean_probability": 0.9857208188514567,
+            "mean_log_probability": -0.018191620000000002,
+            "perplexity": 1.018358095473092,
+            "min_probability": 0.4205306133331262
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 351,
+            "total_tokens": 2823
+          },
+          "composite_score": 0.91010672188404,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.072226762771606,
+          "chars": 1245,
+          "words": 197,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\n\nSource of Specimen:\nA. N11R\nB. N11R-2\nC. N9R\nD. N7\nE. N11R-3\nF. N11R-4\nG. Right Lower Lobe\nH. N4R\nI. N10R\n\nClinical History/Operative Dx:\nSquamous cell carcinoma.\n\nIntraoperative Diagnosis:\nA. FS1) Right lower lobe, lobectomy:\n- Bronchial margin negative\n\nReported to at on . Frozen section performed at .\nG. Right lower lobe (FS1): Right lower lobe, lobectomy: Bronchial margin negative\nThe intraoperative interpretation(s) was/were performed and rendered at\n\nGross Description:\nA. Part A is designated as N11R. Received in formalin is a purple-tan lymph node candidate, 1.5 x 0.8 x 0.6 cm. Sectioning demonstrates a speckled dark gray anthracotic pigmentation. The specimen is entirely submitted for microscopic evaluation in A1\n\nB. Part B is designated N11R - 2. Received in formalin are multiple tattered, deep red to dark and gray fragments of soft tissue, measuring in aggregate 2.5 x 2.3 x 0.8 cm. Sectioning the larger fragment demonstrates a 0.8 x 0.5 x 0.4 cm calcified nodule. The larger fragments of lymph node tissue are sectioned and the soft tissue is entirely submitted for microscopic evaluation in B1. The calcified nodule/granuloma candidate is submitted in B2 following brief overnight decal",
+          "confidence": {
+            "mean_probability": 0.9833651273527533,
+            "mean_log_probability": -0.02270914285714286,
+            "perplexity": 1.022968958444036,
+            "min_probability": 0.36121244624150917
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 351,
+            "total_tokens": 2823
+          },
+          "composite_score": 0.8613992844635062
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.618627548217773,
+          "chars": 1246,
+          "words": 197,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nSource of Specimen:\nA. N11R\nB. N11R-2\nC. N9R\nD. N7\nE. N11R-3\nF. N11R-4\nG. Right Lower Lobe\nH. N4R\nI. N10R\n\nClinical History/Operative Dx:\nSquamous cell carcinoma.\n\nIntraoperative Diagnosis:\nA. FS1) Right lower lobe, lobectomy:\n- Bronchial margin negative\n\nReported to at on . Frozen section performed at .\nG. Right lower lobe (FS1): Right lower lobe, lobectomy: Bronchial margin negative\nThe intraoperative interpretation(s) was/were performed and rendered at\n\nGross Description:\nA. Part A is designated as N11R. Received in formalin is a purple-tan lymph node candidate, 1.5 x 0.8 x 0.6 cm. Sectioning demonstrates a speckled dark gray anthracotic pigmentation. The specimen is entirely submitted for microscopic evaluation in A1.\n\nB. Part B is designated N11R - 2. Received in formalin are multiple tattered, deep red to dark and gray fragments of soft tissue, measuring in aggregate 2.5 x 2.3 x 0.8 cm. Sectioning the larger fragment demonstrates a 0.8 x 0.5 x 0.4 cm calcified nodule. The larger fragments of lymph node tissue are sectioned and the soft tissue is entirely submitted for microscopic evaluation in B1. The calcified nodule/granuloma candidate is submitted in B2 following brief overnight decal.",
+          "confidence": {
+            "mean_probability": 0.9842850802471602,
+            "mean_log_probability": -0.020191957264957264,
+            "perplexity": 1.0203971938828769,
+            "min_probability": 0.3892743165328284
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 352,
+            "total_tokens": 2824
+          },
+          "composite_score": 0.8633278430685649
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 28.477824687957764,
+        "chars": 3349,
+        "words": 527,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nC. Part C is N9R. Received in formalin is a flimsy lobular fragment of light pink and tan tissue, 2.8 x 1.8 x 0.3 cm. Two lymph node candidates are 0.3 and 0.4 cm each. The tissue is entirely submitted for microscopic evaluation in C1.█████\n\nD. Part D is N7. Received in formalin is a lobular pink and deep red-tan portion of tissue, 3.2 x 2.0 x 1.0 cm. Sectioning demonstrates a large lymph node candidate up to 2.8 cm in greatest dimension, demonstrating a rubbery, light pink to dark and gray cut surface with a central area of calcified change, 1.2 x 0.5 cm. The lymph node is entirely submitted, bisected, in D1 and D2, following brief overnight decal. █████\n\nE. Part E is N11R3. Received in formalin is a tattered light pink, dark and gray lymph node candidate, 1.1 x 0.8 x 0.6 cm. The fragment is bisected and submitted in E1████\n\nF. Part F is N11R4. Received in formalin is a pink and dark and gray lymph node candidate, 0.9 x 0.5 x 0.4 cm. The lymph node is trisected and submitted in F1.███\n\nG. Part G is right lower lobe (frozen). Initially received in the fresh state for frozen section analysis and tumor bank studies is a 227 gram lobe of lung, 14.5 x 11.7 x 4.2 cm. The bronchial margin extends out to 0.6 cm and the margins are initially, grossly free of tumor involvement. The pleura is glistening, light tan to congested, deep purple-red, with mild anthracotic pigmentation. A palpable mass near the bronchial stump creates a slightly raised, tense, glistening appearance. The bronchial margin is trimmed, along with two adjacent lymph node candidates, and submitted for frozen section analysis, with the residual frozen tissue submitted for permanent sections. Following closer examination, a bronchial tract is partially obstructed by a protruding tumor mass. The involved bronchial tract is incised, to reveal the obstructing tumor mass penetrating through the wall, within 0.7 cm of the formal bronchial surgical margin. The well-circumscribed, rubbery, light pink-gray tumor mass is centrally necrotic, and is 3.3 x 3.2 x 2.8 cm. The tumor is placed within 0.2 cm of the anterior-medial pleura. Representative portions of tumor and adjacent lung parenchyma are submitted for tumor bank studies. Sectioning along several of these lobar and segmental ducts, reveals pathways occluded by tenacious and purulent mucin. The inferior periphery demonstrates a dense yellow-gray nodule up to 0.7 x 0.7 x 0.6 cm, grossly consistent with a granuloma (G8). The remaining cut sections of the lung demonstrates congested, spongy to predominantly consolidated lung parenchyma with gross severe fibrotic change along the inferior-anterior periphery. No additional discrete nodularities suspicious for neoplasia are appreciated. Representative sections are submitted.\n\nCassette summary: G1) bronchial margin, two lymph node candidates, frozen section, G2) pulmonary vascular margins submitted, G3-G4) tumor involvement through major bronchial tract and adjacent vascular relationships, two lymph node candidates, G5-G7) tumor, adjacent lymph node tissue and overlying pleura represented, six pieces, G8) grossly uninvolved, fibrotic lung and granular nodule, G9) severely fibrotic lung represented, G10) six intralobar, lobar lymph node candidates, G11) two intralobar, peribronchial lymph node candidates.███",
+        "confidence": {
+          "mean_probability": 0.9953080327260331,
+          "mean_log_probability": -0.006332028202115158,
+          "perplexity": 1.006352117873095,
+          "min_probability": 0.2649590482084873
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 852,
+          "total_tokens": 3324
+        },
+        "composite_score": 0.9949662512771831,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 28.477824687957764,
+          "chars": 3349,
+          "words": 527,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nC. Part C is N9R. Received in formalin is a flimsy lobular fragment of light pink and tan tissue, 2.8 x 1.8 x 0.3 cm. Two lymph node candidates are 0.3 and 0.4 cm each. The tissue is entirely submitted for microscopic evaluation in C1.█████\n\nD. Part D is N7. Received in formalin is a lobular pink and deep red-tan portion of tissue, 3.2 x 2.0 x 1.0 cm. Sectioning demonstrates a large lymph node candidate up to 2.8 cm in greatest dimension, demonstrating a rubbery, light pink to dark and gray cut surface with a central area of calcified change, 1.2 x 0.5 cm. The lymph node is entirely submitted, bisected, in D1 and D2, following brief overnight decal. █████\n\nE. Part E is N11R3. Received in formalin is a tattered light pink, dark and gray lymph node candidate, 1.1 x 0.8 x 0.6 cm. The fragment is bisected and submitted in E1████\n\nF. Part F is N11R4. Received in formalin is a pink and dark and gray lymph node candidate, 0.9 x 0.5 x 0.4 cm. The lymph node is trisected and submitted in F1.███\n\nG. Part G is right lower lobe (frozen). Initially received in the fresh state for frozen section analysis and tumor bank studies is a 227 gram lobe of lung, 14.5 x 11.7 x 4.2 cm. The bronchial margin extends out to 0.6 cm and the margins are initially, grossly free of tumor involvement. The pleura is glistening, light tan to congested, deep purple-red, with mild anthracotic pigmentation. A palpable mass near the bronchial stump creates a slightly raised, tense, glistening appearance. The bronchial margin is trimmed, along with two adjacent lymph node candidates, and submitted for frozen section analysis, with the residual frozen tissue submitted for permanent sections. Following closer examination, a bronchial tract is partially obstructed by a protruding tumor mass. The involved bronchial tract is incised, to reveal the obstructing tumor mass penetrating through the wall, within 0.7 cm of the formal bronchial surgical margin. The well-circumscribed, rubbery, light pink-gray tumor mass is centrally necrotic, and is 3.3 x 3.2 x 2.8 cm. The tumor is placed within 0.2 cm of the anterior-medial pleura. Representative portions of tumor and adjacent lung parenchyma are submitted for tumor bank studies. Sectioning along several of these lobar and segmental ducts, reveals pathways occluded by tenacious and purulent mucin. The inferior periphery demonstrates a dense yellow-gray nodule up to 0.7 x 0.7 x 0.6 cm, grossly consistent with a granuloma (G8). The remaining cut sections of the lung demonstrates congested, spongy to predominantly consolidated lung parenchyma with gross severe fibrotic change along the inferior-anterior periphery. No additional discrete nodularities suspicious for neoplasia are appreciated. Representative sections are submitted.\n\nCassette summary: G1) bronchial margin, two lymph node candidates, frozen section, G2) pulmonary vascular margins submitted, G3-G4) tumor involvement through major bronchial tract and adjacent vascular relationships, two lymph node candidates, G5-G7) tumor, adjacent lymph node tissue and overlying pleura represented, six pieces, G8) grossly uninvolved, fibrotic lung and granular nodule, G9) severely fibrotic lung represented, G10) six intralobar, lobar lymph node candidates, G11) two intralobar, peribronchial lymph node candidates.███",
+          "confidence": {
+            "mean_probability": 0.9953080327260331,
+            "mean_log_probability": -0.006332028202115158,
+            "perplexity": 1.006352117873095,
+            "min_probability": 0.2649590482084873
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 852,
+            "total_tokens": 3324
+          },
+          "composite_score": 0.9949662512771831,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 30.584843635559082,
+          "chars": 3353,
+          "words": 531,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nC. Part C is N9R. Received in formalin is a flimsy lobular fragment of light pink and tan tissue, 2.8 x 1.8 x 0.3 cm. Two lymph node candidates are 0.3 and 0.4 cm each. The tissue is entirely submitted for microscopic evaluation in C1. ████\n\nD. Part D is N7. Received in formalin is a lobular pink and deep red-tan portion of tissue, 3.2 x 2.0 x 1.0 cm. Sectioning demonstrates a large lymph node candidate up to 2.8 cm in greatest dimension, demonstrating a rubbery, light pink to dark and gray cut surface with a central area of calcified change, 1.2 x 0.5 cm. The lymph node is entirely submitted, bisected, in D1 and D2, following brief overnight decal. ████\n\nE. Part E is N11R3. Received in formalin is a tattered light pink, dark and gray lymph node candidate, 1.1 x 0.8 x 0.6 cm. The fragment is bisected and submitted in E1 ████\n\nF. Part F is N11R4. Received in formalin is a pink and dark and gray lymph node candidate, 0.9 x 0.5 x 0.4 cm. The lymph node is trisected and submitted in F1. ████\n\nG. Part G is right lower lobe (frozen). Initially received in the fresh state for frozen section analysis and tumor bank studies is a 227 gram lobe of lung, 14.5 x 11.7 x 4.2 cm. The bronchial margin extends out to 0.6 cm and the margins are initially, grossly free of tumor involvement. The pleura is glistening, light tan to congested, deep purple-red, with mild anthracotic pigmentation. A palpable mass near the bronchial stump creates a slightly raised, tense, glistening appearance. The bronchial margin is trimmed, along with two adjacent lymph node candidates, and submitted for frozen section analysis, with the residual frozen tissue submitted for permanent sections. Following closer examination, a bronchial tract is partially obstructed by a protruding tumor mass. The involved bronchial tract is incised, to reveal the obstructing tumor mass penetrating through the wall, within 0.7 cm of the formal bronchial surgical margin. The well-circumscribed, rubbery, light pink-gray tumor mass is centrally necrotic, and is 3.3 x 3.2 x 2.8 cm. The tumor is placed within 0.2 cm of the anterior-medial pleura. Representative portions of tumor and adjacent lung parenchyma are submitted for tumor bank studies. Sectioning along several of these lobar and segmental ducts, reveals pathways occluded by tenacious and purulent mucin. The inferior periphery demonstrates a dense yellow-gray nodule up to 0.7 x 0.7 x 0.6 cm, grossly consistent with a granuloma (G8). The remaining cut sections of the lung demonstrates congested, spongy to predominantly consolidated lung parenchyma with gross severe fibrotic change along the inferior-anterior periphery. No additional discrete nodularities suspicious for neoplasia are appreciated. Representative sections are submitted.\n\nCassette summary: G1) bronchial margin, two lymph node candidates, frozen section, G2) pulmonary vascular margins submitted, G3-G4) tumor involvement through major bronchial tract and adjacent vascular relationships, two lymph node candidates, G5-G7) tumor, adjacent lymph node tissue and overlying pleura represented, six pieces, G8) grossly uninvolved, fibrotic lung and granular nodule, G9) severely fibrotic lung represented, G10) six intralobar, lobar lymph node candidates, G11) two intralobar, peribronchial lymph node candidates. ████",
+          "confidence": {
+            "mean_probability": 0.9956111037720291,
+            "mean_log_probability": -0.006113676779463244,
+            "perplexity": 1.0061324034448207,
+            "min_probability": 0.2201187732285608
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 858,
+            "total_tokens": 3330
+          },
+          "composite_score": 0.9453818395876844
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 31.628793001174927,
+          "chars": 3349,
+          "words": 527,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nC. Part C is N9R. Received in formalin is a flimsy lobular fragment of light pink and tan tissue, 2.8 x 1.8 x 0.3 cm. Two lymph node candidates are 0.3 and 0.4 cm each. The tissue is entirely submitted for microscopic evaluation in C1.█████\n\nD. Part D is N7. Received in formalin is a lobular pink and deep red-tan portion of tissue, 3.2 x 2.0 x 1.0 cm. Sectioning demonstrates a large lymph node candidate up to 2.8 cm in greatest dimension, demonstrating a rubbery, light pink to dark and gray cut surface with a central area of calcified change, 1.2 x 0.5 cm. The lymph node is entirely submitted, bisected, in D1 and D2, following brief overnight decal. █████\n\nE. Part E is N11R3. Received in formalin is a tattered light pink, dark and gray lymph node candidate, 1.1 x 0.8 x 0.6 cm. The fragment is bisected and submitted in E1████\n\nF. Part F is N11R4. Received in formalin is a pink and dark and gray lymph node candidate, 0.9 x 0.5 x 0.4 cm. The lymph node is trisected and submitted in F1.███\n\nG. Part G is right lower lobe (frozen). Initially received in the fresh state for frozen section analysis and tumor bank studies is a 227 gram lobe of lung, 14.5 x 11.7 x 4.2 cm. The bronchial margin extends out to 0.6 cm and the margins are initially, grossly free of tumor involvement. The pleura is glistening, light tan to congested, deep purple-red, with mild anthracotic pigmentation. A palpable mass near the bronchial stump creates a slightly raised, tense, glistening appearance. The bronchial margin is trimmed, along with two adjacent lymph node candidates, and submitted for frozen section analysis, with the residual frozen tissue submitted for permanent sections. Following closer examination, a bronchial tract is partially obstructed by a protruding tumor mass. The involved bronchial tract is incised, to reveal the obstructing tumor mass penetrating through the wall, within 0.7 cm of the formal bronchial surgical margin. The well-circumscribed, rubbery, light pink-gray tumor mass is centrally necrotic, and is 3.3 x 3.2 x 2.8 cm. The tumor is placed within 0.2 cm of the anterior-medial pleura. Representative portions of tumor and adjacent lung parenchyma are submitted for tumor bank studies. Sectioning along several of these lobar and segmental ducts, reveals pathways occluded by tenacious and purulent mucin. The inferior periphery demonstrates a dense yellow-gray nodule up to 0.7 x 0.7 x 0.6 cm, grossly consistent with a granuloma (G8). The remaining cut sections of the lung demonstrates congested, spongy to predominantly consolidated lung parenchyma with gross severe fibrotic change along the inferior-anterior periphery. No additional discrete nodularities suspicious for neoplasia are appreciated. Representative sections are submitted.\n\nCassette summary: G1) bronchial margin, two lymph node candidates, frozen section, G2) pulmonary vascular margins submitted, G3-G4) tumor involvement through major bronchial tract and adjacent vascular relationships, two lymph node candidates, G5-G7) tumor, adjacent lymph node tissue and overlying pleura represented, six pieces, G8) grossly uninvolved, fibrotic lung and granular nodule, G9) severely fibrotic lung represented, G10) six intralobar, lobar lymph node candidates, G11) two intralobar, peribronchial lymph node candidates.███",
+          "confidence": {
+            "mean_probability": 0.9952430741745265,
+            "mean_log_probability": -0.006549400705052878,
+            "perplexity": 1.0065708949289904,
+            "min_probability": 0.22408922064033032
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 852,
+            "total_tokens": 3324
+          },
+          "composite_score": 0.9450548432770874
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.68238878250122,
+        "chars": 1690,
+        "words": 241,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nH. Part H is N4R. Received in formalin are up to seven intact and partially tattered lymph node candidates, ranging from 0.3 cm to 1.2 cm. The lymph node tissue is entirely submitted for microscopic evaluation.\n\nCassette summary: H1) five lymph node candidates, H2) two lymph node candidates, one lymph node intact (blue), largest fragmented node sectioned. ████\n\nI. Part I is N10R. Received in formalin are three dark and gray-tan lymph node candidates, ranging from 0.4-0.7 cm. The lymph nodes are entirely submitted for microscopic evaluation.\n\nCassette summary: I1) two lymph node candidates, I2) single lymph node, bisected ████\n\nMicroscopic Description:\nA. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nB. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nC. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nD. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nE. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nF. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nG. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nH. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nI. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.",
+        "confidence": {
+          "mean_probability": 0.9950647474621345,
+          "mean_log_probability": -0.005572122448979592,
+          "perplexity": 1.0055876755978705,
+          "min_probability": 0.651139743536107
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 344,
+          "total_tokens": 2816
+        },
+        "composite_score": 0.9645670032415703,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.68238878250122,
+          "chars": 1690,
+          "words": 241,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nH. Part H is N4R. Received in formalin are up to seven intact and partially tattered lymph node candidates, ranging from 0.3 cm to 1.2 cm. The lymph node tissue is entirely submitted for microscopic evaluation.\n\nCassette summary: H1) five lymph node candidates, H2) two lymph node candidates, one lymph node intact (blue), largest fragmented node sectioned. ████\n\nI. Part I is N10R. Received in formalin are three dark and gray-tan lymph node candidates, ranging from 0.4-0.7 cm. The lymph nodes are entirely submitted for microscopic evaluation.\n\nCassette summary: I1) two lymph node candidates, I2) single lymph node, bisected ████\n\nMicroscopic Description:\nA. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nB. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nC. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nD. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nE. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nF. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nG. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nH. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nI. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.",
+          "confidence": {
+            "mean_probability": 0.9950647474621345,
+            "mean_log_probability": -0.005572122448979592,
+            "perplexity": 1.0055876755978705,
+            "min_probability": 0.651139743536107
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 344,
+            "total_tokens": 2816
+          },
+          "composite_score": 0.9645670032415703,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.349702835083008,
+          "chars": 1690,
+          "words": 241,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nH. Part H is N4R. Received in formalin are up to seven intact and partially tattered lymph node candidates, ranging from 0.3 cm to 1.2 cm. The lymph node tissue is entirely submitted for microscopic evaluation.\n\nCassette summary: H1) five lymph node candidates, H2) two lymph node candidates, one lymph node intact (blue), largest fragmented node sectioned. ████\n\nI. Part I is N10R. Received in formalin are three dark and gray-tan lymph node candidates, ranging from 0.4-0.7 cm. The lymph nodes are entirely submitted for microscopic evaluation.\n\nCassette summary: I1) two lymph node candidates, I2) single lymph node, bisected ████\n\nMicroscopic Description:\nA. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nB. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nC. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nD. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nE. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nF. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nG. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nH. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nI. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.",
+          "confidence": {
+            "mean_probability": 0.9934780891991752,
+            "mean_log_probability": -0.007695090379008745,
+            "perplexity": 1.0077247736766826,
+            "min_probability": 0.5787202955977218
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 344,
+            "total_tokens": 2816
+          },
+          "composite_score": 0.9147463906107284
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.19155740737915,
+          "chars": 1690,
+          "words": 241,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nH. Part H is N4R. Received in formalin are up to seven intact and partially tattered lymph node candidates, ranging from 0.3 cm to 1.2 cm. The lymph node tissue is entirely submitted for microscopic evaluation.\n\nCassette summary: H1) five lymph node candidates, H2) two lymph node candidates, one lymph node intact (blue), largest fragmented node sectioned. ████\n\nI. Part I is N10R. Received in formalin are three dark and gray-tan lymph node candidates, ranging from 0.4-0.7 cm. The lymph nodes are entirely submitted for microscopic evaluation.\n\nCassette summary: I1) two lymph node candidates, I2) single lymph node, bisected ████\n\nMicroscopic Description:\nA. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nB. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nC. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nD. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nE. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nF. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nG. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nH. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.\n\nI. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.",
+          "confidence": {
+            "mean_probability": 0.993249769060112,
+            "mean_log_probability": -0.008065661807580175,
+            "perplexity": 1.0080982768862055,
+            "min_probability": 0.5021943915916119
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 344,
+            "total_tokens": 2816
+          },
+          "composite_score": 0.9144691431610029
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

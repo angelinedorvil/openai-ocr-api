@@ -1,0 +1,185 @@
+{
+  "pdf": "input_pdfs\\low_quality\\6dd83238-54df-42f9-9c33-1666e98e8d58\\TCGA-55-7725.E25FFD17-6064-4EEF-ACD4-5E26475CD842.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.329663515090942,
+        "chars": 1383,
+        "words": 198,
+        "text": "DIAGNOSIS:\nA. Lymph nodes, level 11, excision:\n        Negative for malignancy, two nodes (0/2).\nB. Lymph nodes, level 12, excision:\n        Negative for malignancy, two nodes (0/2).\nC. Lung, right lower lobe, lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: I (well-differentiated).\n3. Tumor site: Subpleural.\n4. Tumor focality: Unifocal.\n5. Tumor size: 1.5 x 1.5 x 1.4 cm.\n6. Visceral pleural invasion: No.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Not identified.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 4.3 cm.\n2. Tumor distance from parenchymal (stapled) margin: 3.8 cm.\n3. Tumor distance from pleural surface: 0.2 cm.\n        Lymph Node Status (Includes parts A, B, D and E):\n1. Total number of lymph nodes received: Ten.\n2. Total number of lymph nodes containing metastatic carcinoma: Zero (0/10).\n        Other:\n1. pTNM stage: pT1a, N0.\nD. Lymph nodes, level 8, excision:\n        Negative for malignancy, two nodes (0/2).\nE. Lymph nodes, level 7, excision:\n        Negative for malignancy, two nodes (0/2).\n\nElectronic Signature\n\nCOMMENTS:\nAlthough the malignancy is well-differentiated, it appears to have a distinct tumor stroma, and does not spread along alveolar walls in the fashion of a classic bronchoalveolar carcinoma.",
+        "confidence": {
+          "mean_probability": 0.9848759975742729,
+          "mean_log_probability": -0.020742566416040102,
+          "perplexity": 1.0209591886210927,
+          "min_probability": 0.24043992806304987
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 400,
+          "total_tokens": 2872
+        },
+        "composite_score": 0.9220431555430318,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.329663515090942,
+          "chars": 1383,
+          "words": 198,
+          "text": "DIAGNOSIS:\nA. Lymph nodes, level 11, excision:\n        Negative for malignancy, two nodes (0/2).\nB. Lymph nodes, level 12, excision:\n        Negative for malignancy, two nodes (0/2).\nC. Lung, right lower lobe, lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: I (well-differentiated).\n3. Tumor site: Subpleural.\n4. Tumor focality: Unifocal.\n5. Tumor size: 1.5 x 1.5 x 1.4 cm.\n6. Visceral pleural invasion: No.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Not identified.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 4.3 cm.\n2. Tumor distance from parenchymal (stapled) margin: 3.8 cm.\n3. Tumor distance from pleural surface: 0.2 cm.\n        Lymph Node Status (Includes parts A, B, D and E):\n1. Total number of lymph nodes received: Ten.\n2. Total number of lymph nodes containing metastatic carcinoma: Zero (0/10).\n        Other:\n1. pTNM stage: pT1a, N0.\nD. Lymph nodes, level 8, excision:\n        Negative for malignancy, two nodes (0/2).\nE. Lymph nodes, level 7, excision:\n        Negative for malignancy, two nodes (0/2).\n\nElectronic Signature\n\nCOMMENTS:\nAlthough the malignancy is well-differentiated, it appears to have a distinct tumor stroma, and does not spread along alveolar walls in the fashion of a classic bronchoalveolar carcinoma.",
+          "confidence": {
+            "mean_probability": 0.9848759975742729,
+            "mean_log_probability": -0.020742566416040102,
+            "perplexity": 1.0209591886210927,
+            "min_probability": 0.24043992806304987
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 400,
+            "total_tokens": 2872
+          },
+          "composite_score": 0.9220431555430318,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.409544229507446,
+          "chars": 1375,
+          "words": 198,
+          "text": "DIAGNOSIS:\nA. Lymph nodes, level 11, excision:\n       Negative for malignancy, two nodes (0/2).\nB. Lymph nodes, level 12, excision:\n       Negative for malignancy, two nodes (0/2).\nC. Lung, right lower lobe, lobectomy:\n       Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: I (well-differentiated).\n3. Tumor site: Subpleural.\n4. Tumor focality: Unifocal.\n5. Tumor size: 1.5 x 1.5 x 1.4 cm.\n6. Visceral pleural invasion: No.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Not identified.\n9. Treatment effect: Not identified.\n       Surgical Margin Status:\n1. Tumor distance from bronchial margin: 4.3 cm.\n2. Tumor distance from parenchymal (stapled) margin: 3.8 cm.\n3. Tumor distance from pleural surface: 0.2 cm.\n       Lymph Node Status (Includes parts A, B, D and E):\n1. Total number of lymph nodes received: Ten.\n2. Total number of lymph nodes containing metastatic carcinoma: Zero (0/10).\n       Other:\n1. pTNM stage: pT1a, N0.\nD. Lymph nodes, level 8, excision:\n       Negative for malignancy, two nodes (0/2).\nE. Lymph nodes, level 7, excision:\n       Negative for malignancy, two nodes (0/2).\n\nElectronic Signature\n\nCOMMENTS:\nAlthough the malignancy is well-differentiated, it appears to have a distinct tumor stroma, and does not spread along alveolar walls in the fashion of a classic bronchoalveolar carcinoma.",
+          "confidence": {
+            "mean_probability": 0.9842699432026267,
+            "mean_log_probability": -0.02230744611528822,
+            "perplexity": 1.0225581176686356,
+            "min_probability": 0.1788122332426704
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 400,
+            "total_tokens": 2872
+          },
+          "composite_score": 0.8740412813622828
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 13.48254108428955,
+          "chars": 1383,
+          "words": 198,
+          "text": "DIAGNOSIS:\nA. Lymph nodes, level 11, excision:\n        Negative for malignancy, two nodes (0/2).\nB. Lymph nodes, level 12, excision:\n        Negative for malignancy, two nodes (0/2).\nC. Lung, right lower lobe, lobectomy:\n        Tumor Characteristics:\n1. Histologic type: Adenocarcinoma.\n2. Histologic grade: I (well-differentiated).\n3. Tumor site: Subpleural.\n4. Tumor focality: Unifocal.\n5. Tumor size: 1.5 x 1.5 x 1.4 cm.\n6. Visceral pleural invasion: No.\n7. Lymphovascular space invasion: Not identified.\n8. Tumor extension: Not identified.\n9. Treatment effect: Not identified.\n        Surgical Margin Status:\n1. Tumor distance from bronchial margin: 4.3 cm.\n2. Tumor distance from parenchymal (stapled) margin: 3.8 cm.\n3. Tumor distance from pleural surface: 0.2 cm.\n        Lymph Node Status (Includes parts A, B, D and E):\n1. Total number of lymph nodes received: Ten.\n2. Total number of lymph nodes containing metastatic carcinoma: Zero (0/10).\n        Other:\n1. pTNM stage: pT1a, N0.\nD. Lymph nodes, level 8, excision:\n        Negative for malignancy, two nodes (0/2).\nE. Lymph nodes, level 7, excision:\n        Negative for malignancy, two nodes (0/2).\n\nElectronic Signature\n\nCOMMENTS:\nAlthough the malignancy is well-differentiated, it appears to have a distinct tumor stroma, and does not spread along alveolar walls in the fashion of a classic bronchoalveolar carcinoma.",
+          "confidence": {
+            "mean_probability": 0.9854236336974197,
+            "mean_log_probability": -0.019140814536340853,
+            "perplexity": 1.0193251743137202,
+            "min_probability": 0.20695911858083596
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 400,
+            "total_tokens": 2872
+          },
+          "composite_score": 0.877111193240296
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 22.619235515594482,
+        "chars": 2492,
+        "words": 423,
+        "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right lower lobe lung cancer\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Level 11 lymph node\nB. Level 12 lymph node\nC. Right lower lobe\nD. Level 8 lymph node\nE. Level 7 lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. The first container A is labeled . level 11 lymph node. The specimen consists of two brown anthracotic nodules consistent with lymph nodes that measure 0.4 and 0.7 cm in greatest dimension. The lymph nodes are entirely submitted in a single cassette labeled\n\nB. The second container B is labeled 2 level 12 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with lymph node, 0.5 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nC. The third container C is labeled ght lower lobe. The specimen consists of a lung lobectomy specimen that measures 15 x 8.5 x 2.5 cm, weighs 106 grams. The pleural surface is gray to brown tan and slightly anthracotic. The pleura has been inked. Sectioning reveals a gray tan circumscribed mass that measures 1.5 x 1.5 x 1.4 cm that is 0.1 cm from the pleural margin of resection, 4.3 cm from the bronchial margin of resection and 3.8 cm of the closest staple line of resection. On sectioning the surrounding lung tissue is tan and spongy. There is no other lesions identified grossly. Within the peribronchial soft tissue there are four brown tan anthracotic nodules consistent with lymph nodes, 0.3 to 0.4 cm. Received with the specimen are three cassettes, one yellow, one green and one blue labeled The yellow is additionally labeled -16, the green one additionally labeled -17, and the blue additionally labeled -18. Representative sections are submitted in cassettes labeled follows: Mass in total in block 1-3; surrounding uninvolved lung block 4; vascular margin block 5; shave section of staple edge block 6; four probable lymph nodes block 7.\n\nD. The fourth container D is labeled #4, level 8 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with a lymph node that measures 0.7 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nE. The fifth container E is labeled . evel 7 lymph node. The specimen consists of two brown tan anthracotic nodules consistent with lymph node, 0.9 x 0.5 x 0.2 cm and 1.5 x 1.0 x 0.5 cm. Each of the lymph nodes have been bisected and the lymph nodes are entirely submitted in cassettes labeled",
+        "confidence": {
+          "mean_probability": 0.9912772657496662,
+          "mean_log_probability": -0.0113772640625,
+          "perplexity": 1.0114422312805649,
+          "min_probability": 0.2580058551340522
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 641,
+          "total_tokens": 3113
+        },
+        "composite_score": 0.9910005775555606,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 22.619235515594482,
+          "chars": 2492,
+          "words": 423,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right lower lobe lung cancer\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Level 11 lymph node\nB. Level 12 lymph node\nC. Right lower lobe\nD. Level 8 lymph node\nE. Level 7 lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. The first container A is labeled . level 11 lymph node. The specimen consists of two brown anthracotic nodules consistent with lymph nodes that measure 0.4 and 0.7 cm in greatest dimension. The lymph nodes are entirely submitted in a single cassette labeled\n\nB. The second container B is labeled 2 level 12 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with lymph node, 0.5 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nC. The third container C is labeled ght lower lobe. The specimen consists of a lung lobectomy specimen that measures 15 x 8.5 x 2.5 cm, weighs 106 grams. The pleural surface is gray to brown tan and slightly anthracotic. The pleura has been inked. Sectioning reveals a gray tan circumscribed mass that measures 1.5 x 1.5 x 1.4 cm that is 0.1 cm from the pleural margin of resection, 4.3 cm from the bronchial margin of resection and 3.8 cm of the closest staple line of resection. On sectioning the surrounding lung tissue is tan and spongy. There is no other lesions identified grossly. Within the peribronchial soft tissue there are four brown tan anthracotic nodules consistent with lymph nodes, 0.3 to 0.4 cm. Received with the specimen are three cassettes, one yellow, one green and one blue labeled The yellow is additionally labeled -16, the green one additionally labeled -17, and the blue additionally labeled -18. Representative sections are submitted in cassettes labeled follows: Mass in total in block 1-3; surrounding uninvolved lung block 4; vascular margin block 5; shave section of staple edge block 6; four probable lymph nodes block 7.\n\nD. The fourth container D is labeled #4, level 8 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with a lymph node that measures 0.7 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nE. The fifth container E is labeled . evel 7 lymph node. The specimen consists of two brown tan anthracotic nodules consistent with lymph node, 0.9 x 0.5 x 0.2 cm and 1.5 x 1.0 x 0.5 cm. Each of the lymph nodes have been bisected and the lymph nodes are entirely submitted in cassettes labeled",
+          "confidence": {
+            "mean_probability": 0.9912772657496662,
+            "mean_log_probability": -0.0113772640625,
+            "perplexity": 1.0114422312805649,
+            "min_probability": 0.2580058551340522
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 641,
+            "total_tokens": 3113
+          },
+          "composite_score": 0.9910005775555606,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 35.58502793312073,
+          "chars": 2490,
+          "words": 422,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis: Right lower lobe lung cancer\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA. Level 11 lymph node\nB. Level 12 lymph node\nC. Right lower lobe\nD. Level 8 lymph node\nE. Level 7 lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. The first container A is labeled . level 11 lymph node. The specimen consists of two brown anthracotic nodules consistent with lymph nodes that measure 0.4 and 0.7 cm in greatest dimension. The lymph nodes are entirely submitted in a single cassette labeled\n\nB. The second container B is labeled 2 level 12 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with lymph node, 0.5 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nC. The third container C is labeled ght lower lobe. The specimen consists of a lung lobectomy specimen that measures 15 x 8.5 x 2.5 cm, weighs 106 grams. The pleural surface is gray to brown tan and slightly anthracotic. The pleura has been inked. Sectioning reveals a gray tan circumscribed mass that measures 1.5 x 1.5 x 1.4 cm that is 0.1 cm from the pleural margin of resection, 4.3 cm from the bronchial margin of resection and 3.8 cm of the closest staple line of resection. On sectioning the surrounding lung tissue is tan and spongy. There is no other lesions identified grossly. Within the peribronchial soft tissue there are four brown tan anthracotic nodules consistent with lymph nodes, 0.3 to 0.4 cm. Received with the specimen are three cassettes, one yellow, one green and one blue labeled The yellow is additionally labeled -16, the green one additionally labeled -17, and the blue additionally labeled -18. Representative sections are submitted in cassettes labeled follows: Mass in total in block 1-3; surrounding uninvolved lung block 4; vascular margin block 5; shave section of staple edge block 6; four probable lymph nodes block 7.\n\nD. The fourth container D is labeled #4, level 8 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with a lymph node that measures 0.7 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nE. The fifth container E is labeled evel 7 lymph node. The specimen consists of two brown tan anthracotic nodules consistent with lymph node, 0.9 x 0.5 x 0.2 cm and 1.5 x 1.0 x 0.5 cm. Each of the lymph nodes have been bisected and the lymph nodes are entirely submitted in cassettes labeled",
+          "confidence": {
+            "mean_probability": 0.9915878188550524,
+            "mean_log_probability": -0.011093095461658842,
+            "perplexity": 1.0111548519908895,
+            "min_probability": 0.2558098203089044
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 640,
+            "total_tokens": 3112
+          },
+          "composite_score": 0.9416617445132377
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 30.27439308166504,
+          "chars": 2505,
+          "words": 424,
+          "text": "CLINICAL INFORMATION\n\nCLINICAL HISTORY:\nPreoperative Diagnosis:  Right lower lobe lung cancer\nPostoperative Diagnosis:\nSymptoms/Radiologic Findings:\n\nSPECIMENS:\nA.  Level 11 lymph node\nB.  Level 12 lymph node\nC.  Right lower lobe\nD.  Level 8 lymph node\nE.  Level 7 lymph node\n\nSPECIMEN DATA\n\nGROSS DESCRIPTION:\nA. The first container A is labeled .  level 11 lymph node. The specimen consists of two brown anthracotic nodules consistent with lymph\nnodes that measure 0.4 and 0.7 cm in greatest dimension. The lymph nodes are entirely submitted in a single cassette labeled \n\nB. The second container B is labeled  2 level 12 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent\nwith lymph node, 0.5 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nC. The third container C is labeled ght lower lobe. The specimen consists of a lung lobectomy specimen that measures 15 x 8.5 x 2.5\ncm, weighs 106 grams. The pleural surface is gray to brown tan and slightly anthracotic. The pleura has been inked. Sectioning reveals a gray tan\ncircumscribed mass that measures 1.5 x 1.5 x 1.4 cm that is 0.1 cm from the pleural margin of resection, 4.3 cm from the bronchial margin of resection\nand 3.8 cm of the closest staple line of resection. On sectioning the surrounding lung tissue is tan and spongy. There is no other lesions identified\ngrossly. Within the peribronchial soft tissue there are four brown tan anthracotic nodules consistent with lymph nodes, 0.3 to 0.4 cm. Received with the\nspecimen are three cassettes, one yellow, one green and one blue labeled The yellow is additionally labeled -16, the green one \nadditionally labeled -17, and the blue additionally labeled -18. Representative sections are submitted in cassettes labeled \nfollows: Mass in total in block 1-3; surrounding uninvolved lung block 4; vascular margin block 5; shave section of staple edge block 6; four probable\nlymph nodes block 7.\n\nD. The fourth container D is labeled , #4, level 8 lymph nodes. The specimen consists of a brown tan anthracotic nodule consistent with\na lymph node that measures 0.7 x 0.5 x 0.2 cm. The specimen is entirely submitted in a single cassette labeled\n\nE. The fifth container E is labeled . evel 7 lymph node. The specimen consists of two brown tan anthracotic nodules consistent with\nlymph node, 0.9 x 0.5 x 0.2 cm and 1.5 x 1.0 x 0.5 cm. Each of the lymph nodes have been bisected and the lymph nodes are entirely submitted in\ncassettes labeled",
+          "confidence": {
+            "mean_probability": 0.9817883789454055,
+            "mean_log_probability": -0.026970311844077964,
+            "perplexity": 1.0273373025607213,
+            "min_probability": 0.1372846186220206
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 668,
+            "total_tokens": 3140
+          },
+          "composite_score": 0.930040867038607
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

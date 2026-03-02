@@ -1,0 +1,95 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\0c79ae98-7228-40b2-b1cf-28ca60951079\\TCGA-50-6597.6BA1EE6A-B37E-4F8D-9435-3D69AD1DBFDD.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 26.787336826324463,
+        "chars": 2847,
+        "words": 422,
+        "text": "PATIENT HISTORY:\nPRE-OP DIAGNOSIS: Lung cancer (right lung).\nPOST-OP DIAGNOSIS: Same.\nPROCEDURE: Bronchoscopy, mediastinoscopy and thoracotomy.\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Microdissection Genotyping Testing:\n\nA. KRAS Exon 1 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking\n(1). EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian population, common in\nnon-smokers and associated with the tumor response to treatment with EGFR inhibitors (2). These mutations are mutually\nexclusive and their presence may have prognostic and/or therapeutic implications (3,4).\n\nAddendum\nPROBE Vysis LSI EGFR SpectrumOrange/CEP 7 SpectrumGreenTM Probe\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of\nchromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of\nchromosome 7 was 30% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were\nanalyzed in the targeted region.\n\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\n\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical\nresponse, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with\nEGFR tyrosine kinase inhibitors.\n\nFINAL DIAGNOSIS:\nSummary Statement\nThe right lower lobe superior segment demonstrates a 2.5 cm invasive moderately differentiated adenocarcinoma\nassociated with visceral pleural and angiolymphatic invasion. All sampled lymph nodes are benign. Surgical resection\nmargins are free of tumor. The pathologic stage is T2N0Mx.\n\nThe right middle lobe demonstrates a 0.6 cm typical carcinoid. Numerous carcinoid tumorlets and diffuse\nneuroendocrine cell hyperplasia are seen throughout the right upper, right lower and right middle lobes.\n\nPART 1: LYMPH NODE, SUBCARINAL, BIOPSY -\nFIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY -\nTHREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY -\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY -\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.",
+        "confidence": {
+          "mean_probability": 0.9899803446493359,
+          "mean_log_probability": -0.012701428940568475,
+          "perplexity": 1.0127824346887357,
+          "min_probability": 0.36780881509905733
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 775,
+          "total_tokens": 3247
+        },
+        "composite_score": 0.9899662991854521,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 26.787336826324463,
+          "chars": 2847,
+          "words": 422,
+          "text": "PATIENT HISTORY:\nPRE-OP DIAGNOSIS: Lung cancer (right lung).\nPOST-OP DIAGNOSIS: Same.\nPROCEDURE: Bronchoscopy, mediastinoscopy and thoracotomy.\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Microdissection Genotyping Testing:\n\nA. KRAS Exon 1 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking\n(1). EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian population, common in\nnon-smokers and associated with the tumor response to treatment with EGFR inhibitors (2). These mutations are mutually\nexclusive and their presence may have prognostic and/or therapeutic implications (3,4).\n\nAddendum\nPROBE Vysis LSI EGFR SpectrumOrange/CEP 7 SpectrumGreenTM Probe\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of\nchromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of\nchromosome 7 was 30% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were\nanalyzed in the targeted region.\n\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\n\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical\nresponse, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with\nEGFR tyrosine kinase inhibitors.\n\nFINAL DIAGNOSIS:\nSummary Statement\nThe right lower lobe superior segment demonstrates a 2.5 cm invasive moderately differentiated adenocarcinoma\nassociated with visceral pleural and angiolymphatic invasion. All sampled lymph nodes are benign. Surgical resection\nmargins are free of tumor. The pathologic stage is T2N0Mx.\n\nThe right middle lobe demonstrates a 0.6 cm typical carcinoid. Numerous carcinoid tumorlets and diffuse\nneuroendocrine cell hyperplasia are seen throughout the right upper, right lower and right middle lobes.\n\nPART 1: LYMPH NODE, SUBCARINAL, BIOPSY -\nFIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY -\nTHREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY -\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY -\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.",
+          "confidence": {
+            "mean_probability": 0.9899803446493359,
+            "mean_log_probability": -0.012701428940568475,
+            "perplexity": 1.0127824346887357,
+            "min_probability": 0.36780881509905733
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 775,
+            "total_tokens": 3247
+          },
+          "composite_score": 0.9899662991854521,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 25.101925134658813,
+          "chars": 2848,
+          "words": 422,
+          "text": "PATIENT HISTORY:\nPRE-OP DIAGNOSIS: Lung cancer (right lung).\nPOST-OP DIAGNOSIS: Same.\nPROCEDURE: Bronchoscopy, mediastinoscopy and thoracotomy.\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Microdissection Genotyping Testing:\n\nA. KRAS Exon 1 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking\n(1). EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian population, common in\nnon-smokers and associated with the tumor response to treatment with EGFR inhibitors (2). These mutations are mutually\nexclusive and their presence may have prognostic and/or therapeutic implications (3,4).\n\nAddendum\nPROBE: Vysis LSI EGFR SpectrumOrange/CEP 7 SpectrumGreenTM Probe\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of\nchromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of\nchromosome 7 was 30% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were\nanalyzed in the targeted region.\n\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\n\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical\nresponse, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with\nEGFR tyrosine kinase inhibitors.\n\nFINAL DIAGNOSIS:\nSummary Statement\nThe right lower lobe superior segment demonstrates a 2.5 cm invasive moderately differentiated adenocarcinoma\nassociated with visceral pleural and angiolymphatic invasion. All sampled lymph nodes are benign. Surgical resection\nmargins are free of tumor. The pathologic stage is T2N0Mx.\n\nThe right middle lobe demonstrates a 0.6 cm typical carcinoid. Numerous carcinoid tumorlets and diffuse\nneuroendocrine cell hyperplasia are seen throughout the right upper, right lower and right middle lobes.\n\nPART 1: LYMPH NODE, SUBCARINAL, BIOPSY –\nFIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY –\nTHREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY –\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY –\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.",
+          "confidence": {
+            "mean_probability": 0.989653303918887,
+            "mean_log_probability": -0.013315572903225806,
+            "perplexity": 1.013404619942588,
+            "min_probability": 0.3487015082355571
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 776,
+            "total_tokens": 3248
+          },
+          "composite_score": 0.9400131452855722
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.979230642318726,
+          "chars": 2849,
+          "words": 423,
+          "text": "PATIENT HISTORY:\nPRE-OP DIAGNOSIS: Lung cancer (right lung).\nPOST-OP DIAGNOSIS: Same.\nPROCEDURE: Bronchoscopy, mediastinoscopy and thoracotomy.\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Microdissection Genotyping Testing:\n\nA. KRAS Exon 1 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking\n(1). EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian population, common in\nnon-smokers and associated with the tumor response to treatment with EGFR inhibitors (2). These mutations are mutually\nexclusive and their presence may have prognostic and/or therapeutic implications (3,4).\n\nAddendum\nPROBE Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreenTM Probe\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of\nchromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of\nchromosome 7 was 30% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were\nanalyzed in the targeted region.\n\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\n\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical\nresponse, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with\nEGFR tyrosine kinase inhibitors.\n\nFINAL DIAGNOSIS:\n\nSummary Statement\nThe right lower lobe superior segment demonstrates a 2.5 cm invasive moderately differentiated adenocarcinoma\nassociated with visceral pleural and angiolymphatic invasion. All sampled lymph nodes are benign. Surgical resection\nmargins are free of tumor. The pathologic stage is T2N0Mx.\n\nThe right middle lobe demonstrates a 0.6 cm typical carcinoid. Numerous carcinoid tumorlets and diffuse\nneuroendocrine cell hyperplasia are seen throughout the right upper, right lower and right middle lobes.\n\nPART 1: LYMPH NODE, SUBCARINAL, BIOPSY –\nFIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY –\nTHREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY –\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.\n\nPART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY –\nTWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.",
+          "confidence": {
+            "mean_probability": 0.9897029118478535,
+            "mean_log_probability": -0.01325172093023256,
+            "perplexity": 1.0133399141239832,
+            "min_probability": 0.4028028671960821
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 775,
+            "total_tokens": 3247
+          },
+          "composite_score": 0.9400604087820048
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

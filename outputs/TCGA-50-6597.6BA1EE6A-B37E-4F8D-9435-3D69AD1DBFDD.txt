@@ -1,0 +1,71 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\0c79ae98-7228-40b2-b1cf-28ca60951079\TCGA-50-6597.6BA1EE6A-B37E-4F8D-9435-3D69AD1DBFDD.PDF
+Processing Date: 2026-03-02 14:42:49
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+PATIENT HISTORY:
+PRE-OP DIAGNOSIS: Lung cancer (right lung).
+POST-OP DIAGNOSIS: Same.
+PROCEDURE: Bronchoscopy, mediastinoscopy and thoracotomy.
+ADDENDA:
+Addendum
+Molecular Anatomic Pathology Microdissection Genotyping Testing:
+
+A. KRAS Exon 1 mutation NOT identified.
+B. EGFR Exon 19 mutation NOT identified.
+C. EGFR Exon 21 mutation NOT identified.
+
+Note:
+KRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking
+(1). EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian population, common in
+non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2). These mutations are mutually
+exclusive and their presence may have prognostic and/or therapeutic implications (3,4).
+
+Addendum
+PROBE Vysis LSI EGFR SpectrumOrange/CEP 7 SpectrumGreenTM Probe
+
+Fluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of
+chromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of
+chromosome 7 was 30% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were
+analyzed in the targeted region.
+
+Interpretation guidelines for EGFR Gene Copy Number by FISH:
+
+Ratio of EGFR to the centromere of chromosome 7:
+Less than 2.0: No EGFR amplification
+Greater than 2.0: EGFR amplification
+
+Hyperploidy: Greater than two centromere copies/cell.
+
+SNR: The average number of EGFR signals per analyzed cell within the targeted region.
+
+Clinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical
+response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with
+EGFR tyrosine kinase inhibitors.
+
+FINAL DIAGNOSIS:
+Summary Statement
+The right lower lobe superior segment demonstrates a 2.5 cm invasive moderately differentiated adenocarcinoma
+associated with visceral pleural and angiolymphatic invasion. All sampled lymph nodes are benign. Surgical resection
+margins are free of tumor. The pathologic stage is T2N0Mx.
+
+The right middle lobe demonstrates a 0.6 cm typical carcinoid. Numerous carcinoid tumorlets and diffuse
+neuroendocrine cell hyperplasia are seen throughout the right upper, right lower and right middle lobes.
+
+PART 1: LYMPH NODE, SUBCARINAL, BIOPSY -
+FIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY -
+THREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY -
+TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY -
+TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.

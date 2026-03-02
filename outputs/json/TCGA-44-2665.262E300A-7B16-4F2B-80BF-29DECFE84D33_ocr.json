@@ -1,0 +1,275 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\09ed17a7-d621-4d98-98cc-9d479f8ffa03\\TCGA-44-2665.262E300A-7B16-4F2B-80BF-29DECFE84D33.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 21.20999550819397,
+        "chars": 2521,
+        "words": 369,
+        "text": "```\nCGA-44-2665\n\nSPECIMEN\n        Received in four parts labeled as follows\n        A. Level 10 lymph node\n        B. Right upper lobe of lung and azygos vein\n        C. Level 7 lymph node\n        D. Level R4 lymph node\n\nCLINICAL NOTES\n        PRE-OP DIAGNOSIS: Lung mass.\n        HISTORY: Endocarcinoma of the lung.\n\nGROSS DESCRIPTION\n        A. Received fresh labeled \"level 10 lymph node\" are four\n                soft pale tan to gray black tissues in keeping with lymph\n        nodes measuring up to 1.3 cm. in greatest dimension. The largest\n        tissue is trisected and the specimens are entirely submitted in two\n        blocks as labeled. AS-2\n\n        BLOCK SUMMARY: 1 - three whole nodes; 2 - trisected largest node.\n\n                B. Received fresh for tissue procurement labeled \"right\n                upper lobe of lung and azygos vein\" is a 184 gm.\n        (postfixation), 10.0 x 9.0 x 6.5 cm. lobectomy specimen with\n        attached 1.3 cm. in length, 1.7 x 0.8 cm. in diameter bronchial\n        stump and several stapled vascular structures. The pleura is dusky\n        tan pink-purple and focally retracted over a palpable mass. The\n        retracted pleura is inked blue and the specimen is sectioned.\n        There\n                is a moderately well circumscribed, 6.0 x 4.5 x 4.5 cm. rubbery tan\n        white lesion subjacent to the aforementioned pleural retraction. A\n        portion of the tumor is submitted for tissue procurement as\n        requested. The lesion extends to within less than 0.1 cm. of the\n        inked pleural surface and within 1.8 cm. of the bronchial stump\n        (following initial removal of staple line and margin). The\n        remaining parenchyma is spongiform pale tan pink to red purple\n\nGROSS DESCRIPTION\n        without additional mass lesion or abnormality. A slightly\n        fragmented 1.8 cm. in greatest dimension rubbery gray black tissue\n        in keeping with lymph node is recovered from the hilum.\n        Representative sections are submitted in 10 blocks as labeled.\n        RS-10\n\n        BLOCK SUMMARY: 1 - bronchial stump margin; 2 - vascular margins; 3\n        through 5 - tumor to inked pleural surface; 6 and 7 - tumor to\n        bronchus at region of hilum (surface of hilar tissue inked black\n        block 7); 8 - tumor to normal; 9 - random normal; 10 - bisected\n        hilar lymph node.\n                C. Received fresh labeled \"level 7 lymph node\" are 7 soft\n        tan red to gray black tissues in keeping with lymph nodes\n```",
+        "confidence": {
+          "mean_probability": 0.990064083409473,
+          "mean_log_probability": -0.014308668789808918,
+          "perplexity": 1.014411527797367,
+          "min_probability": 0.11223717643492953
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 629,
+          "total_tokens": 3101
+        },
+        "composite_score": 0.9887145448086285,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 21.20999550819397,
+          "chars": 2521,
+          "words": 369,
+          "text": "```\nCGA-44-2665\n\nSPECIMEN\n        Received in four parts labeled as follows\n        A. Level 10 lymph node\n        B. Right upper lobe of lung and azygos vein\n        C. Level 7 lymph node\n        D. Level R4 lymph node\n\nCLINICAL NOTES\n        PRE-OP DIAGNOSIS: Lung mass.\n        HISTORY: Endocarcinoma of the lung.\n\nGROSS DESCRIPTION\n        A. Received fresh labeled \"level 10 lymph node\" are four\n                soft pale tan to gray black tissues in keeping with lymph\n        nodes measuring up to 1.3 cm. in greatest dimension. The largest\n        tissue is trisected and the specimens are entirely submitted in two\n        blocks as labeled. AS-2\n\n        BLOCK SUMMARY: 1 - three whole nodes; 2 - trisected largest node.\n\n                B. Received fresh for tissue procurement labeled \"right\n                upper lobe of lung and azygos vein\" is a 184 gm.\n        (postfixation), 10.0 x 9.0 x 6.5 cm. lobectomy specimen with\n        attached 1.3 cm. in length, 1.7 x 0.8 cm. in diameter bronchial\n        stump and several stapled vascular structures. The pleura is dusky\n        tan pink-purple and focally retracted over a palpable mass. The\n        retracted pleura is inked blue and the specimen is sectioned.\n        There\n                is a moderately well circumscribed, 6.0 x 4.5 x 4.5 cm. rubbery tan\n        white lesion subjacent to the aforementioned pleural retraction. A\n        portion of the tumor is submitted for tissue procurement as\n        requested. The lesion extends to within less than 0.1 cm. of the\n        inked pleural surface and within 1.8 cm. of the bronchial stump\n        (following initial removal of staple line and margin). The\n        remaining parenchyma is spongiform pale tan pink to red purple\n\nGROSS DESCRIPTION\n        without additional mass lesion or abnormality. A slightly\n        fragmented 1.8 cm. in greatest dimension rubbery gray black tissue\n        in keeping with lymph node is recovered from the hilum.\n        Representative sections are submitted in 10 blocks as labeled.\n        RS-10\n\n        BLOCK SUMMARY: 1 - bronchial stump margin; 2 - vascular margins; 3\n        through 5 - tumor to inked pleural surface; 6 and 7 - tumor to\n        bronchus at region of hilum (surface of hilar tissue inked black\n        block 7); 8 - tumor to normal; 9 - random normal; 10 - bisected\n        hilar lymph node.\n                C. Received fresh labeled \"level 7 lymph node\" are 7 soft\n        tan red to gray black tissues in keeping with lymph nodes\n```",
+          "confidence": {
+            "mean_probability": 0.990064083409473,
+            "mean_log_probability": -0.014308668789808918,
+            "perplexity": 1.014411527797367,
+            "min_probability": 0.11223717643492953
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 629,
+            "total_tokens": 3101
+          },
+          "composite_score": 0.9887145448086285,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 22.116544008255005,
+          "chars": 2521,
+          "words": 369,
+          "text": "```\nCGA-44-2665\n\nSPECIMEN\n        Received in four parts labeled as follows\n        A. Level 10 lymph node\n        B. Right upper lobe of lung and azygos vein\n        C. Level 7 lymph node\n        D. Level R4 lymph node\n\nCLINICAL NOTES\n        PRE-OP DIAGNOSIS: Lung mass.\n        HISTORY: Endocarcinoma of the lung.\n\nGROSS DESCRIPTION\n        A. Received fresh labeled \"level 10 lymph node\" are four\n                soft pale tan to gray black tissues in keeping with lymph\n        nodes measuring up to 1.3 cm. in greatest dimension. The largest\n        tissue is trisected and the specimens are entirely submitted in two\n        blocks as labeled. AS-2\n\n        BLOCK SUMMARY: 1 - three whole nodes; 2 - trisected largest node.\n\n                B. Received fresh for tissue procurement labeled \"right\n                upper lobe of lung and azygos vein\" is a 184 gm.\n        (postfixation), 10.0 x 9.0 x 6.5 cm. lobectomy specimen with\n        attached 1.3 cm. in length, 1.7 x 0.8 cm. in diameter bronchial\n        stump and several stapled vascular structures. The pleura is dusky\n        tan pink-purple and focally retracted over a palpable mass. The\n        retracted pleura is inked blue and the specimen is sectioned.\n        There\n                is a moderately well circumscribed, 6.0 x 4.5 x 4.5 cm. rubbery tan\n        white lesion subjacent to the aforementioned pleural retraction. A\n        portion of the tumor is submitted for tissue procurement as\n        requested. The lesion extends to within less than 0.1 cm. of the\n        inked pleural surface and within 1.8 cm. of the bronchial stump\n        (following initial removal of staple line and margin). The\n        remaining parenchyma is spongiform pale tan pink to red purple\n\nGROSS DESCRIPTION\n        without additional mass lesion or abnormality. A slightly\n        fragmented 1.8 cm. in greatest dimension rubbery gray black tissue\n        in keeping with lymph node is recovered from the hilum.\n        Representative sections are submitted in 10 blocks as labeled.\n        RS-10\n\n        BLOCK SUMMARY: 1 - bronchial stump margin; 2 - vascular margins; 3\n        through 5 - tumor to inked pleural surface; 6 and 7 - tumor to\n        bronchus at region of hilum (surface of hilar tissue inked black\n        block 7); 8 - tumor to normal; 9 - random normal; 10 - bisected\n        hilar lymph node.\n                C. Received fresh labeled \"level 7 lymph node\" are 7 soft\n        tan red to gray black tissues in keeping with lymph nodes\n```",
+          "confidence": {
+            "mean_probability": 0.9909225034734972,
+            "mean_log_probability": -0.012855804140127387,
+            "perplexity": 1.0129387952479862,
+            "min_probability": 0.156053559582505
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 629,
+            "total_tokens": 3101
+          },
+          "composite_score": 0.94035360106882
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 16.51744556427002,
+          "chars": 2513,
+          "words": 369,
+          "text": "```\n                             TCGA-44-2665\n\nSPECIMEN\n       Received in four parts labeled as follows\n       A. Level 10 lymph node\n       B. Right upper lobe of lung and azygos vein\n       C. Level 7 lymph node\n       D. Level R4 lymph node\n\nCLINICAL NOTES\n       PRE-OP DIAGNOSIS:  Lung mass.\n       HISTORY:  Endocarcinoma of the lung.\n\nGROSS DESCRIPTION\n       A.  Received fresh labeled \"level 10 lymph node\"  are four\n           soft pale tan to gray black tissues in keeping with lymph\n       nodes measuring up to 1.3 cm.  in greatest dimension.  The largest\n       tissue is trisected and the specimens are entirely submitted in two\n       blocks as labeled.  AS-2\n\n       BLOCK SUMMARY:  1 - three whole nodes; 2 - trisected largest node.\n\n       B.  Received fresh for tissue procurement labeled \"right\n           upper lobe of lung and azygos vein\" is a 184 gm.\n       (postfixation), 10.0 x 9.0 x 6.5 cm.  lobectomy specimen with\n       attached 1.3 cm. in length, 1.7 x 0.8 cm. in diameter bronchial\n       stump and several stapled vascular structures.  The pleura is dusky\n       tan pink-purple and focally retracted over a palpable mass.  The\n       retracted pleura is inked blue and the specimen is sectioned.\n       There\n           is a moderately well circumscribed, 6.0 x 4.5 x 4.5 cm. rubbery tan\n       white lesion subjacent to the aforementioned pleural retraction.  A\n       portion of the tumor is submitted for tissue procurement as\n       requested.  The lesion extends to within less than 0.1 cm. of the\n       inked pleural surface and within 1.8 cm. of the bronchial stump\n       (following initial removal of staple line and margin).  The\n       remaining parenchyma is spongiform pale tan pink to red purple\n\nGROSS DESCRIPTION\n       without additional mass lesion or abnormality.  A slightly\n       fragmented 1.8 cm. in greatest dimension rubbery gray black tissue\n       in keeping with lymph node is recovered from the hilum.\n       Representative sections are submitted in 10 blocks as labeled.\n       RS-10\n\n       BLOCK SUMMARY:  1 - bronchial stump margin; 2 - vascular margins; 3\n       through 5 - tumor to inked pleural surface; 6 and 7 - tumor to\n       bronchus at region of hilum (surface of hilar tissue inked black\n       block 7); 8 - tumor to normal; 9 - random normal; 10 - bisected\n       hilar lymph node.\n           C.  Received fresh labeled \"level 7 lymph node\" are 7 soft\n               tan red to gray black tissues in keeping with lymph nodes\n```",
+          "confidence": {
+            "mean_probability": 0.9842114482664873,
+            "mean_log_probability": -0.025226306027820715,
+            "perplexity": 1.0255471817740587,
+            "min_probability": 0.037306302454389484
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 648,
+            "total_tokens": 3120
+          },
+          "composite_score": 0.6519098220286629
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.908498764038086,
+        "chars": 1458,
+        "words": 212,
+        "text": "measuring up to 1.5 cm. in greatest dimension.  The specimens are \nentirely submitted in two blocks as labeled.  AS-2\n\nBLOCK SUMMARY:  1 - five whole tissues;  2 - two whole tissues.\n\nD.  Received fresh labeled \"level R4 lymph node\" is a 2.2 x\n     1.0 x 0.4 cm. portion of slightly rubbery pale tan gray to\ngolden yellow tissue which is quadrisected and entirely submitted in\none block.  AS-1 \n\nMICROSCOPIC DESCRIPTION\n        A. Sections of the level 10 lymph node demonstrate\n            metastatic adenocarcinoma involving 1 of 4 lymph nodes.\n        B.\nHistologic type:  Adenocarcinoma\nHistologic grade:  Moderately differentiated primary tumor measures 6 cm.\nPrimary tumor (pT):  (pT2)\n\nMICROSCOPIC DESCRIPTION\nMargins of resection:  Uninvolved\nDirect extension of tumor:  Not identified\nVenous (large vessel) invasion:  Not identified\nArterial (large vessel) invasion:  Not identified\nLymphatic (small vessel) invasion:  Present\nRegional lymph nodes (pN):  Metastatic carcinoma present in two of\nthe three peribronchial lymph nodes in the main resection specimen\n(by direct extension, as well as within the level 10 lymph nodes)\n(pN1)\nDistant metastasis (pM):  Cannot be evaluated by this specimen (pMx)\nOther findings:  None.\n\n        C.  The level 7 lymph nodes demonstrate no evidence of\n            metastasis to 6 lymph nodes (0/6).\n        D.  The R4 lymph node demonstrates no evidence of\n            metastasis to one lymph node (0/1).\n\n4, 3x3",
+        "confidence": {
+          "mean_probability": 0.9680713776788127,
+          "mean_log_probability": -0.047183809160305346,
+          "perplexity": 1.0483146812129511,
+          "min_probability": 0.1227377884932039
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 394,
+          "total_tokens": 2866
+        },
+        "composite_score": 0.9097537519602102,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.908498764038086,
+          "chars": 1458,
+          "words": 212,
+          "text": "measuring up to 1.5 cm. in greatest dimension.  The specimens are \nentirely submitted in two blocks as labeled.  AS-2\n\nBLOCK SUMMARY:  1 - five whole tissues;  2 - two whole tissues.\n\nD.  Received fresh labeled \"level R4 lymph node\" is a 2.2 x\n     1.0 x 0.4 cm. portion of slightly rubbery pale tan gray to\ngolden yellow tissue which is quadrisected and entirely submitted in\none block.  AS-1 \n\nMICROSCOPIC DESCRIPTION\n        A. Sections of the level 10 lymph node demonstrate\n            metastatic adenocarcinoma involving 1 of 4 lymph nodes.\n        B.\nHistologic type:  Adenocarcinoma\nHistologic grade:  Moderately differentiated primary tumor measures 6 cm.\nPrimary tumor (pT):  (pT2)\n\nMICROSCOPIC DESCRIPTION\nMargins of resection:  Uninvolved\nDirect extension of tumor:  Not identified\nVenous (large vessel) invasion:  Not identified\nArterial (large vessel) invasion:  Not identified\nLymphatic (small vessel) invasion:  Present\nRegional lymph nodes (pN):  Metastatic carcinoma present in two of\nthe three peribronchial lymph nodes in the main resection specimen\n(by direct extension, as well as within the level 10 lymph nodes)\n(pN1)\nDistant metastasis (pM):  Cannot be evaluated by this specimen (pMx)\nOther findings:  None.\n\n        C.  The level 7 lymph nodes demonstrate no evidence of\n            metastasis to 6 lymph nodes (0/6).\n        D.  The R4 lymph node demonstrates no evidence of\n            metastasis to one lymph node (0/1).\n\n4, 3x3",
+          "confidence": {
+            "mean_probability": 0.9680713776788127,
+            "mean_log_probability": -0.047183809160305346,
+            "perplexity": 1.0483146812129511,
+            "min_probability": 0.1227377884932039
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 394,
+            "total_tokens": 2866
+          },
+          "composite_score": 0.9097537519602102,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.694551706314087,
+          "chars": 1645,
+          "words": 212,
+          "text": "measuring up to 1.5 cm. in greatest dimension.  The specimens are \nentirely submitted in two blocks as labeled.  AS-2\n\nBLOCK SUMMARY:  1 - five whole tissues;  2 - two whole tissues.\n\n        D.  Received fresh labeled \"level R4 lymph node\" is a 2.2 x\n            1.0 x 0.4 cm. portion of slightly rubbery pale tan gray to\n            golden yellow tissue which is quadrisected and entirely submitted\nin\none block.  AS-1 \n\nMICROSCOPIC DESCRIPTION\n        A. Sections of the level 10 lymph node demonstrate\n            metastatic adenocarcinoma involving 1 of 4 lymph nodes.\n        B.\n        Histologic type:  Adenocarcinoma\n        Histologic grade:  Moderately differentiated primary tumor measures\n        6 cm.\n        Primary tumor (pT):  (pT2)\n\nMICROSCOPIC DESCRIPTION\n        Margins of resection:  Uninvolved\n        Direct extension of tumor:  Not identified\n        Venous (large vessel) invasion:  Not identified\n        Arterial (large vessel) invasion:  Not identified\n        Lymphatic (small vessel) invasion:  Present\n        Regional lymph nodes (pN):  Metastatic carcinoma present in two of\n        the three peribronchial lymph nodes in the main resection specimen\n        (by direct extension, as well as within the level 10 lymph nodes)\n        (pN1)\n        Distant metastasis (pM):  Cannot be evaluated by this specimen\n        (pMx)\n        Other findings:  None.\n\n                C.  The level 7 lymph nodes demonstrate no evidence of\n                    metastasis to 6 lymph nodes (0/6).\n                D.  The R4 lymph node demonstrates no evidence of\n                    metastasis to one lymph node (0/1).\n\n4, 3x3",
+          "confidence": {
+            "mean_probability": 0.9731213875864472,
+            "mean_log_probability": -0.03879338221153846,
+            "perplexity": 1.0395556707651643,
+            "min_probability": 0.07603762465106106
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 417,
+            "total_tokens": 2889
+          },
+          "composite_score": 0.8878930609294973
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.846554756164551,
+          "chars": 1365,
+          "words": 212,
+          "text": "measuring up to 1.5 cm. in greatest dimension. The specimens are\nentirely submitted in two blocks as labeled. AS-2\n\nBLOCK SUMMARY: 1 - five whole tissues; 2 - two whole tissues.\n\nD. Received fresh labeled \"level R4 lymph node\" is a 2.2 x\n1.0 x 0.4 cm. portion of slightly rubbery pale tan gray to\ngolden yellow tissue which is quadrisected and entirely submitted in\none block. AS-1 \n\nMICROSCOPIC DESCRIPTION\nA. Sections of the level 10 lymph node demonstrate metastatic adenocarcinoma involving 1 of 4 lymph nodes.\nB.\nHistologic type: Adenocarcinoma\nHistologic grade: Moderately differentiated primary tumor measures 6 cm.\nPrimary tumor (pT): (pT2)\n\nMICROSCOPIC DESCRIPTION\nMargins of resection: Uninvolved\nDirect extension of tumor: Not identified\nVenous (large vessel) invasion: Not identified\nArterial (large vessel) invasion: Not identified\nLymphatic (small vessel) invasion: Present\nRegional lymph nodes (pN): Metastatic carcinoma present in two of the three peribronchial lymph nodes in the main resection specimen (by direct extension, as well as within the level 10 lymph nodes) (pN1)\nDistant metastasis (pM): Cannot be evaluated by this specimen (pMx)\nOther findings: None.\n\nC. The level 7 lymph nodes demonstrate no evidence of metastasis to 6 lymph nodes (0/6).\nD. The R4 lymph node demonstrates no evidence of metastasis to one lymph node (0/1).\n\n4, 3x3",
+          "confidence": {
+            "mean_probability": 0.9818842715394931,
+            "mean_log_probability": -0.02554220165745856,
+            "perplexity": 1.0258711988218587,
+            "min_probability": 0.2573042608446581
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 363,
+            "total_tokens": 2835
+          },
+          "composite_score": 0.8707464047376157
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.33527135848999,
+        "chars": 557,
+        "words": 74,
+        "text": "```\nDIAGNOSIS\n    A. Level 10 lymph nodes, resection:\n            Metastatic adenocarcinoma in 1 of 4 lymph nodes. (1/4)\n    B. Lung, right upper lobe, resection:\n\nAdenocarcinoma, moderately differentiated, 6 cm. in\n        greatest dimension, margins uninvolved.\n        Metastatic adenocarcinoma in 2 of 3 peribronchial lymph\n        nodes.(2/3)\n    C. Level 7 lymph nodes, resection:\n        No evidence of metastasis to 6 lymph nodes (0/6).\n    D. Level R4 lymph node, resection:\n        No evidence of metastasis in one lymph node. (0/1)\n\nDIAGNOSIS\n```",
+        "confidence": {
+          "mean_probability": 0.9678499337524338,
+          "mean_log_probability": -0.046517802395209584,
+          "perplexity": 1.0476167289895644,
+          "min_probability": 0.16192467840320718
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 168,
+          "total_tokens": 2640
+        },
+        "composite_score": 0.8201399341979717,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.33527135848999,
+          "chars": 557,
+          "words": 74,
+          "text": "```\nDIAGNOSIS\n    A. Level 10 lymph nodes, resection:\n            Metastatic adenocarcinoma in 1 of 4 lymph nodes. (1/4)\n    B. Lung, right upper lobe, resection:\n\nAdenocarcinoma, moderately differentiated, 6 cm. in\n        greatest dimension, margins uninvolved.\n        Metastatic adenocarcinoma in 2 of 3 peribronchial lymph\n        nodes.(2/3)\n    C. Level 7 lymph nodes, resection:\n        No evidence of metastasis to 6 lymph nodes (0/6).\n    D. Level R4 lymph node, resection:\n        No evidence of metastasis in one lymph node. (0/1)\n\nDIAGNOSIS\n```",
+          "confidence": {
+            "mean_probability": 0.9678499337524338,
+            "mean_log_probability": -0.046517802395209584,
+            "perplexity": 1.0476167289895644,
+            "min_probability": 0.16192467840320718
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 168,
+            "total_tokens": 2640
+          },
+          "composite_score": 0.8201399341979717,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.723713159561157,
+          "chars": 549,
+          "words": 72,
+          "text": "DIAGNOSIS\n    A. Level 10 lymph nodes, resection:\n            Metastatic adenocarcinoma in 1 of 4 lymph nodes. (1/4)\n    B. Lung, right upper lobe, resection:\n\nAdenocarcinoma, moderately differentiated, 6 cm. in\n        greatest dimension, margins uninvolved.\n        Metastatic adenocarcinoma in 2 of 3 peribronchial lymph\n        nodes.(2/3)\n    C. Level 7 lymph nodes, resection:\n        No evidence of metastasis to 6 lymph nodes (0/6).\n    D. Level R4 lymph node, resection:\n        No evidence of metastasis in one lymph node. (0/1)\n\nDIAGNOSIS",
+          "confidence": {
+            "mean_probability": 0.9695408501774606,
+            "mean_log_probability": -0.04563676687116564,
+            "perplexity": 1.0466941479087721,
+            "min_probability": 0.15036283585936946
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 164,
+            "total_tokens": 2636
+          },
+          "composite_score": 0.7789848362098822
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 4.415613889694214,
+          "chars": 546,
+          "words": 72,
+          "text": "DIAGNOSIS\n    A. Level 10 lymph nodes, resection:\n        Metastatic adenocarcinoma in 1 of 4 lymph nodes. (1/4)\n    B. Lung, right upper lobe, resection:\n\n\nAdenocarcinoma, moderately differentiated, 6 cm. in\n        greatest dimension, margins uninvolved.\n        Metastatic adenocarcinoma in 2 of 3 peribronchial lymph\n        nodes.(2/3)\n    C. Level 7 lymph nodes, resection:\n        No evidence of metastasis to 6 lymph nodes (0/6).\n    D. Level R4 lymph node, resection:\n        No evidence of metastasis in one lymph node. (0/1)\n\nDIAGNOSIS",
+          "confidence": {
+            "mean_probability": 0.9676548642517927,
+            "mean_log_probability": -0.051801257668711666,
+            "perplexity": 1.0531664129645855,
+            "min_probability": 0.15158223439635146
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 164,
+            "total_tokens": 2636
+          },
+          "composite_score": 0.7744399669579393
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

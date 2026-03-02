@@ -1,0 +1,185 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\025a5b15-39d0-4087-ab6b-958183d415b2\\TCGA-60-2697.A5D927B3-EB14-4127-A74F-5A53EB3CF536.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.27327823638916,
+        "chars": 1783,
+        "words": 274,
+        "text": "GROSS DESCRIPTION:\nSpecimen:\nFSA subcarinal lymph node\nFSB right lung for margin check and distribution\n#1 portion of 6th right rib\n\nFS Diagnosis:\nFSA anthracotic node x2, one 0.3cm. in diameter and the other 0.5cm.\nin diameter\n\n\nBxB Specimen consists of a right lung measuring 21x17x8.5cm. The\nhilum shows a grossly tumor replaced lymph node measuring 3.5x2x1.5cm.\nadjacent to the bronchus which has a resection margin which is grossly\nfree of tumor. Cross section reveals a tumor mass which occupies\nnearly the entire right middle lobe measuring 8x8cm. by approximately\n5.5cm. The tumor obstructs the bronchi and causes mucus plugs\ndistally. Mucus plugging is observed in the right middle lobe and\nright lower lobe. There are large areas of necrosis, yellow\ncoloration in addition to grey white coloration and the tumor has\npushing margins overall. It grows against branches of the pulmonary\nartery and compresses them. 3cm. from the bronchial resection margin\nit grows into the bronchial lumen. Areas of uninvolved lung appear to\nbe grossly unremarkable with no satellites observed. The main tumor\nextends from central to peripheral, grows to the pleura but does not\nextend through it grossly. However, there is extensive pleural\nreaction with retraction and discoloration with fibrinoid exudate.\nFSA Two anthracotic lymph nodes with measurements as above. Submitted\nin toto.\nFSB A cross sectional segment of bronchus with attached lymph node\nmeasuring 2.4x1.6x0.3cm. Submitted in toto.\nBxA An irregular brown and tan segment of soft tissue measuring\n0.7x0.3x0.2cm. Submitted in toto.\n#1 Portion of 6th rib measuring 5.5x1.5x1.2cm. It shows a smooth\nperiosteum with attachments of skeletal muscle and fascia with\nresection margins unremarkable showing cancellous bone. One section",
+        "confidence": {
+          "mean_probability": 0.9972466913827859,
+          "mean_log_probability": -0.0029505612903225806,
+          "perplexity": 1.0029549184806184,
+          "min_probability": 0.754834318130287
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 466,
+          "total_tokens": 2938
+        },
+        "composite_score": 0.9759464951281135,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.27327823638916,
+          "chars": 1783,
+          "words": 274,
+          "text": "GROSS DESCRIPTION:\nSpecimen:\nFSA subcarinal lymph node\nFSB right lung for margin check and distribution\n#1 portion of 6th right rib\n\nFS Diagnosis:\nFSA anthracotic node x2, one 0.3cm. in diameter and the other 0.5cm.\nin diameter\n\n\nBxB Specimen consists of a right lung measuring 21x17x8.5cm. The\nhilum shows a grossly tumor replaced lymph node measuring 3.5x2x1.5cm.\nadjacent to the bronchus which has a resection margin which is grossly\nfree of tumor. Cross section reveals a tumor mass which occupies\nnearly the entire right middle lobe measuring 8x8cm. by approximately\n5.5cm. The tumor obstructs the bronchi and causes mucus plugs\ndistally. Mucus plugging is observed in the right middle lobe and\nright lower lobe. There are large areas of necrosis, yellow\ncoloration in addition to grey white coloration and the tumor has\npushing margins overall. It grows against branches of the pulmonary\nartery and compresses them. 3cm. from the bronchial resection margin\nit grows into the bronchial lumen. Areas of uninvolved lung appear to\nbe grossly unremarkable with no satellites observed. The main tumor\nextends from central to peripheral, grows to the pleura but does not\nextend through it grossly. However, there is extensive pleural\nreaction with retraction and discoloration with fibrinoid exudate.\nFSA Two anthracotic lymph nodes with measurements as above. Submitted\nin toto.\nFSB A cross sectional segment of bronchus with attached lymph node\nmeasuring 2.4x1.6x0.3cm. Submitted in toto.\nBxA An irregular brown and tan segment of soft tissue measuring\n0.7x0.3x0.2cm. Submitted in toto.\n#1 Portion of 6th rib measuring 5.5x1.5x1.2cm. It shows a smooth\nperiosteum with attachments of skeletal muscle and fascia with\nresection margins unremarkable showing cancellous bone. One section",
+          "confidence": {
+            "mean_probability": 0.9972466913827859,
+            "mean_log_probability": -0.0029505612903225806,
+            "perplexity": 1.0029549184806184,
+            "min_probability": 0.754834318130287
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.9759464951281135,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 17.75898504257202,
+          "chars": 1783,
+          "words": 274,
+          "text": "GROSS DESCRIPTION:\nSpecimen:\nFSA subcarinal lymph node\nFSB right lung for margin check and distribution\n#1 portion of 6th right rib\n\nFS Diagnosis:\nFSA anthracotic node x2, one 0.3cm. in diameter and the other 0.5cm.\nin diameter\n\n\nBxB Specimen consists of a right lung measuring 21x17x8.5cm. The\nhilum shows a grossly tumor replaced lymph node measuring 3.5x2x1.5cm.\nadjacent to the bronchus which has a resection margin which is grossly\nfree of tumor. Cross section reveals a tumor mass which occupies\nnearly the entire right middle lobe measuring 8x8cm. by approximately\n5.5cm. The tumor obstructs the bronchi and causes mucus plugs\ndistally. Mucus plugging is observed in the right middle lobe and\nright lower lobe. There are large areas of necrosis, yellow\ncoloration in addition to grey white coloration and the tumor has\npushing margins overall. It grows against branches of the pulmonary\nartery and compresses them. 3cm. from the bronchial resection margin\nit grows into the bronchial lumen. Areas of uninvolved lung appear to\nbe grossly unremarkable with no satellites observed. The main tumor\nextends from central to peripheral, grows to the pleura but does not\nextend through it grossly. However, there is extensive pleural\nreaction with retraction and discoloration with fibrinoid exudate.\nFSA Two anthracotic lymph nodes with measurements as above. Submitted\nin toto.\nFSB A cross sectional segment of bronchus with attached lymph node\nmeasuring 2.4x1.6x0.3cm. Submitted in toto.\nBxA An irregular brown and tan segment of soft tissue measuring\n0.7x0.3x0.2cm. Submitted in toto.\n#1 Portion of 6th rib measuring 5.5x1.5x1.2cm. It shows a smooth\nperiosteum with attachments of skeletal muscle and fascia with\nresection margins unremarkable showing cancellous bone. One section",
+          "confidence": {
+            "mean_probability": 0.9969046149356524,
+            "mean_log_probability": -0.003380350537634409,
+            "perplexity": 1.0033860703657052,
+            "min_probability": 0.7056647589102664
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.9268245886791827
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 18.768142461776733,
+          "chars": 1783,
+          "words": 274,
+          "text": "GROSS DESCRIPTION:\nSpecimen:\nFSA subcarinal lymph node\nFSB right lung for margin check and distribution\n#1 portion of 6th right rib\n\nFS Diagnosis:\nFSA anthracotic node x2, one 0.3cm. in diameter and the other 0.5cm.\nin diameter\n\n\nBxB Specimen consists of a right lung measuring 21x17x8.5cm. The\nhilum shows a grossly tumor replaced lymph node measuring 3.5x2x1.5cm.\nadjacent to the bronchus which has a resection margin which is grossly\nfree of tumor. Cross section reveals a tumor mass which occupies\nnearly the entire right middle lobe measuring 8x8cm. by approximately\n5.5cm. The tumor obstructs the bronchi and causes mucus plugs\ndistally. Mucus plugging is observed in the right middle lobe and\nright lower lobe. There are large areas of necrosis, yellow\ncoloration in addition to grey white coloration and the tumor has\npushing margins overall. It grows against branches of the pulmonary\nartery and compresses them. 3cm. from the bronchial resection margin\nit grows into the bronchial lumen. Areas of uninvolved lung appear to\nbe grossly unremarkable with no satellites observed. The main tumor\nextends from central to peripheral, grows to the pleura but does not\nextend through it grossly. However, there is extensive pleural\nreaction with retraction and discoloration with fibrinoid exudate.\nFSA Two anthracotic lymph nodes with measurements as above. Submitted\nin toto.\nFSB A cross sectional segment of bronchus with attached lymph node\nmeasuring 2.4x1.6x0.3cm. Submitted in toto.\nBxA An irregular brown and tan segment of soft tissue measuring\n0.7x0.3x0.2cm. Submitted in toto.\n#1 Portion of 6th rib measuring 5.5x1.5x1.2cm. It shows a smooth\nperiosteum with attachments of skeletal muscle and fascia with\nresection margins unremarkable showing cancellous bone. One section",
+          "confidence": {
+            "mean_probability": 0.9971608564978085,
+            "mean_log_probability": -0.0030557032258064524,
+            "perplexity": 1.0030603766458912,
+            "min_probability": 0.7547678956329242
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 466,
+            "total_tokens": 2938
+          },
+          "composite_score": 0.9270697402949365
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 13.683068037033081,
+        "chars": 1436,
+        "words": 207,
+        "text": "submitted following decal.\nSUMMARY: FSA-nodes; FSB-bronchial resection margin; BxA-subcarinal nodes; BxB1-bronchial resection margin; BxB2 & 3-hilar nodes; BxB4 & 5-tumor bronchial interface; BxB6-tumor lung interface; BxB7 through 9-tumor pleural interface; BxB10-non tumor lung.\n\nMICROSCOPIC DESCRIPTION:\nSections from the lung show an infiltrating halfway differentiated squamous cell carcinoma. The tumor infiltrates a segmental bronchus, has penetrated it and ulcerated the mucosa. It is compressing the segmental artery which is not infiltrated by the tumor. There are 5 para-arterial lymph nodes, one of which shows metastatic tumor. The lung adjacent to the tumor shows interstitial follicular pneumonia and early acute supporative pneumonia. The pleura is thick and hemorrhagic and abutted, but not infiltrated by the tumor.\nFSA Four small lymph nodes negative for tumr.\nFSB Bronchus with chronic inflammation. A parabranchial lymph node with metastatic tumor is present. Another one with no tumor is also seen.\n\nDIAGNOSIS:\n1) RIGHT LUNG WITH HALFWAY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OF MIDDLE LOBE INFILTRATING SEGMENTAL BRONCHUS\n2) METASTATIC SQUAMOUS CELL CARCINOMA TO ONE OUT OF FIVE PARA-SEGMENTAL PULMONARY ARTERY LYMPH NODES, RIGHT MIDDLE LOBE\n3) BRONCHIAL STUMP WITH NO TUMOR, BUT WITH METASTASIS TO ONE OUT OF TWO PARABRONCHIAL LYMPH NODES\n4) SUBCARINAL LYMPH NODE WITH NO TUMOR\n5) RIB SECTION ON DECALCIFICATION",
+        "confidence": {
+          "mean_probability": 0.9932486260283848,
+          "mean_log_probability": -0.0077841463414634144,
+          "perplexity": 1.0078145215725252,
+          "min_probability": 0.4793438928606389
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 411,
+          "total_tokens": 2883
+        },
+        "composite_score": 0.9374207828573435,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 13.683068037033081,
+          "chars": 1436,
+          "words": 207,
+          "text": "submitted following decal.\nSUMMARY: FSA-nodes; FSB-bronchial resection margin; BxA-subcarinal nodes; BxB1-bronchial resection margin; BxB2 & 3-hilar nodes; BxB4 & 5-tumor bronchial interface; BxB6-tumor lung interface; BxB7 through 9-tumor pleural interface; BxB10-non tumor lung.\n\nMICROSCOPIC DESCRIPTION:\nSections from the lung show an infiltrating halfway differentiated squamous cell carcinoma. The tumor infiltrates a segmental bronchus, has penetrated it and ulcerated the mucosa. It is compressing the segmental artery which is not infiltrated by the tumor. There are 5 para-arterial lymph nodes, one of which shows metastatic tumor. The lung adjacent to the tumor shows interstitial follicular pneumonia and early acute supporative pneumonia. The pleura is thick and hemorrhagic and abutted, but not infiltrated by the tumor.\nFSA Four small lymph nodes negative for tumr.\nFSB Bronchus with chronic inflammation. A parabranchial lymph node with metastatic tumor is present. Another one with no tumor is also seen.\n\nDIAGNOSIS:\n1) RIGHT LUNG WITH HALFWAY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OF MIDDLE LOBE INFILTRATING SEGMENTAL BRONCHUS\n2) METASTATIC SQUAMOUS CELL CARCINOMA TO ONE OUT OF FIVE PARA-SEGMENTAL PULMONARY ARTERY LYMPH NODES, RIGHT MIDDLE LOBE\n3) BRONCHIAL STUMP WITH NO TUMOR, BUT WITH METASTASIS TO ONE OUT OF TWO PARABRONCHIAL LYMPH NODES\n4) SUBCARINAL LYMPH NODE WITH NO TUMOR\n5) RIB SECTION ON DECALCIFICATION",
+          "confidence": {
+            "mean_probability": 0.9932486260283848,
+            "mean_log_probability": -0.0077841463414634144,
+            "perplexity": 1.0078145215725252,
+            "min_probability": 0.4793438928606389
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 411,
+            "total_tokens": 2883
+          },
+          "composite_score": 0.9374207828573435,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.14900803565979,
+          "chars": 1436,
+          "words": 207,
+          "text": "submitted following decal.\nSUMMARY: FSA-nodes; FSB-bronchial resection margin; BxA-subcarinal nodes; BxB1-bronchial resection margin; BxB2 & 3-hilar nodes; BxB4 & 5-tumor bronchial interface; BxB6-tumor lung interface; BxB7 through 9-tumor pleural interface; BxB10-non tumor lung.\n\nMICROSCOPIC DESCRIPTION:\nSections from the lung show an infiltrating halfway differentiated squamous cell carcinoma. The tumor infiltrates a segmental bronchus, has penetrated it and ulcerated the mucosa. It is compressing the segmental artery which is not infiltrated by the tumor. There are 5 para-arterial lymph nodes, one of which shows metastatic tumor. The lung adjacent to the tumor shows interstitial follicular pneumonia and early acute supporative pneumonia. The pleura is thick and hemorrhagic and abutted, but not infiltrated by the tumor.\nFSA Four small lymph nodes negative for tumr.\nFSB Bronchus with chronic inflammation. A parabranchial lymph node with metastatic tumor is present. Another one with no tumor is also seen.\n\nDIAGNOSIS:\n1) RIGHT LUNG WITH HALFWAY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OF MIDDLE LOBE INFILTRATING SEGMENTAL BRONCHUS\n2) METASTATIC SQUAMOUS CELL CARCINOMA TO ONE OUT OF FIVE PARA-SEGMENTAL PULMONARY ARTERY LYMPH NODES, RIGHT MIDDLE LOBE\n3) BRONCHIAL STUMP WITH NO TUMOR, BUT WITH METASTASIS TO ONE OUT OF TWO PARABRONCHIAL LYMPH NODES\n4) SUBCARINAL LYMPH NODE WITH NO TUMOR\n5) RIB SECTION ON DECALCIFICATION",
+          "confidence": {
+            "mean_probability": 0.9927404407691462,
+            "mean_log_probability": -0.008738331707317075,
+            "perplexity": 1.0087766223787624,
+            "min_probability": 0.4177128684822031
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 411,
+            "total_tokens": 2883
+          },
+          "composite_score": 0.8898363976040042
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.231866598129272,
+          "chars": 1449,
+          "words": 208,
+          "text": "submitted following decal.\nSUMMARY: FSA-nodes; FSB-bronchial resection margin; BxA-subcarinal\nnodes; BxB1-bronchial resection margin; BxB2 & 3-hilar nodes; BxB4 &\n5-tumor bronchial interface; BxB6-tumor lung interface; BxB7 through\n9-tumor pleural interface; BxB10-non tumor lung.\n\nMICROSCOPIC DESCRIPTION:\nSections from the lung show an infiltrating halfway differentiated\nsquamous cell carcinoma. The tumor infiltrates a segmental bronchus,\nhas penetrated it and ulcerated the mucosa. It is compressing the\nsegmental artery which is not infiltrated by the tumor. There are 5\npara-arterial lymph nodes, one of which shows metastatic tumor. The\nlung adjacent to the tumor shows interstitial follicular pneumonia and\nearly acute supporative pneumonia. The pleura is thick and hemorrhagic\nand abutted, but not infiltrated by the tumor.\nFSA Four small lymph nodes negative for tumr.\nFSB Bronchus with chronic inflammation. A parabranchial lymph node\nwith metastatic tumor is present. Another one with no tumor is also\nseen.\n\nDIAGNOSIS:\n1) RIGHT LUNG WITH HALFWAY DIFFERENTIATED SQUAMOUS CELL CARCINOMA\n    OF MIDDLE LOBE INFILTRATING SEGMENTAL BRONCHUS\n2) METASTATIC SQUAMOUS CELL CARCINOMA TO ONE OUT OF FIVE PARA-\n    SEGMENTAL PULMONARY ARTERY LYMPH NODES, RIGHT MIDDLE LOBE\n3) BRONCHIAL STUMP WITH NO TUMOR, BUT WITH METASTASIS TO ONE OUT\n    OF TWO PARABRONCHIAL LYMPH NODES\n4) SUBCARINAL LYMPH NODE WITH NO TUMOR\n5) RIB SECTION ON DECALCIFICATION",
+          "confidence": {
+            "mean_probability": 0.9919991516374257,
+            "mean_log_probability": -0.009828400943396227,
+            "perplexity": 1.0098768582986113,
+            "min_probability": 0.42315277285434233
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 425,
+            "total_tokens": 2897
+          },
+          "composite_score": 0.8902581148361415
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

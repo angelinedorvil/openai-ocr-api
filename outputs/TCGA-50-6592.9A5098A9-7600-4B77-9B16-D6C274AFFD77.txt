@@ -1,0 +1,89 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\low_quality\ff6c3f6e-4783-4ec6-8cbf-c2b3aaac236d\TCGA-50-6592.9A5098A9-7600-4B77-9B16-D6C274AFFD77.PDF
+Processing Date: 2026-03-02 14:19:17
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+PATIENT HISTORY:
+Not given.
+PRE-OP DIAGNOSIS: Lung cancer.
+POST-OP DIAGNOSIS: Lung cancer.
+PROCEDURE: Not listed.
+ADDENDA:
+Addendum
+PROBE: Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreen™ Probe
+
+Fluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of chromosome 7 of 0.88 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of chromosome 7 was 41% of the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.0.
+
+Interpretation guidelines for EGFR Gene Copy Number by FISH*
+
+Ratio of EGFR to the centromere of chromosome 7:
+Loss than 2.0: No EGFR amplification
+Greater than 2.0: EGFR amplification
+
+Hyperploidy: Greater than two centromere copies/cell.
+
+SNR: The average number of EGFR signals per analyzed cell within the targeted region.
+
+Clinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.
+
+The left lower lobe basilar segmentectomy reveals a 5.0 cm poorly differentiated adenocarcinoma with clear cell type change and CDX2 positivity demonstrating visceral pleural and angiolymphatic invasion with negative lymph nodes and margins. Pathologic stage T2, N0, MX.
+
+PART 1: BRONCHUS, LEFT SECONDARY CARINA, BIOPSY -
+FRAGMENTS OF BENIGN RESPIRATORY MUCOSA WITH NO SIGNIFICANT ABNORMALITY.
+
+PART 2: LYMPH NODE, "BASILAR LEVEL XI LYMPH NODE", BIOPSY -
+FRAGMENT OF LYMPH NODE WITH NO EVIDENCE OF METASTATIC CARCINOMA.
+
+PART 3: LYMPH NODE, "LEVEL VII LYMPH NODE", BIOPSY -
+TWO FRAGMENTS OF LYMPH NODE WITH NO EVIDENCE OF METASTATIC CARCINOMA.
+
+PART 4: LUNG, LEFT LOWER LOBE BASILAR PORTION, SEGMENTECTOMY -
+A. POORLY DIFFERENTIATED ADENOCARCINOMA WITH CLEAR CELL CHANGE AND CDX2 POSITIVITY,
+DIAMETER 5.0 CM, DEMONSTRATING VISCERAL PLEURAL AND ANGIOLYMPHATIC INVASION. ALL
+MARGINS FREE. MILD HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE T2, N0, MX.
+B. RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE.
+C. THREE SEGMENTAL LYMPH NODES WITH NO EVIDENCE OF METASTATIC CARCINOMA.
+
+PART 5: LYMPH NODE, "LEVEL V LYMPH NODE", BIOPSY -
+TWO FRAGMENTS OF LYMPH NODE WITH NO EVIDENCE OF METASTATIC CARCINOMA.
+
+COMMENT:
+Because this carcinoma expresses CDX2 in the absence of TTF1, it is essential that an extrathoracic primary site of origin, particularly in the GI tract be excluded be fore accepting this case as a primary lung adenocarcinoma. The synoptic indicated below reflects an assumption that all other potential primary sites have been excluded. Approximately 3-10% of lung carcinomas can be CDX2 positive, usually mucinous ones as is this case.
+
+CK7 is positive while stains for thyroglobulin and CK20 are negative.
+
+CASE SYNOPSIS:
+SYNOPTIC DATA - PRIMARY LUNG TUMORS
+TUMOR LOCATION: Left Lower Lobe
+LUNG SEGMENT(S) INVOLVED: Basilar
+PROCEDURE: Segmental
+TUMOR SIZE: Maximum dimension: 5.0 cm
+Minor dimension: 4.0 cm
+
+GROSS SATELLITES: Number of gross satellite lesions: 0
+TUMOR TYPE: Invasive adenocarcinoma
+HISTOLOGIC GRADE: G3, Poorly differentiated
+MICROSCOPIC SATELLITES: Number of microscopic satellite lesions: 0
+EXTRAPULMONARY PARENCHYMAL
+EXTENSION/INVASION OF TUMOR: Visceral pleura
+ANGIOLYMPHATIC INVASION: Yes
+TUMOR NECROSIS: > 50%
+SURGICAL MARGIN INVOLVEMENT: No
+SURGICAL MARGIN SITE: Distance of invasive tumor to closest margin: 8.0 mm. Parenchymal margin
+INFLAMMATORY(DESMOPLASTIC) REACTION: Mild
+N1 LYMPH NODES: Number of N1 lymph nodes positive: 0
+Number of N1 lymph nodes examined: 4
+N2 LYMPH NODES: Number of N2 lymph nodes positive: 0
+Number of N2 lymph nodes examined: 4
+UNDERLYING DISEASE(S): Emphysema, Smokers bronchiolitis
+T STAGE, PATHOLOGIC: pT2
+N STAGE, PATHOLOGIC: pN0
+M STAGE, PATHOLOGIC: pMX
+ANCILLARY STUDIES: Histochemical stains, Immunohistochemical stains, FISH studies, Molecular studies
+Comment: PAS, PAS/D and Mucicarmine stains are positive. Elastic tissue stains confirm vascular invasion.

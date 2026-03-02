@@ -1,0 +1,140 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\0221073d-e641-4997-a805-924588c5094b\TCGA-55-7284.CA201579-79B6-4A03-A982-9F43BF16471B.PDF
+Processing Date: 2026-03-02 14:32:13
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+Diagnosis:
+
+A. - K. LUNG, RIGHT, MIDDLE AND LOWER LOBES, INTERLOBAR (N11R X5), HILAR (N10R), PERI-ESOPHAGEAL (N8R), SUBCARINAL (N7), AND LOWER PARATRACHEAL (N4R) LYMPH NODES, BI-LOBECTOMY WITH REGIONAL LYMPHADENECTOMY:
+   - INVASIVE ADENOCARCINOMA, WITH PREDOMINANT BRONCHIOLOALVEOLAR PATTERN, MULTIFOCAL, INVOLVING THE MIDDLE AND LOWER LOBES.
+      - MIDDLE LOBE:
+         - Tumor 2 cm in maximum dimension.
+         - Visceral pleural invasion: NOT IDENTIFIED.
+      - LOWER LOBE:
+         - 15 cm in maximum dimension.
+         - Visceral pleural invasion: NOT IDENTIFIED.
+      - MARGIN STATUS (BOTH FOCI): NEGATIVE.
+   - SIXTEEN LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/16).
+   - NON-NECROTIZING GRANULOMATOUS INFLAMMATION.
+
+PATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):
+   - Type and grade: Adenocarcinoma, well differentiated.
+   - Primary tumor: pT1a.
+   - Regional lymph nodes: pN0 (0/16 total lymph nodes).
+   - Distant metastasis: pMX.
+   - Pathologic stage: IA.
+   - Lymphovascular invasion: Not identified.
+   - Margin status: R0.
+
+PATHOLOGIC STAGING SUMMARY (LOWER LOBE):
+   - Type and grade: Adenocarcinoma, well differentiated.
+   - Primary tumor: pT3 (15 cm in maximum dimension).
+   - Regional lymph nodes: pN0 (0/16 total lymph nodes).
+   - Distant metastasis: pMX.
+   - Pathologic stage: IIB.
+   - Lymphovascular invasion: Not identified.
+
+================================================================================
+PAGE 2
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+- Margin status: R0.
+
+COMMENT: Elastic stain, performed with adequate control on the lower and middle lobe specimens (parts 'F' and 'I') confirm the absence of visceral pleura invasion. Special stains for acid fast bacilli (AFB), and fungi (GMS, PAS), performed on parts 'F' and 'I' with adequate controls, are negative. The granulomas see in these specimens are most likely secondary to etravasated mucin.
+
+Findings discussed with Dr.
+
+================================================================================
+PAGE 3
+================================================================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+Tumor Staging Information
+(data derived from current specimen, staging in accordance with or modified from AJCC Cancer Staging Handbook, █████ and CAP protocol, February █████
+
+           Specimen:                                    Middle and lower lobes.
+           Procedure:                                  Bilobectomy.
+           Specimen integrity:                        Intact.
+           Specimen laterality:                       Right.
+
+TUMOR FEATURES (MIDDLE LOBE):
+Tumor size:                                               Greatest dimension: 2 cm.
+Tumor focality:                                           Separate tumor nodules in different lobes (middle and lower lobes).
+Histologic type:                                          Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.
+Histologic grade:                                        Well differentiated (G1).
+Visceral pleural invasion:                           Not identified.
+Tumor extension:                                       Not identified.
+
+MARGINS:                                                    R0 (negative).
+     Bronchial margin:                               Uninvolved by invasive carcinoma.
+     Vascular margin:                                Uninvolved by invasive carcinoma.
+     Parenchymal margin:                          Uninvolved by invasive carcinoma.
+     Parietal pleural margin:                      Not applicable.
+     Chest wall margin:                              Not applicable.
+     Other attached tissue margin:              Not applicable.
+Treatment effect:                                       Not applicable.
+
+Lymphovascular invasion:                          Not identified.
+Lymph nodes:                                             Sixteen total lymph nodes, negative for metastasis (0/16).
+
+PATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):
+Primary tumor:                                          pT1a (2 cm in greatest dimension).
+Regional lymph nodes:                              pN0 (0/16 total lymph nodes).
+Distant metastasis:                                    pMX.
+Pathologic stage:                                        IA.
+Margin status:                                           R0.
+
+TUMOR FEATURES (LOWER LOBE):
+Tumor size:                                               Greatest dimension: 15 cm.
+
+================================================================================
+PAGE 4
+================================================================================
+Tumor focality:	Separate tumor nodules in different lobed (middle and lower lobes).
+Histologic type:	Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.
+Histologic grade:	Well differentiated (G1).
+Visceral pleural invasion:	Not identified.
+Tumor extension:	Not identified.
+
+MARGINS:	R0 (negative).
+    Bronchial margin:	Uninvolved by invasive carcinoma.
+    Vascular margin:	Uninvolved by invasive carcinoma.
+    Parenchymal margin:	Uninvolved by invasive carcinoma.
+    Parietal pleural margin:	Not applicable.
+    Chest wall margin:	Not applicable.
+    Other attached tissue margin:	Not applicable.
+Treatment effect:	Not applicable.
+
+Lymphovascular invasion:	Not identified.
+Lymph nodes:	Sixteen total lymph nodes, negative for metastasis (0/16).
+
+PATHOLOGIC STAGING SUMMARY (LOWER LOBE):
+Primary tumor:	pT3.
+Regional lymph nodes:	pN0 (0/16 total lymph nodes).
+Distant metastais:	pMX.
+Pathologic stage:	IIB.
+Margin status:	R0.
+
+Additional findings:	Focal non-necrotizing granulomatous inflammation.
+
+Source of Specimen:
+A. Lymph node;N11R
+B. Lymph node;N11R2
+C. Lymph node;N11R3
+D. Lymph node;N8R
+E. N11R4
+F. Right Lower Lobe
+G. Lymph node;N11R5
+H. N7
+I. Right Middle Lobe
+J. Lymph node;N4R
+K. Lymph node;N10R

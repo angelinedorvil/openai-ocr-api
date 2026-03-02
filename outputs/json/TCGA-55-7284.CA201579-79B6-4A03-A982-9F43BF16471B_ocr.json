@@ -1,0 +1,365 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\0221073d-e641-4997-a805-924588c5094b\\TCGA-55-7284.CA201579-79B6-4A03-A982-9F43BF16471B.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.639122247695923,
+        "chars": 1396,
+        "words": 182,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - K. LUNG, RIGHT, MIDDLE AND LOWER LOBES, INTERLOBAR (N11R X5), HILAR (N10R), PERI-ESOPHAGEAL (N8R), SUBCARINAL (N7), AND LOWER PARATRACHEAL (N4R) LYMPH NODES, BI-LOBECTOMY WITH REGIONAL LYMPHADENECTOMY:\n   - INVASIVE ADENOCARCINOMA, WITH PREDOMINANT BRONCHIOLOALVEOLAR PATTERN, MULTIFOCAL, INVOLVING THE MIDDLE AND LOWER LOBES.\n      - MIDDLE LOBE:\n         - Tumor 2 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - LOWER LOBE:\n         - 15 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - MARGIN STATUS (BOTH FOCI): NEGATIVE.\n   - SIXTEEN LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/16).\n   - NON-NECROTIZING GRANULOMATOUS INFLAMMATION.\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT1a.\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IA.\n   - Lymphovascular invasion: Not identified.\n   - Margin status: R0.\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT3 (15 cm in maximum dimension).\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IIB.\n   - Lymphovascular invasion: Not identified.",
+        "confidence": {
+          "mean_probability": 0.994480698878415,
+          "mean_log_probability": -0.007001712053571428,
+          "perplexity": 1.0070262813483142,
+          "min_probability": 0.4387831287193175
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 449,
+          "total_tokens": 2921
+        },
+        "composite_score": 0.9340375768424123,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.639122247695923,
+          "chars": 1396,
+          "words": 182,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - K. LUNG, RIGHT, MIDDLE AND LOWER LOBES, INTERLOBAR (N11R X5), HILAR (N10R), PERI-ESOPHAGEAL (N8R), SUBCARINAL (N7), AND LOWER PARATRACHEAL (N4R) LYMPH NODES, BI-LOBECTOMY WITH REGIONAL LYMPHADENECTOMY:\n   - INVASIVE ADENOCARCINOMA, WITH PREDOMINANT BRONCHIOLOALVEOLAR PATTERN, MULTIFOCAL, INVOLVING THE MIDDLE AND LOWER LOBES.\n      - MIDDLE LOBE:\n         - Tumor 2 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - LOWER LOBE:\n         - 15 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - MARGIN STATUS (BOTH FOCI): NEGATIVE.\n   - SIXTEEN LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/16).\n   - NON-NECROTIZING GRANULOMATOUS INFLAMMATION.\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT1a.\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IA.\n   - Lymphovascular invasion: Not identified.\n   - Margin status: R0.\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT3 (15 cm in maximum dimension).\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IIB.\n   - Lymphovascular invasion: Not identified.",
+          "confidence": {
+            "mean_probability": 0.994480698878415,
+            "mean_log_probability": -0.007001712053571428,
+            "perplexity": 1.0070262813483142,
+            "min_probability": 0.4387831287193175
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 449,
+            "total_tokens": 2921
+          },
+          "composite_score": 0.9340375768424123,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.714265823364258,
+          "chars": 1396,
+          "words": 182,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - K. LUNG, RIGHT, MIDDLE AND LOWER LOBES, INTERLOBAR (N11R X5), HILAR (N10R), PERI-ESOPHAGEAL (N8R), SUBCARINAL (N7), AND LOWER PARATRACHEAL (N4R) LYMPH NODES, BI-LOBECTOMY WITH REGIONAL LYMPHADENECTOMY:\n   - INVASIVE ADENOCARCINOMA, WITH PREDOMINANT BRONCHIOLOALVEOLAR PATTERN, MULTIFOCAL, INVOLVING THE MIDDLE AND LOWER LOBES.\n      - MIDDLE LOBE:\n         - Tumor 2 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - LOWER LOBE:\n         - 15 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - MARGIN STATUS (BOTH FOCI): NEGATIVE.\n   - SIXTEEN LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/16).\n   - NON-NECROTIZING GRANULOMATOUS INFLAMMATION.\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT1a.\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IA.\n   - Lymphovascular invasion: Not identified.\n   - Margin status: R0.\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT3 (15 cm in maximum dimension).\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IIB.\n   - Lymphovascular invasion: Not identified.",
+          "confidence": {
+            "mean_probability": 0.9942181630067892,
+            "mean_log_probability": -0.007450767857142858,
+            "perplexity": 1.0074785938934885,
+            "min_probability": 0.4140891459313696
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 449,
+            "total_tokens": 2921
+          },
+          "composite_score": 0.8869992949967443
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.540879726409912,
+          "chars": 1396,
+          "words": 182,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nDiagnosis:\n\nA. - K. LUNG, RIGHT, MIDDLE AND LOWER LOBES, INTERLOBAR (N11R X5), HILAR (N10R), PERI-ESOPHAGEAL (N8R), SUBCARINAL (N7), AND LOWER PARATRACHEAL (N4R) LYMPH NODES, BI-LOBECTOMY WITH REGIONAL LYMPHADENECTOMY:\n   - INVASIVE ADENOCARCINOMA, WITH PREDOMINANT BRONCHIOLOALVEOLAR PATTERN, MULTIFOCAL, INVOLVING THE MIDDLE AND LOWER LOBES.\n      - MIDDLE LOBE:\n         - Tumor 2 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - LOWER LOBE:\n         - 15 cm in maximum dimension.\n         - Visceral pleural invasion: NOT IDENTIFIED.\n      - MARGIN STATUS (BOTH FOCI): NEGATIVE.\n   - SIXTEEN LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/16).\n   - NON-NECROTIZING GRANULOMATOUS INFLAMMATION.\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT1a.\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IA.\n   - Lymphovascular invasion: Not identified.\n   - Margin status: R0.\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\n   - Type and grade: Adenocarcinoma, well differentiated.\n   - Primary tumor: pT3 (15 cm in maximum dimension).\n   - Regional lymph nodes: pN0 (0/16 total lymph nodes).\n   - Distant metastasis: pMX.\n   - Pathologic stage: IIB.\n   - Lymphovascular invasion: Not identified.",
+          "confidence": {
+            "mean_probability": 0.9945984625872321,
+            "mean_log_probability": -0.006957848214285716,
+            "perplexity": 1.006982110278116,
+            "min_probability": 0.41350941323549817
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 449,
+            "total_tokens": 2921
+          },
+          "composite_score": 0.8873685739822829
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.8225760459899902,
+        "chars": 468,
+        "words": 72,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\n- Margin status: R0.\n\nCOMMENT: Elastic stain, performed with adequate control on the lower and middle lobe specimens (parts 'F' and 'I') confirm the absence of visceral pleura invasion. Special stains for acid fast bacilli (AFB), and fungi (GMS, PAS), performed on parts 'F' and 'I' with adequate controls, are negative. The granulomas see in these specimens are most likely secondary to etravasated mucin.\n\nFindings discussed with Dr.",
+        "confidence": {
+          "mean_probability": 0.9919382219141717,
+          "mean_log_probability": -0.008875785714285715,
+          "perplexity": 1.0089152922977942,
+          "min_probability": 0.6953047780326098
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 113,
+          "total_tokens": 2585
+        },
+        "composite_score": 0.8397618406230245,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.8225760459899902,
+          "chars": 468,
+          "words": 72,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\n- Margin status: R0.\n\nCOMMENT: Elastic stain, performed with adequate control on the lower and middle lobe specimens (parts 'F' and 'I') confirm the absence of visceral pleura invasion. Special stains for acid fast bacilli (AFB), and fungi (GMS, PAS), performed on parts 'F' and 'I' with adequate controls, are negative. The granulomas see in these specimens are most likely secondary to etravasated mucin.\n\nFindings discussed with Dr.",
+          "confidence": {
+            "mean_probability": 0.9919382219141717,
+            "mean_log_probability": -0.008875785714285715,
+            "perplexity": 1.0089152922977942,
+            "min_probability": 0.6953047780326098
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 113,
+            "total_tokens": 2585
+          },
+          "composite_score": 0.8397618406230245,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.2310407161712646,
+          "chars": 468,
+          "words": 72,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\n- Margin status: R0.\n\nCOMMENT: Elastic stain, performed with adequate control on the lower and middle lobe specimens (parts 'F' and 'I') confirm the absence of visceral pleura invasion. Special stains for acid fast bacilli (AFB), and fungi (GMS, PAS), performed on parts 'F' and 'I' with adequate controls, are negative. The granulomas see in these specimens are most likely secondary to etravasated mucin.\n\nFindings discussed with Dr.",
+          "confidence": {
+            "mean_probability": 0.9918563372332118,
+            "mean_log_probability": -0.009061026785714287,
+            "perplexity": 1.009102202158677,
+            "min_probability": 0.6682078507676646
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 113,
+            "total_tokens": 2585
+          },
+          "composite_score": 0.7976354570096927
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.605050563812256,
+          "chars": 468,
+          "words": 72,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\n- Margin status: R0.\n\nCOMMENT: Elastic stain, performed with adequate control on the lower and middle lobe specimens (parts 'F' and 'I') confirm the absence of visceral pleura invasion. Special stains for acid fast bacilli (AFB), and fungi (GMS, PAS), performed on parts 'F' and 'I' with adequate controls, are negative. The granulomas see in these specimens are most likely secondary to etravasated mucin.\n\nFindings discussed with Dr.",
+          "confidence": {
+            "mean_probability": 0.9924405221082478,
+            "mean_log_probability": -0.008358410714285714,
+            "perplexity": 1.0083934397568115,
+            "min_probability": 0.6815095600437954
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 113,
+            "total_tokens": 2585
+          },
+          "composite_score": 0.7981602636410229
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 9.150702476501465,
+        "chars": 2373,
+        "words": 181,
+        "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nTumor Staging Information\n(data derived from current specimen, staging in accordance with or modified from AJCC Cancer Staging Handbook, █████ and CAP protocol, February █████\n\n           Specimen:                                    Middle and lower lobes.\n           Procedure:                                  Bilobectomy.\n           Specimen integrity:                        Intact.\n           Specimen laterality:                       Right.\n\nTUMOR FEATURES (MIDDLE LOBE):\nTumor size:                                               Greatest dimension: 2 cm.\nTumor focality:                                           Separate tumor nodules in different lobes (middle and lower lobes).\nHistologic type:                                          Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:                                        Well differentiated (G1).\nVisceral pleural invasion:                           Not identified.\nTumor extension:                                       Not identified.\n\nMARGINS:                                                    R0 (negative).\n     Bronchial margin:                               Uninvolved by invasive carcinoma.\n     Vascular margin:                                Uninvolved by invasive carcinoma.\n     Parenchymal margin:                          Uninvolved by invasive carcinoma.\n     Parietal pleural margin:                      Not applicable.\n     Chest wall margin:                              Not applicable.\n     Other attached tissue margin:              Not applicable.\nTreatment effect:                                       Not applicable.\n\nLymphovascular invasion:                          Not identified.\nLymph nodes:                                             Sixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\nPrimary tumor:                                          pT1a (2 cm in greatest dimension).\nRegional lymph nodes:                              pN0 (0/16 total lymph nodes).\nDistant metastasis:                                    pMX.\nPathologic stage:                                        IA.\nMargin status:                                           R0.\n\nTUMOR FEATURES (LOWER LOBE):\nTumor size:                                               Greatest dimension: 15 cm.",
+        "confidence": {
+          "mean_probability": 0.9473108735460158,
+          "mean_log_probability": -0.0948101974025974,
+          "perplexity": 1.0994501568255095,
+          "min_probability": 0.052385208921079694
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 386,
+          "total_tokens": 2858
+        },
+        "composite_score": 0.8841842538579527,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.439684629440308,
+          "chars": 1936,
+          "words": 181,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nTumor Staging Information\n(data derived from current specimen, staging in accordance with or modified from AJCC Cancer Staging Handbook, ██████ and CAP protocol, February ██████\n\nSpecimen:                                  Middle and lower lobes.\nProcedure:                               Bilobectomy.\nSpecimen integrity:                   Intact.\nSpecimen laterality:                   Right.\n\nTUMOR FEATURES (MIDDLE LOBE):\nTumor size:                              Greatest dimension: 2 cm.\nTumor focality:                         Separate tumor nodules in different lobes (middle and lower lobes).\nHistologic type:                        Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:                      Well differentiated (G1).\nVisceral pleural invasion:          Not identified.\nTumor extension:                      Not identified.\n\nMARGINS:                                  R0 (negative).\n  Bronchial margin:                  Uninvolved by invasive carcinoma.\n  Vascular margin:                   Uninvolved by invasive carcinoma.\n  Parenchymal margin:             Uninvolved by invasive carcinoma.\n  Parietal pleural margin:         Not applicable.\n  Chest wall margin:                Not applicable.\n  Other attached tissue margin: Not applicable.\nTreatment effect:                      Not applicable.\n\nLymphovascular invasion:          Not identified.\nLymph nodes:                           Sixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\nPrimary tumor:                        pT1a (2 cm in greatest dimension).\nRegional lymph nodes:            pN0 (0/16 total lymph nodes).\nDistant metastasis:                  pMX.\nPathologic stage:                    IA.\nMargin status:                        R0.\n\nTUMOR FEATURES (LOWER LOBE):\nTumor size:                              Greatest dimension: 15 cm.",
+          "confidence": {
+            "mean_probability": 0.953746413238268,
+            "mean_log_probability": -0.07469220157068063,
+            "perplexity": 1.0775524308900666,
+            "min_probability": 0.04532946574510012
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 383,
+            "total_tokens": 2855
+          },
+          "composite_score": 0.6565994301675872
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.150702476501465,
+          "chars": 2373,
+          "words": 181,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nTumor Staging Information\n(data derived from current specimen, staging in accordance with or modified from AJCC Cancer Staging Handbook, █████ and CAP protocol, February █████\n\n           Specimen:                                    Middle and lower lobes.\n           Procedure:                                  Bilobectomy.\n           Specimen integrity:                        Intact.\n           Specimen laterality:                       Right.\n\nTUMOR FEATURES (MIDDLE LOBE):\nTumor size:                                               Greatest dimension: 2 cm.\nTumor focality:                                           Separate tumor nodules in different lobes (middle and lower lobes).\nHistologic type:                                          Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:                                        Well differentiated (G1).\nVisceral pleural invasion:                           Not identified.\nTumor extension:                                       Not identified.\n\nMARGINS:                                                    R0 (negative).\n     Bronchial margin:                               Uninvolved by invasive carcinoma.\n     Vascular margin:                                Uninvolved by invasive carcinoma.\n     Parenchymal margin:                          Uninvolved by invasive carcinoma.\n     Parietal pleural margin:                      Not applicable.\n     Chest wall margin:                              Not applicable.\n     Other attached tissue margin:              Not applicable.\nTreatment effect:                                       Not applicable.\n\nLymphovascular invasion:                          Not identified.\nLymph nodes:                                             Sixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\nPrimary tumor:                                          pT1a (2 cm in greatest dimension).\nRegional lymph nodes:                              pN0 (0/16 total lymph nodes).\nDistant metastasis:                                    pMX.\nPathologic stage:                                        IA.\nMargin status:                                           R0.\n\nTUMOR FEATURES (LOWER LOBE):\nTumor size:                                               Greatest dimension: 15 cm.",
+          "confidence": {
+            "mean_probability": 0.9473108735460158,
+            "mean_log_probability": -0.0948101974025974,
+            "perplexity": 1.0994501568255095,
+            "min_probability": 0.052385208921079694
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 386,
+            "total_tokens": 2858
+          },
+          "composite_score": 0.8841842538579527,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 13.980763673782349,
+          "chars": 2210,
+          "words": 181,
+          "text": "FINAL SURGICAL PATHOLOGY REPORT\n\nTumor Staging Information\n(data derived from current specimen, staging in accordance with or modified from AJCC Cancer Staging Handbook, ██████ and CAP protocol, February ██████\n\nSpecimen:                                          Middle and lower lobes.\nProcedure:                                        Bilobectomy.\nSpecimen integrity:                             Intact.\nSpecimen laterality:                             Right.\n\nTUMOR FEATURES (MIDDLE LOBE):\nTumor size:                                       Greatest dimension: 2 cm.\nTumor focality:                                  Separate tumor nodules in different lobes (middle and lower lobes).\nHistologic type:                                  Invasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:                                Well differentiated (G1).\nVisceral pleural invasion:                     Not identified.\nTumor extension:                                Not identified.\n\nMARGINS:                                             R0 (negative).\n     Bronchial margin:                          Uninvolved by invasive carcinoma.\n     Vascular margin:                            Uninvolved by invasive carcinoma.\n     Parenchymal margin:                      Uninvolved by invasive carcinoma.\n     Parietal pleural margin:                  Not applicable.\n     Chest wall margin:                         Not applicable.\n     Other attached tissue margin:          Not applicable.\nTreatment effect:                                Not applicable.\n\nLymphovascular invasion:                    Not identified.\nLymph nodes:                                      Sixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (MIDDLE LOBE):\nPrimary tumor:                                    pT1a (2 cm in greatest dimension).\nRegional lymph nodes:                      pN0 (0/16 total lymph nodes).\nDistant metastasis:                            pMX.\nPathologic stage:                                IA.\nMargin status:                                    R0.\n\nTUMOR FEATURES (LOWER LOBE):\nTumor size:                                       Greatest dimension: 15 cm.",
+          "confidence": {
+            "mean_probability": 0.950794324587724,
+            "mean_log_probability": -26.182590519582245,
+            "perplexity": 234938712588.73502,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 384,
+            "total_tokens": 2856
+          },
+          "composite_score": 0.15257135025878968
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.673872947692871,
+        "chars": 1229,
+        "words": 156,
+        "text": "Tumor focality:\tSeparate tumor nodules in different lobed (middle and lower lobes).\nHistologic type:\tInvasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:\tWell differentiated (G1).\nVisceral pleural invasion:\tNot identified.\nTumor extension:\tNot identified.\n\nMARGINS:\tR0 (negative).\n    Bronchial margin:\tUninvolved by invasive carcinoma.\n    Vascular margin:\tUninvolved by invasive carcinoma.\n    Parenchymal margin:\tUninvolved by invasive carcinoma.\n    Parietal pleural margin:\tNot applicable.\n    Chest wall margin:\tNot applicable.\n    Other attached tissue margin:\tNot applicable.\nTreatment effect:\tNot applicable.\n\nLymphovascular invasion:\tNot identified.\nLymph nodes:\tSixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\nPrimary tumor:\tpT3.\nRegional lymph nodes:\tpN0 (0/16 total lymph nodes).\nDistant metastais:\tpMX.\nPathologic stage:\tIIB.\nMargin status:\tR0.\n\nAdditional findings:\tFocal non-necrotizing granulomatous inflammation.\n\nSource of Specimen:\nA. Lymph node;N11R\nB. Lymph node;N11R2\nC. Lymph node;N11R3\nD. Lymph node;N8R\nE. N11R4\nF. Right Lower Lobe\nG. Lymph node;N11R5\nH. N7\nI. Right Middle Lobe\nJ. Lymph node;N4R\nK. Lymph node;N10R",
+        "confidence": {
+          "mean_probability": 0.9862490341761319,
+          "mean_log_probability": -0.020932157458563534,
+          "perplexity": 1.0211527716882651,
+          "min_probability": 0.22699778937143084
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 363,
+          "total_tokens": 2835
+        },
+        "composite_score": 0.9064976114137335,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.673872947692871,
+          "chars": 1229,
+          "words": 156,
+          "text": "Tumor focality:\tSeparate tumor nodules in different lobed (middle and lower lobes).\nHistologic type:\tInvasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:\tWell differentiated (G1).\nVisceral pleural invasion:\tNot identified.\nTumor extension:\tNot identified.\n\nMARGINS:\tR0 (negative).\n    Bronchial margin:\tUninvolved by invasive carcinoma.\n    Vascular margin:\tUninvolved by invasive carcinoma.\n    Parenchymal margin:\tUninvolved by invasive carcinoma.\n    Parietal pleural margin:\tNot applicable.\n    Chest wall margin:\tNot applicable.\n    Other attached tissue margin:\tNot applicable.\nTreatment effect:\tNot applicable.\n\nLymphovascular invasion:\tNot identified.\nLymph nodes:\tSixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\nPrimary tumor:\tpT3.\nRegional lymph nodes:\tpN0 (0/16 total lymph nodes).\nDistant metastais:\tpMX.\nPathologic stage:\tIIB.\nMargin status:\tR0.\n\nAdditional findings:\tFocal non-necrotizing granulomatous inflammation.\n\nSource of Specimen:\nA. Lymph node;N11R\nB. Lymph node;N11R2\nC. Lymph node;N11R3\nD. Lymph node;N8R\nE. N11R4\nF. Right Lower Lobe\nG. Lymph node;N11R5\nH. N7\nI. Right Middle Lobe\nJ. Lymph node;N4R\nK. Lymph node;N10R",
+          "confidence": {
+            "mean_probability": 0.9862490341761319,
+            "mean_log_probability": -0.020932157458563534,
+            "perplexity": 1.0211527716882651,
+            "min_probability": 0.22699778937143084
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 363,
+            "total_tokens": 2835
+          },
+          "composite_score": 0.9064976114137335,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.004260301589966,
+          "chars": 1217,
+          "words": 156,
+          "text": "Tumor focality:\tSeparate tumor nodules in different lobed (middle and lower lobes).\nHistologic type:\tInvasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:\tWell differentiated (G1).\nVisceral pleural invasion:\tNot identified.\nTumor extension:\tNot identified.\n\nMARGINS:\tR0 (negative).\n  Bronchial margin:\tUninvolved by invasive carcinoma.\n  Vascular margin:\tUninvolved by invasive carcinoma.\n  Parenchymal margin:\tUninvolved by invasive carcinoma.\n  Parietal pleural margin:\tNot applicable.\n  Chest wall margin:\tNot applicable.\n  Other attached tissue margin:\tNot applicable.\nTreatment effect:\tNot applicable.\n\nLymphovascular invasion:\tNot identified.\nLymph nodes:\tSixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\nPrimary tumor:\tpT3.\nRegional lymph nodes:\tpN0 (0/16 total lymph nodes).\nDistant metastais:\tpMX.\nPathologic stage:\tIIB.\nMargin status:\tR0.\n\nAdditional findings:\tFocal non-necrotizing granulomatous inflammation.\n\nSource of Specimen:\nA. Lymph node;N11R\nB. Lymph node;N11R2\nC. Lymph node;N11R3\nD. Lymph node;N8R\nE. N11R4\nF. Right Lower Lobe\nG. Lymph node;N11R5\nH. N7\nI. Right Middle Lobe\nJ. Lymph node;N4R\nK. Lymph node;N10R",
+          "confidence": {
+            "mean_probability": 0.9862153437143206,
+            "mean_log_probability": -0.021377870165745855,
+            "perplexity": 1.021608013900664,
+            "min_probability": 0.16541827711308607
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 363,
+            "total_tokens": 2835
+          },
+          "composite_score": 0.8597078790406137
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.996340274810791,
+          "chars": 1229,
+          "words": 156,
+          "text": "Tumor focality:\tSeparate tumor nodules in different lobed (middle and lower lobes).\nHistologic type:\tInvasive adenocarcinoma, with predominant bronchioloalveolar pattern.\nHistologic grade:\tWell differentiated (G1).\nVisceral pleural invasion:\tNot identified.\nTumor extension:\tNot identified.\n\nMARGINS:\tR0 (negative).\n    Bronchial margin:\tUninvolved by invasive carcinoma.\n    Vascular margin:\tUninvolved by invasive carcinoma.\n    Parenchymal margin:\tUninvolved by invasive carcinoma.\n    Parietal pleural margin:\tNot applicable.\n    Chest wall margin:\tNot applicable.\n    Other attached tissue margin:\tNot applicable.\nTreatment effect:\tNot applicable.\n\nLymphovascular invasion:\tNot identified.\nLymph nodes:\tSixteen total lymph nodes, negative for metastasis (0/16).\n\nPATHOLOGIC STAGING SUMMARY (LOWER LOBE):\nPrimary tumor:\tpT3.\nRegional lymph nodes:\tpN0 (0/16 total lymph nodes).\nDistant metastais:\tpMX.\nPathologic stage:\tIIB.\nMargin status:\tR0.\n\nAdditional findings:\tFocal non-necrotizing granulomatous inflammation.\n\nSource of Specimen:\nA. Lymph node;N11R\nB. Lymph node;N11R2\nC. Lymph node;N11R3\nD. Lymph node;N8R\nE. N11R4\nF. Right Lower Lobe\nG. Lymph node;N11R5\nH. N7\nI. Right Middle Lobe\nJ. Lymph node;N4R\nK. Lymph node;N10R",
+          "confidence": {
+            "mean_probability": 0.98636600913177,
+            "mean_log_probability": -0.02078810497237569,
+            "perplexity": 1.0210056826872482,
+            "min_probability": 0.21182411391618938
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 363,
+            "total_tokens": 2835
+          },
+          "composite_score": 0.8612777822482971
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
