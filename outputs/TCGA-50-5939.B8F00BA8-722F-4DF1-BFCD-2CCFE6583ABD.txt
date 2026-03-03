@@ -1,0 +1,101 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\65a66adf-f3bb-4d81-a411-567d41bedbb9\TCGA-50-5939.B8F00BA8-722F-4DF1-BFCD-2CCFE6583ABD.PDF
+Processing Date: 2026-03-02 15:48:24
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+FINAL DIAGNOSIS: [Redacted]
+
+SUMMARY STATEMENT:
+The right upper lobe apical segmentectomy shows a poorly differentiated adenocarcinoma, 3.4 cm in diameter, with angiolymphatic and visceral pleural invasion unassociated with lymph node metastasis. Pathologic stage; T2 NO Mx.
+
+PART 1: BONE, "PORTION 3RD RIB", RESECTION -
+PORTIONS OF UNREMARKABLE BONE WITH BONE MARROW SHOWING TRILINEAGE REPRESENTATION AND MATURATION. NO EVIDENCE OF MALIGNANCY.
+
+PART 2: LUNG, RIGHT UPPER LOBE APICAL SEGMENT, SEGMENTECTOMY -
+A. POORLY DIFFERENTIATED ADENOCARCINOMA, ACINAR AND SOLID TYPE, ARISING IN PULMONARY PARENCHYMAL SCAR ASSOCIATED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. DIAMETER 3.4 CM. ALL MARGINS FREE. MILD HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE; T2 NO MX.
+B. FOUR (4) SEGMENTAL LYMPH NODES WITH ANTHRACOSILICOTIC NODULES AND NO EVIDENCE OF METASTATIC CARCINOMA.
+C. MULTIPLE PULMONARY APICAL CAPS.
+D. MULTIFOCAL ATYPICAL ADENOMATOUS HYPERPLASIA.
+E. RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE
+
+PART 3: LYMPH NODES, RIGHT LEVEL FOUR LYMPH NODES, BIOPSY -
+TWO LYMPH NODES WITH NO EVIDENCE OF METASTATIC CARCINOMA
+
+COMMENT:
+The adenocarcinoma shows a variety of cytologic features, including mucinous differentiation and clear cell change.
+
+ADDENDA:
+Addendum
+Molecular Anatomic Pathology Testing:
+
+Block 2C:
+A. KRAS codon 12/13 mutation NOT identified.
+B. EGFR Exon 19 mutation NOT identified.
+C. EGFR Exon 21 mutation NOT identified.
+D. EGFR amplification IDENTIFIED (see In Situ Procedure).
+
+Note:
+KRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking (1). EGFR exon 19 and 21 mutations are present in about 10% of [Redacted]s and up to 40% in the [Redacted] population, common in non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2).
+These mutations are mutually exclusive and their presence may have prognostic and/or therapeutic implications (3,4).
+Clinical studies show high EGFR gene copy number by FISH analysis (amplification) to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.
+
+Sample Preparation and Gene Sequencing Analysis
+For cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgical specimens, manual microdissection was performed. Specimens with the minimum of 50% of tumor cells in a microdissection target are accepted for the analysis. DNA was isolated using standard laboratory procedure. Optical density readings were obtained. For the detection of mutation, DNA was amplified with primers for the KRAS gene and exons 19 and 21 of the EGFR gene. Then, forward and reverse sequencing was performed using the [Redacted] on ABI3130 [Redacted]. The known hotspots were analyzed for the presence of mutations with Mutation Surveyor V3.01 [Redacted] For specimens with low quality and quantity of DNA, an alternative method (real-time PCR on LightCycler (Roche)) was applied for detection of KRAS mutations.
+
+SPECIAL PROCEDURES:
+In Situ Procedure
+Interpretation
+PROBE: Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreen TM Probe [Redacted]
+
+Fluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of chromosome 7 of 2.65 indicating EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of chromosome 7 was 25.8%, and the monosomy rate was 36.4% in the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 5.7. 66 cells were analyzed in the targeted region.
+Results
+Interpretation guidelines for EGFR Gene Copy Number by FISH:
+
+Ratio of EGFR to the centromere of chromosome 7:
+Less than 2.0: No EGFR amplification
+Greater than 2.0: EGFR amplification
+
+Hyperploidy: Greater than two centromere copies/cell.
+SNR: The average number of EGFR signals per analyzed cell within the targeted region.
+
+Clinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.
+
+================================================================================
+PAGE 2
+================================================================================
+CASE SYNOPSIS:
+     SYNOPTIC DATA - PRIMARY LUNG TUMORS
+
+TUMOR LOCATION:                        Right Upper Lobe
+LUNG SEGMENT(S) INVOLVED:             Apical
+PROCEDURE:                           Segmental
+TUMOR SIZE:                          Maximum dimension: 3.4 cm
+                                    Minor dimension: 1.9 cm
+GROSS SATELLITES:                    Number of gross satellite lesions: 0
+TUMOR TYPE:                         Invasive adenocarcinoma
+HISTOLOGIC GRADE:                   G3, Poorly differentiated
+MICROSCOPIC SATELLITES:             Number of microscopic satellite lesions: 0
+EXTRAPULMONARY PARENCHYMAL
+EXTENSION/INVASION OF TUMOR:        Visceral pleura
+ANGIOLYMPHATIC INVASION:             Yes
+TUMOR NECROSIS:                     < or = to 50%
+SURGICAL MARGIN INVOLVEMENT:         No
+SURGICAL MARGIN SITE:                Distance of invasive tumor to closest margin: 12 mm, Bronchial margin
+INFLAMMATORY(DESMOPLASTIC) REACTION: Mild
+N1 LYMPH NODES:                     Number of N1 lymph nodes positive: 0
+                                    Number of N1 lymph nodes examined: 4
+N2 LYMPH NODES:                     Number of N2 lymph nodes positive: 0
+                                    Number of N2 lymph nodes examined: 2
+UNDERLYING DISEASE(S):              Atypical alveolar hyperplasia, Emphysema, Parenchymal scar, Smokers bronchiolitis
+T STAGE, PATHOLOGIC:                pT3
+N STAGE, PATHOLOGIC:                pN0
+M STAGE, PATHOLOGIC:                pMX
+ANCILLARY STUDIES:                  Histochemical stains, FISH studies, Molecular studies
+Comment:                           PAS/PAS-D and mucicarmine stains are positive. Elastic tissue stains confirms
+                                  visceral pleural invasion.

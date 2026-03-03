@@ -1,0 +1,365 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\4e617c3c-ff31-4ead-84fa-ab3d5779732b\\TCGA-93-8067.24B499FF-C99B-4D57-AC96-8978D0A44538.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.034703969955444,
+        "chars": 1261,
+        "words": 171,
+        "text": "Surgical Pathology Report                                                                                      Final\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender:\nDOB:\nPhysician(s):\n\nDIAGNOSIS:\nLUNG, LEFT LOWER LOBE, LOBECTOMY (INCLUDING FS1 AND FS2)\n     - MODERATELY-DIFFERENTIATED ADENOCARCINOMA (3.4 CM), WITH FOCAL MUCINOUS,\n       BRONCHIOLOALVEOLAR, AND PAPILLARY FEATURES\n       - CARCINOMA ABUTS BUT DOES NOT INVADE PLEURA\n       - NO LYMPHOVASCULAR INVASION IDENTIFIED\n       - RESECTION MARGINS ARE FREE OF TUMOR\n       - SEE SYNOPSIS\n\nLYMPH NODES, PERIBRONCHIAL, DISSECTION\n     - SEVEN LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/7)\n     - SMALL HYALINIZED GRANULOMA\n\nLYMPH NODE, LEVEL 9, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 10, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 11, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 12, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 7, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the material submitted.",
+        "confidence": {
+          "mean_probability": 0.9743624131127008,
+          "mean_log_probability": -0.04134039268292683,
+          "perplexity": 1.0422068047439803,
+          "min_probability": 0.05352861008894352
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 411,
+          "total_tokens": 2883
+        },
+        "composite_score": 0.8943406306537928,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.034703969955444,
+          "chars": 1261,
+          "words": 171,
+          "text": "Surgical Pathology Report                                                                                      Final\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender:\nDOB:\nPhysician(s):\n\nDIAGNOSIS:\nLUNG, LEFT LOWER LOBE, LOBECTOMY (INCLUDING FS1 AND FS2)\n     - MODERATELY-DIFFERENTIATED ADENOCARCINOMA (3.4 CM), WITH FOCAL MUCINOUS,\n       BRONCHIOLOALVEOLAR, AND PAPILLARY FEATURES\n       - CARCINOMA ABUTS BUT DOES NOT INVADE PLEURA\n       - NO LYMPHOVASCULAR INVASION IDENTIFIED\n       - RESECTION MARGINS ARE FREE OF TUMOR\n       - SEE SYNOPSIS\n\nLYMPH NODES, PERIBRONCHIAL, DISSECTION\n     - SEVEN LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/7)\n     - SMALL HYALINIZED GRANULOMA\n\nLYMPH NODE, LEVEL 9, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 10, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 11, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 12, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 7, BIOPSY\n     - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the material submitted.",
+          "confidence": {
+            "mean_probability": 0.9743624131127008,
+            "mean_log_probability": -0.04134039268292683,
+            "perplexity": 1.0422068047439803,
+            "min_probability": 0.05352861008894352
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 411,
+            "total_tokens": 2883
+          },
+          "composite_score": 0.8943406306537928,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.021823167800903,
+          "chars": 1193,
+          "words": 171,
+          "text": "Surgical Pathology Report                                                                                   Final\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender:\nDOB:\nPhysician(s):\n\nDIAGNOSIS:\nLUNG, LEFT LOWER LOBE, LOBECTOMY (INCLUDING FS1 AND FS2)\n- MODERATELY-DIFFERENTIATED ADENOCARCINOMA (3.4 CM), WITH FOCAL MUCINOUS,\n  BRONCHIOLOALVEOLAR, AND PAPILLARY FEATURES\n  - CARCINOMA ABUTS BUT DOES NOT INVADE PLEURA\n  - NO LYMPHOVASCULAR INVASION IDENTIFIED\n  - RESECTION MARGINS ARE FREE OF TUMOR\n  - SEE SYNOPSIS\n\nLYMPH NODES, PERIBRONCHIAL, DISSECTION\n- SEVEN LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/7)\n- SMALL HYALINIZED GRANULOMA\n\nLYMPH NODE, LEVEL 9, BIOPSY\n- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 10, BIOPSY\n- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 11, BIOPSY\n- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 12, BIOPSY\n- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 7, BIOPSY\n- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the material submitted.",
+          "confidence": {
+            "mean_probability": 0.97451638676321,
+            "mean_log_probability": -0.041456388059701484,
+            "perplexity": 1.042327702926653,
+            "min_probability": 0.043687555002077605
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 403,
+            "total_tokens": 2875
+          },
+          "composite_score": 0.5901576185668267
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.959108591079712,
+          "chars": 1242,
+          "words": 171,
+          "text": "Surgical Pathology Report                                                                                         Final\n\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender:\nDOB:\nPhysician(s):\n\nDIAGNOSIS:\nLUNG, LEFT LOWER LOBE, LOBECTOMY (INCLUDING FS1 AND FS2)\n   - MODERATELY-DIFFERENTIATED ADENOCARCINOMA (3.4 CM), WITH FOCAL MUCINOUS,\n     BRONCHIOLOALVEOLAR, AND PAPILLARY FEATURES\n     - CARCINOMA ABUTS BUT DOES NOT INVADE PLEURA\n     - NO LYMPHOVASCULAR INVASION IDENTIFIED\n     - RESECTION MARGINS ARE FREE OF TUMOR\n     - SEE SYNOPSIS\n\nLYMPH NODES, PERIBRONCHIAL, DISSECTION\n   - SEVEN LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/7)\n   - SMALL HYALINIZED GRANULOMA\n\nLYMPH NODE, LEVEL 9, BIOPSY\n   - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 10, BIOPSY\n   - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 11, BIOPSY\n   - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 12, BIOPSY\n   - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\nLYMPH NODE, LEVEL 7, BIOPSY\n   - ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1)\n\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the material submitted.\n\n",
+          "confidence": {
+            "mean_probability": 0.9719600125521222,
+            "mean_log_probability": -0.04658906585365853,
+            "perplexity": 1.0476913884410148,
+            "min_probability": 0.048851656067170506
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 411,
+            "total_tokens": 2883
+          },
+          "composite_score": 0.5909109419288792
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 27.711820363998413,
+        "chars": 2857,
+        "words": 480,
+        "text": "SURGICAL PATHOLOGY REPORT\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Brought to frozen 'left lower lobe lung' consisting of a 134 gram 18 x 7.5 x 3.5 cm lung. The pleural surface is puckered. This area is inked blue. Sectioned to show a 3.0 cm firm white mass. Bronchial margin frozen as FS1 and mass frozen as FS2. Tissue taken for research studies. Rest for permanents,\" \n\nFS1: Bronchial margin, biopsy\n- \"No evidence of malignancy.\"\n\nFS2: Left lower lobe lung, mass, biopsy\n- \"Adenocarcinoma,\" by \n\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a a lung mass. Operative procedure: Left lower lobectomy.\n\nSpecimen(s) Received:\nA: LYMPH NODE, LEVEL 9\nB: LYMPH NODE, LEVEL 10\nC: LYMPH NODE, LEVEL 11\nD: LYMPH NODE, LEVEL 12\nE: LUNG, LEFT LOWER LOBE\nF: LYMPH NODE, LEVEL 7\n\nGross Description:\nThe specimen is received in six formalin-filled containers, each labeled The first container is additionally labeled \"level 9 lymph node.\" It contains a 2.0 x 1.3 x 0.4 cm lymph node with attached yellow fibroadipose tissue. Labeled A1. Jar 0.\n\nThe second container is labeled \"level 10 lymph node.\" It contains multiple fragments of yellow-tan soft tissue measuring 2.6 x 1.5 x 0.5 cm in aggregate. Labeled B1. Jar 0.\n\nThe third container is labeled \"level 11 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 2.6 x 2.3 x 0.5 cm in aggregate. Labeled C1. Jar 0.\n\nThe fourth container is labeled \"level 12 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 1.6 x 1.4 x 0.4 cm in area. Labeled D1. Jar 0.\n\nThe fifth container is labeled \"left lower lobe lung.\" It contains a green cassette labeled \"FS1\" that holds a 1.6 x 1.1 x 0.3 cm piece of bronchial tissue. Labeled E1 - FS1. There is also a green cassette labeled \"FS2\" that holds a 2.0 x 1.6 x 0.2 cm piece of tan tissue. Labeled E2 - FS2. The bronchial and vascular margins are grossly unremarkable. A portion of the pleural surface is puckered as described in the intraoperative consultation. This has been previously inked blue and is previously sectioned to show a 3.4 x 2.2 x 2.0 cm firm white mass. The mass is adjacent to the bronchus but not grossly present at the bronchial margin. Sections of the uninvolved lung show spongy tan parenchyma with no abnormalities. Multiple peribronchial lymph nodes are identified. Labeled E3 - tumor in relation to bronchus; E4 to E6 - additional sections of tumor in relation to pleura; E7 - uninvolved lung; E8 - vascular margin; E9 - additional section of bronchus at margin; E10 and E11 - peribronchial lymph nodes. Jar 2.\n\nThe sixth container is labeled \"level 7 lymph node.\" It contains multiple fragments of tan-black tissue measuring 1.7 x\n\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9928731715676,
+          "mean_log_probability": -0.00896775,
+          "perplexity": 1.0090080807385426,
+          "min_probability": 0.37077087305773826
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 793,
+          "total_tokens": 3265
+        },
+        "composite_score": 0.9928895646069955,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 27.711820363998413,
+          "chars": 2857,
+          "words": 480,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Brought to frozen 'left lower lobe lung' consisting of a 134 gram 18 x 7.5 x 3.5 cm lung. The pleural surface is puckered. This area is inked blue. Sectioned to show a 3.0 cm firm white mass. Bronchial margin frozen as FS1 and mass frozen as FS2. Tissue taken for research studies. Rest for permanents,\" \n\nFS1: Bronchial margin, biopsy\n- \"No evidence of malignancy.\"\n\nFS2: Left lower lobe lung, mass, biopsy\n- \"Adenocarcinoma,\" by \n\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a a lung mass. Operative procedure: Left lower lobectomy.\n\nSpecimen(s) Received:\nA: LYMPH NODE, LEVEL 9\nB: LYMPH NODE, LEVEL 10\nC: LYMPH NODE, LEVEL 11\nD: LYMPH NODE, LEVEL 12\nE: LUNG, LEFT LOWER LOBE\nF: LYMPH NODE, LEVEL 7\n\nGross Description:\nThe specimen is received in six formalin-filled containers, each labeled The first container is additionally labeled \"level 9 lymph node.\" It contains a 2.0 x 1.3 x 0.4 cm lymph node with attached yellow fibroadipose tissue. Labeled A1. Jar 0.\n\nThe second container is labeled \"level 10 lymph node.\" It contains multiple fragments of yellow-tan soft tissue measuring 2.6 x 1.5 x 0.5 cm in aggregate. Labeled B1. Jar 0.\n\nThe third container is labeled \"level 11 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 2.6 x 2.3 x 0.5 cm in aggregate. Labeled C1. Jar 0.\n\nThe fourth container is labeled \"level 12 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 1.6 x 1.4 x 0.4 cm in area. Labeled D1. Jar 0.\n\nThe fifth container is labeled \"left lower lobe lung.\" It contains a green cassette labeled \"FS1\" that holds a 1.6 x 1.1 x 0.3 cm piece of bronchial tissue. Labeled E1 - FS1. There is also a green cassette labeled \"FS2\" that holds a 2.0 x 1.6 x 0.2 cm piece of tan tissue. Labeled E2 - FS2. The bronchial and vascular margins are grossly unremarkable. A portion of the pleural surface is puckered as described in the intraoperative consultation. This has been previously inked blue and is previously sectioned to show a 3.4 x 2.2 x 2.0 cm firm white mass. The mass is adjacent to the bronchus but not grossly present at the bronchial margin. Sections of the uninvolved lung show spongy tan parenchyma with no abnormalities. Multiple peribronchial lymph nodes are identified. Labeled E3 - tumor in relation to bronchus; E4 to E6 - additional sections of tumor in relation to pleura; E7 - uninvolved lung; E8 - vascular margin; E9 - additional section of bronchus at margin; E10 and E11 - peribronchial lymph nodes. Jar 2.\n\nThe sixth container is labeled \"level 7 lymph node.\" It contains multiple fragments of tan-black tissue measuring 1.7 x\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9928731715676,
+            "mean_log_probability": -0.00896775,
+            "perplexity": 1.0090080807385426,
+            "min_probability": 0.37077087305773826
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 793,
+            "total_tokens": 3265
+          },
+          "composite_score": 0.9928895646069955,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 38.44974112510681,
+          "chars": 2856,
+          "words": 480,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Brought to frozen 'left lower lobe lung' consisting of a 134 gram 18 x 7.5 x 3.5 cm lung. The pleural surface is puckered. This area is inked blue. Sectioned to show a 3.0 cm firm white mass. Bronchial margin frozen as FS1 and mass frozen as FS2. Tissue taken for research studies. Rest for permanents,\" \n\nFS1: Bronchial margin, biopsy\n- \"No evidence of malignancy,\"\n\nFS2: Left lower lobe lung, mass, biopsy\n- \"Adenocarcinoma,\" by\n\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a a lung mass. Operative procedure: Left lower lobectomy.\n\nSpecimen(s) Received:\nA: LYMPH NODE, LEVEL 9\nB: LYMPH NODE, LEVEL 10\nC: LYMPH NODE, LEVEL 11\nD: LYMPH NODE, LEVEL 12\nE: LUNG, LEFT LOWER LOBE\nF: LYMPH NODE, LEVEL 7\n\nGross Description:\nThe specimen is received in six formalin-filled containers, each labeled The first container is additionally labeled \"level 9 lymph node.\" It contains a 2.0 x 1.3 x 0.4 cm lymph node with attached yellow fibroadipose tissue. Labeled A1. Jar 0.\n\nThe second container is labeled \"level 10 lymph node.\" It contains multiple fragments of yellow-tan soft tissue measuring 2.6 x 1.5 x 0.5 cm in aggregate. Labeled B1. Jar 0.\n\nThe third container is labeled \"level 11 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 2.6 x 2.3 x 0.5 cm in aggregate. Labeled C1. Jar 0.\n\nThe fourth container is labeled \"level 12 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 1.6 x 1.4 x 0.4 cm in area. Labeled D1. Jar 0.\n\nThe fifth container is labeled \"left lower lobe lung.\" It contains a green cassette labeled \"FS1\" that holds a 1.6 x 1.1 x 0.3 cm piece of bronchial tissue. Labeled E1 - FS1. There is also a green cassette labeled \"FS2\" that holds a 2.0 x 1.6 x 0.2 cm piece of tan tissue. Labeled E2 - FS2. The bronchial and vascular margins are grossly unremarkable. A portion of the pleural surface is puckered as described in the intraoperative consultation. This has been previously inked blue and is previously sectioned to show a 3.4 x 2.2 x 2.0 cm firm white mass. The mass is adjacent to the bronchus but not grossly present at the bronchial margin. Sections of the uninvolved lung show spongy tan parenchyma with no abnormalities. Multiple peribronchial lymph nodes are identified. Labeled E3 - tumor in relation to bronchus; E4 to E6 - additional sections of tumor in relation to pleura; E7 - uninvolved lung; E8 - vascular margin; E9 - additional section of bronchus at margin; E10 and E11 - peribronchial lymph nodes. Jar 2.\n\nThe sixth container is labeled \"level 7 lymph node.\" It contains multiple fragments of tan-black tissue measuring 1.7 x\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9928956198689706,
+            "mean_log_probability": -0.008915316519546027,
+            "perplexity": 1.0089551763200568,
+            "min_probability": 0.3513480329176964
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 794,
+            "total_tokens": 3266
+          },
+          "composite_score": 0.9432842326368592
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.06123447418213,
+          "chars": 2858,
+          "words": 480,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Brought to frozen 'left lower lobe lung' consisting of a 134 gram 18 x 7.5 x 3.5 cm lung. The pleural surface is puckered. This area is inked blue. Sectioned to show a 3.0 cm firm white mass. Bronchial margin frozen as FS1 and mass frozen as FS2. Tissue taken for research studies. Rest for permanents,\" \n\nFS1: Bronchial margin, biopsy\n- \"No evidence of malignancy.\"\n\nFS2: Left lower lobe lung, mass, biopsy\n- \"Adenocarcinoma,\" by \n\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a  a lung mass. Operative procedure: Left lower lobectomy.\n\nSpecimen(s) Received:\nA: LYMPH NODE, LEVEL 9\nB: LYMPH NODE, LEVEL 10\nC: LYMPH NODE, LEVEL 11\nD: LYMPH NODE, LEVEL 12\nE: LUNG, LEFT LOWER LOBE\nF: LYMPH NODE, LEVEL 7\n\nGross Description:\nThe specimen is received in six formalin-filled containers, each labeled The first container is additionally labeled \"level 9 lymph node.\" It contains a 2.0 x 1.3 x 0.4 cm lymph node with attached yellow fibroadipose tissue. Labeled A1. Jar 0.\n\nThe second container is labeled \"level 10 lymph node.\" It contains multiple fragments of yellow-tan soft tissue measuring 2.6 x 1.5 x 0.5 cm in aggregate. Labeled B1. Jar 0.\n\nThe third container is labeled \"level 11 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 2.6 x 2.3 x 0.5 cm in aggregate. Labeled C1. Jar 0.\n\nThe fourth container is labeled \"level 12 lymph node.\" It contains multiple fragments of tan-black soft tissue measuring 1.6 x 1.4 x 0.4 cm in area. Labeled D1. Jar 0.\n\nThe fifth container is labeled \"left lower lobe lung.\" It contains a green cassette labeled \"FS1\" that holds a 1.6 x 1.1 x 0.3 cm piece of bronchial tissue. Labeled E1 - FS1. There is also a green cassette labeled \"FS2\" that holds a 2.0 x 1.6 x 0.2 cm piece of tan tissue. Labeled E2 - FS2. The bronchial and vascular margins are grossly unremarkable. A portion of the pleural surface is puckered as described in the intraoperative consultation. This has been previously inked blue and is previously sectioned to show a 3.4 x 2.2 x 2.0 cm firm white mass. The mass is adjacent to the bronchus but not grossly present at the bronchial margin. Sections of the uninvolved lung show spongy tan parenchyma with no abnormalities. Multiple peribronchial lymph nodes are identified. Labeled E3 - tumor in relation to bronchus; E4 to E6 - additional sections of tumor in relation to pleura; E7 - uninvolved lung; E8 - vascular margin; E9 - additional section of bronchus at margin; E10 and E11 - peribronchial lymph nodes. Jar 2.\n\nThe sixth container is labeled \"level 7 lymph node.\" It contains multiple fragments of tan-black tissue measuring 1.7 x\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.991570768491779,
+            "mean_log_probability": -0.011341598991172762,
+            "perplexity": 1.0114061587645111,
+            "min_probability": 0.29046825086657374
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 794,
+            "total_tokens": 3266
+          },
+          "composite_score": 0.9414770486629943
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.794548988342285,
+        "chars": 1543,
+        "words": 227,
+        "text": "SURGICAL PATHOLOGY REPORT\n\n1.4 x 0.4 cm In aggregate. Labeled F1. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR LUNG CARCINOMA\n\nNEOPLASM\nA neoplasm is present\n\nHISTOPATHOLOGIC TYPE\nThe histologic classification of the tumor is adenocarcinoma, acinar (usual) type.\nThe histologic classification of the tumor is with focal bronchioloalveolar, mucinous, and papillary features\n\nHISTOLOGIC GRADE (G)\nThe grade of the tumor is moderately differentiated (G2)\n\nTUMOR SIZE\nThe maximum dimension of the tumor is 3.4 cm\n\nLYMPHATIC INVASION\nLymphatic invasion by tumor is absent (L0)\n\nVENOUS INVASION\nVenous invasion by tumor is absent (V0)\n\nARTERIAL INVASION\nArterial invasion by tumor is absent\n\nPLEURAL INVOLVEMENT\nPleural involvement is absent\n\nSAMPLED SPECIMEN MARGINS\nThe sampled surgical margins are uninvolved by tumor\n\nNON-NEOPLASTIC TISSUE\nThe non-neoplastic lung tissue shows no pathologic abnormalities\n\nPRIMARY TUMOR (T)\nTumor > 3 cm but <= 5 cm in greatest dimension (T2a)\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis histologically; no examination for ITC (pN0)\nThe total number of lymph nodes examined is 12\nThe total number of metastatically-involved lymph nodes is 0;\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nSTAGE GROUPING\nThe overall international stage is pT2a/N0/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.",
+        "confidence": {
+          "mean_probability": 0.9923852399914924,
+          "mean_log_probability": -0.00898417224880383,
+          "perplexity": 1.00902465105635,
+          "min_probability": 0.511285058445339
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 419,
+          "total_tokens": 2891
+        },
+        "composite_score": 0.9471766595188268,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.794548988342285,
+          "chars": 1543,
+          "words": 227,
+          "text": "SURGICAL PATHOLOGY REPORT\n\n1.4 x 0.4 cm In aggregate. Labeled F1. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR LUNG CARCINOMA\n\nNEOPLASM\nA neoplasm is present\n\nHISTOPATHOLOGIC TYPE\nThe histologic classification of the tumor is adenocarcinoma, acinar (usual) type.\nThe histologic classification of the tumor is with focal bronchioloalveolar, mucinous, and papillary features\n\nHISTOLOGIC GRADE (G)\nThe grade of the tumor is moderately differentiated (G2)\n\nTUMOR SIZE\nThe maximum dimension of the tumor is 3.4 cm\n\nLYMPHATIC INVASION\nLymphatic invasion by tumor is absent (L0)\n\nVENOUS INVASION\nVenous invasion by tumor is absent (V0)\n\nARTERIAL INVASION\nArterial invasion by tumor is absent\n\nPLEURAL INVOLVEMENT\nPleural involvement is absent\n\nSAMPLED SPECIMEN MARGINS\nThe sampled surgical margins are uninvolved by tumor\n\nNON-NEOPLASTIC TISSUE\nThe non-neoplastic lung tissue shows no pathologic abnormalities\n\nPRIMARY TUMOR (T)\nTumor > 3 cm but <= 5 cm in greatest dimension (T2a)\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis histologically; no examination for ITC (pN0)\nThe total number of lymph nodes examined is 12\nThe total number of metastatically-involved lymph nodes is 0;\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nSTAGE GROUPING\nThe overall international stage is pT2a/N0/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.",
+          "confidence": {
+            "mean_probability": 0.9923852399914924,
+            "mean_log_probability": -0.00898417224880383,
+            "perplexity": 1.00902465105635,
+            "min_probability": 0.511285058445339
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 419,
+            "total_tokens": 2891
+          },
+          "composite_score": 0.9471766595188268,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.30438494682312,
+          "chars": 1543,
+          "words": 227,
+          "text": "SURGICAL PATHOLOGY REPORT\n\n1.4 x 0.4 cm In aggregate. Labeled F1. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR LUNG CARCINOMA\n\nNEOPLASM\nA neoplasm is present\n\nHISTOPATHOLOGIC TYPE\nThe histologic classification of the tumor is adenocarcinoma, acinar (usual) type.\nThe histologic classification of the tumor is with focal bronchioloalveolar, mucinous, and papillary features\n\nHISTOLOGIC GRADE (G)\nThe grade of the tumor is moderately differentiated (G2)\n\nTUMOR SIZE\nThe maximum dimension of the tumor is 3.4 cm\n\nLYMPHATIC INVASION\nLymphatic invasion by tumor is absent (L0)\n\nVENOUS INVASION\nVenous invasion by tumor is absent (V0)\n\nARTERIAL INVASION\nArterial invasion by tumor is absent\n\nPLEURAL INVOLVEMENT\nPleural involvement is absent\n\nSAMPLED SPECIMEN MARGINS\nThe sampled surgical margins are uninvolved by tumor\n\nNON-NEOPLASTIC TISSUE\nThe non-neoplastic lung tissue shows no pathologic abnormalities\n\nPRIMARY TUMOR (T)\nTumor > 3 cm but <= 5 cm in greatest dimension (T2a)\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis histologically; no examination for ITC (pN0)\nThe total number of lymph nodes examined is 12\nThe total number of metastatically-involved lymph nodes is 0;\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nSTAGE GROUPING\nThe overall international stage is pT2a/N0/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.",
+          "confidence": {
+            "mean_probability": 0.9920754512316413,
+            "mean_log_probability": -0.009408576555023923,
+            "perplexity": 1.0094529763484608,
+            "min_probability": 0.48001160417876165
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 419,
+            "total_tokens": 2891
+          },
+          "composite_score": 0.899501130942515
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.070876598358154,
+          "chars": 1542,
+          "words": 227,
+          "text": "SURGICAL PATHOLOGY REPORT\n\n1.4 x 0.4 cm In aggregate. Labeled F1. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR LUNG CARCINOMA\n\nNEOPLASM\nA neoplasm is present\n\nHISTOPATHOLOGIC TYPE\nThe histologic classification of the tumor is adenocarcinoma, acinar (usual) type\nThe histologic classification of the tumor is with focal bronchioloalveolar, mucinous, and papillary features\n\nHISTOLOGIC GRADE (G)\nThe grade of the tumor is moderately differentiated (G2)\n\nTUMOR SIZE\nThe maximum dimension of the tumor is 3.4 cm\n\nLYMPHATIC INVASION\nLymphatic invasion by tumor is absent (L0)\n\nVENOUS INVASION\nVenous invasion by tumor is absent (V0)\n\nARTERIAL INVASION\nArterial invasion by tumor is absent\n\nPLEURAL INVOLVEMENT\nPleural involvement is absent\n\nSAMPLED SPECIMEN MARGINS\nThe sampled surgical margins are uninvolved by tumor\n\nNON-NEOPLASTIC TISSUE\nThe non-neoplastic lung tissue shows no pathologic abnormalities\n\nPRIMARY TUMOR (T)\nTumor > 3 cm but <= 5 cm in greatest dimension (T2a)\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis histologically; no examination for ITC (pN0)\nThe total number of lymph nodes examined is 12\nThe total number of metastatically-involved lymph nodes is 0;\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nSTAGE GROUPING\nThe overall international stage is pT2a/N0/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical\ndata not provided with this specimen.",
+          "confidence": {
+            "mean_probability": 0.9928456385291233,
+            "mean_log_probability": -0.008650446300715991,
+            "perplexity": 1.0086879695308377,
+            "min_probability": 0.47751342704057265
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 420,
+            "total_tokens": 2892
+          },
+          "composite_score": 0.8999720440394827
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.360525131225586,
+        "chars": 76,
+        "words": 10,
+        "text": "SURGICAL PATHOLOGY REPORT\n\nSurgical Pathology report is available on-line on",
+        "confidence": {
+          "mean_probability": 0.9014435750809953,
+          "mean_log_probability": -0.1545523888888889,
+          "perplexity": 1.1671354213837741,
+          "min_probability": 0.28888690489601676
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 19,
+          "total_tokens": 2491
+        },
+        "composite_score": 0.7005092241278884,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.360525131225586,
+          "chars": 76,
+          "words": 10,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nSurgical Pathology report is available on-line on",
+          "confidence": {
+            "mean_probability": 0.9014435750809953,
+            "mean_log_probability": -0.1545523888888889,
+            "perplexity": 1.1671354213837741,
+            "min_probability": 0.28888690489601676
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 19,
+            "total_tokens": 2491
+          },
+          "composite_score": 0.7005092241278884,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 4.3201258182525635,
+          "chars": 76,
+          "words": 10,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nSurgical Pathology report is available on-line or",
+          "confidence": {
+            "mean_probability": 0.8927907540492286,
+            "mean_log_probability": -0.1586285,
+            "perplexity": 1.1719025040220077,
+            "min_probability": 0.30688505966036406
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 19,
+            "total_tokens": 2491
+          },
+          "composite_score": 0.6631679591603349
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.3047940731048584,
+          "chars": 76,
+          "words": 10,
+          "text": "SURGICAL PATHOLOGY REPORT\n\nSurgical Pathology report is available on-line or",
+          "confidence": {
+            "mean_probability": 0.9072627938454499,
+            "mean_log_probability": -0.14465011111111112,
+            "perplexity": 1.1556351556214903,
+            "min_probability": 0.24933048837538951
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 19,
+            "total_tokens": 2491
+          },
+          "composite_score": 0.6711783507856987
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

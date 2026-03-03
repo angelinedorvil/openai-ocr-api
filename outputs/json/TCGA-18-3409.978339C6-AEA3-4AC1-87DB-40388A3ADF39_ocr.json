@@ -1,0 +1,545 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\624b8b6d-ef92-4453-8f99-bf85273ff483\\TCGA-18-3409.978339C6-AEA3-4AC1-87DB-40388A3ADF39.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.607613563537598,
+        "chars": 1550,
+        "words": 191,
+        "text": "```\n                                                                                      TCGA-18-3409\n\n\n______________________________________________________________________________________\n______________________________________________________________________________________\n\nSurgical.Pathology Consultation  Report\n\n\nSPECIMEN(S) RECEIVED\n1. Lung: LEFT UPPER LOBE - QUICK SECTION\n2. Lymph node: INF PULM ligament ██████S\n3. Lymph node: Right TB angle ██████\n4. Lymph node: Interlobar ██████\n5. Lymph node: Interlobar ST11R no.2 ██████\n  Lymph node: Lobar ST12R/QS\n. Lymph node: Right TB angle ██████\n8. LUNGS: Right upper lobe/QS\n9. LUNGS: Wedge right upper lobe\n10. Lymph node: Interlobar ST11L\n11. Bone: 5th rib\n12. LUNGS: Left upper lobe\n\n\nDIAGNOSIS\n1. Left upper lobe of lung wedge resection:\n- Basaloid squamous cell carcinoma, 1.4 cm in greatest diameter.\n- Stapled resection margins negative for tumor.\n\n2. Inferior pulmonary ligament ST9R lymph node:\n- Negative for malignancy, lymph node.\n\n3. - 7. Right TB angle ST10R, interlobar ST11R, interlobar ST11R no.2,\nlobar ST12R, right TB angle ST10R:\n- Negative for malignancy, lymph node. (x5)\n\n8. Right upper lobe lobectomy:'\n- Basaloid squamous cell carcinoma, 1.1 cm in greatest diameter.\n- Bronchial resection margin negative for tumor.\n- One peribronchial lymph node negative for malignancy.\n\n9. Right upper lobe wedge resection:\nNegative for malignancy.\nNormal lung.\n\nStatus: complete                                                                                   Page:  1 of  6\n```",
+        "confidence": {
+          "mean_probability": 0.9527749321203962,
+          "mean_log_probability": -0.0779135420792079,
+          "perplexity": 1.0810291910934577,
+          "min_probability": 0.06117430686997356
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 405,
+          "total_tokens": 2877
+        },
+        "composite_score": 0.8971745518261742,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.607613563537598,
+          "chars": 1550,
+          "words": 191,
+          "text": "```\n                                                                                      TCGA-18-3409\n\n\n______________________________________________________________________________________\n______________________________________________________________________________________\n\nSurgical.Pathology Consultation  Report\n\n\nSPECIMEN(S) RECEIVED\n1. Lung: LEFT UPPER LOBE - QUICK SECTION\n2. Lymph node: INF PULM ligament ██████S\n3. Lymph node: Right TB angle ██████\n4. Lymph node: Interlobar ██████\n5. Lymph node: Interlobar ST11R no.2 ██████\n  Lymph node: Lobar ST12R/QS\n. Lymph node: Right TB angle ██████\n8. LUNGS: Right upper lobe/QS\n9. LUNGS: Wedge right upper lobe\n10. Lymph node: Interlobar ST11L\n11. Bone: 5th rib\n12. LUNGS: Left upper lobe\n\n\nDIAGNOSIS\n1. Left upper lobe of lung wedge resection:\n- Basaloid squamous cell carcinoma, 1.4 cm in greatest diameter.\n- Stapled resection margins negative for tumor.\n\n2. Inferior pulmonary ligament ST9R lymph node:\n- Negative for malignancy, lymph node.\n\n3. - 7. Right TB angle ST10R, interlobar ST11R, interlobar ST11R no.2,\nlobar ST12R, right TB angle ST10R:\n- Negative for malignancy, lymph node. (x5)\n\n8. Right upper lobe lobectomy:'\n- Basaloid squamous cell carcinoma, 1.1 cm in greatest diameter.\n- Bronchial resection margin negative for tumor.\n- One peribronchial lymph node negative for malignancy.\n\n9. Right upper lobe wedge resection:\nNegative for malignancy.\nNormal lung.\n\nStatus: complete                                                                                   Page:  1 of  6\n```",
+          "confidence": {
+            "mean_probability": 0.9527749321203962,
+            "mean_log_probability": -0.0779135420792079,
+            "perplexity": 1.0810291910934577,
+            "min_probability": 0.06117430686997356
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 405,
+            "total_tokens": 2877
+          },
+          "composite_score": 0.8971745518261742,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.100775003433228,
+          "chars": 1512,
+          "words": 191,
+          "text": "```\n                                                                                      TCGA-18-3409\n\n\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n\nSurgical.Pathology Consultation  Report\n\n\nSPECIMEN(S) RECEIVED\n1. Lung: LEFT UPPER LOBE - QUICK SECTION\n2. Lymph node: INF PULM ligament ██████S\n3. Lymph node: Right TB angle ██████\n4. Lymph node: Interlobar ██████\n5. Lymph node: Interlobar ST11R no.2 ██████\n  Lymph node: Lobar ST12R/QS\n. Lymph node: Right TB angle ██████\n8. LUNGS: Right upper lobe/QS\n9. LUNGS: Wedge right upper lobe\n10. Lymph node: Interlobar ST11L\n11. Bone: 5th rib\n12. LUNGS: Left upper lobe\n\n\nDIAGNOSIS\n1. Left upper lobe of lung wedge resection:\n- Basaloid squamous cell carcinoma, 1.4 cm in greatest diameter.\n- Stapled resection margins negative for tumor.\n\n2. Inferior pulmonary ligament ST9R lymph node:\n- Negative for malignancy, lymph node.\n\n3. - 7. Right TB angle ST10R, interlobar ST11R, interlobar ST11R no.2,\nlobar ST12R, right TB angle ST10R:\n- Negative for malignancy, lymph node. (x5)\n\n8. Right upper lobe lobectomy:'\n- Basaloid squamous cell carcinoma, 1.1 cm in greatest diameter.\n- Bronchial resection margin negative for tumor.\n- One peribronchial lymph node negative for malignancy.\n\n9. Right upper lobe wedge resection:\nNegative for malignancy.\nNormal lung.\n\n                                             Page:  1 of  6\n\nStatus: complete\n```",
+          "confidence": {
+            "mean_probability": 0.9569755375450204,
+            "mean_log_probability": -0.06729725247524751,
+            "perplexity": 1.0696133761478974,
+            "min_probability": 0.050302877336678854
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 405,
+            "total_tokens": 2877
+          },
+          "composite_score": 0.8557190372479909
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.579810380935669,
+          "chars": 1541,
+          "words": 190,
+          "text": "```\n                                                                                           TCGA-18-3409\n\n\n_________________________________________________________________________________________\n\n_________________________________________________________________________________________\n\n\nSurgical.Pathology Consultation Report\n\n\nSPECIMEN(S) RECEIVED\n1. Lung: LEFT UPPER LOBE - QUICK SECTION\n2. Lymph node: INF PULM ligament ████████S\n3. Lymph node: Right TB angle ████████\n4. Lymph node: Interlobar ████████\n5. Lymph node: Interlobar ST11R no.2█\n   Lymph node: Lobar ST12R/QS\n. Lymph node: Right TB angle ████████\n8. LUNGS: Right upper lobe/QS\n9. LUNGS: Wedge right upper lobe\n10. Lymph node: Interlobar ST11L\n11. Bone: 5th rib\n12. LUNGS: Left upper lobe\n\n\nDIAGNOSIS\n1. Left upper lobe of lung wedge resection:\n- Basaloid squamous cell carcinoma, 1.4 cm in greatest diameter.\n- Stapled resection margins negative for tumor.\n\n2. Inferior pulmonary ligament ST9R lymph node:\n- Negative for malignancy, lymph node.\n\n3. - 7. Right TB angle ST10R, interlobar ST11R, interlobar ST11R no.2,\nlobar ST12R, right TB angle ST10R:\n- Negative for malignancy, lymph node. (x5)\n\n8. Right upper lobe lobectomy:'\n- Basaloid squamous cell carcinoma, 1.1 cm in greatest diameter.\n- Bronchial resection margin negative for tumor.\n- One peribronchial lymph node negative for malignancy.\n\n9. Right upper lobe wedge resection:\nNegative for malignancy.\nNormal lung.\n\nStatus: complete                                                            Page: 1 of  6\n```",
+          "confidence": {
+            "mean_probability": 0.9505093029060014,
+            "mean_log_probability": -0.09031671287128713,
+            "perplexity": 1.0945208776667783,
+            "min_probability": 0.02618210805920778
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 405,
+            "total_tokens": 2877
+          },
+          "composite_score": 0.5904081199776561
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.831238031387329,
+        "chars": 1615,
+        "words": 270,
+        "text": "10. Interlobar ST11L:\n- Negative for malignancy, lymph node.\n\n11. Bone 5th rib:\n- Consistent with normal rib bone. (GROSS DIAGNOSIS ONLY)\n\n12. Left upper lobe lobectomy:\n- No residual malignancy.\n- Bronchial resection margin negative for tumor.\n- Four peribronchial lymph nodes negative for malignancy.\n\nAMMENT\nIt is interesting that the two tumors demonstrate similar histological appearances, yet they are almost certain to represent separate T1N0 primaries.\n\nCLINICAL HISTORY\nLUNG CA\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"left upper lobe q.s.\", contains two pieces of lung tissue consisting of a wedge of lung and second smaller piece of tissue received fresh. The wedge of lung measuring 6.0 x 4.5 x 2.0 cm and the second piece of lung tissue measures 4.5 x 2.0 x 0.3 cm and this has staples. The second piece of tissue is taken from over to tumor (to allow access of surgeon for culture). The wedge of lung tissue has two stapled resection margins measuring 3.5 cm and 4.5 cm and an area of exposed lung parenchyma measuring 4.0 x 4.0 cm. This area is marked with India ink. On gross examination there is a greyish-white tumor measuring 1.4 x 1.3 x 0.9 cm. The tumor is well-circumscribed and is located immediately below the exposed lung parenchyma. A representative section of the tumor is examined at intraoperative consultation by frozen section. The rest of the lung parenchyma appears to be grossly unremarkable. Please that the rked area in India ink is not the true margin. Representative sections are submitted as follows:\n\nStatus: complete Page: 2 of 6",
+        "confidence": {
+          "mean_probability": 0.9882303570613999,
+          "mean_log_probability": -0.0181352684729064,
+          "perplexity": 1.0183007110561488,
+          "min_probability": 0.08346707802682887
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 407,
+          "total_tokens": 2879
+        },
+        "composite_score": 0.9472502090070155,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.831238031387329,
+          "chars": 1615,
+          "words": 270,
+          "text": "10. Interlobar ST11L:\n- Negative for malignancy, lymph node.\n\n11. Bone 5th rib:\n- Consistent with normal rib bone. (GROSS DIAGNOSIS ONLY)\n\n12. Left upper lobe lobectomy:\n- No residual malignancy.\n- Bronchial resection margin negative for tumor.\n- Four peribronchial lymph nodes negative for malignancy.\n\nAMMENT\nIt is interesting that the two tumors demonstrate similar histological appearances, yet they are almost certain to represent separate T1N0 primaries.\n\nCLINICAL HISTORY\nLUNG CA\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"left upper lobe q.s.\", contains two pieces of lung tissue consisting of a wedge of lung and second smaller piece of tissue received fresh. The wedge of lung measuring 6.0 x 4.5 x 2.0 cm and the second piece of lung tissue measures 4.5 x 2.0 x 0.3 cm and this has staples. The second piece of tissue is taken from over to tumor (to allow access of surgeon for culture). The wedge of lung tissue has two stapled resection margins measuring 3.5 cm and 4.5 cm and an area of exposed lung parenchyma measuring 4.0 x 4.0 cm. This area is marked with India ink. On gross examination there is a greyish-white tumor measuring 1.4 x 1.3 x 0.9 cm. The tumor is well-circumscribed and is located immediately below the exposed lung parenchyma. A representative section of the tumor is examined at intraoperative consultation by frozen section. The rest of the lung parenchyma appears to be grossly unremarkable. Please that the rked area in India ink is not the true margin. Representative sections are submitted as follows:\n\nStatus: complete Page: 2 of 6",
+          "confidence": {
+            "mean_probability": 0.9882303570613999,
+            "mean_log_probability": -0.0181352684729064,
+            "perplexity": 1.0183007110561488,
+            "min_probability": 0.08346707802682887
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 407,
+            "total_tokens": 2879
+          },
+          "composite_score": 0.9472502090070155,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.47254991531372,
+          "chars": 1615,
+          "words": 270,
+          "text": "10. Interlobar ST11L:\n- Negative for malignancy, lymph node.\n\n11. Bone 5th rib:\n- Consistent with normal rib bone. (GROSS DIAGNOSIS ONLY)\n\n12. Left upper lobe lobectomy:\n- No residual malignancy.\n- Bronchial resection margin negative for tumor.\n- Four peribronchial lymph nodes negative for malignancy.\n\nAMMENT\nIt is interesting that the two tumors demonstrate similar histological appearances, yet they are almost certain to represent separate T1N0 primaries.\n\nCLINICAL HISTORY\nLUNG CA\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient' s name and as \"left upper lobe q.s.\", contains two pieces of lung tissue consisting of a wedge of lung and second smaller piece of tissue received fresh. The wedge of lung measuring 6.0 x 4.5 x 2.0 cm and the second piece of lung tissue measures 4.5 x 2.0 x 0.3 cm and this has staples. The second piece of tissue is taken from over to tumor (to allow access of surgeon for culture). The wedge of lung tissue has two stapled resection margins measuring 3.5 cm and 4.5 cm and an area of exposed lung parenchyma measuring 4.0 x 4.0 cm. This area is marked with India ink. On gross examination there is a greyish-white tumor measuring 1.4 x 1.3 x 0.9 cm. The tumor is well-circumscribed and is located immediately below the exposed lung parenchyma. A representative section of the tumor is examined at intraoperative consultation by frozen section. The rest of the lung parenchyma appears to be grossly unremarkable. Please that the rked area in India ink is not the true margin. Representative sections are submitted as follows:\n\nStatus: complete Page: 2 of 6",
+          "confidence": {
+            "mean_probability": 0.9885675528583957,
+            "mean_log_probability": -0.01820057142857143,
+            "perplexity": 1.0183672112736433,
+            "min_probability": 0.09773710568193089
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 407,
+            "total_tokens": 2879
+          },
+          "composite_score": 0.8998398236861557
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.546079397201538,
+          "chars": 1614,
+          "words": 269,
+          "text": "10. Interlobar ST11L:\n- Negative for malignancy, lymph node.\n\n11. Bone 5th rib:\n- Consistent with normal rib bone. (GROSS DIAGNOSIS ONLY)\n\n12. Left upper lobe lobectomy:\n- No residual malignancy.\n- Bronchial resection margin negative for tumor.\n- Four peribronchial lymph nodes negative for malignancy.\n\nAMMENT\nIt is interesting that the two tumors demonstrate similar histological appearances, yet they are almost certain to represent separate T1N0 primaries.\n\nCLINICAL HISTORY\nLUNG CA\n\nGROSS DESCRIPTION\n1. The specimen container labeled with the patient's name and as \"left upper lobe q.s.\", contains two pieces of lung tissue consisting of a wedge of lung and second smaller piece of tissue received fresh. The wedge of lung measuring 6.0 x 4.5 x 2.0 cm and the second piece of lung tissue measures 4.5 x 2.0 x 0.3 cm and this has staples. The second piece of tissue is taken from over to tumor (to allow access of surgeon for culture). The wedge of lung tissue has two stapled resection margins measuring 3.5 cm and 4.5 cm and an area of exposed lung parenchyma measuring 4.0 x 4.0 cm. This area is marked with India ink. On gross examination there is a greyish-white tumor measuring 1.4 x 1.3 x 0.9 cm. The tumor is well-circumscribed and is located immediately below the exposed lung parenchyma. A representative section of the tumor is examined at intraoperative consultation by frozen section. The rest of the lung parenchyma appears to be grossly unremarkable. Please that the rked area in India ink is not the true margin. Representative sections are submitted as follows:\n\nStatus: complete Page: 2 of 6",
+          "confidence": {
+            "mean_probability": 0.9896734844075904,
+            "mean_log_probability": -0.015502792079207921,
+            "perplexity": 1.0156235837558434,
+            "min_probability": 0.11187590645823103
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 405,
+            "total_tokens": 2877
+          },
+          "composite_score": 0.9017277453611184
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.670559883117676,
+        "chars": 2044,
+        "words": 318,
+        "text": "1A frozen section resubmitted\n1B shave resection margin (shorter stapled resection margin)\n1C shave resection margin (longer stage resection margin)\n1D-1F representative section of the tumor in relation to the exposed lung parenchyma with ink margin,\npleura and adjacent lung parenchyma\n1G representative section of the lung parenchyma\n1H -11 smaller piece of lung tissue serially sectioned and submitted in toto.\n\n2. The specimen container labeled with the patient's name and as\ninferior pulmonary ligament ST9 q.s.\", contains three pieces of carbon laden tissue received fresh. The tissue measures from 0.6 to 1.3 cm in greatest dimension. This I=is examined at intraoperative consultation by frozen section on the entire specimen.\n2A -2B frozen section resubmitted (block 2A the largest piece of tissue bisected).\n\n3. The specimen container labeled with the patient's name and as \"right TB angle ST10R q.s.\", contains a piece of carbon laden lymph node measuring 1.0 x 0.9 x 0.3 cm received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n3A frozen section resubmitted (tissue bisected)\n\n4. The specimen container labeled with the patient's name and as \"interlobar ST11R q.s.\", contains four fragments of anthracotic tissue ranging in size from 0.4 to 0.8 cm in greatest dimension received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n4A frozen section resubmitted.\n\n5. The specimen container labeled with the patient's name and as \"interlobar ST11R number 2 q.s.\", contains a piece of anthracotic tissue measuring 2.0 x 1.3 x 0.7 cm received fresh. The specimen is bisected and is examined at intraoperative consultation by frozen section on the entire specimen.\n5A frozen section resubmitted.\n\n-. The specimen container labeled with the patient's name and as \"lobar 12R q.s\", contains a piece of anthracotic tissue measuring 2.0 x 1.0 x 0.2 cm received fresh. This is examined at intraoperative consultation\n\nStatus: complete Page: 3 of 6",
+        "confidence": {
+          "mean_probability": 0.9831842920338316,
+          "mean_log_probability": -0.02256995051546392,
+          "perplexity": 1.0228265789085458,
+          "min_probability": 0.18406874076993407
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 486,
+          "total_tokens": 2958
+        },
+        "composite_score": 0.9823425669771839,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.670559883117676,
+          "chars": 2044,
+          "words": 318,
+          "text": "1A frozen section resubmitted\n1B shave resection margin (shorter stapled resection margin)\n1C shave resection margin (longer stage resection margin)\n1D-1F representative section of the tumor in relation to the exposed lung parenchyma with ink margin,\npleura and adjacent lung parenchyma\n1G representative section of the lung parenchyma\n1H -11 smaller piece of lung tissue serially sectioned and submitted in toto.\n\n2. The specimen container labeled with the patient's name and as\ninferior pulmonary ligament ST9 q.s.\", contains three pieces of carbon laden tissue received fresh. The tissue measures from 0.6 to 1.3 cm in greatest dimension. This I=is examined at intraoperative consultation by frozen section on the entire specimen.\n2A -2B frozen section resubmitted (block 2A the largest piece of tissue bisected).\n\n3. The specimen container labeled with the patient's name and as \"right TB angle ST10R q.s.\", contains a piece of carbon laden lymph node measuring 1.0 x 0.9 x 0.3 cm received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n3A frozen section resubmitted (tissue bisected)\n\n4. The specimen container labeled with the patient's name and as \"interlobar ST11R q.s.\", contains four fragments of anthracotic tissue ranging in size from 0.4 to 0.8 cm in greatest dimension received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n4A frozen section resubmitted.\n\n5. The specimen container labeled with the patient's name and as \"interlobar ST11R number 2 q.s.\", contains a piece of anthracotic tissue measuring 2.0 x 1.3 x 0.7 cm received fresh. The specimen is bisected and is examined at intraoperative consultation by frozen section on the entire specimen.\n5A frozen section resubmitted.\n\n-. The specimen container labeled with the patient's name and as \"lobar 12R q.s\", contains a piece of anthracotic tissue measuring 2.0 x 1.0 x 0.2 cm received fresh. This is examined at intraoperative consultation\n\nStatus: complete Page: 3 of 6",
+          "confidence": {
+            "mean_probability": 0.9831842920338316,
+            "mean_log_probability": -0.02256995051546392,
+            "perplexity": 1.0228265789085458,
+            "min_probability": 0.18406874076993407
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 486,
+            "total_tokens": 2958
+          },
+          "composite_score": 0.9823425669771839,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.205315828323364,
+          "chars": 2044,
+          "words": 318,
+          "text": "1A frozen section resubmitted\n1B shave resection margin (shorter stapled resection margin)\n1C shave resection margin (longer stage resection margin)\n1D-1F representative section of the tumor in relation to the exposed lung parenchyma with ink margin,\npleura and adjacent lung parenchyma\n1G representative section of the lung parenchyma\n1H -11 smaller piece of lung tissue serially sectioned and submitted in toto.\n\n2. The specimen container labeled with the patient's name and as\ninferior pulmonary ligament ST9 q.s.\", contains three pieces of carbon laden tissue received fresh. The tissue measures from 0.6 to 1.3 cm in greatest dimension. This I=is examined at intraoperative consultation by frozen section on the entire specimen.\n2A -2B frozen section resubmitted (block 2A the largest piece of tissue bisected).\n\n3. The specimen container labeled with the patient's name and as \"right TB angle ST10R q.s.\", contains a piece of carbon laden lymph node measuring 1.0 x 0.9 x 0.3 cm received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n3A frozen section resubmitted (tissue bisected)\n\n4. The specimen container labeled with the patient's name and as \"interlobar ST11R q.s.\", contains four fragments of anthracotic tissue ranging in size from 0.4 to 0.8 cm in greatest dimension received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n4A frozen section resubmitted.\n\n5. The specimen container labeled with the patient's name and as \"interlobar ST11R number 2 q.s.\", contains a piece of anthracotic tissue measuring 2.0 x 1.3 x 0.7 cm received fresh. The specimen is bisected and is examined at intraoperative consultation by frozen section on the entire specimen.\n5A frozen section resubmitted.\n\n-. The specimen container labeled with the patient's name and as \"lobar 12R q.s\", contains a piece of anthracotic tissue measuring 2.0 x 1.0 x 0.2 cm received fresh. This is examined at intraoperative consultation\n\nStatus: complete Page: 3 of 6",
+          "confidence": {
+            "mean_probability": 0.9830835229967901,
+            "mean_log_probability": -0.02299496288659794,
+            "perplexity": 1.0232613852505987,
+            "min_probability": 0.17821047204276155
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 486,
+            "total_tokens": 2958
+          },
+          "composite_score": 0.9329166589984944
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.236225605010986,
+          "chars": 2045,
+          "words": 318,
+          "text": "1A frozen section resubmitted\n1B shave resection margin (shorter stapled resection margin)\n1C shave resection margin (longer stage resection margin)\n1D-1F representative section of the tumor in relation to the exposed lung parenchyma with ink margin,\npleura and adjacent lung parenchyma\n1G representative section of the lung parenchyma\n1H -1I smaller piece of lung tissue serially sectioned and submitted in toto.\n\n2. The specimen container labeled with the patient’s name and as inferior pulmonary ligament ST9 q.s.\", contains three pieces of carbon laden tissue received fresh. The tissue measures from 0.6 to 1.3 cm in greatest dimension. This I=is examined at intraoperative consultation by frozen section on the entire specimen.\n2A -2B frozen section resubmitted (block 2A the largest piece of tissue bisected).\n\n3. The specimen container labeled with the patient’s name and as \"right TB angle ST10R q.s.\", contains a piece of carbon laden lymph node measuring 1.0 x 0.9 x 0.3 cm received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n3A frozen section resubmitted (tissue bisected)\n\n4. The specimen container labeled with the patient’s name and as \"interlobar ST11R q.s.\", contains four fragments of anthracotic tissue ranging in size from 0.4 to 0.8 cm in greatest dimension received fresh. This is examined at intraoperative consultation by frozen section on the entire specimen.\n4A frozen section resubmitted.\n\n5. The specimen container labeled with the patient’s name and as \"interlobar ST11R number 2 q.s.\", contains a piece of anthracotic tissue measuring 2.0 x 1.3 x 0.7 cm received fresh. The specimen is bisected and is examined at intraoperative consultation by frozen section on the entire specimen.\n5A frozen section resubmitted.\n\n-. The specimen container labeled with the patient’s name and as \"lobar :12R q.s\", contains a piece of anthracotic tissue measuring 2.0 x 1.0 x 0.2 cm received fresh. This is examined at intraoperative consultation\n\nStatus: complete Page: 3 of 6",
+          "confidence": {
+            "mean_probability": 0.9821183097302572,
+            "mean_log_probability": -0.024713323108384463,
+            "perplexity": 1.0250212285007891,
+            "min_probability": 0.1639289789723503
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 490,
+            "total_tokens": 2962
+          },
+          "composite_score": 0.9316708486765858
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.9839608669281,
+        "chars": 2190,
+        "words": 349,
+        "text": "by frozen section on\nthe entire specimen.\n6A frozen section resubmitted .\n\n7. The specimen container labeled with the patient' s name and as \"right\nTB angle ST10R q.s.\", contains a piece of tissue measuring 1.7 x 0.6 x\n0.3 cm received fresh. This is examined at intraoperative consultation by\nfrozen section on the entire specimen.\n7A frozen section resubmitted .\n\n8. The specimen container labeled with the patient' s name and as \"right\nper lobe q.s.\", contains a lobectomy specimen received in 10% buffered\nformalin. The specimen measures 20.0 x 13.5 x 5.5 cm in its formalin\ninflated state. On gross examination the pleura appears smooth, shiny\nand intact. On sectioning there is a well-circumscribed blackish-tan\ntumor measuring 1.1 x 1.0 x 0.9 cm. The tumor is approximately 2.0 cm\naway from the bronchial resection margin. A representative section from\nthe tumor is examined at intraoperative consultation by frozen section.\nNo other nodules are identified grossly. The rest of the lung parenchyma\nappears to be slightly emphysematous. One lobar lymph node is identified\ngrossly measuring 0.6 x 0.6 cm. The rest of the lung parenchyma appears\nto be slightly emphysematous. Representative sections are submitted as\nfollows:\n8A frozen section resubmitted\n8B bronchial resection margin\n8C vascular resection margin\n8D-8F the rest of the tumor serially sectioned and submitted in toto\n8G-8H representative section of the lung parenchyma\n8I one lobar lymph node\n\n9. The specimen container labeled with the patient' s name and as \"wedge\nright upper lobe\", contains a wedge of lung tissue received in 10%\nbuffered formalin. The tissue measures 6.2 x 3.0 x 2.0 cm. Two stapled\nresection margin is identified measuring 3.9 and 6.0 cm long. On gross\nexamination the pleura is smooth, shiny and intact. On sectioning no\nnodule is identified grossly. The lung parenchyma is slightly\nemphysematous. The specimen is submitted in toto after stapled margins\nare removed as follows:\n^a shave resection margin (shorter staple resection margin)\nshave resection margin (longer staple resection margin)\n9C-9G the rest of the lung parenchyma serially sectioned and submitted\n\n\nStatus: complete Page: 4 of 6",
+        "confidence": {
+          "mean_probability": 0.9910111843706736,
+          "mean_log_probability": -0.012400361921097771,
+          "perplexity": 1.0124775651951294,
+          "min_probability": 0.20884582054375495
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 584,
+          "total_tokens": 3056
+        },
+        "composite_score": 0.9902012188952067,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.9839608669281,
+          "chars": 2190,
+          "words": 349,
+          "text": "by frozen section on\nthe entire specimen.\n6A frozen section resubmitted .\n\n7. The specimen container labeled with the patient' s name and as \"right\nTB angle ST10R q.s.\", contains a piece of tissue measuring 1.7 x 0.6 x\n0.3 cm received fresh. This is examined at intraoperative consultation by\nfrozen section on the entire specimen.\n7A frozen section resubmitted .\n\n8. The specimen container labeled with the patient' s name and as \"right\nper lobe q.s.\", contains a lobectomy specimen received in 10% buffered\nformalin. The specimen measures 20.0 x 13.5 x 5.5 cm in its formalin\ninflated state. On gross examination the pleura appears smooth, shiny\nand intact. On sectioning there is a well-circumscribed blackish-tan\ntumor measuring 1.1 x 1.0 x 0.9 cm. The tumor is approximately 2.0 cm\naway from the bronchial resection margin. A representative section from\nthe tumor is examined at intraoperative consultation by frozen section.\nNo other nodules are identified grossly. The rest of the lung parenchyma\nappears to be slightly emphysematous. One lobar lymph node is identified\ngrossly measuring 0.6 x 0.6 cm. The rest of the lung parenchyma appears\nto be slightly emphysematous. Representative sections are submitted as\nfollows:\n8A frozen section resubmitted\n8B bronchial resection margin\n8C vascular resection margin\n8D-8F the rest of the tumor serially sectioned and submitted in toto\n8G-8H representative section of the lung parenchyma\n8I one lobar lymph node\n\n9. The specimen container labeled with the patient' s name and as \"wedge\nright upper lobe\", contains a wedge of lung tissue received in 10%\nbuffered formalin. The tissue measures 6.2 x 3.0 x 2.0 cm. Two stapled\nresection margin is identified measuring 3.9 and 6.0 cm long. On gross\nexamination the pleura is smooth, shiny and intact. On sectioning no\nnodule is identified grossly. The lung parenchyma is slightly\nemphysematous. The specimen is submitted in toto after stapled margins\nare removed as follows:\n^a shave resection margin (shorter staple resection margin)\nshave resection margin (longer staple resection margin)\n9C-9G the rest of the lung parenchyma serially sectioned and submitted\n\n\nStatus: complete Page: 4 of 6",
+          "confidence": {
+            "mean_probability": 0.9910111843706736,
+            "mean_log_probability": -0.012400361921097771,
+            "perplexity": 1.0124775651951294,
+            "min_probability": 0.20884582054375495
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 584,
+            "total_tokens": 3056
+          },
+          "composite_score": 0.9902012188952067,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 20.663285493850708,
+          "chars": 2190,
+          "words": 349,
+          "text": "by frozen section on\nthe entire specimen.\n6A frozen section resubmitted .\n\n7. The specimen container labeled with the patient' s name and as \"right\nTB angle ST10R q.s.\", contains a piece of tissue measuring 1.7 x 0.6 x\n0.3 cm received fresh. This is examined at intraoperative consultation by\nfrozen section on the entire specimen.\n7A frozen section resubmitted .\n\n8. The specimen container labeled with the patient' s name and as \"right\nper lobe q.s.\", contains a lobectomy specimen received in 10% buffered\nformalin. The specimen measures 20.0 x 13.5 x 5.5 cm in its formalin\ninflated state. On gross examination the pleura appears smooth, shiny\nand intact. On sectioning there is a well-circumscribed blackish-tan\ntumor measuring 1.1 x 1.0 x 0.9 cm. The tumor is approximately 2.0 cm\naway from the bronchial resection margin. A representative section from\nthe tumor is examined at intraoperative consultation by frozen section.\nNo other nodules are identified grossly. The rest of the lung parenchyma\nappears to be slightly emphysematous. One lobar lymph node is identified\ngrossly measuring 0.6 x 0.6 cm. The rest of the lung parenchyma appears\nto be slightly emphysematous. Representative sections are submitted as\nfollows:\n8A frozen section resubmitted\n8B bronchial resection margin\n8C vascular resection margin\n8D-8F the rest of the tumor serially sectioned and submitted in toto\n8G-8H representative section of the lung parenchyma\n8I one lobar lymph node\n\n9. The specimen container labeled with the patient' s name and as \"wedge\nright upper lobe\", contains a wedge of lung tissue received in 10%\nbuffered formalin. The tissue measures 6.2 x 3.0 x 2.0 cm. Two stapled\nresection margin is identified measuring 3.9 and 6.0 cm long. On gross\nexamination the pleura is smooth, shiny and intact. On sectioning no\nnodule is identified grossly. The lung parenchyma is slightly\nemphysematous. The specimen is submitted in toto after stapled margins\nare removed as follows:\n^a shave resection margin (shorter staple resection margin)\nshave resection margin (longer staple resection margin)\n9C-9G the rest of the lung parenchyma serially sectioned and submitted\n\n\nStatus: complete Page: 4 of 6",
+          "confidence": {
+            "mean_probability": 0.9903253396565264,
+            "mean_log_probability": -0.013494406518010293,
+            "perplexity": 1.0135858669600581,
+            "min_probability": 0.24007185610836404
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 584,
+            "total_tokens": 3056
+          },
+          "composite_score": 0.9398808035962203
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.675544023513794,
+          "chars": 2190,
+          "words": 349,
+          "text": "by frozen section on\nthe entire specimen.\n6A frozen section resubmitted .\n\n7. The specimen container labeled with the patient' s name and as \"right\nTB angle ST10R q.s.\", contains a piece of tissue measuring 1.7 x 0.6 x\n0.3 cm received fresh. This is examined at intraoperative consultation by\nfrozen section on the entire specimen.\n7A frozen section resubmitted .\n\n8. The specimen container labeled with the patient' s name and as \"right\nper lobe q.s.\", contains a lobectomy specimen received in 10% buffered\nformalin. The specimen measures 20.0 x 13.5 x 5.5 cm in its formalin\ninflated state. On gross examination the pleura appears smooth, shiny\nand intact. On sectioning there is a well-circumscribed blackish-tan\ntumor measuring 1.1 x 1.0 x 0.9 cm. The tumor is approximately 2.0 cm\naway from the bronchial resection margin. A representative section from\nthe tumor is examined at intraoperative consultation by frozen section.\nNo other nodules are identified grossly. The rest of the lung parenchyma\nappears to be slightly emphysematous. One lobar lymph node is identified\ngrossly measuring 0.6 x 0.6 cm. The rest of the lung parenchyma appears\nto be slightly emphysematous. Representative sections are submitted as\nfollows:\n8A frozen section resubmitted\n8B bronchial resection margin\n8C vascular resection margin\n8D-8F the rest of the tumor serially sectioned and submitted in toto\n8G-8H representative section of the lung parenchyma\n8I one lobar lymph node\n\n9. The specimen container labeled with the patient' s name and as \"wedge\nright upper lobe\", contains a wedge of lung tissue received in 10%\nbuffered formalin. The tissue measures 6.2 x 3.0 x 2.0 cm. Two stapled\nresection margin is identified measuring 3.9 and 6.0 cm long. On gross\nexamination the pleura is smooth, shiny and intact. On sectioning no\nnodule is identified grossly. The lung parenchyma is slightly\nemphysematous. The specimen is submitted in toto after stapled margins\nare removed as follows:\n^a shave resection margin (shorter staple resection margin)\nshave resection margin (longer staple resection margin)\n9C-9G the rest of the lung parenchyma serially sectioned and submitted\n\n\nStatus: complete Page: 4 of 6",
+          "confidence": {
+            "mean_probability": 0.9904467605771087,
+            "mean_log_probability": -0.013090912521440822,
+            "perplexity": 1.0131769736462783,
+            "min_probability": 0.23827471649067275
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 584,
+            "total_tokens": 3056
+          },
+          "composite_score": 0.9401794662321734
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.279126644134521,
+        "chars": 1788,
+        "words": 289,
+        "text": "in toto.\n\n10. The specimen container labeled with the patient' s name and as\n\"interlobar ST11L\", contains a single piece of blackish-tan tissue\nreceived in 10% buffered formalin. The tissue measures 0.8 x 0.8 x 0.3\ncm.\n10 specimen submitted in toto.\n\n11 The specimen container labeled with the patient' s name and as \"5th\nrib\", contains a piece of bone with soft attached received in 10%\nbuffered formalin. The bone measures 2.5 x 1.0 x 0.4 cm. No gross\nnormality is noted. No tissue is submitted for histologic examination.\n\nGross Diagnosis: Bone 5th rib.\n\n12 The specimen container labeled with the patient' s name and as \"left\nupper lobe\", contains a lobe of lung received in 10% buffered formalin.\nThe tissue measures 9.0 x 6.3 x 3.0 cm. One stapled resection margin is\nidentified measuring 8.5 cm long and one sutured resection margin is\nidentified measuring 4.0 cm long. On gross examination the pleura\nappears to be smooth, tiny and intact. On sectioning, the lung\nparenchyma is slightly emphysematous. No nodule is identified grossly.\nMultiple lobar lymph nodes are identified grossly ranging in size from\n0.3 x 0.3 to 0.4 x 0.4 x 0.4 cm. Two pieces of lung tissue are taken for snap\nfrozen. Representative sections are submitted as follows:\n12A bronchial resection margin\n12B shave resection margin from stapled margin\n12C shave resection margin from the stitch resection margin\n12D -2G representative section of the lung parenchyma\n12H four lobar lymph nodes.\n\nQUICK SECTION\n1A \"Non-small cell carcinoma, favor squamous cell carcinoma\"\n2A-2B \"Negative for malignancy\".\n3A \"Negative for malignancy\".\n4A \"Negative for malignancy\".\n5A \"Negative for malignancy\".\n-7A \"Negative for malignancy\".\n\"Non small cell carcinoma favor squamous cell carcinoma\".\n\nStatus: complete Page: 5 of 6",
+        "confidence": {
+          "mean_probability": 0.9892251235866509,
+          "mean_log_probability": -0.01358846376811594,
+          "perplexity": 1.0136812065430696,
+          "min_probability": 0.292765597112113
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 484,
+          "total_tokens": 2956
+        },
+        "composite_score": 0.9680749657251626,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.279126644134521,
+          "chars": 1788,
+          "words": 289,
+          "text": "in toto.\n\n10. The specimen container labeled with the patient' s name and as\n\"interlobar ST11L\", contains a single piece of blackish-tan tissue\nreceived in 10% buffered formalin. The tissue measures 0.8 x 0.8 x 0.3\ncm.\n10 specimen submitted in toto.\n\n11 The specimen container labeled with the patient' s name and as \"5th\nrib\", contains a piece of bone with soft attached received in 10%\nbuffered formalin. The bone measures 2.5 x 1.0 x 0.4 cm. No gross\nnormality is noted. No tissue is submitted for histologic examination.\n\nGross Diagnosis: Bone 5th rib.\n\n12 The specimen container labeled with the patient' s name and as \"left\nupper lobe\", contains a lobe of lung received in 10% buffered formalin.\nThe tissue measures 9.0 x 6.3 x 3.0 cm. One stapled resection margin is\nidentified measuring 8.5 cm long and one sutured resection margin is\nidentified measuring 4.0 cm long. On gross examination the pleura\nappears to be smooth, tiny and intact. On sectioning, the lung\nparenchyma is slightly emphysematous. No nodule is identified grossly.\nMultiple lobar lymph nodes are identified grossly ranging in size from\n0.3 x 0.3 to 0.4 x 0.4 x 0.4 cm. Two pieces of lung tissue are taken for snap\nfrozen. Representative sections are submitted as follows:\n12A bronchial resection margin\n12B shave resection margin from stapled margin\n12C shave resection margin from the stitch resection margin\n12D -2G representative section of the lung parenchyma\n12H four lobar lymph nodes.\n\nQUICK SECTION\n1A \"Non-small cell carcinoma, favor squamous cell carcinoma\"\n2A-2B \"Negative for malignancy\".\n3A \"Negative for malignancy\".\n4A \"Negative for malignancy\".\n5A \"Negative for malignancy\".\n-7A \"Negative for malignancy\".\n\"Non small cell carcinoma favor squamous cell carcinoma\".\n\nStatus: complete Page: 5 of 6",
+          "confidence": {
+            "mean_probability": 0.9892251235866509,
+            "mean_log_probability": -0.01358846376811594,
+            "perplexity": 1.0136812065430696,
+            "min_probability": 0.292765597112113
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 484,
+            "total_tokens": 2956
+          },
+          "composite_score": 0.9680749657251626,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.161866188049316,
+          "chars": 1788,
+          "words": 289,
+          "text": "in toto.\n\n10. The specimen container labeled with the patient' s name and as\n\"interlobar ST11L\", contains a single piece of blackish-tan tissue\nreceived in 10% buffered formalin. The tissue measures 0.8 x 0.8 x 0.3\ncm.\n10 specimen submitted in toto.\n\n11 The specimen container labeled with the patient' s name and as \"5th\nrib\", contains a piece of bone with soft attached received in 10%\nbuffered formalin. The bone measures 2.5 x 1.0 x 0.4 cm. No gross\nnormality is noted. No tissue is submitted for histologic examination.\n\nGross Diagnosis: Bone 5th rib.\n\n12 The specimen container labeled with the patient' s name and as \"left\nupper lobe\", contains a lobe of lung received in 10% buffered formalin.\nThe tissue measures 9.0 x 6.3 x 3.0 cm. One stapled resection margin is\nidentified measuring 8.5 cm long and one sutured resection margin is\nidentified measuring 4.0 cm long. On gross examination the pleura\nappears to be smooth, tiny and intact. On sectioning, the lung\nparenchyma is slightly emphysematous. No nodule is identified grossly.\nMultiple lobar lymph nodes are identified grossly ranging in size from\n0.3 x 0.3 to 0.4 x 0.4 x 0.4 cm. Two pieces of lung tissue are taken for snap\nfrozen. Representative sections are submitted as follows:\n12A bronchial resection margin\n12B shave resection margin from stapled margin\n12C shave resection margin from the stitch resection margin\n12D -2G representative section of the lung parenchyma\n12H four lobar lymph nodes.\n\nQUICK SECTION\n1A \"Non-small cell carcinoma, favor squamous cell carcinoma\"\n2A-2B \"Negative for malignancy\".\n3A \"Negative for malignancy\".\n4A \"Negative for malignancy\".\n5A \"Negative for malignancy\".\n-7A \"Negative for malignancy\".\n\"Non small cell carcinoma favor squamous cell carcinoma\".\n\nStatus: complete Page: 5 of 6",
+          "confidence": {
+            "mean_probability": 0.9890075274033818,
+            "mean_log_probability": -0.014086983436853003,
+            "perplexity": 1.0141866725442639,
+            "min_probability": 0.2778135704897215
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 484,
+            "total_tokens": 2956
+          },
+          "composite_score": 0.9193026143054079
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.039815425872803,
+          "chars": 1790,
+          "words": 289,
+          "text": "in toto.\n\n10. The specimen container labeled with the patient' s name and as\n\"interlobar ST11L\", contains a single piece of blackish-tan tissue\nreceived in 10% buffered formalin. The tissue measures 0.8 x 0.8 x 0.3\ncm.\n10 specimen submitted in toto.\n\n11 The specimen container labeled with the patient' s name and as \"5th\nrib\", contains a piece of bone with soft attached received in 10%\nbuffered formalin. The bone measures 2.5 x 1.0 x 0.4 cm. No gross\nnormality is noted. No tissue is submitted for histologic examination.\n\nGross Diagnosis: Bone 5th rib.\n\n12 The specimen container labeled with the patient' s name and as \"left\nupper lobe\", contains a lobe of lung received in 10% buffered formalin.\nThe tissue measures 9.0 x 6.3 x 3.0 cm. One stapled resection margin is\nidentified measuring 8.5 cm long and one sutured resection margin is\nidentified measuring 4.0 cm long. On gross examination the pleura\nappears to be smooth, tiny and intact. On sectioning, the lung\nparenchyma is slightly emphysematous. No nodule is identified grossly.\nMultiple lobar lymph nodes are identified grossly ranging in size from\n0.3 x 0.3 to 0.4 x 0.4 x 0.4 cm. Two pieces of lung tissue are taken for snap\nfrozen. Representative sections are submitted as follows:\n12A bronchial resection margin\n12B shave resection margin from stapled margin\n12C shave resection margin from the stitch resection margin\n12D -2G representative section of the lung parenchyma\n12H four lobar lymph nodes.\n\nQUICK SECTION\n1A \"Non-small cell carcinoma, favor squamous cell carcinoma\"\n2A-2B \"Negative for malignancy\".\n3A \"Negative for malignancy\".\n4A \"Negative for malignancy\".\n5A \"Negative for malignancy\".\n-7,7A \"Negative for malignancy\".\n\"Non small cell carcinoma favor squamous cell carcinoma\".\n\nStatus: complete Page: 5 of 6",
+          "confidence": {
+            "mean_probability": 0.9879374147639409,
+            "mean_log_probability": -0.016356884536082472,
+            "perplexity": 1.0164913907386985,
+            "min_probability": 0.24344067515583076
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 486,
+            "total_tokens": 2958
+          },
+          "composite_score": 0.9178188315624517
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 1.7441611289978027,
+        "chars": 124,
+        "words": 8,
+        "text": "```\nStatus: complete                                                                                      Page:  6 of  6\n```",
+        "confidence": {
+          "mean_probability": 0.7599235165001164,
+          "mean_log_probability": -0.43147116666666663,
+          "perplexity": 1.5395207499584374,
+          "min_probability": 0.07441825532270877
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 19,
+          "total_tokens": 2491
+        },
+        "composite_score": 0.5712656052799759,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 1.7441611289978027,
+          "chars": 124,
+          "words": 8,
+          "text": "```\nStatus: complete                                                                                      Page:  6 of  6\n```",
+          "confidence": {
+            "mean_probability": 0.7599235165001164,
+            "mean_log_probability": -0.43147116666666663,
+            "perplexity": 1.5395207499584374,
+            "min_probability": 0.07441825532270877
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 19,
+            "total_tokens": 2491
+          },
+          "composite_score": 0.5712656052799759,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 1.3597173690795898,
+          "chars": 126,
+          "words": 8,
+          "text": "```\nStatus: complete                                                                                          Page: 6 of 6\n```",
+          "confidence": {
+            "mean_probability": 0.7483171325354622,
+            "mean_log_probability": -0.4659621875,
+            "perplexity": 1.5935467422230654,
+            "min_probability": 0.06346047549658838
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 17,
+            "total_tokens": 2489
+          },
+          "composite_score": 0.5304008343560191
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 1.6083171367645264,
+          "chars": 130,
+          "words": 8,
+          "text": "```\nStatus: complete                                                                                              Page: 6 of 6\n```",
+          "confidence": {
+            "mean_probability": 0.7457976897086493,
+            "mean_log_probability": -0.49909737499999995,
+            "perplexity": 1.6472337650940294,
+            "min_probability": 0.04967383218151339
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 17,
+            "total_tokens": 2489
+          },
+          "composite_score": 0.3635252158365463
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

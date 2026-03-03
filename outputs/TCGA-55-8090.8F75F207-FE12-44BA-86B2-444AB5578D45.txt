@@ -1,0 +1,93 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\8dbb6675-f23d-41ce-9ad3-48bb75567284\TCGA-55-8090.8F75F207-FE12-44BA-86B2-444AB5578D45.PDF
+Processing Date: 2026-03-02 15:56:14
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Surg Path Final Report                                                                                                                        
+* Final Report *                                                                                                                            
+
+* Final Report *
+
+SURG PATH FINAL REPORT
+
+                                SURGICAL PATHOLOGY
+
+                                Collected: ████████████████████
+                                Accession: ████████████████████
+                                Physician: ████████████████████
+
+PROCEDURE
+        Right thoracoscopy.
+
+SPECIMEN:
+Right lower lobe lung mass. Frozen section - check margins.
+█-year-old man, hx. of nonsmall cell carcinoma with hip and right
+lower lobe nodule.
+
+HISTORY
+        Right lung mass.
+
+GROSS :
+        Specimen received in fresh for frozen section labeled as "right
+        lower lobe lung mass," consists of a wedge of lung measuring 5 x 4 x
+        2.5 cm. By opening, the cut surface reveals a solid tan-white mass
+        measuring 2.5 x 2 x 2 cm. The sutured margin is negative, 3 mm from
+        tumor. The serosal surface appears involved by tumor.
+        Representative section is processed for frozen section.
+
+The specimen is submitted as follows:
+1. Frozen control.
+2-3. The tumor, the suture margin. ████████
+
+FROZEN SECTION DIAGNOSIS
+        Adenocarcinoma. ███
+        ██████████ is notified for diagnosis at ████████ █████
+
+MICROSCOPIC
+        Performed.
+
+DIAGNOSIS
+        Right lower lobe of lung, wedgectomy:
+                Adenocarcinoma, moderately differentiated (2.5 cm). The tumor is
+                limited in lung, associated with scar of subpleura.
+                Resection margins are negative for tumor.
+                Lymphovascular invasion is present. ██████████
+                ████████████████
+
+COMMENT
+        Compare to left lower lung biopsy at ██████████████████████, the
+
+
+Printed by: ████████████████████                                                                                   Page 1 of 2
+Printed on: ████████████████████                                                                                   (Continued)
+
+================================================================================
+PAGE 2
+================================================================================
+Surg Path Final Report
+* Final Report *
+
+tumor cells of two biopsies are morphologically similar.
+Dr. ██████ reviewed the case and concurs with the diagnosis.
+███████ M.D. (Electronic Signature) ██████████████████████
+
+
+Completed Action List:
+* Order by █████████████████ on ████████████████████████████
+Type:
+Date:
+Status:
+Title:
+Encounter info:
+
+
+
+
+Printed by: ████████████████████                                             Page 2 of 2
+Printed on: ████████████████████                                    (End of Report)

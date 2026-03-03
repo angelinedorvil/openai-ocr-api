@@ -1,0 +1,200 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: input_pdfs\medium_quality\6651f42a-c4ec-46f5-981a-9b8231736f41\TCGA-98-8020.16358710-87D5-4ED9-9DD4-C60E7D8C59FC.PDF
+Processing Date: 2026-03-02 15:53:03
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Patient Name  MR#  Observation Date  Last Edited Date
+
+SURGICAL PATHOLOGY CASE:  Received Date: 
+
+Diagnosis
+Lymph node, level X, excision:
+- No evidence of malignancy (0/1).
+
+Lymph node, level IV-R, excision:
+- Positive for metastatic squamous cell carcinoma (1/1).
+
+Lymph node, level VIII, excision:
+- No evidence of malignancy.
+
+Lymph node, level IX, excision:
+- No evidence of malignancy.
+
+Lymph node, level VII, excision:
+- Fragments of benign lymph node.
+- Multiple fragments of necrotic tissue.
+
+Soft tissue, (decorticate peel), excision:
+- Crystalline material with extensive foreign body response.
+
+Lung, bronchial margin, excision:
+- No evidence of malignancy.
+
+Lung, right upper lobe, lobectomy:
+- Squamous cell carcinoma, moderately differentiated.
+- Tumor measures 3.4 cm in greatest dimension.
+- Staple margins free of tumor.
+- There is one peribronchial lymph node with metastatic squamous cell carcinoma (1/1).
+- Extensive pleural crystalline deposition with foreign body reaction.
+- pT2, N2.
+
+Lymph node, level II, excision:
+- Lymph node free of tumor (0/1).
+
+(Electronically signed by) Verified
+
+Clinical Information
+The patient is a  year old female with a lung mass.
+
+Frozen Section Diagnosis
+GFS1: Lung, bronchial margin, excision:
+- Negative for malignancy.
+
+HFS1: Lung, right upper lobe, lobectomy:
+- Squamous cell carcinoma.
+(Both per Dr.
+
+Gross Description
+The specimen is received in nine separate containers labeled with the patient's name and medical record number.
+
+The first specimen is further labeled "level X lymph node". It consists of a single
+
+Page 1 of 3
+
+================================================================================
+PAGE 2
+================================================================================
+fragment of blue-black soft tissue measuring 0.6 x 0.4 x 0.2 cm. The specimen is
+submitted entirely.
+
+The second specimen is labeled "level IV-R lymph node". It consists of multiple
+fragments of tan and blue-black soft tissue measuring in aggregate 3.3 x 2.5 x 0.8 cm.
+The specimen is serially sectioned and submitted entirely in cassettes B1-B2.
+
+The third specimen is labeled "level VIII lymph node". It consists of three fragments of
+blue-black soft tissue measuring in aggregate 1.7 x 1.5 x 0.7 cm. The specimen is
+submitted entirely.
+
+The fourth specimen is labeled "level IX lymph node". It consists of a minute fragment
+of pink soft tissue measuring 0.3 x 0.2 x 0.2 cm. The specimen is submitted entirely.
+
+The fifth specimen is labeled "level VII lymph node". It consists of four fragments of
+pink and blue-black soft tissue measuring in aggregate 2.0 x 2.3 x 1.2 cm. Each fragment
+is bisected and submitted entirely.
+
+The sixth specimen is labeled "decorticate peel". It consists of a single fragment of
+tan-pink soft tissue measuring 1.3 x 0.4 x 0.4 cm. The specimen is submitted entirely.
+
+The seventh specimen is labeled "bronchial margin". It consists of a single segment of
+pink firm tissue measuring 0.6 x 0.5 x 0.2 cm. The specimen is submitted entirely for
+frozen section diagnosis and is now resubmitted for permanent section.
+
+The eighth specimen is received fresh for frozen section labeled with the patient's name,
+medical record number and designated, "right upper lobe". The specimen consist of a
+fragment of lung tissue which measures 10.5 x 8.7 x 3.4 cm. The external surface
+of the lung shows a fixed fibrinous deposit along one aspect. There are multiple nodules
+grossly visible. The largest of which measures 2.4 x 1.6 x approximately 1.7 cm. A
+section of the largest nodule was submitted for frozen section and is now resubmitted in
+its entirety for permanent sections in cassette H1. This mass appears to be within less
+than 1.0 mm of one of the two stapled margins that is identified. There is a second
+nodular area located within 2.0 cm of this first nodule which measures 2.5 x 1.0 x 0.3
+cm. The stapled margins are removed and the lung is serially sectioned revealing that the
+larger nodule is in communication with a cavity within the pulmonary parenchyma. This
+cavity contains apparently necrotic tumor. Upon sectioning, it becomes apparent
+that the solid nodule is larger than previously estimated with its greatest dimension
+being approximately 3.4 cm. This nodule lies adjacent to lymph nodes which is sectioned
+revealing a white and gray somewhat gritty cut surface. Representative sections of the
+specimen are submitted.
+
+The ninth specimen is labeled "level II lymph node". It consists of three fragments of
+tan soft tissue measuring in aggregate 1.7 x 1.3 x 0.6 cm. Each fragment is bisected and
+GENERAL
+
+          Block Summary
+A1-         Level X lymph node.
+B1-B2-      Level IV-R lymph node.
+C1-         Level VIII lymph node.
+D1-         Level IX lymph node.
+E1-E3-      Level VII lymph nodes.
+F1-         Decorticate peel.
+G1-         Bronchial margin.
+H1-         Section through tumor.
+H2-         Stapled margin.
+H3-         Stapled margin.
+H4-         Stapled margin.
+H5-         Necrotic debris within cystic space.
+H6-H7       One lymph node in five sections.
+H8-         Two sections through the larger nodule.
+H9-         Sections showing fibrinous nodularity on external lung surface.
+H10-        A section of grossly normal lung.
+
+                                                                                      Page 2 of 3
+
+================================================================================
+PAGE 3
+================================================================================
+I1-I2-		Level II lymph node.
+
+Microscopic Description
+A microscopic examination has been performed.
+SP Synoptic Report
+H: Thorax Lung
+
+MACRO
+SPECIMEN:
+Lobe(s) of lung:  right upper lobe
+PROCEDURE:
+Lobectomy
+SPECIMEN INTEGRITY:
+Indeterminate
+SPECIMEN LATERALITY:
+Right
+TUMOR SITE:
+Upper lobe
+TUMOR SIZE:
+Greatest dimension:  3.4  cm
+TUMOR FOCALITY:
+
+Cannot be determined
+
+MICRO
+HISTOLOGIC TYPE:
+Squamous cell carcinoma
+HISTOLOGIC GRADE:
+G2: Moderately differentiated
+VISCERAL PLEURA INVASION:
+Not identified
+TUMOR EXTENSION:
+Not identified
+BRONCHIAL MARGIN:
+Uninvolved by invasive carcinoma
+VASCULAR MARGIN:
+Cannot be assessed
+PARENCHYMAL MARGIN:
+Uninvolved by invasive carcinoma
+PARIETAL PLEURAL MARGIN:
+Uninvolved by invasive carcinoma
+CHEST WALL MARGIN:
+Cannot be assessed
+TREATMENT EFFECT:
+Not applicable
+LYMPH-VASCULAR INVASION:
+Present
+LYMPH NODES:
+Present
+TNM DESCRIPTORS:
+Regional Lymph Nodes (pN)
+PRIMARY TUMOR (pT):
+pT2a: Tumor > 3 cm, and < 5 cm in greatest dimension surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion in the main bronchus; or Tumor < 5 cm in greatest dimension with any of the following: involves main bronchus, 2 cm or more distal to the carina; invades the visceral pleura; associated with atelectasis or bstructive pneumonitis that extends to the hilar region
+	REGIONAL LYMPH NODES (pN):
+	pN1: Metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes, and intrapulmonary nodes, including involvement by direct extension
+	DISTANT METASTASIS (pM):
+	Not applicable
+
+                                                                                                                       Page 3 of 3

@@ -1,0 +1,191 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\8dbb6675-f23d-41ce-9ad3-48bb75567284\\TCGA-55-8090.8F75F207-FE12-44BA-86B2-444AB5578D45.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.554314136505127,
+        "chars": 2183,
+        "words": 212,
+        "text": "Surg Path Final Report                                                                                                                        \n* Final Report *                                                                                                                            \n\n* Final Report *\n\nSURG PATH FINAL REPORT\n\n                                SURGICAL PATHOLOGY\n\n                                Collected: ████████████████████\n                                Accession: ████████████████████\n                                Physician: ████████████████████\n\nPROCEDURE\n        Right thoracoscopy.\n\nSPECIMEN:\nRight lower lobe lung mass. Frozen section - check margins.\n█-year-old man, hx. of nonsmall cell carcinoma with hip and right\nlower lobe nodule.\n\nHISTORY\n        Right lung mass.\n\nGROSS :\n        Specimen received in fresh for frozen section labeled as \"right\n        lower lobe lung mass,\" consists of a wedge of lung measuring 5 x 4 x\n        2.5 cm. By opening, the cut surface reveals a solid tan-white mass\n        measuring 2.5 x 2 x 2 cm. The sutured margin is negative, 3 mm from\n        tumor. The serosal surface appears involved by tumor.\n        Representative section is processed for frozen section.\n\nThe specimen is submitted as follows:\n1. Frozen control.\n2-3. The tumor, the suture margin. ████████\n\nFROZEN SECTION DIAGNOSIS\n        Adenocarcinoma. ███\n        ██████████ is notified for diagnosis at ████████ █████\n\nMICROSCOPIC\n        Performed.\n\nDIAGNOSIS\n        Right lower lobe of lung, wedgectomy:\n                Adenocarcinoma, moderately differentiated (2.5 cm). The tumor is\n                limited in lung, associated with scar of subpleura.\n                Resection margins are negative for tumor.\n                Lymphovascular invasion is present. ██████████\n                ████████████████\n\nCOMMENT\n        Compare to left lower lung biopsy at ██████████████████████, the\n\n\nPrinted by: ████████████████████                                                                                   Page 1 of 2\nPrinted on: ████████████████████                                                                                   (Continued)",
+        "confidence": {
+          "mean_probability": 0.9405336503724275,
+          "mean_log_probability": -0.10103345785876991,
+          "perplexity": 1.1063136560302698,
+          "min_probability": 0.05543949683441448
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 440,
+          "total_tokens": 2912
+        },
+        "composite_score": 0.9265900906915185,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.554314136505127,
+          "chars": 2183,
+          "words": 212,
+          "text": "Surg Path Final Report                                                                                                                        \n* Final Report *                                                                                                                            \n\n* Final Report *\n\nSURG PATH FINAL REPORT\n\n                                SURGICAL PATHOLOGY\n\n                                Collected: ████████████████████\n                                Accession: ████████████████████\n                                Physician: ████████████████████\n\nPROCEDURE\n        Right thoracoscopy.\n\nSPECIMEN:\nRight lower lobe lung mass. Frozen section - check margins.\n█-year-old man, hx. of nonsmall cell carcinoma with hip and right\nlower lobe nodule.\n\nHISTORY\n        Right lung mass.\n\nGROSS :\n        Specimen received in fresh for frozen section labeled as \"right\n        lower lobe lung mass,\" consists of a wedge of lung measuring 5 x 4 x\n        2.5 cm. By opening, the cut surface reveals a solid tan-white mass\n        measuring 2.5 x 2 x 2 cm. The sutured margin is negative, 3 mm from\n        tumor. The serosal surface appears involved by tumor.\n        Representative section is processed for frozen section.\n\nThe specimen is submitted as follows:\n1. Frozen control.\n2-3. The tumor, the suture margin. ████████\n\nFROZEN SECTION DIAGNOSIS\n        Adenocarcinoma. ███\n        ██████████ is notified for diagnosis at ████████ █████\n\nMICROSCOPIC\n        Performed.\n\nDIAGNOSIS\n        Right lower lobe of lung, wedgectomy:\n                Adenocarcinoma, moderately differentiated (2.5 cm). The tumor is\n                limited in lung, associated with scar of subpleura.\n                Resection margins are negative for tumor.\n                Lymphovascular invasion is present. ██████████\n                ████████████████\n\nCOMMENT\n        Compare to left lower lung biopsy at ██████████████████████, the\n\n\nPrinted by: ████████████████████                                                                                   Page 1 of 2\nPrinted on: ████████████████████                                                                                   (Continued)",
+          "confidence": {
+            "mean_probability": 0.9405336503724275,
+            "mean_log_probability": -0.10103345785876991,
+            "perplexity": 1.1063136560302698,
+            "min_probability": 0.05543949683441448
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 440,
+            "total_tokens": 2912
+          },
+          "composite_score": 0.9265900906915185,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.163157939910889,
+          "chars": 1983,
+          "words": 211,
+          "text": "Surg Path Final Report                                                                                                  \n* Final Report *                                                                                                        \n\n* Final Report *\n\nSURG PATH FINAL REPORT\n\n                                SURGICAL PATHOLOGY\n\n                                Collected: ████████████████████\n                                Accession: ████████████████████\n                                Physician: ████████████████████\n\nPROCEDURE\n    Right thoracoscopy.\n\nSPECIMEN:\nRight lower lobe lung mass. Frozen section - check margins.\n███-year-old man, hx. of nonsmall cell carcinoma with hip and right\nlower lobe nodule.\n\nHISTORY\n    Right lung mass.\n\nGROSS\n    Specimen received in fresh for frozen section labeled as \"right\n    lower lobe lung mass,\" consists of a wedge of lung measuring 5 x 4 x\n    2.5 cm. By opening, the cut surface reveals a solid tan-white mass\n    measuring 2.5 x 2 x 2 cm. The sutured margin is negative, 3 mm from\n    tumor. The serosal surface appears involved by tumor.\n    Representative section is processed for frozen section.\n\nThe specimen is submitted as follows:\n1. Frozen control.\n2-3. The tumor, the suture margin. ████████\n\nFROZEN SECTION DIAGNOSIS\n    Adenocarcinoma. ███\n    ██████████ is notified for diagnosis at ████████ █████\n\nMICROSCOPIC\n    Performed.\n\nDIAGNOSIS\n    Right lower lobe of lung, wedgectomy:\n        Adenocarcinoma, moderately differentiated (2.5 cm). The tumor is\n        limited in lung, associated with scar of subpleura.\n        Resection margins are negative for tumor.\n        Lymphovascular invasion is present. ████████\n        ██████████████\n\nCOMMENT\n    Compare to left lower lung biopsy at ██████████████████████, the\n\n\nPrinted by: ████████████████████                                                    Page 1 of 2\nPrinted on: ████████████████████                                                    (Continued)",
+          "confidence": {
+            "mean_probability": 0.9458114743973505,
+            "mean_log_probability": -0.09213867048054919,
+            "perplexity": 1.0965168660593143,
+            "min_probability": 0.022183245106157892
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 438,
+            "total_tokens": 2910
+          },
+          "composite_score": 0.6189871292713048
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.850100994110107,
+          "chars": 1790,
+          "words": 211,
+          "text": "Surg Path Final Report                                                                                                      \n\n* Final Report *\n\n\n* Final Report *\n\nSURG PATH FINAL REPORT\n\n                            SURGICAL PATHOLOGY\n\n                             Collected: ███████████████████\n                             Accession: ███████████████████\n                             Physician: ███████████████████\n\nPROCEDURE\n  Right thoracoscopy.\n\nSPECIMEN:\nRight lower lobe lung mass. Frozen section - check margins.\n█-year-old man, hx. of nonsmall cell carcinoma with hip and right\nlower lobe nodule.\n\nHISTORY\n  Right lung mass.\n\nGROSS\n  Specimen received in fresh for frozen section labeled as \"right\n  lower lobe lung mass,\" consists of a wedge of lung measuring 5 x 4 x\n  2.5 cm. By opening, the cut surface reveals a solid tan-white mass\n  measuring 2.5 x 2 x 2 cm. The sutured margin is negative, 3 mm from\n  tumor. The serosal surface appears involved by tumor.\n  Representative section is processed for frozen section.\n\nThe specimen is submitted as follows:\n1. Frozen control.\n2-3. The tumor, the suture margin. ██████\n\nFROZEN SECTION DIAGNOSIS\n  Adenocarcinoma. █\n  █████████ is notified for diagnosis at ████████ █████\n\nMICROSCOPIC\n  Performed.\n\nDIAGNOSIS\n  Right lower lobe of lung, wedgectomy:\n    Adenocarcinoma, moderately differentiated (2.5 cm). The tumor is\n    limited in lung, associated with scar of subpleura.\n    Resection margins are negative for tumor.\n    Lymphovascular invasion is present. ██████\n    ██████████████\n\nCOMMENT\n  Compare to left lower lung biopsy at ██████████████████████, the\n\n\nPrinted by: ████████████████████                                        Page 1 of 2\nPrinted on: ████████████████████                                        (Continued)",
+          "confidence": {
+            "mean_probability": 0.9429673016953618,
+            "mean_log_probability": -23.50983485714285,
+            "perplexity": 16225255669.17632,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 428,
+            "total_tokens": 2900
+          },
+          "composite_score": 0.14074057260384643
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.2224581241607666,
+        "chars": 523,
+        "words": 59,
+        "text": "Surg Path Final Report\n* Final Report *\n\ntumor cells of two biopsies are morphologically similar.\nDr. ██████ reviewed the case and concurs with the diagnosis.\n███████ M.D. (Electronic Signature) ██████████████████████\n\n\nCompleted Action List:\n* Order by █████████████████ on ████████████████████████████\nType:\nDate:\nStatus:\nTitle:\nEncounter info:\n\n\n\n\nPrinted by: ████████████████████                                             Page 2 of 2\nPrinted on: ████████████████████                                    (End of Report)",
+        "confidence": {
+          "mean_probability": 0.8963057939619755,
+          "mean_log_probability": -0.1664127723577236,
+          "perplexity": 1.181060510253403,
+          "min_probability": 0.024851678088678594
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 124,
+          "total_tokens": 2596
+        },
+        "composite_score": 0.5167144821106051,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0249 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0249 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.2224581241607666,
+          "chars": 523,
+          "words": 59,
+          "text": "Surg Path Final Report\n* Final Report *\n\ntumor cells of two biopsies are morphologically similar.\nDr. ██████ reviewed the case and concurs with the diagnosis.\n███████ M.D. (Electronic Signature) ██████████████████████\n\n\nCompleted Action List:\n* Order by █████████████████ on ████████████████████████████\nType:\nDate:\nStatus:\nTitle:\nEncounter info:\n\n\n\n\nPrinted by: ████████████████████                                             Page 2 of 2\nPrinted on: ████████████████████                                    (End of Report)",
+          "confidence": {
+            "mean_probability": 0.8963057939619755,
+            "mean_log_probability": -0.1664127723577236,
+            "perplexity": 1.181060510253403,
+            "min_probability": 0.024851678088678594
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 124,
+            "total_tokens": 2596
+          },
+          "composite_score": 0.5167144821106051,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0249 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0249 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.2877657413482666,
+          "chars": 517,
+          "words": 59,
+          "text": "Surg Path Final Report\n* Final Report *\n\ntumor cells of two biopsies are morphologically similar.\nDr. ██████ reviewed the case and concurs with the diagnosis.\n███████ M.D. (Electronic Signature) ██████████████████████\n\n\nCompleted Action List:\n* Order by ████████████████ on ██████████████████████████████\n\nType:\nDate:\nStatus:\nTitle:\nEncounter info:\n\n\n\n\nPrinted by: ████████████████                                             Page 2 of 2\nPrinted on: ████████████████                                    (End of Report)",
+          "confidence": {
+            "mean_probability": 0.9079820287400328,
+            "mean_log_probability": -0.1509405655737705,
+            "perplexity": 1.162927538096814,
+            "min_probability": 0.029084002448707895
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 123,
+            "total_tokens": 2595
+          },
+          "composite_score": 0.4966111450157881
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.100130796432495,
+          "chars": 521,
+          "words": 59,
+          "text": "Surg Path Final Report\n* Final Report *\n\ntumor cells of two biopsies are morphologically similar.\n\nDr. ██████ reviewed the case and concurs with the diagnosis.\n███████ M.D. (Electronic Signature) ██████████████████████\n\n\nCompleted Action List:\n* Order by █████████████████ on ████████████████████████████████\n\nType:\nDate:\nStatus:\nTitle:\nEncounter info:\n\n\n\n\nPrinted by: ████████████████████████                                 Page 2 of 2\nPrinted on: ████████████████████████                                (End of Report)",
+          "confidence": {
+            "mean_probability": 0.8792220555229938,
+            "mean_log_probability": -0.19902503174603173,
+            "perplexity": 1.2202125095672345,
+            "min_probability": 0.01961552371416536
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 127,
+            "total_tokens": 2599
+          },
+          "composite_score": 0.47834032282644795
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

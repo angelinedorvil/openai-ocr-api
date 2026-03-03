@@ -1,0 +1,191 @@
+{
+  "pdf": "input_pdfs\\medium_quality\\65a66adf-f3bb-4d81-a411-567d41bedbb9\\TCGA-50-5939.B8F00BA8-722F-4DF1-BFCD-2CCFE6583ABD.PDF",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 41.371904611587524,
+        "chars": 4333,
+        "words": 632,
+        "text": "FINAL DIAGNOSIS: [Redacted]\n\nSUMMARY STATEMENT:\nThe right upper lobe apical segmentectomy shows a poorly differentiated adenocarcinoma, 3.4 cm in diameter, with angiolymphatic and visceral pleural invasion unassociated with lymph node metastasis. Pathologic stage; T2 NO Mx.\n\nPART 1: BONE, \"PORTION 3RD RIB\", RESECTION -\nPORTIONS OF UNREMARKABLE BONE WITH BONE MARROW SHOWING TRILINEAGE REPRESENTATION AND MATURATION. NO EVIDENCE OF MALIGNANCY.\n\nPART 2: LUNG, RIGHT UPPER LOBE APICAL SEGMENT, SEGMENTECTOMY -\nA. POORLY DIFFERENTIATED ADENOCARCINOMA, ACINAR AND SOLID TYPE, ARISING IN PULMONARY PARENCHYMAL SCAR ASSOCIATED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. DIAMETER 3.4 CM. ALL MARGINS FREE. MILD HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE; T2 NO MX.\nB. FOUR (4) SEGMENTAL LYMPH NODES WITH ANTHRACOSILICOTIC NODULES AND NO EVIDENCE OF METASTATIC CARCINOMA.\nC. MULTIPLE PULMONARY APICAL CAPS.\nD. MULTIFOCAL ATYPICAL ADENOMATOUS HYPERPLASIA.\nE. RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE\n\nPART 3: LYMPH NODES, RIGHT LEVEL FOUR LYMPH NODES, BIOPSY -\nTWO LYMPH NODES WITH NO EVIDENCE OF METASTATIC CARCINOMA\n\nCOMMENT:\nThe adenocarcinoma shows a variety of cytologic features, including mucinous differentiation and clear cell change.\n\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Testing:\n\nBlock 2C:\nA. KRAS codon 12/13 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\nD. EGFR amplification IDENTIFIED (see In Situ Procedure).\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking (1). EGFR exon 19 and 21 mutations are present in about 10% of [Redacted]s and up to 40% in the [Redacted] population, common in non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2).\nThese mutations are mutually exclusive and their presence may have prognostic and/or therapeutic implications (3,4).\nClinical studies show high EGFR gene copy number by FISH analysis (amplification) to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.\n\nSample Preparation and Gene Sequencing Analysis\nFor cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgical specimens, manual microdissection was performed. Specimens with the minimum of 50% of tumor cells in a microdissection target are accepted for the analysis. DNA was isolated using standard laboratory procedure. Optical density readings were obtained. For the detection of mutation, DNA was amplified with primers for the KRAS gene and exons 19 and 21 of the EGFR gene. Then, forward and reverse sequencing was performed using the [Redacted] on ABI3130 [Redacted]. The known hotspots were analyzed for the presence of mutations with Mutation Surveyor V3.01 [Redacted] For specimens with low quality and quantity of DNA, an alternative method (real-time PCR on LightCycler (Roche)) was applied for detection of KRAS mutations.\n\nSPECIAL PROCEDURES:\nIn Situ Procedure\nInterpretation\nPROBE: Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreen TM Probe [Redacted]\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of chromosome 7 of 2.65 indicating EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of chromosome 7 was 25.8%, and the monosomy rate was 36.4% in the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 5.7. 66 cells were analyzed in the targeted region.\nResults\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.",
+        "confidence": {
+          "mean_probability": 0.9907263982670934,
+          "mean_log_probability": -0.011518648745519713,
+          "perplexity": 1.011585243829481,
+          "min_probability": 0.33643611477559876
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1117,
+          "total_tokens": 3589
+        },
+        "composite_score": 0.9908900157126672,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 32.3% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 32.3% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 41.371904611587524,
+          "chars": 4333,
+          "words": 632,
+          "text": "FINAL DIAGNOSIS: [Redacted]\n\nSUMMARY STATEMENT:\nThe right upper lobe apical segmentectomy shows a poorly differentiated adenocarcinoma, 3.4 cm in diameter, with angiolymphatic and visceral pleural invasion unassociated with lymph node metastasis. Pathologic stage; T2 NO Mx.\n\nPART 1: BONE, \"PORTION 3RD RIB\", RESECTION -\nPORTIONS OF UNREMARKABLE BONE WITH BONE MARROW SHOWING TRILINEAGE REPRESENTATION AND MATURATION. NO EVIDENCE OF MALIGNANCY.\n\nPART 2: LUNG, RIGHT UPPER LOBE APICAL SEGMENT, SEGMENTECTOMY -\nA. POORLY DIFFERENTIATED ADENOCARCINOMA, ACINAR AND SOLID TYPE, ARISING IN PULMONARY PARENCHYMAL SCAR ASSOCIATED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. DIAMETER 3.4 CM. ALL MARGINS FREE. MILD HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE; T2 NO MX.\nB. FOUR (4) SEGMENTAL LYMPH NODES WITH ANTHRACOSILICOTIC NODULES AND NO EVIDENCE OF METASTATIC CARCINOMA.\nC. MULTIPLE PULMONARY APICAL CAPS.\nD. MULTIFOCAL ATYPICAL ADENOMATOUS HYPERPLASIA.\nE. RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE\n\nPART 3: LYMPH NODES, RIGHT LEVEL FOUR LYMPH NODES, BIOPSY -\nTWO LYMPH NODES WITH NO EVIDENCE OF METASTATIC CARCINOMA\n\nCOMMENT:\nThe adenocarcinoma shows a variety of cytologic features, including mucinous differentiation and clear cell change.\n\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Testing:\n\nBlock 2C:\nA. KRAS codon 12/13 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\nD. EGFR amplification IDENTIFIED (see In Situ Procedure).\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of smoking (1). EGFR exon 19 and 21 mutations are present in about 10% of [Redacted]s and up to 40% in the [Redacted] population, common in non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2).\nThese mutations are mutually exclusive and their presence may have prognostic and/or therapeutic implications (3,4).\nClinical studies show high EGFR gene copy number by FISH analysis (amplification) to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.\n\nSample Preparation and Gene Sequencing Analysis\nFor cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgical specimens, manual microdissection was performed. Specimens with the minimum of 50% of tumor cells in a microdissection target are accepted for the analysis. DNA was isolated using standard laboratory procedure. Optical density readings were obtained. For the detection of mutation, DNA was amplified with primers for the KRAS gene and exons 19 and 21 of the EGFR gene. Then, forward and reverse sequencing was performed using the [Redacted] on ABI3130 [Redacted]. The known hotspots were analyzed for the presence of mutations with Mutation Surveyor V3.01 [Redacted] For specimens with low quality and quantity of DNA, an alternative method (real-time PCR on LightCycler (Roche)) was applied for detection of KRAS mutations.\n\nSPECIAL PROCEDURES:\nIn Situ Procedure\nInterpretation\nPROBE: Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreen TM Probe [Redacted]\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of chromosome 7 of 2.65 indicating EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of chromosome 7 was 25.8%, and the monosomy rate was 36.4% in the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 5.7. 66 cells were analyzed in the targeted region.\nResults\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase inhibitors.",
+          "confidence": {
+            "mean_probability": 0.9907263982670934,
+            "mean_log_probability": -0.011518648745519713,
+            "perplexity": 1.011585243829481,
+            "min_probability": 0.33643611477559876
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1117,
+            "total_tokens": 3589
+          },
+          "composite_score": 0.9908900157126672,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 32.3% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 32.3% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 145.4843966960907,
+          "chars": 8182,
+          "words": 3,
+          "text": "FINAL DIAGNOSIS: █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9913341243598908,
+            "mean_log_probability": -0.009249344726562499,
+            "perplexity": 1.0092922521018384,
+            "min_probability": 0.5305712620382411
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.565820952257883
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 55.38907742500305,
+          "chars": 4332,
+          "words": 631,
+          "text": "FINAL DIAGNOSIS: [Redacted]\n\nSUMMARY STATEMENT:\nThe right upper lobe apical segmentectomy shows a poorly differentiated adenocarcinoma, 3.4 cm in diameter, with\nangiolymphatic and visceral pleural invasion unassociated with lymph node metastasis. Pathologic stage; T2 NO Mx.\n\nPART 1: BONE, \"PORTION 3RD RIB\", RESECTION -\nPORTIONS OF UNREMARKABLE BONE WITH BONE MARROW SHOWING TRILINEAGE REPRESENTATION AND\nMATURATION. NO EVIDENCE OF MALIGNANCY.\n\nPART 2: LUNG, RIGHT UPPER LOBE APICAL SEGMENT, SEGMENTECTOMY -\nA. POORLY DIFFERENTIATED ADENOCARCINOMA, ACINAR AND SOLID TYPE, ARISING IN PULMONARY\nPARENCHYMAL SCAR ASSOCIATED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. DIAMETER\n3.4 CM. ALL MARGINS FREE. MILD HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE; T2 NO MX.\nB. FOUR (4) SEGMENTAL LYMPH NODES WITH ANTHRACOSILICOTIC NODULES AND NO EVIDENCE OF\nMETASTATIC CARCINOMA.\nC. MULTIPLE PULMONARY APICAL CAPS.\nD. MULTIFOCAL ATYPICAL ADENOMATOUS HYPERPLASIA.\nE. RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE\n\nPART 3: LYMPH NODES, RIGHT LEVEL FOUR LYMPH NODES, BIOPSY-\nTWO LYMPH NODES WITH NO EVIDENCE OF METASTATIC CARCINOMA\n\nCOMMENT:\nThe adenocarcinoma shows a variety of cytologic features, including mucinous differentiation and clear cell change.\n\nADDENDA:\nAddendum\nMolecular Anatomic Pathology Testing:\n\nBlock 2C:\nA. KRAS codon 12/13 mutation NOT identified.\nB. EGFR Exon 19 mutation NOT identified.\nC. EGFR Exon 21 mutation NOT identified.\nD. EGFR amplification IDENTIFIED (see In Situ Procedure).\n\nNote:\nKRAS codon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of\nsmoking (1). EGFR exon 19 and 21 mutations are present in about 10% of [Redacted]s and up to 40% in the [Redacted]\npopulation, common in non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2).\nThese mutations are mutually exclusive and their presence may have prognostic and/or therapeutic implications (3,4).\nClinical studies show high EGFR gene copy number by FISH analysis (amplification) to be associated with favorable\nclinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small\ncell lung cancer treated with EGFR tyrosine kinase inhibitors.\n\nSample Preparation and Gene Sequencing Analysis\nFor cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgical specimens, manual microdissection was\nperformed. Specimens with the minimum of 50% of tumor cells in a microdissection target are accepted for the analysis. DNA was isolated using\nstandard laboratory procedure. Optical density readings were obtained. For the detection of mutation, DNA was amplified with primers for the\nKRAS gene and exons 19 and 21 of the EGFR gene. Then, forward and reverse sequencing was performed using the [Redacted] on\nABI3130 [Redacted]. The known hotspots were analyzed for the presence of mutations with Mutation Surveyor V3.01 [Redacted] For\nspecimens with low quality and quantity of DNA, an alternative method (real-time PCR on LightCycler (Roche)) was applied for detection of KRAS\nmutations.\n\nSPECIAL PROCEDURES:\nIn Situ Procedure\nInterpretation\nPROBE: Vysis LSI EGFR SpectrumOrange/ CEP 7 SpectrumGreen TM Probe [Redacted]\n\nFluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of\nchromosome 7 of 2.65 indicating EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of\nchromosome 7 was 25.8%, and the monosomy rate was 36.4% in the analyzed cells. The signal to nucleus ratio (SNR) for the\nEGFR gene was 5.7. 66 cells were analyzed in the targeted region.\nResults\nInterpretation guidelines for EGFR Gene Copy Number by FISH:\n\nRatio of EGFR to the centromere of chromosome 7:\nLess than 2.0: No EGFR amplification\nGreater than 2.0: EGFR amplification\n\nHyperploidy: Greater than two centromere copies/cell.\nSNR: The average number of EGFR signals per analyzed cell within the targeted region.\n\nClinical studies show high EGFR gene copy number by FISH analysis to be associated with favorable clinical benefit (clinical\nresponse, stable disease, time to progression, and survival) in patients with advanced non-small cell lung cancer treated with\nEGFR tyrosine kinase inhibitors.",
+          "confidence": {
+            "mean_probability": 0.9918017481204763,
+            "mean_log_probability": -0.009918770851624232,
+            "perplexity": 1.0099681249014325,
+            "min_probability": 0.3797986633357329
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1140,
+            "total_tokens": 3612
+          },
+          "composite_score": 0.9425357701383469
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.768656969070435,
+        "chars": 1755,
+        "words": 170,
+        "text": "CASE SYNOPSIS:\n     SYNOPTIC DATA - PRIMARY LUNG TUMORS\n\nTUMOR LOCATION:                        Right Upper Lobe\nLUNG SEGMENT(S) INVOLVED:             Apical\nPROCEDURE:                           Segmental\nTUMOR SIZE:                          Maximum dimension: 3.4 cm\n                                    Minor dimension: 1.9 cm\nGROSS SATELLITES:                    Number of gross satellite lesions: 0\nTUMOR TYPE:                         Invasive adenocarcinoma\nHISTOLOGIC GRADE:                   G3, Poorly differentiated\nMICROSCOPIC SATELLITES:             Number of microscopic satellite lesions: 0\nEXTRAPULMONARY PARENCHYMAL\nEXTENSION/INVASION OF TUMOR:        Visceral pleura\nANGIOLYMPHATIC INVASION:             Yes\nTUMOR NECROSIS:                     < or = to 50%\nSURGICAL MARGIN INVOLVEMENT:         No\nSURGICAL MARGIN SITE:                Distance of invasive tumor to closest margin: 12 mm, Bronchial margin\nINFLAMMATORY(DESMOPLASTIC) REACTION: Mild\nN1 LYMPH NODES:                     Number of N1 lymph nodes positive: 0\n                                    Number of N1 lymph nodes examined: 4\nN2 LYMPH NODES:                     Number of N2 lymph nodes positive: 0\n                                    Number of N2 lymph nodes examined: 2\nUNDERLYING DISEASE(S):              Atypical alveolar hyperplasia, Emphysema, Parenchymal scar, Smokers bronchiolitis\nT STAGE, PATHOLOGIC:                pT3\nN STAGE, PATHOLOGIC:                pN0\nM STAGE, PATHOLOGIC:                pMX\nANCILLARY STUDIES:                  Histochemical stains, FISH studies, Molecular studies\nComment:                           PAS/PAS-D and mucicarmine stains are positive. Elastic tissue stains confirms\n                                  visceral pleural invasion.",
+        "confidence": {
+          "mean_probability": 0.9763927025973119,
+          "mean_log_probability": -0.03592483256880734,
+          "perplexity": 1.0365779266624655,
+          "min_probability": 0.0594018445538831
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 437,
+          "total_tokens": 2909
+        },
+        "composite_score": 0.9477568036294883,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.768656969070435,
+          "chars": 1755,
+          "words": 170,
+          "text": "CASE SYNOPSIS:\n     SYNOPTIC DATA - PRIMARY LUNG TUMORS\n\nTUMOR LOCATION:                        Right Upper Lobe\nLUNG SEGMENT(S) INVOLVED:             Apical\nPROCEDURE:                           Segmental\nTUMOR SIZE:                          Maximum dimension: 3.4 cm\n                                    Minor dimension: 1.9 cm\nGROSS SATELLITES:                    Number of gross satellite lesions: 0\nTUMOR TYPE:                         Invasive adenocarcinoma\nHISTOLOGIC GRADE:                   G3, Poorly differentiated\nMICROSCOPIC SATELLITES:             Number of microscopic satellite lesions: 0\nEXTRAPULMONARY PARENCHYMAL\nEXTENSION/INVASION OF TUMOR:        Visceral pleura\nANGIOLYMPHATIC INVASION:             Yes\nTUMOR NECROSIS:                     < or = to 50%\nSURGICAL MARGIN INVOLVEMENT:         No\nSURGICAL MARGIN SITE:                Distance of invasive tumor to closest margin: 12 mm, Bronchial margin\nINFLAMMATORY(DESMOPLASTIC) REACTION: Mild\nN1 LYMPH NODES:                     Number of N1 lymph nodes positive: 0\n                                    Number of N1 lymph nodes examined: 4\nN2 LYMPH NODES:                     Number of N2 lymph nodes positive: 0\n                                    Number of N2 lymph nodes examined: 2\nUNDERLYING DISEASE(S):              Atypical alveolar hyperplasia, Emphysema, Parenchymal scar, Smokers bronchiolitis\nT STAGE, PATHOLOGIC:                pT3\nN STAGE, PATHOLOGIC:                pN0\nM STAGE, PATHOLOGIC:                pMX\nANCILLARY STUDIES:                  Histochemical stains, FISH studies, Molecular studies\nComment:                           PAS/PAS-D and mucicarmine stains are positive. Elastic tissue stains confirms\n                                  visceral pleural invasion.",
+          "confidence": {
+            "mean_probability": 0.9763927025973119,
+            "mean_log_probability": -0.03592483256880734,
+            "perplexity": 1.0365779266624655,
+            "min_probability": 0.0594018445538831
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 437,
+            "total_tokens": 2909
+          },
+          "composite_score": 0.9477568036294883,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.075080156326294,
+          "chars": 1257,
+          "words": 171,
+          "text": "CASE SYNOPSIS:\nSYNOPTIC DATA - PRIMARY LUNG TUMORS\n\nTUMOR LOCATION:\tRight Upper Lobe\nLUNG SEGMENT(S) INVOLVED:\tApical\nPROCEDURE:\tSegmental\nTUMOR SIZE:\tMaximum dimension: 3.4 cm\n\t\tMinor dimension: 1.9 cm\nGROSS SATELLITES:\tNumber of gross satellite lesions: 0 ·\nTUMOR TYPE:\tInvasive adenocarcinoma\nHISTOLOGIC GRADE:\tG3, Poorly differentiated\nMICROSCOPIC SATELLITES:\tNumtJer of microscopic satellite lesions: 0\nEXTRAPULMONARY PARENCHYMAL\nEXTENSION/INVASION OF TUMOR:\tVisceral pleura\nANGIOLYMPHATIC INVASION:\tYes\nTUMOR NECROSIS:\t< or = to 50%\nSURGICAL MARGIN INVOLVEMENT:\tNo\nSURGICAL MARGIN SITE:\tDistance of invasive tumor to closest margin: 12 mm, Bronchial margin\nINFLAMMATORY(DESMOPLASTIC) REACTION:\tMild\nN1 LYMPH NODES:\tNumber of N1 lymph nodes positive: 0\n\t\tNumber of N1 lymph nodes examined: 4\nN2 LYMPH NODES:\tNumber of N2 lymph nodes positive: 0\n\t\tNumber of N2 lymph nodes examined: 2\nUNDERLYING DISEASE(S):\tAtypical alveolar hyperplasia, Emphysema, Parenchymal scar, Smokers bronchiolitis\nT STAGE, PATHOLOGIC:\tpT3\nN STAGE, PATHOLOGIC:\tpN0\nM STAGE, PATHOLOGIC:\tpMX\nANCILLARY STUDIES:\tHistochemical stains, FISH studies, Molecular studies\nComment:\tPAS/PAS-D and mucicarmine stains are positive. Elastic tissue stains confirms\n\t\tvisceral pleural invasion.",
+          "confidence": {
+            "mean_probability": 0.9810495414662558,
+            "mean_log_probability": -0.03090647380410023,
+            "perplexity": 1.0313890374823567,
+            "min_probability": 0.08165191549600465
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 440,
+            "total_tokens": 2912
+          },
+          "composite_score": 0.8566302754027814
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.70066213607788,
+          "chars": 1800,
+          "words": 171,
+          "text": "CASE SYNOPSIS:\nSYNOPTIC DATA - PRIMARY LUNG TUMORS\n\nTUMOR LOCATION:                          Right Upper Lobe\nLUNG SEGMENT(S) INVOLVED:                Apical\nPROCEDURE:                              Segmental\nTUMOR SIZE:                            Maximum dimension: 3.4 cm\n                                      Minor dimension: 1.9 cm\nGROSS SATELLITES:                      Number of gross satellite lesions: 0 ·\nTUMOR TYPE:                           Invasive adenocarcinoma\nHISTOLOGIC GRADE:                     G3, Poorly differentiated\nMICROSCOPIC SATELLITES:               Number of microscopic satellite lesions: 0\nEXTRAPULMONARY PARENCHYMAL\nEXTENSION/INVASION OF TUMOR:          Visceral pleura\nANGIOLYMPHATIC INVASION:               Yes\nTUMOR NECROSIS:                       < or = to 50%\nSURGICAL MARGIN INVOLVEMENT:           No\nSURGICAL MARGIN SITE:                  Distance of invasive tumor to closest margin: 12 mm, Bronchial margin\nINFLAMMATORY(DESMOPLASTIC) REACTION:  Mild\nN1 LYMPH NODES:                       Number of N1 lymph nodes positive: 0\n                                     Number of N1 lymph nodes examined: 4\nN2 LYMPH NODES:                       Number of N2 lymph nodes positive: 0\n                                     Number of N2 lymph nodes examined: 2\nUNDERLYING DISEASE(S):                Atypical alveolar hyperplasia, Emphysema, Parenchymal scar, Smokers bronchiolitis\nT STAGE, PATHOLOGIC:                  pT3\nN STAGE, PATHOLOGIC:                  pN0\nM STAGE, PATHOLOGIC:                  pMX\nANCILLARY STUDIES:                   Histochemical stains, FISH studies, Molecular studies\nComment:                            PAS/PAS-D and mucicarmine stains are positive. Elastic tissue stains confirms\n                                   visceral pleural invasion.",
+          "confidence": {
+            "mean_probability": 0.9723834722167143,
+            "mean_log_probability": -0.04365394063926941,
+            "perplexity": 1.0446207915275374,
+            "min_probability": 0.03912138619542211
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 439,
+            "total_tokens": 2911
+          },
+          "composite_score": 0.6294475123546548
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
