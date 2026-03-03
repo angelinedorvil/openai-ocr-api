@@ -27,6 +27,12 @@ DEFAULT_DPI = 300
 DEFAULT_MAX_OUTPUT_TOKENS = 2048
 DEBUG = False
 
+LIMITS = {
+        "high_quality": 15,
+        "low_quality": 15,
+        "medium_quality": 20,
+    }
+
 client = OpenAI()
 
 
@@ -400,12 +406,6 @@ if __name__ == "__main__":
         f"ocr_run_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
     )
 
-    limits = {
-        "high_quality": 15,
-        "low_quality": 15,
-        "medium_quality": 20,
-    }
-
     with open(log_path, "a", encoding="utf-8") as logf:
         
         old_stdout, old_stderr = sys.stdout, sys.stderr
@@ -418,10 +418,10 @@ if __name__ == "__main__":
             print(f"Timestamp: {datetime.now().isoformat()}")
             print(f"Input folder: {input_folder}")
             print(f"Output folder: {output_folder}")
-            print(f"Limits: {limits}")
+            print(f"Limits: {LIMITS}")
             print("=" * 80)
 
-            for quality, limit in limits.items():
+            for quality, limit in LIMITS.items():
                 pdf_root = os.path.join(input_folder, quality)
                 if not os.path.exists(pdf_root):
                     print(f"[WARN] Missing folder: {pdf_root}")
@@ -440,6 +440,10 @@ if __name__ == "__main__":
                     base_name = os.path.splitext(os.path.basename(pdf_path))[0]
                     out_txt = os.path.join(output_folder, f"{base_name}.txt")
                     out_json = os.path.join(output_folder, "json", f"{base_name}_ocr.json")
+
+                    if os.path.exists(out_txt):
+                        print(f"\n[SKIP] {pdf_path} already processed (TXT exists)")
+                        continue
 
                     print(f"\n[START] {pdf_path}")
                     print(f"  -> TXT:  {out_txt}")
