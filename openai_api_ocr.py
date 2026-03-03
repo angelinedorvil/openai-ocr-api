@@ -130,8 +130,8 @@ def calculate_composite_score(chars: int, confidence: Dict, temperature: float, 
     min_prob_penalty = 1.0 if min_prob > MIN_PROB_THRESHOLD else 0.7
     temperature_penalty = 1.0 if temperature <= 0.1 else 0.95
 
-    # NEW: length outlier penalty (prevents runaway long attempts)
-    # If attempt is > 1.8x expected length, penalize.
+    # length outlier penalty (prevents runaway long attempts)
+    
     length_penalty = 1.0
     if expected_chars > 0 and chars > int(1.8 * expected_chars):
         length_penalty = 0.6
@@ -151,7 +151,7 @@ def select_best_ocr(all_responses: List[Dict]) -> Dict:
 
     best_score, best = max(scored, key=lambda x: x[0])
 
-    # Warnings (same thresholds as your notebook)
+    
     quality_warnings = []
     perplexity = best["confidence"].get("perplexity", float("inf")) if best.get("confidence") else float("inf")
     min_prob = best["confidence"].get("min_probability", 0) if best.get("confidence") else 0
@@ -163,7 +163,7 @@ def select_best_ocr(all_responses: List[Dict]) -> Dict:
     if min_prob is not None and min_prob < MIN_PROB_THRESHOLD:
         quality_warnings.append(f"Very uncertain tokens: min_prob={min_prob:.4f} (threshold: {MIN_PROB_THRESHOLD})")
 
-    # attempt consistency check
+    
     if len(all_responses) > 1:
         char_counts = [r["chars"] for r in all_responses]
         cv = np.std(char_counts) / np.mean(char_counts) if np.mean(char_counts) > 0 else 0
@@ -281,7 +281,7 @@ def ocr_with_retry_api(
                 "usage": None
             }
 
-            # usage may be a pydantic-ish object; make it JSON-friendly
+            
             if r["usage"] is not None:
                 try:
                     entry["usage"] = {
@@ -325,12 +325,11 @@ def ocr_pdf_api(
     results_pages: List[Dict] = []
     total_start = time.time()
 
-    # Ensure output folder exists
     os.makedirs(os.path.dirname(out_txt_path) or ".", exist_ok=True)
     if out_json_path:
         os.makedirs(os.path.dirname(out_json_path) or ".", exist_ok=True)
 
-    # Write a header immediately so you always have a file even if it crashes later
+    
     with open(out_txt_path, "w", encoding="utf-8") as f:
         f.write("=" * 80 + "\n")
         f.write("OPENAI API OCR OUTPUT\n")
@@ -344,7 +343,6 @@ def ocr_pdf_api(
         page_result = ocr_with_retry_api(processed, page_num=idx, attempts=attempts_per_page, use_cot=use_cot)
         results_pages.append(page_result)
 
-        # Append page text immediately (crash-safe)
         if "best_response" in page_result:
             text = page_result["best_response"]["text"]
             with open(out_txt_path, "a", encoding="utf-8") as f:
@@ -359,7 +357,6 @@ def ocr_pdf_api(
                 f.write("=" * 80 + "\n")
                 f.write(page_result.get("error", "Unknown error") + "\n")
 
-        # Also write JSON incrementally if requested
         if out_json_path:
             try:
                 with open(out_json_path, "w", encoding="utf-8") as jf:
@@ -369,7 +366,6 @@ def ocr_pdf_api(
 
     total_time = time.time() - total_start
 
-    # Summarize usage
     total_in = 0
     total_out = 0
     for p in results_pages:
@@ -411,7 +407,7 @@ if __name__ == "__main__":
     }
 
     with open(log_path, "a", encoding="utf-8") as logf:
-        # Redirect ALL prints + exceptions to the log file only
+        
         old_stdout, old_stderr = sys.stdout, sys.stderr
         sys.stdout = FileOnlyLogger(logf)
         sys.stderr = FileOnlyLogger(logf)
@@ -476,9 +472,8 @@ if __name__ == "__main__":
             print("=" * 80)
 
         finally:
-            # Restore normal stdout/stderr so your terminal isn't “silent” forever
+            # Restore normal stdout/stderr so your terminal isn't “silent” 
             sys.stdout, sys.stderr = old_stdout, old_stderr
 
-    # Optional: one final terminal line so you know where the log is.
-    # If you truly want NOTHING in terminal, delete this.
+    
     print(f"Log written to: {log_path}")
