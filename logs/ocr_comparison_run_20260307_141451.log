@@ -1,0 +1,20 @@
+================================================================================
+OPENAI OCR COMPARISON RUN START
+Benchmark CSV: gemini_ocr_benchmark(in).csv
+Ovarian root: input_pdfs\ovarian_cancer
+Results CSV: outputs\openai_ocr_results.csv
+================================================================================
+Loaded 86 benchmark patient IDs
+Found 86 matching patient folders under ovarian root
+
+--------------------------------------------------------------------------------
+[1/86] Patient_ID: TCGA-2E-A9G8
+[SKIP] Existing OCR output + existing CSV row found for TCGA-2E-A9G8
+
+--------------------------------------------------------------------------------
+[2/86] Patient_ID: TCGA-4E-A92E
+[START] OCR for TCGA-4E-A92E
+PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-4E-A92E\TCGA-4E-A92E.BC43D6CA-235C-4217-BF72-F33B089C532B.pdf
+TXT: outputs\ovarian_cancer\TCGA-4E-A92E_openai.txt
+JSON: outputs\ovarian_cancer\json\TCGA-4E-A92E_openai_ocr.json
+[REUSE] Existing OpenAI OCR output found for TCGA-4E-A92E
