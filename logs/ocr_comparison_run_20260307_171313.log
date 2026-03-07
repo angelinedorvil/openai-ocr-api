@@ -18,3 +18,21 @@ PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-4E
 TXT: outputs\ovarian_cancer\TCGA-4E-A92E_openai.txt
 JSON: outputs\ovarian_cancer\json\TCGA-4E-A92E_openai_ocr.json
 [REUSE] Existing OpenAI OCR output found for TCGA-4E-A92E
+[DONE] TCGA-4E-A92E
+Latency (s): 
+
+--------------------------------------------------------------------------------
+[3/86] Patient_ID: TCGA-5B-A90C
+[START] OCR for TCGA-5B-A90C
+PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-5B-A90C\TCGA-5B-A90C.608E2698-6A3A-4673-89D2-3BE98A74EBE5.pdf
+TXT: outputs\ovarian_cancer\TCGA-5B-A90C_openai.txt
+JSON: outputs\ovarian_cancer\json\TCGA-5B-A90C_openai_ocr.json
+[DONE] TCGA-5B-A90C
+Latency (s): 1111.723
+
+--------------------------------------------------------------------------------
+[4/86] Patient_ID: TCGA-5S-A9Q8
+[START] OCR for TCGA-5S-A9Q8
+PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-5S-A9Q8\TCGA-5S-A9Q8.3F89A501-BE16-4E08-9846-41B4BBDDFCF9.pdf
+TXT: outputs\ovarian_cancer\TCGA-5S-A9Q8_openai.txt
+JSON: outputs\ovarian_cancer\json\TCGA-5S-A9Q8_openai_ocr.json

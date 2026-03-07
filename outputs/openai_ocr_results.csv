@@ -1,2 +1,4 @@
 Patient_ID,Model,WER,CER,Latency (s),Stage_Match,Confidence
 TCGA-2E-A9G8,gpt-4.1-mini,0.9911,0.9156,863.366,,0.7351
+TCGA-4E-A92E,gpt-4.1-mini,0.9941,0.9018,,,0.881
+TCGA-5B-A90C,gpt-4.1-mini,0.9971,1.7346,1111.723,,0.922
