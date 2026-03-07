@@ -12,3 +12,5 @@ env/
 # VS Code
 .vscode/
 
+# Ignore ovarian cancer dataset only
+input_pdfs/ovarian_cancer/
