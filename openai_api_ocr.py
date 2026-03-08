@@ -393,61 +393,164 @@ def ocr_pdf_api(
 
     return {"summary": summary, "pages": results_pages}
 
+# if __name__ == "__main__":
+#     input_folder = r"input_pdfs"
+#     output_folder = r"outputs"   
+#     logs_folder = r"logs"
+
+#     os.makedirs(logs_folder, exist_ok=True)
+#     os.makedirs(os.path.join(output_folder, "json"), exist_ok=True)
+
+#     log_path = os.path.join(
+#         logs_folder,
+#         f"ocr_run_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+#     )
+
+#     with open(log_path, "a", encoding="utf-8") as logf:
+        
+#         old_stdout, old_stderr = sys.stdout, sys.stderr
+#         sys.stdout = FileOnlyLogger(logf)
+#         sys.stderr = FileOnlyLogger(logf)
+
+#         try:
+#             print("=" * 80)
+#             print("OPENAI OCR RUN START")
+#             print(f"Timestamp: {datetime.now().isoformat()}")
+#             print(f"Input folder: {input_folder}")
+#             print(f"Output folder: {output_folder}")
+#             print(f"Limits: {LIMITS}")
+#             print("=" * 80)
+
+#             for quality, limit in LIMITS.items():
+#                 pdf_root = os.path.join(input_folder, quality)
+#                 if not os.path.exists(pdf_root):
+#                     print(f"[WARN] Missing folder: {pdf_root}")
+#                     continue
+
+#                 print("\n" + "-" * 80)
+#                 print(f"QUALITY: {quality} | limit={limit}")
+#                 print("-" * 80)
+
+#                 processed = 0
+
+#                 for pdf_path in iter_pdfs_recursive(pdf_root):
+#                     if processed >= limit:
+#                         break
+
+#                     base_name = os.path.splitext(os.path.basename(pdf_path))[0]
+#                     out_txt = os.path.join(output_folder, f"{base_name}.txt")
+#                     out_json = os.path.join(output_folder, "json", f"{base_name}_ocr.json")
+
+#                     if os.path.exists(out_txt):
+#                         print(f"\n[SKIP] {pdf_path} already processed (TXT exists)")
+#                         continue
+
+#                     print(f"\n[START] {pdf_path}")
+#                     print(f"  -> TXT:  {out_txt}")
+#                     print(f"  -> JSON: {out_json}")
+
+#                     try:
+#                         result = ocr_pdf_api(
+#                             pdf_path=pdf_path,
+#                             out_txt_path=out_txt,
+#                             out_json_path=out_json,
+#                             dpi=300,
+#                             attempts_per_page=3,
+#                             use_cot=True,
+#                             max_pages=10,   # keep your cost-control cap; set None later
+#                         )
+#                         print("[DONE]")
+#                         print(result["summary"])
+#                         processed += 1
+
+#                     except Exception as e:
+#                         print("[ERROR]")
+#                         print(f"Exception: {e}")
+#                         print(traceback.format_exc())
+
+#                 print(f"\n[SUMMARY] {quality}: processed {processed}/{limit}")
+
+#             print("\n" + "=" * 80)
+#             print("OPENAI OCR RUN END")
+#             print(f"Finished: {datetime.now().isoformat()}")
+#             print("=" * 80)
+
+#         finally:
+#             # Restore normal stdout/stderr so your terminal isn't “silent” 
+#             sys.stdout, sys.stderr = old_stdout, old_stderr
+
+    
+#     print(f"Log written to: {log_path}")
+
 if __name__ == "__main__":
-    input_folder = r"input_pdfs"
-    output_folder = r"outputs"   
+    input_folder = r"reports"
+    output_folder = r"outputs\ovarian_cancer"
     logs_folder = r"logs"
 
     os.makedirs(logs_folder, exist_ok=True)
+    os.makedirs(output_folder, exist_ok=True)
     os.makedirs(os.path.join(output_folder, "json"), exist_ok=True)
 
     log_path = os.path.join(
         logs_folder,
-        f"ocr_run_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+        f"ocr_run_ovarian_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
     )
 
     with open(log_path, "a", encoding="utf-8") as logf:
-        
         old_stdout, old_stderr = sys.stdout, sys.stderr
         sys.stdout = FileOnlyLogger(logf)
         sys.stderr = FileOnlyLogger(logf)
 
         try:
             print("=" * 80)
-            print("OPENAI OCR RUN START")
+            print("OPENAI OCR RUN START - OVARIAN REPORTS")
             print(f"Timestamp: {datetime.now().isoformat()}")
             print(f"Input folder: {input_folder}")
             print(f"Output folder: {output_folder}")
-            print(f"Limits: {LIMITS}")
             print("=" * 80)
 
-            for quality, limit in LIMITS.items():
-                pdf_root = os.path.join(input_folder, quality)
-                if not os.path.exists(pdf_root):
-                    print(f"[WARN] Missing folder: {pdf_root}")
-                    continue
+            if not os.path.exists(input_folder):
+                print(f"[ERROR] Missing input folder: {input_folder}")
+            else:
+                patient_folders = [
+                    os.path.join(input_folder, name)
+                    for name in os.listdir(input_folder)
+                    if os.path.isdir(os.path.join(input_folder, name))
+                ]
 
-                print("\n" + "-" * 80)
-                print(f"QUALITY: {quality} | limit={limit}")
-                print("-" * 80)
+                print(f"Found {len(patient_folders)} patient folders")
 
                 processed = 0
+                skipped = 0
+                failed = 0
 
-                for pdf_path in iter_pdfs_recursive(pdf_root):
-                    if processed >= limit:
-                        break
+                for patient_folder in sorted(patient_folders):
+                    patient_id = os.path.basename(patient_folder)
 
-                    base_name = os.path.splitext(os.path.basename(pdf_path))[0]
-                    out_txt = os.path.join(output_folder, f"{base_name}.txt")
-                    out_json = os.path.join(output_folder, "json", f"{base_name}_ocr.json")
+                    pdf_files = [
+                        f for f in os.listdir(patient_folder)
+                        if f.lower().endswith(".pdf")
+                    ]
 
-                    if os.path.exists(out_txt):
-                        print(f"\n[SKIP] {pdf_path} already processed (TXT exists)")
+                    if not pdf_files:
+                        print(f"\n[WARN] No PDF found for {patient_id}")
+                        failed += 1
                         continue
 
-                    print(f"\n[START] {pdf_path}")
-                    print(f"  -> TXT:  {out_txt}")
-                    print(f"  -> JSON: {out_json}")
+                    pdf_path = os.path.join(patient_folder, pdf_files[0])
+
+                    out_txt = os.path.join(output_folder, f"{patient_id}_openai.txt")
+                    out_json = os.path.join(output_folder, "json", f"{patient_id}_openai_ocr.json")
+
+                    if os.path.exists(out_txt):
+                        print(f"\n[SKIP] {patient_id} already processed (TXT exists)")
+                        skipped += 1
+                        continue
+
+                    print(f"\n[START] {patient_id}")
+                    print(f"  PDF:  {pdf_path}")
+                    print(f"  TXT:  {out_txt}")
+                    print(f"  JSON: {out_json}")
 
                     try:
                         result = ocr_pdf_api(
@@ -457,7 +560,7 @@ if __name__ == "__main__":
                             dpi=300,
                             attempts_per_page=3,
                             use_cot=True,
-                            max_pages=10,   # keep your cost-control cap; set None later
+                            max_pages=None,
                         )
                         print("[DONE]")
                         print(result["summary"])
@@ -465,19 +568,24 @@ if __name__ == "__main__":
 
                     except Exception as e:
                         print("[ERROR]")
+                        print(f"Patient: {patient_id}")
                         print(f"Exception: {e}")
                         print(traceback.format_exc())
+                        failed += 1
 
-                print(f"\n[SUMMARY] {quality}: processed {processed}/{limit}")
+                print("\n" + "=" * 80)
+                print("OVARIAN REPORTS SUMMARY")
+                print(f"Processed: {processed}")
+                print(f"Skipped:   {skipped}")
+                print(f"Failed:    {failed}")
+                print("=" * 80)
 
             print("\n" + "=" * 80)
-            print("OPENAI OCR RUN END")
+            print("OPENAI OCR RUN END - OVARIAN REPORTS")
             print(f"Finished: {datetime.now().isoformat()}")
             print("=" * 80)
 
         finally:
-            # Restore normal stdout/stderr so your terminal isn't “silent” 
             sys.stdout, sys.stderr = old_stdout, old_stderr
 
-    
     print(f"Log written to: {log_path}")

@@ -14,3 +14,9 @@ env/
 
 # Ignore ovarian cancer dataset only
 input_pdfs/ovarian_cancer/
+
+# Ignore reports 
+reports/
+prepare_qwen_reports.py
+gemini_ocr_benchmark(in).csv
+

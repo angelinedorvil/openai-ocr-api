@@ -9,7 +9,13 @@ Found 86 matching patient folders under ovarian root
 
 --------------------------------------------------------------------------------
 [1/86] Patient_ID: TCGA-2E-A9G8
-[SKIP] Existing OCR output + existing CSV row found for TCGA-2E-A9G8
+[START] OCR for TCGA-2E-A9G8
+PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-2E-A9G8\TCGA-2E-A9G8.921E6140-A03E-4FBD-9FB8-554AE96FD16C.pdf
+TXT: outputs\ovarian_cancer\TCGA-2E-A9G8_openai.txt
+JSON: outputs\ovarian_cancer\json\TCGA-2E-A9G8_openai_ocr.json
+[REUSE] Existing OpenAI OCR output found for TCGA-2E-A9G8
+[DONE] TCGA-2E-A9G8
+Latency (s): 
 
 --------------------------------------------------------------------------------
 [2/86] Patient_ID: TCGA-4E-A92E
@@ -27,8 +33,9 @@ Latency (s):
 PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-5B-A90C\TCGA-5B-A90C.608E2698-6A3A-4673-89D2-3BE98A74EBE5.pdf
 TXT: outputs\ovarian_cancer\TCGA-5B-A90C_openai.txt
 JSON: outputs\ovarian_cancer\json\TCGA-5B-A90C_openai_ocr.json
+[REUSE] Existing OpenAI OCR output found for TCGA-5B-A90C
 [DONE] TCGA-5B-A90C
-Latency (s): 1111.723
+Latency (s): 
 
 --------------------------------------------------------------------------------
 [4/86] Patient_ID: TCGA-5S-A9Q8
@@ -36,8 +43,9 @@ Latency (s): 1111.723
 PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-5S-A9Q8\TCGA-5S-A9Q8.3F89A501-BE16-4E08-9846-41B4BBDDFCF9.pdf
 TXT: outputs\ovarian_cancer\TCGA-5S-A9Q8_openai.txt
 JSON: outputs\ovarian_cancer\json\TCGA-5S-A9Q8_openai_ocr.json
+[REUSE] Existing OpenAI OCR output found for TCGA-5S-A9Q8
 [DONE] TCGA-5S-A9Q8
-Latency (s): 551.301
+Latency (s): 
 
 --------------------------------------------------------------------------------
 [5/86] Patient_ID: TCGA-A5-A0G1
@@ -45,11 +53,4 @@ Latency (s): 551.301
 PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-A5-A0G1\TCGA-A5-A0G1.A2EB7E85-E836-462E-ABBA-65D5110CEB1C.pdf
 TXT: outputs\ovarian_cancer\TCGA-A5-A0G1_openai.txt
 JSON: outputs\ovarian_cancer\json\TCGA-A5-A0G1_openai_ocr.json
-[ERROR] Failed on TCGA-A5-A0G1: 
-
---------------------------------------------------------------------------------
-[6/86] Patient_ID: TCGA-A5-A0G3
-[START] OCR for TCGA-A5-A0G3
-PDF: input_pdfs\ovarian_cancer\TCGA_PathReports_Mutations_Patients 1-100\TCGA-A5-A0G3\TCGA-A5-A0G3.66DEDB33-CA2C-4967-8074-1EFC1FC3CF29.pdf
-TXT: outputs\ovarian_cancer\TCGA-A5-A0G3_openai.txt
-JSON: outputs\ovarian_cancer\json\TCGA-A5-A0G3_openai_ocr.json
+[REUSE] Existing OpenAI OCR output found for TCGA-A5-A0G1

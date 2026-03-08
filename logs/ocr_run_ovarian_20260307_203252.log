@@ -1,0 +1,556 @@
+================================================================================
+OPENAI OCR RUN START - OVARIAN REPORTS
+Timestamp: 2026-03-07T20:32:52.446455
+Input folder: reports
+Output folder: outputs\ovarian_cancer
+================================================================================
+Found 86 patient folders
+
+[SKIP] TCGA-2E-A9G8 already processed (TXT exists)
+
+[SKIP] TCGA-4E-A92E already processed (TXT exists)
+
+[SKIP] TCGA-5B-A90C already processed (TXT exists)
+
+[SKIP] TCGA-5S-A9Q8 already processed (TXT exists)
+
+[SKIP] TCGA-A5-A0G1 already processed (TXT exists)
+
+[SKIP] TCGA-A5-A0G3 already processed (TXT exists)
+
+[SKIP] TCGA-A5-A0G5 already processed (TXT exists)
+
+[START] TCGA-A5-A0GA
+  PDF:  reports\TCGA-A5-A0GA\TCGA-A5-A0GA.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GA_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GA_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8014 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8015 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8091 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2363 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2362 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2363 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3876 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=3876 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=3876 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=4095 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=4095 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=4095 | perplexity=1.00
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2962 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2902 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2931 | perplexity=1.01
+
+Page 6 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2683 | perplexity=1.08
+  Attempt 2/3 (temp=0.2) ... ok | chars=1957 | perplexity=1.06
+  Attempt 3/3 (temp=0.3) ... ok | chars=1960 | perplexity=1.07
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GA\\TCGA-A5-A0GA.pdf', 'total_pages': 6, 'attempts_per_page': 3, 'total_time_seconds': 1262.2377545833588, 'total_input_tokens': 14832, 'total_output_tokens': 7103, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GA_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GA_openai_ocr.json'}
+
+[START] TCGA-A5-A0GB
+  PDF:  reports\TCGA-A5-A0GB\TCGA-A5-A0GB.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GB_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GB_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8015 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8045 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8045 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2489 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2490 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2489 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3322 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=3342 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=3322 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2775 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2775 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2774 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2242 | perplexity=1.07
+  Attempt 2/3 (temp=0.2) ... ok | chars=5102 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2192 | perplexity=1.06
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GB\\TCGA-A5-A0GB.pdf', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 838.1040594577789, 'total_input_tokens': 12360, 'total_output_tokens': 5044, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GB_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GB_openai_ocr.json'}
+
+[START] TCGA-A5-A0GD
+  PDF:  reports\TCGA-A5-A0GD\TCGA-A5-A0GD.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GD_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GD_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8077 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8086 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8080 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2743 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2739 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2745 | perplexity=1.02
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3207 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=3207 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=3199 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1960 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1940 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1960 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1926 | perplexity=1.33
+  Attempt 2/3 (temp=0.2) ... ok | chars=1685 | perplexity=1.32
+  Attempt 3/3 (temp=0.3) ... ok | chars=1698 | perplexity=1.34
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GD\\TCGA-A5-A0GD.pdf', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 684.0091459751129, 'total_input_tokens': 12360, 'total_output_tokens': 4758, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GD_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GD_openai_ocr.json'}
+
+[START] TCGA-A5-A0GE
+  PDF:  reports\TCGA-A5-A0GE\TCGA-A5-A0GE.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GE_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GE_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8030 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8030 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8026 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3257 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=3257 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=3257 | perplexity=1.00
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1260 | perplexity=1.17
+  Attempt 2/3 (temp=0.2) ... ok | chars=1067 | perplexity=1.10
+  Attempt 3/3 (temp=0.3) ... ok | chars=1236 | perplexity=1.19
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GE\\TCGA-A5-A0GE.pdf', 'total_pages': 3, 'attempts_per_page': 3, 'total_time_seconds': 572.9304473400116, 'total_input_tokens': 7416, 'total_output_tokens': 3383, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GE_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GE_openai_ocr.json'}
+
+[START] TCGA-A5-A0GH
+  PDF:  reports\TCGA-A5-A0GH\TCGA-A5-A0GH.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GH_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GH_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8047 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8045 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8042 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3104 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=3104 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=3104 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2178 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2155 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2155 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1610 | perplexity=1.23
+  Attempt 2/3 (temp=0.2) ... ok | chars=1207 | perplexity=1.25
+  Attempt 3/3 (temp=0.3) ... ok | chars=894 | perplexity=1.22
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GH\\TCGA-A5-A0GH.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 584.7111616134644, 'total_input_tokens': 9888, 'total_output_tokens': 3760, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GH_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GH_openai_ocr.json'}
+
+[START] TCGA-A5-A0GJ
+  PDF:  reports\TCGA-A5-A0GJ\TCGA-A5-A0GJ.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GJ_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GJ_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8109 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8107 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=8115 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2328 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2324 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2347 | perplexity=1.02
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3407 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=3405 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=3458 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2970 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2969 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2969 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2025 | perplexity=1.04
+  Attempt 2/3 (temp=0.2) ... ok | chars=1957 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2006 | perplexity=1.02
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GJ\\TCGA-A5-A0GJ.pdf', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 752.5050382614136, 'total_input_tokens': 12360, 'total_output_tokens': 5067, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GJ_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GJ_openai_ocr.json'}
+
+[START] TCGA-A5-A0GM
+  PDF:  reports\TCGA-A5-A0GM\TCGA-A5-A0GM.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GM_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GM_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8016 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8027 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8031 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2561 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2561 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2561 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3911 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=3911 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=3911 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1845 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=1953 | perplexity=773024441.41
+  Attempt 3/3 (temp=0.3) ... ok | chars=1845 | perplexity=1.02
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GM\\TCGA-A5-A0GM.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 635.5811817646027, 'total_input_tokens': 9888, 'total_output_tokens': 4281, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GM_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GM_openai_ocr.json'}
+
+[START] TCGA-A5-A0GN
+  PDF:  reports\TCGA-A5-A0GN\TCGA-A5-A0GN.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GN_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GN_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8095 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=8096 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=8107 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1796 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1796 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1796 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=4258 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=4258 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=4258 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2820 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2820 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=2821 | perplexity=1.00
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=507 | perplexity=1.10
+  Attempt 2/3 (temp=0.2) ... ok | chars=1568 | perplexity=1.17
+  Attempt 3/3 (temp=0.3) ... ok | chars=1338 | perplexity=1.27
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GN\\TCGA-A5-A0GN.pdf', 'total_pages': 5, 'attempts_per_page': 3, 'total_time_seconds': 674.3536970615387, 'total_input_tokens': 12360, 'total_output_tokens': 4620, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GN_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GN_openai_ocr.json'}
+
+[START] TCGA-A5-A0GP
+  PDF:  reports\TCGA-A5-A0GP\TCGA-A5-A0GP.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GP_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GP_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8020 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8044 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8044 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2668 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2593 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2584 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1033 | perplexity=1.16
+  Attempt 2/3 (temp=0.2) ... ok | chars=1042 | perplexity=1.14
+  Attempt 3/3 (temp=0.3) ... ok | chars=947 | perplexity=1.17
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GP\\TCGA-A5-A0GP.pdf', 'total_pages': 3, 'attempts_per_page': 3, 'total_time_seconds': 609.043904542923, 'total_input_tokens': 7416, 'total_output_tokens': 3086, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GP_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GP_openai_ocr.json'}
+
+[START] TCGA-A5-A0GQ
+  PDF:  reports\TCGA-A5-A0GQ\TCGA-A5-A0GQ.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GQ_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GQ_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8099 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8095 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8099 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2630 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2625 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=3205 | perplexity=1.03
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GQ\\TCGA-A5-A0GQ.pdf', 'total_pages': 2, 'attempts_per_page': 3, 'total_time_seconds': 532.2438354492188, 'total_input_tokens': 4944, 'total_output_tokens': 2791, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GQ_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GQ_openai_ocr.json'}
+
+[START] TCGA-A5-A0GU
+  PDF:  reports\TCGA-A5-A0GU\TCGA-A5-A0GU.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GU_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GU_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8099 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8598 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8543 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3446 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=3446 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=3446 | perplexity=1.00
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=4569 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8181 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1501 | perplexity=1.10
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GU\\TCGA-A5-A0GU.pdf', 'total_pages': 3, 'attempts_per_page': 3, 'total_time_seconds': 899.7506470680237, 'total_input_tokens': 7416, 'total_output_tokens': 5059, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GU_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GU_openai_ocr.json'}
+
+[START] TCGA-A5-A0GV
+  PDF:  reports\TCGA-A5-A0GV\TCGA-A5-A0GV.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GV_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GV_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8013 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=8013 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8012 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3456 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=3456 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=3456 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1990 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=1988 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1920 | perplexity=1.01
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1500 | perplexity=1.39
+  Attempt 2/3 (temp=0.2) ... ok | chars=1755 | perplexity=1.54
+  Attempt 3/3 (temp=0.3) ... ok | chars=1675 | perplexity=1.40
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GV\\TCGA-A5-A0GV.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 616.1707887649536, 'total_input_tokens': 9888, 'total_output_tokens': 3814, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GV_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GV_openai_ocr.json'}
+
+[START] TCGA-A5-A0GW
+  PDF:  reports\TCGA-A5-A0GW\TCGA-A5-A0GW.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GW_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GW_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8104 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8124 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8123 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1860 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1861 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1862 | perplexity=1.04
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1093 | perplexity=1.04
+  Attempt 2/3 (temp=0.2) ... ok | chars=8174 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=1092 | perplexity=1.04
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1033 | perplexity=1.05
+  Attempt 2/3 (temp=0.2) ... ok | chars=1029 | perplexity=1.05
+  Attempt 3/3 (temp=0.3) ... ok | chars=1026 | perplexity=1.05
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1125 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1127 | perplexity=1.04
+  Attempt 3/3 (temp=0.3) ... ok | chars=1123 | perplexity=1.03
+
+Page 6 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=451 | perplexity=1.33
+  Attempt 2/3 (temp=0.2) ... ok | chars=474 | perplexity=1.34
+  Attempt 3/3 (temp=0.3) ... ok | chars=459 | perplexity=1.35
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GW\\TCGA-A5-A0GW.pdf', 'total_pages': 6, 'attempts_per_page': 3, 'total_time_seconds': 672.2975311279297, 'total_input_tokens': 14832, 'total_output_tokens': 3593, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GW_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GW_openai_ocr.json'}
+
+[START] TCGA-A5-A0GX
+  PDF:  reports\TCGA-A5-A0GX\TCGA-A5-A0GX.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0GX_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0GX_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8095 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8106 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8101 | perplexity=132.35
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2409 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2410 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2409 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=5706 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=5709 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=5706 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1920 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1918 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=1920 | perplexity=1.03
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0GX\\TCGA-A5-A0GX.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 729.749174118042, 'total_input_tokens': 9888, 'total_output_tokens': 4665, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0GX_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0GX_openai_ocr.json'}
+
+[START] TCGA-A5-A0R6
+  PDF:  reports\TCGA-A5-A0R6\TCGA-A5-A0R6.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0R6_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0R6_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8095 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=8095 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=8114 | perplexity=1.00
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2410 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2410 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2403 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=5706 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=5709 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=5706 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1920 | perplexity=1.03
+  Attempt 2/3 (temp=0.2) ... ok | chars=1920 | perplexity=1.03
+  Attempt 3/3 (temp=0.3) ... ok | chars=1918 | perplexity=1.02
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0R6\\TCGA-A5-A0R6.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 784.7061684131622, 'total_input_tokens': 9888, 'total_output_tokens': 4665, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0R6_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0R6_openai_ocr.json'}
+
+[START] TCGA-A5-A0R7
+  PDF:  reports\TCGA-A5-A0R7\TCGA-A5-A0R7.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0R7_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0R7_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8103 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8103 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=8111 | perplexity=1.00
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=960 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=960 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=963 | perplexity=1.03
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=3151 | perplexity=1.09
+  Attempt 2/3 (temp=0.2) ... ok | chars=2948 | perplexity=23912773.66
+  Attempt 3/3 (temp=0.3) ... ok | chars=3026 | perplexity=1.10
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=31620 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=31620 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=663 | perplexity=1.32
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0R7\\TCGA-A5-A0R7.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 832.0859265327454, 'total_input_tokens': 9888, 'total_output_tokens': 4941, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0R7_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0R7_openai_ocr.json'}
+
+[START] TCGA-A5-A0R8
+  PDF:  reports\TCGA-A5-A0R8\TCGA-A5-A0R8.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0R8_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0R8_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8375 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=8649 | perplexity=135.21
+  Attempt 3/3 (temp=0.3) ... ok | chars=8018 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2861 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2863 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=2864 | perplexity=1.01
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2779 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2779 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=2779 | perplexity=1.00
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2042 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... ok | chars=2041 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2042 | perplexity=1.02
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0R8\\TCGA-A5-A0R8.pdf', 'total_pages': 4, 'attempts_per_page': 3, 'total_time_seconds': 622.1608328819275, 'total_input_tokens': 9888, 'total_output_tokens': 4212, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0R8_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0R8_openai_ocr.json'}
+
+[START] TCGA-A5-A0R9
+  PDF:  reports\TCGA-A5-A0R9\TCGA-A5-A0R9.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0R9_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0R9_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8092 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8107 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8095 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=461 | perplexity=1.10
+  Attempt 2/3 (temp=0.2) ... ok | chars=468 | perplexity=1.09
+  Attempt 3/3 (temp=0.3) ... ok | chars=460 | perplexity=1.11
+
+Page 3 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1229 | perplexity=1.05
+  Attempt 2/3 (temp=0.2) ... ok | chars=1358 | perplexity=1.06
+  Attempt 3/3 (temp=0.3) ... ok | chars=1345 | perplexity=1.06
+
+Page 4 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2393 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2390 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=2443 | perplexity=1.01
+
+Page 5 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2198 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=2421 | perplexity=1.02
+  Attempt 3/3 (temp=0.3) ... ok | chars=2198 | perplexity=1.01
+
+Page 6 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2874 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2874 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=2874 | perplexity=1.00
+
+Page 7 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2874 | perplexity=1.00
+  Attempt 2/3 (temp=0.2) ... ok | chars=2874 | perplexity=1.00
+  Attempt 3/3 (temp=0.3) ... ok | chars=2874 | perplexity=1.00
+
+Page 8 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=1935 | perplexity=1.06
+  Attempt 2/3 (temp=0.2) ... ok | chars=2005 | perplexity=1.06
+  Attempt 3/3 (temp=0.3) ... ok | chars=1992 | perplexity=1.06
+[DONE]
+{'pdf_path': 'reports\\TCGA-A5-A0R9\\TCGA-A5-A0R9.pdf', 'total_pages': 8, 'attempts_per_page': 3, 'total_time_seconds': 789.2094206809998, 'total_input_tokens': 19776, 'total_output_tokens': 5874, 'output_txt': 'outputs\\ovarian_cancer\\TCGA-A5-A0R9_openai.txt', 'output_json': 'outputs\\ovarian_cancer\\json\\TCGA-A5-A0R9_openai_ocr.json'}
+
+[START] TCGA-A5-A0RA
+  PDF:  reports\TCGA-A5-A0RA\TCGA-A5-A0RA.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0RA_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0RA_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=8124 | perplexity=1.01
+  Attempt 2/3 (temp=0.2) ... ok | chars=8119 | perplexity=1.01
+  Attempt 3/3 (temp=0.3) ... ok | chars=8103 | perplexity=1.01
+
+Page 2 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... ok | chars=2597 | perplexity=1.02
+  Attempt 2/3 (temp=0.2) ... 

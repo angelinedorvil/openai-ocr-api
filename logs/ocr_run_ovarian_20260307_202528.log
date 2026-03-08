@@ -1,0 +1,27 @@
+================================================================================
+OPENAI OCR RUN START - OVARIAN REPORTS
+Timestamp: 2026-03-07T20:25:28.020719
+Input folder: reports
+Output folder: outputs\ovarian_cancer
+================================================================================
+Found 86 patient folders
+
+[SKIP] TCGA-2E-A9G8 already processed (TXT exists)
+
+[SKIP] TCGA-4E-A92E already processed (TXT exists)
+
+[SKIP] TCGA-5B-A90C already processed (TXT exists)
+
+[SKIP] TCGA-5S-A9Q8 already processed (TXT exists)
+
+[SKIP] TCGA-A5-A0G1 already processed (TXT exists)
+
+[SKIP] TCGA-A5-A0G3 already processed (TXT exists)
+
+[START] TCGA-A5-A0G5
+  PDF:  reports\TCGA-A5-A0G5\TCGA-A5-A0G5.pdf
+  TXT:  outputs\ovarian_cancer\TCGA-A5-A0G5_openai.txt
+  JSON: outputs\ovarian_cancer\json\TCGA-A5-A0G5_openai_ocr.json
+
+Page 1 - 3 attempts
+  Attempt 1/3 (temp=0.1) ... 

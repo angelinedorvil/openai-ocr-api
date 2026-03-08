@@ -1,0 +1,371 @@
+{
+  "pdf": "reports\\TCGA-A5-A0GV\\TCGA-A5-A0GV.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 154.32276511192322,
+        "chars": 8013,
+        "words": 15,
+        "text": "```\n10b-0-3\nAdenocarcinoma, Endometrioid, NOS\nSite: myometrium LS4H\n8380/3\n4/23/10\n\nUUID: 0E6417D3-6695-4EEF-AE93-40D6904F6525\nTCGA-A5-A06V-01A-PR Redacted\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "confidence": {
+          "mean_probability": 0.9879640197988397,
+          "mean_log_probability": -0.015604895507812503,
+          "perplexity": 1.0157272877000905,
+          "min_probability": 0.07373011110976173
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9877079005216809,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 154.32276511192322,
+          "chars": 8013,
+          "words": 15,
+          "text": "```\n10b-0-3\nAdenocarcinoma, Endometrioid, NOS\nSite: myometrium LS4H\n8380/3\n4/23/10\n\nUUID: 0E6417D3-6695-4EEF-AE93-40D6904F6525\nTCGA-A5-A06V-01A-PR Redacted\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9879640197988397,
+            "mean_log_probability": -0.015604895507812503,
+            "perplexity": 1.0157272877000905,
+            "min_probability": 0.07373011110976173
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9877079005216809,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 157.696932554245,
+          "chars": 8013,
+          "words": 16,
+          "text": "```\n10b-0-3\nAdenocarcinoma, Endometrioid, NOS\nSite: endometrium LS74 8380/3  lw 4/23/10\n\nUUID: 0E6417D3-6695-4EEF-AE93-40D6904F6525\nTCGA-A5-A0GV-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9886151789409112,
+            "mean_log_probability": -0.014802580078125002,
+            "perplexity": 1.0149126808543323,
+            "min_probability": 0.08003557945417512
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9389141384933128
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 144.43561363220215,
+          "chars": 8012,
+          "words": 16,
+          "text": "```\n10b-0-3\nAdenocarcinoma, Endometrioid, NOS\nSite: myometrium LS74 8380/3  lw 4/23/10\n\nUUID: 0E6417D3-6695-4EEF-AE93-40D6904F6525\nTCGA-A5-A0GV-01A-PR Redacted\nIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+          "confidence": {
+            "mean_probability": 0.992231659217619,
+            "mean_log_probability": -0.011637509277343748,
+            "perplexity": 1.0117054885355812,
+            "min_probability": 0.08395653957844681
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9412572369354916
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 33.982885122299194,
+        "chars": 3456,
+        "words": 577,
+        "text": "'ATH #:\n\n- No evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/19)\n\nCOMMENT: Pathologic tumor stage is assigned as follows: pT1b, N0. The preliminary pathologic findings were conveyed to Dr. . via campus e-mail or\n\nHISTORY: Uterine cancer\n\nMICROSCOPIC:\nSee diagnosis.\n\nSPECIAL STUDIES: H&E-stained step sections (A3 x2, A4 x2, A7 x2, A11 x1, A12 x1, A13 x1)\n\nIMMUNOSTAINS:\nKeratin AE1/AE3 (B1): No \"occult\" keratin-positive metastatic tumor cells identified.\nKeratin AE1/AE3 (C1, C2, C3): No \"occult\" keratin-positive metastatic tumor cells identified.\n\nGROSS:\nA. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES\nLabeled with the patient's name, labeled \"uterus, cervix, bilateral tubes and ovaries\", and received fresh in the Operating Room for frozen section and subsequently fixed in formalin, is a 68 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 6.5 x 5.5 x 3.0 cm in greatest overall dimensions. The cervix is 2.8 cm long and up to 3.0 cm in diameter. The endometrial cavity is about 4.5 cm long and up to 3.7 cm in width. The uninvolved endometrium has a maximum thickness of 0.2 cm. The muscular uterine wall ranges from about 1.1 to 1.4 cm in thickness. The fimbriated right fallopian tube is 4.3 cm long and ranges from 0.2 to 0.4 cm in diameter with a maximum luminal diameter of 0.1 cm. The right ovary is 2.6 x 1.1 x 0.7 cm. The fimbriated left fallopian tube is 5.2 cm long and ranges from 0.2 to 0.3 cm in diameter with a maximum luminal diameter of less than 0.1 cm. The left ovary is about 2.1 x 1.4 x 0.5 cm.\n\nIn the anterior uterine fundus, there is a soft friable exophytic/polypoid tumor mass that is about 2.3 x 0.8 x 0.2 cm. Cut sections in the vicinity of the polypoid lesion reveal superficial involvement of the underlying myometrium by tumor. Much of the rest of the mucosa of the adjacent uterine corpus and lower uterine segment shows irregular slightly shaggy pale tan and focally friable endometrium that may also be involved by tumor. Also received in the same container is a separate 2.5 x 1.5 x 0.5 cm aggregate of similar-appearing soft friable tan tumor. The cervix appears grossly free of tumor. Attached to the uterus there is a small amount of parametrial soft tissue, bilaterally that also appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tube.\n\nWithin the uterus there are three well-circumscribed intramural leiomyomas, ranging from about 0.8 to 1.0 cm in maximum dimension. Each of the leiomyomas are composed of firm solid tan-white tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for several mucous-filled cysts ranging from less than 0.1 to about 0.3 cm in diameter. Both ovaries are atrophic and show no gross pathologic lesions. The fallopian tubes are also grossly unremarkable.\n\nInk key: anterior aspect of uterus - blue; posterior aspect of uterus - black.\n\nThe entire lesion and anterior aspect of the fundus are submitted. Representative sections of the remaining tissue are submitted.\n\nSlide key:\nA1. Remnant of frozen section A1 (uterine tumor) - 1\nA2. Remnant of frozen section A2 (left ovary) - 1\nA3, A4. Anterior cervix and lower uterine segment - 1 each\nA5, A6. Posterior cervix and lower uterine segment - 1 each\nA7. Anterior uterine fundus with friable polypoid tumor - 1\n\nSURGICAL PATHOLOGY REPORT\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9938088676273147,
+          "mean_log_probability": -0.007729462012320328,
+          "perplexity": 1.007759411418357,
+          "min_probability": 0.3070357772227909
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 975,
+          "total_tokens": 3447
+        },
+        "composite_score": 0.9938638594553855,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 33.982885122299194,
+          "chars": 3456,
+          "words": 577,
+          "text": "'ATH #:\n\n- No evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/19)\n\nCOMMENT: Pathologic tumor stage is assigned as follows: pT1b, N0. The preliminary pathologic findings were conveyed to Dr. . via campus e-mail or\n\nHISTORY: Uterine cancer\n\nMICROSCOPIC:\nSee diagnosis.\n\nSPECIAL STUDIES: H&E-stained step sections (A3 x2, A4 x2, A7 x2, A11 x1, A12 x1, A13 x1)\n\nIMMUNOSTAINS:\nKeratin AE1/AE3 (B1): No \"occult\" keratin-positive metastatic tumor cells identified.\nKeratin AE1/AE3 (C1, C2, C3): No \"occult\" keratin-positive metastatic tumor cells identified.\n\nGROSS:\nA. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES\nLabeled with the patient's name, labeled \"uterus, cervix, bilateral tubes and ovaries\", and received fresh in the Operating Room for frozen section and subsequently fixed in formalin, is a 68 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 6.5 x 5.5 x 3.0 cm in greatest overall dimensions. The cervix is 2.8 cm long and up to 3.0 cm in diameter. The endometrial cavity is about 4.5 cm long and up to 3.7 cm in width. The uninvolved endometrium has a maximum thickness of 0.2 cm. The muscular uterine wall ranges from about 1.1 to 1.4 cm in thickness. The fimbriated right fallopian tube is 4.3 cm long and ranges from 0.2 to 0.4 cm in diameter with a maximum luminal diameter of 0.1 cm. The right ovary is 2.6 x 1.1 x 0.7 cm. The fimbriated left fallopian tube is 5.2 cm long and ranges from 0.2 to 0.3 cm in diameter with a maximum luminal diameter of less than 0.1 cm. The left ovary is about 2.1 x 1.4 x 0.5 cm.\n\nIn the anterior uterine fundus, there is a soft friable exophytic/polypoid tumor mass that is about 2.3 x 0.8 x 0.2 cm. Cut sections in the vicinity of the polypoid lesion reveal superficial involvement of the underlying myometrium by tumor. Much of the rest of the mucosa of the adjacent uterine corpus and lower uterine segment shows irregular slightly shaggy pale tan and focally friable endometrium that may also be involved by tumor. Also received in the same container is a separate 2.5 x 1.5 x 0.5 cm aggregate of similar-appearing soft friable tan tumor. The cervix appears grossly free of tumor. Attached to the uterus there is a small amount of parametrial soft tissue, bilaterally that also appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tube.\n\nWithin the uterus there are three well-circumscribed intramural leiomyomas, ranging from about 0.8 to 1.0 cm in maximum dimension. Each of the leiomyomas are composed of firm solid tan-white tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for several mucous-filled cysts ranging from less than 0.1 to about 0.3 cm in diameter. Both ovaries are atrophic and show no gross pathologic lesions. The fallopian tubes are also grossly unremarkable.\n\nInk key: anterior aspect of uterus - blue; posterior aspect of uterus - black.\n\nThe entire lesion and anterior aspect of the fundus are submitted. Representative sections of the remaining tissue are submitted.\n\nSlide key:\nA1. Remnant of frozen section A1 (uterine tumor) - 1\nA2. Remnant of frozen section A2 (left ovary) - 1\nA3, A4. Anterior cervix and lower uterine segment - 1 each\nA5, A6. Posterior cervix and lower uterine segment - 1 each\nA7. Anterior uterine fundus with friable polypoid tumor - 1\n\nSURGICAL PATHOLOGY REPORT\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9938088676273147,
+            "mean_log_probability": -0.007729462012320328,
+            "perplexity": 1.007759411418357,
+            "min_probability": 0.3070357772227909
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 975,
+            "total_tokens": 3447
+          },
+          "composite_score": 0.9938638594553855,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 35.70280957221985,
+          "chars": 3456,
+          "words": 577,
+          "text": "'ATH #:\n\n- No evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/19)\n\nCOMMENT: Pathologic tumor stage is assigned as follows: pT1b, N0. The preliminary pathologic findings were conveyed to Dr. . via campus e-mail or\n\nHISTORY: Uterine cancer\n\nMICROSCOPIC:\nSee diagnosis.\n\nSPECIAL STUDIES: H&E-stained step sections (A3 x2, A4 x2, A7 x2, A11 x1, A12 x1, A13 x1)\n\nIMMUNOSTAINS:\nKeratin AE1/AE3 (B1): No \"occult\" keratin-positive metastatic tumor cells identified.\nKeratin AE1/AE3 (C1, C2, C3): No \"occult\" keratin-positive metastatic tumor cells identified.\n\nGROSS:\nA. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES\nLabeled with the patient's name, labeled \"uterus, cervix, bilateral tubes and ovaries\", and received fresh in the Operating Room for frozen section and subsequently fixed in formalin, is a 68 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 6.5 x 5.5 x 3.0 cm in greatest overall dimensions. The cervix is 2.8 cm long and up to 3.0 cm in diameter. The endometrial cavity is about 4.5 cm long and up to 3.7 cm in width. The uninvolved endometrium has a maximum thickness of 0.2 cm. The muscular uterine wall ranges from about 1.1 to 1.4 cm in thickness. The fimbriated right fallopian tube is 4.3 cm long and ranges from 0.2 to 0.4 cm in diameter with a maximum luminal diameter of 0.1 cm. The right ovary is 2.6 x 1.1 x 0.7 cm. The fimbriated left fallopian tube is 5.2 cm long and ranges from 0.2 to 0.3 cm in diameter with a maximum luminal diameter of less than 0.1 cm. The left ovary is about 2.1 x 1.4 x 0.5 cm.\n\nIn the anterior uterine fundus, there is a soft friable exophytic/polypoid tumor mass that is about 2.3 x 0.8 x 0.2 cm. Cut sections in the vicinity of the polypoid lesion reveal superficial involvement of the underlying myometrium by tumor. Much of the rest of the mucosa of the adjacent uterine corpus and lower uterine segment shows irregular slightly shaggy pale tan and focally friable endometrium that may also be involved by tumor. Also received in the same container is a separate 2.5 x 1.5 x 0.5 cm aggregate of similar-appearing soft friable tan tumor. The cervix appears grossly free of tumor. Attached to the uterus there is a small amount of parametrial soft tissue, bilaterally that also appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tube.\n\nWithin the uterus there are three well-circumscribed intramural leiomyomas, ranging from about 0.8 to 1.0 cm in maximum dimension. Each of the leiomyomas are composed of firm solid tan-white tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for several mucous-filled cysts ranging from less than 0.1 to about 0.3 cm in diameter. Both ovaries are atrophic and show no gross pathologic lesions. The fallopian tubes are also grossly unremarkable.\n\nInk key: anterior aspect of uterus - blue; posterior aspect of uterus - black.\n\nThe entire lesion and anterior aspect of the fundus are submitted. Representative sections of the remaining tissue are submitted.\n\nSlide key:\nA1. Remnant of frozen section A1 (uterine tumor) - 1\nA2. Remnant of frozen section A2 (left ovary) - 1\nA3, A4. Anterior cervix and lower uterine segment - 1 each\nA5, A6. Posterior cervix and lower uterine segment - 1 each\nA7. Anterior uterine fundus with friable polypoid tumor - 1\n\nSURGICAL PATHOLOGY REPORT\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.994027435997213,
+            "mean_log_probability": -0.007337574948665299,
+            "perplexity": 1.0073645609152009,
+            "min_probability": 0.32664445277729753
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 975,
+            "total_tokens": 3447
+          },
+          "composite_score": 0.9444640633888101
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 32.70243048667908,
+          "chars": 3456,
+          "words": 577,
+          "text": "'ATH #:\n\n- No evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/19)\n\nCOMMENT: Pathologic tumor stage is assigned as follows: pT1b, N0. The preliminary pathologic findings were conveyed to Dr. . via campus e-mail or\n\nHISTORY: Uterine cancer\n\nMICROSCOPIC:\nSee diagnosis.\n\nSPECIAL STUDIES: H&E-stained step sections (A3 x2, A4 x2, A7 x2, A11 xl, A12 xl, A13 xl)\n\nIMMUNOSTAINS:\nKeratin AE1/AE3 (B1): No \"occult\" keratin-positive metastatic tumor cells identified.\nKeratin AE1/AE3 (C1, C2, C3): No \"occult\" keratin-positive metastatic tumor cells identified.\n\nGROSS:\nA. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES\nLabeled with the patient's name, labeled \"uterus, cervix, bilateral tubes and ovaries\", and received fresh in the Operating Room for frozen section and subsequently fixed in formalin, is a 68 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 6.5 x 5.5 x 3.0 cm in greatest overall dimensions. The cervix is 2.8 cm long and up to 3.0 cm in diameter. The endometrial cavity is about 4.5 cm long and up to 3.7 cm in width. The uninvolved endometrium has a maximum thickness of 0.2 cm. The muscular uterine wall ranges from about 1.1 to 1.4 cm in thickness. The fimbriated right fallopian tube is 4.3 cm long and ranges from 0.2 to 0.4 cm in diameter with a maximum luminal diameter of 0.1 cm. The right ovary is 2.6 x 1.1 x 0.7 cm. The fimbriated left fallopian tube is 5.2 cm long and ranges from 0.2 to 0.3 cm in diameter with a maximum luminal diameter of less than 0.1 cm. The left ovary is about 2.1 x 1.4 x 0.5 cm.\n\nIn the anterior uterine fundus, there is a soft friable exophytic/polypoid tumor mass that is about 2.3 x 0.8 x 0.2 cm. Cut sections in the vicinity of the polypoid lesion reveal superficial involvement of the underlying myometrium by tumor. Much of the rest of the mucosa of the adjacent uterine corpus and lower uterine segment shows irregular slightly shaggy pale tan and focally friable endometrium that may also be involved by tumor. Also received in the same container is a separate 2.5 x 1.5 x 0.5 cm aggregate of similar-appearing soft friable tan tumor. The cervix appears grossly free of tumor. Attached to the uterus there is a small amount of parametrial soft tissue, bilaterally that also appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tube.\n\nWithin the uterus there are three well-circumscribed intramural leiomyomas, ranging from about 0.8 to 1.0 cm in maximum dimension. Each of the leiomyomas are composed of firm solid tan-white tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for several mucous-filled cysts ranging from less than 0.1 to about 0.3 cm in diameter. Both ovaries are atrophic and show no gross pathologic lesions. The fallopian tubes are also grossly unremarkable.\n\nInk key: anterior aspect of uterus - blue; posterior aspect of uterus - black.\n\nThe entire lesion and anterior aspect of the fundus are submitted. Representative sections of the remaining tissue are submitted.\n\nSlide key:\nA1. Remnant of frozen section A1 (uterine tumor) - 1\nA2. Remnant of frozen section A2 (left ovary) - 1\nA3, A4. Anterior cervix and lower uterine segment - 1 each\nA5, A6. Posterior cervix and lower uterine segment - 1 each\nA7. Anterior uterine fundus with friable polypoid tumor - 1\n\nSURGICAL PATHOLOGY REPORT\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9931227672697868,
+            "mean_log_probability": -0.008298575695159629,
+            "perplexity": 1.008333104321161,
+            "min_probability": 0.3793932548899353
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 972,
+            "total_tokens": 3444
+          },
+          "composite_score": 0.943744990144439
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.451772451400757,
+        "chars": 1990,
+        "words": 330,
+        "text": "A8. Anterior uterine fundus with leiomyoma and mucosal tumor - 1  \nA9. Posterior uterine fundus - 2  \nA10. Two leiomyomas - 2  \nA11. Right parametrial tissues - 2  \nA12. Left parametrial tissues - multiple  \nA13. Right ovary - 1  \nA14. Right ovary - 2  \nA15. Right fallopian tube (proximal, mid and distal segments) - 3  \nA16. Left ovary - 2  \nA17. Left fallopian tube (proximal, mid and distal segments) - 3  \nA18. Separate portion of tumor - multiple  \nA19. Posterior lower uterine segment - 1  \n\nADDIONAL REPRESENTATIVE SECTIONS (submitted or  \nA20. Anterior uterine fundus adjacent to friable polypoid tumor - 2  \nA21-23. Anterior uterine fundus - 2,1,1, respectively  \n\nB. RIGHT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 4.0 x 3.2 x 0.8 cm aggregate of yellow fatty tissue within which there are embedded two semisoft tan lymph nodes. The lymph nodes are about 0.5 and 1.2 cm in maximum dimension.  \n\nThe lymph nodes are each entirely embedded along with some of the perinodal fat.  \n\nSlide key:  \nB1. Two bisected lymph nodes (one inked blue) - 4  \n\nC. LEFT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.8 x 3.4 x 1.0 cm aggregate of multiple fragments of soft yellow fatty tissue, within which are embedded numerous semisoft tan lymph nodes. The lymph nodes range from about 0.1 to 1.5 cm in maximum dimension. The lymph nodes are each entirely embedded with some of the perinodal fat.  \n\nSlide key:  \nC1. Multiple lymph nodes, largest bisected and inked blue - 4  \nC2. Four lymph nodes - 4  \nC3. Multiple lymph nodes - 4  \n\nGross dictated by  \n\nOPERATIVE CALL  \nOPERATIVE CONSULT (FROZEN):  \n\nA. FS A1 (SECTION FROM TUMOR):  \n- Endometrioid adenocarcinoma, FIGO grade 1  \n- Possible superficial invasion, defer to permanent  \n- No deep myometrial invasion seen  \nFS A2 (OVARY - LEFT):  \n\nSURGICAL PATHOLOGY REPORT  \nPage 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9924206527209853,
+          "mean_log_probability": -0.010407692844677139,
+          "perplexity": 1.0104620412634262,
+          "min_probability": 0.1337667055094859
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 574,
+          "total_tokens": 3046
+        },
+        "composite_score": 0.9907596091808244,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.451772451400757,
+          "chars": 1990,
+          "words": 330,
+          "text": "A8. Anterior uterine fundus with leiomyoma and mucosal tumor - 1  \nA9. Posterior uterine fundus - 2  \nA10. Two leiomyomas - 2  \nA11. Right parametrial tissues - 2  \nA12. Left parametrial tissues - multiple  \nA13. Right ovary - 1  \nA14. Right ovary - 2  \nA15. Right fallopian tube (proximal, mid and distal segments) - 3  \nA16. Left ovary - 2  \nA17. Left fallopian tube (proximal, mid and distal segments) - 3  \nA18. Separate portion of tumor - multiple  \nA19. Posterior lower uterine segment - 1  \n\nADDIONAL REPRESENTATIVE SECTIONS (submitted or  \nA20. Anterior uterine fundus adjacent to friable polypoid tumor - 2  \nA21-23. Anterior uterine fundus - 2,1,1, respectively  \n\nB. RIGHT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 4.0 x 3.2 x 0.8 cm aggregate of yellow fatty tissue within which there are embedded two semisoft tan lymph nodes. The lymph nodes are about 0.5 and 1.2 cm in maximum dimension.  \n\nThe lymph nodes are each entirely embedded along with some of the perinodal fat.  \n\nSlide key:  \nB1. Two bisected lymph nodes (one inked blue) - 4  \n\nC. LEFT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.8 x 3.4 x 1.0 cm aggregate of multiple fragments of soft yellow fatty tissue, within which are embedded numerous semisoft tan lymph nodes. The lymph nodes range from about 0.1 to 1.5 cm in maximum dimension. The lymph nodes are each entirely embedded with some of the perinodal fat.  \n\nSlide key:  \nC1. Multiple lymph nodes, largest bisected and inked blue - 4  \nC2. Four lymph nodes - 4  \nC3. Multiple lymph nodes - 4  \n\nGross dictated by  \n\nOPERATIVE CALL  \nOPERATIVE CONSULT (FROZEN):  \n\nA. FS A1 (SECTION FROM TUMOR):  \n- Endometrioid adenocarcinoma, FIGO grade 1  \n- Possible superficial invasion, defer to permanent  \n- No deep myometrial invasion seen  \nFS A2 (OVARY - LEFT):  \n\nSURGICAL PATHOLOGY REPORT  \nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9924206527209853,
+            "mean_log_probability": -0.010407692844677139,
+            "perplexity": 1.0104620412634262,
+            "min_probability": 0.1337667055094859
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 574,
+            "total_tokens": 3046
+          },
+          "composite_score": 0.9907596091808244,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.86951494216919,
+          "chars": 1988,
+          "words": 330,
+          "text": "A8. Anterior uterine fundus with leiomyoma and mucosal tumor - 1  \nA9. Posterior uterine fundus - 2  \nA10. Two leiomyomas - 2  \nA11. Right parametrial tissues - 2  \nA12. Left parametrial tissues - multiple  \nA13. Right ovary - 1  \nA14. Right ovary - 2  \nA15. Right fallopian tube (proximal, mid and distal segments) - 3  \nA16. Left ovary - 2  \nA17. Left fallopian tube (proximal, mid and distal segments) - 3  \nA18. Separate portion of tumor - multiple  \nA19. Posterior lower uterine segment - 1  \n\nADDIONAL REPRESENTATIVE SECTIONS (submitted or  \nA20. Anterior uterine fundus adjacent to friable polypoid tumor - 2  \nA21-23. Anterior uterine fundus - 2,1,1, respectively  \n\nB. RIGHT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 4.0 x 3.2 x 0.8 cm aggregate of yellow fatty tissue within which there are embedded two semisoft tan lymph nodes. The lymph nodes are about 0.5 and 1.2 cm in maximum dimension.  \n\nThe lymph nodes are each entirely embedded along with some of the perinodal fat.  \n\nSlide key:  \nB1. Two bisected lymph nodes (one inked blue) - 4  \n\nC. LEFT PELVIC LYMPH NODE  \nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.8 x 3.4 x 1.0 cm aggregate of multiple fragments of soft yellow fatty tissue, within which are embedded numerous semisoft tan lymph nodes. The lymph nodes range from about 0.1 to 1.5 cm in maximum dimension. The lymph nodes are each entirely embedded with some of the perinodal fat.  \n\nSlide key:  \nC1. Multiple lymph nodes, largest bisected and inked blue - 4  \nC2. Four lymph nodes - 4  \nC3. Multiple lymph nodes - 4  \n\nGross dictated by  \n\nOPERATIVE CALL  \nOPERATIVE CONSULT (FROZEN):  \n\nA. FS A1 (SECTION FROM TUMOR):  \n- Endometrioid adenocarcinoma, FIGO grade 1  \n- Possible superficial invasion, defer to permanent  \n- No deep myometrial invasion seen  \nFS A2 (OVARY - LEFT):  \n\nSURGICAL PATHOLOGY REPORT Page 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9923679989594513,
+            "mean_log_probability": -0.010250706293706292,
+            "perplexity": 1.0103034247633358,
+            "min_probability": 0.14777299504255242
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 573,
+            "total_tokens": 3045
+          },
+          "composite_score": 0.9411485114212906
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.658901453018188,
+          "chars": 1920,
+          "words": 330,
+          "text": "A8. Anterior uterine fundus with leiomyoma and mucosal tumor - 1\nA9. Posterior uterine fundus - 2\nA10. Two leiomyomas - 2\nA11. Right parametrial tissues - 2\nA12. Left parametrial tissues - multiple\nA13. Right ovary - 1\nA14. Right ovary - 2\nA15. Right fallopian tube (proximal, mid and distal segments) - 3\nA16. Left ovary - 2\nA17. Left fallopian tube (proximal, mid and distal segments) - 3\nA18. Separate portion of tumor - multiple\nA19. Posterior lower uterine segment - 1\n\nADDIONAL REPRESENTATIVE SECTIONS (submitted or\nA20. Anterior uterine fundus adjacent to friable polypoid tumor - 2\nA21-23. Anterior uterine fundus - 2,1,1, respectively\n\nB. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 4.0 x 3.2 x 0.8 cm aggregate of yellow fatty tissue within which there are embedded two semisoft tan lymph nodes. The lymph nodes are about 0.5 and 1.2 cm in maximum dimension.\n\nThe lymph nodes are each entirely embedded along with some of the perinodal fat.\n\nSlide key:\nB1. Two bisected lymph nodes (one inked blue) - 4\n\nC. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.8 x 3.4 x 1.0 cm aggregate of multiple fragments of soft yellow fatty tissue, within which are embedded numerous semisoft tan lymph nodes. The lymph nodes range from about 0.1 to 1.5 cm in maximum dimension. The lymph nodes are each entirely embedded with some of the perinodal fat.\n\nSlide key:\nC1. Multiple lymph nodes, largest bisected and inked blue - 4\nC2. Four lymph nodes - 4\nC3. Multiple lymph nodes - 4\n\nGross dictated by\n\nOPERATIVE CALL\nOPERATIVE CONSULT (FROZEN):\n\nA. FS A1 (SECTION FROM TUMOR):\n- Endometrioid adenocarcinoma, FIGO grade 1\n- Possible superficial invasion, defer to permanent\n- No deep myometrial invasion seen\nFS A2 (OVARY - LEFT):\n\nSURGICAL PATHOLOGY REPORT Page 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9898373539913885,
+            "mean_log_probability": -0.014822117021276593,
+            "perplexity": 1.0149325093393753,
+            "min_probability": 0.0762191145982888
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 565,
+            "total_tokens": 3037
+          },
+          "composite_score": 0.9312997207025455
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 4.558529853820801,
+        "chars": 1500,
+        "words": 110,
+        "text": "TH #: ██████████\n\nIf this report includes immunohistochemical test results, please note the following:\nNumerous immunohistochemical tests were developed and their performance characteristics determined by\n                                                Those immunohistochemical tests have not been cleared or approved by the\nU.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n          i.D. Electronically signed\n\n\n                                                                                  riteria                      Y.s No /\n                                                                                  iagnosis Discrepancy          ✓ ✓\n                                                                                  imary Tumor Site Discrepancy  ✓ ✓\n                                                                                  iP.A. Discrepancy             ✓ ✓\n                                                                                  rina Malignancy History       ✓ ✓\n                                                                                  ual/Synch...nus P...y Noted)  ✓ ✓\n                                                                                  ase h (circle): \\A QUALIFIED / \\HQUA\\TD \\\n\nSURGICAL PATHOLOGY REPORT                                                                                  Page 4 of 4",
+        "confidence": {
+          "mean_probability": 0.8258924699075924,
+          "mean_log_probability": -0.331085912037037,
+          "perplexity": 1.392479417912806,
+          "min_probability": 0.03966627295865633
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 217,
+          "total_tokens": 2689
+        },
+        "composite_score": 0.525709132998786,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0397 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0397 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 4.558529853820801,
+          "chars": 1500,
+          "words": 110,
+          "text": "TH #: ██████████\n\nIf this report includes immunohistochemical test results, please note the following:\nNumerous immunohistochemical tests were developed and their performance characteristics determined by\n                                                Those immunohistochemical tests have not been cleared or approved by the\nU.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n          i.D. Electronically signed\n\n\n                                                                                  riteria                      Y.s No /\n                                                                                  iagnosis Discrepancy          ✓ ✓\n                                                                                  imary Tumor Site Discrepancy  ✓ ✓\n                                                                                  iP.A. Discrepancy             ✓ ✓\n                                                                                  rina Malignancy History       ✓ ✓\n                                                                                  ual/Synch...nus P...y Noted)  ✓ ✓\n                                                                                  ase h (circle): \\A QUALIFIED / \\HQUA\\TD \\\n\nSURGICAL PATHOLOGY REPORT                                                                                  Page 4 of 4",
+          "confidence": {
+            "mean_probability": 0.8258924699075924,
+            "mean_log_probability": -0.331085912037037,
+            "perplexity": 1.392479417912806,
+            "min_probability": 0.03966627295865633
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 217,
+            "total_tokens": 2689
+          },
+          "composite_score": 0.525709132998786,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0397 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0397 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 4.197965383529663,
+          "chars": 1755,
+          "words": 115,
+          "text": "TH #: ███████████\n\nIf this report includes immunohistochemical test results, please note the following:\nNumerous immunohistochemical tests were developed and their performance characteristics determined by\n                                                                                         Those immunohistochemical tests have not been cleared or approved by the\nU.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n         i.D. Electronically signed\n\n\n                                                                                                  riteria                      Y.s      No  /\n                                                                                                  iagnosis Discrepancy         ✓✓\n                                                                                                  imary Tumor Site Discrepancy  ✓✓\n                                                                                                  iP.A. Discrepancy            ✓✓\n                                                                                                  rior Malignancy History      ✓✓\n                                                                                                  ual/Synch. tumors P    y Not  ✓✓\n                                                                                                  ase h (circle):  QALIFIED 2  1  1\n                                                                                                  -t-ienser l-ithic  \\tate Reviewed-\\  \\  \\  \\  \\  \\\n\nSURGICAL PATHOLOGY REPORT                                             Page 4 of 4",
+          "confidence": {
+            "mean_probability": 0.7708484320917027,
+            "mean_log_probability": -0.434787237704918,
+            "perplexity": 1.544634384031154,
+            "min_probability": 0.030825993503655738
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 245,
+            "total_tokens": 2717
+          },
+          "composite_score": 0.48749418252652266
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.427154541015625,
+          "chars": 1675,
+          "words": 108,
+          "text": "TH #: ███████████\n\nIf this report includes immunohistochemical test results, please note the following:\nNumerous immunohistochemical tests were developed and their performance characteristics determined by\n                                                 Those immunohistochemical tests have not been cleared or approved by the\nU.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n        i.D. Electronically signed\n\n                                                                                      Criteria                         Y. S No / \n                                                                                      Diagnosis Discrepancy                ✓\n                                                                                      Primary Tumor Site Discrepancy       ✓\n                                                                                      I.P.A. Discrepancy                   ✓\n                                                                                      Prior Malignancy History             ✓\n                                                                                      Dual/Synch. tumors Pathology Notes   ✓\n                                                                                      Case Is (circle): QUALIFIED (2)  ████\n                                                                                      Pathologist Initials: ████\nSURGICAL PATHOLOGY REPORT                                                                                           Page 4 of 4",
+          "confidence": {
+            "mean_probability": 0.826377325310372,
+            "mean_log_probability": -0.3390300660377359,
+            "perplexity": 1.4035855448342918,
+            "min_probability": 0.028960541889085187
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 213,
+            "total_tokens": 2685
+          },
+          "composite_score": 0.5086900053680963
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
