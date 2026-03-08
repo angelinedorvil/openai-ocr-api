@@ -1,0 +1,102 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A0LJ\TCGA-AP-A0LJ.pdf
+Processing Date: 2026-03-08 06:58:30
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TSS Name/#:
+
+Specimens Submitted:
+1: SP: Uterus, cervix, bilateral fallopian tubes and ovaries
+2: SP: Right distal IP ligament
+3: SP: Left external iliac lymph nodes
+4: SP: Left internal iliac lymph nodes
+5: SP: Left obturator lymph nodes
+6: SP: Right external iliac lymph nodes
+7: SP: Right obturator lymph nodes
+8: SP: Right internal iliac lymph nodes
+9: SP: Right para-aortic lymph nodes
+10: SP: Right common iliac lymph nodes
+11: SP: Left common iliac lymph nodes
+12: SP: Left para-aortic lymph nodes
+
+DIAGNOSIS:
+
+1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY AND BILATERAL SALPINGO-
+OOPHORECTOMY:
+- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 1;
+(<- 6% SOLID GROWTH), NUCLEAR GRADE 2.
+- NO DEFINITIVE MYOMETRIAL INVASION IDENTIFIED.
+- NO ENDOCERVICAL INVASION IS IDENTIFIED.
+- NO VASCULAR INVASION IS IDENTIFIED.
+- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.
+- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITIES: ADENOMYOSIS AND ADENOMYOMATOUS POLYP.
+- ALL ADNEXAE ARE UNREMARKABLE.
+- BENIGN PARATUBAL CYSTS AT RIGHT SIDE.
+
+2) IP LIGAMENT, RIGHT DISTAL; BIOPSY:
+- BENIGN FIBROVASCULAR AND ADIPOSE TISSUE.
+
+3) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:
+- THREE BENIGN LYMPH NODES (0/3).
+
+** Continued on next page **
+
+1ED-0-3
+
+adnocarcinoma endometrioid, Nos 8380/3
+Site: endometrium C54.1  5/1/11
+
+UUID:859CBF70-D72E-4843-83AA-6226B707AA28
+TCGA-AP-A0L1-01A-PR Redacted
+
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials
+Date Reviewed: 5/4/11
+
+================================================================================
+PAGE 2
+================================================================================
+4)      LYMPH NODE, LEFT INTERNAL ILIAC; BIOPSY:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+5)      LYMPH NODE, LEFT OBTURATOR; BIOPSY:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:
+        - SEVEN BENIGN LYMPH NODES (0/7).
+
+7)      LYMPH NODES, RIGHT OBTURATOR; BIOPSY:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+8)      LYMPH NODES, RIGHT INTERNAL ILIAC; BIOPSY:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+9)      LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:
+        - FOUR BENIGN LYMPH NODES (0/4).
+
+10)     LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:
+        - BENIGN FIBROADIPOSE TISSUE.
+        - NO LYMPH NODE IDENTIFIED.
+
+11)     LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:
+        - BENIGN FIBROADIPOSE TISSUE.
+        - NO LYMPH NODE IDENTIFIED.
+
+12)     LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:
+        - TWO BENIGN LYMPH NODES (0/2).
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.

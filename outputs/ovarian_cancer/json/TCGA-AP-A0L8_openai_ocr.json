@@ -1,0 +1,191 @@
+{
+  "pdf": "reports\\TCGA-AP-A0L8\\TCGA-AP-A0L8.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 152.6340844631195,
+        "chars": 7397,
+        "words": 246,
+        "text": "TSS Name/#: \n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Left external iliac node\n3: SP: Left obturator nodes\n4: SP: Right external iliac nodes\n5: SP: Sigmoid epi-ploica\n6: SP: Right common iliac nodes\n7: SP: Left common iliac nodes\n8: SP: Left para-aortic lymph nodes\n9: SP: Right para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, BILATERAL TUBES AND OVARIES; TOTAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE.\nTHE TUMOR INVADES TO ½ HALF OF MYOMETRIUM. THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 20 MM. THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 23 MM. VASCULAR INVASION IS PRESENT. THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ENDOMETRIAL POLYP INVOLVED BY CARCINOMA. THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): LEIOMYOMA (1 CM), LEIOMYOMA (7 CM) INVOLVED BY ENDOMETRIAL CARCINOMA. ALL ADNEXAE ARE UNREMARKABLE.\n\nNOTE: THE ORIGINAL BIOPSY IS REVIEWED. THE CARCINOMA PRESENT IN IS SIMILAR TO THAT SEEN IN THE HYSTERECTOMY SPECIMEN. MARKED CRUSH ARTIFACT PRESENT IN THE ORIGINAL BIOPSY IMPAIRS ADEQUATE EVALUATION OF TUMOR TYPE.\n\n2) LYMPH NODE, LEFT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODES (0/2). NO TUMOR SEEN.\n\n3) LYMPH NODE, LEFT OBTURATOR; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n4) LYMPH NODE, RIGHT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n5) FIBROADIPOSE TISSUE, SIGMOID EPIPLOICA; EXCISION:\n\n** Continued on next page **\n\n\nICD-0-3\nadenocarcinoma, serous, NOS 8441/3\nSite: Endometrium CS4.1\n5/1/11\n\nUUID:A708C154-A635-4423-A1A0-BB1FC23D3613\nTCGA-AP-A0L8-01A-PR Redacted\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "confidence": {
+          "mean_probability": 0.9873222295586424,
+          "mean_log_probability": -0.015127224609375,
+          "perplexity": 1.015242220194546,
+          "min_probability": 0.2575266677919936
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9880785586337153,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 46.2% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 46.2% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 152.6340844631195,
+          "chars": 7397,
+          "words": 246,
+          "text": "TSS Name/#: \n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Left external iliac node\n3: SP: Left obturator nodes\n4: SP: Right external iliac nodes\n5: SP: Sigmoid epi-ploica\n6: SP: Right common iliac nodes\n7: SP: Left common iliac nodes\n8: SP: Left para-aortic lymph nodes\n9: SP: Right para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, BILATERAL TUBES AND OVARIES; TOTAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE.\nTHE TUMOR INVADES TO ½ HALF OF MYOMETRIUM. THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 20 MM. THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 23 MM. VASCULAR INVASION IS PRESENT. THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ENDOMETRIAL POLYP INVOLVED BY CARCINOMA. THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): LEIOMYOMA (1 CM), LEIOMYOMA (7 CM) INVOLVED BY ENDOMETRIAL CARCINOMA. ALL ADNEXAE ARE UNREMARKABLE.\n\nNOTE: THE ORIGINAL BIOPSY IS REVIEWED. THE CARCINOMA PRESENT IN IS SIMILAR TO THAT SEEN IN THE HYSTERECTOMY SPECIMEN. MARKED CRUSH ARTIFACT PRESENT IN THE ORIGINAL BIOPSY IMPAIRS ADEQUATE EVALUATION OF TUMOR TYPE.\n\n2) LYMPH NODE, LEFT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODES (0/2). NO TUMOR SEEN.\n\n3) LYMPH NODE, LEFT OBTURATOR; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n4) LYMPH NODE, RIGHT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n5) FIBROADIPOSE TISSUE, SIGMOID EPIPLOICA; EXCISION:\n\n** Continued on next page **\n\n\nICD-0-3\nadenocarcinoma, serous, NOS 8441/3\nSite: Endometrium CS4.1\n5/1/11\n\nUUID:A708C154-A635-4423-A1A0-BB1FC23D3613\nTCGA-AP-A0L8-01A-PR Redacted\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9873222295586424,
+            "mean_log_probability": -0.015127224609375,
+            "perplexity": 1.015242220194546,
+            "min_probability": 0.2575266677919936
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9880785586337153,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 46.2% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 46.2% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 197.74028706550598,
+          "chars": 7398,
+          "words": 247,
+          "text": "TSS Name/#:\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Left external iliac node\n3: SP: Left obturator nodes\n4: SP: Right external iliac nodes\n5: SP: Sigmoid epi-ploica\n6: SP: Right common iliac nodes\n7: SP: Left common iliac nodes\n8: SP: Left para-aortic lymph nodes\n9: SP: Right para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, BILATERAL TUBES AND OVARIES; TOTAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE.\nTHE TUMOR INVADES TO ½ HALF OF MYOMETRIUM. THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 20 MM. THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 23 MM. VASCULAR INVASION IS PRESENT. THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ENDOMETRIAL POLYP INVOLVED BY CARCINOMA. THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): LEIOMYOMA (1 CM), LEIOMYOMA (7 CM) INVOLVED BY ENDOMETRIAL CARCINOMA. ALL ADNEXAE ARE UNREMARKABLE.\n\nNOTE: THE ORIGINAL BIOPSY IS REVIEWED. THE CARCINOMA PRESENT IN IS SIMILAR TO THAT SEEN IN THE HYSTERECTOMY SPECIMEN. MARKED CRUSH ARTIFACT PRESENT IN THE ORIGINAL BIOPSY IMPAIRS ADEQUATE EVALUATION OF TUMOR TYPE.\n\n2) LYMPH NODE, LEFT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODES (0/2). NO TUMOR SEEN.\n\n3) LYMPH NODE, LEFT OBTURATOR; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n4) LYMPH NODE, RIGHT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n5) FIBROADIPOSE TISSUE, SIGMOID EPIPLOICA; EXCISION:\n\n** Continued on next page **\n\n\nICD-0-3\nadenocarcinoma, serous, NOS 8441/3\nSite: Endometrium - CS4.1\n5/1/11\n\nUUID:A708C154-A635-4423-A1A0-BB1FC23D3613\nTCGA-AP-A0L8-01A-PR Redacted\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9881690758700497,
+            "mean_log_probability": -0.01439889892578125,
+            "perplexity": 1.0145030624169808,
+            "min_probability": 0.18039976031235117
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9392121696946021
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.191742658615112,
+          "chars": 1932,
+          "words": 279,
+          "text": "TSS Name/#: \n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Left external iliac node\n3: SP: Left obturator nodes\n4: SP: Right external iliac nodes\n5: SP: Sigmoid epi-ploica\n6: SP: Right common iliac nodes\n7: SP: Left common iliac nodes\n8: SP: Left para-aortic lymph nodes\n9: SP: Right para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, BILATERAL TUBES AND OVARIES; TOTAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE. THE TUMOR INVADES TO ½ HALF OF MYOMETRIUM. THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 20 MM. THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 23 MM. VASCULAR INVASION IS PRESENT. THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ENDOMETRIAL POLYP INVOLVED BY CARCINOMA. THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): LEIOMYOMA (1 CM), LEIOMYOMA (7 CM) INVOLVED BY ENDOMETRIAL CARCINOMA. ALL ADNEXAE ARE UNREMARKABLE.\n\nNOTE: THE ORIGINAL BIOPSY IS REVIEWED. THE CARCINOMA PRESENT IN IS SIMILAR TO THAT SEEN IN THE HYSTERECTOMY SPECIMEN. MARKED CRUSH ARTIFACT PRESENT IN THE ORIGINAL BIOPSY IMPAIRS ADEQUATE EVALUATION OF TUMOR TYPE.\n\n2) LYMPH NODE, LEFT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODES (0/2). NO TUMOR SEEN.\n\n3) LYMPH NODE, LEFT OBTURATOR; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n4) LYMPH NODE, RIGHT EXTERNAL ILIAC; DISSECTION:\n- BENIGN LYMPH NODE (0/1). NO TUMOR SEEN.\n\n5) FIBROADIPOSE TISSUE, SIGMOID EPIPLOICA; EXCISION:\n\n** Continued on next page **\n\n\nICD-0-3\nadenocarcinoma, serous, NOS 8441/3\nSite: Endometrium CS4.1\n5/1/11\n\nUUID: A708C154-A635-4423-A1A0-BB1FC23D3613\nTCGA-AP-A0L8-01A-PR Redacted\n\n\nCriteria  Yes  No\nDiagnosis Discrepancy  X\nPrimary Tumor Site Discrepancy  X\nHPAA Discrepancy  X\nPrior Malignancy History  X\nDual/Synchronous Primary Noted\nCase is (circle): DUAL(S) CQUAULT\nReviewer Initials  D.T.  Date Reviewed:  1/7/11\nS/H",
+          "confidence": {
+            "mean_probability": 0.9547636450005801,
+            "mean_log_probability": -0.06957465580736545,
+            "perplexity": 1.0720520931318602,
+            "min_probability": 0.06703315039101194
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 707,
+            "total_tokens": 3179
+          },
+          "composite_score": 0.8941028353042043
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.40036153793335,
+        "chars": 1059,
+        "words": 153,
+        "text": "- BENIGN.  NO TUMOR SEEN.\n\n6)  LYMPH NODES, RIGHT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n7)  LYMPH NODES, LEFT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n8)  LYMPH NODES, LEFT PARA-AORTIC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n9)  LYMPH NODES, RIGHT PARA-AORTIC; DISSECTION:\n    - METASTATIC CARCINOMA IN THE FORM OF RARE SUBCAPSULAR\n      CLUSTERS OF TUMOR CELLS EVIDENT ON HE SECTIONS IS\n      IDENTIFIED IN ONE OF FIVE LYMPH NODES (1/5).\n      IMMUNOPEROXIDASE STAINS SHOW THAT TUMOR CELLS ARE POSITIVE\n      FOR KERATIN (CAM5.2) AND NEGATIVE FOR LCA (CD45).  STAINS FOR\n      KERATIN AE1:AE3 ARE NOT CONTRIBUTORY.  THESE FINDINGS AND THE\n      MORPHOLOGIC FEATURES OF THE EPITHELIAL CLUSTERS SUPPORT THE\n      DIAGNOSIS OF METASTATIC CARCINOMA.\n\n                  **  Report Electronically Signed Out  **\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION\nOF THE SLIDES (AND/OR OTHER\nMATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+        "confidence": {
+          "mean_probability": 0.9844206199752568,
+          "mean_log_probability": -0.022337388429752063,
+          "perplexity": 1.0225887358837402,
+          "min_probability": 0.10798002744765524
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 364,
+          "total_tokens": 2836
+        },
+        "composite_score": 0.888420534858606,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.40036153793335,
+          "chars": 1059,
+          "words": 153,
+          "text": "- BENIGN.  NO TUMOR SEEN.\n\n6)  LYMPH NODES, RIGHT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n7)  LYMPH NODES, LEFT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n8)  LYMPH NODES, LEFT PARA-AORTIC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n9)  LYMPH NODES, RIGHT PARA-AORTIC; DISSECTION:\n    - METASTATIC CARCINOMA IN THE FORM OF RARE SUBCAPSULAR\n      CLUSTERS OF TUMOR CELLS EVIDENT ON HE SECTIONS IS\n      IDENTIFIED IN ONE OF FIVE LYMPH NODES (1/5).\n      IMMUNOPEROXIDASE STAINS SHOW THAT TUMOR CELLS ARE POSITIVE\n      FOR KERATIN (CAM5.2) AND NEGATIVE FOR LCA (CD45).  STAINS FOR\n      KERATIN AE1:AE3 ARE NOT CONTRIBUTORY.  THESE FINDINGS AND THE\n      MORPHOLOGIC FEATURES OF THE EPITHELIAL CLUSTERS SUPPORT THE\n      DIAGNOSIS OF METASTATIC CARCINOMA.\n\n                  **  Report Electronically Signed Out  **\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION\nOF THE SLIDES (AND/OR OTHER\nMATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9844206199752568,
+            "mean_log_probability": -0.022337388429752063,
+            "perplexity": 1.0225887358837402,
+            "min_probability": 0.10798002744765524
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 364,
+            "total_tokens": 2836
+          },
+          "composite_score": 0.888420534858606,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.615863561630249,
+          "chars": 1059,
+          "words": 153,
+          "text": "- BENIGN.  NO TUMOR SEEN.\n\n6)  LYMPH NODES, RIGHT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n7)  LYMPH NODES, LEFT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n8)  LYMPH NODES, LEFT PARA-AORTIC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n9)  LYMPH NODES, RIGHT PARA-AORTIC; DISSECTION:\n    - METASTATIC CARCINOMA IN THE FORM OF RARE SUBCAPSULAR\n      CLUSTERS OF TUMOR CELLS EVIDENT ON HE SECTIONS IS\n      IDENTIFIED IN ONE OF FIVE LYMPH NODES (1/5).\n      IMMUNOPEROXIDASE STAINS SHOW THAT TUMOR CELLS ARE POSITIVE\n      FOR KERATIN (CAM5.2) AND NEGATIVE FOR LCA (CD45).  STAINS FOR\n      KERATIN AE1:AE3 ARE NOT CONTRIBUTORY.  THESE FINDINGS AND THE\n      MORPHOLOGIC FEATURES OF THE EPITHELIAL CLUSTERS SUPPORT THE\n      DIAGNOSIS OF METASTATIC CARCINOMA.\n\n                  **  Report Electronically Signed Out  **\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION\nOF THE SLIDES (AND/OR OTHER\nMATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9835305017449584,
+            "mean_log_probability": -0.023845129476584022,
+            "perplexity": 1.0241316977960655,
+            "min_probability": 0.11078809015745775
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 364,
+            "total_tokens": 2836
+          },
+          "composite_score": 0.8429047659700072
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.118366003036499,
+          "chars": 1059,
+          "words": 153,
+          "text": "- BENIGN.  NO TUMOR SEEN.\n\n6)  LYMPH NODES, RIGHT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n7)  LYMPH NODES, LEFT COMMON ILIAC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n8)  LYMPH NODES, LEFT PARA-AORTIC; DISSECTION:\n    - BENIGN LYMPH NODE (0/1).  NO TUMOR SEEN.\n\n9)  LYMPH NODES, RIGHT PARA-AORTIC; DISSECTION:\n    - METASTATIC CARCINOMA IN THE FORM OF RARE SUBCAPSULAR\n      CLUSTERS OF TUMOR CELLS EVIDENT ON HE SECTIONS IS\n      IDENTIFIED IN ONE OF FIVE LYMPH NODES (1/5).\n      IMMUNOPEROXIDASE STAINS SHOW THAT TUMOR CELLS ARE POSITIVE\n      FOR KERATIN (CAM5.2) AND NEGATIVE FOR LCA (CD45).  STAINS FOR\n      KERATIN AE1:AE3 ARE NOT CONTRIBUTORY.  THESE FINDINGS AND THE\n      MORPHOLOGIC FEATURES OF THE EPITHELIAL CLUSTERS SUPPORT THE\n      DIAGNOSIS OF METASTATIC CARCINOMA.\n\n                  **  Report Electronically Signed Out  **\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION\nOF THE SLIDES (AND/OR OTHER\nMATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9838467501141513,
+            "mean_log_probability": -0.02319615426997245,
+            "perplexity": 1.0234672773354132,
+            "min_probability": 0.10354820768311486
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 364,
+            "total_tokens": 2836
+          },
+          "composite_score": 0.8433755790609063
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A0LS\TCGA-AP-A0LS.pdf
+Processing Date: 2026-03-08 07:49:32
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TSS Name/#: 
+
+ICD-0-3
+adenocarcinoma, endometrioid, Nos 8380/3
+Site: Endometrium C54.1  5/1/11
+
+Specimens Submitted:
+1: SP: Uterus, cervix, bilateral tubes and ovaries
+2: SP: Right para-aortic lymph nodes (
+3: SP: Left external iliac lymph nodes (
+4: SP: Left obturator lymph nodes (
+5: SP: Right external iliac lymph nodes (
+6: SP: Right obturator lymph nodes
+
+DIAGNOSIS:
+
+1) UTERUS, CERVIX, FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY
+AND BILATERAL SALPINGO-OOPHORECTOMY:
+- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, FIGO GRADE 2.
+- THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.
+- THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS APPROXIMATELY 6 MM.
+- THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION
+IS 28 MM.
+- NO ENDOCERVICAL INVASION IS IDENTIFIED.
+- VASCULAR INVASION IS PRESENT.
+- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ADENOMYOSIS AND
+LEIOMYOMA(S).
+- THERE IS A RIGHT PERITUBAL CELLULAR FIBROMA.
+- ALL OTHER ADNEXAL STRUCTURES ARE UNREMARKABLE.
+
+2) LYMPH NODE, RIGHT PARA-AORTIC; BIOPSY:
+- FIBROADIPOSE TISSUE WITH A MINUTE, BENIGN LYMPHOID AGGREGATE.
+
+3) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+
+4) LYMPH NODES, LEFT OBTURATOR; BIOPSY:
+- SIX BENIGN LYMPH NODES (0/6).
+
+5) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+** Continued on next page **
+
+
+UUID:E892CEF6-BC3F-4C35-85E8-2B37531571CD
+TCGA-AP-A0LS-01A-PR Redacted
+
+Criteria
+Diagnostic Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous or Primary N
+Case is Eligible: 
+Reviewer Initials: 
+Date Reviewed: 5/1/11
+
+================================================================================
+PAGE 2
+================================================================================
+- HISTIOCYTOSIS
+
+6) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:
+- FIVE BENIGN LYMPH NODES (0/5).
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.

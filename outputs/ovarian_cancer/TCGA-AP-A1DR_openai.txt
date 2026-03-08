@@ -1,0 +1,143 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A1DR\TCGA-AP-A1DR.pdf
+Processing Date: 2026-03-08 08:59:23
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Site Code: Endometrium C541
+
+TSS Name/#: 
+
+Specimens Submitted:
+1: SP: Sentinel right internal iliac lymph node
+2: SP: Sentinel left internal iliac lymph node
+3: SP: Uterus, cervix, bilateral tubes and ovar---
+4: SP: Right obturator lymph nodes
+5: SP: Sentinel right obturator lymph nodes
+6: SP: Right external iliac lymph nodes
+7: SP: Right common iliac lymph nodes
+8: SP: Sentinel right external iliac lymph nodes
+9: SP: Left obturator lymph nodes
+10: SP: Left external iliac lymph nodes
+11: SP: Left common iliac lymph nodes
+12: SP: Left uterine artery
+
+DIAGNOSIS:
+
+1. LYMPH NODE, SENTINEL RIGHT INTERNAL ILIAC; BIOPSY:
+- RARE, SCATTERED, IMMUNOHISTOCHEMICALLY DETECTED EPITHELIAL CELLS ARE IDENTIFIED IN ONE LYMPH NODE (SEE NOTE).
+
+NOTE: CYTOKERATIN IMMUNOSTAINS DEMONSTRATE THE CELLS DESCRIBED ABOVE, BUT THEY ARE NOT EVIDENT ON REVIEW OF STANDARD H&E STAINED SECTIONS. CYTOKERATIN-POSITIVE CELLS HAVE VOLUMINOUS, VACUOLATED CYTOPLASM THAT IS SIMILAR TO THAT OF THE LYMPHANGIOINVASIVE TUMOR CELLS IN THE UTERUS. THE SIGNIFICANCE OF THIS FINDING IS UNCERTAIN.
+
+2. LYMPH NODE, SENTINEL LEFT INTERNAL ILIAC, BIOPSY:
+- RARE, SCATTERED, IMMUNOHISTOCHEMICALLY DETECTED EPITHELIAL CELLS ARE IDENTIFIED IN ONE LYMPH NODE (SEE NOTE).
+
+NOTE: CYTOKERATIN IMMUNOSTAINS DEMONSTRATE THE CELLS DESCRIBED ABOVE, BUT THEY ARE NOT EVIDENT ON REVIEW OF STANDARD H&E STAINED SECTIONS. CYTOKERATIN-POSITIVE CELLS HAVE VOLUMINOUS, VACUOLATED CYTOPLASM THAT IS SIMILAR TO THAT OF THE LYMPHANGIOINVASIVE TUMOR CELLS IN THE UTERUS. THE SIGNIFICANCE OF THIS FINDING IS UNCERTAIN.
+
+3. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES;
+
+** Continued on next page **
+
+UUID: 75A10A08-04CB-49C2-8086-5F7B1D57524E
+TCGA-AP-A1DR-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+TSS Name/#: 
+
+----------------------------------------------------------------- Page 2 of 8
+HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:
+- ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM WITH EXTENSIVE
+SQUAMOUS DIFFERENTIATION; FIGO GRADE 2. 1
+- THE TUMOR IS CENTERED IN THE LOWER UTERINE SEGMENT.
+- THE TUMOR INVADES TO LESS THAN HALF OF THE MYOMETRIAL THICKNESS
+(DEPTH OF INVASION IS 3 MM IN AN AREA WHERE THE TOTAL MYOMETRIAL THICKNESS
+IS 11 MM).
+- LYMPHOVASCULAR INVASION IS PRESENT.
+- DEFINITE ENDOCERVICAL INVOLVEMENT IS NOT IDENTIFIED; SEE NOTE
+- THE MYOMETRIUM SHOWS LEIOMYOMA(S).
+- THE UTERINE SEROSA SHOWS SEROSAL ADHESIONS.
+- THE LEFT AND RIGHT OVARIES AND FALLOPIAN TUBES ARE UNREMARKABLE.
+
+NOTE: ADDITIONAL SECTIONS FROM THE CERVIX WILL BE SUBMITTED AND
+EVALUATED TO ASSESS FOR ENDOCERVICAL INVOLVEMENT. THE RESULTS WILL BE
+REPORTED AS AN ADDENDUM.
+
+4. LYMPH NODES, RIGHT OBTURATOR, DISSECTION:
+- SIX BENIGN LYMPH NODES (0/6).
+
+5. LYMPH NODES, SENTINEL RIGHT OBTURATOR; BIOPSY:
+- THREE BENIGN LYMPH NODES (0/3).
+
+NOTE:
+LEVEL SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR AE1/AE3 SHOW NO
+EVIDENCE OF METASTATIC CARCINOMA.
+
+6. LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+7. LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:
+- BENIGN FIBROADIPOSE TISSUE; NO LYMPH NODE IDENTIFIED.
+- SPECIMEN SUBMITTED IN ITS ENTIRETY.
+
+8. LYMPH NODES, SENTINEL RIGHT EXTERNAL ILIAC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+NOTE:
+LEVEL SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR AE1/AE3 SHOW NO
+EVIDENCE OF METASTATIC CARCINOMA.
+
+9. LYMPH NODE, LEFT OBTURATOR; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+
+10. LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+11. LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:
+- BENIGN FIBROADIPOSE TISSUE; NO LYMPH NODE IDENTIFIED.
+- SPECIMEN SUBMITTED IN ITS ENTIRETY.
+
+12. SOFT TISSUE, LEFT UTERINE ARTERY; BIOPSY:
+- BENIGN FIBROVASCULAR TISSUE.
+
+
+** Continued on next page **
+
+================================================================================
+PAGE 3
+================================================================================
+```
+TSS Name/#: 
+
+------------------------------------------------ Page 3 of 8
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+```
+
+================================================================================
+PAGE 4
+================================================================================
+```
+                                                                                      TSS Name/#: 
+
+                                                                                      Page 7 of 8
+
+
+Procedures/Addenda:
+Addendum
+
+Addendum Diagnosis
+ADDITIONAL SECTIONS WERE SUBMITTED FROM THE CERVIX.  NO ENDOCERVICAL
+INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+```

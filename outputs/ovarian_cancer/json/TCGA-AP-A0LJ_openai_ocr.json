@@ -1,0 +1,191 @@
+{
+  "pdf": "reports\\TCGA-AP-A0LJ\\TCGA-AP-A0LJ.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.892123460769653,
+        "chars": 1665,
+        "words": 235,
+        "text": "TSS Name/#:\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral fallopian tubes and ovaries\n2: SP: Right distal IP ligament\n3: SP: Left external iliac lymph nodes\n4: SP: Left internal iliac lymph nodes\n5: SP: Left obturator lymph nodes\n6: SP: Right external iliac lymph nodes\n7: SP: Right obturator lymph nodes\n8: SP: Right internal iliac lymph nodes\n9: SP: Right para-aortic lymph nodes\n10: SP: Right common iliac lymph nodes\n11: SP: Left common iliac lymph nodes\n12: SP: Left para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY AND BILATERAL SALPINGO-\nOOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 1;\n(<- 6% SOLID GROWTH), NUCLEAR GRADE 2.\n- NO DEFINITIVE MYOMETRIAL INVASION IDENTIFIED.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- NO VASCULAR INVASION IS IDENTIFIED.\n- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITIES: ADENOMYOSIS AND ADENOMYOMATOUS POLYP.\n- ALL ADNEXAE ARE UNREMARKABLE.\n- BENIGN PARATUBAL CYSTS AT RIGHT SIDE.\n\n2) IP LIGAMENT, RIGHT DISTAL; BIOPSY:\n- BENIGN FIBROVASCULAR AND ADIPOSE TISSUE.\n\n3) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:\n- THREE BENIGN LYMPH NODES (0/3).\n\n** Continued on next page **\n\n1ED-0-3\n\nadnocarcinoma endometrioid, Nos 8380/3\nSite: endometrium C54.1  5/1/11\n\nUUID:859CBF70-D72E-4843-83AA-6226B707AA28\nTCGA-AP-A0L1-01A-PR Redacted\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed: 5/4/11",
+        "confidence": {
+          "mean_probability": 0.9656073076174733,
+          "mean_log_probability": -0.04971977068965517,
+          "perplexity": 1.0509765406751992,
+          "min_probability": 0.10976341523603299
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 581,
+          "total_tokens": 3053
+        },
+        "composite_score": 0.9286081571840913,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 76.5% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 76.5% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.892123460769653,
+          "chars": 1665,
+          "words": 235,
+          "text": "TSS Name/#:\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral fallopian tubes and ovaries\n2: SP: Right distal IP ligament\n3: SP: Left external iliac lymph nodes\n4: SP: Left internal iliac lymph nodes\n5: SP: Left obturator lymph nodes\n6: SP: Right external iliac lymph nodes\n7: SP: Right obturator lymph nodes\n8: SP: Right internal iliac lymph nodes\n9: SP: Right para-aortic lymph nodes\n10: SP: Right common iliac lymph nodes\n11: SP: Left common iliac lymph nodes\n12: SP: Left para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY AND BILATERAL SALPINGO-\nOOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 1;\n(<- 6% SOLID GROWTH), NUCLEAR GRADE 2.\n- NO DEFINITIVE MYOMETRIAL INVASION IDENTIFIED.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- NO VASCULAR INVASION IS IDENTIFIED.\n- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITIES: ADENOMYOSIS AND ADENOMYOMATOUS POLYP.\n- ALL ADNEXAE ARE UNREMARKABLE.\n- BENIGN PARATUBAL CYSTS AT RIGHT SIDE.\n\n2) IP LIGAMENT, RIGHT DISTAL; BIOPSY:\n- BENIGN FIBROVASCULAR AND ADIPOSE TISSUE.\n\n3) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:\n- THREE BENIGN LYMPH NODES (0/3).\n\n** Continued on next page **\n\n1ED-0-3\n\nadnocarcinoma endometrioid, Nos 8380/3\nSite: endometrium C54.1  5/1/11\n\nUUID:859CBF70-D72E-4843-83AA-6226B707AA28\nTCGA-AP-A0L1-01A-PR Redacted\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed: 5/4/11",
+          "confidence": {
+            "mean_probability": 0.9656073076174733,
+            "mean_log_probability": -0.04971977068965517,
+            "perplexity": 1.0509765406751992,
+            "min_probability": 0.10976341523603299
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 581,
+            "total_tokens": 3053
+          },
+          "composite_score": 0.9286081571840913,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 76.5% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 76.5% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 169.10204648971558,
+          "chars": 7565,
+          "words": 213,
+          "text": "TSS Name/#:  \n\nSpecimens Submitted:  \n1: SP: Uterus, cervix, bilateral fallopian tubes and ovaries  \n2: SP: Right distal IP ligament  \n3: SP: Left external iliac lymph nodes  \n4: SP: Left internal iliac lymph nodes  \n5: SP: Left obturator lymph nodes .  \n6: SP: Right external iliac lymph nodes  \n7: SP: Right obturator lymph nodes  \n8: SP: Right internal iliac lymph nodes  \n9: SP: Right para-aortic lymph nodes  \n10: SP: Right common iliac lymph nodes  \n11: SP: Left common iliac lymph nodes  \n12: SP: Left para-aortic lymph nodes  \n\nDIAGNOSIS:  \n\n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY AND BILATERAL SALPINGO-  \nOOPHORECTOMY:  \n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 1;  \n(<- 6% SOLID GROWTH), NUCLEAR GRADE 2.  \n- NO DEFINITIVE MYOMETRIAL INVASION IDENTIFIED.  \n- NO ENDOCERVICAL INVASION IS IDENTIFIED.  \n- NO VASCULAR INVASION IS IDENTIFIED.  \n- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.  \n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITIES: ADENOMYOSIS AND ADENOMYOMATOUS POLYP.  \n- ALL ADNEXAE ARE UNREMARKABLE.  \n- BENIGN PARATUBAL CYSTS AT RIGHT SIDE.  \n\n2) IP LIGAMENT, RIGHT DISTAL; BIOPSY:  \n- BENIGN FIBROVASCULAR AND ADIPOSE TISSUE.  \n\n3) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:  \n- THREE BENIGN LYMPH NODES (0/3).  \n\n** Continued on next page **  \n\n1ED-0-3  \nadenocarcinoma endometrioid, Nos 8380/3  \nSite: endometrium C54.1 W  \n5/1/11  \n\nUUID:859CBF70-D72E-4843-83AA-6226B707AA28  \nTCGA-AP-A0L1-01A-PR Redacted  \n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9879301365935692,
+            "mean_log_probability": -0.014484049316406249,
+            "perplexity": 1.0145894514270126,
+            "min_probability": 0.21985940612187793
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.5634895708880472
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.694467782974243,
+          "chars": 1670,
+          "words": 237,
+          "text": "TSS Name/#: \n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral fallopian tubes and ovaries\n2: SP: Right distal IP ligament\n3: SP: Left external iliac lymph nodes\n4: SP: Left internal iliac lymph nodes\n5: SP: Left obturator lymph nodes .\n6: SP: Right external iliac lymph nodes\n7: SP: Right obturator lymph nodes\n8: SP: Right internal iliac lymph nodes\n9: SP: Right para-aortic lymph nodes\n10: SP: Right common iliac lymph nodes\n11: SP: Left common iliac lymph nodes\n12: SP: Left para-aortic lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY AND BILATERAL SALPINGO-\nOOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 1;\n(<- 6% SOLID GROWTH), NUCLEAR GRADE 2.\n- NO DEFINITIVE MYOMETRIAL INVASION IDENTIFIED.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- NO VASCULAR INVASION IS IDENTIFIED.\n- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITIES: ADENOMYOSIS AND ADENOMYOMATOUS POLYP.\n- ALL ADNEXAE ARE UNREMARKABLE.\n- BENIGN PARATUBAL CYSTS AT RIGHT SIDE.\n\n2) IP LIGAMENT, RIGHT DISTAL; BIOPSY:\n- BENIGN FIBROVASCULAR AND ADIPOSE TISSUE.\n\n3) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:\n- THREE BENIGN LYMPH NODES (0/3).\n\n** Continued on next page **\n\n1ED-0-3\n\nAdnocarcinoma Endometrioid, Nos 8380/3\nSite: Endometrium C54.1  5/1/11\n\nUUID:859CBF70-D72E-4843-83AA-6226B707AA28\nTCGA-AP-A0LJ-01A-PR Redacted\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle): QUALIFIED / DISQUALIFIED\nReviewer Initials\nDate Reviewed: 5/4/11",
+          "confidence": {
+            "mean_probability": 0.9608797877836144,
+            "mean_log_probability": -0.05673171821305843,
+            "perplexity": 1.0583718304179623,
+            "min_probability": 0.12264920379283677
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 583,
+            "total_tokens": 3055
+          },
+          "composite_score": 0.8778486261992456
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.243157625198364,
+        "chars": 1028,
+        "words": 146,
+        "text": "4)      LYMPH NODE, LEFT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n5)      LYMPH NODE, LEFT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:\n        - SEVEN BENIGN LYMPH NODES (0/7).\n\n7)      LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n8)      LYMPH NODES, RIGHT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n9)      LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:\n        - FOUR BENIGN LYMPH NODES (0/4).\n\n10)     LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n11)     LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n12)     LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:\n        - TWO BENIGN LYMPH NODES (0/2).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+        "confidence": {
+          "mean_probability": 0.9913811023421684,
+          "mean_log_probability": -0.012505005540166205,
+          "perplexity": 1.0125835200554303,
+          "min_probability": 0.2400913027162858
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 362,
+          "total_tokens": 2834
+        },
+        "composite_score": 0.8929195506418304,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.243157625198364,
+          "chars": 1028,
+          "words": 146,
+          "text": "4)      LYMPH NODE, LEFT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n5)      LYMPH NODE, LEFT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:\n        - SEVEN BENIGN LYMPH NODES (0/7).\n\n7)      LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n8)      LYMPH NODES, RIGHT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n9)      LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:\n        - FOUR BENIGN LYMPH NODES (0/4).\n\n10)     LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n11)     LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n12)     LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:\n        - TWO BENIGN LYMPH NODES (0/2).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9913811023421684,
+            "mean_log_probability": -0.012505005540166205,
+            "perplexity": 1.0125835200554303,
+            "min_probability": 0.2400913027162858
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 362,
+            "total_tokens": 2834
+          },
+          "composite_score": 0.8929195506418304,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.057243824005127,
+          "chars": 1049,
+          "words": 152,
+          "text": "```\nPage 2 of 6\n\n4)      LYMPH NODE, LEFT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n5)      LYMPH NODE, LEFT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:\n        - SEVEN BENIGN LYMPH NODES (0/7).\n\n7)      LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n8)      LYMPH NODES, RIGHT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n9)      LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:\n        - FOUR BENIGN LYMPH NODES (0/4).\n\n10)     LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n11)     LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n12)     LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:\n        - TWO BENIGN LYMPH NODES (0/2).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.\n```",
+          "confidence": {
+            "mean_probability": 0.990784548502252,
+            "mean_log_probability": -0.01661243396226415,
+            "perplexity": 1.016751187724392,
+            "min_probability": 0.04924600654659295
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 372,
+            "total_tokens": 2844
+          },
+          "composite_score": 0.5930651036055854
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.247838497161865,
+          "chars": 1096,
+          "words": 153,
+          "text": "```\n---------------------------------------------- Page 2 of 6\n\n4)      LYMPH NODE, LEFT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n5)      LYMPH NODE, LEFT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:\n        - SEVEN BENIGN LYMPH NODES (0/7).\n\n7)      LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n8)      LYMPH NODES, RIGHT INTERNAL ILIAC; BIOPSY:\n        - ONE BENIGN LYMPH NODE (0/1).\n\n9)      LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:\n        - FOUR BENIGN LYMPH NODES (0/4).\n\n10)     LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n11)     LYMPH NODE, LEFT COMMON ILIAC; BIOPSY:\n        - BENIGN FIBROADIPOSE TISSUE.\n        - NO LYMPH NODE IDENTIFIED.\n\n12)     LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:\n        - TWO BENIGN LYMPH NODES (0/2).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.\n```",
+          "confidence": {
+            "mean_probability": 0.9877571039069721,
+            "mean_log_probability": -0.01971155495978552,
+            "perplexity": 1.0199071104467765,
+            "min_probability": 0.13777780501910264
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 374,
+            "total_tokens": 2846
+          },
+          "composite_score": 0.84942880453735
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

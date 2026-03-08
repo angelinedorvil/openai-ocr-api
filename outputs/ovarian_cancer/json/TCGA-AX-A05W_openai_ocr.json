@@ -1,0 +1,377 @@
+{
+  "pdf": "reports\\TCGA-AX-A05W\\TCGA-AX-A05W.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 23.246312141418457,
+        "chars": 2050,
+        "words": 265,
+        "text": "rimary tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is clinica\nReviewer Initials\nDate Reviewed\nQUALIFIED\nDISQUALIFIED\nRE\n10/28/11\n10/30/11\n\nUUID:4C96E679-D109-4C4C-899F-F73D4DD73840\nTCGA-AX-A05V-01A-PR\nRedacted\n\nPatient Name:\nDOB:\nMRN:\nPAN:\nAccession:\n\nSurgical Pathology Report\nFinal\n/cΔ-o-3\n\nadenocarcinoma, endometrioid, NOS §330/3\nSite: endometrium C54.1\npw\n10/30/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender: F\nDOB: (Age:\nService:Gynecology\nLocation:\nMRN:\nHospital *:\nPatient Type: SDSA\nAccessor #:\nTaken:\nReceived:\nAccessioned:\nReported:\n\nPhysician(s):\n, M.D.\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA, ENDOMETRIOID TYPE WITH MUCINOUS FEATURES, FIGO GRADE 1\n- ADENOCARCINOMA INVADES 4 MM WITH A TOTAL MYOMETRIAL THICKNESS OF 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA INVOLVING STROMA AND MUCOSA\n- ENDOCERVICAL POLYP\nUTERUS, SEROSA, TOTAL ABDOMINAL HYSTERECTOMY\n- FIBROUS ADHESIONS\nOVARY, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nOVARY, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- PARAOVARIAN ADHESIONS\nFALLOPIAN TUBE, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN SEVEN NODES (0/7)\n- ENDOMETRIOSIS, FOCAL\nLYMPH NODES, LEFT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN FOUR NODES (0/4)\n\npage 1 of 4",
+        "confidence": {
+          "mean_probability": 0.9663577118658981,
+          "mean_log_probability": -0.04446613520408163,
+          "perplexity": 1.0454695714972861,
+          "min_probability": 0.18418566153873828
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 785,
+          "total_tokens": 3257
+        },
+        "composite_score": 0.9659415399271758,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 23.246312141418457,
+          "chars": 2050,
+          "words": 265,
+          "text": "rimary tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is clinica\nReviewer Initials\nDate Reviewed\nQUALIFIED\nDISQUALIFIED\nRE\n10/28/11\n10/30/11\n\nUUID:4C96E679-D109-4C4C-899F-F73D4DD73840\nTCGA-AX-A05V-01A-PR\nRedacted\n\nPatient Name:\nDOB:\nMRN:\nPAN:\nAccession:\n\nSurgical Pathology Report\nFinal\n/cΔ-o-3\n\nadenocarcinoma, endometrioid, NOS §330/3\nSite: endometrium C54.1\npw\n10/30/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender: F\nDOB: (Age:\nService:Gynecology\nLocation:\nMRN:\nHospital *:\nPatient Type: SDSA\nAccessor #:\nTaken:\nReceived:\nAccessioned:\nReported:\n\nPhysician(s):\n, M.D.\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA, ENDOMETRIOID TYPE WITH MUCINOUS FEATURES, FIGO GRADE 1\n- ADENOCARCINOMA INVADES 4 MM WITH A TOTAL MYOMETRIAL THICKNESS OF 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA INVOLVING STROMA AND MUCOSA\n- ENDOCERVICAL POLYP\nUTERUS, SEROSA, TOTAL ABDOMINAL HYSTERECTOMY\n- FIBROUS ADHESIONS\nOVARY, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nOVARY, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- PARAOVARIAN ADHESIONS\nFALLOPIAN TUBE, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN SEVEN NODES (0/7)\n- ENDOMETRIOSIS, FOCAL\nLYMPH NODES, LEFT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN FOUR NODES (0/4)\n\npage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9663577118658981,
+            "mean_log_probability": -0.04446613520408163,
+            "perplexity": 1.0454695714972861,
+            "min_probability": 0.18418566153873828
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 785,
+            "total_tokens": 3257
+          },
+          "composite_score": 0.9659415399271758,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 22.397931814193726,
+          "chars": 1985,
+          "words": 263,
+          "text": "```\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is clinical\nReviewer Initials\nQUALIFIED\nDISQUALIFIED\nDate Reviewed 10/28/11\n10/30/11\n\nPatient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nSurgical Pathology Report\nFinal\n/cΔ-o-3\n\nadenocarcinoma, endometrioid, NOS §330/3\nSite: endometrium C54.1\npw\n10/30/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender: F\nDOB: (Age:\nService:Gynecology\nLocation:\nMRN:\nHospital *:\nPatient Type: SDSA\nAccessor #:\nTaken:\nReceived:\nAccessioned:\nReported:\n\nPhysician(s):\n, M.D.\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA, ENDOMETRIOID TYPE WITH MUCINOUS FEATURES, FIGO GRADE 1\n- ADENOCARCINOMA INVADES 4 MM WITH A TOTAL MYOMETRIAL THICKNESS OF 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA INVOLVING STROMA AND MUCOSA\n- ENDOCERVICAL POLYP\nUTERUS, SEROSA, TOTAL ABDOMINAL HYSTERECTOMY\n- FIBROUS ADHESIONS\nOVARY, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nOVARY, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- PARAOVARIAN ADHESIONS\nFALLOPIAN TUBE, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN SEVEN NODES (0/7)\n- ENDOMETRIOSIS, FOCAL\nLYMPH NODES, LEFT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN FOUR NODES (0/4)\n\nPage 1 of 4\n```",
+          "confidence": {
+            "mean_probability": 0.9681162419775021,
+            "mean_log_probability": -0.04363029435483871,
+            "perplexity": 1.0445960904192246,
+            "min_probability": 0.13110326288526006
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 745,
+            "total_tokens": 3217
+          },
+          "composite_score": 0.9168022315310893
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 25.840667486190796,
+          "chars": 2052,
+          "words": 265,
+          "text": "rimary tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is Clinicl\nReviewer Initials\nDate Reviewed\nQUALIFIED\nDISQUALIFIED\nRE\n10/28/11\n10/30/11\n\nUUID:4C96E679-D109-4C4C-899F-F73D4DD73840\nTCGA-AX-A05V-01A-PR Redacted\n\n\nPatient Name:\nDOB:\nMRN:\nPAN:\nAccession:\n\nSurgical Pathology Report\nFinal\n/cΔ-0-3\n\nadenocarcinoma, endometrioid, NOS §330/3\nSite: endometrium C54.1\npw\n10/30/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nGender: F\nDOB: (Age:\nService: Gynecology\nLocation:\nMRN'\nHospital *:\nPatient Type: SDSA\nAccessor #:\nTaken:\nReceived:\nAccessioned:\nReported:\n\nPhysician(s):\n, M.D.\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA, ENDOMETRIOID TYPE WITH MUCINOUS FEATURES, FIGO GRADE 1\n- ADENOCARCINOMA INVADES 4 MM WITH A TOTAL MYOMETRIAL THICKNESS OF 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA INVOLVING STROMA AND MUCOSA\n- ENDOCERVICAL POLYP\nUTERUS, SEROSA, TOTAL ABDOMINAL HYSTERECTOMY\n- FIBROUS ADHESIONS\nOVARY, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nOVARY, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- PARAOVARIAN ADHESIONS\nFALLOPIAN TUBE, LEFT, BILATERAL SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN SEVEN NODES (0/7)\n- ENDOMETRIOSIS, FOCAL\nLYMPH NODES, LEFT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE NODES (0/3)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN TWO NODES (0/2)\nLYMPH NODES,'RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN FOUR NODES (0/4)\n\npage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9626599610377443,
+            "mean_log_probability": -0.052783006377551026,
+            "perplexity": 1.054200865433808,
+            "min_probability": 0.09526679071866419
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 785,
+            "total_tokens": 3257
+          },
+          "composite_score": 0.911896150864965
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 32.22679805755615,
+        "chars": 3216,
+        "words": 516,
+        "text": "Patient Name:\nDOB:                                    MRN:\nAccession:                             PAN:\n\nAPPENDIX, EXCISION\n- NO HISTOPATHOLOGIC ABNORMALITY\n\n                  By this signature, I attest that the above diagnosis is\nbased upon my personal\n         examination of the slides(and/or other material indicated in the\ndiagnosis).\n                     , M.D.\n     ***Report Electronically Reviewed and Signed Out By\nM.D.***\nIntraoperative Consultation:\n\"Called to pick up 'uterus, tubes, ovaries, cervix,' consisting of the above\nmentioned parts weighing overall 89 gm. The uterus measures 8 x 4.5 x 3.5 cm.\nThe right ovary measures 2.7 x 3 x 1.cm, the right fallopian tube measures 5 x\n0.5 x 0.5 cm, the left ovary measures 2.8 x 1.5 x 1.2 cm, and the left fallopian\ntube measures 5 x 0.5 x 0.5 cm. The left ovary is adherent to the left fallopian\ntube and there is a 1 cm cyst in the fallopian tube. One tan-pink, irregular\nmass occupies the entire endometrial cavity and measures 4 x 2.5 x 0.5 cm in the\nanterior endometrium and 4 x 2.5 x 0.5 cm in the posterior endometrium. The\nlower uterine segment appears involved on the anterior side by a skip lesion.\nNormal endometrium and tumor taken for and tumor bank. Rest for permanents,\nby                , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\n                     , M.D.\nHistory:\nThe patient is a year old woman with endometrial cancer. Operative procedure:\nexamination under anesthesia, exploratory laparotomy, total abdominal\nhysterectomy, and bilateral salpingo-oophorectomy with staging.\nSpecimen(s) Received:\nA: LYMPH NODE, LEFT EXTERNAL ILIAC\nB: LYMPH NODE, LEFT OBTURATOR\nC: LYMPH NODE, RIGHT EXTERNAL ILIAC\nD: LYMPH NODE, RIGHT OBTURATOR\nE: LYMPH NODE, LEFT PERIAORTIC\nF: LYMPH NODE, RIGHT PERIAORTIC\nG: APPENDIX\nH: UTERUS, TUBES, OVARIES AND CERVIX\n\nGross Description\nThe specimens are received in eight formalin-filled containers, each labeled\n\" \". The first container is labeled \"left external iliac lymph\nnodes.\" It contains multiple pieces of yellow lobular fatty tissue aggregating\nto 2.5 x 3.2 x 1.2 cm. The fat is dissected to show multiple white-tan lymph\nnodes ranging from 0.4 to 1.3 cm in greatest dimension. Labeled A1 and A2 -\nentire largest lymph node; A3 and A4 - one lymph node each; A5 and A6 - multiple\nsmaller lymph nodes. Jar 1.\nThe second container is labeled \"left obturator lymph node.\" It contains a\nsingle piece of yellow lobular fatty tissue measuring 3.0 cm in greatest\ndimension that is sectioned to show two lymph nodes measuring 0.5 and 0.6 cm in\ngreatest dimension. Labeled B1 and B2. Jar 1.\nThe third container is labeled \"right external iliac lymph nodes.\" It contains\nmultiple pieces of yellow lobular fatty tissue that aggregate to 5.5 x 4.0 x 1.0\ncm. The fat is dissected to show three putative lymph nodes ranging from 0.8 to\n1.4 cm in greatest dimension. Labeled C1 and C2 - entire largest node; C3 and C4\n- one lymph node each; C5 and C6 - sections of fatty tissue. Jar 1.\nThe fourth container is labeled \"right obturator lymph node.\" It contains\nmultiple pieces of yellow lobular fatty tissue aggregating to 5.6 x 4.2 x 1.8\n\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9811894517923025,
+          "mean_log_probability": -0.037757996636771304,
+          "perplexity": 1.0384798868411702,
+          "min_probability": 0.040151358642350206
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 893,
+          "total_tokens": 3365
+        },
+        "composite_score": 0.6796248468476098,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0402 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0402 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 32.22679805755615,
+          "chars": 3216,
+          "words": 516,
+          "text": "Patient Name:\nDOB:                                    MRN:\nAccession:                             PAN:\n\nAPPENDIX, EXCISION\n- NO HISTOPATHOLOGIC ABNORMALITY\n\n                  By this signature, I attest that the above diagnosis is\nbased upon my personal\n         examination of the slides(and/or other material indicated in the\ndiagnosis).\n                     , M.D.\n     ***Report Electronically Reviewed and Signed Out By\nM.D.***\nIntraoperative Consultation:\n\"Called to pick up 'uterus, tubes, ovaries, cervix,' consisting of the above\nmentioned parts weighing overall 89 gm. The uterus measures 8 x 4.5 x 3.5 cm.\nThe right ovary measures 2.7 x 3 x 1.cm, the right fallopian tube measures 5 x\n0.5 x 0.5 cm, the left ovary measures 2.8 x 1.5 x 1.2 cm, and the left fallopian\ntube measures 5 x 0.5 x 0.5 cm. The left ovary is adherent to the left fallopian\ntube and there is a 1 cm cyst in the fallopian tube. One tan-pink, irregular\nmass occupies the entire endometrial cavity and measures 4 x 2.5 x 0.5 cm in the\nanterior endometrium and 4 x 2.5 x 0.5 cm in the posterior endometrium. The\nlower uterine segment appears involved on the anterior side by a skip lesion.\nNormal endometrium and tumor taken for and tumor bank. Rest for permanents,\nby                , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\n                     , M.D.\nHistory:\nThe patient is a year old woman with endometrial cancer. Operative procedure:\nexamination under anesthesia, exploratory laparotomy, total abdominal\nhysterectomy, and bilateral salpingo-oophorectomy with staging.\nSpecimen(s) Received:\nA: LYMPH NODE, LEFT EXTERNAL ILIAC\nB: LYMPH NODE, LEFT OBTURATOR\nC: LYMPH NODE, RIGHT EXTERNAL ILIAC\nD: LYMPH NODE, RIGHT OBTURATOR\nE: LYMPH NODE, LEFT PERIAORTIC\nF: LYMPH NODE, RIGHT PERIAORTIC\nG: APPENDIX\nH: UTERUS, TUBES, OVARIES AND CERVIX\n\nGross Description\nThe specimens are received in eight formalin-filled containers, each labeled\n\" \". The first container is labeled \"left external iliac lymph\nnodes.\" It contains multiple pieces of yellow lobular fatty tissue aggregating\nto 2.5 x 3.2 x 1.2 cm. The fat is dissected to show multiple white-tan lymph\nnodes ranging from 0.4 to 1.3 cm in greatest dimension. Labeled A1 and A2 -\nentire largest lymph node; A3 and A4 - one lymph node each; A5 and A6 - multiple\nsmaller lymph nodes. Jar 1.\nThe second container is labeled \"left obturator lymph node.\" It contains a\nsingle piece of yellow lobular fatty tissue measuring 3.0 cm in greatest\ndimension that is sectioned to show two lymph nodes measuring 0.5 and 0.6 cm in\ngreatest dimension. Labeled B1 and B2. Jar 1.\nThe third container is labeled \"right external iliac lymph nodes.\" It contains\nmultiple pieces of yellow lobular fatty tissue that aggregate to 5.5 x 4.0 x 1.0\ncm. The fat is dissected to show three putative lymph nodes ranging from 0.8 to\n1.4 cm in greatest dimension. Labeled C1 and C2 - entire largest node; C3 and C4\n- one lymph node each; C5 and C6 - sections of fatty tissue. Jar 1.\nThe fourth container is labeled \"right obturator lymph node.\" It contains\nmultiple pieces of yellow lobular fatty tissue aggregating to 5.6 x 4.2 x 1.8\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9811894517923025,
+            "mean_log_probability": -0.037757996636771304,
+            "perplexity": 1.0384798868411702,
+            "min_probability": 0.040151358642350206
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 893,
+            "total_tokens": 3365
+          },
+          "composite_score": 0.6796248468476098,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0402 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0402 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 30.630642414093018,
+          "chars": 3223,
+          "words": 516,
+          "text": "Patient Name:\nDOB:                                    MRN:\nAccession:                             PAN:\n\nAPPENDIX, EXCISION\n- NO HISTOPATHOLOGIC ABNORMALITY\n\n               By this signature, I attest that the above diagnosis is\nbased upon my personal\n        examination of the slides(and/or other material indicated in the\ndiagnosis).\n                        , M.D.\n        ***Report Electronically Reviewed and Signed Out By\nM.D.***\nIntraoperative Consultation:\n\"Called to pick up 'uterus, tubes, ovaries, cervix,' consisting of the above\nmentioned parts weighing overall 89 gm. The uterus measures 8 x 4.5 x 3.5 cm.\nThe right ovary measures 2.7 x 3 x 1.cm, the right fallopian tube measures 5 x\n0.5 x 0.5 cm, the left ovary measures 2.8 x 1.5 x 1.2 cm, and the left fallopian\ntube measures 5 x 0.5 x 0.5 cm. The left ovary is adherent to the left fallopian\ntube and there is a 1 cm cyst in the fallopian tube. One tan-pink, irregular\nmass occupies the entire endometrial cavity and measures 4 x 2.5 x 0.5 cm in the\nanterior endometrium and 4 x 2.5 x 0.5 cm in the posterior endometrium. The\nlower uterine segment appears involved on the anterior side by a skip lesion.\nNormal endometrium and tumor taken for and tumor bank. Rest for permanents,\nby               , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\n               , M.D.\nHistory:\nThe patient is a       year old woman with endometrial cancer. Operative procedure:\nexamination under anesthesia, exploratory laparotomy, total abdominal\nhysterectomy, and bilateral salpingo-oophorectomy with staging.\nSpecimen(s) Received:\nA: LYMPH NODE, LEFT EXTERNAL ILIAC\nB: LYMPH NODE, LEFT OBTURATOR\nC: LYMPH NODE, RIGHT EXTERNAL ILIAC\nD: LYMPH NODE, RIGHT OBTURATOR\nE: LYMPH NODE, LEFT PERIAORTIC\nF: LYMPH NODE, RIGHT PERIAORTIC\nG: APPENDIX\nH: UTERUS, TUBES, OVARIES AND CERVIX\n\nGross Description\nThe specimens are received in eight formalin-filled containers, each labeled\n\"        \" The first container is labeled \"left external iliac lymph\nnodes.\" It contains multiple pieces of yellow lobular fatty tissue aggregating\nto 2.5 x 3.2 x 1.2 cm. The fat is dissected to show multiple white-tan lymph\nnodes ranging from 0.4 to 1.3 cm in greatest dimension. Labeled A1 and A2 -\nentire largest lymph node; A3 and A4 - one lymph node each; A5 and A6 - multiple\nsmaller lymph nodes. Jar 1.\nThe second container is labeled \"left obturator lymph node.\" It contains a\nsingle piece of yellow lobular fatty tissue measuring 3.0 cm in greatest\ndimension that is sectioned to show two lymph nodes measuring 0.5 and 0.6 cm in\ngreatest dimension. Labeled B1 and B2. Jar 1.\nThe third container is labeled \"right external iliac lymph nodes.\" It contains\nmultiple pieces of yellow lobular fatty tissue that aggregate to 5.5 x 4.0 x 1.0\ncm. The fat is dissected to show three putative lymph nodes ranging from 0.8 to\n1.4 cm in greatest dimension. Labeled C1 and C2 - entire largest node; C3 and C4\n- one lymph node each; C5 and C6 - sections of fatty tissue. Jar 1.\nThe fourth container is labeled \"right obturator lymph node.\" It contains\nmultiple pieces of yellow lobular fatty tissue aggregating to 5.6 x 4.2 x 1.8\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9807363401293893,
+            "mean_log_probability": -0.0384004418344519,
+            "perplexity": 1.0391472676121907,
+            "min_probability": 0.04106804310275388
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 895,
+            "total_tokens": 3367
+          },
+          "composite_score": 0.6453264384018961
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 33.398717641830444,
+          "chars": 3250,
+          "words": 515,
+          "text": "Patient Name:\nDOB:                                          MRN:\n         Accession:                          PAN:_________________________\n\nAPPENDIX, EXCISION\n  - NO HISTOPATHOLOGIC ABNORMALITY\n\n                By this signature, I attest that the above diagnosis is\nbased upon my personal\n        examination of the slides(and/or other material indicated in the\ndiagnosis).\n                 , M.D.\n      ***Report Electronically Reviewed and Signed Out By\nM.D.***\nIntraoperative Consultation:\n\"Called to pick up 'uterus, tubes, ovaries, cervix,' consisting of the above\nmentioned parts weighing overall 89 gm. The uterus measures 8 x 4.5 x 3.5 cm.\nThe right ovary measures 2.7 x 3 x 1.cm, the right fallopian tube measures 5 x\n0.5 x 0.5 cm, the left ovary measures 2.8 x 1.5 x 1.2 cm, and the left fallopian\ntube measures 5 x 0.5 x 0.5 cm. The left ovary is adherent to the left fallopian\ntube and there is a 1 cm cyst in the fallopian tube. One tan-pink, irregular\nmass occupies the entire endometrial cavity and measures 4 x 2.5 x 0.5 cm in the\nanterior endometrium and 4 x 2.5 x 0.5 cm in the posterior endometrium. The\nlower uterine segment appears involved on the anterior side by a skip lesion.\nNormal endometrium and tumor taken for  and tumor bank. Rest for permanents,\nby                 , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n                , M.D.\nHistory:\nThe patient is a       year old woman with endometrial cancer. Operative procedure:\nexamination under anesthesia, exploratory laparotomy, total abdominal\nhysterectomy, and bilateral salpingo-oophorectomy with staging.\nSpecimen(s) Received:\nA: LYMPH NODE, LEFT EXTERNAL ILIAC\nB: LYMPH NODE, LEFT OBTURATOR\nC: LYMPH NODE, RIGHT EXTERNAL ILIAC\nD: LYMPH NODE, RIGHT OBTURATOR\nE: LYMPH NODE, LEFT PERIAORTIC\nF: LYMPH NODE, RIGHT PERIAORTIC\nG: APPENDIX\nH: UTERUS, TUBES, OVARIES AND CERVIX\n\nGross Description\nThe specimens are received in eight formalin-filled containers, each labeled\n\"\". The first container is labeled \"left external iliac lymph\nnodes.\" It contains multiple pieces of yellow lobular fatty tissue aggregating\nto 2.5 x 3.2 x 1.2 cm. The fat is dissected to show multiple white-tan lymph\nnodes ranging from 0.4 to 1.3 cm in greatest dimension. Labeled A1 and A2 -\nentire largest lymph node; A3 and A4 - one lymph node each; A5 and A6 - multiple\nsmaller lymph nodes. Jar 1.\nThe second container is labeled \"left obturator lymph node.\" It contains a\nsingle piece of yellow lobular fatty tissue measuring 3.0 cm in greatest\ndimension that is sectioned to show two lymph nodes measuring 0.5 and 0.6 cm in\ngreatest dimension. Labeled B1 and B2. Jar 1.\nThe third container is labeled \"right external iliac lymph nodes.\" It contains\nmultiple pieces of yellow lobular fatty tissue that aggregate to 5.5 x 4.0 x 1.0\ncm. The fat is dissected to show three putative lymph nodes ranging from 0.8 to\n1.4 cm in greatest dimension. Labeled C1 and C2 - entire largest node; C3 and C4\n- one lymph node each; C5 and C6 - sections of fatty tissue. Jar 1.\nThe fourth container is labeled \"right obturator lymph node.\" It contains\nmultiple pieces of yellow lobular fatty tissue aggregating to 5.6 x 4.2 x 1.8\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9773352992810753,
+            "mean_log_probability": -0.047916156840934365,
+            "perplexity": 1.0490826932298907,
+            "min_probability": 0.026321267931398027
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 900,
+            "total_tokens": 3372
+          },
+          "composite_score": 0.6406742032528404
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 37.64452505111694,
+        "chars": 3643,
+        "words": 604,
+        "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\ncm. The fat is dissected to show three putative white-tan lymph nodes ranging from 1.4 to 2.4 cm in greatest dimension. Labeled D1 and D2 - one entire node; D3 to D5 - one entire node; D6 - one entire node bisected. Jar 1.\nThe fifth container is labeled \"left periaortic lymph node.\" It contains two pieces of yellow fatty tissue measuring 1.5 and 3.0 cm in greatest dimension.\nThe smaller piece is dissected to show only fatty tissue. The larger piece shows two putative tan lymph nodes measuring 0.3 and 2.0 cm in greatest dimension.\nLabeled E1 - smaller lymph node; E2 and E3 - entire larger lymph node; E4-remaining fatty tissue. Jar 0.\nThe sixth container is labeled \"right periaortic lymph node.\" It contains a single piece of yellow fatty tissue measuring 3.7 cm in greatest dimension that is sectioned to show two putative tan lymph nodes measuring 1.2 and 1.3 cm in greatest dimension. Labeled F1 and F2 - one lymph node each; F3 - remaining fatty tissue. Jar 0.\nThe seventh container is labeled \"appendix.\" It contains a 7.5 x 0.6 cm appendix with minimal attached mesoappendix. The serosal surface is pink-tan and glistening. The appendix is sectioned to show unremarkable tan mucosa. Labeled G1. Jar 1.\nThe eighth container is labeled \"uterus, tubes, ovaries, cervix.\" It contains a composite specimen weighing 89 gm that is composed of uterus and bilateral tubes and ovaries. The uterus measures 8.0 cm from fundus to ectocervix, 4.5 cm from cornu to cornu, and 3.5 cm from anterior to posterior. The ectocervix is white-tan and focally hemorrhagic measuring 2.2 x 2.0 cm. The serosal surface is tan-brown and glistening with no fibrous adhesions noted grossly. The endocervical cavity is tan-brown with a herringbone pattern and measures 3.0 x 1.1 cm. There is an exophytic tan-brown nodule measuring 1.6 x 0.4 cm present in the anterior lower uterine segment extending grossly into the endocervical canal. Both the anterior and posterior portions of the endometrial cavity have been completely replaced by a fungating white-tan lesion measuring 3.5 x 3.0 cm in the anterior endometrium and 3.5 x 3.0 cm in the posterior endometrium. Grossly the endometrial lesion appears to a maximum depth of 4 mm. The average gross myometrial thickness is 1.1 cm. The attached right ovary measures 2.7 x 2.0 x 1.0 cm and has a tan, glistening outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The right fallopian tube measures 5.0 x 0.5 x 0.5 cm and has a well-developed fimbriated end. It is unremarkable on section. The left ovary measures 2.8 x 1.5 x 1.2 cm and has a gray-tan, focally hemorrhagic outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The left fallopian tube measures 5.0 x 0.5 x 0.5 cm and is sectioned to show unremarkable white-tan tissue. The left fallopian tube is adhesed to the left ovary. Labeled H1-anterior cervix; H2 - anterior lower uterine segment, including polypoid nodule; H3 -\nanterior endomyometrium; H4 and H5 - anterior endometrium; H6 - posterior cervix; H7 - posterior lower uterine segment; H8 - posterior endomyometrium; H9 and H10 - posterior endometrium; H11 - right adnexal structures; H12 - left adnexal structures. Jar 2.\n, M.D.\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\n\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type\n\nFIGO GRADE\nThe FIGO Grade of the tumor is 0 to 5% solid growth pattern (FI)\n\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nPage 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9923106636222475,
+          "mean_log_probability": -0.009621577712609969,
+          "perplexity": 1.0096680139017626,
+          "min_probability": 0.3076719995445661
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1024,
+          "total_tokens": 3496
+        },
+        "composite_score": 0.9923760918546067,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 37.64452505111694,
+          "chars": 3643,
+          "words": 604,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\ncm. The fat is dissected to show three putative white-tan lymph nodes ranging from 1.4 to 2.4 cm in greatest dimension. Labeled D1 and D2 - one entire node; D3 to D5 - one entire node; D6 - one entire node bisected. Jar 1.\nThe fifth container is labeled \"left periaortic lymph node.\" It contains two pieces of yellow fatty tissue measuring 1.5 and 3.0 cm in greatest dimension.\nThe smaller piece is dissected to show only fatty tissue. The larger piece shows two putative tan lymph nodes measuring 0.3 and 2.0 cm in greatest dimension.\nLabeled E1 - smaller lymph node; E2 and E3 - entire larger lymph node; E4-remaining fatty tissue. Jar 0.\nThe sixth container is labeled \"right periaortic lymph node.\" It contains a single piece of yellow fatty tissue measuring 3.7 cm in greatest dimension that is sectioned to show two putative tan lymph nodes measuring 1.2 and 1.3 cm in greatest dimension. Labeled F1 and F2 - one lymph node each; F3 - remaining fatty tissue. Jar 0.\nThe seventh container is labeled \"appendix.\" It contains a 7.5 x 0.6 cm appendix with minimal attached mesoappendix. The serosal surface is pink-tan and glistening. The appendix is sectioned to show unremarkable tan mucosa. Labeled G1. Jar 1.\nThe eighth container is labeled \"uterus, tubes, ovaries, cervix.\" It contains a composite specimen weighing 89 gm that is composed of uterus and bilateral tubes and ovaries. The uterus measures 8.0 cm from fundus to ectocervix, 4.5 cm from cornu to cornu, and 3.5 cm from anterior to posterior. The ectocervix is white-tan and focally hemorrhagic measuring 2.2 x 2.0 cm. The serosal surface is tan-brown and glistening with no fibrous adhesions noted grossly. The endocervical cavity is tan-brown with a herringbone pattern and measures 3.0 x 1.1 cm. There is an exophytic tan-brown nodule measuring 1.6 x 0.4 cm present in the anterior lower uterine segment extending grossly into the endocervical canal. Both the anterior and posterior portions of the endometrial cavity have been completely replaced by a fungating white-tan lesion measuring 3.5 x 3.0 cm in the anterior endometrium and 3.5 x 3.0 cm in the posterior endometrium. Grossly the endometrial lesion appears to a maximum depth of 4 mm. The average gross myometrial thickness is 1.1 cm. The attached right ovary measures 2.7 x 2.0 x 1.0 cm and has a tan, glistening outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The right fallopian tube measures 5.0 x 0.5 x 0.5 cm and has a well-developed fimbriated end. It is unremarkable on section. The left ovary measures 2.8 x 1.5 x 1.2 cm and has a gray-tan, focally hemorrhagic outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The left fallopian tube measures 5.0 x 0.5 x 0.5 cm and is sectioned to show unremarkable white-tan tissue. The left fallopian tube is adhesed to the left ovary. Labeled H1-anterior cervix; H2 - anterior lower uterine segment, including polypoid nodule; H3 -\nanterior endomyometrium; H4 and H5 - anterior endometrium; H6 - posterior cervix; H7 - posterior lower uterine segment; H8 - posterior endomyometrium; H9 and H10 - posterior endometrium; H11 - right adnexal structures; H12 - left adnexal structures. Jar 2.\n, M.D.\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\n\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type\n\nFIGO GRADE\nThe FIGO Grade of the tumor is 0 to 5% solid growth pattern (FI)\n\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9923106636222475,
+            "mean_log_probability": -0.009621577712609969,
+            "perplexity": 1.0096680139017626,
+            "min_probability": 0.3076719995445661
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1024,
+            "total_tokens": 3496
+          },
+          "composite_score": 0.9923760918546067,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 36.184526681900024,
+          "chars": 3599,
+          "words": 598,
+          "text": "cm. The fat is dissected to show three putative white-tan lymph nodes ranging from 1.4 to 2.4 cm in greatest dimension. Labeled D1 and D2 - one entire node; D3 to D5 - one entire node; D6 - one entire node bisected. Jar 1.\nThe fifth container is labeled \"left periaortic lymph node.\" It contains two pieces of yellow fatty tissue measuring 1.5 and 3.0 cm in greatest dimension.\nThe smaller piece is dissected to show only fatty tissue. The larger piece shows two putative tan lymph nodes measuring 0.3 and 2.0 cm in greatest dimension.\nLabeled E1 - smaller lymph node; E2 and E3 - entire larger lymph node; E4-remaining fatty tissue. Jar 0.\nThe sixth container is labeled \"right periaortic lymph node.\" It contains a single piece of yellow fatty tissue measuring 3.7 cm in greatest dimension that is sectioned to show two putative tan lymph nodes measuring 1.2 and 1.3 cm in greatest dimension. Labeled F1 and F2 - one lymph node each; F3 - remaining fatty tissue. Jar 0.\nThe seventh container is labeled \"appendix.\" It contains a 7.5 x 0.6 cm appendix with minimal attached mesoappendix. The serosal surface is pink-tan and glistening. The appendix is sectioned to show unremarkable tan mucosa. Labeled G1. Jar 1.\nThe eighth container is labeled \"uterus, tubes, ovaries, cervix.\" It contains a composite specimen weighing 89 gm that is composed of uterus and bilateral tubes and ovaries. The uterus measures 8.0 cm from fundus to ectocervix, 4.5 cm from cornu to cornu, and 3.5 cm from anterior to posterior. The ectocervix is white-tan and focally hemorrhagic measuring 2.2 x 2.0 cm. The serosal surface is tan-brown and glistening with no fibrous adhesions noted grossly. The endocervical cavity is tan-brown with a herringbone pattern and measures 3.0 x 1.1 cm. There is an exophytic tan-brown nodule measuring 1.6 x 0.4 cm present in the anterior lower uterine segment extending grossly into the endocervical canal. Both the anterior and posterior portions of the endometrial cavity have been completely replaced by a fungating white-tan lesion measuring 3.5 x 3.0 cm in the anterior endometrium and 3.5 x 3.0 cm in the posterior endometrium. Grossly the endometrial lesion appears to a maximum depth of 4 mm. The average gross myometrial thickness is 1.1 cm. The attached right ovary measures 2.7 x 2.0 x 1.0 cm and has a tan, glistening outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The right fallopian tube measures 5.0 x 0.5 x 0.5 cm and has a well-developed fimbriated end. It is unremarkable on section. The left ovary measures 2.8 x 1.5 x 1.2 cm and has a gray-tan, focally hemorrhagic outer surface. It has been previously sectioned to show unremarkable white-tan ovarian tissue. The left fallopian tube measures 5.0 x 0.5 x 0.5 cm and is sectioned to show unremarkable white-tan tissue. The left fallopian tube is adhesed to the left ovary. Labeled H1-anterior cervix; H2 - anterior lower uterine segment, including polypoid nodule; H3 -\nanterior endomyometrium; H4 and H5 - anterior endometrium; H6 - posterior cervix; H7 - posterior lower uterine segment; H8 - posterior endomyometrium; H9 and H10 - posterior endometrium; H11 - right adnexal structures; H12 - left adnexal structures. Jar 2.\n, M.D.\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type\nFIGO GRADE\nThe FIGO Grade of the tumor is 0 to 5% solid growth pattern (FI)\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9937429996303196,
+            "mean_log_probability": -0.007762683168316832,
+            "perplexity": 1.0077928909070812,
+            "min_probability": 0.3746069260329944
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1011,
+            "total_tokens": 3483
+          },
+          "composite_score": 0.9441458050526609
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 39.4326593875885,
+          "chars": 3639,
+          "words": 605,
+          "text": "Patient Name:\nDOB:\nMRN:\nAccession:\nPAN:\ncm. The fat is dissected to show three putative white-tan lymph nodes ranging\nfrom 1.4 to 2.4 cm in greatest dimension. Labeled D1 and D2 - one entire node;\nD3 to D5 - one entire node; D6 - one entire node bisected. Jar 1.\nThe fifth container is labeled \"left periaortic lymph node.\" It contains two\npieces of yellow fatty tissue measuring 1.5 and 3.0 cm in greatest dimension.\nThe smaller piece is dissected to show only fatty tissue. The larger piece shows\ntwo putative tan lymph nodes measuring 0.3 and 2.0 cm in greatest dimension.\nLabeled E1 - smaller lymph node; E2 and E3 - entire larger lymph node;\nE4-remaining fatty tissue. Jar 0.\nThe sixth container is labeled \"right periaortic lymph node.\" It contains a\nsingle piece of yellow fatty tissue measuring 3.7 cm in greatest dimension that\nis sectioned to show two putative tan lymph nodes measuring 1.2 and 1.3 cm in\ngreatest dimension. Labeled F1 and F2 - one lymph node each; F3 - remaining\nfatty tissue. Jar 0.\nThe seventh container is labeled \"appendix.\" It contains a 7.5 x 0.6 cm appendix\nwith minimal attached mesoappendix. The serosal surface is pink-tan and\nglistening. The appendix is sectioned to show unremarkable tan mucosa. Labeled\nG1. Jar 1.\nThe eighth container is labeled \"uterus, tubes, ovaries, cervix.\" It contains a\ncomposite specimen weighing 89 gm that is composed of uterus and bilateral tubes\nand ovaries. The uterus measures 8.0 cm from fundus to ectocervix, 4.5 cm from\ncornu to cornu, and 3.5 cm from anterior to posterior. The ectocervix is\nwhite-tan and focally hemorrhagic measuring 2.2 x 2.0 cm. The serosal surface is\ntan-brown and glistening with no fibrous adhesions noted grossly. The\nendocervical cavity is tan-brown with a herringbone pattern and measures 3.0 x\n1.1 cm. There is an exophytic tan-brown nodule measuring 1.6 x 0.4 cm present in\nthe anterior lower uterine segment extending grossly into the endocervical\ncanal. Both the anterior and posterior portions of the endometrial cavity have\nbeen completely replaced by a fungating white-tan lesion measuring 3.5 x 3.0 cm\nin the anterior endometrium and 3.5 x 3.0 cm in the posterior endometrium.\nGrossly the endometrial lesion appears to a maximum depth of 4 mm. The\naverage gross myometrial thickness is 1.1 cm. The attached right ovary measures\n2.7 x 2.0 x 1.0 cm and has a tan, glistening outer surface. It has been\npreviously sectioned to show unremarkable white-tan ovarian tissue. The right\nfallopian tube measures 5.0 x 0.5 x 0.5 cm and has a well-developed fimbriated\nend. It is unremarkable on section. The left ovary measures 2.8 x 1.5 x 1.2 cm\nand has a gray-tan, focally hemorrhagic outer surface. It has been previously\nsectioned to show unremarkable white-tan ovarian tissue. The left fallopian tube\nmeasures 5.0 x 0.5 x 0.5 cm and is sectioned to show unremarkable white-tan\ntissue. The left fallopian tube is adhesed to the left ovary. Labeled H1-\nanterior cervix; H2 - anterior lower uterine segment, including polypoid nodule;\nH3 -\nanterior endomyometrium; H4 and H5 - anterior endometrium; H6 - posterior\ncervix; H7 - posterior lower uterine segment; H8 - posterior endomyometrium; H9\nand H10 - posterior endometrium; H11 - right adnexal structures; H12 - left\nadnexal structures. Jar 2.\n, M.D.\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type\nFIGO GRADE\nThe FIGO Grade of the tumor is 0 to 5% solid growth pattern (FI)\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the\nmyometrium\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9936335205754451,
+            "mean_log_probability": -0.007851962441314553,
+            "perplexity": 1.007882869940285,
+            "min_probability": 0.3949445119597364
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1066,
+            "total_tokens": 3538
+          },
+          "composite_score": 0.9440790000141053
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.892998218536377,
+        "chars": 1074,
+        "words": 152,
+        "text": "Patient Name:\nDOR:                         MRN:\n  Accession:                  PAN:\n_________________________________________________________\n\nTUMOR SIZE\nThe tumor invades to a depth of 4 mm\nThe myometrial thickness is 12 mm\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is involved by invasive tumor in the mucosa and stroma\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\n      The regional lymph nodes are free of tumor in 21 nodes\n      The total number of lymph nodes examined is 21\n      Extranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T2b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nPage 4 of 4",
+        "confidence": {
+          "mean_probability": 0.9629092814579399,
+          "mean_log_probability": -0.06345023970037453,
+          "perplexity": 1.0655064645613719,
+          "min_probability": 0.035870968052461684
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 268,
+          "total_tokens": 2740
+        },
+        "composite_score": 0.6017678732208281,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0359 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0359 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.892998218536377,
+          "chars": 1074,
+          "words": 152,
+          "text": "Patient Name:\nDOR:                         MRN:\n  Accession:                  PAN:\n_________________________________________________________\n\nTUMOR SIZE\nThe tumor invades to a depth of 4 mm\nThe myometrial thickness is 12 mm\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is involved by invasive tumor in the mucosa and stroma\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\n      The regional lymph nodes are free of tumor in 21 nodes\n      The total number of lymph nodes examined is 21\n      Extranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T2b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.9629092814579399,
+            "mean_log_probability": -0.06345023970037453,
+            "perplexity": 1.0655064645613719,
+            "min_probability": 0.035870968052461684
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 268,
+            "total_tokens": 2740
+          },
+          "composite_score": 0.6017678732208281,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0359 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0359 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.0362513065338135,
+          "chars": 1106,
+          "words": 152,
+          "text": "Patient Name:\nDOR:                        MRN:\nAccession:                  PAN:\n______________________________________________________________________________________\n\nTUMOR SIZE\nThe tumor invades to a depth of 4 mm\nThe myometrial thickness is 12 mm\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is involved by invasive tumor in the mucosa and stroma\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\n        The regional lymph nodes are free of tumor in 21 nodes\n        The total number of lymph nodes examined is 21\n        Extranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T2b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.963152547279949,
+            "mean_log_probability": -0.06190295131086141,
+            "perplexity": 1.06385909358746,
+            "min_probability": 0.04173079222564208
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 268,
+            "total_tokens": 2740
+          },
+          "composite_score": 0.5745364012905558
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.170167446136475,
+          "chars": 1110,
+          "words": 153,
+          "text": "Patient Name:\nDOR:                              MRN:\n  i Accession:                     PAN:\n______________________________________________________________________________________\n\nTUMOR SIZE\nThe tumor invades to a depth of 4 mm\nThe myometrial thickness is 12 mm\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is involved by invasive tumor in the mucosa and stroma\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\n     The regional lymph nodes are free of tumor in 21 nodes\n     The total number of lymph nodes examined is 21\n     Extranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T2b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.9583785398195891,
+            "mean_log_probability": -0.0747089591078067,
+            "perplexity": 1.0775704881662298,
+            "min_probability": 0.037307421660251125
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 270,
+            "total_tokens": 2742
+          },
+          "composite_score": 0.5688327399113259
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

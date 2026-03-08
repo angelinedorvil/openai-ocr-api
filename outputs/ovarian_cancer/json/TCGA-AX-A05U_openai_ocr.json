@@ -1,0 +1,649 @@
+{
+  "pdf": "reports\\TCGA-AX-A05U\\TCGA-AX-A05U.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.131990194320679,
+        "chars": 1800,
+        "words": 252,
+        "text": "```\nCriteria                      Yes      No\nDiagnosis Discrepancy          /        /\nPrimary Tumor Site Discrepancy /        /\nXPNA Discrepancy              /        /\nPrior Malignancy History      /        /\nDual/Synchronous P.im( Noted) /        /\nCase (circle):  QUALIFIED  DISQUALIFIED\nReviewer Initials  Date Reviewed:  10/30/11\nRUN DATE:\nRUN TIME:\nBY:\n\nPATIENT:  ████████████  ██████████████  ACCT #:               LOC:\nAGE/SX:  /F                RM/BRD:\nREG DR:                      STATUS:\n\nSPEC #:                    Obtained:                  Subm Dr:\nSTATUS:                   Received:\n\nCLINICAL HISTORY:\nENDOMETRIAL CA                                      /C D - 0 - 3\n\nSPECIMEN/PROCEDURE:\n1. LYMPH NODE - PARA AORTIC\n2. LYMPH NODE - RT PARA AORTIC\n3. LYMPH NODE - RT COMMON ILIAC\n4. LYMPH NODE - RT EXTERNAL ILIAC\n5. LYMPH NODE - RT OBTURATOR\n6. LYMPH NODE - LEFT OBURATOR\n7. LYMPH NODE - LEFT EXTERNAL ILIAC\n8. LYMPH NODE - LEFT COMMON ILIAC\n9. UTERUS - CERVIX, BILATERAL TUBES AND OVARIES\n\nadenocarcinoma, endometrioid, NOS & 380/3\nSite: endometrium C54.1  pw\n10/30/11\n\nIMPRESSION:\n\n1) LEFT PARA-AORTIC LYMPH NODES:\n   Four lymph nodes are negative for tumor (0/4).\n\n2) RIGHT PARA-AORTIC LYMPH NODES:\n   Seven lymph nodes are negative for tumor (0/7).\n\n3) RIGHT COMMON ILIAC LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n4) RIGHT EXTERNAL ILIAC LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n5) RIGHT OBTURATOR LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n6) LEFT OBTURATOR LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n7) LEFT EXTERNAL ILIAC LYMPH NODE:\n   Mature adipose tissue.\n   No lymph node material is identified.\n\n8) LEFT COMMON ILIAC LYMPH NODES:\n\n                   ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9331482170225214,
+          "mean_log_probability": -0.11912850635208712,
+          "perplexity": 1.1265146732784215,
+          "min_probability": 0.04514869062921584
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 552,
+          "total_tokens": 3024
+        },
+        "composite_score": 0.6263893626348389,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0451 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0451 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.131990194320679,
+          "chars": 1800,
+          "words": 252,
+          "text": "```\nCriteria                      Yes      No\nDiagnosis Discrepancy          /        /\nPrimary Tumor Site Discrepancy /        /\nXPNA Discrepancy              /        /\nPrior Malignancy History      /        /\nDual/Synchronous P.im( Noted) /        /\nCase (circle):  QUALIFIED  DISQUALIFIED\nReviewer Initials  Date Reviewed:  10/30/11\nRUN DATE:\nRUN TIME:\nBY:\n\nPATIENT:  ████████████  ██████████████  ACCT #:               LOC:\nAGE/SX:  /F                RM/BRD:\nREG DR:                      STATUS:\n\nSPEC #:                    Obtained:                  Subm Dr:\nSTATUS:                   Received:\n\nCLINICAL HISTORY:\nENDOMETRIAL CA                                      /C D - 0 - 3\n\nSPECIMEN/PROCEDURE:\n1. LYMPH NODE - PARA AORTIC\n2. LYMPH NODE - RT PARA AORTIC\n3. LYMPH NODE - RT COMMON ILIAC\n4. LYMPH NODE - RT EXTERNAL ILIAC\n5. LYMPH NODE - RT OBTURATOR\n6. LYMPH NODE - LEFT OBURATOR\n7. LYMPH NODE - LEFT EXTERNAL ILIAC\n8. LYMPH NODE - LEFT COMMON ILIAC\n9. UTERUS - CERVIX, BILATERAL TUBES AND OVARIES\n\nadenocarcinoma, endometrioid, NOS & 380/3\nSite: endometrium C54.1  pw\n10/30/11\n\nIMPRESSION:\n\n1) LEFT PARA-AORTIC LYMPH NODES:\n   Four lymph nodes are negative for tumor (0/4).\n\n2) RIGHT PARA-AORTIC LYMPH NODES:\n   Seven lymph nodes are negative for tumor (0/7).\n\n3) RIGHT COMMON ILIAC LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n4) RIGHT EXTERNAL ILIAC LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n5) RIGHT OBTURATOR LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n6) LEFT OBTURATOR LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n7) LEFT EXTERNAL ILIAC LYMPH NODE:\n   Mature adipose tissue.\n   No lymph node material is identified.\n\n8) LEFT COMMON ILIAC LYMPH NODES:\n\n                   ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9331482170225214,
+            "mean_log_probability": -0.11912850635208712,
+            "perplexity": 1.1265146732784215,
+            "min_probability": 0.04514869062921584
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 552,
+            "total_tokens": 3024
+          },
+          "composite_score": 0.6263893626348389,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0451 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0451 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.316502332687378,
+          "chars": 1708,
+          "words": 242,
+          "text": "```\nCriteria                   Yes    No\nDiagnosis Discrepancy       ✓      ✓\nPrimary Tumor Site Discrepancy  ✓      ✓\nXPNAA Discrepancy          ✓      ✓\nPrior Malignancy History   ✓      ✓\nDual/Synchronous P.im Noted\nCase is circle:            QUALIFIED  DISQUALIFIED\nReviewer Initials  B      Date Reviewed: 10/30/11\nRUN DATE:\nRUN TIME:\nBY:\n\nPATIENT:  ████████████  ████████████  ACCT #:              LOC:\nAGE/SX:  /F                  RM/BRD:\nREG DR:                        STATUS:\n\nSPEC #:                  Obtained:                  Subm Dr:\nSTATUS:                  Received:\n\nCLINICAL HISTORY:\nENDOMETRIAL CA                                  /C D - 0 - 3\n\nSPECIMEN/PROCEDURE:\n1. LYMPH NODE - PARA AORTIC\n2. LYMPH NODE - RT PARA AORTIC\n3. LYMPH NODE - RT COMMON ILIAC\n4. LYMPH NODE - RT EXTERNAL ILIAC\n5. LYMPH NODE - RT OBTURATOR\n6. LYMPH NODE - LEFT OBURATOR\n7. LYMPH NODE - LEFT EXTERNAL ILIAC\n8. LYMPH NODE - LEFT COMMON ILIAC\n9. UTERUS - CERVIX, BILATERAL TUBES AND OVARIES\n\nIMPRESSION:\n\n1) LEFT PARA-AORTIC LYMPH NODES:\n    Four lymph nodes are negative for tumor (0/4).\n\n2) RIGHT PARA-AORTIC LYMPH NODES:\n    Seven lymph nodes are negative for tumor (0/7).\n\n3) RIGHT COMMON ILIAC LYMPH NODES:\n    Two lymph nodes are negative for tumor (0/2).\n\n4) RIGHT EXTERNAL ILIAC LYMPH NODES:\n    Three lymph nodes are negative for tumor (0/3).\n\n5) RIGHT OBTURATOR LYMPH NODES:\n    Three lymph nodes are negative for tumor (0/3).\n\n6) LEFT OBTURATOR LYMPH NODES:\n    Two lymph nodes are negative for tumor (0/2).\n\n7) LEFT EXTERNAL ILIAC LYMPH NODE:\n    Mature adipose tissue.\n    No lymph node material is identified.\n\n8) LEFT COMMON ILIAC LYMPH NODES:\n\n                      ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9306845662178336,
+            "mean_log_probability": -0.12749411175337186,
+            "perplexity": 1.135978179301785,
+            "min_probability": 0.02601232018303428
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 520,
+            "total_tokens": 2992
+          },
+          "composite_score": 0.5854248189151995
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.25309419631958,
+          "chars": 1790,
+          "words": 251,
+          "text": "```\nCriteria                      Yes    No\nDiagnosis Discrepancy         ✓      ✓\nPrimary Tumor Site Discrepancy ✓      ✓\nXPNA Discrepancy             ✓      ✓\nPrior Malignancy History     ✓      ✓\nDual/synchronous P.im Noted\nCase is circle:  QUALIFIED  DISQUALIFIED\nReviewer Initials  B        Date Reviewed:  10/30/11\nRUN DATE:\nRUN TIME:\nBY:\n\nPATIENT:  ██████████████████████████  ACCT #:                LOC:\nAGE/SX:  /F                 RM/BRD:\nREG DR:                     STATUS:\n\nSPEC #:                     Obtained:                 Subm Dr:\nSTATUS:                    Received:\n\nCLINICAL HISTORY:\nENDOMETRIAL CA                                             /C D - 0 - 3\n\nSPECIMEN/PROCEDURE:\n1. LYMPH NODE - PARA AORTIC\n2. LYMPH NODE - RT PARA AORTIC\n3. LYMPH NODE - RT COMMON ILIAC\n4. LYMPH NODE - RT EXTERNAL ILIAC\n5. LYMPH NODE - RT OBTURATOR\n6. LYMPH NODE - LEFT OBURATOR\n7. LYMPH NODE - LEFT EXTERNAL ILIAC\n8. LYMPH NODE - LEFT COMMON ILIAC\n9. UTERUS - CERVIX, BILATERAL TUBES AND OVARIES\n\nadenocarcinoma, endometrioid, NOS & 380/3\nSite: endometrium C54.1  pw\n10/30/11\n\nIMPRESSION:\n\n1) LEFT PARA-AORTIC LYMPH NODES:\n   Four lymph nodes are negative for tumor (0/4).\n\n2) RIGHT PARA-AORTIC LYMPH NODES:\n   Seven lymph nodes are negative for tumor (0/7).\n\n3) RIGHT COMMON ILIAC LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n4) RIGHT EXTERNAL ILIAC LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n5) RIGHT OBTURATOR LYMPH NODES:\n   Three lymph nodes are negative for tumor (0/3).\n\n6) LEFT OBTURATOR LYMPH NODES:\n   Two lymph nodes are negative for tumor (0/2).\n\n7) LEFT EXTERNAL ILIAC LYMPH NODE:\n   Mature adipose tissue.\n   No lymph node material is identified.\n\n8) LEFT COMMON ILIAC LYMPH NODES:\n\n                  ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9308473032042538,
+            "mean_log_probability": -0.12224271454545456,
+            "perplexity": 1.1300283428134053,
+            "min_probability": 0.040104449128050466
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 551,
+            "total_tokens": 3023
+          },
+          "composite_score": 0.5930857495434958
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.78305459022522,
+        "chars": 1525,
+        "words": 171,
+        "text": "SPEC #:  (Continued) Page: 2\n\nIMPRESSION: (continued)\n        Two lymph nodes are negative for tumor (0/2).\n\n9)      UTERUS, BILATERAL TUBES AND OVARIES:\n        ENDOMETRIUM:\n                Adenocarcinoma of endometrium, endometrioid type, FIGO grade I, nuclear\n                grade 2, (3.8 cm.) invading < 50% of the myometrium.\n                The uninvolved endometrium shows complex hyperplasia with and without\n                atypia as well as disordered proliferative endometrium.\n        MYOMETRIUM:\n                Myometrial invasion measuring 5 mm where the wall measures 21 mm (29%).\n                No vascular space invasion is identified.\n                Adenomyosis.\n        CERVIX:\n                Chronic cystic cervicitis.\n                No evidence of tumor or dysplasia.\n                Endometriosis involving the deep cervical stroma.\n        OVARIES, BILATERAL:\n                Atrophic pattern with focal hyperthecosis.\n                No tumor is identified.\n                The left ovary has a benign serous cystadenofibroma with dominant cystic\n                component (2.0 cm).\n        FALLOPIAN TUBES, BILATERAL:\n                No pathologic diagnosis.\n\nENDOMETRIAL CARCINOMA CHECKLIST\n\nACROSCOPIC\n\nSPECIMEN TYPE\nHysterectomy\n\nTUMOR SITE\nSpecify location(s), if known: Anterior corpus\n\nTUMOR SIZE\nGreatest dimension: 3.8 cm\nAdditional dimensions: 1.8 x 0.8 cm\n\nOTHER ORGANS PRESENT\nRight ovary\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\n\nMICROSCOPIC\n\n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9804919551379214,
+          "mean_log_probability": -0.030722203608247425,
+          "perplexity": 1.0311990007320118,
+          "min_probability": 0.06060565945020854
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 389,
+          "total_tokens": 2861
+        },
+        "composite_score": 0.9286548137795434,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.78305459022522,
+          "chars": 1525,
+          "words": 171,
+          "text": "SPEC #:  (Continued) Page: 2\n\nIMPRESSION: (continued)\n        Two lymph nodes are negative for tumor (0/2).\n\n9)      UTERUS, BILATERAL TUBES AND OVARIES:\n        ENDOMETRIUM:\n                Adenocarcinoma of endometrium, endometrioid type, FIGO grade I, nuclear\n                grade 2, (3.8 cm.) invading < 50% of the myometrium.\n                The uninvolved endometrium shows complex hyperplasia with and without\n                atypia as well as disordered proliferative endometrium.\n        MYOMETRIUM:\n                Myometrial invasion measuring 5 mm where the wall measures 21 mm (29%).\n                No vascular space invasion is identified.\n                Adenomyosis.\n        CERVIX:\n                Chronic cystic cervicitis.\n                No evidence of tumor or dysplasia.\n                Endometriosis involving the deep cervical stroma.\n        OVARIES, BILATERAL:\n                Atrophic pattern with focal hyperthecosis.\n                No tumor is identified.\n                The left ovary has a benign serous cystadenofibroma with dominant cystic\n                component (2.0 cm).\n        FALLOPIAN TUBES, BILATERAL:\n                No pathologic diagnosis.\n\nENDOMETRIAL CARCINOMA CHECKLIST\n\nACROSCOPIC\n\nSPECIMEN TYPE\nHysterectomy\n\nTUMOR SITE\nSpecify location(s), if known: Anterior corpus\n\nTUMOR SIZE\nGreatest dimension: 3.8 cm\nAdditional dimensions: 1.8 x 0.8 cm\n\nOTHER ORGANS PRESENT\nRight ovary\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\n\nMICROSCOPIC\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9804919551379214,
+            "mean_log_probability": -0.030722203608247425,
+            "perplexity": 1.0311990007320118,
+            "min_probability": 0.06060565945020854
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 389,
+            "total_tokens": 2861
+          },
+          "composite_score": 0.9286548137795434,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.636835098266602,
+          "chars": 1474,
+          "words": 171,
+          "text": "SPEC #:  (Continued) Page: 2\n\nIMPRESSION: (continued)\n       Two lymph nodes are negative for tumor (0/2).\n\n9)    UTERUS, BILATERAL TUBES AND OVARIES:\n       ENDOMETRIUM:\n             Adenocarcinoma of endometrium, endometrioid type, FIGO grade I, nuclear\n             grade 2, (3.8 cm.) invading < 50% of the myometrium.\n             The uninvolved endometrium shows complex hyperplasia with and without\n             atypia as well as disordered proliferative endometrium.\n       MYOMETRIUM:\n             Myometrial invasion measuring 5 mm where the wall measures 21 mm (29%).\n             No vascular space invasion is identified.\n             Adenomyosis.\n       CERVIX:\n             Chronic cystic cervicitis.\n             No evidence of tumor or dysplasia.\n             Endometriosis involving the deep cervical stroma.\n       OVARIES, BILATERAL:\n             Atrophic pattern with focal hyperthecosis.\n             No tumor is identified.\n             The left ovary has a benign serous cystadenofibroma with dominant cystic\n             component (2.0 cm).\n       FALLOPIAN TUBES, BILATERAL:\n             No pathologic diagnosis.\n\nENDOMETRIAL CARCINOMA CHECKLIST\n\nACROSCOPIC\n\nSPECIMEN TYPE\nHysterectomy\n\nTUMOR SITE\nSpecify location(s), if known: Anterior corpus\n\nTUMOR SIZE\nGreatest dimension:  3.8 cm\nAdditional dimensions:  1.8 x 0.8 cm\n\nOTHER ORGANS PRESENT\nRight ovary\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\n\nMICROSCOPIC\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9746432669944802,
+            "mean_log_probability": -0.0428021358974359,
+            "perplexity": 1.043731357449758,
+            "min_probability": 0.05080131697647403
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 391,
+            "total_tokens": 2863
+          },
+          "composite_score": 0.8688355651573284
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.685245752334595,
+          "chars": 1667,
+          "words": 171,
+          "text": "SPEC #:                                                                                                      (Continued) Page: 2\n\nIMPRESSION: (continued)\n    Two lymph nodes are negative for tumor (0/2).\n\n9)  UTERUS, BILATERAL TUBES AND OVARIES:\n        ENDOMETRIUM:\n                Adenocarcinoma of endometrium, endometrioid type, FIGO grade I, nuclear\n                grade 2, (3.8 cm.) invading < 50% of the myometrium.\n                The uninvolved endometrium shows complex hyperplasia with and without\n                atypia as well as disordered proliferative endometrium.\n        MYOMETRIUM:\n                Myometrial invasion measuring 5 mm where the wall measures 21 mm (29%).\n                No vascular space invasion is identified.\n                Adenomyosis.\n        CERVIX:\n                Chronic cystic cervicitis.\n                No evidence of tumor or dysplasia.\n                Endometriosis involving the deep cervical stroma.\n        OVARIES, BILATERAL:\n                Atrophic pattern with focal hyperthecosis.\n                No tumor is identified.\n                The left ovary has a benign serous cystadenofibroma with dominant cystic\n                component (2.0 cm).\n        FALLOPIAN TUBES, BILATERAL:\n                No pathologic diagnosis.\n\nENDOMETRIAL CARCINOMA CHECKLIST\n\nACROSCOPIC\n\nSPECIMEN TYPE\n    Hysterectomy\n\nTUMOR SITE\n    Specify location(s), if known: Anterior corpus\n\nTUMOR SIZE\n    Greatest dimension:  3.8 cm\n    Additional dimensions:  1.8 x 0.8 cm\n\nOTHER ORGANS PRESENT\n    Right ovary\n    Left ovary\n    Right fallopian tube\n    Left fallopian tube\n\nMICROSCOPIC\n\n                ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9770104448131658,
+            "mean_log_probability": -0.04728526566416041,
+            "perplexity": 1.0484210449510023,
+            "min_probability": 0.023942767117631356
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 400,
+            "total_tokens": 2872
+          },
+          "composite_score": 0.6188355293596414
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.097592115402222,
+        "chars": 1093,
+        "words": 136,
+        "text": "SPEC #:  (Continued) Page: 3\n\nIMPRESSION: ..(continued)\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1:  5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  5 mm\n    Thickness of myometrium in area of maximal tumor invasion:  21 mm\n    The % of myometrial involvement:  29%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\nTNM (FIGO)\n    pT1b (IB):  Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\n    pNO:  No regional lymph node metastasis\n    Number examined:  23\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\n    pMX:  Cannot be assessed\np)\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Absent\n\nADDITIONAL PATHOLOGIC FINDINGS\n    Hyperplasia\n        Complex (adenomatous)\n    Atypical hyperplasia\n        Complex (adenomatous)\n    Other (specify):  Adenomyosis, endometriosis\n\nPathologic TNM (AJCC 6th Edition):  pT1b N0 MX\n\n    Dictated by:\n    Entered:\n\n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9732902983777602,
+          "mean_log_probability": -0.03896467688022285,
+          "perplexity": 1.0397337563614881,
+          "min_probability": 0.08362865955470584
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 360,
+          "total_tokens": 2832
+        },
+        "composite_score": 0.8792973038565854,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.097592115402222,
+          "chars": 1093,
+          "words": 136,
+          "text": "SPEC #:  (Continued) Page: 3\n\nIMPRESSION: ..(continued)\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1:  5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  5 mm\n    Thickness of myometrium in area of maximal tumor invasion:  21 mm\n    The % of myometrial involvement:  29%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\nTNM (FIGO)\n    pT1b (IB):  Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\n    pNO:  No regional lymph node metastasis\n    Number examined:  23\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\n    pMX:  Cannot be assessed\np)\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Absent\n\nADDITIONAL PATHOLOGIC FINDINGS\n    Hyperplasia\n        Complex (adenomatous)\n    Atypical hyperplasia\n        Complex (adenomatous)\n    Other (specify):  Adenomyosis, endometriosis\n\nPathologic TNM (AJCC 6th Edition):  pT1b N0 MX\n\n    Dictated by:\n    Entered:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9732902983777602,
+            "mean_log_probability": -0.03896467688022285,
+            "perplexity": 1.0397337563614881,
+            "min_probability": 0.08362865955470584
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 360,
+            "total_tokens": 2832
+          },
+          "composite_score": 0.8792973038565854,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.27442455291748,
+          "chars": 1093,
+          "words": 136,
+          "text": "SPEC #:  (Continued) Page: 3\n\nIMPRESSION: ..(continued)\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1:  5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  5 mm\n    Thickness of myometrium in area of maximal tumor invasion:  21 mm\n    The % of myometrial involvement:  29%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\nTNM (FIGO)\n    pT1b (IB):  Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\n    pNO:  No regional lymph node metastasis\n    Number examined:  23\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\n    pMX:  Cannot be assessed\np)\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Absent\n\nADDITIONAL PATHOLOGIC FINDINGS\n    Hyperplasia\n        Complex (adenomatous)\n    Atypical hyperplasia\n        Complex (adenomatous)\n    Other (specify):  Adenomyosis, endometriosis\n\nPathologic TNM (AJCC 6th Edition):  pT1b NO MX\n\n    Dictated by:\n    Entered:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9730786321723269,
+            "mean_log_probability": -0.03982014525139665,
+            "perplexity": 1.0406235962651762,
+            "min_probability": 0.06831882008975337
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 359,
+            "total_tokens": 2831
+          },
+          "composite_score": 0.8347306298555414
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.946538209915161,
+          "chars": 1089,
+          "words": 135,
+          "text": "SPEC #:  (Continued) Page: 3\n\nIMPRESSION:  (continued)\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1:  5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  5 mm\n    Thickness of myometrium in area of maximal tumor invasion:  21 mm\n    The % of myometrial involvement:  29%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\nTNM (FIGO)\n    pT1b (IB):  Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\n    pN0:  No regional lymph node metastasis\n    Number examined:  23\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\n    pMX:  Cannot be assessed\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Absent\n\nADDITIONAL PATHOLOGIC FINDINGS\n    Hyperplasia\n        Complex (adenomatous)\n    Atypical hyperplasia\n        Complex (adenomatous)\n    Other (specify):  Adenomyosis, endometriosis\n\nPathologic TNM (AJCC 6th Edition):  pT1b N0 MX\n\n    Dictated by:\n    Entered:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9781858912901799,
+            "mean_log_probability": -0.032895656424581005,
+            "perplexity": 1.0334427005089022,
+            "min_probability": 0.09020711272302524
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 359,
+            "total_tokens": 2831
+          },
+          "composite_score": 0.8392505232678364
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 21.659120559692383,
+        "chars": 2659,
+        "words": 343,
+        "text": "```\nSPEC #:                                                                                      (Continued) Page: 4.\n\nGROSS DESCRIPTION:\n1)    Received labeled with the patient's name and \"left para-aortic\".  Received is a 2.5 x\n      1.7 x 1.5 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Four possible lymph nodes identified, ranging from 1 to 1.5 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 1A:      Three possible lymph nodes.\n            Cassette 1B:      One lymph node bisected.\n\n2)    Received labeled with the patient's name and \"right para-aortic\".  Received is a 3.5 x\n      4 x 2 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n      possible lymph nodes.  Five possible lymph nodes identified, ranging from 1.5 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 2A:      Three possible lymph nodes.\n            Cassette 2B:      One lymph node bisected.\n            Cassette 2C:      One lymph node bisected.\n\n3)    Received labeled with the patient's name and \"right common iliac\".  Received is a 3 x\n      1.3 x 0.9 cm portion of yellow gold to pink tan lobulated adipose tissue.  Dissected\n      for possible lymph nodes.  Two possible lymph nodes identified, ranging from 1.5 to\n      2.1 cm in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 3A:      One lymph node bisected.\n            Cassette 3B:      One lymph node bisected.\n\n4)    Received labeled with the patient's name and \"right external iliac\".  Received is a\n      4.7 x 1.6 x 1 cm portion of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 0.9 to 3.5\n      cm in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 4A:      Two possible lymph nodes.\n            Cassette 4B,4C:   One lymph node bisected.\n\n5)    Received labeled with the patient's name and \"right obturator\".  Received is a 4.7 x\n      3.5 x 1.4 cm aggregate of yellow gold with lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 5A:      One lymph node bisected.\n            Cassette 5B:      One lymph node bisected.\n            Cassette 5C:      One lymph node bisected.\n\n                                    ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9870318191075743,
+          "mean_log_probability": -0.025131998477929986,
+          "perplexity": 1.025450469492469,
+          "min_probability": 0.06156399968383373
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 658,
+          "total_tokens": 3130
+        },
+        "composite_score": 0.980387307378761,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 21.659120559692383,
+          "chars": 2659,
+          "words": 343,
+          "text": "```\nSPEC #:                                                                                      (Continued) Page: 4.\n\nGROSS DESCRIPTION:\n1)    Received labeled with the patient's name and \"left para-aortic\".  Received is a 2.5 x\n      1.7 x 1.5 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Four possible lymph nodes identified, ranging from 1 to 1.5 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 1A:      Three possible lymph nodes.\n            Cassette 1B:      One lymph node bisected.\n\n2)    Received labeled with the patient's name and \"right para-aortic\".  Received is a 3.5 x\n      4 x 2 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n      possible lymph nodes.  Five possible lymph nodes identified, ranging from 1.5 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 2A:      Three possible lymph nodes.\n            Cassette 2B:      One lymph node bisected.\n            Cassette 2C:      One lymph node bisected.\n\n3)    Received labeled with the patient's name and \"right common iliac\".  Received is a 3 x\n      1.3 x 0.9 cm portion of yellow gold to pink tan lobulated adipose tissue.  Dissected\n      for possible lymph nodes.  Two possible lymph nodes identified, ranging from 1.5 to\n      2.1 cm in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 3A:      One lymph node bisected.\n            Cassette 3B:      One lymph node bisected.\n\n4)    Received labeled with the patient's name and \"right external iliac\".  Received is a\n      4.7 x 1.6 x 1 cm portion of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 0.9 to 3.5\n      cm in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 4A:      Two possible lymph nodes.\n            Cassette 4B,4C:   One lymph node bisected.\n\n5)    Received labeled with the patient's name and \"right obturator\".  Received is a 4.7 x\n      3.5 x 1.4 cm aggregate of yellow gold with lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n            CASSETTE SUMMARY:\n            Cassette 5A:      One lymph node bisected.\n            Cassette 5B:      One lymph node bisected.\n            Cassette 5C:      One lymph node bisected.\n\n                                    ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9870318191075743,
+            "mean_log_probability": -0.025131998477929986,
+            "perplexity": 1.025450469492469,
+            "min_probability": 0.06156399968383373
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 658,
+            "total_tokens": 3130
+          },
+          "composite_score": 0.980387307378761,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.628124952316284,
+          "chars": 2536,
+          "words": 341,
+          "text": "SPEC #:\n                                                                                     (Continued) Page: 4.\n\nGROSS DESCRIPTION:\n1)  Received labeled with the patient's name and \"left para-aortic\".  Received is a 2.5 x\n    1.7 x 1.5 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n    possible lymph nodes.  Four possible lymph nodes identified, ranging from 1 to 1.5 cm\n    in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 1A:      Three possible lymph nodes.\n        Cassette 1B:      One lymph node bisected.\n\n2)  Received labeled with the patient's name and \"right para-aortic\".  Received is a 3.5 x\n    4 x 2 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n    possible lymph nodes.  Five possible lymph nodes identified, ranging from 1.5 to 3 cm\n    in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 2A:      Three possible lymph nodes.\n        Cassette 2B:      One lymph node bisected.\n        Cassette 2C:      One lymph node bisected.\n\n3)  Received labeled with the patient's name and \"right common iliac\".  Received is a 3 x\n    1.3 x 0.9 cm portion of yellow gold to pink tan lobulated adipose tissue.  Dissected\n    for possible lymph nodes.  Two possible lymph nodes identified, ranging from 1.5 to\n    2.1 cm in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 3A:      One lymph node bisected.\n        Cassette 3B:      One lymph node bisected.\n\n4)  Received labeled with the patient's name and \"right external iliac\".  Received is a\n    4.7 x 1.6 x 1 cm portion of yellow gold lobulated adipose tissue.  Dissected for\n    possible lymph nodes.  Three possible lymph nodes identified, ranging from 0.9 to 3.5\n    cm in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 4A:      Two possible lymph nodes.\n        Cassette 4B,4C:   One lymph node bisected.\n\n5)  Received labeled with the patient's name and \"right obturator\".  Received is a 4.7 x\n    3.5 x 1.4 cm aggregate of yellow gold with lobulated adipose tissue.  Dissected for\n    possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n    in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 5A:      One lymph node bisected.\n        Cassette 5B:      One lymph node bisected.\n        Cassette 5C:      One lymph node bisected.\n\n                             ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9864441747257908,
+            "mean_log_probability": -0.027505450381679387,
+            "perplexity": 1.0278872174696436,
+            "min_probability": 0.04967447794552921
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 656,
+            "total_tokens": 3128
+          },
+          "composite_score": 0.6507588107220084
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.72013211250305,
+          "chars": 2698,
+          "words": 343,
+          "text": "```\nSPEC #:\n                                                                                 (Continued) Page: 4.\n\nGROSS DESCRIPTION:\n1)    Received labeled with the patient's name and \"left para-aortic\".  Received is a 2.5 x\n      1.7 x 1.5 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Four possible lymph nodes identified, ranging from 1 to 1.5 cm\n      in greatest dimension.  Submitted as follows:\n\n           CASSETTE SUMMARY:\n           Cassette 1A:           Three possible lymph nodes.\n           Cassette 1B:           One lymph node bisected.\n\n2)    Received labeled with the patient's name and \"right para-aortic\".  Received is a 3.5 x\n      4 x 2 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n      possible lymph nodes.  Five possible lymph nodes identified, ranging from 1.5 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n           CASSETTE SUMMARY:\n           Cassette 2A:           Three possible lymph nodes.\n           Cassette 2B:           One lymph node bisected.\n           Cassette 2C:           One lymph node bisected.\n\n3)    Received labeled with the patient's name and \"right common iliac\".  Received is a 3 x\n      1.3 x 0.9 cm portion of yellow gold to pink tan lobulated adipose tissue.  Dissected\n      for possible lymph nodes.  Two possible lymph nodes identified, ranging from 1.5 to\n      2.1 cm in greatest dimension.  Submitted as follows:\n\n           CASSETTE SUMMARY:\n           Cassette 3A:           One lymph node bisected.\n           Cassette 3B:           One lymph node bisected.\n\n4)    Received labeled with the patient's name and \"right external iliac\".  Received is a\n      4.7 x 1.6 x 1 cm portion of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 0.9 to 3.5\n      cm in greatest dimension.  Submitted as follows:\n\n           CASSETTE SUMMARY:\n           Cassette 4A:           Two possible lymph nodes.\n           Cassette 4B,4C:        One lymph node bisected.\n\n5)    Received labeled with the patient's name and \"right obturator\".  Received is a 4.7 x\n      3.5 x 1.4 cm aggregate of yellow gold with lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n           CASSETTE SUMMARY:\n           Cassette 5A:           One lymph node bisected.\n           Cassette 5B:           One lymph node bisected.\n           Cassette 5C:           One lymph node bisected.\n\n                                    ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9856938227906575,
+            "mean_log_probability": -0.0290021094224924,
+            "perplexity": 1.029426765968815,
+            "min_probability": 0.05259622131167723
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 659,
+            "total_tokens": 3131
+          },
+          "composite_score": 0.928579632675909
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 28.917407512664795,
+        "chars": 3417,
+        "words": 495,
+        "text": "```\nSPEC #:\n                                                                                      (Continued) Page: 5\n\nGROSS DESCRIPTION: (continued)\n\n6)      Received labeled with the patient's name and \"left obturator\".  Received is a 4.2 x\n        2.5 x 1.5 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n        possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n        in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 6A:          Two possible lymph nodes.\n        Cassette 6B:          One lymph node bisected.\n\n7)      Received labeled with the patient's name and \"left external iliac\".  Received is a 4.5\n        x 3.5 x 1.6 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n        possible lymph nodes.  No lymph nodes are grossly identifiable.  Specimen is\n        representatively submitted in cassettes 7A-7C.\n\n8)      Received labeled with the patient's name and \"left common iliac\".  Received is a 3 x\n        2.5 x 1 cm aggregate of yellow gold hemorrhagic tissue fragments.  Two possible lymph\n        nodes identified, ranging from 1 to 2 cm in greatest dimension.\n\n        CASSETTE SUMMARY:\n        Cassette 8A:          One lymph node bisected.\n        Cassette 8B:          One lymph node bisected.\n\n9)      Received fresh, labeled with the patient's name, number and \"uterus, cervix, bilateral\n        tubes and ovaries\", is a hysterectomy and bilateral salpingo-oophorectomy specimen\n        consisting of uterus (10.0 x 7.5 x 6.5 cm), right ovary (4.0 x 3.0 x 1.5 cm), right\n        fallopian tube which appears to be previously ligated and measures 2.2 cm in length\n        and 0.5 cm in diameter at the proximal end and 2.5 cm in length and 0.5 cm in diameter\n        at the distal end, left ovary (3.0 x 1.8 x 1.5 cm), and left fallopian tube which\n        appears to be previously ligated and measures 2.5 cm in length and 0.5 cm in diameter\n        at the proximal end and 2.2 cm in length and 0.7 cm in diameter at the distal end.\n\n        The uterus is abnormally enlarged with multiple nodules ranging from 1.5 cm to 5.5 cm\n        in maximum dimension and the serosal surface of the uterus has an irregular contour\n        with red-tan focally hemorrhagic surface.  The ectocervix is flattened, pink-tan with\n        an external os measuring 1.8 cm.  Upon opening the specimen the endocervical canal is\n        3.0 cm, irregular, pink-tan and otherwise unremarkable.  There is a 3.8 x 1.8 x 0.8 cm\n        pink-tan polypoid lesion in the endometrial cavity attached to the anterior\n        endometrium.  The endometrial cavity is 6.0 x 2.5 cm, focally hemorrhagic and\n        approximately 40% of the lumen is occupied by the tumor.  The posterior endomyometrium\n        is mostly free of tumor and is pink-tan with focal hemorrhages.  The tumor grossly\n        does not extend to the endocervical canal and is 4.5 cm away from the external os\n        anteriorly.  The myometrium is white-tan to pink and measures 1.5 cm to 2.5 cm in\n        thickness.  Upon sectioning the posterior myometrium has a white-tan whorled\n        leiomyoma, 5.5 x 5.0 x 4.8 cm.  The anterior myometrium shows the tumor invading\n        approximately 0.8 cm at the area of 2.5 cm myometrial thickness.  There is a 1.0 x 0.9\n\n                        ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9909399313840388,
+          "mean_log_probability": -0.016210015167930664,
+          "perplexity": 1.0163421102530426,
+          "min_probability": 0.09725557224266171
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 924,
+          "total_tokens": 3396
+        },
+        "composite_score": 0.9872388463597248,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 28.917407512664795,
+          "chars": 3417,
+          "words": 495,
+          "text": "```\nSPEC #:\n                                                                                      (Continued) Page: 5\n\nGROSS DESCRIPTION: (continued)\n\n6)      Received labeled with the patient's name and \"left obturator\".  Received is a 4.2 x\n        2.5 x 1.5 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n        possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n        in greatest dimension.  Submitted as follows:\n\n        CASSETTE SUMMARY:\n        Cassette 6A:          Two possible lymph nodes.\n        Cassette 6B:          One lymph node bisected.\n\n7)      Received labeled with the patient's name and \"left external iliac\".  Received is a 4.5\n        x 3.5 x 1.6 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n        possible lymph nodes.  No lymph nodes are grossly identifiable.  Specimen is\n        representatively submitted in cassettes 7A-7C.\n\n8)      Received labeled with the patient's name and \"left common iliac\".  Received is a 3 x\n        2.5 x 1 cm aggregate of yellow gold hemorrhagic tissue fragments.  Two possible lymph\n        nodes identified, ranging from 1 to 2 cm in greatest dimension.\n\n        CASSETTE SUMMARY:\n        Cassette 8A:          One lymph node bisected.\n        Cassette 8B:          One lymph node bisected.\n\n9)      Received fresh, labeled with the patient's name, number and \"uterus, cervix, bilateral\n        tubes and ovaries\", is a hysterectomy and bilateral salpingo-oophorectomy specimen\n        consisting of uterus (10.0 x 7.5 x 6.5 cm), right ovary (4.0 x 3.0 x 1.5 cm), right\n        fallopian tube which appears to be previously ligated and measures 2.2 cm in length\n        and 0.5 cm in diameter at the proximal end and 2.5 cm in length and 0.5 cm in diameter\n        at the distal end, left ovary (3.0 x 1.8 x 1.5 cm), and left fallopian tube which\n        appears to be previously ligated and measures 2.5 cm in length and 0.5 cm in diameter\n        at the proximal end and 2.2 cm in length and 0.7 cm in diameter at the distal end.\n\n        The uterus is abnormally enlarged with multiple nodules ranging from 1.5 cm to 5.5 cm\n        in maximum dimension and the serosal surface of the uterus has an irregular contour\n        with red-tan focally hemorrhagic surface.  The ectocervix is flattened, pink-tan with\n        an external os measuring 1.8 cm.  Upon opening the specimen the endocervical canal is\n        3.0 cm, irregular, pink-tan and otherwise unremarkable.  There is a 3.8 x 1.8 x 0.8 cm\n        pink-tan polypoid lesion in the endometrial cavity attached to the anterior\n        endometrium.  The endometrial cavity is 6.0 x 2.5 cm, focally hemorrhagic and\n        approximately 40% of the lumen is occupied by the tumor.  The posterior endomyometrium\n        is mostly free of tumor and is pink-tan with focal hemorrhages.  The tumor grossly\n        does not extend to the endocervical canal and is 4.5 cm away from the external os\n        anteriorly.  The myometrium is white-tan to pink and measures 1.5 cm to 2.5 cm in\n        thickness.  Upon sectioning the posterior myometrium has a white-tan whorled\n        leiomyoma, 5.5 x 5.0 x 4.8 cm.  The anterior myometrium shows the tumor invading\n        approximately 0.8 cm at the area of 2.5 cm myometrial thickness.  There is a 1.0 x 0.9\n\n                        ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9909399313840388,
+            "mean_log_probability": -0.016210015167930664,
+            "perplexity": 1.0163421102530426,
+            "min_probability": 0.09725557224266171
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 924,
+            "total_tokens": 3396
+          },
+          "composite_score": 0.9872388463597248,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 38.0618622303009,
+          "chars": 3341,
+          "words": 495,
+          "text": "```\nSPEC #:\n                                                                                     (Continued) Page: 5\n\nGROSS DESCRIPTION: (continued)\n\n6)    Received labeled with the patient's name and \"left obturator\".  Received is a 4.2 x\n      2.5 x 1.5 cm aggregate of yellow gold hemorrhagic fibroadipose tissue.  Dissected for\n      possible lymph nodes.  Three possible lymph nodes identified, ranging from 1 to 3 cm\n      in greatest dimension.  Submitted as follows:\n\n      CASSETTE SUMMARY:\n      Cassette 6A:          Two possible lymph nodes.\n      Cassette 6B:          One lymph node bisected.\n\n7)    Received labeled with the patient's name and \"left external iliac\".  Received is a 4.5\n      x 3.5 x 1.6 cm aggregate of yellow gold lobulated adipose tissue.  Dissected for\n      possible lymph nodes.  No lymph nodes are grossly identifiable.  Specimen is\n      representatively submitted in cassettes 7A-7C.\n\n8)    Received labeled with the patient's name and \"left common iliac\".  Received is a 3 x\n      2.5 x 1 cm aggregate of yellow gold hemorrhagic tissue fragments.  Two possible lymph\n      nodes identified, ranging from 1 to 2 cm in greatest dimension.\n\n      CASSETTE SUMMARY:\n      Cassette 8A:          One lymph node bisected.\n      Cassette 8B:          One lymph node bisected.\n\n9)    Received fresh, labeled with the patient's name, number and \"uterus, cervix, bilateral\n      tubes and ovaries\", is a hysterectomy and bilateral salpingo-oophorectomy specimen\n      consisting of uterus (10.0 x 7.5 x 6.5 cm), right ovary (4.0 x 3.0 x 1.5 cm), right\n      fallopian tube which appears to be previously ligated and measures 2.2 cm in length\n      and 0.5 cm in diameter at the proximal end and 2.5 cm in length and 0.5 cm in diameter\n      at the distal end, left ovary (3.0 x 1.8 x 1.5 cm), and left fallopian tube which\n      appears to be previously ligated and measures 2.5 cm in length and 0.5 cm in diameter\n      at the proximal end and 2.2 cm in length and 0.7 cm in diameter at the distal end.\n\n      The uterus is abnormally enlarged with multiple nodules ranging from 1.5 cm to 5.5 cm\n      in maximum dimension and the serosal surface of the uterus has an irregular contour\n      with red-tan focally hemorrhagic surface.  The ectocervix is flattened, pink-tan with\n      an external os measuring 1.8 cm.  Upon opening the specimen the endocervical canal is\n      3.0 cm, irregular, pink-tan and otherwise unremarkable.  There is a 3.8 x 1.8 x 0.8 cm\n      pink-tan polypoid lesion in the endometrial cavity attached to the anterior\n      endometrium.  The endometrial cavity is 6.0 x 2.5 cm, focally hemorrhagic and\n      approximately 40% of the lumen is occupied by the tumor.  The posterior endomyometrium\n      is mostly free of tumor and is pink-tan with focal hemorrhages.  The tumor grossly\n      does not extend to the endocervical canal and is 4.5 cm away from the external os\n      anteriorly.  The myometrium is white-tan to pink and measures 1.5 cm to 2.5 cm in\n      thickness.  Upon sectioning the posterior myometrium has a white-tan whorled\n      leiomyoma, 5.5 x 5.0 x 4.8 cm.  The anterior myometrium shows the tumor invading\n      approximately 0.8 cm at the area of 2.5 cm myometrial thickness.  There is a 1.0 x 0.9\n\n                           ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9904691525751425,
+            "mean_log_probability": -0.01761967388949079,
+            "perplexity": 1.0177758160533783,
+            "min_probability": 0.045573904318044485
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 924,
+            "total_tokens": 3396
+          },
+          "composite_score": 0.6557886347427014
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.767205238342285,
+          "chars": 3107,
+          "words": 493,
+          "text": "SPEC #:  (Continued) Page: 5\n\n\nGROSS DESCRIPTION: (continued)\n\n6) Received labeled with the patient's name and \"left obturator\". Received is a 4.2 x \n   2.5 x 1.5 cm aggregate of yellow gold hemorrhagic fibroadipose tissue. Dissected for \n   possible lymph nodes. Three possible lymph nodes identified, ranging from 1 to 3 cm \n   in greatest dimension. Submitted as follows:\n\n   CASSETTE SUMMARY:\n   Cassette 6A:          Two possible lymph nodes.\n   Cassette 6B:          One lymph node bisected.\n\n7) Received labeled with the patient's name and \"left external iliac\". Received is a 4.5\n   x 3.5 x 1.6 cm aggregate of yellow gold lobulated adipose tissue. Dissected for\n   possible lymph nodes. No lymph nodes are grossly identifiable. Specimen is\n   representatively submitted in cassettes 7A-7C.\n\n8) Received labeled with the patient's name and \"left common iliac\". Received is a 3 x\n   2.5 x 1 cm aggregate of yellow gold hemorrhagic tissue fragments. Two possible lymph\n   nodes identified, ranging from 1 to 2 cm in greatest dimension.\n\n   CASSETTE SUMMARY:\n   Cassette 8A:          One lymph node bisected.\n   Cassette 8B:          One lymph node bisected.\n\n9) Received fresh, labeled with the patient's name, number and \"uterus, cervix, bilateral\n   tubes and ovaries\", is a hysterectomy and bilateral salpingo-oophorectomy specimen\n   consisting of uterus (10.0 x 7.5 x 6.5 cm), right ovary (4.0 x 3.0 x 1.5 cm), right\n   fallopian tube which appears to be previously ligated and measures 2.2 cm in length\n   and 0.5 cm in diameter at the proximal end and 2.5 cm in length and 0.5 cm in diameter\n   at the distal end, left ovary (3.0 x 1.8 x 1.5 cm), and left fallopian tube which\n   appears to be previously ligated and measures 2.5 cm in length and 0.5 cm in diameter\n   at the proximal end and 2.2 cm in length and 0.7 cm in diameter at the distal end.\n\n   The uterus is abnormally enlarged with multiple nodules ranging from 1.5 cm to 5.5 cm\n   in maximum dimension and the serosal surface of the uterus has an irregular contour\n   with red-tan focally hemorrhagic surface. The ectocervix is flattened, pink-tan with\n   an external os measuring 1.8 cm. Upon opening the specimen the endocervical canal is\n   3.0 cm, irregular, pink-tan and otherwise unremarkable. There is a 3.8 x 1.8 x 0.8 cm\n   pink-tan polypoid lesion in the endometrial cavity attached to the anterior\n   endometrium. The endometrial cavity is 6.0 x 2.5 cm, focally hemorrhagic and\n   approximately 40% of the lumen is occupied by the tumor. The posterior endomyometrium\n   is mostly free of tumor and is pink-tan with focal hemorrhages. The tumor grossly\n   does not extend to the endocervical canal and is 4.5 cm away from the external os\n   anteriorly. The myometrium is white-tan to pink and measures 1.5 cm to 2.5 cm in\n   thickness. Upon sectioning the posterior myometrium has a white-tan whorled\n   leiomyoma, 5.5 x 5.0 x 4.8 cm. The anterior myometrium shows the tumor invading\n   approximately 0.8 cm at the area of 2.5 cm myometrial thickness. There is a 1.0 x 0.9\n\n                  ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9869370059308107,
+            "mean_log_probability": -0.021897636465324385,
+            "perplexity": 1.022139149338862,
+            "min_probability": 0.10409961518061363
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 895,
+            "total_tokens": 3367
+          },
+          "composite_score": 0.9337144121683156
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.767548561096191,
+        "chars": 1752,
+        "words": 218,
+        "text": "```\n                                                                                      (Continued) Page: 6\n\nGROSS DESCRIPTION: (continued)\n     x 0.5 cm yellow-tan fleshy polypoid mass in the posterior endometrial cavity, located\nat the superior margin which upon sectioning does not appear to involve the\nmyometrium.\n\nThe external surface of the right ovary is pink-tan, cerebriform and unremarkable.\nThe right fallopian tube is previously ligated, however unremarkable. The external\nsurface of the left ovary is pink-tan, cerebriform with a 2.0 x 1.0 x 0.5 cm firm\npolypoid lesion extending from the lateral surface. Upon sectioning the ovarian\nstroma is white-tan, homogeneous and unremarkable with the polyp showing yellow-tan\ngelatinous material. Specimen is representatively sectioned and submitted as follows.\n\nThe specimen is a part of research and accordingly normal tissue and tumor were\nsubmitted for research.\n\nCASSETTE SUMMARY:\nCassette 9B:       Right ovary and fallopian tube.\nCassette 9C:       Left ovary.\nCassette 9D:       Polypoid extension from the left ovarian surface and left\n                   fallopian tube.\nCassette 9E:       Anterior ectocervix.\nCassette 9G:       Anterior lower uterine segment.\nCassette 9H,9J:    Representative section of the anterior endomyometrium with tumor\n                   (at the level of maximum invasion).\nCassette 9K:       Posterior cervix.\nCassette 9L:       Posterior lower uterine segment.\nCassette 9M:       Posterior endomyometrium.\nCassette 9N:       Posterior endomyometrium with polypoid lesion.\nCassette 9P,9Q:    Representative sections of the largest leiomyoma.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nUndefined Provider\n\n\n                         ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9796699383300013,
+          "mean_log_probability": -0.03635292235294118,
+          "perplexity": 1.0370217700789663,
+          "min_probability": 0.08663451380741863
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 426,
+          "total_tokens": 2898
+        },
+        "composite_score": 0.9471378049165681,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.767548561096191,
+          "chars": 1752,
+          "words": 218,
+          "text": "```\n                                                                                      (Continued) Page: 6\n\nGROSS DESCRIPTION: (continued)\n     x 0.5 cm yellow-tan fleshy polypoid mass in the posterior endometrial cavity, located\nat the superior margin which upon sectioning does not appear to involve the\nmyometrium.\n\nThe external surface of the right ovary is pink-tan, cerebriform and unremarkable.\nThe right fallopian tube is previously ligated, however unremarkable. The external\nsurface of the left ovary is pink-tan, cerebriform with a 2.0 x 1.0 x 0.5 cm firm\npolypoid lesion extending from the lateral surface. Upon sectioning the ovarian\nstroma is white-tan, homogeneous and unremarkable with the polyp showing yellow-tan\ngelatinous material. Specimen is representatively sectioned and submitted as follows.\n\nThe specimen is a part of research and accordingly normal tissue and tumor were\nsubmitted for research.\n\nCASSETTE SUMMARY:\nCassette 9B:       Right ovary and fallopian tube.\nCassette 9C:       Left ovary.\nCassette 9D:       Polypoid extension from the left ovarian surface and left\n                   fallopian tube.\nCassette 9E:       Anterior ectocervix.\nCassette 9G:       Anterior lower uterine segment.\nCassette 9H,9J:    Representative section of the anterior endomyometrium with tumor\n                   (at the level of maximum invasion).\nCassette 9K:       Posterior cervix.\nCassette 9L:       Posterior lower uterine segment.\nCassette 9M:       Posterior endomyometrium.\nCassette 9N:       Posterior endomyometrium with polypoid lesion.\nCassette 9P,9Q:    Representative sections of the largest leiomyoma.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nUndefined Provider\n\n\n                         ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9796699383300013,
+            "mean_log_probability": -0.03635292235294118,
+            "perplexity": 1.0370217700789663,
+            "min_probability": 0.08663451380741863
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 426,
+            "total_tokens": 2898
+          },
+          "composite_score": 0.9471378049165681,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.650695562362671,
+          "chars": 1763,
+          "words": 218,
+          "text": "```\n                                                                                      (Continued) Page: 6\n\nGROSS DESCRIPTION: (continued)\n  x 0.5 cm yellow-tan fleshy polypoid mass in the posterior endometrial cavity, located\nat the superior margin which upon sectioning does not appear to involve the\nmyometrium.\n\nThe external surface of the right ovary is pink-tan, cerebriform and unremarkable.\nThe right fallopian tube is previously ligated, however unremarkable. The external\nsurface of the left ovary is pink-tan, cerebriform with a 2.0 x 1.0 x 0.5 cm firm\npolypoid lesion extending from the lateral surface. Upon sectioning the ovarian\nstroma is white-tan, homogeneous and unremarkable with the polyp showing yellow-tan\ngelatinous material. Specimen is representatively sectioned and submitted as follows.\n\nThe specimen is a part of research and accordingly normal tissue and tumor were\nsubmitted for research.\n\nCASSETTE SUMMARY:\nCassette 9B:        Right ovary and fallopian tube.\nCassette 9C:        Left ovary.\nCassette 9D:        Polypoid extension from the left ovarian surface and left\n                     fallopian tube.\nCassette 9E:        Anterior ectocervix.\nCassette 9G:        Anterior lower uterine segment.\nCassette 9H,9J:     Representative section of the anterior endomyometrium with tumor\n                     (at the level of maximum invasion).\nCassette 9K:        Posterior cervix.\nCassette 9L:        Posterior lower uterine segment.\nCassette 9M:        Posterior endomyometrium.\nCassette 9N:        Posterior endomyometrium with polypoid lesion.\nCassette 9P,9Q:     Representative sections of the largest leiomyoma.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nUndefined Provider\n\n\n                        ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9813162426785617,
+            "mean_log_probability": -0.03498755058823529,
+            "perplexity": 1.0356068160236906,
+            "min_probability": 0.0794049952690127
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 426,
+            "total_tokens": 2898
+          },
+          "composite_score": 0.901793349475367
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.46365761756897,
+          "chars": 1593,
+          "words": 218,
+          "text": "```\n(Continued) Page: 6\n\nGROSS DESCRIPTION: (continued)\n    x 0.5 cm yellow-tan fleshy polypoid mass in the posterior endometrial cavity, located\nat the superior margin which upon sectioning does not appear to involve the\nmyometrium.\n\nThe external surface of the right ovary is pink-tan, cerebriform and unremarkable.\nThe right fallopian tube is previously ligated, however unremarkable. The external\nsurface of the left ovary is pink-tan, cerebriform with a 2.0 x 1.0 x 0.5 cm firm\npolypoid lesion extending from the lateral surface. Upon sectioning the ovarian\nstroma is white-tan, homogeneous and unremarkable with the polyp showing yellow-tan\ngelatinous material. Specimen is representatively sectioned and submitted as follows.\n\nThe specimen is a part of research and accordingly normal tissue and tumor were\nsubmitted for research.\n\nCASSETTE SUMMARY:\nCassette 9B: Right ovary and fallopian tube.\nCassette 9C: Left ovary.\nCassette 9D: Polypoid extension from the left ovarian surface and left\n            fallopian tube.\nCassette 9E: Anterior ectocervix.\nCassette 9G: Anterior lower uterine segment.\nCassette 9H,9J: Representative section of the anterior endomyometrium with tumor\n                 (at the level of maximum invasion).\nCassette 9K: Posterior cervix.\nCassette 9L: Posterior lower uterine segment.\nCassette 9M: Posterior endomyometrium.\nCassette 9N: Posterior endomyometrium with polypoid lesion.\nCassette 9P,9Q: Representative sections of the largest leiomyoma.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nUndefined Provider\n\n\n                      ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.97995107523844,
+            "mean_log_probability": -0.03405722815533981,
+            "perplexity": 1.0346438157909004,
+            "min_probability": 0.08185474540481116
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 413,
+            "total_tokens": 2885
+          },
+          "composite_score": 0.8863039933078154
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 7,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 2.4350132942199707,
+        "chars": 358,
+        "words": 35,
+        "text": "```\nSPEC #:                                                                                      (Continued) Page: 7\n\n\nCPT Codes:\nLYMPH NODE, REGIONAL RESECT/                  SOFT TISSUE, LIPOMA/ADIPOSE (1)\nUTERUS W/WO ADNEXAE, NOT TUMOR OR PROLAPSE·\n\nICD9 Codes:\n\nElectronically Signed by: _______________\n\n\n                         ** END OF REPORT **\n```",
+        "confidence": {
+          "mean_probability": 0.889518920699101,
+          "mean_log_probability": -0.21427255056179778,
+          "perplexity": 1.2389602881028556,
+          "min_probability": 0.045460975607423355
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 90,
+          "total_tokens": 2562
+        },
+        "composite_score": 0.48624147012456914,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Low composite quality score: 0.486 (threshold: 0.5)",
+          "Very uncertain tokens: min_prob=0.0455 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.486 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0455 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 2.4350132942199707,
+          "chars": 358,
+          "words": 35,
+          "text": "```\nSPEC #:                                                                                      (Continued) Page: 7\n\n\nCPT Codes:\nLYMPH NODE, REGIONAL RESECT/                  SOFT TISSUE, LIPOMA/ADIPOSE (1)\nUTERUS W/WO ADNEXAE, NOT TUMOR OR PROLAPSE·\n\nICD9 Codes:\n\nElectronically Signed by: _______________\n\n\n                         ** END OF REPORT **\n```",
+          "confidence": {
+            "mean_probability": 0.889518920699101,
+            "mean_log_probability": -0.21427255056179778,
+            "perplexity": 1.2389602881028556,
+            "min_probability": 0.045460975607423355
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 90,
+            "total_tokens": 2562
+          },
+          "composite_score": 0.48624147012456914,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Low composite quality score: 0.486 (threshold: 0.5)",
+            "Very uncertain tokens: min_prob=0.0455 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.486 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0455 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.5289576053619385,
+          "chars": 365,
+          "words": 35,
+          "text": "```\nSPEC #:                                                                                          (Continued) Page: 7\n\n\nCPT Codes:\nLYMPH NODE, REGIONAL RESECT/                        SOFT TISSUE, LIPOMA/ADIPOSE (1)\nUTERUS W/WO ADNEXAE, NOT TUMOR OR PROLAPSE·\n\nICD9 Codes:\n\nElectronically Signed by: ________________\n\n\n                     ** END OF REPORT **\n```",
+          "confidence": {
+            "mean_probability": 0.8907481707906437,
+            "mean_log_probability": -0.22952502247191012,
+            "perplexity": 1.258002345157812,
+            "min_probability": 0.04721734382338487
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 90,
+            "total_tokens": 2562
+          },
+          "composite_score": 0.4569599120304079
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.250241994857788,
+          "chars": 305,
+          "words": 33,
+          "text": "SPEC #:                              (Continued) Page: 7\n\n\nCPT Codes:\nLYMPH NODE, REGIONAL RESECT/                   SOFT TISSUE, LIPOMA/ADIPOSE (1)\nUTERUS W/WO ADNEXAE, NOT TUMOR OR PROLAPSE·\n\n\nICD9 Codes:\n\n\n\n\nElectronically Signed by: ___________________________\n\n\n                   ** END OF REPORT **",
+          "confidence": {
+            "mean_probability": 0.8955613546799934,
+            "mean_log_probability": -0.21858708139534888,
+            "perplexity": 1.2443173688021005,
+            "min_probability": 0.021853547798073664
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 87,
+            "total_tokens": 2559
+          },
+          "composite_score": 0.4568536799527949
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

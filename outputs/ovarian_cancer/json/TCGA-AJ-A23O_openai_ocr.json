@@ -1,0 +1,281 @@
+{
+  "pdf": "reports\\TCGA-AJ-A23O\\TCGA-AJ-A23O.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 19.717774391174316,
+        "chars": 2314,
+        "words": 329,
+        "text": "1CS-0-3\nCarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1  4/19/11\n\n\n☑ Surgical Pathology\nDEPARTMENT OF PATHOLOGY\nPATIENT: ████████████████████████████████  SPECIMEN: ████████████████████████████████\nBIRTHDATE: ████████████████  AGE: Y  SEX: F\nMRN: ████████████████████████████████  Rm #: ████  PHYSICIAN: ████████████████████████████████\nPROCEDURE DATE:  4/19/11  RECEIVED DATE:  REPORT DATE:  4/19/11\nCOPY TO:\nPre-Op Diagnosis\nEndometrial cancer\nPost-Op Diagnosis\nSame\nClinical History\nNothing indicated on requisition\nGross Description:\nFour parts\nContainer labeled \"███████████████ 1 - left pelvic lymph nodes\" are\n6.0 x 4.8 x 2.6 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.0 cm in greatest dimension. On sectioning\nthe largest nodule is a grossly fat cut surface. The individual\nnodules are bisected and submitted labeled \"A through C\" while whole\nsmaller nodules are submitted labeled \"D.\"\nContainer labeled \"███████████████ 2 - right pelvic lymph nodes\" are\n5.0 x 4.0 x 1.7 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.3 cm. On sectioning the largest nodule has\na fleshy and fatty cut surface. The individual nodules are bisected\nand submitted labeled \"A and D\" while whole smaller nodules are\nsubmitted labeled \"C.\"\nContainer labeled \"███████████████ 3 - uterus, cervix, bilateral tubes\nand ovaries\" is a previously anteriorly opened moderately distorted\nuterus with attached cervix and bilateral adnexa. The uterus and\ncervix together weigh 65 grams and on reconstruction measure\napproximately 8.0 x 5.5 x 4.0 cm. The cervix has a wrinkled gray\ntan ectocervical mucosa. The os is patent. The uterine canal\nsounds to a depth of approximately 6.7 cm. The endocervical canal\nis lined by trabeculated gray tan mucosa. The uterine serosa is\nsmooth and tan brown. The myometrium is up to 1.6 cm and is tan\n\n\nUUID:4D477218-A4D1-4940-AEF5-D8F46931594C  Redacted\nTCGA-A3-A230-01A-PR\n\n\nCrite.ia  Yes  No\nDiagnosis Discrepancy  X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy  X\nPtilv Malignancy History  X\nDuj/Synchronou Pri.a?  Noted\nCjrcle(s)  QUALIFIED  DISQUALIFIED\nDate Reviewed:  4/19/11",
+        "confidence": {
+          "mean_probability": 0.9372369371955735,
+          "mean_log_probability": -0.09713459495548961,
+          "perplexity": 1.1020086884499438,
+          "min_probability": 0.057258281041217024
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 717,
+          "total_tokens": 3189
+        },
+        "composite_score": 0.8827135499093738,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 60.1% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 60.1% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 170.70280957221985,
+          "chars": 8203,
+          "words": 9,
+          "text": "```\n☑ Surgical Pathology\n                                DEPARTMENT OF PATHOLOGY\nPATIENT: █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+          "confidence": {
+            "mean_probability": 0.9904882030282365,
+            "mean_log_probability": -0.0123717343444227,
+            "perplexity": 1.012448580830878,
+            "min_probability": 0.04329219128825618
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.4158938968772988
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.717774391174316,
+          "chars": 2314,
+          "words": 329,
+          "text": "1CS-0-3\nCarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1  4/19/11\n\n\n☑ Surgical Pathology\nDEPARTMENT OF PATHOLOGY\nPATIENT: ████████████████████████████████  SPECIMEN: ████████████████████████████████\nBIRTHDATE: ████████████████  AGE: Y  SEX: F\nMRN: ████████████████████████████████  Rm #: ████  PHYSICIAN: ████████████████████████████████\nPROCEDURE DATE:  4/19/11  RECEIVED DATE:  REPORT DATE:  4/19/11\nCOPY TO:\nPre-Op Diagnosis\nEndometrial cancer\nPost-Op Diagnosis\nSame\nClinical History\nNothing indicated on requisition\nGross Description:\nFour parts\nContainer labeled \"███████████████ 1 - left pelvic lymph nodes\" are\n6.0 x 4.8 x 2.6 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.0 cm in greatest dimension. On sectioning\nthe largest nodule is a grossly fat cut surface. The individual\nnodules are bisected and submitted labeled \"A through C\" while whole\nsmaller nodules are submitted labeled \"D.\"\nContainer labeled \"███████████████ 2 - right pelvic lymph nodes\" are\n5.0 x 4.0 x 1.7 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.3 cm. On sectioning the largest nodule has\na fleshy and fatty cut surface. The individual nodules are bisected\nand submitted labeled \"A and D\" while whole smaller nodules are\nsubmitted labeled \"C.\"\nContainer labeled \"███████████████ 3 - uterus, cervix, bilateral tubes\nand ovaries\" is a previously anteriorly opened moderately distorted\nuterus with attached cervix and bilateral adnexa. The uterus and\ncervix together weigh 65 grams and on reconstruction measure\napproximately 8.0 x 5.5 x 4.0 cm. The cervix has a wrinkled gray\ntan ectocervical mucosa. The os is patent. The uterine canal\nsounds to a depth of approximately 6.7 cm. The endocervical canal\nis lined by trabeculated gray tan mucosa. The uterine serosa is\nsmooth and tan brown. The myometrium is up to 1.6 cm and is tan\n\n\nUUID:4D477218-A4D1-4940-AEF5-D8F46931594C  Redacted\nTCGA-A3-A230-01A-PR\n\n\nCrite.ia  Yes  No\nDiagnosis Discrepancy  X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy  X\nPtilv Malignancy History  X\nDuj/Synchronou Pri.a?  Noted\nCjrcle(s)  QUALIFIED  DISQUALIFIED\nDate Reviewed:  4/19/11",
+          "confidence": {
+            "mean_probability": 0.9372369371955735,
+            "mean_log_probability": -0.09713459495548961,
+            "perplexity": 1.1020086884499438,
+            "min_probability": 0.057258281041217024
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 717,
+            "total_tokens": 3189
+          },
+          "composite_score": 0.8827135499093738,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 60.1% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 60.1% - results inconsistent"
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 27.085288047790527,
+          "chars": 2800,
+          "words": 330,
+          "text": "```\n☑ Surgical Pathology\n\n                           DEPARTMENT OF PATHOLOGY\nPATIENT: ████████████████████████████  SPECIMEN: ████████████████\nBIRTHDATE: ████████████       AGE: Y      SEX: F\nMRN: ████████████████████            Rm #: ████       PHYSICIAN:\nPROCEDURE DATE:          RECEIVED DATE:        REPORT DATE:\n\nCOPY TO:\nPre-Op Diagnosis\nEndometrial cancer\nPost-Op Diagnosis\nSame\nClinical History\nNothing indicated on requisition\nGross Description:\nFour parts\nContainer labeled \"███████████████████ 1 - left pelvic lymph nodes\" are\n6.0 x 4.8 x 2.6 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.0 cm in greatest dimension. On sectioning\nthe largest nodule is a grossly fat cut surface. The individual\nnodules are bisected and submitted labeled \"A through C\" while whole\nsmaller nodules are submitted labeled \"D.\"\nContainer labeled \"███████████████████ 2 - right pelvic lymph nodes\" are\n5.0 x 4.0 x 1.7 cm of tan yellow fibroadipose tissue fragments which\non palpation and sectioning reveal several poorly defined tan yellow\nto brown nodules up to 3.3 cm. On sectioning the largest nodule has\na fleshy and fatty cut surface. The individual nodules are bisected\nand submitted labeled \"A and D\" while whole smaller nodules are\nsubmitted labeled \"C.\"\nContainer labeled \"███████████████████ 3 - uterus, cervix, bilateral tubes\nand ovaries\" is a previously anteriorly opened moderately distorted\nuterus with attached cervix and bilateral adnexa. The uterus and\ncervix together weigh 65 grams and on reconstruction measure\napproximately 8.0 x 5.5 x 4.0 cm. The cervix has a wrinkled gray\ntan ectocervical mucosa. The os is patent. The uterine canal\nsounds to a depth of approximately 6.7 cm. The endocervical canal\nis lined by trabeculated gray tan mucosa. The uterine serosa is\nsmooth and tan brown. The myometrium is up to 1.6 cm and is tan\n\nUUID:4D477218-A4D1-4940-AEF5-D8F46931594C                Redacted\n        TCGA-A3-A230-01A-PR\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n  ████████████████████████████████████████████████████████████████\n\nCrite.ia    Yes   No\nDiagnosis Discrepancy     X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy         X\nPtiv. Malignancy History  X\nDup/Synchronos Pri. a? Noted\nC rclel)  QUALIFIED  DISQUALIFIED\nR Date Reviewed:  /7\n```",
+          "confidence": {
+            "mean_probability": 0.9255117851423762,
+            "mean_log_probability": -0.13398763795255933,
+            "perplexity": 1.1433786850557335,
+            "min_probability": 0.026978851437352545
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 806,
+            "total_tokens": 3278
+          },
+          "composite_score": 0.6021409167039405
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 24.993834495544434,
+        "chars": 2887,
+        "words": 486,
+        "text": "Page 2 of 3\n\nbrown and fibrotic. The majority of the endometrial canal is\noccupied by friable granular gray tan to brown papilliferous lesion\noccupying an area overall 4.6 x 3.5 cm which includes both the\nanterior and posterior aspects as well as both lateral aspects in\nthe fundus. On sectioning this has a gritty gray tan fibrotic cut\nsurface grossly extending into the myometrium to within 0.3 cm of\nthe anterior serosa. In this area the lesion measures 1.8 cm in\nthickness. The lesion extends grossly to within 0.3 cm of the\nposterior serosa as well. This is seen within 0.4 cm of the fundic\nserosa and within 0.2 cm of the right lateral aspect. The small\namount of parametrial soft tissue on each side shows no nodularity\nor gross lesions.\nThe left fallopian tube is 4.6 x 0.5 x 0.5 cm. The right fallopian\ntube is 5.5 x 0.5 x 0.5 cm. Each has a smooth tan brown serosa with\na tan wall and a pinpoint lumen. The left ovary is 2.0 x 1.2 x 0.8\ncm and has a lobular gray tan outer surface with a mottled gray tan\nfibrotic cut surface. The right ovary is 2.0 x 1.0 x 0.8 cm and has\na lobular gray tan to brown outer surface with a mottled gray tan\nfibrotic cut surface having a few thin walled clear fluid filled\ncystic structures with smooth inner linings measuring up to 0.3 cm.\nAlso received in the same container are two tissue cassettes each\nlabeled \" .\" Representative sections are submitted labeled\nas follows: A - anterior cervix; B - posterior cervix; C - lower\nuterine segment and shaved posterior serosa; D and E - anterior\nendomyometrium; F and G - posterior endomyometrium; H and I - left\nlateral endomyometrium; J and K - right lateral endomyometrium; L\nand M - fundic endomyometrium; N - left parametrium; O - right\nparametrium; P - left adnexa; Q - right adnexa.\nContainer labeled \" 4 - right aortic node\" is a 3.6 x\n1.5 x 1.0 cm aggregate of tan yellow fibroadiopse tissue fragments\nwhich on palpation and sectioning reveal a few poorly defined tan\nyellow nodular regions up to 0.8 cm. The nodular tissue is\nsubmitted in a single cassette.\nMicroscopic Description:\nSlides reviewed.\nFinal Diagnosis\nLeft pelvic lymph node dissection:\nNine benign hyperplastic regional lymph nodes (0/9).\nRight pelvic lymph node dissection:\nSix benign hyperplastic regional lymph nodes (0/6).\nHysterectomy:\nTumor characteristics:\nHistologic type: Endometrioid carcinoma\nGrade: Poorly differentiated WHO Grade III.\nLocation: Uterine fundus in general.\nExtent of invasion: Tumor invades more than one-half of the\nmyometrium. Maximal thickness of myometrial invasion is 13 mm\ninto a 16 mm thick myometrium.\nExtension of tumor: Does not involve endocervix or cervical\nstroma.\nLymphovascular space invasion: Present.\nSurgical margin status:\nCervical margin: Negative.\nLeft parametrial margin: Negative.\nRight parametrial margin: Negative.\nLymph node status (utilizing all specimens submitted).",
+        "confidence": {
+          "mean_probability": 0.9895227608148703,
+          "mean_log_probability": -0.015616331193838257,
+          "perplexity": 1.0157389033048565,
+          "min_probability": 0.17667312591313186
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 780,
+          "total_tokens": 3252
+        },
+        "composite_score": 0.9876990310500569,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 24.993834495544434,
+          "chars": 2887,
+          "words": 486,
+          "text": "Page 2 of 3\n\nbrown and fibrotic. The majority of the endometrial canal is\noccupied by friable granular gray tan to brown papilliferous lesion\noccupying an area overall 4.6 x 3.5 cm which includes both the\nanterior and posterior aspects as well as both lateral aspects in\nthe fundus. On sectioning this has a gritty gray tan fibrotic cut\nsurface grossly extending into the myometrium to within 0.3 cm of\nthe anterior serosa. In this area the lesion measures 1.8 cm in\nthickness. The lesion extends grossly to within 0.3 cm of the\nposterior serosa as well. This is seen within 0.4 cm of the fundic\nserosa and within 0.2 cm of the right lateral aspect. The small\namount of parametrial soft tissue on each side shows no nodularity\nor gross lesions.\nThe left fallopian tube is 4.6 x 0.5 x 0.5 cm. The right fallopian\ntube is 5.5 x 0.5 x 0.5 cm. Each has a smooth tan brown serosa with\na tan wall and a pinpoint lumen. The left ovary is 2.0 x 1.2 x 0.8\ncm and has a lobular gray tan outer surface with a mottled gray tan\nfibrotic cut surface. The right ovary is 2.0 x 1.0 x 0.8 cm and has\na lobular gray tan to brown outer surface with a mottled gray tan\nfibrotic cut surface having a few thin walled clear fluid filled\ncystic structures with smooth inner linings measuring up to 0.3 cm.\nAlso received in the same container are two tissue cassettes each\nlabeled \" .\" Representative sections are submitted labeled\nas follows: A - anterior cervix; B - posterior cervix; C - lower\nuterine segment and shaved posterior serosa; D and E - anterior\nendomyometrium; F and G - posterior endomyometrium; H and I - left\nlateral endomyometrium; J and K - right lateral endomyometrium; L\nand M - fundic endomyometrium; N - left parametrium; O - right\nparametrium; P - left adnexa; Q - right adnexa.\nContainer labeled \" 4 - right aortic node\" is a 3.6 x\n1.5 x 1.0 cm aggregate of tan yellow fibroadiopse tissue fragments\nwhich on palpation and sectioning reveal a few poorly defined tan\nyellow nodular regions up to 0.8 cm. The nodular tissue is\nsubmitted in a single cassette.\nMicroscopic Description:\nSlides reviewed.\nFinal Diagnosis\nLeft pelvic lymph node dissection:\nNine benign hyperplastic regional lymph nodes (0/9).\nRight pelvic lymph node dissection:\nSix benign hyperplastic regional lymph nodes (0/6).\nHysterectomy:\nTumor characteristics:\nHistologic type: Endometrioid carcinoma\nGrade: Poorly differentiated WHO Grade III.\nLocation: Uterine fundus in general.\nExtent of invasion: Tumor invades more than one-half of the\nmyometrium. Maximal thickness of myometrial invasion is 13 mm\ninto a 16 mm thick myometrium.\nExtension of tumor: Does not involve endocervix or cervical\nstroma.\nLymphovascular space invasion: Present.\nSurgical margin status:\nCervical margin: Negative.\nLeft parametrial margin: Negative.\nRight parametrial margin: Negative.\nLymph node status (utilizing all specimens submitted).",
+          "confidence": {
+            "mean_probability": 0.9895227608148703,
+            "mean_log_probability": -0.015616331193838257,
+            "perplexity": 1.0157389033048565,
+            "min_probability": 0.17667312591313186
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 780,
+            "total_tokens": 3252
+          },
+          "composite_score": 0.9876990310500569,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 25.032254457473755,
+          "chars": 2888,
+          "words": 487,
+          "text": "Page 2 of 3\n\nbrown and fibrotic. The majority of the endometrial canal is\noccupied by friable granular gray tan to brown papilliferous lesion\noccupying an area overall 4.6 x 3.5 cm which includes both the\nanterior and posterior aspects as well as both lateral aspects in\nthe fundus. On sectioning this has a gritty gray tan fibrotic cut\nsurface grossly extending into the myometrium to within 0.3 cm of\nthe anterior serosa. In this area the lesion measures 1.8 cm in\nthickness. The lesion extends grossly to within 0.3 cm of the\nposterior serosa as well. This is seen within 0.4 cm of the fundic\nserosa and within 0.2 cm of the right lateral aspect. The small\namount of parametrial soft tissue on each side shows no nodularity\nor gross lesions.\nThe left fallopian tube is 4.6 x 0.5 x 0.5 cm. The right fallopian\ntube is 5.5 x 0.5 x 0.5 cm. Each has a smooth tan brown serosa with\na tan wall and a pinpoint lumen. The left ovary is 2.0 x 1.2 x 0.8\ncm and has a lobular gray tan outer surface with a mottled gray tan\nfibrotic cut surface. The right ovary is 2.0 x 1.0 x 0.8 cm and has\na lobular gray tan to brown outer surface with a mottled gray tan\nfibrotic cut surface having a few thin walled clear fluid filled\ncystic structures with smooth inner linings measuring up to 0.3 cm.\nAlso received in the same container are two tissue cassettes each\nlabeled \" . \" Representative sections are submitted labeled\nas follows: A - anterior cervix; B - posterior cervix; C - lower\nuterine segment and shaved posterior serosa; D and E - anterior\nendomyometrium; F and G - posterior endomyometrium; H and I - left\nlateral endomyometrium; J and K - right lateral endomyometrium; L\nand M - fundic endomyometrium; N - left parametrium; O - right\nparametrium; P - left adnexa; Q - right adnexa.\nContainer labeled \" 4 - right aortic node\" is a 3.6 x\n1.5 x 1.0 cm aggregate of tan yellow fibroadipose tissue fragments\nwhich on palpation and sectioning reveal a few poorly defined tan\nyellow nodular regions up to 0.8 cm. The nodular tissue is\nsubmitted in a single cassette.\nMicroscopic Description:\nSlides reviewed.\nFinal Diagnosis\nLeft pelvic lymph node dissection:\nNine benign hyperplastic regional lymph nodes (0/9).\nRight pelvic lymph node dissection:\nSix benign hyperplastic regional lymph nodes (0/6).\nHysterectomy:\nTumor characteristics:\nHistologic type: Endometrioid carcinoma\nGrade: Poorly differentiated WHO Grade III.\nLocation: Uterine fundus in general.\nExtent of invasion: Tumor invades more than one-half of the\nmyometrium. Maximal thickness of myometrial invasion is 13 mm\ninto a 16 mm thick myometrium.\nExtension of tumor: Does not involve endocervix or cervical\nstroma.\nLymphovascular space invasion: Present.\nSurgical margin status:\nCervical margin: Negative.\nLeft parametrial margin: Negative.\nRight parametrial margin: Negative.\nLymph node status (utilizing all specimens submitted).",
+          "confidence": {
+            "mean_probability": 0.989218634805876,
+            "mean_log_probability": -0.016805147247119078,
+            "perplexity": 1.0169471480671326,
+            "min_probability": 0.13845775748292866
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 782,
+            "total_tokens": 3254
+          },
+          "composite_score": 0.9374391746123739
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 23.632556438446045,
+          "chars": 2887,
+          "words": 486,
+          "text": "Page 2 of 3\n\nbrown and fibrotic. The majority of the endometrial canal is\noccupied by friable granular gray tan to brown papilliferous lesion\noccupying an area overall 4.6 x 3.5 cm which includes both the\nanterior and posterior aspects as well as both lateral aspects in\nthe fundus. On sectioning this has a gritty gray tan fibrotic cut\nsurface grossly extending into the myometrium to within 0.3 cm of\nthe anterior serosa. In this area the lesion measures 1.8 cm in\nthickness. The lesion extends grossly to within 0.3 cm of the\nposterior serosa as well. This is seen within 0.4 cm of the fundic\nserosa and within 0.2 cm of the right lateral aspect. The small\namount of parametrial soft tissue on each side shows no nodularity\nor gross lesions.\nThe left fallopian tube is 4.6 x 0.5 x 0.5 cm. The right fallopian\ntube is 5.5 x 0.5 x 0.5 cm. Each has a smooth tan brown serosa with\na tan wall and a pinpoint lumen. The left ovary is 2.0 x 1.2 x 0.8\ncm and has a lobular gray tan outer surface with a mottled gray tan\nfibrotic cut surface. The right ovary is 2.0 x 1.0 x 0.8 cm and has\na lobular gray tan to brown outer surface with a mottled gray tan\nfibrotic cut surface having a few thin walled clear fluid filled\ncystic structures with smooth inner linings measuring up to 0.3 cm.\nAlso received in the same container are two tissue cassettes each\nlabeled \" .\" Representative sections are submitted labeled\nas follows: A - anterior cervix; B - posterior cervix; C - lower\nuterine segment and shaved posterior serosa; D and E - anterior\nendomyometrium; F and G - posterior endomyometrium; H and I - left\nlateral endomyometrium; J and K - right lateral endomyometrium; L\nand M - fundic endomyometrium; N - left parametrium; O - right\nparametrium; P - left adnexa; Q - right adnexa.\nContainer labeled ' 4 - right aortic node\" is a 3.6 x\n1.5 x 1.0 cm aggregate of tan yellow fibroadiopse tissue fragments\nwhich on palpation and sectioning reveal a few poorly defined tan\nyellow nodular regions up to 0.8 cm. The nodular tissue is\nsubmitted in a single cassette.\nMicroscopic Description:\nSlides reviewed.\nFinal Diagnosis\nLeft pelvic lymph node dissection:\nNine benign hyperplastic regional lymph nodes (0/9).\nRight pelvic lymph node dissection:\nSix benign hyperplastic regional lymph nodes (0/6).\nHysterectomy:\nTumor characteristics:\nHistologic type: Endometrioid carcinoma\nGrade: Poorly differentiated WHO Grade III.\nLocation: Uterine fundus in general.\nExtent of invasion: Tumor invades more than one-half of the\nmyometrium. Maximal thickness of myometrial invasion is 13 mm\ninto a 16 mm thick myometrium.\nExtension of tumor: Does not involve endocervix or cervical\nstroma.\nLymphovascular space invasion: Present.\nSurgical margin status:\nCervical margin: Negative.\nLeft parametrial margin: Negative.\nRight parametrial margin: Negative.\nLymph node status (utilizing all specimens submitted).",
+          "confidence": {
+            "mean_probability": 0.9884607683995799,
+            "mean_log_probability": -0.017466584082156608,
+            "perplexity": 1.0176200168757266,
+            "min_probability": 0.1982239156772636
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 780,
+            "total_tokens": 3252
+          },
+          "composite_score": 0.9369532777684155
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.5408287048339844,
+        "chars": 624,
+        "words": 84,
+        "text": "Page 3 of 3\n\nSites: Bilateral pelvic, right aortic.\nNumber of lymph nodes examined: 19\nNumber of lymph nodes containing metastatic carcinoma: 0 (0/19)\nOther:\n    Cervix/endocervix: No pathologic diagnosis.\n    Endometrium: Complex hyperplasia with atypia.\n    Myometrium: No additional abnormalities.\n    Uterine serosa-bilateral fallopian tubes and ovaries:\n        Adhesions. SPC-A PAS 9\nRight aortic lymph node dissection:\n    Four benign hyperplastic regional lymph nodes (0/4).\nStage: pT1b, N0\nCPT: 88307 x 3, 88309\nComments\nThis test has been finalized at the ████████ Campus.\n<Sign Out Dr. Signature>\n██████████, M.D.",
+        "confidence": {
+          "mean_probability": 0.9752759278861816,
+          "mean_log_probability": -0.032681732954545455,
+          "perplexity": 1.033221646505489,
+          "min_probability": 0.3641410450491864
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 177,
+          "total_tokens": 2649
+        },
+        "composite_score": 0.8370820481768054,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.5408287048339844,
+          "chars": 624,
+          "words": 84,
+          "text": "Page 3 of 3\n\nSites: Bilateral pelvic, right aortic.\nNumber of lymph nodes examined: 19\nNumber of lymph nodes containing metastatic carcinoma: 0 (0/19)\nOther:\n    Cervix/endocervix: No pathologic diagnosis.\n    Endometrium: Complex hyperplasia with atypia.\n    Myometrium: No additional abnormalities.\n    Uterine serosa-bilateral fallopian tubes and ovaries:\n        Adhesions. SPC-A PAS 9\nRight aortic lymph node dissection:\n    Four benign hyperplastic regional lymph nodes (0/4).\nStage: pT1b, N0\nCPT: 88307 x 3, 88309\nComments\nThis test has been finalized at the ████████ Campus.\n<Sign Out Dr. Signature>\n██████████, M.D.",
+          "confidence": {
+            "mean_probability": 0.9752759278861816,
+            "mean_log_probability": -0.032681732954545455,
+            "perplexity": 1.033221646505489,
+            "min_probability": 0.3641410450491864
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 177,
+            "total_tokens": 2649
+          },
+          "composite_score": 0.8370820481768054,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 4.088350534439087,
+          "chars": 623,
+          "words": 84,
+          "text": "Page 3 of 3\n\nSites: Bilateral pelvic, right aortic.\nNumber of lymph nodes examined: 19\nNumber of lymph nodes containing metastatic carcinoma: 0 (0/19)\nOther:\n    Cervix/endocervix: No pathologic diagnosis.\n    Endometrium: Complex hyperplasia with atypia.\n    Myometrium: No additional abnormalities.\n    Uterine serosa-bilateral fallopian tubes and ovaries:\n        Adhesions. SPC-A PAS 9\nRight aortic lymph node dissection:\n    Four benign hyperplastic regional lymph nodes (0/4).\nStage: pT1b, N0\nCPT: 88307 x 3, 88309\nComments\nThis test has been finalized at the ████████ Campus.\n<Sign Out Dr. Signature>\n█████████, M.D.",
+          "confidence": {
+            "mean_probability": 0.9761702213544471,
+            "mean_log_probability": -0.0324985965909091,
+            "perplexity": 1.033032443375833,
+            "min_probability": 0.2852820325893862
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 177,
+            "total_tokens": 2649
+          },
+          "composite_score": 0.7952634823430836
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.2642524242401123,
+          "chars": 624,
+          "words": 84,
+          "text": "Page 3 of 3\n\nSites: Bilateral pelvic, right aortic.\nNumber of lymph nodes examined: 19\nNumber of lymph nodes containing metastatic carcinoma: 0 (0/19)\nOther:\n    Cervix/endocervix: No pathologic diagnosis.\n    Endometrium: Complex hyperplasia with atypia.\n    Myometrium: No additional abnormalities.\n    Uterine serosa-bilateral fallopian tubes and ovaries:\n        Adhesions. SPC-A PAS 9\nRight aortic lymph node dissection:\n    Four benign hyperplastic regional lymph nodes (0/4).\nStage: pT1b, N0\nCPT: 88307 x 3, 88309\nComments\nThis test has been finalized at the ████████ Campus.\n<Sign Out Dr. Signature>\n██████████, M.D.",
+          "confidence": {
+            "mean_probability": 0.9759092889352462,
+            "mean_log_probability": -0.031040187499999997,
+            "perplexity": 1.031526957543164,
+            "min_probability": 0.41349370017634524
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 177,
+            "total_tokens": 2649
+          },
+          "composite_score": 0.7963996673165564
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

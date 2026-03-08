@@ -1,0 +1,141 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A063\TCGA-AX-A063.pdf
+Processing Date: 2026-03-08 11:20:17
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Patient Name:
+DOB:
+Accession:
+MRN:
+PAN:
+Surgical Pathology Report
+Final
+
+SURGICAL PATHOLOGY REPORT
+FINAL
+Patient Name:
+Address:
+Service:Gynecology
+Location.
+MRN:
+Hospital #:
+Patient Type: SDSA
+Accession #:
+Taken:
+Received:
+Accessioned.
+Reported:
+Gender: F
+DOB: (Age:
+Physician(s):
+Other Related Clinical Data:
+DIAGNOSIS:
+UTERUS, TOTAL ABDOMINAL HYSTERECTOMY
+- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3, INVASIVE TO A DEPTH OF 0.3 CM (MYOMETRIAL THICKNESS 2.0 CM), WITHOUT LOWER UTERINE SEGMENT INVOLVEMENT
+- ADENOMYOSIS
+- LEIOMYOMAS
+- SEROSAL ENDOMETRIOSIS
+- CERVIX WITH NO HISTOPATHOLOGIC ABNORMALITY
+OVARIES, LEFT AND RIGHT, BILATERAL OOPHORECTOMY
+- ENDOMETRIOSIS
+- TUBAL AND UTERINE SEROSAL ADHESIONS
+- NO EVIDENCE OF MALIGNANCY
+FALLOPIAN TUBES, LEFT AND RIGHT, BILATERAL SALPINGECTOMY
+- PERITUBAL ADHESIONS
+- NO EVIDENCE OF MALIGNANCY
+LYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION /CD-0-3
+- NO EVIDENCE OF MALIGNANCY (2/2)
+LYMPH NODES, RIGHT OBTURATOR, EXCISION adenocarcinoma, endometrioid, NOS §380/3
+- NO EVIDENCE OF MALIGNANCY (7/7)
+LYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION Sita: Indometrium CS4.1
+- NO EVIDENCE OF MALIGNANCY (2/2)
+LYMPH NODES, LEFT OBTURATOR, EXCISION 10/30/11
+- NO EVIDENCE OF MALIGNANCY (8/8)
+LYMPH NODE, RIGHT PERIAORTIC, EXCISION
+- NO EVIDENCE OF MALIGNANCY (1/1)
+LYMPH NODES, LEFT PERIAORTIC, EXCISION
+- NO EVIDENCE OF MALIGNANCY (2/2).
+BY this signature, I attest that the above diagnosis is based upon my personal
+examination of the slides(and/or other material indicated in the diagnosis).
+M.D.
+***Report electronically Reviewed and Signed Out By M.D.***
+Intraoperative Consultation:
+
+Page 1 of 4
+
+================================================================================
+PAGE 2
+================================================================================
+Patient Name:
+DOB:
+Accession:
+MRN:
+PAN:
+
+An intraoperative non-microscopic consultation was obtained and interpreted as:
+"Called to pick-up 'uterus, cervix, right and left tubes and ovaries' consisting
+of above mentioned parts weighing overall 192 grams. The uterus measures 9.5 x
+6.5 x 6 cm, the right ovary 2 x 1 x 1 cm and shows a 1 cm cyst, the right
+fallopian tube 4.5 x 0.6 x 0.5 cm, the left ovary is not grossly identified, the
+left fallopian tube 4.5 x 0.6 x 0.5 cm. The endometrium shows two sessile
+polypoid masses on anterior surface measuring 3.5 x 0.8 x 0.5 cm, and on
+posterior surface measuring 3.6 x 3 x 2 cm. Both portions of the lower uterine
+segment are apparently not involved. The anterior uterus further shows an
+intramural nodule that measures 5 x 4.5 x 3.5 cm, and a posterior cervical
+intramural nodule that measures 3 x 2.5 x 1.5 cm. Portions of mass on posterior
+upper uterine segment, and normal uterus are given for and Tumor Bank.
+Remainder for permanents," by , M.D.
+Microscopic Description and Comment:
+Microscopic examination substantiates the above cited diagnosis.
+
+M.D.
+History:
+The patient is a _ year old woman with endometrial carcinoma. Operative
+procedure: Total abdominal hysterectomy with bilateral salpingo-oophorectomy and
+staging.
+Specimen(s) Received:
+A: UTERUS, CERVIX BILATERAL ADNEXA
+B: LYMPH NODE, RIGHT EXTERNAL ILIAC
+C: LYMPH NODE, RIGHT OBTURATOR
+D: LYMPH NODE, LEFT EXTERNAL ILIAC
+E: LYMPH NODE, LEFT OBTURATOR
+F: LYMPH NODE, RIGHT PERI AORTIC
+G: LYMPH NODE, LEFT PERI AORTIC
+
+Gross Description
+Received are seven formalin-filled containers, each labeled "
+The first container is labeled "uterus, cervix, right and left tube with ovary."
+It contains a 192 gram uterus that measures, consistent with that described in
+the intraoperative consultation, 9.5 x 6.5 x 6 cm. The attached adnexal
+structures are markedly matted together by dense adhesions and no definite
+grossly identified ovary is seen. The adnexal structures of the left measure 5
+x 3.5 x 1.5 cm, while those on the right measure 5.5 x 2.5 x 1.5 cm. As
+mentioned, a tubal structure, consistent with the fallopian tube is identified
+on both sides, while a well circumscribed ovarian structure is not seen. The
+posterior serosal aspect of the uterus is markedly roughened with multiple
+adhesions, that are continuous with those seen around both adnexa. The
+ectocervix measures 3.5 x 3 cm and is grossly unremarkable. It is continuous
+with a 2.5 cm in length unremarkable endocervical canal. The endometrial cavity
+measures 4 x 2.5 cm and shows a polypoid tumor measuring 3 x 2.5 cm, located on
+the posterior fundus close to the right cornu. The tumor extends to partially
+involve the anterior fundus. On sectioning the myometrial wall measures up to
+2.3 cm in thickness in the vicinity of the tumor and is apparently involved by
+tumor at least in its luminal one third. The remainder of the endometrial cavity
+is lined by thin tan unremarkable endometrium. The myometrium also displays the
+presence of two white whorled masses, one in the cervix, measuring 2.2 cm in
+greatest dimension and the other in the fundus, measuring 4.8 cm in maximum
+dimension. None of these show any evidence of hemorrhage or necrosis. Although
+both fallopian tubes are identified, with measurements consistent with those
+described in the intraoperative consultation (4.5 x 0.6 cm for the right, and
+4.5 x 0.6 cm for the left), as mentioned definitive ovaries are not seen.
+Labeled A1 and A2 - anterior contiguous segments of cervix and endometrium; A3
+to A5 - posterior contiguous segment of cervix lower uterine segment and
+endometrium including tumor; A6 through A9 - additional sections of tumor; A10 -
+
+Page 2 of 4

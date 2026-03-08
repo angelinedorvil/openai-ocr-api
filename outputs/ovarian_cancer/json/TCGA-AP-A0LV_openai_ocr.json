@@ -1,0 +1,281 @@
+{
+  "pdf": "reports\\TCGA-AP-A0LV\\TCGA-AP-A0LV.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 147.26109313964844,
+        "chars": 7907,
+        "words": 221,
+        "text": "```\n                                                                                                  TSS Name/#: ..\n\n\n\nSpecimens Submitted:\n1: SP: Left tube and ovary\n2: SP: Right tube and ovary\n3: SP: Uterus; total hysterectomy\n4: SP: Enlarged left external iliac lymph node\n5: SP: Enlarged left obturator lymph node (\n6: SP: Enlarged distal left external iliac lymph nodes\n7: SP: Enlarged right obturator lymph node #2\n8: SP: Right jackson node\n9: SP: Enlarged left superficial inguinal lymph node\n10: SP: Enlarged left external iliac lymph node #2\n11: SP: Left Jackson's lymph node\n12: SP: Left common iliac lymph node\n13: SP: Enlarged right common iliac lymph node\n14: SP: Enlarged right external iliac lymph node\n15: SP: Enlarged right obturator lymph node\n\nDIAGNOSIS:\n\n1. SP: Fallopian tube and ovary, left; salpingo-oophorectomy:\n    - Ovary with numerous cystic follicles and stromal hyperplasia.\n    - Benign fallopian tube with paratubal cysts.\n\n2. SP: Fallopian tube and ovary, right; salpingo-oophorectomy:\n    - Ovary with numerous cystic follicles and stromal hyperplasia.\n    - Benign fallopian tube with paratubal cysts.\n\n3. SP: Uterus; total hysterectomy:\n    Tumor Type:\n        Adenocarcinoma, endometrioid type\n    Architectural Grade (For Endometrioid Types only):\n        1 (<6% solid growth)\n    Nuclear Grade (For Endometrioid Types only):\n        Grade 2\n    FIGO Grade (For Endometrioid Types only):\n        Grade 1\n    Myometrial Invasion:\n\n** Continued on next page **\n\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS\n8380/3\nSit: endometrium C54.1\nfw\n5/1/11\n\n\nUUID:75767804-9FDF-4EE9-8DFF-350B60AF281C\nTCGA-AP-A0LV-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "confidence": {
+          "mean_probability": 0.9857943466714327,
+          "mean_log_probability": -0.01868655810546875,
+          "perplexity": 1.0188622444505324,
+          "min_probability": 0.05250231579376309
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9853249791455212,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 49.9% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.9% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 147.26109313964844,
+          "chars": 7907,
+          "words": 221,
+          "text": "```\n                                                                                                  TSS Name/#: ..\n\n\n\nSpecimens Submitted:\n1: SP: Left tube and ovary\n2: SP: Right tube and ovary\n3: SP: Uterus; total hysterectomy\n4: SP: Enlarged left external iliac lymph node\n5: SP: Enlarged left obturator lymph node (\n6: SP: Enlarged distal left external iliac lymph nodes\n7: SP: Enlarged right obturator lymph node #2\n8: SP: Right jackson node\n9: SP: Enlarged left superficial inguinal lymph node\n10: SP: Enlarged left external iliac lymph node #2\n11: SP: Left Jackson's lymph node\n12: SP: Left common iliac lymph node\n13: SP: Enlarged right common iliac lymph node\n14: SP: Enlarged right external iliac lymph node\n15: SP: Enlarged right obturator lymph node\n\nDIAGNOSIS:\n\n1. SP: Fallopian tube and ovary, left; salpingo-oophorectomy:\n    - Ovary with numerous cystic follicles and stromal hyperplasia.\n    - Benign fallopian tube with paratubal cysts.\n\n2. SP: Fallopian tube and ovary, right; salpingo-oophorectomy:\n    - Ovary with numerous cystic follicles and stromal hyperplasia.\n    - Benign fallopian tube with paratubal cysts.\n\n3. SP: Uterus; total hysterectomy:\n    Tumor Type:\n        Adenocarcinoma, endometrioid type\n    Architectural Grade (For Endometrioid Types only):\n        1 (<6% solid growth)\n    Nuclear Grade (For Endometrioid Types only):\n        Grade 2\n    FIGO Grade (For Endometrioid Types only):\n        Grade 1\n    Myometrial Invasion:\n\n** Continued on next page **\n\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS\n8380/3\nSit: endometrium C54.1\nfw\n5/1/11\n\n\nUUID:75767804-9FDF-4EE9-8DFF-350B60AF281C\nTCGA-AP-A0LV-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9857943466714327,
+            "mean_log_probability": -0.01868655810546875,
+            "perplexity": 1.0188622444505324,
+            "min_probability": 0.05250231579376309
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9853249791455212,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 49.9% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.9% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 454.20332169532776,
+          "chars": 7881,
+          "words": 221,
+          "text": "```\n                                                                                                    TSS Name/#: ..\n\n\n\n\nSpecimens Submitted:\n1: SP: Left tube and ovary\n2: SP: Right tube and ovary\n3: SP: Uterus; total hysterectomy\n4: SP: Enlarged left external iliac lymph node\n5: SP: Enlarged left obturator lymph node (\n6: SP: Enlarged distal left external iliac lymph nodes\n7: SP: Enlarged right obturator lymph node #2\n8: SP: Right jackson node\n9: SP: Enlarged left superficial inguinal lymph node\n10: SP: Enlarged left external iliac lymph node #2\n11: SP: Left Jackson's lymph node\n12: SP: Left common iliac lymph node\n13: SP: Enlarged right common iliac lymph node\n14: SP: Enlarged right external iliac lymph node\n15: SP: Enlarged right obturator lymph node\n\nDIAGNOSIS:\n\n1. SP: Fallopian tube and ovary, left; salpingo-oophorectomy:\n   - Ovary with numerous cystic follicles and stromal hyperplasia.\n   - Benign fallopian tube with paratubal cysts.\n\n2. SP: Fallopian tube and ovary, right; salpingo-oophorectomy:\n   - Ovary with numerous cystic follicles and stromal hyperplasia.\n   - Benign fallopian tube with paratubal cysts.\n\n3. SP: Uterus; total hysterectomy:\n   Tumor Type:\n   Adenocarcinoma, endometrioid type\n   Architectural Grade (For Endometrioid Types only):\n   1 (<6% solid growth)\n   Nuclear Grade (For Endometrioid Types only):\n   Grade 2\n   FIGO Grade (For Endometrioid Types only):\n   Grade 1\n   Myometrial Invasion:\n\n** Continued on next page **\n\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS\n8380/3\nSit: endometrium C54.1\nfw\n5/1/11\n\n\nUUID:75767804-9FDF-4EE9-8DFF-35B06BAF281C\nTCGA-AP-A0LV-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9855520519577885,
+            "mean_log_probability": -0.019132564453125,
+            "perplexity": 1.0193167648308976,
+            "min_probability": 0.0440549746976103
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.6550125610307383
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.422689437866211,
+          "chars": 1717,
+          "words": 243,
+          "text": "TSS Name/#: ..\n\nSpecimens Submitted:\n1: SP: Left tube and ovary\n2: SP: Right tube and ovary\n3: SP: Uterus; total hysterectomy\n4: SP: Enlarged left external iliac lymph node\n5: SP: Enlarged left obturator lymph node (\n6: SP: Enlarged distal left external iliac lymph nodes\n7: SP: Enlarged right obturator lymph node #2\n8: SP: Right jackson node\n9: SP: Enlarged left superficial inguinal lymph node\n10: SP: Enlarged left external iliac lymph node #2\n11: SP: Left Jackson's lymph node\n12: SP: Left common iliac lymph node\n13: SP: Enlarged right common iliac lymph node\n14: SP: Enlarged right external iliac lymph node\n15: SP: Enlarged right obturator lymph node\n\nDIAGNOSIS:\n\n1. SP: Fallopian tube and ovary, left; salpingo-oophorectomy:\n   - Ovary with numerous cystic follicles and stromal hyperplasia.\n   - Benign fallopian tube with paratubal cysts.\n\n2. SP: Fallopian tube and ovary, right; salpingo-oophorectomy:\n   - Ovary with numerous cystic follicles and stromal hyperplasia.\n   - Benign fallopian tube with paratubal cysts.\n\n3. SP: Uterus; total hysterectomy:\n   Tumor Type:\n   Adenocarcinoma, endometrioid type\n   Architectural Grade (For Endometrioid Types only):\n   1 (<6% solid growth)\n   Nuclear Grade (For Endometrioid Types only):\n   Grade 2\n   FIGO Grade (For Endometrioid Types only):\n   Grade 1\n   Myometrial Invasion:\n\n** Continued on next page **\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS\n8380/3\nSit: endometrium C54.1\nfw\n5/1/11\n\nUUID:75767804-9FDF-4EE9-8DFF-350B60AF281C\nTCGA-AP-A0LV-01A-PR Redacted\n\nYes No\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is (circle):\nReviewer Initials:  Date Reviewed: 5/1/11",
+          "confidence": {
+            "mean_probability": 0.9700016340606807,
+            "mean_log_probability": -0.039374791433892,
+            "perplexity": 1.0401602537573298,
+            "min_probability": 0.24821052544489716
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 538,
+            "total_tokens": 3010
+          },
+          "composite_score": 0.8943238057778712
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.098594188690186,
+        "chars": 1764,
+        "words": 245,
+        "text": "TSS Name/#:\n\n(≈<50%) ------------------------------------------------------ Page 2 of 8\nMeasures10mm in maximum depth\nMyometrium thickness measures28mm in the area of maximal tumor invasion\nEndocervical Invasion:\n    Not identified\nLymphovascular invasion:\n    Not identified\nEndometrium:\n    Exhibits complex hyperplasia with atypia\nMyometrium:\n    Exhibits adenomyosis\n---------------------------------------------------------\n\n4.  SP: Enlarged left external iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n5.  SP: Enlarged left obturator lymph node; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n6.  SP: Enlarged distal left external iliac lymph nodes; excision:\n    - One benign reactive lymph node (0/1).\n\n7.  SP: Enlarged right obturator lymph node #2; excision:\n    - Two benign lymph nodes (0/2).\n\n8.  SP: Right jackson node; excision:\n    - One benign lymph node (0/1).\n\n9.  SP: Enlarged left superficial inguinal lymph node; excision:\n    - One benign reactive lymph node showing reactive follicular hyperplasia (0/1, see note).\n\nNote: Dr. ███████████ has reviewed these slides and concurs with the diagnosis.\n\n10.  SP: Enlarged left external iliac lymph node #2; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n11.  SP: Left lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n12.  SP: Left common iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n13.  SP: Enlarged right common iliac lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n14.  SP: Enlarged right external iliac lymph node; excision:\n    - Three benign reactive lymph nodes (0/3).\n\n15.  SP: Enlarged right obturator lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n** Continued on next page **",
+        "confidence": {
+          "mean_probability": 0.9765363729621496,
+          "mean_log_probability": -0.0400204254385965,
+          "perplexity": 1.040832033426061,
+          "min_probability": 0.10042179636674248
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 457,
+          "total_tokens": 2929
+        },
+        "composite_score": 0.9456156619545474,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.098594188690186,
+          "chars": 1764,
+          "words": 245,
+          "text": "TSS Name/#:\n\n(≈<50%) ------------------------------------------------------ Page 2 of 8\nMeasures10mm in maximum depth\nMyometrium thickness measures28mm in the area of maximal tumor invasion\nEndocervical Invasion:\n    Not identified\nLymphovascular invasion:\n    Not identified\nEndometrium:\n    Exhibits complex hyperplasia with atypia\nMyometrium:\n    Exhibits adenomyosis\n---------------------------------------------------------\n\n4.  SP: Enlarged left external iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n5.  SP: Enlarged left obturator lymph node; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n6.  SP: Enlarged distal left external iliac lymph nodes; excision:\n    - One benign reactive lymph node (0/1).\n\n7.  SP: Enlarged right obturator lymph node #2; excision:\n    - Two benign lymph nodes (0/2).\n\n8.  SP: Right jackson node; excision:\n    - One benign lymph node (0/1).\n\n9.  SP: Enlarged left superficial inguinal lymph node; excision:\n    - One benign reactive lymph node showing reactive follicular hyperplasia (0/1, see note).\n\nNote: Dr. ███████████ has reviewed these slides and concurs with the diagnosis.\n\n10.  SP: Enlarged left external iliac lymph node #2; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n11.  SP: Left lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n12.  SP: Left common iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n13.  SP: Enlarged right common iliac lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n14.  SP: Enlarged right external iliac lymph node; excision:\n    - Three benign reactive lymph nodes (0/3).\n\n15.  SP: Enlarged right obturator lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n** Continued on next page **",
+          "confidence": {
+            "mean_probability": 0.9765363729621496,
+            "mean_log_probability": -0.0400204254385965,
+            "perplexity": 1.040832033426061,
+            "min_probability": 0.10042179636674248
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 457,
+            "total_tokens": 2929
+          },
+          "composite_score": 0.9456156619545474,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.254983186721802,
+          "chars": 1850,
+          "words": 245,
+          "text": "TSS Name/#:\n\n------------------------------------------------------------ Page 2 of 8\n(≈<50%)\nMeasures10mm in maximum depth\nMyometrium thickness measures28mm in the area of maximal tumor invasion\nEndocervical Invasion:\n        Not identified\nLymphovascular invasion:\n        Not identified\nEndometrium:\n        Exhibits complex hyperplasia with atypia\nMyometrium:\n        Exhibits adenomyosis\n------------------------------------------------------------\n\n4.  SP: Enlarged left external iliac lymph node; excision:\n        - One benign lymph node (0/1).\n\n5.  SP: Enlarged left obturator lymph node; excision:\n        - Two benign reactive lymph nodes (0/2).\n\n6.  SP: Enlarged distal left external iliac lymph nodes; excision:\n        - One benign reactive lymph node (0/1).\n\n7.  SP: Enlarged right obturator lymph node #2; excision:\n        - Two benign lymph nodes (0/2).\n\n8.  SP: Right jackson node; excision:\n        - One benign lymph node (0/1).\n\n9.  SP: Enlarged left superficial inguinal lymph node; excision:\n        - One benign reactive lymph node showing reactive follicular hyperplasia (0/1, see note).\n\nNote: Dr. ███████████ has reviewed these slides and concurs with the diagnosis.\n\n10.  SP: Enlarged left external iliac lymph node #2; excision:\n        - Two benign reactive lymph nodes (0/2).\n\n11.  SP: Left              lymph node; excision:\n        - One benign reactive lymph node (0/1).\n\n12.  SP: Left common iliac lymph node; excision:\n        - One benign lymph node (0/1).\n\n13.  SP: Enlarged right common iliac lymph node; excision:\n        - One benign reactive lymph node (0/1).\n\n14.  SP: Enlarged right external iliac lymph node; excision:\n        - Three benign reactive lymph nodes (0/3).\n\n15.  SP: Enlarged right obturator lymph node; excision:\n        - One benign reactive lymph node (0/1).\n\n** Continued on next page **",
+          "confidence": {
+            "mean_probability": 0.9757603095557216,
+            "mean_log_probability": -0.040141323144104804,
+            "perplexity": 1.0409578752375614,
+            "min_probability": 0.10866038442441289
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 459,
+            "total_tokens": 2931
+          },
+          "composite_score": 0.9064199417562772
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.835905075073242,
+          "chars": 1756,
+          "words": 245,
+          "text": "TSS Name/#: \n\n(≈<50%) ------------------------------------------------------ Page 2 of 8\nMeasures10mm in maximum depth\nMyometrium thickness measures28mm in the area of maximal tumor invasion\nEndocervical Invasion:\n    Not identified\nLymphovascular invasion:\n    Not identified\nEndometrium:\n    Exhibits complex hyperplasia with atypia\nMyometrium:\n    Exhibits adenomyosis\n-------------------------------------------------------------\n\n4. SP: Enlarged left external iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n5. SP: Enlarged left obturator lymph node; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n6. SP: Enlarged distal left external iliac lymph nodes; excision:\n    - One benign reactive lymph node (0/1).\n\n7. SP: Enlarged right obturator lymph node #2; excision:\n    - Two benign lymph nodes (0/2).\n\n8. SP: Right jackson node; excision:\n    - One benign lymph node (0/1).\n\n9. SP: Enlarged left superficial inguinal lymph node; excision:\n    - One benign reactive lymph node showing reactive follicular hyperplasia (0/1, see note).\n\nNote: Dr. ██████████ has reviewed these slides and concurs with the diagnosis.\n\n10. SP: Enlarged left external iliac lymph node #2; excision:\n    - Two benign reactive lymph nodes (0/2).\n\n11. SP: Left lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n12. SP: Left common iliac lymph node; excision:\n    - One benign lymph node (0/1).\n\n13. SP: Enlarged right common iliac lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n14. SP: Enlarged right external iliac lymph node; excision:\n    - Three benign reactive lymph nodes (0/3).\n\n15. SP: Enlarged right obturator lymph node; excision:\n    - One benign reactive lymph node (0/1).\n\n** Continued on next page **",
+          "confidence": {
+            "mean_probability": 0.9754778458745887,
+            "mean_log_probability": -0.04178108968609866,
+            "perplexity": 1.0426662033798821,
+            "min_probability": 0.08711318751350995
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 447,
+            "total_tokens": 2919
+          },
+          "composite_score": 0.8963398650889288
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 1.9607264995574951,
+        "chars": 236,
+        "words": 34,
+        "text": "TSS Name/#: \n\n------------------------------------------------ Page 3 of 8\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+        "confidence": {
+          "mean_probability": 0.9415418098570829,
+          "mean_log_probability": -0.09428289830508471,
+          "perplexity": 1.098870570571139,
+          "min_probability": 0.15853894596190743
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 60,
+          "total_tokens": 2532
+        },
+        "composite_score": 0.7546723773889784,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 1.9607264995574951,
+          "chars": 236,
+          "words": 34,
+          "text": "TSS Name/#: \n\n------------------------------------------------ Page 3 of 8\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9415418098570829,
+            "mean_log_probability": -0.09428289830508471,
+            "perplexity": 1.098870570571139,
+            "min_probability": 0.15853894596190743
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 60,
+            "total_tokens": 2532
+          },
+          "composite_score": 0.7546723773889784,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.0436456203460693,
+          "chars": 236,
+          "words": 34,
+          "text": "TSS Name/#: \n\n------------------------------------------------ Page 3 of 8\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9494862463867202,
+            "mean_log_probability": -0.08209888135593221,
+            "perplexity": 1.0855631464785387,
+            "min_probability": 0.1470281814548962
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 60,
+            "total_tokens": 2532
+          },
+          "composite_score": 0.7247587724490355
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.139822244644165,
+          "chars": 237,
+          "words": 34,
+          "text": "TSS Name/#:\n\n-------------------------------------------------- Page 3 of 8\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF\nTHE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED\nTHIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9565587223782978,
+            "mean_log_probability": -0.0788165593220339,
+            "perplexity": 1.0820058199830116,
+            "min_probability": 0.09080935228004314
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 60,
+            "total_tokens": 2532
+          },
+          "composite_score": 0.7269906529113817
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-AX-A063\\TCGA-AX-A063.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 20.15233063697815,
+        "chars": 1632,
+        "words": 230,
+        "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\nSurgical Pathology Report\nFinal\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nService:Gynecology\nLocation.\nMRN:\nHospital #:\nPatient Type: SDSA\nAccession #:\nTaken:\nReceived:\nAccessioned.\nReported:\nGender: F\nDOB: (Age:\nPhysician(s):\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, TOTAL ABDOMINAL HYSTERECTOMY\n- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3, INVASIVE TO A DEPTH OF 0.3 CM (MYOMETRIAL THICKNESS 2.0 CM), WITHOUT LOWER UTERINE SEGMENT INVOLVEMENT\n- ADENOMYOSIS\n- LEIOMYOMAS\n- SEROSAL ENDOMETRIOSIS\n- CERVIX WITH NO HISTOPATHOLOGIC ABNORMALITY\nOVARIES, LEFT AND RIGHT, BILATERAL OOPHORECTOMY\n- ENDOMETRIOSIS\n- TUBAL AND UTERINE SEROSAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nFALLOPIAN TUBES, LEFT AND RIGHT, BILATERAL SALPINGECTOMY\n- PERITUBAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION /CD-0-3\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION adenocarcinoma, endometrioid, NOS §380/3\n- NO EVIDENCE OF MALIGNANCY (7/7)\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION Sita: Indometrium CS4.1\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, LEFT OBTURATOR, EXCISION 10/30/11\n- NO EVIDENCE OF MALIGNANCY (8/8)\nLYMPH NODE, RIGHT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (1/1)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (2/2).\nBY this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\nM.D.\n***Report electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\nPage 1 of 4",
+        "confidence": {
+          "mean_probability": 0.9715152190981537,
+          "mean_log_probability": -0.03588667517006803,
+          "perplexity": 1.036538374299806,
+          "min_probability": 0.3224748920131171
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 589,
+          "total_tokens": 3061
+        },
+        "composite_score": 0.9354852500913374,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 20.15233063697815,
+          "chars": 1632,
+          "words": 230,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\nSurgical Pathology Report\nFinal\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nService:Gynecology\nLocation.\nMRN:\nHospital #:\nPatient Type: SDSA\nAccession #:\nTaken:\nReceived:\nAccessioned.\nReported:\nGender: F\nDOB: (Age:\nPhysician(s):\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, TOTAL ABDOMINAL HYSTERECTOMY\n- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3, INVASIVE TO A DEPTH OF 0.3 CM (MYOMETRIAL THICKNESS 2.0 CM), WITHOUT LOWER UTERINE SEGMENT INVOLVEMENT\n- ADENOMYOSIS\n- LEIOMYOMAS\n- SEROSAL ENDOMETRIOSIS\n- CERVIX WITH NO HISTOPATHOLOGIC ABNORMALITY\nOVARIES, LEFT AND RIGHT, BILATERAL OOPHORECTOMY\n- ENDOMETRIOSIS\n- TUBAL AND UTERINE SEROSAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nFALLOPIAN TUBES, LEFT AND RIGHT, BILATERAL SALPINGECTOMY\n- PERITUBAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION /CD-0-3\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION adenocarcinoma, endometrioid, NOS §380/3\n- NO EVIDENCE OF MALIGNANCY (7/7)\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION Sita: Indometrium CS4.1\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, LEFT OBTURATOR, EXCISION 10/30/11\n- NO EVIDENCE OF MALIGNANCY (8/8)\nLYMPH NODE, RIGHT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (1/1)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (2/2).\nBY this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\nM.D.\n***Report electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9715152190981537,
+            "mean_log_probability": -0.03588667517006803,
+            "perplexity": 1.036538374299806,
+            "min_probability": 0.3224748920131171
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 589,
+            "total_tokens": 3061
+          },
+          "composite_score": 0.9354852500913374,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.08241581916809,
+          "chars": 1642,
+          "words": 232,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nSurgical Pathology Report\nFinal\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nService:Gynecology\nLocation.\nMRN:\nHospital #:\nPatient Type: SDSA\nAccession #:\nTaken:\nReceived:\nAccessioned.\nReported:\n\nGender: F\nDOB: (Age:\n\nPhysician(s):\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, TOTAL ABDOMINAL HYSTERECTOMY\n- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3, INVASIVE TO A DEPTH OF 0.3\nCM (MYOMETRIAL THICKNESS 2.0 CM), WITHOUT LOWER UTERINE SEGMENT INVOLVEMENT\n- ADENOMYOSIS\n- LEIOMYOMAS\n- SEROSAL ENDOMETRIOSIS\n- CERVIX WITH NO HISTOPATHOLOGIC ABNORMALITY\nOVARIES, LEFT AND RIGHT, BILATERAL OOPHORECTOMY\n- ENDOMETRIOSIS\n- TUBAL AND UTERINE SEROSAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nFALLOPIAN TUBES, LEFT AND RIGHT, BILATERAL SALPINGECTOMY\n- PERITUBAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION /CD-0-3\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION adenocarcinoma, endometrioid, NOS §380/3\n- NO EVIDENCE OF MALIGNANCY (7/7)\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION Sita: Indometrium CS4.1\n- NO EVIDENCE OF MALIGNANCY (2/2) /w\nLYMPH NODES, LEFT OBTURATOR, EXCISION 10/30/11\n- NO EVIDENCE OF MALIGNANCY (8/8)\nLYMPH NODE, RIGHT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (1/1)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (2/2).\n\nBY this signature, I attest that the above diagnosis is\nbased upon my personal\nexamination of the slides(and/or other material indicated in the\ndiagnosis).\n- M.D.\n***Report electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9670372321055754,
+            "mean_log_probability": -0.04227422315436241,
+            "perplexity": 1.043180503779944,
+            "min_probability": 0.23782408910574243
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 597,
+            "total_tokens": 3069
+          },
+          "composite_score": 0.885164705769772
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.779440879821777,
+          "chars": 1632,
+          "words": 231,
+          "text": "Patient Name:\nDOB:\nAccession: \nSurgical Pathology Report\nFinal\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:\nService: Gynecology\nLocation.\nMRN:\nHospital #:\nPatient Type: SDSA\nAccession #:\nTaken:\nReceived:\nAccessioned.\nReported:\n\nGender: F\nDOB: (Age:\n\nPhysician(s):\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, TOTAL ABDOMINAL HYSTERECTOMY\n- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3, INVASIVE TO A DEPTH OF 0.3 CM (MYOMETRIAL THICKNESS 2.0 CM), WITHOUT LOWER UTERINE SEGMENT INVOLVEMENT\n- ADENOMYOSIS\n- LEIOMYOMAS\n- SEROSAL ENDOMETRIOSIS\n- CERVIX WITH NO HISTOPATHOLOGIC ABNORMALITY\nOVARIES, LEFT AND RIGHT, BILATERAL OOPHORECTOMY\n- ENDOMETRIOSIS\n- TUBAL AND UTERINE SEROSAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nFALLOPIAN TUBES, LEFT AND RIGHT, BILATERAL SALPINGECTOMY\n- PERITUBAL ADHESIONS\n- NO EVIDENCE OF MALIGNANCY\nLYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION /CD-0-3\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, RIGHT OBTURATOR, EXCISION adenocarcinoma, endometrioid, NOS §380/3\n- NO EVIDENCE OF MALIGNANCY (7/7)\nLYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION Sita: Indometrium CS4.1\n- NO EVIDENCE OF MALIGNANCY (2/2)\nLYMPH NODES, LEFT OBTURATOR, EXCISION 10/30/11\n- NO EVIDENCE OF MALIGNANCY (8/8)\nLYMPH NODE, RIGHT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (1/1)\nLYMPH NODES, LEFT PERIAORTIC, EXCISION\n- NO EVIDENCE OF MALIGNANCY (2/2).\n\nBY this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n- - M.D.\n***Report electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\nPage 1 of 4",
+          "confidence": {
+            "mean_probability": 0.9668818739490738,
+            "mean_log_probability": -0.04541149829351535,
+            "perplexity": 1.046458387162579,
+            "min_probability": 0.060658045367430934
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 587,
+            "total_tokens": 3059
+          },
+          "composite_score": 0.882026455802898
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 42.428778886795044,
+        "chars": 3712,
+        "words": 615,
+        "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nAn intraoperative non-microscopic consultation was obtained and interpreted as:\n\"Called to pick-up 'uterus, cervix, right and left tubes and ovaries' consisting\nof above mentioned parts weighing overall 192 grams. The uterus measures 9.5 x\n6.5 x 6 cm, the right ovary 2 x 1 x 1 cm and shows a 1 cm cyst, the right\nfallopian tube 4.5 x 0.6 x 0.5 cm, the left ovary is not grossly identified, the\nleft fallopian tube 4.5 x 0.6 x 0.5 cm. The endometrium shows two sessile\npolypoid masses on anterior surface measuring 3.5 x 0.8 x 0.5 cm, and on\nposterior surface measuring 3.6 x 3 x 2 cm. Both portions of the lower uterine\nsegment are apparently not involved. The anterior uterus further shows an\nintramural nodule that measures 5 x 4.5 x 3.5 cm, and a posterior cervical\nintramural nodule that measures 3 x 2.5 x 1.5 cm. Portions of mass on posterior\nupper uterine segment, and normal uterus are given for and Tumor Bank.\nRemainder for permanents,\" by , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nM.D.\nHistory:\nThe patient is a _ year old woman with endometrial carcinoma. Operative\nprocedure: Total abdominal hysterectomy with bilateral salpingo-oophorectomy and\nstaging.\nSpecimen(s) Received:\nA: UTERUS, CERVIX BILATERAL ADNEXA\nB: LYMPH NODE, RIGHT EXTERNAL ILIAC\nC: LYMPH NODE, RIGHT OBTURATOR\nD: LYMPH NODE, LEFT EXTERNAL ILIAC\nE: LYMPH NODE, LEFT OBTURATOR\nF: LYMPH NODE, RIGHT PERI AORTIC\nG: LYMPH NODE, LEFT PERI AORTIC\n\nGross Description\nReceived are seven formalin-filled containers, each labeled \"\nThe first container is labeled \"uterus, cervix, right and left tube with ovary.\"\nIt contains a 192 gram uterus that measures, consistent with that described in\nthe intraoperative consultation, 9.5 x 6.5 x 6 cm. The attached adnexal\nstructures are markedly matted together by dense adhesions and no definite\ngrossly identified ovary is seen. The adnexal structures of the left measure 5\nx 3.5 x 1.5 cm, while those on the right measure 5.5 x 2.5 x 1.5 cm. As\nmentioned, a tubal structure, consistent with the fallopian tube is identified\non both sides, while a well circumscribed ovarian structure is not seen. The\nposterior serosal aspect of the uterus is markedly roughened with multiple\nadhesions, that are continuous with those seen around both adnexa. The\nectocervix measures 3.5 x 3 cm and is grossly unremarkable. It is continuous\nwith a 2.5 cm in length unremarkable endocervical canal. The endometrial cavity\nmeasures 4 x 2.5 cm and shows a polypoid tumor measuring 3 x 2.5 cm, located on\nthe posterior fundus close to the right cornu. The tumor extends to partially\ninvolve the anterior fundus. On sectioning the myometrial wall measures up to\n2.3 cm in thickness in the vicinity of the tumor and is apparently involved by\ntumor at least in its luminal one third. The remainder of the endometrial cavity\nis lined by thin tan unremarkable endometrium. The myometrium also displays the\npresence of two white whorled masses, one in the cervix, measuring 2.2 cm in\ngreatest dimension and the other in the fundus, measuring 4.8 cm in maximum\ndimension. None of these show any evidence of hemorrhage or necrosis. Although\nboth fallopian tubes are identified, with measurements consistent with those\ndescribed in the intraoperative consultation (4.5 x 0.6 cm for the right, and\n4.5 x 0.6 cm for the left), as mentioned definitive ovaries are not seen.\nLabeled A1 and A2 - anterior contiguous segments of cervix and endometrium; A3\nto A5 - posterior contiguous segment of cervix lower uterine segment and\nendometrium including tumor; A6 through A9 - additional sections of tumor; A10 -\n\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9943439973952215,
+          "mean_log_probability": -0.0069677400966183575,
+          "perplexity": 1.0069920712759284,
+          "min_probability": 0.4023769271246183
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1036,
+          "total_tokens": 3508
+        },
+        "composite_score": 0.9944643786932441,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 42.428778886795044,
+          "chars": 3712,
+          "words": 615,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nAn intraoperative non-microscopic consultation was obtained and interpreted as:\n\"Called to pick-up 'uterus, cervix, right and left tubes and ovaries' consisting\nof above mentioned parts weighing overall 192 grams. The uterus measures 9.5 x\n6.5 x 6 cm, the right ovary 2 x 1 x 1 cm and shows a 1 cm cyst, the right\nfallopian tube 4.5 x 0.6 x 0.5 cm, the left ovary is not grossly identified, the\nleft fallopian tube 4.5 x 0.6 x 0.5 cm. The endometrium shows two sessile\npolypoid masses on anterior surface measuring 3.5 x 0.8 x 0.5 cm, and on\nposterior surface measuring 3.6 x 3 x 2 cm. Both portions of the lower uterine\nsegment are apparently not involved. The anterior uterus further shows an\nintramural nodule that measures 5 x 4.5 x 3.5 cm, and a posterior cervical\nintramural nodule that measures 3 x 2.5 x 1.5 cm. Portions of mass on posterior\nupper uterine segment, and normal uterus are given for and Tumor Bank.\nRemainder for permanents,\" by , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nM.D.\nHistory:\nThe patient is a _ year old woman with endometrial carcinoma. Operative\nprocedure: Total abdominal hysterectomy with bilateral salpingo-oophorectomy and\nstaging.\nSpecimen(s) Received:\nA: UTERUS, CERVIX BILATERAL ADNEXA\nB: LYMPH NODE, RIGHT EXTERNAL ILIAC\nC: LYMPH NODE, RIGHT OBTURATOR\nD: LYMPH NODE, LEFT EXTERNAL ILIAC\nE: LYMPH NODE, LEFT OBTURATOR\nF: LYMPH NODE, RIGHT PERI AORTIC\nG: LYMPH NODE, LEFT PERI AORTIC\n\nGross Description\nReceived are seven formalin-filled containers, each labeled \"\nThe first container is labeled \"uterus, cervix, right and left tube with ovary.\"\nIt contains a 192 gram uterus that measures, consistent with that described in\nthe intraoperative consultation, 9.5 x 6.5 x 6 cm. The attached adnexal\nstructures are markedly matted together by dense adhesions and no definite\ngrossly identified ovary is seen. The adnexal structures of the left measure 5\nx 3.5 x 1.5 cm, while those on the right measure 5.5 x 2.5 x 1.5 cm. As\nmentioned, a tubal structure, consistent with the fallopian tube is identified\non both sides, while a well circumscribed ovarian structure is not seen. The\nposterior serosal aspect of the uterus is markedly roughened with multiple\nadhesions, that are continuous with those seen around both adnexa. The\nectocervix measures 3.5 x 3 cm and is grossly unremarkable. It is continuous\nwith a 2.5 cm in length unremarkable endocervical canal. The endometrial cavity\nmeasures 4 x 2.5 cm and shows a polypoid tumor measuring 3 x 2.5 cm, located on\nthe posterior fundus close to the right cornu. The tumor extends to partially\ninvolve the anterior fundus. On sectioning the myometrial wall measures up to\n2.3 cm in thickness in the vicinity of the tumor and is apparently involved by\ntumor at least in its luminal one third. The remainder of the endometrial cavity\nis lined by thin tan unremarkable endometrium. The myometrium also displays the\npresence of two white whorled masses, one in the cervix, measuring 2.2 cm in\ngreatest dimension and the other in the fundus, measuring 4.8 cm in maximum\ndimension. None of these show any evidence of hemorrhage or necrosis. Although\nboth fallopian tubes are identified, with measurements consistent with those\ndescribed in the intraoperative consultation (4.5 x 0.6 cm for the right, and\n4.5 x 0.6 cm for the left), as mentioned definitive ovaries are not seen.\nLabeled A1 and A2 - anterior contiguous segments of cervix and endometrium; A3\nto A5 - posterior contiguous segment of cervix lower uterine segment and\nendometrium including tumor; A6 through A9 - additional sections of tumor; A10 -\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9943439973952215,
+            "mean_log_probability": -0.0069677400966183575,
+            "perplexity": 1.0069920712759284,
+            "min_probability": 0.4023769271246183
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1036,
+            "total_tokens": 3508
+          },
+          "composite_score": 0.9944643786932441,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 41.274653673172,
+          "chars": 3712,
+          "words": 615,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nAn intraoperative non-microscopic consultation was obtained and interpreted as:\n\"Called to pick-up 'uterus, cervix, right and left tubes and ovaries' consisting\nof above mentioned parts weighing overall 192 grams. The uterus measures 9.5 x\n6.5 x 6 cm, the right ovary 2 x 1 x 1 cm and shows a 1 cm cyst, the right\nfallopian tube 4.5 x 0.6 x 0.5 cm, the left ovary is not grossly identified, the\nleft fallopian tube 4.5 x 0.6 x 0.5 cm. The endometrium shows two sessile\npolypoid masses on anterior surface measuring 3.5 x 0.8 x 0.5 cm, and on\nposterior surface measuring 3.6 x 3 x 2 cm. Both portions of the lower uterine\nsegment are apparently not involved. The anterior uterus further shows an\nintramural nodule that measures 5 x 4.5 x 3.5 cm, and a posterior cervical\nintramural nodule that measures 3 x 2.5 x 1.5 cm. Portions of mass on posterior\nupper uterine segment, and normal uterus are given for and Tumor Bank.\nRemainder for permanents,\" by , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nM.D.\nHistory:\nThe patient is a _ year old woman with endometrial carcinoma. Operative\nprocedure: Total abdominal hysterectomy with bilateral salpingo-oophorectomy and\nstaging.\nSpecimen(s) Received:\nA: UTERUS, CERVIX BILATERAL ADNEXA\nB: LYMPH NODE, RIGHT EXTERNAL ILIAC\nC: LYMPH NODE, RIGHT OBTURATOR\nD: LYMPH NODE, LEFT EXTERNAL ILIAC\nE: LYMPH NODE, LEFT OBTURATOR\nF: LYMPH NODE, RIGHT PERI AORTIC\nG: LYMPH NODE, LEFT PERI AORTIC\n\nGross Description\nReceived are seven formalin-filled containers, each labeled \"\nThe first container is labeled \"uterus, cervix, right and left tube with ovary.\"\nIt contains a 192 gram uterus that measures, consistent with that described in\nthe intraoperative consultation, 9.5 x 6.5 x 6 cm. The attached adnexal\nstructures are markedly matted together by dense adhesions and no definite\ngrossly identified ovary is seen. The adnexal structures of the left measure 5\nx 3.5 x 1.5 cm, while those on the right measure 5.5 x 2.5 x 1.5 cm. As\nmentioned, a tubal structure, consistent with the fallopian tube is identified\non both sides, while a well circumscribed ovarian structure is not seen. The\nposterior serosal aspect of the uterus is markedly roughened with multiple\nadhesions, that are continuous with those seen around both adnexa. The\nectocervix measures 3.5 x 3 cm and is grossly unremarkable. It is continuous\nwith a 2.5 cm in length unremarkable endocervical canal. The endometrial cavity\nmeasures 4 x 2.5 cm and shows a polypoid tumor measuring 3 x 2.5 cm, located on\nthe posterior fundus close to the right cornu. The tumor extends to partially\ninvolve the anterior fundus. On sectioning the myometrial wall measures up to\n2.3 cm in thickness in the vicinity of the tumor and is apparently involved by\ntumor at least in its luminal one third. The remainder of the endometrial cavity\nis lined by thin tan unremarkable endometrium. The myometrium also displays the\npresence of two white whorled masses, one in the cervix, measuring 2.2 cm in\ngreatest dimension and the other in the fundus, measuring 4.8 cm in maximum\ndimension. None of these show any evidence of hemorrhage or necrosis. Although\nboth fallopian tubes are identified, with measurements consistent with those\ndescribed in the intraoperative consultation (4.5 x 0.6 cm for the right, and\n4.5 x 0.6 cm for the left), as mentioned definitive ovaries are not seen.\nLabeled A1 and A2 - anterior contiguous segments of cervix and endometrium; A3\nto A5 - posterior contiguous segment of cervix lower uterine segment and\nendometrium including tumor; A6 through A9 - additional sections of tumor; A10 -\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9943533003382847,
+            "mean_log_probability": -0.006931301449275362,
+            "perplexity": 1.0069553785154874,
+            "min_probability": 0.3921017133567814
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1036,
+            "total_tokens": 3508
+          },
+          "composite_score": 0.9447684721948088
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 44.92618250846863,
+          "chars": 3712,
+          "words": 615,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nAn intraoperative non-microscopic consultation was obtained and interpreted as:\n\"Called to pick-up 'uterus, cervix, right and left tubes and ovaries' consisting\nof above mentioned parts weighing overall 192 grams. The uterus measures 9.5 x\n6.5 x 6 cm, the right ovary 2 x 1 x 1 cm and shows a 1 cm cyst, the right\nfallopian tube 4.5 x 0.6 x 0.5 cm, the left ovary is not grossly identified, the\nleft fallopian tube 4.5 x 0.6 x 0.5 cm. The endometrium shows two sessile\npolypoid masses on anterior surface measuring 3.5 x 0.8 x 0.5 cm, and on\nposterior surface measuring 3.6 x 3 x 2 cm. Both portions of the lower uterine\nsegment are apparently not involved. The anterior uterus further shows an\nintramural nodule that measures 5 x 4.5 x 3.5 cm, and a posterior cervical\nintramural nodule that measures 3 x 2.5 x 1.5 cm. Portions of mass on posterior\nupper uterine segment, and normal uterus are given for and Tumor Bank.\nRemainder for permanents,\" by , M.D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nM.D.\nHistory:\nThe patient is a _ year old woman with endometrial carcinoma. Operative\nprocedure: Total abdominal hysterectomy with bilateral salpingo-oophorectomy and\nstaging.\nSpecimen(s) Received:\nA: UTERUS, CERVIX BILATERAL ADNEXA\nB: LYMPH NODE, RIGHT EXTERNAL ILIAC\nC: LYMPH NODE, RIGHT OBTURATOR\nD: LYMPH NODE, LEFT EXTERNAL ILIAC\nE: LYMPH NODE, LEFT OBTURATOR\nF: LYMPH NODE, RIGHT PERI AORTIC\nG: LYMPH NODE, LEFT PERI AORTIC\n\nGross Description\nReceived are seven formalin-filled containers, each labeled \"\nThe first container is labeled \"uterus, cervix, right and left tube with ovary.\"\nIt contains a 192 gram uterus that measures, consistent with that described in\nthe intraoperative consultation, 9.5 x 6.5 x 6 cm. The attached adnexal\nstructures are markedly matted together by dense adhesions and no definite\ngrossly identified ovary is seen. The adnexal structures of the left measure 5\nx 3.5 x 1.5 cm, while those on the right measure 5.5 x 2.5 x 1.5 cm. As\nmentioned, a tubal structure, consistent with the fallopian tube is identified\non both sides, while a well circumscribed ovarian structure is not seen. The\nposterior serosal aspect of the uterus is markedly roughened with multiple\nadhesions, that are continuous with those seen around both adnexa. The\nectocervix measures 3.5 x 3 cm and is grossly unremarkable. It is continuous\nwith a 2.5 cm in length unremarkable endocervical canal. The endometrial cavity\nmeasures 4 x 2.5 cm and shows a polypoid tumor measuring 3 x 2.5 cm, located on\nthe posterior fundus close to the right cornu. The tumor extends to partially\ninvolve the anterior fundus. On sectioning the myometrial wall measures up to\n2.3 cm in thickness in the vicinity of the tumor and is apparently involved by\ntumor at least in its luminal one third. The remainder of the endometrial cavity\nis lined by thin tan unremarkable endometrium. The myometrium also displays the\npresence of two white whorled masses, one in the cervix, measuring 2.2 cm in\ngreatest dimension and the other in the fundus, measuring 4.8 cm in maximum\ndimension. None of these show any evidence of hemorrhage or necrosis. Although\nboth fallopian tubes are identified, with measurements consistent with those\ndescribed in the intraoperative consultation (4.5 x 0.6 cm for the right, and\n4.5 x 0.6 cm for the left), as mentioned definitive ovaries are not seen.\nLabeled A1 and A2 - anterior contiguous segments of cervix and endometrium; A3\nto A5 - posterior contiguous segment of cervix lower uterine segment and\nendometrium including tumor; A6 through A9 - additional sections of tumor; A10 -\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.99414494472014,
+            "mean_log_probability": -0.007246886956521739,
+            "perplexity": 1.0072732091881298,
+            "min_probability": 0.39109882561476667
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1036,
+            "total_tokens": 3508
+          },
+          "composite_score": 0.9445319919492645
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

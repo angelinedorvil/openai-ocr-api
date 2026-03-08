@@ -1,0 +1,103 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A05Y\TCGA-AX-A05Y.pdf
+Processing Date: 2026-03-08 10:47:47
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+Primary Tumor Site Discrepency
+HIPAA Discrepency
+Prior Malnenancy History
+Dual/Synchronous Primary Noted
+Case is (circle):  QUALIFIED  DISQUALIFIED
+Reviewer Initials  Date Retived:  10/28/11
+
+Patient Name:
+DOB:  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+================================================================================
+PAGE 2
+================================================================================
+Patient Name:
+DOR:
+MRN:
+Accession:
+PAN:
+
+right ovary 3.2 x 1.5 x 1.4 cm, right fallopian tube 3 x 0.3 x 0.3 cm, left ovary 2.5 x 1.5 x 2.5 cm, left fallopian tube 4 x 0.4 x 0.4 cm. Both ovaries and fallopian tubes are unremarkable. The uterus is opened to show a fungating mass on posterior endometrial wall descending into the lower uterine segment and abutting the endocervix, measuring 4.8 x 2.5 x 0.8 cm. Anterior endocervix is roughened and 0.2 cm in thickness. The maximum thickness of the myometrium is 1.7 cm. Tumor and normal taken for and tumor bank. Rest for permanents," by M.D.
+Microscopic Description and Comment:
+Microscopic examination substantiates the above cited diagnosis.
+M.D.
+History:
+The patient is a year old woman with endometrial carcinoma. Operative procedure: Examination under anesthesia, total abdominal hysterectomy and bilateral salpingo-oophorectomy, bilateral pelvic lymph node dissection.
+Specimen(s) Received:
+A: CERVIX, UTERUS, LEFT FALLOPIAN TUBE, RIGHT FALLOPIAN TUBE, LEFT OVARY, AND RIGHT OVARY
+B: LYMPH NODE, LEFT PELVIC
+C: LYMPH NODE, LEFT OBTURATOR
+D: LYMPH NODE, RIGHT EXTERNAL ILIAC
+E: LYMPH NODE, RIGHT OBTURATOR
+F: LYMPH NODE, RIGHT PERI-AORTIC
+G: LYMPH NODE, LEFT PERI-AORTIC
+Gross Description
+The specimens are received in seven formalin-filled containers, each labeled "The first container is labeled "cervix, uterus, bilateral salpingo-oophorectomy." It consists of a hysterectomy and bilateral salpingo-oophorectomy specimen with measurements as described in the intraoperative consultation. There is a 4.8 x 2.5 x 0.7 cm polypoid endometrial mass occupying the posterior uterine wall and the lateral anterior uterine walls. The mass grossly appears to involve the lower uterine segment and appears to end just before the beginning of the endocervix. The maximum myometrial wall thickness is 1.7 cm. Grossly, the tumor appears to extend ~ 0.6 cm of total 1.7 cm wall thickness. The probable fallopian tubes bilaterally are sclerosed and adhered with the surrounding tissue, probably due to a prior procedure. Lumen of both probable fallopian tubes is not identified Labeled Al-posterior cervix; A2 - posterior endocervix; A3 - posterior endomyometrium; A4 - anterior cervix; A5 - anterior endocervix; A6 - anterior endomyometrium; A7 - posterior endomyometrium; A8 - posterior lower uterine segment; A9 - anterior endomyometrium; A10 - right ovary and periadeneal tissue; All - left ovary and periadeneal tissue. Jar 3
+The second container is labeled "left pelvic lymph node (external iliac)." It consists of multiple irregular fatty tissue fragments, aggregating to 5 x 4 x 1 cm. Dissection of these fatty tissue fragments reveals seven lymph nodes. Labeled B1- two lymph nodes; B2 - two lymph nodes; B3 - one lymph node; B4 - two lymph node. Jar 1.
+The third container is labeled "left obturator lymph node." It consists of multiple irregular tan-yellow fatty tissue fragments, aggregating to 3 x 3 x 1 cm. Dissection of these fragments reveals two lymph nodes, the largest measuring 1.5 x 1 x 1 cm. Labeled Cl- one lymph node; C2 - one lymph node. Jar 1.
+The fourth container is labeled "right external iliac lymph node." It consists of multiple irregular tan-yellow fatty tissue fragments aggregating to 6 x 3 x 1 cm. Dissection of these fatty tissue fragments reveals seven lymph nodes. Labeled Dl-three lymph nodes; D2 - two lymph nodes; D3 and D4 - one lymph node each. Jar 1.
+
+Page 2 of 3
+
+================================================================================
+PAGE 3
+================================================================================
+Patient Name:
+DOB:                          MRN:
+          Accession:                          PAN:
+___________________________________________________________
+
+The fifth container is labeled "right obturator lymph node." It consists of irregular tan-yellow fatty tissue fragments measuring 4 x 2 x 1 cm. Dissection of this fragment reveals eight lymph nodes, the largest measures 2 x 1 x 0.5 cm. Labeled E1- one lymph node; E2- three lymph nodes; E3 - four lymph nodes. Jar 1.
+The sixth container is labeled "right peri-aortic lymph node." It consists of multiple irregular tan-yellow fatty tissue fragments aggregating to 3 x 3 x 1 cm. Dissection of these fatty tissue fragments reveals three lymph nodes. Labeled F1- three lymph nodes. Jar 1.
+The seventh container is labeled "left peri-aortic lymph node." It consists of multiple irregular tan-yellow fatty tissue fragments aggregating to 2 x 1 x 1 cm. Dissection of these fatty tissue fragments reveals three lymph nodes. Labeled G1 - three lymph nodes. Jar 1.
+                  , M.D.
+SYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS
+Endometrioid adenocarcinoma
+
+HISTOPATHOLOGIC TYPE
+The histologic diagnosis is adenocarcinoma, endometrioid type
+
+FIGO GRADE
+The FIGO Grade of the tumor is 0 to 5% solid growth pattern (FI)
+
+TUMOR INVASION
+Invasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium
+
+TUMOR SIZE
+The tumor invades to a depth of 3 mm
+The myometrial thickness is 9 mm
+
+ENDOCERVICAL INVOLVEMENT
+The endocervix is not involved by tumor
+
+LYMPHVASCULAR SPACE INVASION
+Lymphvascular space invasion by tumor is absent
+
+REGIONAL LYMPH NODES (N)
+No regional lymph node metastasis (NO)
+The total number of lymph nodes examined is 30
+
+DISTANT METASTASIS (M)
+Distant metastasis cannot be assessed (MX)
+
+PRIMARY TUMOR (TNM Category/FIGO Stage)
+Tumor invades less than one-half of the myometrium (T1b/IB)
+
+STAGE GROUPING
+The overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)
+
+The pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.
+
+Page 3 of 3

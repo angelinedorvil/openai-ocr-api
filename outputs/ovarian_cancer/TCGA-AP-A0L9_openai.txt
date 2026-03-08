@@ -1,0 +1,116 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A0L9\TCGA-AP-A0L9.pdf
+Processing Date: 2026-03-08 05:53:49
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+TSS Name/#: 
+
+Specimens Submitted:                                         /CD-0-3
+1: SP: Uterus,cervix,rt.tubeovary,lt.tubeovary (
+2: SP: Anterior vaginal wall
+3: SP: Left external iliac lymph nodes
+4: SP: Left obturator lymph nodes
+5: SP: Left common iliac lymph node
+6: SP: Right external iliac lymph no<,,
+7: Right common iliac lymph node
+8: SP: Right obturator lymph node
+9: SP: Right para-aortic lymph node
+10: SP: Left para-aortic lymph node
+11: SP: Omentum
+
+DIAGNOSIS:
+
+1) UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES, HYSTERECTOMY
+WITH BILATERAL SALPINGO-OOPHORECTOMY:
+- ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE. THE
+TUMOR ARISES WITHIN AN ENDOMETRIAL POLYP. THE TUMOR INVADES
+THE ENDOMETRIAL POLYP, HOWEVER NO MYOMETRIAL INVASION IS
+IDENTIFIED. NO ENDOCERVICAL INVASION IS IDENTIFIED. NO
+VASCULAR INVASION IS IDENTIFIED. THE UNINVOLVED ENDOMETRIUM
+IS UNREMARKABLE. THE MYOMETRIUM SHOWS THE FOLLOWING
+ABNORMALITY (IES): LEIOMYOMA(S). ALL ADNEXAE ARE
+UNREMARKABLE. THE PARAMETRIAL SOFT TISSUE IS UNREMARKABLE.
+
+2) ANTERIOR VAGINAL WALL, BIOPSY:
+- BENIGN SQUAMOUS EPITHELIUM AND FIBROMUSCULAR TISSUE.
+
+3) LYMPH NODES, LEFT EXTERNAL ILIAC, EXCISION:
+- TWO BENIGN LYMPH NODES (0/2).
+
+4) LYMPH NODES, LEFT OBTURATOR, EXCISION:
+- TWO BENIGN LYMPH NODES (0/2).
+
+5) LYMPH NODE, LEFT COMMON ILIAC, EXCISION:
+- ONE BENIGN LYMPH NODE (0/1).
+
+6) LYMPH NODES, RIGHT EXTERNAL ILIAC, EXCISION:
+- THREE BENIGN LYMPH NODES (0/3).
+
+** Continued on next page **
+
+
+Adno carcinoma, Serous, NOS 8441/3
+Site: Endometrium- C54.1
+
+lw
+5/1/11
+
+
+UUID:62E44C56-83BD-4318-88F7-80476A148C63
+TCGA-AP-A0L9-01A-PR
+
+Redacted
+
+
+Criteria
+Diagnosis Listcrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):  /  / 
+Reviewer Initials  Date Reviewed: 
+
+Yes
+No
+X
+X
+X
+X
+X
+X
+```
+
+================================================================================
+PAGE 2
+================================================================================
+TSS Name/#: 
+
+------------------------------------------------ Page 2 of 5
+7) LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:
+   - THREE BENIGN LYMPH NODES (0/3).
+
+8) LYMPH NODE, RIGHT OBTURATOR, EXCISION:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+9) LYMPH NODE, RIGHT PARA-AORTIC, EXCISION:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+10) LYMPH NODE, LEFT PARA-AORTIC, EXCISION:
+    - ONE BENIGN LYMPH NODE.
+
+11) OMENTUM, RESECTION:
+    - BENIGN FIBROADIPOSE TISSUE. NEGATIVE FOR TUMOR.
+
+** Report Electronically Signed Out **
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION
+OF THE SLIDES (AND/OR OTHER
+MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.

@@ -1,0 +1,107 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A0LO\TCGA-AP-A0LO.pdf
+Processing Date: 2026-03-08 07:22:30
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TSS Name/#.
+
+Specimens Submitted:
+1: SP: Uterus, cervix, bilateral tubes and ovaries (
+2: SP: Right para-aortic lymph node
+3: SP: Left para-aortic lymph node (
+4: SP: Right common iliac lymph node
+5: SP: Left common iliac lymph node (.
+6: SP: Left external iliac lymph node
+7: SP: Left internal iliac lymph node
+8: SP: Left obturator lymph node
+9: SP: Left hypogastric lymph node
+10: SP: Right obturator lymph node
+11: SP: Right hypogastric lymph node
+12: SP: Right external iliac lymph node
+
+DIAGNOSIS:
+
+1) UTERUS, OVARIES, FALLOPIAN TUBES; TOTAL HYSTERECTOMY AND BILATERAL
+SALPINGO-OOPHORECTOMY:
+- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE 2,.
+NUCLEAR GRADE 2.
+- THE TUMOR IS LIMITED TO THE ENDOMETRIUM.
+- NO ENDOCERVICAL INVASION IS IDENTIFIED.
+- NO VASCULAR INVASION IS IDENTIFIED.
+- THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH
+ATYPIA.
+- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: ADENOMYOSIS.
+- THE LEFT OVARY SHOWS SURFACE ADHESIONS.
+- ALL OTHER ADNEXAE ARE UNREMARKABLE.
+
+2) LYMPH NODES, RIGHT PARA-AORTIC; BIOPSY:
+- THREE BENIGN LYMPH NODES (0/3).
+
+3) LYMPH NODES, LEFT PARA-AORTIC; BIOPSY:
+- THREE BENIGN LYMPH NODES (0/3).
+
+4) LYMPH NODES, RIGHT COMMON ILIAC; BIOPSY:
+- BENIGN ADIPOSE TISSUE.
+
+** Continued on next page **
+
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: Endometrium C54.1
+5/1/11
+
+UUID:DC0116C2-788E-46F5-A4AC-115D857C1F85
+TCGA-AP-A0L0-01A-PR Redacted
+
+Criteria Yes No
+Diagnosis Discrepancy X
+Primary Tumor Site Discrepancy X
+HIPAA Discrepancy X
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): MALIGNANT UISQUALIFIED
+Reviewer Initials MLG Date Reviewed: 5/1/11
+
+================================================================================
+PAGE 2
+================================================================================
+TSS Name/#: I
+-------------------------------------------------- Page 2 of 6
+- NO LYMPH NODES ARE IDENTIFIED IN THE ENTIRELY SUBMITTED SPECIMEN.
+
+5) LYMPH NODES, LEFT COMMON ILIAC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+6) LYMPH NODES, LEFT EXTERNAL ILIAC; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+
+7) LYMPH NODES, LEFT INTERNAL ILIAC; BIOPSY:
+- BENIGN ADIPOSE TISSUE.
+- NO LYMPH NODES ARE IDENTIFIED IN THE ENTIRELY SUBMITTED SPECIMEN.
+
+8) LYMPH NODES, LEFT OBTURATOR; BIOPSY:
+- THREE BENIGN LYMPH NODES (0/3).
+
+9) LYMPH NODES, LEFT HYPOGASTRIC; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+
+10) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:
+- SIX BENIGN LYMPH NODES (0/6).
+
+11) LYMPH NODES, RIGHT HYPOGASTRIC; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+
+12) LYMPH NODES, RIGHT EXTERNAL ILIAC; BIOPSY:
+- BENIGN ADIPOSE TISSUE.
+- NO LYMPH NODES ARE IDENTIFIED IN THE ENTIRELY SUBMITTED SPECIMEN.
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+*** Report Electronically Signed Out ***

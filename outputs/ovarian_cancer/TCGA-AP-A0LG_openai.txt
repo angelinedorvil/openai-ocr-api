@@ -1,0 +1,88 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AP-A0LG\TCGA-AP-A0LG.pdf
+Processing Date: 2026-03-08 06:23:40
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+TSS Name/#: 
+
+Specimens Submitted:
+1: SP: Uterus, cervix, rt. fallopian tube & ovary
+2: SP: Rt. para-aortic lymph nodes
+3: SP: Lt. para-aortic lymph ndoes
+4: SP: Lt. external iliac lymph nodes
+5: SP: Lt. obturator lymph nodes
+6: SP: Rt. external iliac lymph nodes
+7: SP: Rt. obturator lymph nodes
+
+DIAGNOSIS:
+1) UTERUS, CERVIX, RIGHT ADNEXA; HYSTERECTOMY WITH RIGHT SALPINGO-OOPHORECTOMY:
+   - ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, NOS, FIGO GRADE II
+   (6-50% SOLID GROWTH), NUCLEAR GRADE 2 WITH FOCAL NUCLEAR GRADE 3.
+   - THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.
+   - THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 4 MM. THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 22 MM.
+   - NO ENDOCERVICAL INVASION IS IDENTIFIED.
+   - NO VASCULAR INVASION IS IDENTIFIED.
+   - THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: COMPLEX HYPERPLASIA WITH ATYPIA.
+   - THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: ADENOMYOSIS.
+   - ALL ADNEXAE ARE UNREMARKABLE.
+
+2) LYMPH NODES, RIGHT PARA-AORTIC; EXCISION:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+3) LYMPH NODES, LEFT PARA-AORTIC; EXCISION:
+   - ONE BENIGN LYMPH NODE, FIBROVASCULAR AND NERVE TISSUE (0/1).
+
+4) LYMPH NODES, LEFT EXTERNAL ILIAC; EXCISION:
+   - BENIGN FIBROADIPOSE TISSUE, NO LYMPH NODE PRESENT.
+
+5) LYMPH NODES, LEFT OBTURATOR; EXCISION:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+** Continued on next page **
+
+ICD-0-3
+
+adenocarcinoma, endometrioid, NOS
+8380/3
+
+Site: endometrium C54.1
+
+w
+5/11/11
+
+UUID: 7343A9B5-276E-4EE1-AC06-27835D63B0E2
+TCGA-AP-A0LG-01A-PR Redacted
+
+Criteria     Yes    No
+Diagnosis Discrepancy  2
+Primary Tumor Site Discrepancy  6
+H&E AA Discrepancy  6
+Prior Malignancy Hist ory
+Dual Syncronous Primary Needed
+Case is (circle): QUALIFIED / UNQUALIFIED
+Reviewer Initials  Date Reviewed
+  3/11/11
+
+================================================================================
+PAGE 2
+================================================================================
+```
+                                                                                      TSS Name/#: '
+
+--------------------------------------------- Page 2 of 4
+6)      LYMPH NODES, RIGHT EXTERNAL ILIAC; EXCISION:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+7)      LYMPH NODES, RIGHT OBTURATOR; EXCISION:
+        - ONE BENIGN LYMPH NODE (0/1).
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+```

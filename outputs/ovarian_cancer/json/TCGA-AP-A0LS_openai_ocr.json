@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-AP-A0LS\\TCGA-AP-A0LS.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 17.711586713790894,
+        "chars": 1620,
+        "words": 235,
+        "text": "TSS Name/#: \n\nICD-0-3\nadenocarcinoma, endometrioid, Nos 8380/3\nSite: Endometrium C54.1  5/1/11\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Right para-aortic lymph nodes (\n3: SP: Left external iliac lymph nodes (\n4: SP: Left obturator lymph nodes (\n5: SP: Right external iliac lymph nodes (\n6: SP: Right obturator lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY\nAND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, FIGO GRADE 2.\n- THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.\n- THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS APPROXIMATELY 6 MM.\n- THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION\nIS 28 MM.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- VASCULAR INVASION IS PRESENT.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ADENOMYOSIS AND\nLEIOMYOMA(S).\n- THERE IS A RIGHT PERITUBAL CELLULAR FIBROMA.\n- ALL OTHER ADNEXAL STRUCTURES ARE UNREMARKABLE.\n\n2) LYMPH NODE, RIGHT PARA-AORTIC; BIOPSY:\n- FIBROADIPOSE TISSUE WITH A MINUTE, BENIGN LYMPHOID AGGREGATE.\n\n3) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- ONE BENIGN LYMPH NODE (0/1).\n\n4) LYMPH NODES, LEFT OBTURATOR; BIOPSY:\n- SIX BENIGN LYMPH NODES (0/6).\n\n5) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- TWO BENIGN LYMPH NODES (0/2).\n\n** Continued on next page **\n\n\nUUID:E892CEF6-BC3F-4C35-85E8-2B37531571CD\nTCGA-AP-A0LS-01A-PR Redacted\n\nCriteria\nDiagnostic Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous or Primary N\nCase is Eligible: \nReviewer Initials: \nDate Reviewed: 5/1/11",
+        "confidence": {
+          "mean_probability": 0.9607300502438642,
+          "mean_log_probability": -0.05685008952702703,
+          "perplexity": 1.058497118697319,
+          "min_probability": 0.17511716759131588
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 593,
+          "total_tokens": 3065
+        },
+        "composite_score": 0.9189663928003495,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 17.711586713790894,
+          "chars": 1620,
+          "words": 235,
+          "text": "TSS Name/#: \n\nICD-0-3\nadenocarcinoma, endometrioid, Nos 8380/3\nSite: Endometrium C54.1  5/1/11\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Right para-aortic lymph nodes (\n3: SP: Left external iliac lymph nodes (\n4: SP: Left obturator lymph nodes (\n5: SP: Right external iliac lymph nodes (\n6: SP: Right obturator lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY\nAND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, FIGO GRADE 2.\n- THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.\n- THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS APPROXIMATELY 6 MM.\n- THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION\nIS 28 MM.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- VASCULAR INVASION IS PRESENT.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ADENOMYOSIS AND\nLEIOMYOMA(S).\n- THERE IS A RIGHT PERITUBAL CELLULAR FIBROMA.\n- ALL OTHER ADNEXAL STRUCTURES ARE UNREMARKABLE.\n\n2) LYMPH NODE, RIGHT PARA-AORTIC; BIOPSY:\n- FIBROADIPOSE TISSUE WITH A MINUTE, BENIGN LYMPHOID AGGREGATE.\n\n3) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- ONE BENIGN LYMPH NODE (0/1).\n\n4) LYMPH NODES, LEFT OBTURATOR; BIOPSY:\n- SIX BENIGN LYMPH NODES (0/6).\n\n5) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- TWO BENIGN LYMPH NODES (0/2).\n\n** Continued on next page **\n\n\nUUID:E892CEF6-BC3F-4C35-85E8-2B37531571CD\nTCGA-AP-A0LS-01A-PR Redacted\n\nCriteria\nDiagnostic Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous or Primary N\nCase is Eligible: \nReviewer Initials: \nDate Reviewed: 5/1/11",
+          "confidence": {
+            "mean_probability": 0.9607300502438642,
+            "mean_log_probability": -0.05685008952702703,
+            "perplexity": 1.058497118697319,
+            "min_probability": 0.17511716759131588
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 593,
+            "total_tokens": 3065
+          },
+          "composite_score": 0.9189663928003495,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.21915292739868,
+          "chars": 1639,
+          "words": 237,
+          "text": "TSS Name/#: \n\nICD-0-3\n\nSpecimens Submitted:\n1: SP: Uterus, cervix, bilateral tubes and ovaries\n2: SP: Right para-aortic lymph nodes (\n3: SP: Left external iliac lymph nodes (\n4: SP: Left obturator lymph nodes (\n5: SP: Right external iliac lymph nodes (\n6: SP: Right obturator lymph nodes\n\nDIAGNOSIS:\n\n1) UTERUS, CERVIX, FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY\nAND BILATERAL SALPINGO-OOPHORECTOMY:\n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, FIGO GRADE 2. \\\n- THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.\n- THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS APPROXIMATELY 6 MM.\n- THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION\nIS 28 MM.\n- NO ENDOCERVICAL INVASION IS IDENTIFIED.\n- VASCULAR INVASION IS PRESENT.\n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ADENOMYOSIS AND\nLEIOMYOMA(S).\n- THERE IS A RIGHT PERITUBAL CELLULAR FIBROMA.\n- ALL OTHER ADNEXAL STRUCTURES ARE UNREMARKABLE.\n\n2) LYMPH NODE, RIGHT PARA-AORTIC; BIOPSY:\n- FIBROADIPOSE TISSUE WITH A MINUTE, BENIGN LYMPHOID AGGREGATE.\n\n3) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- ONE BENIGN LYMPH NODE (0/1).\n\n4) LYMPH NODES, LEFT OBTURATOR; BIOPSY:\n- SIX BENIGN LYMPH NODES (0/6).\n\n5) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:\n- TWO BENIGN LYMPH NODES (0/2).\n\n** Continued on next page **\n\n\nadenocarcinoma, endometrioid, Nos 8380/3\nSite: endometrium C54.1\n\n5/1/11\n\n\nUUID:E892CEF6-BC3F-4C35-85E8-2B37531571CD\nTCGA-AP-A0LS-01A-PR Redacted\n\nCriteria\nDiagnostic Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous orimary N\nCase is cliche?\nReviewer initial\nDate Reviewed:\nQUALIFIED\nDISQUALIFIED\n\n5/1/11",
+          "confidence": {
+            "mean_probability": 0.9570103608221782,
+            "mean_log_probability": -0.06227267953020134,
+            "perplexity": 1.0642525050389369,
+            "min_probability": 0.1380563974688848
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 597,
+            "total_tokens": 3069
+          },
+          "composite_score": 0.8711521866264282
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 16.555985927581787,
+          "chars": 1745,
+          "words": 245,
+          "text": "TSS Name/#:  \n\nICD-0-3  \nadenocarcinoma, endometrioid, Nos 8380/3  \nSite: Endometrium C54.1  /w 5/1/11  \n\nSpecimens Submitted:  \n1: SP: Uterus, cervix, bilateral tubes and ovaries  \n2: SP: Right para-aortic lymph nodes (  \n3: SP: Left external iliac lymph nodes (  \n4: SP: Left obturator lymph nodes (  \n5: SP: Right external iliac lymph nodes (  \n6: SP: Right obturator lymph nodes '  \n\nDIAGNOSIS:  \n\n1) UTERUS, CERVIX, FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY  \nAND BILATERAL SALPINGO-OOPHORECTOMY:  \n- ADENOCARCINOMA OF ENDOMETRIUM, ENDOMETRIOID TYPE, FIGO GRADE 2. \\  \n- THE TUMOR INVADES TO <= HALF OF MYOMETRIUM.  \n- THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS APPROXIMATELY 6 MM.  \n- THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION  \nIS 28 MM.  \n- NO ENDOCERVICAL INVASION IS IDENTIFIED.  \n- VASCULAR INVASION IS PRESENT.  \n- THE MYOMETRIUM SHOWS THE FOLLOWING ABNORMALITY(IES): ADENOMYOSIS AND  \nLEIOMYOMA(S).  \n- THERE IS A RIGHT PERITUBAL CELLULAR FIBROMA.  \n- ALL OTHER ADNEXAL STRUCTURES ARE UNREMARKABLE.  \n\n2) LYMPH NODE, RIGHT PARA-AORTIC; BIOPSY:  \n- FIBROADIPOSE TISSUE WITH A MINUTE, BENIGN LYMPHOID AGGREGATE.  \n\n3) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:  \n- ONE BENIGN LYMPH NODE (0/1).  \n\n4) LYMPH NODES, LEFT OBTURATOR; BIOPSY:  \n- SIX BENIGN LYMPH NODES (0/6).  \n\n5) LYMPH NODE, EXTERNAL ILIAC; BIOPSY:  \n- TWO BENIGN LYMPH NODES (0/2).  \n\n** Continued on next page **  \n\n\nUUID:E892CEF6-BC3F-4C35-85E8-2B37531571CD  \nTCGA-AP-A0LS-01A-PR Redacted  \n\nCriteria  \nDiagnostic Discrepancy  \nPrimary Tumor Site Discrepancy  \nHIPAA Discrepancy  \nPrior Malignancy History  \nDual/Synchronous or primary Tumors  \nCase is cliche:  \nReviewer Initials:  \nYes No  \nX  \nX  \nX  \nX  \nX  \n\nDate Reviewed: 5/1/11",
+          "confidence": {
+            "mean_probability": 0.9599724027681786,
+            "mean_log_probability": -0.058023905511811025,
+            "perplexity": 1.0597403290424356,
+            "min_probability": 0.15725996735577868
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 636,
+            "total_tokens": 3108
+          },
+          "composite_score": 0.88409525348459
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 2.306440830230713,
+        "chars": 253,
+        "words": 41,
+        "text": "- HISTIOCYTOSIS\n\n6) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n- FIVE BENIGN LYMPH NODES (0/5).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+        "confidence": {
+          "mean_probability": 0.9785232373022243,
+          "mean_log_probability": -0.02787963855421687,
+          "perplexity": 1.0282719126788333,
+          "min_probability": 0.35626551409878926
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 84,
+          "total_tokens": 2556
+        },
+        "composite_score": 0.8036012426681152,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 2.306440830230713,
+          "chars": 253,
+          "words": 41,
+          "text": "- HISTIOCYTOSIS\n\n6) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n- FIVE BENIGN LYMPH NODES (0/5).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9785232373022243,
+            "mean_log_probability": -0.02787963855421687,
+            "perplexity": 1.0282719126788333,
+            "min_probability": 0.35626551409878926
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 84,
+            "total_tokens": 2556
+          },
+          "composite_score": 0.8036012426681152,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.188859462738037,
+          "chars": 253,
+          "words": 41,
+          "text": "- HISTIOCYTOSIS\n\n6) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n- FIVE BENIGN LYMPH NODES (0/5).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9790428441576432,
+            "mean_log_probability": -0.028107638554216864,
+            "perplexity": 1.028506385403799,
+            "min_probability": 0.3121922796706902
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 84,
+            "total_tokens": 2556
+          },
+          "composite_score": 0.7632572093289326
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.246065139770508,
+          "chars": 253,
+          "words": 41,
+          "text": "- HISTIOCYTOSIS\n\n6) LYMPH NODES, RIGHT OBTURATOR; BIOPSY:\n- FIVE BENIGN LYMPH NODES (0/5).\n\nI ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.",
+          "confidence": {
+            "mean_probability": 0.9815612109599224,
+            "mean_log_probability": -0.02398518072289156,
+            "perplexity": 1.0242751387610334,
+            "min_probability": 0.3547535343712755
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 84,
+            "total_tokens": 2556
+          },
+          "composite_score": 0.7662332410560583
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

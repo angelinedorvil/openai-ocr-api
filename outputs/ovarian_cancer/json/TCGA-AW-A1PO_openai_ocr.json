@@ -1,0 +1,95 @@
+{
+  "pdf": "reports\\TCGA-AW-A1PO\\TCGA-AW-A1PO.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.536912679672241,
+        "chars": 1221,
+        "words": 149,
+        "text": "Project #:  \nTSS #  \n\nIndex 1\n\nSpecimen label  \nClinical Site #  \nCase #  \nEthnicity (Race)  \nClinical Diagnosis  \nDOB (mm/dd/yyyy)  \nSex  \nDate of procurement  \nAnatomical Site  \nTumor Location  \nTissue Specification  \nSpecimen Matrix  \nSpecimen Format  \n\n1  \nCaucasian (White)  \nEndometrial cancer  \nFemale  \nBlood  \nUterus  \nPrimary Tumor  \nTissue  \nFrozen  \nFrozen  \n\nCaucasian (White)  \nEndometrial cancer (Adenosarcoma)  \nFemale  \nn/a  \nTumor  \nBlood  \nnormal  \nBlood  \nFrozen  \n\nContainer  \nNumber of containers  \nAmount per container  \nUnit  \nType of Procurement  \nHistological description  \nGrade  \nTNM Stage (T)  \nTNM Stage (N)  \nTNM Stage (M)  \nChemo / Hormonal Details  \nPrior Radiation  \nCellular Tumor %  \n\ncryomold tube  \n1  \n4 ml  \n230 mg  \nSurgery  \nEndometrioid Adenocarcinoma  \n3  \n1  \n0  \n0  \nno  \nno  \nno  \n90  \nn/a  \nn/a  \nn/a  \nn/a  \n\nUID: 8353E404-2132-4BA9-9B9B-F6631F6EB7B5  \nTCGA-A1-A1P0-01A-01R-1836-01  \n\nCollected:  \nClinical Diagnosis:  \nPathologist:  \nDate of Collection:  \nDate of Shipment:  \nDate of Receipt:  \nPathologist Initials:  \nReviewer Initials:  \n\nAdenosarcoma, endometrioid, NS  \nStr. Endometrium CS#1 3/24/11 L 8360/3  \n\nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \n\n[Signature]  \n3/24/11",
+        "confidence": {
+          "mean_probability": 0.8554828825206362,
+          "mean_log_probability": -0.20710305440414506,
+          "perplexity": 1.2301093334333575,
+          "min_probability": 0.1495203163599584
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 387,
+          "total_tokens": 2859
+        },
+        "composite_score": 0.7848437459305404,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.536912679672241,
+          "chars": 1221,
+          "words": 149,
+          "text": "Project #:  \nTSS #  \n\nIndex 1\n\nSpecimen label  \nClinical Site #  \nCase #  \nEthnicity (Race)  \nClinical Diagnosis  \nDOB (mm/dd/yyyy)  \nSex  \nDate of procurement  \nAnatomical Site  \nTumor Location  \nTissue Specification  \nSpecimen Matrix  \nSpecimen Format  \n\n1  \nCaucasian (White)  \nEndometrial cancer  \nFemale  \nBlood  \nUterus  \nPrimary Tumor  \nTissue  \nFrozen  \nFrozen  \n\nCaucasian (White)  \nEndometrial cancer (Adenosarcoma)  \nFemale  \nn/a  \nTumor  \nBlood  \nnormal  \nBlood  \nFrozen  \n\nContainer  \nNumber of containers  \nAmount per container  \nUnit  \nType of Procurement  \nHistological description  \nGrade  \nTNM Stage (T)  \nTNM Stage (N)  \nTNM Stage (M)  \nChemo / Hormonal Details  \nPrior Radiation  \nCellular Tumor %  \n\ncryomold tube  \n1  \n4 ml  \n230 mg  \nSurgery  \nEndometrioid Adenocarcinoma  \n3  \n1  \n0  \n0  \nno  \nno  \nno  \n90  \nn/a  \nn/a  \nn/a  \nn/a  \n\nUID: 8353E404-2132-4BA9-9B9B-F6631F6EB7B5  \nTCGA-A1-A1P0-01A-01R-1836-01  \n\nCollected:  \nClinical Diagnosis:  \nPathologist:  \nDate of Collection:  \nDate of Shipment:  \nDate of Receipt:  \nPathologist Initials:  \nReviewer Initials:  \n\nAdenosarcoma, endometrioid, NS  \nStr. Endometrium CS#1 3/24/11 L 8360/3  \n\nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \n\n[Signature]  \n3/24/11",
+          "confidence": {
+            "mean_probability": 0.8554828825206362,
+            "mean_log_probability": -0.20710305440414506,
+            "perplexity": 1.2301093334333575,
+            "min_probability": 0.1495203163599584
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 387,
+            "total_tokens": 2859
+          },
+          "composite_score": 0.7848437459305404,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 7.383551597595215,
+          "chars": 1198,
+          "words": 147,
+          "text": "Project #:  \nTSS #  \n\nIndex  \n1  \n\nSpecimen label  \nClinical Site #  \nCase #  \nEthnicity (Race)  \nClinical Diagnosis  \nDOB (mm/dd/yy)  \nSex  \nDate of procurement  \nAnatomical Site  \nTumor Location  \nTissue Specification  \nSpecimen Matrix  \nSpecimen Format  \n\nCaucasian (White)  \nEndometrial cancer  \nFemale  \nBlood  \nPrimary Tumor  \nTissue  \nFrozen  \nFrozen  \n\nCaucasian (White)  \nEndometrial cancer (Aucasian)  \nFemale  \nn/a  \nTumor  \nBlood  \nFrozen  \n\nContainer  \nNumber of containers  \nAmount per container  \nUnit  \n\ncryomold tube  \n1  \n4 ml  \n\n230 mg  \n\nType of Procurement  \nHistological description  \nGrade  \nTNM Stage (T)  \nTNM Stage (N)  \nTNM Stage (M)  \nChemo / Hormonal Details  \nPrior Radiation  \nCellular Tumor %  \n\nSurgery  \nEndometrioid Adenocarcinoma  \n3  \n1  \n0  \n0  \nno  \nno  \nno  \n90  \nn/a  \nn/a  \nn/a  \n\n1COV-0-3  \nAdenocarcinoma, endometrioid, NS  \nStr. Endometrium CSF1 3/24/11 L 8360/3  \n\nUUID: 8353E404-2132-4BA9-9B9B-F6631F6EB7B5  \nTCGA-A1-A1PO-01A-01-PA  \n\nCollected:  \nClinical Diagnosis:  \nPathologist:  \nDate of Diagnosis:  \nPMH:  \nPrior Treatment History:  \nReviewer Initials:  \nReviewed Date:  \n\nYes No  \nYes No  \nYes No  \nYes No  \n\n[Signatures and initials]  \n3/24/11",
+          "confidence": {
+            "mean_probability": 0.8623787541366933,
+            "mean_log_probability": -0.2032494,
+            "perplexity": 1.225378039424222,
+            "min_probability": 0.13351839772001897
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 376,
+            "total_tokens": 2848
+          },
+          "composite_score": 0.7454330035103279
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.296142339706421,
+          "chars": 1245,
+          "words": 148,
+          "text": "Project #:  \nTSS #:  \n\nIndex  \n1  \n\nSpecimen label  \nClinical Site #  \nCase #  \nEthnicity (Race)  \nClinical Diagnosis  \nDOB (mm/dd/yyyy)  \nSex  \nDate of procurement  \nAnatomical Site  \nTumor Location  \nTissue Specification  \nSpecimen Matrix  \nSpecimen Format  \n\nCaucasian (White)  \nEndometrial cancer  \nFemale  \nn/a  \nUterus  \nPrimary Tumor  \nTissue  \nFrozen  \nFrozen  \n\nCaucasian (White)  \nEndometrial cancer (Adenosarcoma)  \nFemale  \nBlood  \nnormal  \nBlood  \nFrozen  \n\nContainer  \nNumber of containers  \nAmount per container  \nUnit  \n\ncryomold tube  \n1  \n4 ml  \n\n230 mg  \n\nType of Procurement  \nHistological description  \nGrade  \nTNM Stage (T)  \nTNM Stage (N)  \nTNM Stage (M)  \nChemo / Hormonal Details  \nPrior Radiation  \nCellular Tumor %  \n\nSurgery  \nEndometrioid Adenocarcinoma  \n3  \n1  \n0  \n0  \nno  \nno  \nno  \n90  \n\nn/a  \nn/a  \nn/a  \nn/a  \n\n10cv-03  \nAdenosarcoma, endometrioid, NS  \nStrh, Endometrium CSF1 3/24/11 L 8360/3  \n\nUID: 83531804-2132-4BA9-9B9B-F6631F6EB795  \nTCGA-A1-A1P0-01A-01R-1849-01  \n\nCollected  \nClinical Specimen ID  \nClinical Specimen Type  \nClinical Specimen Description  \nDate Collected  \nDate Received  \nDate Processed  \nReviewer Initials  \n\nYes  \nYes  \nYes  \nYes  \n\n11/18/2011  \n11/18/2011  \n11/18/2011  \n\nRedacted",
+          "confidence": {
+            "mean_probability": 0.8562653038066805,
+            "mean_log_probability": -0.22609360465116277,
+            "perplexity": 1.2536930112830218,
+            "min_probability": 0.04365602397143788
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 388,
+            "total_tokens": 2860
+          },
+          "composite_score": 0.5166908565217763
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

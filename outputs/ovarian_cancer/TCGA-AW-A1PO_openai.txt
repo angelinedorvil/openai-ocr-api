@@ -1,0 +1,108 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AW-A1PO\TCGA-AW-A1PO.pdf
+Processing Date: 2026-03-08 10:03:34
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Project #:  
+TSS #  
+
+Index 1
+
+Specimen label  
+Clinical Site #  
+Case #  
+Ethnicity (Race)  
+Clinical Diagnosis  
+DOB (mm/dd/yyyy)  
+Sex  
+Date of procurement  
+Anatomical Site  
+Tumor Location  
+Tissue Specification  
+Specimen Matrix  
+Specimen Format  
+
+1  
+Caucasian (White)  
+Endometrial cancer  
+Female  
+Blood  
+Uterus  
+Primary Tumor  
+Tissue  
+Frozen  
+Frozen  
+
+Caucasian (White)  
+Endometrial cancer (Adenosarcoma)  
+Female  
+n/a  
+Tumor  
+Blood  
+normal  
+Blood  
+Frozen  
+
+Container  
+Number of containers  
+Amount per container  
+Unit  
+Type of Procurement  
+Histological description  
+Grade  
+TNM Stage (T)  
+TNM Stage (N)  
+TNM Stage (M)  
+Chemo / Hormonal Details  
+Prior Radiation  
+Cellular Tumor %  
+
+cryomold tube  
+1  
+4 ml  
+230 mg  
+Surgery  
+Endometrioid Adenocarcinoma  
+3  
+1  
+0  
+0  
+no  
+no  
+no  
+90  
+n/a  
+n/a  
+n/a  
+n/a  
+
+UID: 8353E404-2132-4BA9-9B9B-F6631F6EB7B5  
+TCGA-A1-A1P0-01A-01R-1836-01  
+
+Collected:  
+Clinical Diagnosis:  
+Pathologist:  
+Date of Collection:  
+Date of Shipment:  
+Date of Receipt:  
+Pathologist Initials:  
+Reviewer Initials:  
+
+Adenosarcoma, endometrioid, NS  
+Str. Endometrium CS#1 3/24/11 L 8360/3  
+
+Yes  
+Yes  
+Yes  
+No  
+No  
+No  
+
+[Signature]  
+3/24/11

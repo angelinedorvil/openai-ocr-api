@@ -5,3 +5,166 @@ Source PDF: reports\TCGA-AJ-A23M\TCGA-AJ-A23M.pdf
 Processing Date: 2026-03-08 03:40:57
 ================================================================================
 
+
+================================================================================
+PAGE 1
+================================================================================
+Cytology
+
+Collection Date: .
+Hospital of Origin:
+Copy to
+
+QC Pathologist:
+
+FINAL PATHOLOGIC DIAGNOSIS:
+Peritoneal washing, cytologic analysis by ThinPrep monolayer:
+Malignant cells identifled - adenocarcinoma;
+
+COMMENTS: ..
+
+CLINICAL HISTORY:
+The patient is a year old female with serous endometrial cancer.
+
+CODES:
+
+PROCEDURAL DEMOGRAPHICS
+Date of Procedure: (
+Accession Date/Time:
+
+GROSS DESCRIPTION:
+A. A liquid based preparation is reviewed that has been prepared from 300 mls of red fluid submitte or pelvic washings.
+
+INTRA-PROCEDURE CONSULTATION:
+
+MICROSCOPIC DESCRIPTION:
+
+UUID:89651546-2908-4058-8275-24C8A53A10A3
+TCGA-AD-A23M-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Collection Uate:
+Hospital of Origin:
+Copy to
+
+QC Pathologist:
+
+FINAL PATHOLOGIC DIAGNOSIS:
+A. Uterus, hysterectomy:
+Endometrium, papillary serous carcinoma (see comment).
+Grade 3
+Tumor size: 11.0 x 8.5 cm.
+Tumor invades greater than one-half of myometrium (8.0 mm
+invasion depth into 9.0 mm myometrial thickness, located in
+the lower uterine segment).
+Tumor involves uterine corpus, lower uterine segment, and
+cervix with stromal invasion.
+Lymphovascular space invasion present.
+Surgical margins free of tumor (cervical and parametrial).
+B. Lymph nodes, right pelvic, dissection:
+Negative for neoplasm, two nodes involved (0/2).
+C. Lymph nodes, left pelvic, dissection:
+Negative for tumor, two nodes examined (0/2).
+D. Diaphragm, biopsy:
+Negative for neoplasm.
+E. Omentum, omentectomy:
+Negative for neoplasm.
+Staging (AJCC 2010): pT2, N0, M0 (FIGO II)
+
+COMMENTS:
+
+CLINICAL HISTORY:
+Preoperative Diagnosis: Serous endometrial cancer
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Uterus, cervix
+B. Right pelvic lymph nodes
+C. Left pelvic lymph nodes
+D. Diaphragm
+E. Omentum
+
+CODES:
+
+================================================================================
+PAGE 3
+================================================================================
+PROCEDURAL DEMOGRAPHICS:
+Date of Procedure: 
+Accession Date/Time:
+
+GROSS DESCRIPTION:
+A. The first container A is labeled , uterus,
+cervix. The specimen consists of a previously bisected
+uterus with attached cervix. The uterus measures 8.5 x 8.0
+x 2.5 cm and weighs 131 grams. The serosal surface of the
+uterus is gray to brown tan with hemorrhage and adhesions.
+Orientation can not be grossly determined. The serosa has
+been inked. The cervix measures 5.0 cm in length and 2.0 cm
+in diameter and has a 0.7 cm slit patent os. The ectocervix
+is gray to brown tan. The endocervical canal is light tan
+roughened with slight hemorrhage. The endometrial cavity
+measures 9.0 x 8.5 cm and is completely involved by a gray
+tan shaggy mass that extends through the lower uterine
+segment into the upper portions of the endocervical canal
+measuring in total 11.0 x 8.5 cm and is grossly 2.0 cm from
+the ectocervix. On sectioning through the mass, in the area
+of the lower uterine segment and upper endocervical canal,
+the mass extends into the underlying wall and is
+approximately 0.7 cm and is 0.7 cm from the resected margin.
+On sectioning the cut surface of the mass is gray tan soft
+and friable. There is a focal area of almost complete full
+thickness invasion into the underlying myometrium
+approximately 2.0 cm into a 2.2 cm thick myometrium. The
+myometrium is gray tan trabecular. There are no lesions
+grossly identified. Received with the specimen are two
+cassettes, one green and one yellow, labeled
+Representative sections are submitted in cassettes
+as follows: cervix--1 and 2; areas of deepest invasion
+from the lesion--3 and 4; additional full thickness sections
+taken from the lesion--5 to 7; lower uterine segment--8;
+bilateral parametrium--9.
+B. The second container B is labeled right
+pelvic. The specimen consists of a portion of fibroadipose
+tissue measuring 5.5 x 5.0 x 2.0 cm. Sectioning reveals a
+single probable lymph node measuring up to 3.0 cm in
+greatest dimension showing marked fatty replacement. The
+lymph node is sectioned and entirely submitted in cassettes
+
+C. The third container C is labeled , #3 left
+pelvic. The specimen consists of a portion of fibroadipose
+tissue measuring 6.5 x 5.0 x 2.0 cm. Sectioning reveals a
+single probable lymph node measuring 3.0 cm in greatest
+dimension. The lymph node is sectioned and entirely
+submitted in six cassettes:
+D. The fourth container D is labeled
+diaphragm. The specimen consists of a piece of gray tan
+soft tissue measuring 0.7 x 0.5 x 0.2 cm. The specimen is
+entirely submitted in a single cassette
+
+E. The fifth container E is labeled omentum.
+The specimen consists of a piece of yellow tan lobular
+fibroadipose omental tissue measuring 25.0 x 14.0 x 2.5 cm.
+The surface displays slight hemorrhage. On sectioning there
+are no nodules identified. Representative sections are
+submitted in four cassettes
+
+================================================================================
+PAGE 4
+================================================================================
+Cancer Antigen 125
+
+Because the concentration of CA 125
+in any given specimen can vary due to
+differences in assay methods and
+reagent specificity, values from
+different assay methods cannot be used
+interchangeably. Serum CA 125
+levels, regardless of value, should
+not be interpreted as absolute
+evidence of the presence or absence
+or disease. CA 125 is not intended
+for use as a cancer screening test.
