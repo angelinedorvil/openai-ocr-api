@@ -1,0 +1,641 @@
+{
+  "pdf": "reports\\TCGA-A5-A1OJ\\TCGA-A5-A1OJ.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.94890284538269,
+        "chars": 2314,
+        "words": 307,
+        "text": "ICD-0-3  \nadenocarcinoma, endometrioid, Nos 8380/3  \nSite: Endometrium C54.1 3/6/11 lw  \n\nSURGICAL PATHOLOGY REPORT  \n********** Addendum - Please See End of Report **********  \nReason for Addendum #1: Additional sections or studies  \nDIAGNOSIS:  \nA. FALLOPIAN TUBE, LEFT SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, lymphovascular ectasia, stromal edema, and adhesions  \n- No evidence of metastatic carcinoma  \nB. FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, vascular ectasia, and soft tissue at fimbriated end  \n- Paratubal Walthard rest  \n- Paratubal cyst lined by benign serous epithelium (hydatid of Morgagni) with an associated adhesion  \n- No evidence of metastatic carcinoma  \nC. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:  \n- Primary uterine adenocarcinoma, endometrioid type, with associated squamous, eosinophilic and secretory-like changes (latter consistent with exogenous progestin effect), FIGO grade II (see comment)  \n- There is extensive (diffuse) involvement of uterine fundus, anterior and posterior uterine corpus and portions of posterior lower uterine segment and anterior lower uterine segments by carcinoma  \n- The tumor is exophytic/polypoid in some areas  \n- Superficial myometrial invasion by carcinoma, involving less than 10% of the of the uterine wall thickness is present  \n- There is secondary involvement of adenomyosis deeper in the uterine wall, within the outer half of wall about 0.85 cm from the serosa  \n- No lymphatic or blood vessel invasion by carcinoma identified  \n- Cervix and vaginal cuff are free of tumor  \n- Bilateral parametrial soft tissues are free of tumor  \n- Minimal residual non-neoplastic endometrium (mostly scattered single glands intervening between aggregates of tumor with some inactive glands, some glands showing secretory-like changes, cystic glandular dilatation, and stromal decidualization consistent with exogenous progestin effect  \n- Benign endometrial polyp, lower uterine segment  \n- Cervix with chronic and mild acute inflammation, extensive microglandular endocervical hyperplasia, reserve cell hyperplasia, squamous metaplasia, and nabothian cysts  \nD. LYMPH NODES, LEFT PELVIC, EXCISION:  \nPatient Case(s)  \nUUID:F696BCE9-7B7C-4825-8A53-EFED20EBF656  \nTCGA-A5-A10J-01A-PR Redacted  \n[Barcode]",
+        "confidence": {
+          "mean_probability": 0.9841791041815595,
+          "mean_log_probability": -0.02147503294892916,
+          "perplexity": 1.0217072810010726,
+          "min_probability": 0.23504600924027363
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 608,
+          "total_tokens": 3080
+        },
+        "composite_score": 0.9831811588095838,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 64.4% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 64.4% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.94890284538269,
+          "chars": 2314,
+          "words": 307,
+          "text": "ICD-0-3  \nadenocarcinoma, endometrioid, Nos 8380/3  \nSite: Endometrium C54.1 3/6/11 lw  \n\nSURGICAL PATHOLOGY REPORT  \n********** Addendum - Please See End of Report **********  \nReason for Addendum #1: Additional sections or studies  \nDIAGNOSIS:  \nA. FALLOPIAN TUBE, LEFT SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, lymphovascular ectasia, stromal edema, and adhesions  \n- No evidence of metastatic carcinoma  \nB. FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, vascular ectasia, and soft tissue at fimbriated end  \n- Paratubal Walthard rest  \n- Paratubal cyst lined by benign serous epithelium (hydatid of Morgagni) with an associated adhesion  \n- No evidence of metastatic carcinoma  \nC. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:  \n- Primary uterine adenocarcinoma, endometrioid type, with associated squamous, eosinophilic and secretory-like changes (latter consistent with exogenous progestin effect), FIGO grade II (see comment)  \n- There is extensive (diffuse) involvement of uterine fundus, anterior and posterior uterine corpus and portions of posterior lower uterine segment and anterior lower uterine segments by carcinoma  \n- The tumor is exophytic/polypoid in some areas  \n- Superficial myometrial invasion by carcinoma, involving less than 10% of the of the uterine wall thickness is present  \n- There is secondary involvement of adenomyosis deeper in the uterine wall, within the outer half of wall about 0.85 cm from the serosa  \n- No lymphatic or blood vessel invasion by carcinoma identified  \n- Cervix and vaginal cuff are free of tumor  \n- Bilateral parametrial soft tissues are free of tumor  \n- Minimal residual non-neoplastic endometrium (mostly scattered single glands intervening between aggregates of tumor with some inactive glands, some glands showing secretory-like changes, cystic glandular dilatation, and stromal decidualization consistent with exogenous progestin effect  \n- Benign endometrial polyp, lower uterine segment  \n- Cervix with chronic and mild acute inflammation, extensive microglandular endocervical hyperplasia, reserve cell hyperplasia, squamous metaplasia, and nabothian cysts  \nD. LYMPH NODES, LEFT PELVIC, EXCISION:  \nPatient Case(s)  \nUUID:F696BCE9-7B7C-4825-8A53-EFED20EBF656  \nTCGA-A5-A10J-01A-PR Redacted  \n[Barcode]",
+          "confidence": {
+            "mean_probability": 0.9841791041815595,
+            "mean_log_probability": -0.02147503294892916,
+            "perplexity": 1.0217072810010726,
+            "min_probability": 0.23504600924027363
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 608,
+            "total_tokens": 3080
+          },
+          "composite_score": 0.9831811588095838,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 64.4% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 64.4% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 18.153915882110596,
+          "chars": 2317,
+          "words": 307,
+          "text": "ICD-0-3  \nadenocarcinoma, endometrioid, Nos 8380/3  \nSite: Endometrium C54.1 3/6/11  lw  \n\nSURGICAL PATHOLOGY REPORT  \n********** Addendum - Please See End of Report **********  \nReason for Addendum #1: Additional sections or studies  \n\nDIAGNOSIS:  \nA. FALLOPIAN TUBE, LEFT SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, lymphovascular ectasia, stromal edema, and adhesions  \n- No evidence of metastatic carcinoma  \nB. FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:  \n- Chronic and minimal acute salpingitis, vascular ectasia, and soft tissue at fimbriated end  \n- Paratubal Walthard rest  \n- Paratubal cyst lined by benign serous epithelium (hydatid of Morgagni) with an associated adhesion  \n- No evidence of metastatic carcinoma  \nC. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:  \n- Primary uterine adenocarcinoma, endometrioid type, with associated squamous, eosinophilic and secretory-like changes (latter consistent with exogenous progestin effect), FIGO grade II (see comment)  \n- There is extensive (diffuse) involvement of uterine fundus, anterior and posterior uterine corpus and portions of posterior lower uterine segment and anterior lower uterine segments by carcinoma  \n- The tumor is exophytic/polypoid in some areas  \n- Superficial myometrial invasion by carcinoma, involving less than 10% of the of the uterine wall thickness is present  \n- There is secondary involvement of adenomyosis deeper in the uterine wall, within the outer half of wall about 0.85 cm from the serosa  \n- No lymphatic or blood vessel invasion by carcinoma identified  \n- Cervix and vaginal cuff are free of tumor  \n- Bilateral parametrial soft tissues are free of tumor  \n- Minimal residual non-neoplastic endometrium (mostly scattered single glands intervening between aggregates of tumor with some inactive glands, some glands showing secretory-like changes, cystic glandular dilatation, and stromal decidualization consistent with exogenous progestin effect  \n- Benign endometrial polyp, lower uterine segment  \n- Cervix with chronic and mild acute inflammation, extensive microglandular endocervical hyperplasia, reserve cell hyperplasia, squamous metaplasia, and nabothian cysts  \nD. LYMPH NODES, LEFT PELVIC, EXCISION:  \nPatient Case(s)  \nUUID:F696BCE9-7B7C-4825-8A53-EFED20EBF656  \nTCGA-A5-A10J-01A-PR Redacted  \n[Barcodes]",
+          "confidence": {
+            "mean_probability": 0.9823593562983151,
+            "mean_log_probability": -0.02394575041050903,
+            "perplexity": 1.0242347520685815,
+            "min_probability": 0.27478948048195956
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 610,
+            "total_tokens": 3082
+          },
+          "composite_score": 0.9322268217777254
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 168.87625217437744,
+          "chars": 8124,
+          "words": 309,
+          "text": "ICD-0-3  \nadenocarcinoma, endometrioid, Nos 8380/3  \nSite: Endometrium C54.1  3/6/11  lw  \n\n___________________________________________________________  \n                      SURGICAL PATHOLOGY REPORT  \n********** Addendum - Please See End of Report **********  \nReason for Addendum #1: Additional sections or studies  \n\nDIAGNOSIS:  \nA. FALLOPIAN TUBE, LEFT SALPINGECTOMY:  \n  - Chronic and minimal acute salpingitis, lymphovascular ectasia, stromal edema,  \n    and adhesions  \n  - No evidence of metastatic carcinoma  \nB. FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:  \n  - Chronic and minimal acute salpingitis, vascular ectasia, and soft tissue at  \n    fimbriated end  \n  - Paratubal Walthard rest  \n  - Paratubal cyst lined by benign serous epithelium (hydatid of Morgagni) with an  \n    associated adhesion  \n  - No evidence of metastatic carcinoma  \nC. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:  \n  - Primary uterine adenocarcinoma, endometrioid type, with associated squamous,  \n    eosinophilic and secretory-like changes (latter consistent with exogenous  \n    progestin effect), FIGO grade II (see comment)  \n  - There is extensive (diffuse) involvement of uterine fundus, anterior and  \n    posterior uterine corpus and portions of posterior lower uterine segment and  \n    anterior lower uterine segments by carcinoma  \n  - The tumor is exophytic/polypoid in some areas  \n  - Superficial myometrial invasion by carcinoma, involving less than 10% of the  \n    of the uterine wall thickness is present  \n  - There is secondary involvement of adenomyosis deeper in the uterine wall,  \n    within the outer half of wall about 0.85 cm from the serosa  \n  - No lymphatic or blood vessel invasion by carcinoma identified  \n  - Cervix and vaginal cuff are free of tumor  \n  - Bilateral parametrial soft tissues are free of tumor  \n  - Minimal residual non-neoplastic endometrium (mostly scattered single glands  \n    intervening between aggregates of tumor with some inactive glands, some  \n    glands showing secretory-like changes, cystic glandular dilatation, and stromal  \n    decidualization consistent with exogenous progestin effect  \n  - Benign endometrial polyp, lower uterine segment  \n  - Cervix with chronic and mild acute inflammation, extensive microglandular  \n    endocervical hyperplasia, reserve cell hyperplasia, squamous metaplasia, and  \n    nabothian cysts  \nD. LYMPH NODES, LEFT PELVIC, EXCISION:  \nPatient Case(s)  \n___________________________________________________________  \nUUID:F696BCE9-7B7C-4825-8A53-EFED20EBF656  \nTCGA-A5-A10J-01A-PR Redacted  \n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9811310015754806,
+            "mean_log_probability": -0.02361084375,
+            "perplexity": 1.0238917864621275,
+            "min_probability": 0.04716000958824049
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.39163725919765585
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.417341232299805,
+        "chars": 1732,
+        "words": 250,
+        "text": "- Seventeen reactive lymph nodes  \n- No evidence of metastatic carcinoma (0/17)  \n\nE. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:  \n- Six reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/6)  \n\nF. LYMPH NODE, LEFT OBTURATOR, EXCISION:  \n- One reactive lymph node  \n- No evidence of metastatic carcinoma in routinely stained sections (0/1)  \n\nG. LYMPH NODES, RIGHT PELVIC, EXCISION:  \n- Five reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/5)  \n\nH. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:  \n- Two reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/2)  \n\nCOMMENT: The preliminary pathologic findings were conveyed to Dr. ______ via campus e-mail on ______. The case was subsequently discussed with Dr. ______. Results of an immunohistochemical panel to test for potential microsatellite instability will be reported in an addendum.  \n\nSYNOPTIC REPORT:  \nApplies To:  \nA : LEFT FALLOPIAN TUBE  \nB : RIGHT FALLOPIAN TUBE  \nC : UTERUS  \nD : LEFT PELVIC LYMPH NODES  \nE : LEFT COMMON ILIAC LYMPH NODES  \nF : LEFT OBTURATOR LYMPH NODE  \nG : RIGHT PELVIC LYMPH NODES  \nH : RIGHT COMMON ILIAC LYMPH NODES  \n\nMacroscopic  \nSpecimen Type:  \nUterus  \nRight fallopian tube  \nLeft fallopian tube  \nVaginal cuff  \nOther Organs Present:  \nNone  \nProcedure:  \nTotal abdominal hysterectomy and bilateral salpingectomy  \nSpecimen Integrity:  \nIntact hysterectomy specimen  \nLymph Node Sampling:  \nPelvic lymph nodes  \nPara-aortic lymph nodes  \nCommon iliac lymph nodes  \nOne left obturator lymph node  \n\nMicroscopic  \nHistologic Type:  \nEndometrioid adenocarcinoma, variant  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 2 of 7",
+        "confidence": {
+          "mean_probability": 0.9877698109439983,
+          "mean_log_probability": -0.01503315301724138,
+          "perplexity": 1.0151467192345252,
+          "min_probability": 0.294403795466777
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 465,
+          "total_tokens": 2937
+        },
+        "composite_score": 0.9613515964497874,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.417341232299805,
+          "chars": 1732,
+          "words": 250,
+          "text": "- Seventeen reactive lymph nodes  \n- No evidence of metastatic carcinoma (0/17)  \n\nE. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:  \n- Six reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/6)  \n\nF. LYMPH NODE, LEFT OBTURATOR, EXCISION:  \n- One reactive lymph node  \n- No evidence of metastatic carcinoma in routinely stained sections (0/1)  \n\nG. LYMPH NODES, RIGHT PELVIC, EXCISION:  \n- Five reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/5)  \n\nH. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:  \n- Two reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/2)  \n\nCOMMENT: The preliminary pathologic findings were conveyed to Dr. ______ via campus e-mail on ______. The case was subsequently discussed with Dr. ______. Results of an immunohistochemical panel to test for potential microsatellite instability will be reported in an addendum.  \n\nSYNOPTIC REPORT:  \nApplies To:  \nA : LEFT FALLOPIAN TUBE  \nB : RIGHT FALLOPIAN TUBE  \nC : UTERUS  \nD : LEFT PELVIC LYMPH NODES  \nE : LEFT COMMON ILIAC LYMPH NODES  \nF : LEFT OBTURATOR LYMPH NODE  \nG : RIGHT PELVIC LYMPH NODES  \nH : RIGHT COMMON ILIAC LYMPH NODES  \n\nMacroscopic  \nSpecimen Type:  \nUterus  \nRight fallopian tube  \nLeft fallopian tube  \nVaginal cuff  \nOther Organs Present:  \nNone  \nProcedure:  \nTotal abdominal hysterectomy and bilateral salpingectomy  \nSpecimen Integrity:  \nIntact hysterectomy specimen  \nLymph Node Sampling:  \nPelvic lymph nodes  \nPara-aortic lymph nodes  \nCommon iliac lymph nodes  \nOne left obturator lymph node  \n\nMicroscopic  \nHistologic Type:  \nEndometrioid adenocarcinoma, variant  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 2 of 7",
+          "confidence": {
+            "mean_probability": 0.9877698109439983,
+            "mean_log_probability": -0.01503315301724138,
+            "perplexity": 1.0151467192345252,
+            "min_probability": 0.294403795466777
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 465,
+            "total_tokens": 2937
+          },
+          "composite_score": 0.9613515964497874,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.15699553489685,
+          "chars": 1732,
+          "words": 250,
+          "text": "- Seventeen reactive lymph nodes  \n- No evidence of metastatic carcinoma (0/17)  \n\nE. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:  \n- Six reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/6)  \n\nF. LYMPH NODE, LEFT OBTURATOR, EXCISION:  \n- One reactive lymph node  \n- No evidence of metastatic carcinoma in routinely stained sections (0/1)  \n\nG. LYMPH NODES, RIGHT PELVIC, EXCISION:  \n- Five reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/5)  \n\nH. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:  \n- Two reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/2)  \n\nCOMMENT: The preliminary pathologic findings were conveyed to Dr. ______ via campus e-mail on ______. The case was subsequently discussed with Dr. ______. Results of an immunohistochemical panel to test for potential microsatellite instability will be reported in an addendum.  \n\nSYNOPTIC REPORT:  \nApplies To:  \nA : LEFT FALLOPIAN TUBE  \nB : RIGHT FALLOPIAN TUBE  \nC : UTERUS  \nD : LEFT PELVIC LYMPH NODES  \nE : LEFT COMMON ILIAC LYMPH NODES  \nF : LEFT OBTURATOR LYMPH NODE  \nG : RIGHT PELVIC LYMPH NODES  \nH : RIGHT COMMON ILIAC LYMPH NODES  \n\nMacroscopic  \nSpecimen Type:  \nUterus  \nRight fallopian tube  \nLeft fallopian tube  \nVaginal cuff  \nOther Organs Present:  \nNone  \nProcedure:  \nTotal abdominal hysterectomy and bilateral salpingectomy  \nSpecimen Integrity:  \nIntact hysterectomy specimen  \nLymph Node Sampling:  \nPelvic lymph nodes  \nPara-aortic lymph nodes  \nCommon iliac lymph nodes  \nOne left obturator lymph node  \n\nMicroscopic  \nHistologic Type:  \nEndometrioid adenocarcinoma, variant  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 2 of 7",
+          "confidence": {
+            "mean_probability": 0.9873569341625138,
+            "mean_log_probability": -0.015462230603448274,
+            "perplexity": 1.0155823893999274,
+            "min_probability": 0.31625734940029954
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 465,
+            "total_tokens": 2937
+          },
+          "composite_score": 0.912967639251893
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.100623369216919,
+          "chars": 1732,
+          "words": 250,
+          "text": "- Seventeen reactive lymph nodes  \n- No evidence of metastatic carcinoma (0/17)  \n\nE. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:  \n- Six reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/6)  \n\nF. LYMPH NODE, LEFT OBTURATOR, EXCISION:  \n- One reactive lymph node  \n- No evidence of metastatic carcinoma in routinely stained sections (0/1)  \n\nG. LYMPH NODES, RIGHT PELVIC, EXCISION:  \n- Five reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/5)  \n\nH. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:  \n- Two reactive lymph nodes  \n- No evidence of metastatic carcinoma in routinely stained sections (0/2)  \n\nCOMMENT: The preliminary pathologic findings were conveyed to Dr. ______ via campus e-mail on ______. The case was subsequently discussed with Dr. ______. Results of an immunohistochemical panel to test for potential microsatellite instability will be reported in an addendum.  \n\nSYNOPTIC REPORT:  \nApplies To:  \nA : LEFT FALLOPIAN TUBE  \nB : RIGHT FALLOPIAN TUBE  \nC : UTERUS  \nD : LEFT PELVIC LYMPH NODES  \nE : LEFT COMMON ILIAC LYMPH NODES  \nF : LEFT OBTURATOR LYMPH NODE  \nG : RIGHT PELVIC LYMPH NODES  \nH : RIGHT COMMON ILIAC LYMPH NODES  \n\nMacroscopic  \nSpecimen Type:  \nUterus  \nRight fallopian tube  \nLeft fallopian tube  \nVaginal cuff  \nOther Organs Present:  \nNone  \nProcedure:  \nTotal abdominal hysterectomy and bilateral salpingectomy  \nSpecimen Integrity:  \nIntact hysterectomy specimen  \nLymph Node Sampling:  \nPelvic lymph nodes  \nPara-aortic lymph nodes  \nCommon iliac lymph nodes  \nOne left obturator lymph node  \n\nMicroscopic  \nHistologic Type:  \nEndometrioid adenocarcinoma, variant  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 2 of 7",
+          "confidence": {
+            "mean_probability": 0.9881988394295269,
+            "mean_log_probability": -0.014624284482758619,
+            "perplexity": 1.0147317425243876,
+            "min_probability": 0.257184642176861
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 465,
+            "total_tokens": 2937
+          },
+          "composite_score": 0.9135857419787045
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 7.815179347991943,
+        "chars": 1388,
+        "words": 190,
+        "text": "Variant: Endometrioid adenocarcinoma with associated  \nsquamous, eosinophilic and secretory-like changes  \nHistologic Grade: FIGO grade II  \nTumor Site: Corpus  \nFundus  \nLower uterine segment  \nTumor Size: Greatest dimension: 8.5cm  \nMyometrial Invasion: Less than 50% myometrial invasion  \nInvolvement of Cervix: No involvement  \nExtent of Involvement  \nof Other Organs: None  \nMargins: Surgical margins of hysterectomy specimen are free of  \ntumor.  \nLymphovascular Invasion: Not identified  \n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010  \nPrimary Tumor (pT): pT1a [IA]: Tumor limited to endometrium or invades less  \nthan one-half of the myometrium  \nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis  \nComment(s): In addition to the pelvic, and common iliac  \nlymph nodes, one left obturator lymph node was  \nexamined and found to be negative for metastatic  \ntumor.  \nNumber of pelvic lymph  \nnodes examined: 23  \nNumber of pelvic lymph  \nnodes involved: 0  \nNumber of para-aortic  \nlymph nodes examined: 0  \nNumber of para-aortic  \nlymph nodes involved: 0  \nNumber of common iliac  \nlymph nodes examined: 8  \nNumber of common iliac  \nlymph nodes involved: 0  \n\nHISTORY:  \nEndometrial adenocarcinoma  \n\nMICROSCOPIC FINDINGS:  \nSee diagnosis.  \n\nSPECIAL STUDIES:  \nH&E-stained step sections (C3 x2, C4 x2, C5 x2)  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 3 of 7",
+        "confidence": {
+          "mean_probability": 0.9848983595433161,
+          "mean_log_probability": -0.024005275064267355,
+          "perplexity": 1.024295721102128,
+          "min_probability": 0.12283466682179994
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 390,
+          "total_tokens": 2862
+        },
+        "composite_score": 0.9200459754660848,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 7.815179347991943,
+          "chars": 1388,
+          "words": 190,
+          "text": "Variant: Endometrioid adenocarcinoma with associated  \nsquamous, eosinophilic and secretory-like changes  \nHistologic Grade: FIGO grade II  \nTumor Site: Corpus  \nFundus  \nLower uterine segment  \nTumor Size: Greatest dimension: 8.5cm  \nMyometrial Invasion: Less than 50% myometrial invasion  \nInvolvement of Cervix: No involvement  \nExtent of Involvement  \nof Other Organs: None  \nMargins: Surgical margins of hysterectomy specimen are free of  \ntumor.  \nLymphovascular Invasion: Not identified  \n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010  \nPrimary Tumor (pT): pT1a [IA]: Tumor limited to endometrium or invades less  \nthan one-half of the myometrium  \nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis  \nComment(s): In addition to the pelvic, and common iliac  \nlymph nodes, one left obturator lymph node was  \nexamined and found to be negative for metastatic  \ntumor.  \nNumber of pelvic lymph  \nnodes examined: 23  \nNumber of pelvic lymph  \nnodes involved: 0  \nNumber of para-aortic  \nlymph nodes examined: 0  \nNumber of para-aortic  \nlymph nodes involved: 0  \nNumber of common iliac  \nlymph nodes examined: 8  \nNumber of common iliac  \nlymph nodes involved: 0  \n\nHISTORY:  \nEndometrial adenocarcinoma  \n\nMICROSCOPIC FINDINGS:  \nSee diagnosis.  \n\nSPECIAL STUDIES:  \nH&E-stained step sections (C3 x2, C4 x2, C5 x2)  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 3 of 7",
+          "confidence": {
+            "mean_probability": 0.9848983595433161,
+            "mean_log_probability": -0.024005275064267355,
+            "perplexity": 1.024295721102128,
+            "min_probability": 0.12283466682179994
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 390,
+            "total_tokens": 2862
+          },
+          "composite_score": 0.9200459754660848,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 7.977268934249878,
+          "chars": 2063,
+          "words": 191,
+          "text": "Variant: Endometrioid adenocarcinoma with associated  \n               squamous, eosinophilic and secretory-like changes  \nHistologic Grade:                  FIGO grade II  \nTumor Site:                          Corpus  \n                                            Fundus  \n                                            Lower uterine segment  \nTumor Size:                        Greatest dimension: 8.5cm  \nMyometrial Invasion:          Less than 50% myometrial invasion  \nInvolvement of Cervix:       No involvement  \nExtent of Involvement  \nof Other Organs:                None  \nMargins:                             Surgical margins of hysterectomy specimen are free of  \n                                            tumor.  \nLymphovascular Invasion:   Not identified  \n\n__________________________Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010__________________________  \nPrimary Tumor (pT):              pT1a [IA]: Tumor limited to endometrium or invades less  \n                                            than one-half of the myometrium  \nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis  \n                                            Comment(s): In addition to the pelvic, and common iliac  \n                                            lymph nodes, one left obturator lymph node was  \n                                            examined and found to be negative for metastatic  \n                                            tumor.  \nNumber of pelvic lymph  \nnodes examined:                 23  \nNumber of pelvic lymph  \nnodes involved:                   0  \nNumber of para-aortic  \nlymph nodes examined:     0  \nNumber of para-aortic  \nlymph nodes involved:        0  \nNumber of common iliac  \nlymph nodes examined:      8  \nNumber of common iliac  \nlymph nodes involved:         0  \n\nHISTORY:  \nEndometrial adenocarcinoma  \n\nMICROSCOPIC FINDINGS:  \nSee diagnosis.  \n\nSPECIAL STUDIES:  \nH&E-stained step sections (C3 x2, C4 x2, C5 x2)  \n\n_________________________________________________________  \nSURGICAL PATHOLOGY REPORT  \n\nPage 3 of 7",
+          "confidence": {
+            "mean_probability": 0.9436371447549781,
+            "mean_log_probability": -0.0930832846889952,
+            "perplexity": 1.0975531408336772,
+            "min_probability": 0.05584166520311312
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 419,
+            "total_tokens": 2891
+          },
+          "composite_score": 0.8852809640815573
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.291801691055298,
+          "chars": 1488,
+          "words": 192,
+          "text": "Variant: Endometrioid adenocarcinoma with associated  \nsquamous, eosinophilic and secretory-like changes  \nHistologic Grade:\tFIGO grade II  \nTumor Site:\tCorpus  \n\tFundus  \n\tLower uterine segment  \nTumor Size:\tGreatest dimension: 8.5cm  \nMyometrial Invasion:\tLess than 50% myometrial invasion  \nInvolvement of Cervix:\tNo involvement  \nExtent of Involvement  \nof Other Organs:\tNone  \nMargins:\tSurgical margins of hysterectomy specimen are free of  \n\t\ttumor.  \nLymphovascular Invasion:\tNot identified  \n\n_________________________ Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010  \nPrimary Tumor (pT):\tpT1a [IA]: Tumor limited to endometrium or invades less  \n\t\tthan one-half of the myometrium  \nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis  \n\t\tComment(s): In addition to the pelvic, and common iliac  \n\t\tlymph nodes, one left obturator lymph node was  \n\t\texamined and found to be negative for metastatic  \n\t\ttumor.  \nNumber of pelvic lymph  \nnodes examined:\t23  \nNumber of pelvic lymph  \nnodes involved:\t0  \nNumber of para-aortic  \nlymph nodes examined:\t0  \nNumber of para-aortic  \nlymph nodes involved:\t0  \nNumber of common iliac  \nlymph nodes examined:\t8  \nNumber of common iliac  \nlymph nodes involved:\t0  \n\nHISTORY:  \nEndometrial adenocarcinoma  \n\nMICROSCOPIC FINDINGS:  \nSee diagnosis.  \n\nSPECIAL STUDIES:  \nH&E-stained step sections (C3 x2, C4 x2, C5 x2)  \n\n_________________________________________________________  \nSURGICAL PATHOLOGY REPORT  \n\nPage 3 of 7",
+          "confidence": {
+            "mean_probability": 0.9712242835513084,
+            "mean_log_probability": -0.043336897374701665,
+            "perplexity": 1.0442896540367854,
+            "min_probability": 0.10895895797484131
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 420,
+            "total_tokens": 2892
+          },
+          "composite_score": 0.8697920164582997
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 21.83930540084839,
+        "chars": 2672,
+        "words": 442,
+        "text": "IMMUNOHISTOCHEMISTRY:\nStudy Antibody Block Result\nKeratin AE1/AE3 D1, D2, D3, D4 No \"occult\" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes.\nKeratin AE1/AE3 E1 No \"occult\" keratin-positive metastatic tumor cells are identified in the left common iliac lymph nodes.\nKeratin AE1/AE3 F1 No \"occult\" keratin-positive metastatic tumor cells are identified in the left obturator lymph node.\nKeratin AE1/AE3 G1, G2, G3 No \"occult\" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes.\nKeratin AE1/AE3 H1 No \"occult\" keratin-positive metastatic tumor cells are identified in the right common iliac lymph nodes.\n\nGROSS:\nA. LEFT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"left fallopian tube\", and received in formalin is a fimbriated portion of fallopian tube measuring 8.0 cm in length and ranging from 0.4 to 0.7 cm in greatest diameter.\nThe patent lumen measures up to 0.4 cm in diameter.\n\nNo tumor is identified.\n\nRepresentative sections are submitted.\n\nSlide key:\nA1. Proximal, mid, distal and fimbriated end of fallopian tube - 4\n\nB. RIGHT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"right fallopian tube\", and received in formalin is a fimbriated fallopian tube measuring 7.5 cm in length and ranging from 0.4 to 0.6 cm in maximum diameter. The patent lumen measures up to 0.3 cm in diameter.\n\nNo tumor is identified.\n\nThere is about a 1.0 cm diameter translucent paratubal cyst containing clear pale yellow fluid. There is an adhesion that is about 0.9 cm long x less than 0.1 cm in diameter attached to the paratubal cyst.\n\nRepresentative sections are submitted.\n\nSlide key:\nB1. Proximal, mid, distal and fimbriated end of fallopian tube; paratubal cyst - 5\n\nC. UTERUS, CERVIX (GROSS AND FROZEN SECTION)\nLabeled with the patient's name, labeled \"uterus, cervix\", and received fresh for intraoperative frozen section and subsequently fixed in formalin is an intact 300 gram total hysterectomy specimen. The uterus is about 11.0 x 8.0 x 5.0 cm in greatest overall dimensions. The cervical portion of the uterine alone is about 5.0 cm in length and up to 2.0 cm in diameter. Attached to the cervix, there is about a 0.5 cm long cuff of vaginal mucosa. The endometrial cavity is 8.5 cm in length and up to 5.0 cm in width. The endometrial mucosa ranges from about 0.2 to 0.8 cm in thickness. The muscular uterine wall ranges from about 1.5 to 3.3 cm in thickness. There are small amounts of parametrial tissues attached bilaterally; those on the left side are up to 0.5 cm in width and those on the right side are up to 1.0 cm in width.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 7",
+        "confidence": {
+          "mean_probability": 0.994308244087605,
+          "mean_log_probability": -0.007059456908344733,
+          "perplexity": 1.0070844336136644,
+          "min_probability": 0.4299084499738534
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 732,
+          "total_tokens": 3204
+        },
+        "composite_score": 0.9943920237400743,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 21.83930540084839,
+          "chars": 2672,
+          "words": 442,
+          "text": "IMMUNOHISTOCHEMISTRY:\nStudy Antibody Block Result\nKeratin AE1/AE3 D1, D2, D3, D4 No \"occult\" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes.\nKeratin AE1/AE3 E1 No \"occult\" keratin-positive metastatic tumor cells are identified in the left common iliac lymph nodes.\nKeratin AE1/AE3 F1 No \"occult\" keratin-positive metastatic tumor cells are identified in the left obturator lymph node.\nKeratin AE1/AE3 G1, G2, G3 No \"occult\" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes.\nKeratin AE1/AE3 H1 No \"occult\" keratin-positive metastatic tumor cells are identified in the right common iliac lymph nodes.\n\nGROSS:\nA. LEFT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"left fallopian tube\", and received in formalin is a fimbriated portion of fallopian tube measuring 8.0 cm in length and ranging from 0.4 to 0.7 cm in greatest diameter.\nThe patent lumen measures up to 0.4 cm in diameter.\n\nNo tumor is identified.\n\nRepresentative sections are submitted.\n\nSlide key:\nA1. Proximal, mid, distal and fimbriated end of fallopian tube - 4\n\nB. RIGHT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"right fallopian tube\", and received in formalin is a fimbriated fallopian tube measuring 7.5 cm in length and ranging from 0.4 to 0.6 cm in maximum diameter. The patent lumen measures up to 0.3 cm in diameter.\n\nNo tumor is identified.\n\nThere is about a 1.0 cm diameter translucent paratubal cyst containing clear pale yellow fluid. There is an adhesion that is about 0.9 cm long x less than 0.1 cm in diameter attached to the paratubal cyst.\n\nRepresentative sections are submitted.\n\nSlide key:\nB1. Proximal, mid, distal and fimbriated end of fallopian tube; paratubal cyst - 5\n\nC. UTERUS, CERVIX (GROSS AND FROZEN SECTION)\nLabeled with the patient's name, labeled \"uterus, cervix\", and received fresh for intraoperative frozen section and subsequently fixed in formalin is an intact 300 gram total hysterectomy specimen. The uterus is about 11.0 x 8.0 x 5.0 cm in greatest overall dimensions. The cervical portion of the uterine alone is about 5.0 cm in length and up to 2.0 cm in diameter. Attached to the cervix, there is about a 0.5 cm long cuff of vaginal mucosa. The endometrial cavity is 8.5 cm in length and up to 5.0 cm in width. The endometrial mucosa ranges from about 0.2 to 0.8 cm in thickness. The muscular uterine wall ranges from about 1.5 to 3.3 cm in thickness. There are small amounts of parametrial tissues attached bilaterally; those on the left side are up to 0.5 cm in width and those on the right side are up to 1.0 cm in width.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 7",
+          "confidence": {
+            "mean_probability": 0.994308244087605,
+            "mean_log_probability": -0.007059456908344733,
+            "perplexity": 1.0070844336136644,
+            "min_probability": 0.4299084499738534
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 732,
+            "total_tokens": 3204
+          },
+          "composite_score": 0.9943920237400743,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 29.779341220855713,
+          "chars": 2759,
+          "words": 467,
+          "text": "IMMUNOHISTOCHEMISTRY:\n\n| Study Antibody | Block | Result |\n|----------------|--------|---------|\n| Keratin AE1/AE3 | D1, D2, D3, D4 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes. |\n| Keratin AE1/AE3 | E1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left common iliac lymph nodes. |\n| Keratin AE1/AE3 | F1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left obturator lymph node. |\n| Keratin AE1/AE3 | G1, G2, G3 | No \"occult\" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes. |\n| Keratin AE1/AE3 | H1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the right common iliac lymph nodes. |\n\nGROSS:\nA. LEFT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"left fallopian tube\", and received in formalin is a fimbriated portion of fallopian tube measuring 8.0 cm in length and ranging from 0.4 to 0.7 cm in greatest diameter. The patent lumen measures up to 0.4 cm in diameter.\n\nNo tumor is identified.\n\nRepresentative sections are submitted.\n\nSlide key:\nA1. Proximal, mid, distal and fimbriated end of fallopian tube - 4\n\nB. RIGHT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"right fallopian tube\", and received in formalin is a fimbriated fallopian tube measuring 7.5 cm in length and ranging from 0.4 to 0.6 cm in maximum diameter. The patent lumen measures up to 0.3 cm in diameter.\n\nNo tumor is identified.\n\nThere is about a 1.0 cm diameter translucent paratubal cyst containing clear pale yellow fluid. There is an adhesion that is about 0.9 cm long x less than 0.1 cm in diameter attached to the paratubal cyst.\n\nRepresentative sections are submitted.\n\nSlide key:\nB1. Proximal, mid, distal and fimbriated end of fallopian tube; paratubal cyst - 5\n\nC. UTERUS, CERVIX (GROSS AND FROZEN SECTION)\nLabeled with the patient's name, labeled \"uterus, cervix\", and received fresh for intraoperative frozen section and subsequently fixed in formalin is an intact 300 gram total hysterectomy specimen. The uterus is about 11.0 x 8.0 x 5.0 cm in greatest overall dimensions. The cervical portion of the uterine alone is about 5.0 cm in length and up to 2.0 cm in diameter. Attached to the cervix, there is about a 0.5 cm long cuff of vaginal mucosa. The endometrial cavity is 8.5 cm in length and up to 5.0 cm in width. The endometrial mucosa ranges from about 0.2 to 0.8 cm in thickness. The muscular uterine wall ranges from about 1.5 to 3.3 cm in thickness. There are small amounts of parametrial tissues attached bilaterally; those on the left side are up to 0.5 cm in width and those on the right side are up to 1.0 cm in width.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 7",
+          "confidence": {
+            "mean_probability": 0.9921588940020356,
+            "mean_log_probability": -0.011141428383705652,
+            "perplexity": 1.0112037252406119,
+            "min_probability": 0.22754847189754004
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 762,
+            "total_tokens": 3234
+          },
+          "composite_score": 0.9416258148129176
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 23.313478231430054,
+          "chars": 2759,
+          "words": 467,
+          "text": "IMMUNOHISTOCHEMISTRY:\n\n| Study Antibody | Block | Result |\n|----------------|--------|---------|\n| Keratin AE1/AE3 | D1, D2, D3, D4 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes. |\n| Keratin AE1/AE3 | E1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left common iliac lymph nodes. |\n| Keratin AE1/AE3 | F1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the left obturator lymph node. |\n| Keratin AE1/AE3 | G1, G2, G3 | No \"occult\" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes. |\n| Keratin AE1/AE3 | H1 | No \"occult\" keratin-positive metastatic tumor cells are identified in the right common iliac lymph nodes. |\n\nGROSS:\nA. LEFT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"left fallopian tube\", and received in formalin is a fimbriated portion of fallopian tube measuring 8.0 cm in length and ranging from 0.4 to 0.7 cm in greatest diameter.\nThe patent lumen measures up to 0.4 cm in diameter.\n\nNo tumor is identified.\n\nRepresentative sections are submitted.\n\nSlide key:\nA1. Proximal, mid, distal and fimbriated end of fallopian tube - 4\n\nB. RIGHT FALLOPIAN TUBE\nLabeled with the patient's name, labeled \"right fallopian tube\", and received in formalin is a fimbriated fallopian tube measuring 7.5 cm in length and ranging from 0.4 to 0.6 cm in maximum diameter. The patent lumen measures up to 0.3 cm in diameter.\n\nNo tumor is identified.\n\nThere is about a 1.0 cm diameter translucent paratubal cyst containing clear pale yellow fluid. There is an adhesion that is about 0.9 cm long x less than 0.1 cm in diameter attached to the paratubal cyst.\n\nRepresentative sections are submitted.\n\nSlide key:\nB1. Proximal, mid, distal and fimbriated end of fallopian tube; paratubal cyst - 5\n\nC. UTERUS, CERVIX (GROSS AND FROZEN SECTION)\nLabeled with the patient's name, labeled \"uterus, cervix\", and received fresh for intraoperative frozen section and subsequently fixed in formalin is an intact 300 gram total hysterectomy specimen. The uterus is about 11.0 x 8.0 x 5.0 cm in greatest overall dimensions. The cervical portion of the uterine alone is about 5.0 cm in length and up to 2.0 cm in diameter. Attached to the cervix, there is about a 0.5 cm long cuff of vaginal mucosa. The endometrial cavity is 8.5 cm in length and up to 5.0 cm in width. The endometrial mucosa ranges from about 0.2 to 0.8 cm in thickness. The muscular uterine wall ranges from about 1.5 to 3.3 cm in thickness. There are small amounts of parametrial tissues attached bilaterally; those on the left side are up to 0.5 cm in width and those on the right side are up to 1.0 cm in width.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 7",
+          "confidence": {
+            "mean_probability": 0.9922607656262278,
+            "mean_log_probability": -0.010805504599211565,
+            "perplexity": 1.010864094906482,
+            "min_probability": 0.232487225395434
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 762,
+            "total_tokens": 3234
+          },
+          "composite_score": 0.9418756046954286
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 16.579180479049683,
+        "chars": 2401,
+        "words": 411,
+        "text": "Almost the entire endometrial cavity is coated by soft tan friable endometrial tumor. The tumor involves the uterine fundus, anterior and posterior lower uterine segments and also involves portions of the anterior and posterior lower uterine segments. The tumor is exophytic for the most part, polypoid in some areas, and up to 0.8 cm in thickness. Cut sections of the uterus show no grossly evident invasive tumor. The cervix and vaginal cuff appear to be grossly free of tumor. The parametrial tissues appear to be grossly free of tumor.\n\nThere is a broad-based sessile endometrial polyp, about 1.1 cm in diameter and 0.4 cm in thickness in the anterior lower uterine segment. The myometrium is focally trabeculated and shows some minute to tiny cystic spaces. No other gross pathologic lesions are seen.\n\nInk key: anterior uterine serosa and surgical margin - blue; posterior uterine serosa and posterior surgical margin - black.\n\nRepresentative sections are submitted.\n\nSlide key:\nC1. Remnant of FSC - 1\nC2. Anterior cervix - 1\nC3. Anterior lower uterine segment with polyp and tumor - 1\nC4. Posterior cervix - 1\nC5. Posterior lower uterine segment with tumor and adjacent upper endocervix - 1\nC6. Anterior uterine corpus with tumor - 1\nC7, C8. Posterior uterine corpus with tumor - 1 each\nC9. Left parametrial tissues - 2\nC10. Right parametrial tissues - 2\nC11. Anterior uterine fundus - 1\nC12, 13. Posterior uterine fundus - 1 each\n\nD. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.0 x 3.5 x 1.0 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.2 to 1.2 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nD1. Two lymph nodes, each sectioned (bisected) - 2\nD2. Three lymph nodes, two of which are bisected - 4\nD3. Four lymph nodes - multiple\nD4. Multiple lymph nodes - multiple\n\nE. LEFT COMMON ILIAC\nLabeled with the patient's name, labeled \"left common iliac\", and received in formalin is a 3.0 x 3.0 x 1.0 cm aggregate of soft yellow fatty tissue within which there are embedded several soft tan lymph nodes. The lymph nodes range from about 0.2 to 1.0 cm in maximum dimension.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 7",
+        "confidence": {
+          "mean_probability": 0.9953414771760126,
+          "mean_log_probability": -0.005745529687500001,
+          "perplexity": 1.0057620668997063,
+          "min_probability": 0.4488313833356379
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 641,
+          "total_tokens": 3113
+        },
+        "composite_score": 0.995429834272862,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 16.579180479049683,
+          "chars": 2401,
+          "words": 411,
+          "text": "Almost the entire endometrial cavity is coated by soft tan friable endometrial tumor. The tumor involves the uterine fundus, anterior and posterior lower uterine segments and also involves portions of the anterior and posterior lower uterine segments. The tumor is exophytic for the most part, polypoid in some areas, and up to 0.8 cm in thickness. Cut sections of the uterus show no grossly evident invasive tumor. The cervix and vaginal cuff appear to be grossly free of tumor. The parametrial tissues appear to be grossly free of tumor.\n\nThere is a broad-based sessile endometrial polyp, about 1.1 cm in diameter and 0.4 cm in thickness in the anterior lower uterine segment. The myometrium is focally trabeculated and shows some minute to tiny cystic spaces. No other gross pathologic lesions are seen.\n\nInk key: anterior uterine serosa and surgical margin - blue; posterior uterine serosa and posterior surgical margin - black.\n\nRepresentative sections are submitted.\n\nSlide key:\nC1. Remnant of FSC - 1\nC2. Anterior cervix - 1\nC3. Anterior lower uterine segment with polyp and tumor - 1\nC4. Posterior cervix - 1\nC5. Posterior lower uterine segment with tumor and adjacent upper endocervix - 1\nC6. Anterior uterine corpus with tumor - 1\nC7, C8. Posterior uterine corpus with tumor - 1 each\nC9. Left parametrial tissues - 2\nC10. Right parametrial tissues - 2\nC11. Anterior uterine fundus - 1\nC12, 13. Posterior uterine fundus - 1 each\n\nD. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.0 x 3.5 x 1.0 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.2 to 1.2 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nD1. Two lymph nodes, each sectioned (bisected) - 2\nD2. Three lymph nodes, two of which are bisected - 4\nD3. Four lymph nodes - multiple\nD4. Multiple lymph nodes - multiple\n\nE. LEFT COMMON ILIAC\nLabeled with the patient's name, labeled \"left common iliac\", and received in formalin is a 3.0 x 3.0 x 1.0 cm aggregate of soft yellow fatty tissue within which there are embedded several soft tan lymph nodes. The lymph nodes range from about 0.2 to 1.0 cm in maximum dimension.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 7",
+          "confidence": {
+            "mean_probability": 0.9953414771760126,
+            "mean_log_probability": -0.005745529687500001,
+            "perplexity": 1.0057620668997063,
+            "min_probability": 0.4488313833356379
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 641,
+            "total_tokens": 3113
+          },
+          "composite_score": 0.995429834272862,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 15.460276126861572,
+          "chars": 2400,
+          "words": 410,
+          "text": "Almost the entire endometrial cavity is coated by soft tan friable endometrial tumor. The tumor involves the uterine fundus, anterior and posterior lower uterine segments and also involves portions of the anterior and posterior lower uterine segments. The tumor is exophytic for the most part, polypoid in some areas, and up to 0.8 cm in thickness. Cut sections of the uterus show no grossly evident invasive tumor. The cervix and vaginal cuff appear to be grossly free of tumor. The parametrial tissues appear to be grossly free of tumor.\n\nThere is a broad-based sessile endometrial polyp, about 1.1 cm in diameter and 0.4 cm in thickness in the anterior lower uterine segment. The myometrium is focally trabeculated and shows some minute to tiny cystic spaces. No other gross pathologic lesions are seen.\n\nInk key: anterior uterine serosa and surgical margin - blue; posterior uterine serosa and posterior surgical margin - black.\n\nRepresentative sections are submitted.\n\nSlide key:\nC1. Remnant of FSC - 1\nC2. Anterior cervix - 1\nC3. Anterior lower uterine segment with polyp and tumor - 1\nC4. Posterior cervix - 1\nC5. Posterior lower uterine segment with tumor and adjacent upper endocervix - 1\nC6. Anterior uterine corpus with tumor - 1\nC7, C8. Posterior uterine corpus with tumor - 1 each\nC9. Left parametrial tissues - 2\nC10. Right parametrial tissues - 2\nC11. Anterior uterine fundus - 1\nC12,13. Posterior uterine fundus - 1 each\n\nD. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.0 x 3.5 x 1.0 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.2 to 1.2 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nD1. Two lymph nodes, each sectioned (bisected) - 2\nD2. Three lymph nodes, two of which are bisected - 4\nD3. Four lymph nodes - multiple\nD4. Multiple lymph nodes - multiple\n\nE. LEFT COMMON ILIAC\nLabeled with the patient's name, labeled \"left common iliac\", and received in formalin is a 3.0 x 3.0 x 1.0 cm aggregate of soft yellow fatty tissue within which there are embedded several soft tan lymph nodes. The lymph nodes range from about 0.2 to 1.0 cm in maximum dimension.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 7",
+          "confidence": {
+            "mean_probability": 0.9953500526498786,
+            "mean_log_probability": -0.0057019076682316115,
+            "perplexity": 1.0057181944843532,
+            "min_probability": 0.4397811773416769
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 640,
+            "total_tokens": 3112
+          },
+          "composite_score": 0.9456911190136813
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.233359098434448,
+          "chars": 2400,
+          "words": 410,
+          "text": "Almost the entire endometrial cavity is coated by soft tan friable endometrial tumor. The tumor involves the uterine fundus, anterior and posterior lower uterine segments and also involves portions of the anterior and posterior lower uterine segments. The tumor is exophytic for the most part, polypoid in some areas, and up to 0.8 cm in thickness. Cut sections of the uterus show no grossly evident invasive tumor. The cervix and vaginal cuff appear to be grossly free of tumor. The parametrial tissues appear to be grossly free of tumor.\n\nThere is a broad-based sessile endometrial polyp, about 1.1 cm in diameter and 0.4 cm in thickness in the anterior lower uterine segment. The myometrium is focally trabeculated and shows some minute to tiny cystic spaces. No other gross pathologic lesions are seen.\n\nInk key: anterior uterine serosa and surgical margin - blue; posterior uterine serosa and posterior surgical margin - black.\n\nRepresentative sections are submitted.\n\nSlide key:\nC1. Remnant of FSC - 1\nC2. Anterior cervix - 1\nC3. Anterior lower uterine segment with polyp and tumor - 1\nC4. Posterior cervix - 1\nC5. Posterior lower uterine segment with tumor and adjacent upper endocervix - 1\nC6. Anterior uterine corpus with tumor - 1\nC7, C8. Posterior uterine corpus with tumor - 1 each\nC9. Left parametrial tissues - 2\nC10. Right parametrial tissues - 2\nC11. Anterior uterine fundus - 1\nC12,13. Posterior uterine fundus - 1 each\n\nD. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is about a 4.0 x 3.5 x 1.0 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.2 to 1.2 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nD1. Two lymph nodes, each sectioned (bisected) - 2\nD2. Three lymph nodes, two of which are bisected - 4\nD3. Four lymph nodes - multiple\nD4. Multiple lymph nodes - multiple\n\nE. LEFT COMMON ILIAC\nLabeled with the patient's name, labeled \"left common iliac\", and received in formalin is a 3.0 x 3.0 x 1.0 cm aggregate of soft yellow fatty tissue within which there are embedded several soft tan lymph nodes. The lymph nodes range from about 0.2 to 1.0 cm in maximum dimension.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 7",
+          "confidence": {
+            "mean_probability": 0.9953359709536607,
+            "mean_log_probability": -0.005629311424100157,
+            "perplexity": 1.0056451857708901,
+            "min_probability": 0.46876392287747637
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 640,
+            "total_tokens": 3112
+          },
+          "composite_score": 0.9457456722534693
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.606652975082397,
+        "chars": 1705,
+        "words": 287,
+        "text": "E1. Multiple lymph nodes and perinodal fat - multiple\n\nF. OBTURATOR LEFT\nLabeled with the patient's name, labeled \"obturator left\", and received in formalin is about a 1.8 x 1.2 x 0.8 cm portion of soft yellow fatty tissue within which there is embedded a single 0.6 cm diameter soft tan lymph node.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nF1. One lymph node and fat - 2\n\nG. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 6.5 x 2.0 x 1.0 cm aggregate of soft yellow fatty tissue, within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.3 to 2.0 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\nG1. Three lymph nodes, two of which are bisected - 4\nG2. Largest lymph node, bisected - 2\nG3. One lymph node and fat - multiple\n\nH. RIGHT COMMON ILIAC\nLabeled with the patient's name, labeled \"right common iliac\", and received in formalin is about a 3.5 x 2.0 x 0.8 cm aggregate of soft yellow fatty tissue. Dissection of the fat reveals two soft tan lymph nodes, about 0.4 and 0.6 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely embedded.\n\nSlide key:\nH1. Two bisected lymph nodes - 4\nH2. Fat - multiple\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nL\nOPERATIVE CONSULT (FROZEN):\n\nC. UTERUS, CERVIX:\n- Endometrial adenocarcinoma\n- No obvious high-grade features noted on representative sections\n- No definitive myometrial invasion identified on representative sections\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 7",
+        "confidence": {
+          "mean_probability": 0.9946587005695724,
+          "mean_log_probability": -0.006135767032967031,
+          "perplexity": 1.0061546294101589,
+          "min_probability": 0.5531577809398734
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 456,
+          "total_tokens": 2928
+        },
+        "composite_score": 0.965621320812549,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.606652975082397,
+          "chars": 1705,
+          "words": 287,
+          "text": "E1. Multiple lymph nodes and perinodal fat - multiple\n\nF. OBTURATOR LEFT\nLabeled with the patient's name, labeled \"obturator left\", and received in formalin is about a 1.8 x 1.2 x 0.8 cm portion of soft yellow fatty tissue within which there is embedded a single 0.6 cm diameter soft tan lymph node.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nF1. One lymph node and fat - 2\n\nG. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 6.5 x 2.0 x 1.0 cm aggregate of soft yellow fatty tissue, within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.3 to 2.0 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\nG1. Three lymph nodes, two of which are bisected - 4\nG2. Largest lymph node, bisected - 2\nG3. One lymph node and fat - multiple\n\nH. RIGHT COMMON ILIAC\nLabeled with the patient's name, labeled \"right common iliac\", and received in formalin is about a 3.5 x 2.0 x 0.8 cm aggregate of soft yellow fatty tissue. Dissection of the fat reveals two soft tan lymph nodes, about 0.4 and 0.6 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely embedded.\n\nSlide key:\nH1. Two bisected lymph nodes - 4\nH2. Fat - multiple\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nL\nOPERATIVE CONSULT (FROZEN):\n\nC. UTERUS, CERVIX:\n- Endometrial adenocarcinoma\n- No obvious high-grade features noted on representative sections\n- No definitive myometrial invasion identified on representative sections\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 7",
+          "confidence": {
+            "mean_probability": 0.9946587005695724,
+            "mean_log_probability": -0.006135767032967031,
+            "perplexity": 1.0061546294101589,
+            "min_probability": 0.5531577809398734
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 456,
+            "total_tokens": 2928
+          },
+          "composite_score": 0.965621320812549,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.613916635513306,
+          "chars": 1705,
+          "words": 287,
+          "text": "E1. Multiple lymph nodes and perinodal fat - multiple\n\nF. OBTURATOR LEFT\nLabeled with the patient's name, labeled \"obturator left\", and received in formalin is about a 1.8 x 1.2 x 0.8 cm portion of soft yellow fatty tissue within which there is embedded a single 0.6 cm diameter soft tan lymph node.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nF1. One lymph node and fat - 2\n\nG. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 6.5 x 2.0 x 1.0 cm aggregate of soft yellow fatty tissue, within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.3 to 2.0 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\nG1. Three lymph nodes, two of which are bisected - 4\nG2. Largest lymph node, bisected - 2\nG3. One lymph node and fat - multiple\n\nH. RIGHT COMMON ILIAC\nLabeled with the patient's name, labeled \"right common iliac\", and received in formalin is about a 3.5 x 2.0 x 0.8 cm aggregate of soft yellow fatty tissue. Dissection of the fat reveals two soft tan lymph nodes, about 0.4 and 0.6 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely embedded.\n\nSlide key:\nH1. Two bisected lymph nodes - 4\nH2. Fat - multiple\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nL\nOPERATIVE CONSULT (FROZEN):\n\nC. UTERUS, CERVIX:\n- Endometrial adenocarcinoma\n- No obvious high-grade features noted on representative sections\n- No definitive myometrial invasion identified on representative sections\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 7",
+          "confidence": {
+            "mean_probability": 0.9948957572331525,
+            "mean_log_probability": -0.005798962637362637,
+            "perplexity": 1.005815809169592,
+            "min_probability": 0.5838238315305722
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 456,
+            "total_tokens": 2928
+          },
+          "composite_score": 0.9175931982999472
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.306328296661377,
+          "chars": 1705,
+          "words": 287,
+          "text": "E1. Multiple lymph nodes and perinodal fat - multiple\n\nF. OBTURATOR LEFT\nLabeled with the patient's name, labeled \"obturator left\", and received in formalin is about a 1.8 x 1.2 x 0.8 cm portion of soft yellow fatty tissue within which there is embedded a single 0.6 cm diameter soft tan lymph node.\n\nNo gross tumor is seen.\n\nEntirely submitted.\n\nSlide key:\nF1. One lymph node and fat - 2\n\nG. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin is a 6.5 x 2.0 x 1.0 cm aggregate of soft yellow fatty tissue, within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.3 to 2.0 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely submitted.\nG1. Three lymph nodes, two of which are bisected - 4\nG2. Largest lymph node, bisected - 2\nG3. One lymph node and fat - multiple\n\nH. RIGHT COMMON ILIAC\nLabeled with the patient's name, labeled \"right common iliac\", and received in formalin is about a 3.5 x 2.0 x 0.8 cm aggregate of soft yellow fatty tissue. Dissection of the fat reveals two soft tan lymph nodes, about 0.4 and 0.6 cm in maximum dimensions.\n\nNo gross tumor is seen.\n\nEntirely embedded.\n\nSlide key:\nH1. Two bisected lymph nodes - 4\nH2. Fat - multiple\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nL\nOPERATIVE CONSULT (FROZEN):\n\nC. UTERUS, CERVIX:\n- Endometrial adenocarcinoma\n- No obvious high-grade features noted on representative sections\n- No definitive myometrial invasion identified on representative sections\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 7",
+          "confidence": {
+            "mean_probability": 0.994516760825074,
+            "mean_log_probability": -0.006315424175824176,
+            "perplexity": 1.0063354085147935,
+            "min_probability": 0.5603251717128342
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 456,
+            "total_tokens": 2928
+          },
+          "composite_score": 0.9172053996755717
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 7,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.462612867355347,
+        "chars": 1503,
+        "words": 247,
+        "text": "Electronically signed\n\nADDENDUM:\n\nRESULTS OF IMMUNOHISTOCHEMICAL STAINS FOR EVALUATION FOR POTENTIAL MICROSATELLITE INSTABILITY:\n\n| Study / Antibody | Block | Result |\n|------------------|-------|--------|\n| MLH-1            | C12   | No specific staining of the tumor cells is identified, i.e. there is loss of the normal pattern of staining for this mismatch repair protein. |\n| MSH-2            | C12   | There is retention of the normal pattern of staining for MSH-2 by the tumor cells. |\n| MSH-6            | C12   | Some of the neoplastic cells exhibit positive staining. |\n| PMS2             | C12   | There is retention of the normal pattern of staining for PMS2. |\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\n| Criteria | Yes | No |\n|----------|-----|----|\n| Diagnosis Discrepancy | / | / |\n| Primary Tumor Site Discrepancy | / | / |\n| HIPAA Discrepancy | / | / |\n| Prior Malignancy History | / | / |\n| Dual/Synchronous Primary Neoplasms | / | / |\n| Case is (circle): QUALIFIED / DISQUALIFIED | / | / |\n| Reviewer Initials | \\\\\\ | Date Reviewed: 5/ / |\n\nSURGICAL PATHOLOGY REPORT  \nIf this report includes immunohistochemical test results, please note the following: New immunohistochemical tests were developed and their performance characteristics determined by  \nimmunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nPage 7 of 7",
+        "confidence": {
+          "mean_probability": 0.954436349654522,
+          "mean_log_probability": -0.06517622252010724,
+          "perplexity": 1.0673470984077773,
+          "min_probability": 0.15052245549145715
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 374,
+          "total_tokens": 2846
+        },
+        "composite_score": 0.9013494349069066,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.462612867355347,
+          "chars": 1503,
+          "words": 247,
+          "text": "Electronically signed\n\nADDENDUM:\n\nRESULTS OF IMMUNOHISTOCHEMICAL STAINS FOR EVALUATION FOR POTENTIAL MICROSATELLITE INSTABILITY:\n\n| Study / Antibody | Block | Result |\n|------------------|-------|--------|\n| MLH-1            | C12   | No specific staining of the tumor cells is identified, i.e. there is loss of the normal pattern of staining for this mismatch repair protein. |\n| MSH-2            | C12   | There is retention of the normal pattern of staining for MSH-2 by the tumor cells. |\n| MSH-6            | C12   | Some of the neoplastic cells exhibit positive staining. |\n| PMS2             | C12   | There is retention of the normal pattern of staining for PMS2. |\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\n| Criteria | Yes | No |\n|----------|-----|----|\n| Diagnosis Discrepancy | / | / |\n| Primary Tumor Site Discrepancy | / | / |\n| HIPAA Discrepancy | / | / |\n| Prior Malignancy History | / | / |\n| Dual/Synchronous Primary Neoplasms | / | / |\n| Case is (circle): QUALIFIED / DISQUALIFIED | / | / |\n| Reviewer Initials | \\\\\\ | Date Reviewed: 5/ / |\n\nSURGICAL PATHOLOGY REPORT  \nIf this report includes immunohistochemical test results, please note the following: New immunohistochemical tests were developed and their performance characteristics determined by  \nimmunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nPage 7 of 7",
+          "confidence": {
+            "mean_probability": 0.954436349654522,
+            "mean_log_probability": -0.06517622252010724,
+            "perplexity": 1.0673470984077773,
+            "min_probability": 0.15052245549145715
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 374,
+            "total_tokens": 2846
+          },
+          "composite_score": 0.9013494349069066,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.324185609817505,
+          "chars": 1496,
+          "words": 245,
+          "text": "Electronically signed\n\nADDENDUM:\n\nRESULTS OF IMMUNOHISTOCHEMICAL STAINS FOR EVALUATION FOR POTENTIAL MICROSATELLITE INSTABILITY:\n\n| Study / Antibody | Block | Result |\n|------------------|-------|--------|\n| MLH-1            | C12   | No specific staining of the tumor cells is identified, i.e. there is loss of the normal pattern of staining for this mismatch repair protein. |\n| MSH-2            | C12   | There is retention of the normal pattern of staining for MSH-2 by the tumor cells. |\n| MSH-6            | C12   | Some of the neoplastic cells exhibit positive staining. |\n| PMS2             | C12   | There is retention of the normal pattern of staining for PMS2. |\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\n| Criteria | Yes | No |\n|----------|-----|----|\n| Diagnosis Discrepancy | / | / |\n| Primary Tumor Site Discrepancy | / | / |\n| HIPAA Discrepancy | / | / |\n| Prior Malignancy History | / | / |\n| Dual/Synchronous Primary Noded | / | / |\n| Case is (circle): QUALIFIED | T | DISQUALIFIED |\n| Reviewer Initials | \\\\\\ | Date Reviewed: 5/ \\\\\\ |\n\nSURGICAL PATHOLOGY REPORT  \nIf this report includes immunohistochemical test results, please note the following: Many immunohistochemical tests were developed and their performance characteristics determined by immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nPage 7 of 7",
+          "confidence": {
+            "mean_probability": 0.9548895899210949,
+            "mean_log_probability": -0.06913823848238482,
+            "perplexity": 1.0715843331018504,
+            "min_probability": 0.1291291774604772
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 370,
+            "total_tokens": 2842
+          },
+          "composite_score": 0.8529728837943362
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.73025131225586,
+          "chars": 1479,
+          "words": 245,
+          "text": "Electronically signed\n\nADDENDUM:\n\nRESULTS OF IMMUNOHISTOCHEMICAL STAINS FOR EVALUATION FOR POTENTIAL\nMICROSATELLITE INSTABILITY:\n\n| Study / Antibody | Block | Result |\n|-----------------|-------|--------|\n| MLH-1           | C12   | No specific staining of the tumor cells is identified, i.e. there is loss of the normal pattern of staining for this mismatch repair protein. |\n| MSH-2           | C12   | There is retention of the normal pattern of staining for MSH-2 by the tumor cells. |\n| MSH-6           | C12   | Some of the neoplastic cells exhibit positive staining. |\n| PMS2            | C12   | There is retention of the normal pattern of staining for PMS2. |\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n\n| Criteria | Yes | No |\n|----------|-----|----|\n| Diagnosis Discrepancy | / | / |\n| Primary Tumor Site Discrepancy | / | / |\n| HIPAA Discrepancy | / | / |\n| Prior Malignancy History | / | / |\n| Dual/Synchronous Primary Neoplasms | / | / |\n| Case is (circle): QUALIFIED | / | / |\n| Reviewer Initials | \\\\\\ | Date Reviewed: 5/ / |\n\nSURGICAL PATHOLOGY REPORT\nIf this report includes immunohistochemical test results, please note the following: New immunohistochemical tests were developed and their performance characteristics determined by\nimmunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.\n\nPage 7 of 7",
+          "confidence": {
+            "mean_probability": 0.9531395482002112,
+            "mean_log_probability": -0.06804773983739837,
+            "perplexity": 1.070416408764308,
+            "min_probability": 0.183156371854889
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 370,
+            "total_tokens": 2842
+          },
+          "composite_score": 0.8520836791662552
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

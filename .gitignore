@@ -17,6 +17,8 @@ input_pdfs/ovarian_cancer/
 
 # Ignore reports 
 reports/
+reports_old/
 prepare_qwen_reports.py
 gemini_ocr_benchmark(in).csv
+TCGA_database_restaging.csv
 

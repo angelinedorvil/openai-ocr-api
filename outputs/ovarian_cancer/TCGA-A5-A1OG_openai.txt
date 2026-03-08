@@ -1,0 +1,276 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-A5-A1OG\TCGA-A5-A1OG.pdf
+Processing Date: 2026-03-08 03:09:04
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD-0-3  
+adenocarcinoma, serous, NOS 8441/3  
+Site: Endometrium C54.1 3/4/11  
+/rv  
+
+_________________________________________________________  
+SURGICAL PATHOLOGY REPORT  
+
+DIAGNOSIS:  
+A,B. OMENTUM #1 AND #2 (OMENTECTOMY):  
+  - Omentum with micro-adhesions and focal mesothelial hyperplasia  
+C. OMENTUM #3 (OMENTECTOMY):  
+  - Omentum with micro-adhesions and focal mesothelial hyperplasia  
+  - Rare free-floating cluster of tumor cells (stray?)  
+D. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):  
+  - Endometrial adenocarcinoma, serous, high grade  
+  - Tumor size: 3 x 3 cm  
+  - Tumor involves the fundus and anterior and posterior uterine corpus  
+  - Myometrial invasion greater than 50% of myometrial thickness (depth of invasion 0.7 cm/1.0 cm myometrial thickness)  
+  - Extensive myometrial lymphovascular invasion, to within 0.1 cm of the serosal surface  
+  - Lymphovascular invasion is also present in the endocervical stroma (no tumor seen at cervical margin), right parametrial tissue, possibly in left parametrial tissue (versus artifactual displacement), and in right paraovarian tissue  
+  - Staging information (AJCC 2010): pT3a N2 (FIGO stage IIIC2)  
+  - Other findings:  
+    - Leiomyomas, submucosal, intramural, and subserosal (0.2 to 3.0 cm)  
+    - Non-neoplastic endometrium is atrophic  
+    - Cervix with nabothian cysts, squamous metaplasia, and reserve cell hyperplasia  
+    - Right ovary with epithelial microinclusion cysts and a paraovarian mesothelial inclusion cyst  
+    - Right fallopian tube with a paratubal mesothelial inclusion cysts and cystic Walthard rest  
+    - Left ovary with epithelial microinclusion cysts and a paraovarian mesothelial inclusion cyst  
+    - Left fallopian tube with a paratubal cystic Walthard rest  
+    - Tiny left parametrial lymph node with no evidence of malignancy  
+E. "RIGHT PELVIC LYMPH NODE" (EXCISION):  
+  - Fibroadipose tissue; no lymph nodes present  
+F. RIGHT EXTERNAL ILIAC LYMPH NODE (EXCISION):  
+Patient Case(s)  
+Copy For  
+Page 1 of 6  
+
+UU1D:7BE01FDF-C4CF-471E-B395-8D7C4531CD6F  
+TCGA-A5-A10G-01A-PR  
+Redacted  
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+- One lymph node positive for metastatic carcinoma (1/1)
+
+G. LEFT PELVIC LYMPH NODES (EXCISION):
+- Three lymph nodes positive for metastatic carcinoma (3/3)
+
+H. LEFT PERIAORTIC LYMPH NODE (EXCISION):
+- One lymph node positive for metastatic carcinoma (1/1)
+
+I. RIGHT PERIAORTIC LYMPH NODES (EXCISION):
+- Three lymph nodes positive for metastatic carcinoma (3/3)
+- Perinodal vascular invasion present
+
+J. APPENDIX (APPENDECTOMY):
+- No significant histopathologic change
+
+COMMENT: Report e-mailed to Dr. Dr.
+
+SYNOPTIC REPORT:
+Applies To:
+A : OMENTUM 1
+B : OMENTUM 2
+C : OMENTUM 3
+D : UTERUS/CERVIX RT TUBE & OVARY LT TUBE OVARY
+E : RIGHT PELVIC NODE
+F : RIGHT EXTERNAL ILIAC LN
+G : LEFT PELVIC LN
+H : LEFT PERI-AORTA
+I : RIGHT PERI-AORTA
+J : APPENDIX
+
+Macroscopic
+Specimen Type: Uterus
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Omentum
+Appendix
+Other Organs Present: Total abdominal hysterectomy and bilateral salpingo-
+Procedure: oophorectomy
+Intact hysterectomy specimen
+Specimen Integrity:
+Pelvic lymph nodes
+Lymph Node Sampling: Para-aortic lymph nodes
+Common iliac lymph nodes
+
+Microscopic
+Histologic Type: Serous adenocarcinoma
+Histologic Grade: G3: Poorly differentiated
+Tumor Site: Corpus
+Fundus
+Tumor Size: Greatest dimension: 3cm
+Myometrial Invasion: Greater than 50% myometrial invasion
+
+SURGICAL PATHOLOGY REPORT
+
+Page 2 of 6
+
+================================================================================
+PAGE 3
+================================================================================
+Involvement of Cervix:	Lymphovascular invasion of cervical stromal connective tissue
+Extent of Involvement of Other Organs:	Right parametrium
+Right ovary
+Margins:	Uninvolved by invasive carcinoma
+Lymphovascular Invasion:	Present
+
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+Primary Tumor (pT):	pT3a [IIIA]: Tumor involves serosa and/or adnexa (direct extension or metastasis)
+Regional Lymph Nodes (pN):	pN2 [IIIC2]: Regional lymph node metastasis to the para-aortic lymph nodes, with or without positive pelvic lymph nodes
+Number of pelvic lymph nodes examined:	3
+Number of pelvic lymph nodes involved:	3
+Number of para-aortic lymph nodes examined:	4
+Number of para-aortic lymph nodes involved:	4
+Number of common iliac lymph nodes examined:	1
+Number of common iliac lymph nodes involved:	1
+
+HISTORY:
+Uterine cancer.
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+GROSS:
+A. OMENTUM #1
+Labeled with the patient's name, labeled "omentum 1", and received in formalin is a 22.0 x 6.5 x 0.7 cm fragment of yellow adipose tissue. Serial sections are unremarkable and reveal homogenous yellow adipose tissue. Representative sections are submitted in one cassette.
+
+Slide key:
+A1. Representative - 3
+
+B. OMENTUM #2
+Labeled with the patient's name, labeled "omentum 2", and received in formalin is a 13.0 x 14.5 x 1.2 cm fragment of yellow adipose tissue. Serial sections are unremarkable and reveal homogenous lobulated adipose tissue. Representative sections are submitted.
+
+Slide key:
+B1. Representative - 3
+
+SURGICAL PATHOLOGY REPORT
+
+Page 3 of 6
+
+================================================================================
+PAGE 4
+================================================================================
+C. OMENTUM #3
+Labeled with the patient's name, labeled "omentum 3", and received in formalin is a 17.0 x 14.0 x 2.0 cm fragment of yellow adipose tissue. Serial sections are unremarkable and reveal lobulated adipose tissue. Representative sections are submitted.
+
+Slide key:
+C1. Representative sections - 3
+
+D. UTERUS/CERVIX/RIGHT TUBE AND OVARY/LEFT TUBE AND OVARY
+Labeled with the patient's name, labeled "uterus/cervix/right tube and ovary/left tube and ovary", and received fresh from the operating room is a 150 gram specimen consisting of a previously opened uterus with attached fallopian tubes and ovaries. The uterus measures 7.0 x 7.0 x 5.0 cm. The exocervix measures 4.0 x 3.0 cm. The endocervical canal measures 4.0 cm in length and 0.6 cm in diameter. The endometrial cavity measures 3.0 cm in length and 3.4 cm in width. The right ovary measures 3.0 x 1.2 x 0.4 cm and the right fallopian tube measures 3.6 cm in length and 0.3 cm in diameter. There is a 2.5 x 2.5 x 2.0 cm right paratubal cyst. The left ovary measures 2.0 x 1.3 x 0.8 cm and the left fallopian tube measures 3.2 cm in length and 0.2 cm in diameter.
+
+The endometrial cavity is largely replaced by a friable, red/tan, heaped up 3.0 x 3.0 cm mass which extends from the fundus to the lower uterine segment on both the anterior and posterior surfaces. The cut surface reveals invasion into the underlying superficial myometrium. A representative section has been used for frozen section. The myometrium measures 1.5 cm in thickness and contains multiple, approximately five to seven nodules located submucosal, intramural, and subserosal. They range from 1.0 to 3.0 cm in greatest dimension. Cut surface of all nodules reveal white fibrous, often whorled surface and firm texture without hemorrhage or necrosis.
+
+The exocervix, external os and endocervical canal are grossly unremarkable. The uninvolved portion of the endometrial cavity is covered by tan/pink hemorrhagic mucosal surface without additional gross lesions. The serosa shows no gross abnormalities.
+
+Representative sections are submitted.
+
+Slide key:
+D1-D3. Tumor anterior wall with deepest area of myometrial invasion - 1 each
+D4-D7. Tumor posterior wall with deepest area of myometrial invasion - 1,1,2,1
+D8. Anterior cervix - 1
+D9. Posterior cervix - 1
+D10. Lower uterine segment (anterior) - 2
+D11. Lower uterine segment (posterior) - 2
+D12-D13. Leiomyomata - 3 each
+D14. Right fallopian tube and cyst wall (serous clear fluid within cyst) - 4
+D15. Right ovary - 1
+D16. Left fallopian tube - 4
+D17. Left ovary - 1
+D18. Cervix - 2
+D19. Right fimbria - 5
+D20-D21. Right parametrial tissue - 4,5
+D22. Possible left fallopian tube - multiple
+D23-D24. Left parametrial tissue - 4 each
+
+E. RIGHT PELVIC NODE
+
+
+SURGICAL PATHOLOGY REPORT
+
+Page 4 of 6
+
+================================================================================
+PAGE 5
+================================================================================
+Labeled with the patient's name, labeled "right pelvic node", and received in formalin is an aggregate of soft yellow adipose tissue measuring 3.5 x 3.0 x 1.0 cm. A lymph node is not distinctly identified. The adipose tissue is entirely submitted in two cassettes.
+
+Slide key:
+E1-E2. Entire specimen - multiple
+
+F. RIGHT EXTERNAL ILEAC LN
+Labeled with the patient's name, labeled "right external ileac LN", and received in formalin is a 2.0 x 1.5 x 0.7 cm tan-pink lymph node. Entirely submitted.
+
+Slide key:
+F1. Entire specimen, bisected - 2
+
+G. LEFT PELVIC LN
+Labeled with the patient's name, labeled "left pelvic LN" and received in formalin is an aggregate of soft yellow adipose tissue measuring 6.0 x 3.0 x 1.4 cm, containing three soft tan-pink lymph nodes which measure 0.5 x 0.5 x 0.4 cm, 0.5 x 0.4 x 0.4 cm, 1.2 x 1.0 x 0.5 cm. All lymph nodes are entirely submitted, (largest node inked black, medium sized node inked blue and smallest node inked orange).
+
+Slide key:
+G1. Three nodes, bisected - 6
+
+H. LEFT PERI-AORTA
+Labeled with the patient's name, labeled "left peri-aorta", and received in formalin is a 2.4 x 1.5 x 0.9 cm soft tan-pink lymph node. Entirely submitted.
+
+Slide key:
+H1. Entire specimen, bisected - 2
+
+I. RIGHT PERI-AORTIC
+Labeled with the patient's name, labeled "right peri-aorta", and received in formalin is a 3.5 x 1.9 x 0.9 cm irregularly-shaped tan-pink lymph node. The specimen is bisected and entirely submitted.
+
+Slide key:
+I1-I2. Entire specimen, bisected - 1 each (three nodes on histology)
+
+J. APPENDIX
+Labeled with the patient's name, labeled "appendix", and received in formalin is a 5.5 cm long, 0.8 cm diameter appendix, with mesoappendix that extends up to 1.5 cm away from the wall. Staple line is not present. The serosal surface is smooth. No focal adhesions. No perforation is identified. The appendiceal wall averages 0.3 cm in thickness. The lumen averages 0.2 cm and contains brown soft material. No mass lesions are identified.
+
+Representative sections are submitted.
+
+Slide key:
+J1. 3
+
+Gross dictated by
+
+
+INTRAOPERATIVE CONSULTATION:
+GROSS:
+D. UTERUS AND BILATERAL ADNEXA:
+
+SURGICAL PATHOLOGY REPORT
+
+Page 5 of 6
+
+================================================================================
+PAGE 6
+================================================================================
+- Primary uterine carcinoma, large volume, with at least superficial invasion and an
+undervina leiomyoma.
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+Electronically signed
+
+
+                                                                                      Criteria                         Yes      No
+                                                                                      Diagnosis Discrepancy            /         /
+                                                                                      Primary Tumor Site Discrepancy  /         /
+                                                                                      HIPAA Discrepancy               /         /
+                                                                                      Prior Malignancy History        /         /
+                                                                                      Dual/Synchronous Primary Noted  /         /
+                                                                                      Case is (circle):  1  QUALIFIED  2  SQUAMOUS  3  OTHER
+                                                                                      Reviewer Initials  1  3  /  6  /  1  1
+___________________________________________________________________________________________________________________________
+SURGICAL PATHOLOGY REPORT
+If this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their
+performance characteristics determined by
+immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+Page 6 of 6

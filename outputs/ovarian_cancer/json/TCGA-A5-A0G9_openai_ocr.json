@@ -1,0 +1,553 @@
+{
+  "pdf": "reports\\TCGA-A5-A0G9\\TCGA-A5-A0G9.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 172.73956775665283,
+        "chars": 8614,
+        "words": 20,
+        "text": "___________________________________________________________________________________________\n\n                                                                                          ICD-0-3\n                                                                                          Adenocarcinoma, Endometrioid Page 1 of 6\nUUID: 32FB682E-B73F-4525-A845-7F240F9F40CE                                                NOS\nTCGA-AS-A069-01A-PR                                                                       /3  μv\n                                                                                          11/29/10\n                                                                                          Sites: endometrium C54.1\n                                                                                          Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "confidence": {
+          "mean_probability": 0.9838064040988639,
+          "mean_log_probability": -0.02248444677734375,
+          "perplexity": 1.0227391271513797,
+          "min_probability": 0.06632376497091028
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9824079892084736,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 172.73956775665283,
+          "chars": 8614,
+          "words": 20,
+          "text": "___________________________________________________________________________________________\n\n                                                                                          ICD-0-3\n                                                                                          Adenocarcinoma, Endometrioid Page 1 of 6\nUUID: 32FB682E-B73F-4525-A845-7F240F9F40CE                                                NOS\nTCGA-AS-A069-01A-PR                                                                       /3  μv\n                                                                                          11/29/10\n                                                                                          Sites: endometrium C54.1\n                                                                                          Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9838064040988639,
+            "mean_log_probability": -0.02248444677734375,
+            "perplexity": 1.0227391271513797,
+            "min_probability": 0.06632376497091028
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9824079892084736,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 129.99912548065186,
+          "chars": 8005,
+          "words": 20,
+          "text": "```\nICD-0-3\nAdenocarcinoma, Endometrioid Page 1 of 6\nNOS\n8330/3\nµw\n11/29/10\nSite: endometrium C54.1\n\nUUID: 32FB682E-B73F-4525-A845-7F240F9F40CE\nTCGA-AS-A069-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9887779075153683,
+            "mean_log_probability": -0.012547080078125003,
+            "perplexity": 1.0126261249354653,
+            "min_probability": 0.35224370471588334
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9405823827385497
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 150.78548312187195,
+          "chars": 8377,
+          "words": 13,
+          "text": "___________________________________________________________________________________________\n\n                                                                                  ICD-0-3\n                                                                                  Adenocarcinoma, Endometrioid  Page 1 of 6\n                                                                                  NOS\nUUID:32FB682E-B73F-4525-A845-7F240F9F40CE\nTCGA-AS-A069-01A-PR                  Redacted\nIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+          "confidence": {
+            "mean_probability": 0.9911509253296664,
+            "mean_log_probability": -0.014239356933593753,
+            "perplexity": 1.0143412194880375,
+            "min_probability": 0.035999652260616466
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.6575310156454834
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 19.213679552078247,
+        "chars": 2606,
+        "words": 383,
+        "text": "Page 2 of 6\n\nwithout significant atypia\n- No evidence of metastatic carcinoma\n\n3. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n- Ovary with atrophic changes, cortical stromal hyperplasia\nwith associated hyperthecosis, epithelial inclusion cysts\nand a mesothelial cyst, latter probably paraovarian\nrather than intraovarian\n- Fallopian tube with foci of chronic perivascular\ninflammation\n- No evidence of metastatic carcinoma\n\n4. LYMPH NODES, LEFT PELVIC, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n5. LYMPH NODE, LEFT OBTURATOR, EXCISION:\n- One lymph node negative for metastatic carcinoma (0/1)\n\n6. LYMPH NODES, LEFT PERIAORTIC, EXCISION:\n- Two lymph nodes negative for metastatic carcinoma (0/2)\n\n7. LYMPH NODES, RIGHT PELVIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n8. LYMPH NODES, RIGHT OBTURATOR, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n9. LYMPH NODES, RIGHT PERIAORTIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n10. [SOFT TISSUE] DESIGNATED \"LYMPH NODE #2\", LEFT PELVIC,\nEXCISION:\n- Focally hemorrhagic adipose tissue\n- No lymph node identified\n- No evidence of metastatic carcinoma\n\nCOMMENT: Preliminary pathologic findings were communicated to Dr.\nFindings in additional routinely stained sections\nhave been incorporated in the final diagnosis.\n======================================================================\nHISTORY: Uterine carcinoma\nMICROSCOPIC: See Diagnosis.\n\nGROSS:\n1: UTERUS CERVIX\n(con't\n\nratory Medicine\nPage: 3\nLabeled with the patient's name, designated \"uterus, cervix\",\nreceived fresh in the Operating Room for intraoperative gross\nconsultation and subsequently fixed in formalin is an 84 gram total\nhysterectomy specimen. The uterus measures about 7.4 cm from the\nfundus to the ectocervix, 3.8 cm from cornu to cornu, and up to 4.1\ncm from the anterior surface to the posterior surface. The uterine\nserosa is tan-red, and generally smooth except for procedure-related\nartifact. Attached to the uterus, there is a small amount of pink-\ntan firm parametrial soft tissue. The parametrial soft tissues,\nbilaterally, appears grossly free of tumor. The cervix is about 2.8\ncm long and has a maximum diameter of 1.9 cm in the ectocervical\nregion. The mucosa lining the ectocervix is tan and smooth. The\nexternal cervical os is patent and about 0.9 cm in diameter. The\nuterus was previously incised on both sides at the time of the\nintraoperative consult. The cervical transformation zone is\ndistinct. The endocervical canal is about 2.1 cm long and lined for",
+        "confidence": {
+          "mean_probability": 0.9890056434205201,
+          "mean_log_probability": -0.015543199417758368,
+          "perplexity": 1.0156646232309743,
+          "min_probability": 0.14257259077938475
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 688,
+          "total_tokens": 3160
+        },
+        "composite_score": 0.9877557552043716,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 19.213679552078247,
+          "chars": 2606,
+          "words": 383,
+          "text": "Page 2 of 6\n\nwithout significant atypia\n- No evidence of metastatic carcinoma\n\n3. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n- Ovary with atrophic changes, cortical stromal hyperplasia\nwith associated hyperthecosis, epithelial inclusion cysts\nand a mesothelial cyst, latter probably paraovarian\nrather than intraovarian\n- Fallopian tube with foci of chronic perivascular\ninflammation\n- No evidence of metastatic carcinoma\n\n4. LYMPH NODES, LEFT PELVIC, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n5. LYMPH NODE, LEFT OBTURATOR, EXCISION:\n- One lymph node negative for metastatic carcinoma (0/1)\n\n6. LYMPH NODES, LEFT PERIAORTIC, EXCISION:\n- Two lymph nodes negative for metastatic carcinoma (0/2)\n\n7. LYMPH NODES, RIGHT PELVIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n8. LYMPH NODES, RIGHT OBTURATOR, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n9. LYMPH NODES, RIGHT PERIAORTIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n10. [SOFT TISSUE] DESIGNATED \"LYMPH NODE #2\", LEFT PELVIC,\nEXCISION:\n- Focally hemorrhagic adipose tissue\n- No lymph node identified\n- No evidence of metastatic carcinoma\n\nCOMMENT: Preliminary pathologic findings were communicated to Dr.\nFindings in additional routinely stained sections\nhave been incorporated in the final diagnosis.\n======================================================================\nHISTORY: Uterine carcinoma\nMICROSCOPIC: See Diagnosis.\n\nGROSS:\n1: UTERUS CERVIX\n(con't\n\nratory Medicine\nPage: 3\nLabeled with the patient's name, designated \"uterus, cervix\",\nreceived fresh in the Operating Room for intraoperative gross\nconsultation and subsequently fixed in formalin is an 84 gram total\nhysterectomy specimen. The uterus measures about 7.4 cm from the\nfundus to the ectocervix, 3.8 cm from cornu to cornu, and up to 4.1\ncm from the anterior surface to the posterior surface. The uterine\nserosa is tan-red, and generally smooth except for procedure-related\nartifact. Attached to the uterus, there is a small amount of pink-\ntan firm parametrial soft tissue. The parametrial soft tissues,\nbilaterally, appears grossly free of tumor. The cervix is about 2.8\ncm long and has a maximum diameter of 1.9 cm in the ectocervical\nregion. The mucosa lining the ectocervix is tan and smooth. The\nexternal cervical os is patent and about 0.9 cm in diameter. The\nuterus was previously incised on both sides at the time of the\nintraoperative consult. The cervical transformation zone is\ndistinct. The endocervical canal is about 2.1 cm long and lined for",
+          "confidence": {
+            "mean_probability": 0.9890056434205201,
+            "mean_log_probability": -0.015543199417758368,
+            "perplexity": 1.0156646232309743,
+            "min_probability": 0.14257259077938475
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 688,
+            "total_tokens": 3160
+          },
+          "composite_score": 0.9877557552043716,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 17.89492702484131,
+          "chars": 2627,
+          "words": 383,
+          "text": "Page 2 of 6\n\nwithout significant atypia\n- No evidence of metastatic carcinoma\n\n3. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n- Ovary with atrophic changes, cortical stromal hyperplasia\n  with associated hyperthecosis, epithelial inclusion cysts\n  and a mesothelial cyst, latter probably paraovarian\n  rather than intraovarian\n- Fallopian tube with foci of chronic perivascular\n  inflammation\n- No evidence of metastatic carcinoma\n\n4. LYMPH NODES, LEFT PELVIC, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n5. LYMPH NODE, LEFT OBTURATOR, EXCISION:\n- One lymph node negative for metastatic carcinoma (0/1)\n\n6. LYMPH NODES, LEFT PERIAORTIC, EXCISION:\n- Two lymph nodes negative for metastatic carcinoma (0/2)\n\n7. LYMPH NODES, RIGHT PELVIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n8. LYMPH NODES, RIGHT OBTURATOR, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n9. LYMPH NODES, RIGHT PERIAORTIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n10. [SOFT TISSUE] DESIGNATED \"LYMPH NODE #2\", LEFT PELVIC,\n    EXCISION:\n- Focally hemorrhagic adipose tissue\n- No lymph node identified\n- No evidence of metastatic carcinoma\n\nCOMMENT: Preliminary pathologic findings were communicated to Dr.\n         Findings in additional routinely stained sections\nhave been incorporated in the final diagnosis.\n======================================================================\nHISTORY: Uterine carcinoma\nMICROSCOPIC: See Diagnosis.\n\nGROSS:\n1: UTERUS CERVIX\n(con't\n\nratory Medicine\nPage: 3\nLabeled with the patient's name, designated \"uterus, cervix\",\nreceived fresh in the Operating Room for intraoperative gross\nconsultation and subsequently fixed in formalin is an 84 gram total\nhysterectomy specimen. The uterus measures about 7.4 cm from the\nfundus to the ectocervix, 3.8 cm from cornu to cornu, and up to 4.1\ncm from the anterior surface to the posterior surface. The uterine\nserosa is tan-red, and generally smooth except for procedure-related\nartifact. Attached to the uterus, there is a small amount of pink-\ntan firm parametrial soft tissue. The parametrial soft tissues,\nbilaterally, appears grossly free of tumor. The cervix is about 2.8\ncm long and has a maximum diameter of 1.9 cm in the ectocervical\nregion. The mucosa lining the ectocervix is tan and smooth. The\nexternal cervical os is patent and about 0.9 cm in diameter. The\nuterus was previously incised on both sides at the time of the\nintraoperative consult. The cervical transformation zone is\ndistinct. The endocervical canal is about 2.1 cm long and lined for",
+          "confidence": {
+            "mean_probability": 0.9872344930863066,
+            "mean_log_probability": -0.01935386107091172,
+            "perplexity": 1.019542361144338,
+            "min_probability": 0.08509738265382955
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 692,
+            "total_tokens": 3164
+          },
+          "composite_score": 0.9355703353117827
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 18.705625772476196,
+          "chars": 2637,
+          "words": 383,
+          "text": "Page 2 of 6\n\nwithout significant atypia\n- No evidence of metastatic carcinoma\n\n3. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n- Ovary with atrophic changes, cortical stromal hyperplasia\n  with associated hyperthecosis, epithelial inclusion cysts\n  and a mesothelial cyst, latter probably paraovarian\n  rather than intraovarian\n- Fallopian tube with foci of chronic perivascular\n  inflammation\n- No evidence of metastatic carcinoma\n\n4. LYMPH NODES, LEFT PELVIC, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n5. LYMPH NODE, LEFT OBTURATOR, EXCISION:\n- One lymph node negative for metastatic carcinoma (0/1)\n\n6. LYMPH NODES, LEFT PERIAORTIC, EXCISION:\n- Two lymph nodes negative for metastatic carcinoma (0/2)\n\n7. LYMPH NODES, RIGHT PELVIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n8. LYMPH NODES, RIGHT OBTURATOR, EXCISION:\n- Four lymph nodes negative for metastatic carcinoma (0/4)\n\n9. LYMPH NODES, RIGHT PERIAORTIC, EXCISION:\n- Three lymph nodes negative for metastatic carcinoma (0/3)\n\n10. [SOFT TISSUE] DESIGNATED \"LYMPH NODE #2\", LEFT PELVIC,\n    EXCISION:\n- Focally hemorrhagic adipose tissue\n- No lymph node identified\n- No evidence of metastatic carcinoma\n\nCOMMENT: Preliminary pathologic findings were communicated to Dr.\n         Findings in additional routinely stained sections\nhave been incorporated in the final diagnosis.\n=======================================================================\nHISTORY: Uterine carcinoma\nMICROSCOPIC: See Diagnosis.\n\nGROSS:\n1: UTERUS CERVIX\n(con't\n\nratory Medicine          Page: 3\nLabeled with the patient's name, designated \"uterus, cervix\",\nreceived fresh in the Operating Room for intraoperative gross\nconsultation and subsequently fixed in formalin is an 84 gram total\nhysterectomy specimen. The uterus measures about 7.4 cm from the\nfundus to the ectocervix, 3.8 cm from cornu to cornu, and up to 4.1\ncm from the anterior surface to the posterior surface. The uterine\nserosa is tan-red, and generally smooth except for procedure-related\nartifact. Attached to the uterus, there is a small amount of pink-\ntan firm parametrial soft tissue. The parametrial soft tissues,\nbilaterally, appears grossly free of tumor. The cervix is about 2.8\ncm long and has a maximum diameter of 1.9 cm in the ectocervical\nregion. The mucosa lining the ectocervix is tan and smooth. The\nexternal cervical os is patent and about 0.9 cm in diameter. The\nuterus was previously incised on both sides at the time of the\nintraoperative consult. The cervical transformation zone is\ndistinct. The endocervical canal is about 2.1 cm long and lined for",
+          "confidence": {
+            "mean_probability": 0.9877281221041881,
+            "mean_log_probability": -0.020075663768115943,
+            "perplexity": 1.020278535224782,
+            "min_probability": 0.02711462578003767
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 691,
+            "total_tokens": 3163
+          },
+          "composite_score": 0.6545299402740526
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 25.71291184425354,
+        "chars": 3487,
+        "words": 554,
+        "text": "Page 3 of 6\n\nthe most part by slightly rugose tan mucosa. In the posterior endocervix, there are two tiny endocervical polyps, measuring about 0.2 and 0.3 cm in maximum dimension, each is composed of semi-soft tan-white tissue. Cut sections of the cervix reveal multiple mucus-filled cysts ranging from about 0.1 to 0.3 cm in diameter. The cervix appears grossly free of tumor. The endometrial cavity is about 5.0 cm long and up to 3.0 cm in diameter. The endometrial cavity is largely occupied by an exophytic polypoid pale tan tumor mass that has a friable and focally papillated surface. The tumor mass measures about 4.2 x 3.0 cm in surface area and has a maximum thickness of about 1.6 cm, including exophytic and endophytic components, extensively involves the uterine fundus, anterior uterine corpus, posterior uterine corpus, and extends into the posterior lower uterine segment. Upon sectioning the uterus, invasive carcinoma is seen involving the fundus, posterior uterine corpus and anterior uterine corpus. In the posterior fundus and posterior corpus, greater than 50% of the wall thickness is involved by tumor. Tumor in the anterior uterus and in the posterior lower uterine segment is more superficially invasive (involves less than 50% of the wall thickness). Within the uterus, mostly in the lower anterior corpus and lower uterine segment, there is a small amount of uninvolved tan endometrium that has a maximum thickness of less than 0.1 cm. Within the uterus, there are five sharply circumscribed intramural leiomyomas that measure about 0.3, 0.5, 0.6, 1.2 and 1.5 cm in maximum dimensions. The smallest and second smallest leiomyomas are in the fundus. The third smallest leiomyoma is located in the anterior lower uterine segment. The largest and second largest leiomyomas are located in the posterior uterine corpus. The largest and second largest leiomyomas have firm white cut surfaces without grossly evident areas of hemorrhage or necrosis. The second largest leiomyoma is partially calcified. The smallest and second smallest leiomyomas have firm tan-white whorled cut surfaces without grossly evident areas of hemorrhage or necrosis. The uninvolved myometrium is semi-firm, tan-pink, up to 1.8 cm in thickness and shows trabeculations and focal minute cystic spaces suggestive of adenomyosis.\nRepresentative sections.\n\nL. Posterior cervix with two tiny endocervical polyps - 1\nM. Anterior cervix - 1\nN. Posterior lower uterine segment with tumor and adjacent upper posterior endocervix - 1\n\n(cor\n\noratory Medicine Page: 4\nO. Anterior lower uterine segment with small leiomyoma and adjacent upper endocervix - 1\nP. Posterior uterine fundus with deeply invasive tumor and small leiomyoma - 2\nQ. Posterior uterine corpus with tumor and second largest leiomyoma - 1\nR. Lower posterior uterine corpus with tumor and largest leiomyoma - 1\nS. Anterior uterine fundus with tumor and small leiomyoma - 1\nT. Anterior uterine corpus with tumor - 1\nU. Lower anterior uterine corpus - 1\nV. Left parametrial soft tissues - 2\nW. Right parametrial soft tissue - 2\n\n2: RIGHT ADNEXA\nLabeled with the patient's name, designated \"right adnexa\", received fresh in the Operating Room and subsequently fixed in formalin, is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.6 x 1.1 x 0.1 cm and has a generally smooth, tan-yellow serosal surface. Attached to the ovary, there is a translucent thin-walled paraovarian cyst that contains clear pale yellow fluid. The",
+        "confidence": {
+          "mean_probability": 0.9933685040548994,
+          "mean_log_probability": -0.008800544930875577,
+          "perplexity": 1.008839383576559,
+          "min_probability": 0.3042778544845662
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 869,
+          "total_tokens": 3341
+        },
+        "composite_score": 0.9930209832061669,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 25.71291184425354,
+          "chars": 3487,
+          "words": 554,
+          "text": "Page 3 of 6\n\nthe most part by slightly rugose tan mucosa. In the posterior endocervix, there are two tiny endocervical polyps, measuring about 0.2 and 0.3 cm in maximum dimension, each is composed of semi-soft tan-white tissue. Cut sections of the cervix reveal multiple mucus-filled cysts ranging from about 0.1 to 0.3 cm in diameter. The cervix appears grossly free of tumor. The endometrial cavity is about 5.0 cm long and up to 3.0 cm in diameter. The endometrial cavity is largely occupied by an exophytic polypoid pale tan tumor mass that has a friable and focally papillated surface. The tumor mass measures about 4.2 x 3.0 cm in surface area and has a maximum thickness of about 1.6 cm, including exophytic and endophytic components, extensively involves the uterine fundus, anterior uterine corpus, posterior uterine corpus, and extends into the posterior lower uterine segment. Upon sectioning the uterus, invasive carcinoma is seen involving the fundus, posterior uterine corpus and anterior uterine corpus. In the posterior fundus and posterior corpus, greater than 50% of the wall thickness is involved by tumor. Tumor in the anterior uterus and in the posterior lower uterine segment is more superficially invasive (involves less than 50% of the wall thickness). Within the uterus, mostly in the lower anterior corpus and lower uterine segment, there is a small amount of uninvolved tan endometrium that has a maximum thickness of less than 0.1 cm. Within the uterus, there are five sharply circumscribed intramural leiomyomas that measure about 0.3, 0.5, 0.6, 1.2 and 1.5 cm in maximum dimensions. The smallest and second smallest leiomyomas are in the fundus. The third smallest leiomyoma is located in the anterior lower uterine segment. The largest and second largest leiomyomas are located in the posterior uterine corpus. The largest and second largest leiomyomas have firm white cut surfaces without grossly evident areas of hemorrhage or necrosis. The second largest leiomyoma is partially calcified. The smallest and second smallest leiomyomas have firm tan-white whorled cut surfaces without grossly evident areas of hemorrhage or necrosis. The uninvolved myometrium is semi-firm, tan-pink, up to 1.8 cm in thickness and shows trabeculations and focal minute cystic spaces suggestive of adenomyosis.\nRepresentative sections.\n\nL. Posterior cervix with two tiny endocervical polyps - 1\nM. Anterior cervix - 1\nN. Posterior lower uterine segment with tumor and adjacent upper posterior endocervix - 1\n\n(cor\n\noratory Medicine Page: 4\nO. Anterior lower uterine segment with small leiomyoma and adjacent upper endocervix - 1\nP. Posterior uterine fundus with deeply invasive tumor and small leiomyoma - 2\nQ. Posterior uterine corpus with tumor and second largest leiomyoma - 1\nR. Lower posterior uterine corpus with tumor and largest leiomyoma - 1\nS. Anterior uterine fundus with tumor and small leiomyoma - 1\nT. Anterior uterine corpus with tumor - 1\nU. Lower anterior uterine corpus - 1\nV. Left parametrial soft tissues - 2\nW. Right parametrial soft tissue - 2\n\n2: RIGHT ADNEXA\nLabeled with the patient's name, designated \"right adnexa\", received fresh in the Operating Room and subsequently fixed in formalin, is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.6 x 1.1 x 0.1 cm and has a generally smooth, tan-yellow serosal surface. Attached to the ovary, there is a translucent thin-walled paraovarian cyst that contains clear pale yellow fluid. The",
+          "confidence": {
+            "mean_probability": 0.9933685040548994,
+            "mean_log_probability": -0.008800544930875577,
+            "perplexity": 1.008839383576559,
+            "min_probability": 0.3042778544845662
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 869,
+            "total_tokens": 3341
+          },
+          "composite_score": 0.9930209832061669,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 30.239020586013794,
+          "chars": 3486,
+          "words": 554,
+          "text": "Page 3 of 6\n\nthe most part by slightly rugose tan mucosa. In the posterior endocervix, there are two tiny endocervical polyps, measuring about 0.2 and 0.3 cm in maximum dimension, each is composed of semi-soft tan-white tissue. Cut sections of the cervix reveal multiple mucus-filled cysts ranging from about 0.1 to 0.3 cm in diameter. The cervix appears grossly free of tumor. The endometrial cavity is about 5.0 cm long and up to 3.0 cm in diameter. The endometrial cavity is largely occupied by an exophytic polypoid pale tan tumor mass that has a friable and focally papillated surface. The tumor mass measures about 4.2 x 3.0 cm in surface area and has a maximum thickness of about 1.6 cm, including exophytic and endophytic components, extensively involves the uterine fundus, anterior uterine corpus, posterior uterine corpus, and extends into the posterior lower uterine segment. Upon sectioning the uterus, invasive carcinoma is seen involving the fundus, posterior uterine corpus and anterior uterine corpus. In the posterior fundus and posterior corpus, greater than 50% of the wall thickness is involved by tumor. Tumor in the anterior uterus and in the posterior lower uterine segment is more superficially invasive (involves less than 50% of the wall thickness). Within the uterus, mostly in the lower anterior corpus and lower uterine segment, there is a small amount of uninvolved tan endometrium that has a maximum thickness of less than 0.1 cm. Within the uterus, there are five sharply circumscribed intramural leiomyomas that measure about 0.3, 0.5, 0.6, 1.2 and 1.5 cm in maximum dimensions. The smallest and second smallest leiomyomas are in the fundus. The third smallest leiomyoma is located in the anterior lower uterine segment. The largest and second largest leiomyomas are located in the posterior uterine corpus. The largest and second largest leiomyomas have firm white cut surfaces without grossly evident areas of hemorrhage or necrosis. The second largest leiomyoma is partially calcified. The smallest and second smallest leiomyomas have firm tan-white whorled cut surfaces without grossly evident areas of hemorrhage or necrosis. The uninvolved myometrium is semi-firm, tan-pink, up to 1.8 cm in thickness and shows trabeculations and focal minute cystic spaces suggestive of adenomyosis.\nRepresentative sections.\n\nL. Posterior cervix with two tiny endocervical polyps - 1\nM. Anterior cervix - 1\nN. Posterior lower uterine segment with tumor and adjacent upper posterior endocervix - 1\n(cor\n\noratory Medicine\nPage: 4\nO. Anterior lower uterine segment wLui small leiomyoma and adjacent upper endocervix - 1\nP. Posterior uterine fundus with deeply invasive tumor and small leiomyoma - 2\nQ. Posterior uterine corpus with tumor and second largest leiomyoma - 1\nR. Lower posterior uterine corpus with tumor and largest leiomyoma - 1\nS. Anterior uterine fundus with tumor and small leiomyoma - 1\nT. Anterior uterine corpus with tumor - 1\nU. Lower anterior uterine corpus - 1\nV. Left parametrial soft tissues - 2\nW. Right parametrial soft tissue - 2\n\n2: RIGHT ADNEXA\nLabeled with the patient's name, designated \"right adnexa\", received fresh in the Operating Room and subsequently fixed in formalin, is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.6 x 1.1 x 0.1 cm and has a generally smooth, tan-yellow serosal surface. Attached to the ovary, there is a translucent thin-walled paraovarian cyst that contains clear pale yellow fluid. The",
+          "confidence": {
+            "mean_probability": 0.9918359270160145,
+            "mean_log_probability": -0.011533308840413318,
+            "perplexity": 1.011600073873853,
+            "min_probability": 0.18159815001661694
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 872,
+            "total_tokens": 3344
+          },
+          "composite_score": 0.9413346257190855
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 26.226952075958252,
+          "chars": 3487,
+          "words": 554,
+          "text": "Page 3 of 6\n\nthe most part by slightly rugose tan mucosa. In the posterior endocervix, there are two tiny endocervical polyps, measuring about 0.2 and 0.3 cm in maximum dimension, each is composed of semi-soft tan-white tissue. Cut sections of the cervix reveal multiple mucus-filled cysts ranging from about 0.1 to 0.3 cm in diameter. The cervix appears grossly free of tumor. The endometrial cavity is about 5.0 cm long and up to 3.0 cm in diameter. The endometrial cavity is largely occupied by an exophytic polypoid pale tan tumor mass that has a friable and focally papillated surface. The tumor mass measures about 4.2 x 3.0 cm in surface area and has a maximum thickness of about 1.6 cm, including exophytic and endophytic components, extensively involves the uterine fundus, anterior uterine corpus, posterior uterine corpus, and extends into the posterior lower uterine segment. Upon sectioning the uterus, invasive carcinoma is seen involving the fundus, posterior uterine corpus and anterior uterine corpus. In the posterior fundus and posterior corpus, greater than 50% of the wall thickness is involved by tumor. Tumor in the anterior uterus and in the posterior lower uterine segment is more superficially invasive (involves less than 50% of the wall thickness). Within the uterus, mostly in the lower anterior corpus and lower uterine segment, there is a small amount of uninvolved tan endometrium that has a maximum thickness of less than 0.1 cm. Within the uterus, there are five sharply circumscribed intramural leiomyomas that measure about 0.3, 0.5, 0.6, 1.2 and 1.5 cm in maximum dimensions. The smallest and second smallest leiomyomas are in the fundus. The third smallest leiomyoma is located in the anterior lower uterine segment. The largest and second largest leiomyomas are located in the posterior uterine corpus. The largest and second largest leiomyomas have firm white cut surfaces without grossly evident areas of hemorrhage or necrosis. The second largest leiomyoma is partially calcified. The smallest and second smallest leiomyomas have firm tan-white whorled cut surfaces without grossly evident areas of hemorrhage or necrosis. The uninvolved myometrium is semi-firm, tan-pink, up to 1.8 cm in thickness and shows trabeculations and focal minute cystic spaces suggestive of adenomyosis.\nRepresentative sections.\n\nL. Posterior cervix with two tiny endocervical polyps - 1\nM. Anterior cervix - 1\nN. Posterior lower uterine segment with tumor and adjacent upper posterior endocervix - 1\n\n(cor\n\noratory Medicine Page: 4\nO. Anterior lower uterine segment with small leiomyoma and adjacent upper endocervix - 1\nP. Posterior uterine fundus with deeply invasive tumor and small leiomyoma - 2\nQ. Posterior uterine corpus with tumor and second largest leiomyoma - 1\nR. Lower posterior uterine corpus with tumor and largest leiomyoma - 1\nS. Anterior uterine fundus with tumor and small leiomyoma - 1\nT. Anterior uterine corpus with tumor - 1\nU. Lower anterior uterine corpus - 1\nV. Left parametrial soft tissues - 2\nW. Right parametrial soft tissue - 2\n\n2: RIGHT ADNEXA\nLabeled with the patient's name, designated \"right adnexa\", received fresh in the Operating Room and subsequently fixed in formalin, is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.6 x 1.1 x 0.1 cm and has a generally smooth, tan-yellow serosal surface. Attached to the ovary, there is a translucent thin-walled paraovarian cyst that contains clear pale yellow fluid. The",
+          "confidence": {
+            "mean_probability": 0.9926870618918239,
+            "mean_log_probability": -0.009741917050691246,
+            "perplexity": 1.0097895239933128,
+            "min_probability": 0.31284825947568135
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 869,
+            "total_tokens": 3341
+          },
+          "composite_score": 0.9426675749183999
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 30.71174430847168,
+        "chars": 3295,
+        "words": 550,
+        "text": "Page 4 of 6\n\nparaovarian cyst measures about 0.7 cm in maximum dimension. Cut surfaces of the ovary reveal relatively abundant yellow-tan cortical stroma and several corpora albicantia, but no gross evidence of metastatic tumor. The fallopian tube has fimbria at one end, is 9.2 cm long, ranges from 0.3 to 0.5 cm in diameter, has a smooth, tan-red serosal surface, and a patent lumen, up to 0.1 cm in diameter. The fallopian tube appears grossly free of metastatic tumor.\nRepresentative sections.\nA. Ovary, paraovarian cyst, and fallopian tube - 4\n\n3: LEFT ADNEXA\nLabeled with the patient's name, designated \"left adnexa\" and received in formalin is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.3 x 1.2 x 0.7 cm and has a yellow-tan undulated serosal surface. Attached to the ovary, there is a thin-walled translucent unilocular paraovarian cyst that contains clear pale yellow fluid and measures about 0.4 cm in maximum dimension. Cut surfaces of the ovary reveal abundant yellow-tan cortical stroma and a few corpora albicantia, but no gross evidence of metastatic tumor. The adjacent fallopian tube has fimbria at one end, is 8.1 cm long, and ranges from 0.3 to 0.4 cm in diameter. The serosal surface of the fallopian tube is pink-tan and smooth. The fallopian tube has a patent lumen, up to 0.1 cm in diameter and appears grossly free of metastatic tumor.\nRepresentative sections.\nB. Ovary, paraovarian cyst, and fallopian tube - 4\n\n4: LEFT PELVIC LYMPH NODE NO1\nLabeled with the patient's name, designated \"left pelvic lymph node #1\", received fresh in the Operating Room for intraoperative frozen section, is a 4.5 x 4 x 1.7 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes. The lymph nodes range from about 0.7 to 2.5 cm in maximum dimension. The largest lymph node is sectioned into four portions and entirely frozen for intraoperative diagnosis (FS#1). Interpretation of the frozen section was rendered by Dr. ______. The frozen section remnants and the rest of the specimen are subsequently fixed in formalin.\n\nLaboratory Medicine Page: 5\nLymph nodes entirely embeaaea.\nC. Three lymph nodes, largest bisected - 3\nD. Largest lymph node (remnant of frozen section #1) - 4\n\n5: LEFT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"left obturator lymph node\" and received in formalin is a 1.6 x 1.3 x 0.3 cm portion of yellow fatty tissue, within which there is embedded a single soft tan lymph node that measures about 0.4 cm in diameter.\nEntirely submitted.\nE. One lymph node and fat - 1\n\n6: LEFT PERIAORTIC LYMPH NODE\nLabeled with the patient's name, designated \"left periaortic lymph node\" and received in formalin are three tissue fragments. The largest tissue fragment is about 1.2 cm in maximum dimension and consists of yellow fatty tissue and a 0.5 cm semisoft tan lymph node. The second largest tissue fragment is about 1 cm in maximum dimension and consists of tan-yellow fibroadipose tissue. The third tissue fragment is about 0.7 cm in maximum dimension and consists of a 0.6 cm semisoft tan lymph node with a small amount of adjacent fat.\nEntirely submitted.\nF. Two lymph nodes and fat - 3\n\n7: RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, designated \"right pelvic lymph",
+        "confidence": {
+          "mean_probability": 0.9920745379857128,
+          "mean_log_probability": -0.010578579572446555,
+          "perplexity": 1.010634730569928,
+          "min_probability": 0.26825292326261213
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 843,
+          "total_tokens": 3315
+        },
+        "composite_score": 0.9916257242840654,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 30.71174430847168,
+          "chars": 3295,
+          "words": 550,
+          "text": "Page 4 of 6\n\nparaovarian cyst measures about 0.7 cm in maximum dimension. Cut surfaces of the ovary reveal relatively abundant yellow-tan cortical stroma and several corpora albicantia, but no gross evidence of metastatic tumor. The fallopian tube has fimbria at one end, is 9.2 cm long, ranges from 0.3 to 0.5 cm in diameter, has a smooth, tan-red serosal surface, and a patent lumen, up to 0.1 cm in diameter. The fallopian tube appears grossly free of metastatic tumor.\nRepresentative sections.\nA. Ovary, paraovarian cyst, and fallopian tube - 4\n\n3: LEFT ADNEXA\nLabeled with the patient's name, designated \"left adnexa\" and received in formalin is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.3 x 1.2 x 0.7 cm and has a yellow-tan undulated serosal surface. Attached to the ovary, there is a thin-walled translucent unilocular paraovarian cyst that contains clear pale yellow fluid and measures about 0.4 cm in maximum dimension. Cut surfaces of the ovary reveal abundant yellow-tan cortical stroma and a few corpora albicantia, but no gross evidence of metastatic tumor. The adjacent fallopian tube has fimbria at one end, is 8.1 cm long, and ranges from 0.3 to 0.4 cm in diameter. The serosal surface of the fallopian tube is pink-tan and smooth. The fallopian tube has a patent lumen, up to 0.1 cm in diameter and appears grossly free of metastatic tumor.\nRepresentative sections.\nB. Ovary, paraovarian cyst, and fallopian tube - 4\n\n4: LEFT PELVIC LYMPH NODE NO1\nLabeled with the patient's name, designated \"left pelvic lymph node #1\", received fresh in the Operating Room for intraoperative frozen section, is a 4.5 x 4 x 1.7 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes. The lymph nodes range from about 0.7 to 2.5 cm in maximum dimension. The largest lymph node is sectioned into four portions and entirely frozen for intraoperative diagnosis (FS#1). Interpretation of the frozen section was rendered by Dr. ______. The frozen section remnants and the rest of the specimen are subsequently fixed in formalin.\n\nLaboratory Medicine Page: 5\nLymph nodes entirely embeaaea.\nC. Three lymph nodes, largest bisected - 3\nD. Largest lymph node (remnant of frozen section #1) - 4\n\n5: LEFT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"left obturator lymph node\" and received in formalin is a 1.6 x 1.3 x 0.3 cm portion of yellow fatty tissue, within which there is embedded a single soft tan lymph node that measures about 0.4 cm in diameter.\nEntirely submitted.\nE. One lymph node and fat - 1\n\n6: LEFT PERIAORTIC LYMPH NODE\nLabeled with the patient's name, designated \"left periaortic lymph node\" and received in formalin are three tissue fragments. The largest tissue fragment is about 1.2 cm in maximum dimension and consists of yellow fatty tissue and a 0.5 cm semisoft tan lymph node. The second largest tissue fragment is about 1 cm in maximum dimension and consists of tan-yellow fibroadipose tissue. The third tissue fragment is about 0.7 cm in maximum dimension and consists of a 0.6 cm semisoft tan lymph node with a small amount of adjacent fat.\nEntirely submitted.\nF. Two lymph nodes and fat - 3\n\n7: RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, designated \"right pelvic lymph",
+          "confidence": {
+            "mean_probability": 0.9920745379857128,
+            "mean_log_probability": -0.010578579572446555,
+            "perplexity": 1.010634730569928,
+            "min_probability": 0.26825292326261213
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 843,
+            "total_tokens": 3315
+          },
+          "composite_score": 0.9916257242840654,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 25.66299819946289,
+          "chars": 3295,
+          "words": 550,
+          "text": "Page 4 of 6\n\nparaovarian cyst measures about 0.7 cm in maximum dimension. Cut surfaces of the ovary reveal relatively abundant yellow-tan cortical stroma and several corpora albicantia, but no gross evidence of metastatic tumor. The fallopian tube has fimbria at one end, is 9.2 cm long, ranges from 0.3 to 0.5 cm in diameter, has a smooth, tan-red serosal surface, and a patent lumen, up to 0.1 cm in diameter. The fallopian tube appears grossly free of metastatic tumor.\nRepresentative sections.\nA. Ovary, paraovarian cyst, and fallopian tube - 4\n\n3: LEFT ADNEXA\nLabeled with the patient's name, designated \"left adnexa\" and received in formalin is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.3 x 1.2 x 0.7 cm and has a yellow-tan undulated serosal surface. Attached to the ovary, there is a thin-walled translucent unilocular paraovarian cyst that contains clear pale yellow fluid and measures about 0.4 cm in maximum dimension. Cut surfaces of the ovary reveal abundant yellow-tan cortical stroma and a few corpora albicantia, but no gross evidence of metastatic tumor. The adjacent fallopian tube has fimbria at one end, is 8.1 cm long, and ranges from 0.3 to 0.4 cm in diameter. The serosal surface of the fallopian tube is pink-tan and smooth. The fallopian tube has a patent lumen, up to 0.1 cm in diameter and appears grossly free of metastatic tumor.\nRepresentative sections.\nB. Ovary, paraovarian cyst, and fallopian tube - 4\n\n4: LEFT PELVIC LYMPH NODE NO1\nLabeled with the patient's name, designated \"left pelvic lymph node #1\", received fresh in the Operating Room for intraoperative frozen section, is a 4.5 x 4 x 1.7 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes. The lymph nodes range from about 0.7 to 2.5 cm in maximum dimension. The largest lymph node is sectioned into four portions and entirely frozen for intraoperative diagnosis (FS#1). Interpretation of the frozen section was rendered by Dr. ______. The frozen section remnants and the rest of the specimen are subsequently fixed in formalin.\n\nLaboratory Medicine Page: 5\nLymph nodes entirely embeaaea.\nC. Three lymph nodes, largest bisected - 3\nD. Largest lymph node (remnant of frozen section #1) - 4\n\n5: LEFT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"left obturator lymph node\" and received in formalin is a 1.6 x 1.3 x 0.3 cm portion of yellow fatty tissue, within which there is embedded a single soft tan lymph node that measures about 0.4 cm in diameter.\nEntirely submitted.\nE. One lymph node and fat - 1\n\n6: LEFT PERIAORTIC LYMPH NODE\nLabeled with the patient's name, designated \"left periaortic lymph node\" and received in formalin are three tissue fragments. The largest tissue fragment is about 1.2 cm in maximum dimension and consists of yellow fatty tissue and a 0.5 cm semisoft tan lymph node. The second largest tissue fragment is about 1 cm in maximum dimension and consists of tan-yellow fibroadipose tissue. The third tissue fragment is about 0.7 cm in maximum dimension and consists of a 0.6 cm semisoft tan lymph node with a small amount of adjacent fat.\nEntirely submitted.\nF. Two lymph nodes and fat - 3\n\n7: RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, designated \"right pelvic lymph",
+          "confidence": {
+            "mean_probability": 0.9920328170050134,
+            "mean_log_probability": -0.010820839667458431,
+            "perplexity": 1.010879596695226,
+            "min_probability": 0.24808297801731552
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 843,
+            "total_tokens": 3315
+          },
+          "composite_score": 0.9418641980610788
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 23.141631603240967,
+          "chars": 3287,
+          "words": 549,
+          "text": "Page 4 of 6\n\nparaovarian cyst measures about 0.7 cm in maximum dimension. Cut surfaces of the ovary reveal relatively abundant yellow-tan cortical stroma and several corpora albicantia, but no gross evidence of metastatic tumor. The fallopian tube has fimbria at one end, is 9.2 cm long, ranges from 0.3 to 0.5 cm in diameter, has a smooth, tan-red serosal surface, and a patent lumen, up to 0.1 cm in diameter. The fallopian tube appears grossly free of metastatic tumor. Representative sections.\nA. Ovary, paraovarian cyst, and fallopian tube - 4\n\n3: LEFT ADNEXA\nLabeled with the patient's name, designated \"left adnexa\" and received in formalin is a salpingo-oophorectomy specimen. The ovary is atrophic, about 2.3 x 1.2 x 0.7 cm and has a yellow-tan undulated serosal surface. Attached to the ovary, there is a thin-walled translucent unilocular paraovarian cyst that contains clear pale yellow fluid and measures about 0.4 cm in maximum dimension. Cut surfaces of the ovary reveal abundant yellow-tan cortical stroma and a few corpora albicantia, but no gross evidence of metastatic tumor. The adjacent fallopian tube has fimbria at one end, is 8.1 cm long, and ranges from 0.3 to 0.4 cm in diameter. The serosal surface of the fallopian tube is pink-tan and smooth. The fallopian tube has a patent lumen, up to 0.1 cm in diameter and appears grossly free of metastatic tumor.\nRepresentative sections.\nB. Ovary, paraovarian cyst, and fallopian tube - 4\n\n4: LEFT PELVIC LYMPH NODE NO1\nLabeled with the patient's name, designated \"left pelvic lymph node #1\", received fresh in the Operating Room for intraoperative frozen section, is a 4.5 x 4 x 1.7 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes. The lymph nodes range from about 0.7 to 2.5 cm in maximum dimension. The largest lymph node is sectioned into four portions and entirely frozen for intraoperative diagnosis (FS#1). Interpretation of the frozen section was rendered by Dr. The frozen section remnants and the rest of the specimen are subsequently fixed in formalin.\n\nLaboratory Medicine Page: 5\nLymph nodes entirely embedded.\nC. Three lymph nodes, largest bisected - 3\nD. Largest lymph node (remnant of frozen section #1) - 4\n\n5: LEFT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"left obturator lymph node\" and received in formalin is a 1.6 x 1.3 x 0.3 cm portion of yellow fatty tissue, within which there is embedded a single soft tan lymph node that measures about 0.4 cm in diameter.\nEntirely submitted.\nE. One lymph node and fat - 1\n\n6: LEFT PERIAORTIC LYMPH NODE\nLabeled with the patient's name, designated \"left periaortic lymph node\" and received in formalin are three tissue fragments. The largest tissue fragment is about 1.2 cm in maximum dimension and consists of yellow fatty tissue and a 0.5 cm semisoft tan lymph node. The second largest tissue fragment is about 1 cm in maximum dimension and consists of tan-yellow fibroadipose tissue. The third tissue fragment is about 0.7 cm in maximum dimension and consists of a 0.6 cm semisoft tan lymph node with a small amount of adjacent fat.\nEntirely submitted.\nF. Two lymph nodes and fat - 3\n\n7: RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, designated \"right pelvic lymph",
+          "confidence": {
+            "mean_probability": 0.9927314283430693,
+            "mean_log_probability": -0.009815585424133811,
+            "perplexity": 1.0098639162852105,
+            "min_probability": 0.2590894267111282
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 838,
+            "total_tokens": 3310
+          },
+          "composite_score": 0.94261266608476
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.214428186416626,
+        "chars": 2129,
+        "words": 364,
+        "text": "node\" and received in formalin is a 5 x 2.7 x 0.7 cm aggregate of\nmostly soft yellow adipose tissue. Dissection of the fat reveals\nthree tiny to small semisoft tan lymph nodes ranging from about 0.2\nto 0.3 cm in maximum dimension. The lymph nodes are each entirely\nembedded.\nG. Three lymph nodes - 3\n\n8: RIGHT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"right obturator lymph\nnode\" and received in formalin is a 4.2 x 3.0 x 1.2 cm aggregate of\nsoft yellow fatty tissue, within which there are embedded four\nsemisoft tan lymph nodes that range from about 0.5 to 1.3 cm in\nmaximum dimensions. The lymph nodes are each entirely embedded along\nwith some of the perinodal fat.\nH. Two lymph nodes, each bisected - 4\nI. Two smaller lymph nodes - 2\n\n9: RIGHT PA\nLabeled with the patient's name, designated \"right PA\" and received\nin formalin is a 4.6 x 2.3 x 1.5 cm aggregate of soft yellow adipose\ntissue, within which there are embedded three semisoft tan lymph\nnodes. The lymph nodes measure about 0.5, 0.6, and 0.8 cm in maximum\ndimension. The lymph nodes are each entirely embedded along with\nsome of the perinodal fat.\nJ. Three lymph nodes and fat - 4\n\n10: LEFT PELVIC LYMPH LYMPH NODE NO2\nLabeled with the patient's name, designated \"left pelvic lymph\nnode\" and received ion formalin is a 1.8 x 1.4 x 0.3 cm portion of\nfocally hemorrhagic soft yellow adipose tissue. No lymph node is\nidentified.\nEntirely submitted.\n(continued on next page):\n\noratory Medicine\nPage: 6\n\nGross dictated by ,\n\nOPERATIVE CALL\nOPERATIVE CONSULT (GROSS):\n#1 Uterus and cervix:\n- Previously opened uterus with deeply invasive, greater than 50%\nof myometrium, neoplasm; small portion of tumor sent to\nresearch lab\n\nOPERATIVE CONSULT (GROSS):\n#2. Right adnexa:\n- Small portion of ovary sent to research lab\n\nOPERATIVE CONSULT (FROZEN):\n#4. Left pelvic lymph node:\n-One slightly firm lymph node identified by surgeon negative\nfor metastatic carcinoma; fragments of adipose tissue and\nlymph nodes\n\nSpecial Studies: Frozen section (xl on specimen #4); additional H&E-\nstained sections (Ax2, Fx1, Px1, Qx1, Sx1, and Ux1)\nSee Also:\n\n, M.D.",
+        "confidence": {
+          "mean_probability": 0.9878166748270597,
+          "mean_log_probability": -0.015859438860971523,
+          "perplexity": 1.015985867238252,
+          "min_probability": 0.2930072283889271
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 598,
+          "total_tokens": 3070
+        },
+        "composite_score": 0.9875105249767595,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.214428186416626,
+          "chars": 2129,
+          "words": 364,
+          "text": "node\" and received in formalin is a 5 x 2.7 x 0.7 cm aggregate of\nmostly soft yellow adipose tissue. Dissection of the fat reveals\nthree tiny to small semisoft tan lymph nodes ranging from about 0.2\nto 0.3 cm in maximum dimension. The lymph nodes are each entirely\nembedded.\nG. Three lymph nodes - 3\n\n8: RIGHT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"right obturator lymph\nnode\" and received in formalin is a 4.2 x 3.0 x 1.2 cm aggregate of\nsoft yellow fatty tissue, within which there are embedded four\nsemisoft tan lymph nodes that range from about 0.5 to 1.3 cm in\nmaximum dimensions. The lymph nodes are each entirely embedded along\nwith some of the perinodal fat.\nH. Two lymph nodes, each bisected - 4\nI. Two smaller lymph nodes - 2\n\n9: RIGHT PA\nLabeled with the patient's name, designated \"right PA\" and received\nin formalin is a 4.6 x 2.3 x 1.5 cm aggregate of soft yellow adipose\ntissue, within which there are embedded three semisoft tan lymph\nnodes. The lymph nodes measure about 0.5, 0.6, and 0.8 cm in maximum\ndimension. The lymph nodes are each entirely embedded along with\nsome of the perinodal fat.\nJ. Three lymph nodes and fat - 4\n\n10: LEFT PELVIC LYMPH LYMPH NODE NO2\nLabeled with the patient's name, designated \"left pelvic lymph\nnode\" and received ion formalin is a 1.8 x 1.4 x 0.3 cm portion of\nfocally hemorrhagic soft yellow adipose tissue. No lymph node is\nidentified.\nEntirely submitted.\n(continued on next page):\n\noratory Medicine\nPage: 6\n\nGross dictated by ,\n\nOPERATIVE CALL\nOPERATIVE CONSULT (GROSS):\n#1 Uterus and cervix:\n- Previously opened uterus with deeply invasive, greater than 50%\nof myometrium, neoplasm; small portion of tumor sent to\nresearch lab\n\nOPERATIVE CONSULT (GROSS):\n#2. Right adnexa:\n- Small portion of ovary sent to research lab\n\nOPERATIVE CONSULT (FROZEN):\n#4. Left pelvic lymph node:\n-One slightly firm lymph node identified by surgeon negative\nfor metastatic carcinoma; fragments of adipose tissue and\nlymph nodes\n\nSpecial Studies: Frozen section (xl on specimen #4); additional H&E-\nstained sections (Ax2, Fx1, Px1, Qx1, Sx1, and Ux1)\nSee Also:\n\n, M.D.",
+          "confidence": {
+            "mean_probability": 0.9878166748270597,
+            "mean_log_probability": -0.015859438860971523,
+            "perplexity": 1.015985867238252,
+            "min_probability": 0.2930072283889271
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 598,
+            "total_tokens": 3070
+          },
+          "composite_score": 0.9875105249767595,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.092508554458618,
+          "chars": 2142,
+          "words": 367,
+          "text": "Page 5 of 6\n\nnode\" and received in formalin is a 5 x 2.7 x 0.7 cm aggregate of mostly soft yellow adipose tissue. Dissection of the fat reveals three tiny to small semisoft tan lymph nodes ranging from about 0.2 to 0.3 cm in maximum dimension. The lymph nodes are each entirely embedded.\nG. Three lymph nodes - 3\n\n8: RIGHT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"right obturator lymph node\" and received in formalin is a 4.2 x 3.0 x 1.2 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes that range from about 0.5 to 1.3 cm in maximum dimensions. The lymph nodes are each entirely embedded along with some of the perinodal fat.\nH. Two lymph nodes, each bisected - 4\nI. Two smaller lymph nodes - 2\n\n9: RIGHT PA\nLabeled with the patient's name, designated \"right PA\" and received in formalin is a 4.6 x 2.3 x 1.5 cm aggregate of soft yellow adipose tissue, within which there are embedded three semisoft tan lymph nodes. The lymph nodes measure about 0.5, 0.6, and 0.8 cm in maximum dimension. The lymph nodes are each entirely embedded along with some of the perinodal fat.\nJ. Three lymph nodes and fat - 4\n\n10: LEFT PELVIC LYMPH LYMPH NODE NO2\nLabeled with the patient's name, designated \"left pelvic lymph node\" and received ion formalin is a 1.8 x 1.4 x 0.3 cm portion of focally hemorrhagic soft yellow adipose tissue. No lymph node is identified.\nEntirely submitted.\n(continued on next page);;\n\noratory Medicine\nPage: 6\n\nGross dictated by ,\n\nOPERATIVE CALL\nOPERATIVE CONSULT (GROSS):\n#1 Uterus and cervix:\n- Previously opened uterus with deeply invasive, greater than 50%\nof myometrium, neoplasm; small portion of tumor sent to research lab\n\nOPERATIVE CONSULT (GROSS):\n#2. Right adnexa:\n-Small portion of ovary sent to research lab\n\nOPERATIVE CONSULT (FROZEN):\n#4. Left pelvic lymph node:\n-One slightly firm lymph node identified by surgeon negative for metastatic carcinoma; fragments of adipose tissue and lymph nodes\n\nSpecial Studies: Frozen section (xl on specimen #4); additional H&E-\nstained sections (Ax2, Fxl, Pxl, Qxl, Sxl, and Uxl)\nSee Also:\n\n, M.D.",
+          "confidence": {
+            "mean_probability": 0.9854310746852746,
+            "mean_log_probability": -0.02056648359240069,
+            "perplexity": 1.0207794310709126,
+            "min_probability": 0.13931955884173625
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 580,
+            "total_tokens": 3052
+          },
+          "composite_score": 0.9346844592865671
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 16.936793565750122,
+          "chars": 2144,
+          "words": 366,
+          "text": "Page 5 of 6\n\nnode\" and received in formalin is a 5 x 2.7 x 0.7 cm aggregate of mostly soft yellow adipose tissue. Dissection of the fat reveals three tiny to small semisoft tan lymph nodes ranging from about 0.2 to 0.3 cm in maximum dimension. The lymph nodes are each entirely embedded.\nG. Three lymph nodes - 3\n\n8: RIGHT OBTURATOR LYMPH NODE\nLabeled with the patient's name, designated \"right obturator lymph node\" and received in formalin is a 4.2 x 3.0 x 1.2 cm aggregate of soft yellow fatty tissue, within which there are embedded four semisoft tan lymph nodes that range from about 0.5 to 1.3 cm in maximum dimensions. The lymph nodes are each entirely embedded along with some of the perinodal fat.\nH. Two lymph nodes, each bisected - 4\nI. Two smaller lymph nodes - 2\n\n9: RIGHT PA\nLabeled with the patient's name, designated \"right PA\" and received in formalin is a 4.6 x 2.3 x 1.5 cm aggregate of soft yellow adipose tissue, within which there are embedded three semisoft tan lymph nodes. The lymph nodes measure about 0.5, 0.6, and 0.8 cm in maximum dimension. The lymph nodes are each entirely embedded along with some of the perinodal fat.\nJ. Three lymph nodes and fat - 4\n\n10: LEFT PELVIC LYMPH LYMPH NODE NO2\nLabeled with the patient's name, designated \"left pelvic lymph node\" and received ion formalin is a 1.8 x 1.4 x 0.3 cm portion of focally hemorrhagic soft yellow adipose tissue. No lymph node is identified.\nEntirely submitted.\n(continued on next page):\n\n\noratory Medicine\nPage: 6\n\n\nGross dictated by ,\n\n\nOPERATIVE CALL\nOPERATIVE CONSULT (GROSS):\n#1 Uterus and cervix:\n-Previously opened uterus with deeply invasive, greater than 50%\nof myometrium, neoplasm; small portion of tumor sent to\nresearch lab\n\nOPERATIVE CONSULT (GROSS):\n#2. Right adnexa:\n-Small portion of ovary sent to research lab\n\nOPERATIVE CONSULT (FROZEN):\n#4. Left pelvic lymph node:\n-One slightly firm lymph node identified by surgeon negative for metastatic carcinoma; fragments of adipose tissue and lymph nodes\n\nSpecial Studies: Frozen section (xl on specimen #4); additional H&E-\nstained sections (Ax2, Fxl, Pxl, Qxl, Sxl, and Uxl)\nSee Also:\n\n\n, M.D.",
+          "confidence": {
+            "mean_probability": 0.9824855078154945,
+            "mean_log_probability": -0.023797080895008604,
+            "perplexity": 1.0240824909028101,
+            "min_probability": 0.2894779936165023
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 582,
+            "total_tokens": 3054
+          },
+          "composite_score": 0.9323346033919184
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.227546215057373,
+        "chars": 1054,
+        "words": 49,
+        "text": "Page 6 of 6\n\n\nPathologist\n\nI,                    M.D., the pathologist of record, have\npersonally examined the specimen, interpreted the\nresults, reviewed this report and signed it electronically.\n\nDate Finalled:,\n\n\n\n                                                                                  iteria                Yes      No\n                                                                                  agnosis Discrepancy\n                                                                                  'imary Tumor Site Discrepancy\n                                                                                  IIPAA Discrepancy\n                                                                                  rior Malgnancy History\n                                                                                  ual/Synchronous Primar\n                                                                                  ase is (circle):\n                                                                                  eviewer Initials",
+        "confidence": {
+          "mean_probability": 0.835385253440023,
+          "mean_log_probability": -0.3155317,
+          "perplexity": 1.370988071556469,
+          "min_probability": 0.047599310649642394
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 121,
+          "total_tokens": 2593
+        },
+        "composite_score": 0.4994633947825051,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Low composite quality score: 0.499 (threshold: 0.5)",
+          "Very uncertain tokens: min_prob=0.0476 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.499 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0476 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.227546215057373,
+          "chars": 1054,
+          "words": 49,
+          "text": "Page 6 of 6\n\n\nPathologist\n\nI,                    M.D., the pathologist of record, have\npersonally examined the specimen, interpreted the\nresults, reviewed this report and signed it electronically.\n\nDate Finalled:,\n\n\n\n                                                                                  iteria                Yes      No\n                                                                                  agnosis Discrepancy\n                                                                                  'imary Tumor Site Discrepancy\n                                                                                  IIPAA Discrepancy\n                                                                                  rior Malgnancy History\n                                                                                  ual/Synchronous Primar\n                                                                                  ase is (circle):\n                                                                                  eviewer Initials",
+          "confidence": {
+            "mean_probability": 0.835385253440023,
+            "mean_log_probability": -0.3155317,
+            "perplexity": 1.370988071556469,
+            "min_probability": 0.047599310649642394
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 121,
+            "total_tokens": 2593
+          },
+          "composite_score": 0.4994633947825051,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Low composite quality score: 0.499 (threshold: 0.5)",
+            "Very uncertain tokens: min_prob=0.0476 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.499 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0476 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.633788585662842,
+          "chars": 1151,
+          "words": 56,
+          "text": "Page 6 of 6\n\n\nPathologist\n\nI,                M.D., the pathologist of record, have personally examined the specimen, interpreted the results, reviewed this report and signed it electronically.\n\nDate Finalled:,\n\n\n\n                                                                                      xiteria                  Yes      No\n                                                                                      iagnosis Discrepancy\n                                                                                      'imary Tumor Site Discrepancy\n                                                                                      IIPAA Discrepancy\n                                                                                      rior Malignancy History\n                                                                                      ual/Synchronous Primrty Noted\n                                                                                      ase is (circle):  QUALIFIED  /  QUALIFIED\n                                                                                      eviewer Initials          Date Reviewed:  1/1/10",
+          "confidence": {
+            "mean_probability": 0.7906474003602464,
+            "mean_log_probability": -0.39657382394366203,
+            "perplexity": 1.4867221896187577,
+            "min_probability": 0.028419634984764727
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 143,
+            "total_tokens": 2615
+          },
+          "composite_score": 0.45747374352274617
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.626066446304321,
+          "chars": 1280,
+          "words": 58,
+          "text": "Page 6 of 6\n\n\n                                   Pathologist\n\nI,               M.D., the pathologist of record, have\npersonally examined the specimen, interpreted the\nresults, reviewed this report and signed it electronically.\n\nDate Finalled:,\n\n\n\n\n                                                                                   iteria                      Yes    No\n                                                                                   agnosis Discrepancy\n                                                                                   'imary Tumor Site Discrepancy\n                                                                                   IIPAA Discrepancy\n                                                                                   rior Malignancy History\n                                                                                   ual/Synchronous Primar\n                                                                                   ase is (circle):  QUALIFIED )  QUALIFIED )\n                                                                                   eviewer Initials        Dte Reviewed:  1/1  1/0\n                                                                                                                           1",
+          "confidence": {
+            "mean_probability": 0.7638130293946196,
+            "mean_log_probability": -0.46745514765100665,
+            "perplexity": 1.5959276208441895,
+            "min_probability": 0.030681175142686236
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 150,
+            "total_tokens": 2622
+          },
+          "composite_score": 0.4476523750791198
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

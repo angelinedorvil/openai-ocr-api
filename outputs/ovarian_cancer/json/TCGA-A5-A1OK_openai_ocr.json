@@ -1,0 +1,911 @@
+{
+  "pdf": "reports\\TCGA-A5-A1OK\\TCGA-A5-A1OK.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 143.9435169696808,
+        "chars": 7993,
+        "words": 276,
+        "text": "icd-0-3\nadenocarcinoma, endometrioid, nos 8380/3\nSite: endometrium C54.1 3/6/11 hw\n\nAccession Number: ██████████\nOrdering\nCopies To:\n\nSURGICAL PATHOLOGY REPORT\n********** AMENDED REPORT **********\nReason for Amendment/Correction #1: Additional pathology information\nReason for Amendment/Correction #2: Typographical errors\n\nDIAGNOSIS:\n\nA. OMENTUM, #1, #2, AND #3, PARTIAL OMENTECTOMY:\n  - Hemorrhages, serosal adhesions, chronic inflammation and/or reactive mesothelial changes\n  - No evidence of metastatic carcinoma\n\nD. UTERUS, RIGHT CORNUA, EXCISION:\n  - Accumulation of fibrin and blood consistent with organizing hematoma\n  - Reactive mesothelial proliferation\n  - No evidence of carcinoma\n\nE. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n  - Ovary with atrophic changes\n  - Fallopian tube with epithelial hyperplasia without significant atypia and focal transitional epithelial metaplasia\n  - Paratubal serous cyst (hydatid of Morgangi) with associated bloody contents and cystic Walthard rests\n  - No evidence of metastatic carcinoma\n\nF. FALLOPIAN TUBE AND OVARY, RIGHT, SALPINGO-OOPHORECTOMY:\n  - Ovary with atrophic changes, a cystic epithelial inclusion, and benign surface micropapillary epithelial and stromal proliferations\n  - Fallopian tube with epithelial hyperplasia without significant atypia\n  - No evidence of metastatic carcinoma\n\nG. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:\n  - Primary uterine adenocarcinoma, endometrioid type with associated squamous changes, FIGO grade 3:\n    - Tumor involves the endometrium of the uterine fundus, anterior and posterior uterine corpus, and lower uterine segment\n    - Myometrial invasion by carcinoma is present and involves the full-thickness of the uterine wall\n    - Tumor focally penetrates the uterine serosa\n    - Lymphovascular invasion by carcinoma is present\n    - Perineural invasion by carcinoma is also present\n    - Carcinoma focally involves the intrauterine segment of one of the fallopian tubes (laterality uncertain) [see second comment]\n\nPatient Case(s) _____________________________\nCopy For\nPage 1 of 10\n\nUUID: 1B0C95FC-7AA7-4F82-807D-85C579B6BF74\nTCGA-A5-A10K-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+        "confidence": {
+          "mean_probability": 0.9866336894539909,
+          "mean_log_probability": -0.01685171728515625,
+          "perplexity": 1.0169945084372785,
+          "min_probability": 0.1409384512305844
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9867420454733378,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 143.9435169696808,
+          "chars": 7993,
+          "words": 276,
+          "text": "icd-0-3\nadenocarcinoma, endometrioid, nos 8380/3\nSite: endometrium C54.1 3/6/11 hw\n\nAccession Number: ██████████\nOrdering\nCopies To:\n\nSURGICAL PATHOLOGY REPORT\n********** AMENDED REPORT **********\nReason for Amendment/Correction #1: Additional pathology information\nReason for Amendment/Correction #2: Typographical errors\n\nDIAGNOSIS:\n\nA. OMENTUM, #1, #2, AND #3, PARTIAL OMENTECTOMY:\n  - Hemorrhages, serosal adhesions, chronic inflammation and/or reactive mesothelial changes\n  - No evidence of metastatic carcinoma\n\nD. UTERUS, RIGHT CORNUA, EXCISION:\n  - Accumulation of fibrin and blood consistent with organizing hematoma\n  - Reactive mesothelial proliferation\n  - No evidence of carcinoma\n\nE. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n  - Ovary with atrophic changes\n  - Fallopian tube with epithelial hyperplasia without significant atypia and focal transitional epithelial metaplasia\n  - Paratubal serous cyst (hydatid of Morgangi) with associated bloody contents and cystic Walthard rests\n  - No evidence of metastatic carcinoma\n\nF. FALLOPIAN TUBE AND OVARY, RIGHT, SALPINGO-OOPHORECTOMY:\n  - Ovary with atrophic changes, a cystic epithelial inclusion, and benign surface micropapillary epithelial and stromal proliferations\n  - Fallopian tube with epithelial hyperplasia without significant atypia\n  - No evidence of metastatic carcinoma\n\nG. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:\n  - Primary uterine adenocarcinoma, endometrioid type with associated squamous changes, FIGO grade 3:\n    - Tumor involves the endometrium of the uterine fundus, anterior and posterior uterine corpus, and lower uterine segment\n    - Myometrial invasion by carcinoma is present and involves the full-thickness of the uterine wall\n    - Tumor focally penetrates the uterine serosa\n    - Lymphovascular invasion by carcinoma is present\n    - Perineural invasion by carcinoma is also present\n    - Carcinoma focally involves the intrauterine segment of one of the fallopian tubes (laterality uncertain) [see second comment]\n\nPatient Case(s) _____________________________\nCopy For\nPage 1 of 10\n\nUUID: 1B0C95FC-7AA7-4F82-807D-85C579B6BF74\nTCGA-A5-A10K-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9866336894539909,
+            "mean_log_probability": -0.01685171728515625,
+            "perplexity": 1.0169945084372785,
+            "min_probability": 0.1409384512305844
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9867420454733378,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 128.880145072937,
+          "chars": 4295,
+          "words": 269,
+          "text": "icd-0-3\nadenocarcinoma, Endometrioid, nos 8380/3\nSite: endometrium C54.1 3/6/11 hw\n\n                                                                                      Accession Number: ██████████\n                                                                                                   Ordering\n                                                                                                   Copies To:\n\n                             SURGICAL PATHOLOGY REPORT\n                             ********** AMENDED REPORT **********\nReason for Amendment/Correction #1: Additional pathology information\nReason for Amendment/Correction #2: Typographical errors\nDIAGNOSIS:\nA. OMENTUM, #1, #2, AND #3, PARTIAL OMENTECTOMY:\n    - Hemorrhages, serosal adhesions, chronic inflammation and/or reactive\n      mesothelial changes\n    - No evidence of metastatic carcinoma\nD. UTERUS, RIGHT CORNUA, EXCISION:\n    - Accumulation of fibrin and blood consistent with organizing hematoma\n    - Reactive mesothelial proliferation\n    - No evidence of carcinoma\nE. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:\n    - Ovary with atrophic changes\n    - Fallopian tube with epithelial hyperplasia without significant atypia and focal\n      transitional epithelial metaplasia\n    - Paratubal serous cyst (hydatid of Morgangi) with associated bloody contents\n      and cystic Walthard rests\n    - No evidence of metastatic carcinoma\nF. FALLOPIAN TUBE AND OVARY, RIGHT, SALPINGO-OOPHORECTOMY:\n    - Ovary with atrophic changes, a cystic epithelial inclusion, and benign surface\n      micropapillary epithelial and stromal proliferations\n    - Fallopian tube with epithelial hyperplasia without significant atypia\n    - No evidence of metastatic carcinoma\nG. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:\n    - Primary uterine adenocarcinoma, endometrioid type with associated squamous\n      changes, FIGO grade 3:\n        - Tumor involves the endometrium of the uterine fundus, anterior and\n          posterior uterine corpus, and lower uterine segment\n        - Myometrial invasion by carcinoma is present and involves the full-thickness\n          of the uterine wall\n        - Tumor focally penetrates the uterine serosa\n        - Lymphovascular invasion by carcinoma is present\n        - Perineural invasion by carcinoma is also present\n        - Carcinoma focally involves the intrauterine segment of one of the fallopian\n          tubes (laterality uncertain) [see second comment]\n\nPatient Case(s) ____________________________                                                                 UUID:1B0C95FC-7AA7-4F82-807D-85C579B6BF74\n                                                                                                       TCGA-A5-A10K-01A-PR Redacted\n                                                                                                       ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║",
+          "confidence": {
+            "mean_probability": 0.9956303554845669,
+            "mean_log_probability": -0.004477852573018081,
+            "perplexity": 1.004487893135977,
+            "min_probability": 0.8770134064593991
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9466120029956098
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 152.46875405311584,
+          "chars": 8596,
+          "words": 268,
+          "text": "icd-0-3  \nadenocarcinoma, endometrioid, nos 8380/3  \nSite: endometrium C54.1 3/6/11 hw  \n\n                                                                                   Accession Number: ██████████  \n                                                                                              Ordering  \n                                                                                              Copies To:  \n  \n  \n                                  SURGICAL PATHOLOGY REPORT  \n                          ********** AMENDED REPORT **********  \nReason for Amendment/Correction #1: Additional pathology information  \nReason for Amendment/Correction #2: Typographical errors  \nDIAGNOSIS:  \nA. OMENTUM, #1, #2, AND #3, PARTIAL OMENTECTOMY:  \n    - Hemorrhages, serosal adhesions, chronic inflammation and/or reactive  \n      mesothelial changes  \n    - No evidence of metastatic carcinoma  \nD. UTERUS, RIGHT CORNUA, EXCISION:  \n    - Accumulation of fibrin and blood consistent with organizing hematoma  \n    - Reactive mesothelial proliferation  \n    - No evidence of carcinoma  \nE. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:  \n    - Ovary with atrophic changes  \n    - Fallopian tube with epithelial hyperplasia without significant atypia and focal  \n      transitional epithelial metaplasia  \n    - Paratubal serous cyst (hydatid of Morgangi) with associated bloody contents  \n      and cystic Walthard rests  \n    - No evidence of metastatic carcinoma  \nF. FALLOPIAN TUBE AND OVARY, RIGHT, SALPINGO-OOPHORECTOMY:  \n    - Ovary with atrophic changes, a cystic epithelial inclusion, and benign surface  \n      micropapillary epithelial and stromal proliferations  \n    - Fallopian tube with epithelial hyperplasia without significant atypia  \n    - No evidence of metastatic carcinoma  \nG. UTERUS, TOTAL ABDOMINAL HYSTERECTOMY:  \n    - Primary uterine adenocarcinoma, endometrioid type with associated squamous  \n      changes, FIGO grade 3:  \n      - Tumor involves the endometrium of the uterine fundus, anterior and  \n        posterior uterine corpus, and lower uterine segment  \n      - Myometrial invasion by carcinoma is present and involves the full-thickness  \n        of the uterine wall  \n      - Tumor focally penetrates the uterine serosa  \n      - Lymphovascular invasion by carcinoma is present  \n      - Perineural invasion by carcinoma is also present  \n      - Carcinoma focally involves the intrauterine segment of one of the fallopian  \n        tubes (laterality uncertain) [see second comment]  \n  \n  \nPatient Case(s)  \n                                                                                     UUID:1B0C95FC-7AA7-4F82-807D-85C579B6BF74  \n                                                                                     TCGA-A5-A10K-01A-PR  Redacted  \n                                                                                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9797882752501949,
+            "mean_log_probability": -0.03154835107421875,
+            "perplexity": 1.0320512751770907,
+            "min_probability": 0.03994063708780012
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.6487295820850215
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 16.90385365486145,
+        "chars": 2269,
+        "words": 341,
+        "text": "PATIEN\n\n- The uterine adenocarcinoma does not extend into the cervix\n- Vaginal cuff and parametrial soft tissues are free of tumor\n- Two foci of microinvasive cervical squamous cell carcinoma, extensive cervical intraepithelial neoplasia (CIN) III (severe dysplasia and squamous cell carcinoma in-situ [SCIS]) involving surface epithelium and endocervical glands, and focal CIN II (see comment):\n- Microinvasive carcinoma is present in 1 of 4 quadrants of cervix\n- Maximum depth of microinvasion is about 0.15 cm (1.5 mm); maximum horizontal extent of microinvasive tumor is less than 0.1 cm (1mm) [see comment #3]\n- No evidence of microinvasive carcinoma at surgical margins\n- No lymphatic or blood vessel invasion by squamous carcinoma identified in the cervix\n- CIN III/SCIS is present in all four quadrants\n- Koilocytic cervical squamous atypia consistent with human papilloma virus (HPV) infection\n- Cervix also shows focal mucosal erosion/necrosis, reactive changes consistent with prior biopsy site, chronic and mild acute inflammation, squamous metaplasia, endocervical nabothian cysts, recent subepithelial hemorrhages, and focal endometriosis in outermost wall\n- Focal complex endometrial hyperplasia with atypia\n- Necrosis, hemorrhage, and other changes in endometrium and superficial myometrium consistent with prior endometrial curettage\n- Small uterine leiomyoma\n- Subserosal endometriosis, lower uterine segment\n- Vaginal cuff with chronic inflammation\n\nH. LYMPH NODE, LEFT PELVIC, EXCISION:\n- Nine reactive lymph nodes\n- No evidence of metastatic carcinoma (0/9)\n\nI. LYMPH NODE, LEFT COMMON, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nJ. LYMPH NODE, LEFT \"PA\", EXCISION:\n- One reactive lymph node\n- No evidence of metastatic carcinoma (0/1)\n\nK. LYMPH NODE, RIGHT PELVIC, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nL. LYMPH NODE, RIGHT \"PA\", EXCISION:\n- Two reactive lymph nodes\n- No evidence of metastatic carcinoma (0/2)\n\nCOMMENT: The pathologic findings were conveyed to Dr. on\n\nCOMMENT #2 WITH EXPLANATION OF THE CORRECTION: The involvement of an intrauterine segment of one of the fallopian tubes was stated in the corresponding\n\nSURGICAL PATHOLOGY REPORT\n\nPage 2 of 10",
+        "confidence": {
+          "mean_probability": 0.9929302606632421,
+          "mean_log_probability": -0.008597062925170068,
+          "perplexity": 1.0086341237993979,
+          "min_probability": 0.48683744505859333
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 589,
+          "total_tokens": 3061
+        },
+        "composite_score": 0.9931809732618206,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 16.90385365486145,
+          "chars": 2269,
+          "words": 341,
+          "text": "PATIEN\n\n- The uterine adenocarcinoma does not extend into the cervix\n- Vaginal cuff and parametrial soft tissues are free of tumor\n- Two foci of microinvasive cervical squamous cell carcinoma, extensive cervical intraepithelial neoplasia (CIN) III (severe dysplasia and squamous cell carcinoma in-situ [SCIS]) involving surface epithelium and endocervical glands, and focal CIN II (see comment):\n- Microinvasive carcinoma is present in 1 of 4 quadrants of cervix\n- Maximum depth of microinvasion is about 0.15 cm (1.5 mm); maximum horizontal extent of microinvasive tumor is less than 0.1 cm (1mm) [see comment #3]\n- No evidence of microinvasive carcinoma at surgical margins\n- No lymphatic or blood vessel invasion by squamous carcinoma identified in the cervix\n- CIN III/SCIS is present in all four quadrants\n- Koilocytic cervical squamous atypia consistent with human papilloma virus (HPV) infection\n- Cervix also shows focal mucosal erosion/necrosis, reactive changes consistent with prior biopsy site, chronic and mild acute inflammation, squamous metaplasia, endocervical nabothian cysts, recent subepithelial hemorrhages, and focal endometriosis in outermost wall\n- Focal complex endometrial hyperplasia with atypia\n- Necrosis, hemorrhage, and other changes in endometrium and superficial myometrium consistent with prior endometrial curettage\n- Small uterine leiomyoma\n- Subserosal endometriosis, lower uterine segment\n- Vaginal cuff with chronic inflammation\n\nH. LYMPH NODE, LEFT PELVIC, EXCISION:\n- Nine reactive lymph nodes\n- No evidence of metastatic carcinoma (0/9)\n\nI. LYMPH NODE, LEFT COMMON, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nJ. LYMPH NODE, LEFT \"PA\", EXCISION:\n- One reactive lymph node\n- No evidence of metastatic carcinoma (0/1)\n\nK. LYMPH NODE, RIGHT PELVIC, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nL. LYMPH NODE, RIGHT \"PA\", EXCISION:\n- Two reactive lymph nodes\n- No evidence of metastatic carcinoma (0/2)\n\nCOMMENT: The pathologic findings were conveyed to Dr. on\n\nCOMMENT #2 WITH EXPLANATION OF THE CORRECTION: The involvement of an intrauterine segment of one of the fallopian tubes was stated in the corresponding\n\nSURGICAL PATHOLOGY REPORT\n\nPage 2 of 10",
+          "confidence": {
+            "mean_probability": 0.9929302606632421,
+            "mean_log_probability": -0.008597062925170068,
+            "perplexity": 1.0086341237993979,
+            "min_probability": 0.48683744505859333
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 589,
+            "total_tokens": 3061
+          },
+          "composite_score": 0.9931809732618206,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 18.2077054977417,
+          "chars": 2269,
+          "words": 341,
+          "text": "PATIEN\n\n- The uterine adenocarcinoma does not extend into the cervix\n- Vaginal cuff and parametrial soft tissues are free of tumor\n- Two foci of microinvasive cervical squamous cell carcinoma, extensive cervical intraepithelial neoplasia (CIN) III (severe dysplasia and squamous cell carcinoma in-situ [SCIS]) involving surface epithelium and endocervical glands, and focal CIN II (see comment):\n- Microinvasive carcinoma is present in 1 of 4 quadrants of cervix\n- Maximum depth of microinvasion is about 0.15 cm (1.5 mm); maximum horizontal extent of microinvasive tumor is less than 0.1 cm (1mm) [see comment #3]\n- No evidence of microinvasive carcinoma at surgical margins\n- No lymphatic or blood vessel invasion by squamous carcinoma identified in the cervix\n- CIN III/SCIS is present in all four quadrants\n- Koilocytic cervical squamous atypia consistent with human papilloma virus (HPV) infection\n- Cervix also shows focal mucosal erosion/necrosis, reactive changes consistent with prior biopsy site, chronic and mild acute inflammation, squamous metaplasia, endocervical nabothian cysts, recent subepithelial hemorrhages, and focal endometriosis in outermost wall\n- Focal complex endometrial hyperplasia with atypia\n- Necrosis, hemorrhage, and other changes in endometrium and superficial myometrium consistent with prior endometrial curettage\n- Small uterine leiomyoma\n- Subserosal endometriosis, lower uterine segment\n- Vaginal cuff with chronic inflammation\n\nH. LYMPH NODE, LEFT PELVIC, EXCISION:\n- Nine reactive lymph nodes\n- No evidence of metastatic carcinoma (0/9)\n\nI. LYMPH NODE, LEFT COMMON, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nJ. LYMPH NODE, LEFT \"PA\", EXCISION:\n- One reactive lymph node\n- No evidence of metastatic carcinoma (0/1)\n\nK. LYMPH NODE, RIGHT PELVIC, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nL. LYMPH NODE, RIGHT \"PA\", EXCISION:\n- Two reactive lymph nodes\n- No evidence of metastatic carcinoma (0/2)\n\nCOMMENT: The pathologic findings were conveyed to Dr. on\n\nCOMMENT #2 WITH EXPLANATION OF THE CORRECTION: The involvement of an intrauterine segment of one of the fallopian tubes was stated in the corresponding\n\nSURGICAL PATHOLOGY REPORT\n\nPage 2 of 10",
+          "confidence": {
+            "mean_probability": 0.9933713071883968,
+            "mean_log_probability": -0.007896363945578232,
+            "perplexity": 1.007927622449364,
+            "min_probability": 0.5405187242728238
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 589,
+            "total_tokens": 3061
+          },
+          "composite_score": 0.9440457800887914
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 16.473921060562134,
+          "chars": 2270,
+          "words": 341,
+          "text": "PATIEN\n\n- The uterine adenocarcinoma does not extend into the cervix\n- Vaginal cuff and parametrial soft tissues are free of tumor\n- Two foci of microinvasive cervical squamous cell carcinoma, extensive cervical intraepithelial neoplasia (CIN) III (severe dysplasia and squamous cell carcinoma in-situ [SCIS]) involving surface epithelium and endocervical glands, and focal CIN II (see comment):\n- Microinvasive carcinoma is present in 1 of 4 quadrants of cervix\n- Maximum depth of microinvasion is about 0.15 cm (1.5 mm); maximum horizontal extent of microinvasive tumor is less than 0.1 cm (1mm) [see comment #3]\n- No evidence of microinvasive carcinoma at surgical margins\n- No lymphatic or blood vessel invasion by squamous carcinoma identified in the cervix\n- CIN III/SCIS is present in all four quadrants\n- Koilocytic cervical squamous atypia consistent with human papilloma virus (HPV) infection\n- Cervix also shows focal mucosal erosion/necrosis, reactive changes consistent with prior biopsy site, chronic and mild acute inflammation, squamous metaplasia, endocervical nabothian cysts, recent subepithelial hemorrhages, and focal endometriosis in outermost wall\n- Focal complex endometrial hyperplasia with atypia\n- Necrosis, hemorrhage, and other changes in endometrium and superficial myometrium consistent with prior endometrial curettage\n- Small uterine leiomyoma\n- Subserosal endometriosis, lower uterine segment\n- Vaginal cuff with chronic inflammation\n\nH. LYMPH NODE, LEFT PELVIC, EXCISION:\n- Nine reactive lymph nodes\n- No evidence of metastatic carcinoma (0/9)\n\nI. LYMPH NODE, LEFT COMMON, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nJ. LYMPH NODE, LEFT \"PA\", EXCISION:\n- One reactive lymph node\n- No evidence of metastatic carcinoma (0/1)\n\nK. LYMPH NODE, RIGHT PELVIC, EXCISION:\n- Four reactive lymph nodes\n- No evidence of metastatic carcinoma (0/4)\n\nL. LYMPH NODE, RIGHT \"PA\", EXCISION:\n- Two reactive lymph nodes\n- No evidence of metastatic carcinoma (0/2)\n\nCOMMENT: The pathologic findings were conveyed to Dr. on\n\nCOMMENT #2 WITH EXPLANATION OF THE CORRECTION: The involvement of an intrauterine segment of one of the fallopian tubes was stated in the corresponding\n\n\nSURGICAL PATHOLOGY REPORT\n\nPage 2 of 10",
+          "confidence": {
+            "mean_probability": 0.9931259638582484,
+            "mean_log_probability": -0.008481083333333334,
+            "perplexity": 1.0085171496088476,
+            "min_probability": 0.45374405292061903
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 589,
+            "total_tokens": 3061
+          },
+          "composite_score": 0.9436085828084859
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.549035787582397,
+        "chars": 1737,
+        "words": 214,
+        "text": "PATIENT:  *** [redacted]\n\noriginal synoptic report and conveyed to Dr. [redacted] but was not listed (typed into) in the original non-synoptic section of the diagnosis for specimen G.\nCOMMENT #3 WITH EXPLANATION OF A SECOND CORRECTION: A typographical error was corrected. (15 mm was changed to 1.5 mm).\n\nSYNOPTIC REPORT:\nApplies To:\nA : OMENTUM 1\nB : OMENTUM 2\nC : OMENTUM 3\nD : RIGHT CORNUA OF UTERUS\nE : LEFT TUBE AND OVARY\nF : RIGHT TUBE AND OVARY\nG : UTERUS AND CERVIX FS\nH : LEFT PELVIC LYMPH NODES\nI : LEFT COMMON ILIAC LYMPH NODES\nJ : LEFT PARA-AORTIC LYMPH NODE\nK : RIGHT PELVIC LYMPH NODES\nL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type: Uterus\n                     Right ovary\n                     Left ovary\n                     Right fallopian tube\n                     Left fallopian tube\n                     Parametrium\n                     Vaginal cuff\nProcedure:          Omentum\n                     Total abdominal hysterectomy and bilateral salpingo-\n                     oophorectomy\nSpecimen Integrity: Intact hysterectomy specimen\nLymph Node Sampling: Pelvic lymph nodes\n                             Para-aortic lymph nodes\n                             Common iliac lymph nodes\n\nMicroscopic\nHistologic Type:      Endometrioid adenocarcinoma wiht associated\n                             squamous changes\nHistologic Grade:    FIGO grade III\nTumor Site:            Corpus\n                             Fundus\nTumor Size:            Lower uterine segment\nMyometrial Invasion: Greatest dimension: 4.2 cm\n                             Tumor extends through the entire uterine wall to serosal\n                             surface\nInvolvement of Cervix: No involvement\n\nSURGICAL PATHOLOGY REPORT\n\nPage 3 of 10",
+        "confidence": {
+          "mean_probability": 0.9642497934291429,
+          "mean_log_probability": -0.06005298607888632,
+          "perplexity": 1.0618928105909717,
+          "min_probability": 0.05117766871455776
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 432,
+          "total_tokens": 2904
+        },
+        "composite_score": 0.9283792570805194,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.549035787582397,
+          "chars": 1737,
+          "words": 214,
+          "text": "PATIENT:  *** [redacted]\n\noriginal synoptic report and conveyed to Dr. [redacted] but was not listed (typed into) in the original non-synoptic section of the diagnosis for specimen G.\nCOMMENT #3 WITH EXPLANATION OF A SECOND CORRECTION: A typographical error was corrected. (15 mm was changed to 1.5 mm).\n\nSYNOPTIC REPORT:\nApplies To:\nA : OMENTUM 1\nB : OMENTUM 2\nC : OMENTUM 3\nD : RIGHT CORNUA OF UTERUS\nE : LEFT TUBE AND OVARY\nF : RIGHT TUBE AND OVARY\nG : UTERUS AND CERVIX FS\nH : LEFT PELVIC LYMPH NODES\nI : LEFT COMMON ILIAC LYMPH NODES\nJ : LEFT PARA-AORTIC LYMPH NODE\nK : RIGHT PELVIC LYMPH NODES\nL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type: Uterus\n                     Right ovary\n                     Left ovary\n                     Right fallopian tube\n                     Left fallopian tube\n                     Parametrium\n                     Vaginal cuff\nProcedure:          Omentum\n                     Total abdominal hysterectomy and bilateral salpingo-\n                     oophorectomy\nSpecimen Integrity: Intact hysterectomy specimen\nLymph Node Sampling: Pelvic lymph nodes\n                             Para-aortic lymph nodes\n                             Common iliac lymph nodes\n\nMicroscopic\nHistologic Type:      Endometrioid adenocarcinoma wiht associated\n                             squamous changes\nHistologic Grade:    FIGO grade III\nTumor Site:            Corpus\n                             Fundus\nTumor Size:            Lower uterine segment\nMyometrial Invasion: Greatest dimension: 4.2 cm\n                             Tumor extends through the entire uterine wall to serosal\n                             surface\nInvolvement of Cervix: No involvement\n\nSURGICAL PATHOLOGY REPORT\n\nPage 3 of 10",
+          "confidence": {
+            "mean_probability": 0.9642497934291429,
+            "mean_log_probability": -0.06005298607888632,
+            "perplexity": 1.0618928105909717,
+            "min_probability": 0.05117766871455776
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 432,
+            "total_tokens": 2904
+          },
+          "composite_score": 0.9283792570805194,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.595120906829834,
+          "chars": 1604,
+          "words": 211,
+          "text": "PATIENT:  ***\n\noriginal synoptic report and conveyed to Dr.  *** but was not listed (typed into) in the original non-synoptic section of the diagnosis for specimen G.\nCOMMENT #3 WITH EXPLANATION OF A SECOND CORRECTION: A typographical error was corrected. (15 mm was changed to 1.5 mm).\n\nSYNOPTIC REPORT:\nApplies To:\nA : OMENTUM 1\nB : OMENTUM 2\nC : OMENTUM 3\nD : RIGHT CORNUA OF UTERUS\nE : LEFT TUBE AND OVARY\nF : RIGHT TUBE AND OVARY\nG : UTERUS AND CERVIX FS\nH : LEFT PELVIC LYMPH NODES\nI : LEFT COMMON ILIAC LYMPH NODES\nJ : LEFT PARA-AORTIC LYMPH NODE\nK : RIGHT PELVIC LYMPH NODES\nL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type: Uterus\n                     Right ovary\n                     Left ovary\n                     Right fallopian tube\n                     Left fallopian tube\n                     Parametrium\n                     Vaginal cuff\nProcedure:           Omentum\n                     Total abdominal hysterectomy and bilateral salpingo-oophorectomy\nSpecimen Integrity:  Intact hysterectomy specimen\nLymph Node Sampling: Pelvic lymph nodes\n                     Para-aortic lymph nodes\n                     Common iliac lymph nodes\n\nMicroscopic\nHistologic Type:     Endometrioid adenocarcinoma wiht associated squamous changes\nHistologic Grade:    FIGO grade III\nTumor Site:          Corpus\n                     Fundus\nTumor Size:          Lower uterine segment\n                     Greatest dimension: 4.2cm\nMyometrial Invasion: Tumor extends through the entire uterine wall to serosal surface\nInvolvement of Cervix: No involvement\n\nSURGICAL PATHOLOGY REPORT\n\nPage 3 of 10",
+          "confidence": {
+            "mean_probability": 0.9695110207398985,
+            "mean_log_probability": -0.052608999999999996,
+            "perplexity": 1.0540174437187395,
+            "min_probability": 0.05459341543129764
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 422,
+            "total_tokens": 2894
+          },
+          "composite_score": 0.8743954872322012
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.552103281021118,
+          "chars": 2724,
+          "words": 213,
+          "text": "PATIENT:  *** [redacted]\n\noriginal synoptic report and conveyed to Dr.  [redacted] but was not listed (typed into) in the original non-synoptic section of the diagnosis for specimen G.  \nCOMMENT #3 WITH EXPLANATION OF A SECOND CORRECTION:  A typographical error was corrected.  (15 mm was changed to 1.5 mm).\n\nSYNOPTIC REPORT:\nApplies To:\nA : OMENTUM 1\nB : OMENTUM 2\nC : OMENTUM 3\nD : RIGHT CORNUA OF UTERUS\nE : LEFT TUBE AND OVARY\nF : RIGHT TUBE AND OVARY\nG : UTERUS AND CERVIX FS\nH : LEFT PELVIC LYMPH NODES\nI : LEFT COMMON ILIAC LYMPH NODES\nJ : LEFT PARA-AORTIC LYMPH NODE\nK : RIGHT PELVIC LYMPH NODES\nL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type:                                             Uterus\n                                                                    Right ovary\n                                                                    Left ovary\n                                                                    Right fallopian tube\n                                                                    Left fallopian tube\n                                                                    Parametrium\n                                                                    Vaginal cuff\nProcedure:                                                  Omentum\n                                                                    Total abdominal hysterectomy and bilateral salpingo-\n                                                                    oophorectomy\nSpecimen Integrity:                                        Intact hysterectomy specimen\nLymph Node Sampling:                                 Pelvic lymph nodes\n                                                                    Para-aortic lymph nodes\n                                                                    Common iliac lymph nodes\n\nMicroscopic\nHistologic Type:                                          Endometrioid adenocarcinoma wiht associated\n                                                                    squamous changes\nHistologic Grade:                                         FIGO grade III\nTumor Site:                                                   Corpus\n                                                                    Fundus\nTumor Size:                                                  Lower uterine segment\n                                                                    Greatest dimension: 4.2cm\nMyometrial Invasion:                                    Tumor extends through the entire uterine wall to serosal\n                                                                    surface\nInvolvement of Cervix:                                  No involvement\n\nSURGICAL PATHOLOGY REPORT\n\nPage 3 of 10",
+          "confidence": {
+            "mean_probability": 0.9570438559311035,
+            "mean_log_probability": -22.789769888636364,
+            "perplexity": 7897166716.7048855,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 441,
+            "total_tokens": 2913
+          },
+          "composite_score": 0.15536255342066674
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.224382638931274,
+        "chars": 1444,
+        "words": 231,
+        "text": "PATIENT:\n\nExtent of Involvement\nof Other Organs:\tNone\n\tIntrauterine portion of one fallopian tube (laterality\n\t\tuncertain) is present.\nMargins:\tInvolved by invasive carcinoma\n\tMargin(s) involved: Uterine serosa is focally involved by\n\t\ttumor. Parametrial margins and vaginal cuff margins\n\t\tare free of tumor.\nLymphovascular Invasion:\tPresent\n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010\nPrimary Tumor (pT):\tpT3a [IIIA]: Tumor involves serosa and/or adnexa (direct\n\t\textension or metastasis)\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\n\tComment(s): In addition to the pelvic and para-aortic\n\t\tlymph nodes, 4 left common iliac lymph nodes are\n\t\tfree of tumor.\n\nNumber of pelvic lymph\nnodes examined:\t13\nNumber of pelvic lymph\nnodes involved:\t0\nNumber of para-aortic\nlymph nodes examined:\t3\nNumber of para-aortic\nlymph nodes involved:\t0\nNumber of common iliac\nlymph nodes examined:\t4\nNumber of common iliac\nlymph nodes involved:\t0\n\n\nSYNOPTIC REPORT:\tApplies To:\n\tA : OMENTUM 1\n\tB : OMENTUM 2\n\tC : OMENTUM 3\n\tD : RIGHT CORNUA OF UTERUS\n\tE : LEFT TUBE AND OVARY\n\tF : RIGHT TUBE AND OVARY\n\tG : UTERUS AND CERVIX FS\n\tH : LEFT PELVIC LYMPH NODES\n\tI : LEFT COMMON ILIAC LYMPH NODES\n\tJ : LEFT PARA-AORTIC LYMPH NODE\n\tK : RIGHT PELVIC LYMPH NODES\n\tL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type:\tEntire uterus\nProcedure:\tHysterectomy\nOther Organs Present:\tRight ovary\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 10",
+        "confidence": {
+          "mean_probability": 0.9780378015376773,
+          "mean_log_probability": -0.030085736501079912,
+          "perplexity": 1.0305428853071938,
+          "min_probability": 0.13152504358282385
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 464,
+          "total_tokens": 2936
+        },
+        "composite_score": 0.9210343826072008,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.224382638931274,
+          "chars": 1444,
+          "words": 231,
+          "text": "PATIENT:\n\nExtent of Involvement\nof Other Organs:\tNone\n\tIntrauterine portion of one fallopian tube (laterality\n\t\tuncertain) is present.\nMargins:\tInvolved by invasive carcinoma\n\tMargin(s) involved: Uterine serosa is focally involved by\n\t\ttumor. Parametrial margins and vaginal cuff margins\n\t\tare free of tumor.\nLymphovascular Invasion:\tPresent\n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010\nPrimary Tumor (pT):\tpT3a [IIIA]: Tumor involves serosa and/or adnexa (direct\n\t\textension or metastasis)\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\n\tComment(s): In addition to the pelvic and para-aortic\n\t\tlymph nodes, 4 left common iliac lymph nodes are\n\t\tfree of tumor.\n\nNumber of pelvic lymph\nnodes examined:\t13\nNumber of pelvic lymph\nnodes involved:\t0\nNumber of para-aortic\nlymph nodes examined:\t3\nNumber of para-aortic\nlymph nodes involved:\t0\nNumber of common iliac\nlymph nodes examined:\t4\nNumber of common iliac\nlymph nodes involved:\t0\n\n\nSYNOPTIC REPORT:\tApplies To:\n\tA : OMENTUM 1\n\tB : OMENTUM 2\n\tC : OMENTUM 3\n\tD : RIGHT CORNUA OF UTERUS\n\tE : LEFT TUBE AND OVARY\n\tF : RIGHT TUBE AND OVARY\n\tG : UTERUS AND CERVIX FS\n\tH : LEFT PELVIC LYMPH NODES\n\tI : LEFT COMMON ILIAC LYMPH NODES\n\tJ : LEFT PARA-AORTIC LYMPH NODE\n\tK : RIGHT PELVIC LYMPH NODES\n\tL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type:\tEntire uterus\nProcedure:\tHysterectomy\nOther Organs Present:\tRight ovary\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 10",
+          "confidence": {
+            "mean_probability": 0.9780378015376773,
+            "mean_log_probability": -0.030085736501079912,
+            "perplexity": 1.0305428853071938,
+            "min_probability": 0.13152504358282385
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 464,
+            "total_tokens": 2936
+          },
+          "composite_score": 0.9210343826072008,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.978529214859009,
+          "chars": 1445,
+          "words": 231,
+          "text": "PATIENT:\n\nExtent of Involvement\nof Other Organs:\tNone\n\tIntrauterine portion of one fallopian tube (laterality\n\t\tuncertain) is present.\nMargins:\tInvolved by invasive carcinoma\n\tMargin(s) involved: Uterine serosa is focally involved by\n\t\ttumor. Parametrial margins and vaginal cuff margins\n\t\tare free of tumor.\nLymphovascular Invasion:\tPresent\n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010\nPrimary Tumor (pT):\tpT3a [IIIA]: Tumor involves serosa and/or adnexa (direct\n\t\textension or metastasis)\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\n\tComment(s): In addition to the pelvic and para-aortic\n\t\tlymph nodes, 4 left common iliac lymph nodes are\n\t\tfree of tumor.\n\nNumber of pelvic lymph\nnodes examined:\t13\nNumber of pelvic lymph\nnodes involved:\t0\nNumber of para-aortic\nlymph nodes examined:\t3\nNumber of para-aortic\nlymph nodes involved:\t0\nNumber of common iliac\nlymph nodes examined:\t4\nNumber of common iliac\nlymph nodes involved:\t0\n\nSYNOPTIC REPORT:\n\n\tApplies To:\n\tA : OMENTUM 1\n\tB : OMENTUM 2\n\tC : OMENTUM 3\n\tD : RIGHT CORNUA OF UTERUS\n\tE : LEFT TUBE AND OVARY\n\tF : RIGHT TUBE AND OVARY\n\tG : UTERUS AND CERVIX FS\n\tH : LEFT PELVIC LYMPH NODES\n\tI : LEFT COMMON ILIAC LYMPH NODES\n\tJ : LEFT PARA-AORTIC LYMPH NODE\n\tK : RIGHT PELVIC LYMPH NODES\n\tL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type:\tEntire uterus\nProcedure:\tHysterectomy\nOther Organs Present:\tRight ovary\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 10",
+          "confidence": {
+            "mean_probability": 0.9788693502027972,
+            "mean_log_probability": -0.02888644060475162,
+            "perplexity": 1.0293077002780713,
+            "min_probability": 0.14183569057141016
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 464,
+            "total_tokens": 2936
+          },
+          "composite_score": 0.8759376648061301
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.720365762710571,
+          "chars": 1443,
+          "words": 231,
+          "text": "PATIENT:\n\nExtent of Involvement\nof Other Organs:\tNone\n\tIntrauterine portion of one fallopian tube (laterality\n\t\tuncertain) is present.\nMargins:\tInvolved by invasive carcinoma\n\tMargin(s) involved: Uterine serosa is focally involved by\n\t\ttumor. Parametrial margins and vaginal cuff margins\n\t\tare free of tumor.\nLymphovascular Invasion:\tPresent\n\nPathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010\nPrimary Tumor (pT):\tpT3a [IIIA]: Tumor involves serosa and/or adnexa (direct\n\t\textension or metastasis)\nRegional Lymph Nodes (pN):\tpN0: No regional lymph node metastasis\n\tComment(s): In addition to the pelvic and para-aortic\n\t\tlymph nodes, 4 left common iliac lymph nodes are\n\t\tfree of tumor.\n\nNumber of pelvic lymph\nnodes examined:\t13\nNumber of pelvic lymph\nnodes involved:\t0\nNumber of para-aortic\nlymph nodes examined:\t3\nNumber of para-aortic\nlymph nodes involved:\t0\nNumber of common iliac\nlymph nodes examined:\t4\nNumber of common iliac\nlymph nodes involved:\t0\n\nSYNOPTIC REPORT:\tApplies To:\n\tA : OMENTUM 1\n\tB : OMENTUM 2\n\tC : OMENTUM 3\n\tD : RIGHT CORNUA OF UTERUS\n\tE : LEFT TUBE AND OVARY\n\tF : RIGHT TUBE AND OVARY\n\tG : UTERUS AND CERVIX FS\n\tH : LEFT PELVIC LYMPH NODES\n\tI : LEFT COMMON ILIAC LYMPH NODES\n\tJ : LEFT PARA-AORTIC LYMPH NODE\n\tK : RIGHT PELVIC LYMPH NODES\n\tL : RIGHT PARA-AORTIC LYMPH NODES\n\nMacroscopic\nSpecimen Type:\tEntire uterus\nProcedure:\tHysterectomy\nOther Organs Present:\tRight ovary\n\nSURGICAL PATHOLOGY REPORT\n\nPage 4 of 10",
+          "confidence": {
+            "mean_probability": 0.9799925999226902,
+            "mean_log_probability": -0.026818807775377967,
+            "perplexity": 1.0271816685693451,
+            "min_probability": 0.17853653871980024
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 464,
+            "total_tokens": 2936
+          },
+          "composite_score": 0.87723505787297
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.010584592819214,
+        "chars": 2179,
+        "words": 266,
+        "text": "PATIENT: \n\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\nVaginal cuff\nLymph Node Sampling: Pelvic lymph nodes\nPara-aortic lymph nodes\nCommon iliac lymph nodes\n\nMicroscopic\nHistologic Type: Squamous cell carcinoma\nHistologic Grade: G2: Moderately differentiated\nTumor Site: 3 to 6 o'clock quadrant\nTumor Size: Greatest dimension: 0.15cm\nLymphovascular Invasion: Not identified\nMargins: Margins uninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin:\nGreater than 1.5 cm\n\nPathologic Staging (pTNM) (AJCC 7th Edition, 2010) [FIGO]\nPrimary Tumor (pT): pT1a [IA]: Invasive carcinoma diagnosed by microscopy\nonly. All macroscopically visible lesions (even with\nsuperficial invasion) are pT1b/1B.\nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis\nNumber of lymph nodes identified: 20\nNumber of lymph nodes involved: 0\n\nHISTORY:\nUterine cancer\n\nMICROSCOPIC FINDINGS:\nSee diagnosis.\n\nSPECIAL STUDIES:\nHE step sections x 1 (G8, G18, G21)\nHE step sections x 2 (G27)\n\nIMMUNOHISTOCHEMISTRY:\nStudy / Antibody          Block      Result\nCalretinin                D1         The mesothelial cells exhibit positive staining.\nKeratin AE1/AE3           H1-H6      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    nine lymph nodes (0/9).\nKeratin AE1/AE3           I1-I2      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    four lymph nodes (0/4).\nKeratin AE1/AE3           J1         No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    one lymph node (0/1).\nKeratin AE1/AE3           K1-K4      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    four lymph nodes (0/4).\nKeratin AE1/AE3           L1-L4      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    two lymph nodes (0/2).\n*These IHC studies were interpreted in conjunction with appropriate positive and negative controls which\ndemonstrated the expected reactivity.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 10",
+        "confidence": {
+          "mean_probability": 0.9782625989432874,
+          "mean_log_probability": -0.03547853832116789,
+          "perplexity": 1.0361154111132576,
+          "min_probability": 0.0806718973833958
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 549,
+          "total_tokens": 3021
+        },
+        "composite_score": 0.9725896485474708,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.010584592819214,
+          "chars": 2179,
+          "words": 266,
+          "text": "PATIENT: \n\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\nVaginal cuff\nLymph Node Sampling: Pelvic lymph nodes\nPara-aortic lymph nodes\nCommon iliac lymph nodes\n\nMicroscopic\nHistologic Type: Squamous cell carcinoma\nHistologic Grade: G2: Moderately differentiated\nTumor Site: 3 to 6 o'clock quadrant\nTumor Size: Greatest dimension: 0.15cm\nLymphovascular Invasion: Not identified\nMargins: Margins uninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin:\nGreater than 1.5 cm\n\nPathologic Staging (pTNM) (AJCC 7th Edition, 2010) [FIGO]\nPrimary Tumor (pT): pT1a [IA]: Invasive carcinoma diagnosed by microscopy\nonly. All macroscopically visible lesions (even with\nsuperficial invasion) are pT1b/1B.\nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis\nNumber of lymph nodes identified: 20\nNumber of lymph nodes involved: 0\n\nHISTORY:\nUterine cancer\n\nMICROSCOPIC FINDINGS:\nSee diagnosis.\n\nSPECIAL STUDIES:\nHE step sections x 1 (G8, G18, G21)\nHE step sections x 2 (G27)\n\nIMMUNOHISTOCHEMISTRY:\nStudy / Antibody          Block      Result\nCalretinin                D1         The mesothelial cells exhibit positive staining.\nKeratin AE1/AE3           H1-H6      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    nine lymph nodes (0/9).\nKeratin AE1/AE3           I1-I2      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    four lymph nodes (0/4).\nKeratin AE1/AE3           J1         No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    one lymph node (0/1).\nKeratin AE1/AE3           K1-K4      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    four lymph nodes (0/4).\nKeratin AE1/AE3           L1-L4      No \"occult\" keratin- positive metastatic tumor cells are identified in\n                                    two lymph nodes (0/2).\n*These IHC studies were interpreted in conjunction with appropriate positive and negative controls which\ndemonstrated the expected reactivity.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 10",
+          "confidence": {
+            "mean_probability": 0.9782625989432874,
+            "mean_log_probability": -0.03547853832116789,
+            "perplexity": 1.0361154111132576,
+            "min_probability": 0.0806718973833958
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 549,
+            "total_tokens": 3021
+          },
+          "composite_score": 0.9725896485474708,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 11.672549724578857,
+          "chars": 1913,
+          "words": 280,
+          "text": "PATIENT: \n\nLeft ovary\nRight fallopian tube\nLeft fallopian tube\nVaginal cuff\nLymph Node Sampling: Pelvic lymph nodes\nPara-aortic lymph nodes\nCommon iliac lymph nodes\n\nMicroscopic\nHistologic Type: Squamous cell carcinoma\nHistologic Grade: G2: Moderately differentiated\nTumor Site: 3 to 6 o’clock quadrant\nTumor Size: Greatest dimension: 0.15cm\nLymphovascular Invasion: Not identified\nMargins: Margins uninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin:\nGreater than 1.5 cm\n\nPathologic Staging (pTNM) (AJCC 7th Edition, 2010) [FIGO]\nPrimary Tumor (pT): pT1a [IA]: Invasive carcinoma diagnosed by microscopy only. All macroscopically visible lesions (even with superficial invasion) are pT1b/1B.\nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis\nNumber of lymph nodes identified: 20\nNumber of lymph nodes involved: 0\n\nHISTORY:\nUterine cancer\n\nMICROSCOPIC FINDINGS:\nSee diagnosis.\n\nSPECIAL STUDIES:\nHE step sections x 1 (G8, G18, G21)\nHE step sections x 2 (G27)\n\nIMMUNOHISTOCHEMISTRY:\nStudy / Antibody | Block | Result\nCalretinin | D1 | The mesothelial cells exhibit positive staining.\nKeratin AE1/AE3 | H1-H6 | No “occult” keratin- positive metastatic tumor cells are identified in nine lymph nodes (0/9).\nKeratin AE1/AE3 | I1-I2 | No “occult” keratin- positive metastatic tumor cells are identified in four lymph nodes (0/4).\nKeratin AE1/AE3 | J1 | No “occult” keratin- positive metastatic tumor cells are identified in one lymph node (0/1).\nKeratin AE1/AE3 | K1-K4 | No “occult” keratin- positive metastatic tumor cells are identified in four lymph nodes (0/4).\nKeratin AE1/AE3 | L1-L4 | No “occult” keratin- positive metastatic tumor cells are identified in two lymph nodes (0/2).\n\n*These IHC studies were interpreted in conjunction with appropriate positive and negative controls which demonstrated the expected reactivity.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 5 of 10",
+          "confidence": {
+            "mean_probability": 0.9825604301236807,
+            "mean_log_probability": -0.027566252354048963,
+            "perplexity": 1.0279497169398657,
+            "min_probability": 0.05070301006646998
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 532,
+            "total_tokens": 3004
+          },
+          "composite_score": 0.921346677844536
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 17.028623819351196,
+          "chars": 2671,
+          "words": 266,
+          "text": "PATIENT:  \n                          Left ovary  \n                          Right fallopian tube  \n                          Left fallopian tube  \nLymph Node Sampling:        Vaginal cuff  \n                          Pelvic lymph nodes  \n                          Para-aortic lymph nodes  \n                          Common iliac lymph nodes  \n\n                                   Microscopic  \nHistologic Type:             Squamous cell carcinoma  \nHistologic Grade:            G2: Moderately differentiated  \nTumor Site:                  3 to 6 o'clock quadrant  \nTumor Size:                  Greatest dimension: 0.15cm  \nLymphovascular Invasion:     Not identified  \nMargins:                    Margins uninvolved by invasive carcinoma  \n                             Distance of invasive carcinoma from closest margin:  \n                             Greater than 1.5 cm  \n\nPathologic Staging (pTNM) (AJCC 7th Edition, 2010) [FIGO]  \nPrimary Tumor (pT):          pT1a [IA]: Invasive carcinoma diagnosed by microscopy  \n                             only. All macroscopically visible lesions (even with  \n                             superficial invasion) are pT1b/1B.  \nRegional Lymph Nodes (pN):   pN0: No regional lymph node metastasis  \nNumber of lymph nodes identified: 20  \nNumber of lymph nodes involved: 0  \n\nHISTORY:  \nUterine cancer  \n\nMICROSCOPIC FINDINGS:  \nSee diagnosis.  \n\nSPECIAL STUDIES:  \nHE step sections x 1 (G8, G18, G21)  \nHE step sections x 2 (G27)  \n\nIMMUNOHISTOCHEMISTRY:  \nStudy / Antibody           Block     Result  \nCalretinin                 D1        The mesothelial cells exhibit positive staining.  \nKeratin AE1/AE3            H1-H6     No \"occult\" keratin- positive metastatic tumor cells are identified in  \n                                   nine lymph nodes (0/9).  \nKeratin AE1/AE3            I1-I2     No \"occult\" keratin- positive metastatic tumor cells are identified in  \n                                   four lymph nodes (0/4).  \nKeratin AE1/AE3            J1        No \"occult\" keratin- positive metastatic tumor cells are identified in  \n                                   one lymph node (0/1).  \nKeratin AE1/AE3            K1-K4     No \"occult\" keratin- positive metastatic tumor cells are identified in  \n                                   four lymph nodes (0/4).  \nKeratin AE1/AE3            L1-L4     No \"occult\" keratin- positive metastatic tumor cells are identified in  \n                                   two lymph nodes (0/2).  \n*These IHC studies were interpreted in conjunction with appropriate positive and negative controls which  \ndemonstrated the expected reactivity.  \n\nSURGICAL PATHOLOGY REPORT  \n\nPage 5 of 10",
+          "confidence": {
+            "mean_probability": 0.9723238255831116,
+            "mean_log_probability": -0.050024345360824736,
+            "perplexity": 1.051296690261735,
+            "min_probability": 0.031924836450672255
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 583,
+            "total_tokens": 3055
+          },
+          "composite_score": 0.6396549193363572
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.422980785369873,
+        "chars": 1683,
+        "words": 278,
+        "text": "PATIENT:\n\nGROSS:\nA. OMENTUM #1\nLabeled with the patient's name, labeled \"omentum #1\", and received in formalin is a 12.8 x 7.5 x 1.8 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nA1-A3. 1 each\n\nB. OMENTUM #2\nLabeled with the patient's name, labeled \"omentum #2\", and received in formalin is a 14.0 x 9.0 x 2.0 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nB1-B3. 1 each\n\nC. OMENTUM #3\nLabeled with the patient's name, labeled \"omentum #3\", and received in formalin is an 18.0 x 10.5 x 2.5 cm partial omentectomy specimen composed of soft lobulated fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nC1-C3. 1 each\n\nD. RIGHT CORNUA OF UTERUS (FROZEN)\nLabeled with the patient's name, labeled \"right cornea of uterus\", received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 1.0 x 1.0 x 0.2 cm portion of tan-brown blood clot.\n\nNo gross tumor is identified.\n\nEntirely submitted.\nD1. Remnant of FSD - 1\n\nE. LEFT TUBE AND OVARY\nLabeled with the patient's name, labeled \"left tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.5 x 1.5 x 0.7 cm. The fimbriated fallopian tube is 4.2 cm in length, ranges from 0.3 to 0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise unremarkable. The fallopian tube is notable for a 0.5 x 0.5 x 0.3 cm hemorrhagic paratubal.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 10",
+        "confidence": {
+          "mean_probability": 0.9958836546900318,
+          "mean_log_probability": -0.004806539714867618,
+          "perplexity": 1.0048181096565838,
+          "min_probability": 0.4989766389789266
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 492,
+          "total_tokens": 2964
+        },
+        "composite_score": 0.9644731620765672,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.422980785369873,
+          "chars": 1683,
+          "words": 278,
+          "text": "PATIENT:\n\nGROSS:\nA. OMENTUM #1\nLabeled with the patient's name, labeled \"omentum #1\", and received in formalin is a 12.8 x 7.5 x 1.8 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nA1-A3. 1 each\n\nB. OMENTUM #2\nLabeled with the patient's name, labeled \"omentum #2\", and received in formalin is a 14.0 x 9.0 x 2.0 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nB1-B3. 1 each\n\nC. OMENTUM #3\nLabeled with the patient's name, labeled \"omentum #3\", and received in formalin is an 18.0 x 10.5 x 2.5 cm partial omentectomy specimen composed of soft lobulated fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nC1-C3. 1 each\n\nD. RIGHT CORNUA OF UTERUS (FROZEN)\nLabeled with the patient's name, labeled \"right cornea of uterus\", received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 1.0 x 1.0 x 0.2 cm portion of tan-brown blood clot.\n\nNo gross tumor is identified.\n\nEntirely submitted.\nD1. Remnant of FSD - 1\n\nE. LEFT TUBE AND OVARY\nLabeled with the patient's name, labeled \"left tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.5 x 1.5 x 0.7 cm. The fimbriated fallopian tube is 4.2 cm in length, ranges from 0.3 to 0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise unremarkable. The fallopian tube is notable for a 0.5 x 0.5 x 0.3 cm hemorrhagic paratubal.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 10",
+          "confidence": {
+            "mean_probability": 0.9958836546900318,
+            "mean_log_probability": -0.004806539714867618,
+            "perplexity": 1.0048181096565838,
+            "min_probability": 0.4989766389789266
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 492,
+            "total_tokens": 2964
+          },
+          "composite_score": 0.9644731620765672,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.680931806564331,
+          "chars": 1684,
+          "words": 278,
+          "text": "PATIENT: \n\nGROSS:\nA. OMENTUM #1\nLabeled with the patient's name, labeled \"omentum #1\", and received in formalin is a 12.8 x 7.5 x 1.8 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nA1-A3. 1 each\n\nB. OMENTUM #2\nLabeled with the patient's name, labeled \"omentum #2\", and received in formalin is a 14.0 x 9.0 x 2.0 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nB1-B3. 1 each\n\nC. OMENTUM #3\nLabeled with the patient's name, labeled \"omentum #3\", and received in formalin is an 18.0 x 10.5 x 2.5 cm partial omentectomy specimen composed of soft lobulated fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nC1-C3. 1 each\n\nD. RIGHT CORNUA OF UTERUS (FROZEN)\nLabeled with the patient's name, labeled \"right cornea of uterus\", received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 1.0 x 1.0 x 0.2 cm portion of tan-brown blood clot.\n\nNo gross tumor is identified.\n\nEntirely submitted.\nD1. Remnant of FSD - 1\n\nE. LEFT TUBE AND OVARY\nLabeled with the patient's name, labeled \"left tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.5 x 1.5 x 0.7 cm. The fimbriated fallopian tube is 4.2 cm in length, ranges from 0.3 to 0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise unremarkable. The fallopian tube is notable for a 0.5 x 0.5 x 0.3 cm hemorrhagic paratubal.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 10",
+          "confidence": {
+            "mean_probability": 0.9931683112920683,
+            "mean_log_probability": -0.008412252032520325,
+            "perplexity": 1.0084477344505431,
+            "min_probability": 0.42306349703819984
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 493,
+            "total_tokens": 2965
+          },
+          "composite_score": 0.913640021948534
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.620033740997314,
+          "chars": 1683,
+          "words": 278,
+          "text": "PATIENT:\n\nGROSS:\nA. OMENTUM #1\nLabeled with the patient's name, labeled \"omentum #1\", and received in formalin is a 12.8 x 7.5 x 1.8 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nA1-A3. 1 each\n\nB. OMENTUM #2\nLabeled with the patient's name, labeled \"omentum #2\", and received in formalin is a 14.0 x 9.0 x 2.0 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nB1-B3. 1 each\n\nC. OMENTUM #3\nLabeled with the patient's name, labeled \"omentum #3\", and received in formalin is an 18.0 x 10.5 x 2.5 cm partial omentectomy specimen composed of soft lobulated fatty tissue.\n\nNo gross tumor is identified.\n\nRepresentative sections.\n\nSlide key:\nC1-C3. 1 each\n\nD. RIGHT CORNUA OF UTERUS (FROZEN)\nLabeled with the patient's name, labeled \"right cornea of uterus\", received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 1.0 x 1.0 x 0.2 cm portion of tan-brown blood clot.\n\nNo gross tumor is identified.\n\nEntirely submitted.\nD1. Remnant of FSD - 1\n\nE. LEFT TUBE AND OVARY\nLabeled with the patient's name, labeled \"left tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.5 x 1.5 x 0.7 cm. The fimbriated fallopian tube is 4.2 cm in length, ranges from 0.3 to 0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise unremarkable. The fallopian tube is notable for a 0.5 x 0.5 x 0.3 cm hemorrhagic paratubal.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 6 of 10",
+          "confidence": {
+            "mean_probability": 0.9952383555373403,
+            "mean_log_probability": -0.00557832586558045,
+            "perplexity": 1.0055939136964998,
+            "min_probability": 0.5053702247449007
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 492,
+            "total_tokens": 2964
+          },
+          "composite_score": 0.9156689906163532
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 7,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 26.726954460144043,
+        "chars": 2891,
+        "words": 489,
+        "text": "PATIENT:\n\nRepresentative sections.\n\nSlide key:\nE1. Ovary, fallopian tube, fimbria, and hemorrhagic paratubal cyst - 3\n\nF. RIGHT TUBE AND OVARY\nLabeled with the patient's name, labeled \"right tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.6 x 1.5 x 1.2 cm. The fimbriated fallopian tube is 5.5 cm in length, ranges from 0.3-0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise grossly unremarkable. The fallopian tube is grossly unremarkable.\n\nRepresentative sections.\n\nSlide key:\nF1. Ovary, fallopian tube, and fimbria - 3\n\nG. UTERUS AND CERVIX - (FROZEN)\nLabeled with the patient's name, labeled received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 96.3 gram total abdominal hysterectomy specimen without adnexa. The uterus is about 9.0 x 5.5 x 3.5 cm. The cervical portion of the uterus is about 3.8 x 3.0 x 3.0 cm. The endometrial cavity is approximately 4.0 cm wide and 3.5 cm in length. The muscular uterine wall ranges from 1.2 to 1.5 cm. The right parametrial tissue is 2.0 x 1.2 x 0.5 cm, the left parametrial tissue is 1.3 x 1.0 x 0.5 cm, and a small portion of anterior paracervical tissue is 1.3 x 1.0 x 0.5 cm. The anterior vaginal cuff is 3.5 cm x 1.3 x 0.3 cm. The rim of posterior vaginal cuff is 0.8 x 0.2 x 0.2 cm. The cervical os is approximately 0.3 cm.\n\nThere is a tan soft to firm uterine tumor that involves a 4.2 x 4.0 cm area of the endometrium in the fundus and uterine corpus (posterior > anterior) and extends into the lower uterine segment, but not into the cervix. Myometrial invasion is present, up to 1.5 cm into a 1.5 cm wall. The tumor focally penetrates the uterine serosa and abuts the uterine serosa elsewhere. The parametrial tissues and vaginal cuff are grossly free of tumor.\n\nThe endocervical mucosa in the transformation zone appears irregular, fibrotic, and ulcerated. No distinct mass or invasive tumor is seen. The ectocervical mucosa shows patchy areas of erosion and/or defects, including a 0.7 x 0.6 cm oval lesion in the 6:00-9:00 quadrant. No invasive tumor is evident on gross inspection of the cervix. The cervix also shows several mucus-filled cysts, the largest of which is about 0.3 cm in diameter. The vaginal cuff is grossly unremarkable. There is very little grossly uninvolved endometrium, that is up to 0.1 cm in thickness. There are foci of hemorrhage in the endometrium and superficial myometrium. There is a 0.3 cm diameter leiomyoma composed of firm tan solid tissue in the lower uterine segment. No areas of necrosis or hemorrhage are seen in the leiomyoma. A few uterine serosal adhesions are also present.\n\nGross photographs are obtained.\n\nInk key: Anterior uterus - yellow; posterior uterus - black.\n\nRepresentative sections.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 7 of 10",
+        "confidence": {
+          "mean_probability": 0.996461637250368,
+          "mean_log_probability": -0.005350552311435524,
+          "perplexity": 1.0053648920802745,
+          "min_probability": 0.1143125403330068
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 823,
+          "total_tokens": 3295
+        },
+        "composite_score": 0.9957423389888163,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 26.726954460144043,
+          "chars": 2891,
+          "words": 489,
+          "text": "PATIENT:\n\nRepresentative sections.\n\nSlide key:\nE1. Ovary, fallopian tube, fimbria, and hemorrhagic paratubal cyst - 3\n\nF. RIGHT TUBE AND OVARY\nLabeled with the patient's name, labeled \"right tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.6 x 1.5 x 1.2 cm. The fimbriated fallopian tube is 5.5 cm in length, ranges from 0.3-0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise grossly unremarkable. The fallopian tube is grossly unremarkable.\n\nRepresentative sections.\n\nSlide key:\nF1. Ovary, fallopian tube, and fimbria - 3\n\nG. UTERUS AND CERVIX - (FROZEN)\nLabeled with the patient's name, labeled received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 96.3 gram total abdominal hysterectomy specimen without adnexa. The uterus is about 9.0 x 5.5 x 3.5 cm. The cervical portion of the uterus is about 3.8 x 3.0 x 3.0 cm. The endometrial cavity is approximately 4.0 cm wide and 3.5 cm in length. The muscular uterine wall ranges from 1.2 to 1.5 cm. The right parametrial tissue is 2.0 x 1.2 x 0.5 cm, the left parametrial tissue is 1.3 x 1.0 x 0.5 cm, and a small portion of anterior paracervical tissue is 1.3 x 1.0 x 0.5 cm. The anterior vaginal cuff is 3.5 cm x 1.3 x 0.3 cm. The rim of posterior vaginal cuff is 0.8 x 0.2 x 0.2 cm. The cervical os is approximately 0.3 cm.\n\nThere is a tan soft to firm uterine tumor that involves a 4.2 x 4.0 cm area of the endometrium in the fundus and uterine corpus (posterior > anterior) and extends into the lower uterine segment, but not into the cervix. Myometrial invasion is present, up to 1.5 cm into a 1.5 cm wall. The tumor focally penetrates the uterine serosa and abuts the uterine serosa elsewhere. The parametrial tissues and vaginal cuff are grossly free of tumor.\n\nThe endocervical mucosa in the transformation zone appears irregular, fibrotic, and ulcerated. No distinct mass or invasive tumor is seen. The ectocervical mucosa shows patchy areas of erosion and/or defects, including a 0.7 x 0.6 cm oval lesion in the 6:00-9:00 quadrant. No invasive tumor is evident on gross inspection of the cervix. The cervix also shows several mucus-filled cysts, the largest of which is about 0.3 cm in diameter. The vaginal cuff is grossly unremarkable. There is very little grossly uninvolved endometrium, that is up to 0.1 cm in thickness. There are foci of hemorrhage in the endometrium and superficial myometrium. There is a 0.3 cm diameter leiomyoma composed of firm tan solid tissue in the lower uterine segment. No areas of necrosis or hemorrhage are seen in the leiomyoma. A few uterine serosal adhesions are also present.\n\nGross photographs are obtained.\n\nInk key: Anterior uterus - yellow; posterior uterus - black.\n\nRepresentative sections.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 7 of 10",
+          "confidence": {
+            "mean_probability": 0.996461637250368,
+            "mean_log_probability": -0.005350552311435524,
+            "perplexity": 1.0053648920802745,
+            "min_probability": 0.1143125403330068
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 823,
+            "total_tokens": 3295
+          },
+          "composite_score": 0.9957423389888163,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 24.428953647613525,
+          "chars": 2902,
+          "words": 490,
+          "text": "PATIENT:\n\nRepresentative sections.\n\nSlide key:\nE1. Ovary, fallopian tube, fimbria, and hemorrhagic paratubal cyst - 3\n\nF. RIGHT TUBE AND OVARY\nLabeled with the patient's name, labeled \"right tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.6 x 1.5 x 1.2 cm. The fimbriated fallopian tube is 5.5 cm in length, ranges from 0.3-0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise grossly unremarkable. The fallopian tube is grossly unremarkable.\n\nRepresentative sections.\n\nSlide key:\nF1. Ovary, fallopian tube, and fimbria - 3\n\nG. UTERUS AND CERVIX - (FROZEN)\nLabeled with the patient's name, labeled [redacted] received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 96.3 gram total abdominal hysterectomy specimen without adnexa. The uterus is about 9.0 x 5.5 x 3.5 cm. The cervical portion of the uterus is about 3.8 x 3.0 x 3.0 cm. The endometrial cavity is approximately 4.0 cm wide and 3.5 cm in length. The muscular uterine wall ranges from 1.2 to 1.5 cm. The right parametrial tissue is 2.0 x 1.2 x 0.5 cm, the left parametrial tissue is 1.3 x 1.0 x 0.5 cm, and a small portion of anterior paracervical tissue is 1.3 x 1.0 x 0.5 cm. The anterior vaginal cuff is 3.5 cm x 1.3 x 0.3 cm. The rim of posterior vaginal cuff is 0.8 x 0.2 x 0.2 cm. The cervical os is approximately 0.3 cm.\n\nThere is a tan soft to firm uterine tumor that involves a 4.2 x 4.0 cm area of the endometrium in the fundus and uterine corpus (posterior > anterior) and extends into the lower uterine segment, but not into the cervix. Myometrial invasion is present, up to 1.5 cm into a 1.5 cm wall. The tumor focally penetrates the uterine serosa and abuts the uterine serosa elsewhere. The parametrial tissues and vaginal cuff are grossly free of tumor.\n\nThe endocervical mucosa in the transformation zone appears irregular, fibrotic, and ulcerated. No distinct mass or invasive tumor is seen. The ectocervical mucosa shows patchy areas of erosion and/or defects, including a 0.7 x 0.6 cm oval lesion in the 6:00-9:00 quadrant. No invasive tumor is evident on gross inspection of the cervix. The cervix also shows several mucus-filled cysts, the largest of which is about 0.3 cm in diameter. The vaginal cuff is grossly unremarkable. There is very little grossly uninvolved endometrium, that is up to 0.1 cm in thickness. There are foci of hemorrhage in the endometrium and superficial myometrium. There is a 0.3 cm diameter leiomyoma composed of firm tan solid tissue in the lower uterine segment. No areas of necrosis or hemorrhage are seen in the leiomyoma. A few uterine serosal adhesions are also present.\n\nGross photographs are obtained.\n\nInk key: Anterior uterus - yellow; posterior uterus - black.\n\nRepresentative sections.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 7 of 10",
+          "confidence": {
+            "mean_probability": 0.9958390090548102,
+            "mean_log_probability": -0.006492444309927361,
+            "perplexity": 1.0065135659120197,
+            "min_probability": 0.0790328255125162
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 827,
+            "total_tokens": 3299
+          },
+          "composite_score": 0.9450975710712584
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.750668048858643,
+          "chars": 2891,
+          "words": 489,
+          "text": "PATIENT:\n\nRepresentative sections.\n\nSlide key:\nE1. Ovary, fallopian tube, fimbria, and hemorrhagic paratubal cyst - 3\n\nF. RIGHT TUBE AND OVARY\nLabeled with the patient's name, labeled \"right tube and ovary\", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.6 x 1.5 x 1.2 cm. The fimbriated fallopian tube is 5.5 cm in length, ranges from 0.3-0.5 cm in diameter, and has a pinpoint lumen.\n\nNo gross tumor is identified.\n\nThe ovary is atrophic and otherwise grossly unremarkable. The fallopian tube is grossly unremarkable.\n\nRepresentative sections.\n\nSlide key:\nF1. Ovary, fallopian tube, and fimbria - 3\n\nG. UTERUS AND CERVIX - (FROZEN)\nLabeled with the patient's name, labeled received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 96.6 gram total abdominal hysterectomy specimen without adnexa. The uterus is about 9.0 x 5.5 x 3.5 cm. The cervical portion of the uterus is about 3.8 x 3.0 x 3.0 cm. The endometrial cavity is approximately 4.0 cm wide and 3.5 cm in length. The muscular uterine wall ranges from 1.2 to 1.5 cm. The right parametrial tissue is 2.0 x 1.2 x 0.5 cm, the left parametrial tissue is 1.3 x 1.0 x 0.5 cm, and a small portion of anterior paracervical tissue is 1.3 x 1.0 x 0.5 cm. The anterior vaginal cuff is 3.5 cm x 1.3 x 0.3 cm. The rim of posterior vaginal cuff is 0.8 x 0.2 x 0.2 cm. The cervical os is approximately 0.3 cm.\n\nThere is a tan soft to firm uterine tumor that involves a 4.2 x 4.0 cm area of the endometrium in the fundus and uterine corpus (posterior > anterior) and extends into the lower uterine segment, but not into the cervix. Myometrial invasion is present, up to 1.5 cm into a 1.5 cm wall. The tumor focally penetrates the uterine serosa and abuts the uterine serosa elsewhere. The parametrial tissues and vaginal cuff are grossly free of tumor.\n\nThe endocervical mucosa in the transformation zone appears irregular, fibrotic, and ulcerated. No distinct mass or invasive tumor is seen. The ectocervical mucosa shows patchy areas of erosion and/or defects, including a 0.7 x 0.6 cm oval lesion in the 6:00-9:00 quadrant. No invasive tumor is evident on gross inspection of the cervix. The cervix also shows several mucus-filled cysts, the largest of which is about 0.3 cm in diameter. The vaginal cuff is grossly unremarkable. There is very little grossly uninvolved endometrium, that is up to 0.1 cm in thickness. There are foci of hemorrhage in the endometrium and superficial myometrium. There is a 0.3 cm diameter leiomyoma composed of firm tan solid tissue in the lower uterine segment. No areas of necrosis or hemorrhage are seen in the leiomyoma. A few uterine serosal adhesions are also present.\n\nGross photographs are obtained.\n\nInk key: Anterior uterus - yellow; posterior uterus - black.\n\nRepresentative sections.\n\nSURGICAL PATHOLOGY REPORT\n\nPage 7 of 10",
+          "confidence": {
+            "mean_probability": 0.9956972723996934,
+            "mean_log_probability": -0.007280635036496352,
+            "perplexity": 1.0073072032985646,
+            "min_probability": 0.08676647193209316
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 823,
+            "total_tokens": 3295
+          },
+          "composite_score": 0.9445067119973604
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 8,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.566673994064331,
+        "chars": 1860,
+        "words": 336,
+        "text": "PATIENT:\n\nSlide key:\nG1. Remnant of frozen section G1 (FSG1) - 1\nG2. Remnant of frozen section G2 (FSG2) - 1\nG3. Anterior paracervical tissues - 1\nG4. Left parametrial tissue - 2\nG5, G6. Right parametrial tissue - 2 each\nG7. Anterior vaginal cuff, en face margin - 1\nG8. Posterior vaginal cuff margin - 1\nG9-G11. Cervix, 12:00-3:00 - 1 each\nG12-G14. Cervix, 3:00-6:00 - 1 each\nG15. Cervix - 6:00-9:00, including oval ulceration - 1\nG16-G17. Cervix, 6:00-9:00 - 1 each\nG18-G20. Cervix, 9:00-12:00 - 1 each\nG21. Anterior lower uterine segment and upper endocervix - 1\nG22. Posterior lower uterine segment - 1\nG23. Anterior lower uterine segment with leiomyoma - 1\nG24. Posterior lower uterine corpus - 1\nG25-G28. Uterine tumor; deepest tumor with adjacent serosa - 1 each\nG29. Tumor with adjacent grossly uninvolved mucosa - 1\n\nH. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is a 4.2 x 3.0 x 1.5 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft tan lymph nodes ranging from about 0.1 to 1.2 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nH1. One lymph node, \"bisected\", and perinodal fat - 2\nH2. Two tiny lymph nodes and fat - 1\nH3. Two lymph nodes and fat - 3\nH4. One lymph node and fat - 2\nH5. Two small lymph nodes and fat - 2\nH6. Two small lymph nodes.\n\nI. LEFT COMMON LYMPH NODE\nLabeled with the patient's name, labeled \"left common lymph node\", and received in formalin is a 3.2 x 2.0 x 0.5 cm soft yellow adipose tissue within which there are four soft tan lymph nodes ranging from about 0.1 to 1.0 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nI1. One lymph node, bisected - 2\nI2. Three small lymph nodes and fat - 2\n\n\nSURGICAL PATHOLOGY REPORT\n\nPage 8 of 10",
+        "confidence": {
+          "mean_probability": 0.9948016015603666,
+          "mean_log_probability": -0.006286877419354838,
+          "perplexity": 1.0063066813129964,
+          "min_probability": 0.4549621728866842
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 621,
+          "total_tokens": 3093
+        },
+        "composite_score": 0.9810019203784293,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.566673994064331,
+          "chars": 1860,
+          "words": 336,
+          "text": "PATIENT:\n\nSlide key:\nG1. Remnant of frozen section G1 (FSG1) - 1\nG2. Remnant of frozen section G2 (FSG2) - 1\nG3. Anterior paracervical tissues - 1\nG4. Left parametrial tissue - 2\nG5, G6. Right parametrial tissue - 2 each\nG7. Anterior vaginal cuff, en face margin - 1\nG8. Posterior vaginal cuff margin - 1\nG9-G11. Cervix, 12:00-3:00 - 1 each\nG12-G14. Cervix, 3:00-6:00 - 1 each\nG15. Cervix - 6:00-9:00, including oval ulceration - 1\nG16-G17. Cervix, 6:00-9:00 - 1 each\nG18-G20. Cervix, 9:00-12:00 - 1 each\nG21. Anterior lower uterine segment and upper endocervix - 1\nG22. Posterior lower uterine segment - 1\nG23. Anterior lower uterine segment with leiomyoma - 1\nG24. Posterior lower uterine corpus - 1\nG25-G28. Uterine tumor; deepest tumor with adjacent serosa - 1 each\nG29. Tumor with adjacent grossly uninvolved mucosa - 1\n\nH. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is a 4.2 x 3.0 x 1.5 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft tan lymph nodes ranging from about 0.1 to 1.2 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nH1. One lymph node, \"bisected\", and perinodal fat - 2\nH2. Two tiny lymph nodes and fat - 1\nH3. Two lymph nodes and fat - 3\nH4. One lymph node and fat - 2\nH5. Two small lymph nodes and fat - 2\nH6. Two small lymph nodes.\n\nI. LEFT COMMON LYMPH NODE\nLabeled with the patient's name, labeled \"left common lymph node\", and received in formalin is a 3.2 x 2.0 x 0.5 cm soft yellow adipose tissue within which there are four soft tan lymph nodes ranging from about 0.1 to 1.0 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nI1. One lymph node, bisected - 2\nI2. Three small lymph nodes and fat - 2\n\n\nSURGICAL PATHOLOGY REPORT\n\nPage 8 of 10",
+          "confidence": {
+            "mean_probability": 0.9948016015603666,
+            "mean_log_probability": -0.006286877419354838,
+            "perplexity": 1.0063066813129964,
+            "min_probability": 0.4549621728866842
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 621,
+            "total_tokens": 3093
+          },
+          "composite_score": 0.9810019203784293,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.239956378936768,
+          "chars": 1860,
+          "words": 336,
+          "text": "PATIENT:\n\nSlide key:\nG1. Remnant of frozen section G1 (FSG1) - 1\nG2. Remnant of frozen section G2 (FSG2) - 1\nG3. Anterior paracervical tissues - 1\nG4. Left parametrial tissue - 2\nG5, G6. Right parametrial tissue - 2 each\nG7. Anterior vaginal cuff, en face margin - 1\nG8. Posterior vaginal cuff margin - 1\nG9-G11. Cervix, 12:00-3:00 - 1 each\nG12-G14. Cervix, 3:00-6:00 - 1 each\nG15. Cervix - 6:00-9:00, including oval ulceration - 1\nG16-G17. Cervix, 6:00-9:00 - 1 each\nG18-G20. Cervix, 9:00-12:00 - 1 each\nG21. Anterior lower uterine segment and upper endocervix - 1\nG22. Posterior lower uterine segment - 1\nG23. Anterior lower uterine segment with leiomyoma - 1\nG24. Posterior lower uterine corpus - 1\nG25-G28. Uterine tumor; deepest tumor with adjacent serosa - 1 each\nG29. Tumor with adjacent grossly uninvolved mucosa - 1\n\nH. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is a 4.2 x 3.0 x 1.5 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft tan lymph nodes ranging from about 0.1 to 1.2 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nH1. One lymph node, \"bisected\", and perinodal fat - 2\nH2. Two tiny lymph nodes and fat - 1\nH3. Two lymph nodes and fat - 3\nH4. One lymph node and fat - 2\nH5. Two small lymph nodes and fat - 2\nH6. Two small lymph nodes.\n\nI. LEFT COMMON LYMPH NODE\nLabeled with the patient's name, labeled \"left common lymph node\", and received in formalin is a 3.2 x 2.0 x 0.5 cm soft yellow adipose tissue within which there are four soft tan lymph nodes ranging from about 0.1 to 1.0 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nI1. One lymph node, bisected - 2\nI2. Three small lymph nodes and fat - 2\n\n\nSURGICAL PATHOLOGY REPORT\n\nPage 8 of 10",
+          "confidence": {
+            "mean_probability": 0.9953238613800531,
+            "mean_log_probability": -0.0055139177419354845,
+            "perplexity": 1.005529147365131,
+            "min_probability": 0.530286421756987
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 621,
+            "total_tokens": 3093
+          },
+          "composite_score": 0.9325324023069899
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.88311505317688,
+          "chars": 1859,
+          "words": 336,
+          "text": "PATIENT:\n\nSlide key:\nG1. Remnant of frozen section G1 (FSG1) - 1\nG2. Remnant of frozen section G2 (FSG2) - 1\nG3. Anterior paracervical tissues - 1\nG4. Left parametrial tissue - 2\nG5, G6. Right parametrial tissue - 2 each\nG7. Anterior vaginal cuff, en face margin - 1\nG8. Posterior vaginal cuff margin - 1\nG9-G11. Cervix, 12:00-3:00 - 1 each\nG12-G14. Cervix, 3:00-6:00 - 1 each\nG15. Cervix - 6:00-9:00, including oval ulceration - 1\nG16-G17. Cervix, 6:00-9:00 - 1 each\nG18-G20. Cervix, 9:00-12:00 - 1 each\nG21. Anterior lower uterine segment and upper endocervix - 1\nG22. Posterior lower uterine segment - 1\nG23. Anterior lower uterine segment with leiomyoma - 1\nG24. Posterior lower uterine corpus - 1\nG25-G28. Uterine tumor; deepest tumor with adjacent serosa - 1 each\nG29. Tumor with adjacent grossly uninvolved mucosa - 1\n\nH. LEFT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"left pelvic lymph node\", and received in formalin is a 4.2 x 3.0 x 1.5 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft tan lymph nodes ranging from about 0.1 to 1.2 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nH1. One lymph node, \"bisected\", and perinodal fat - 2\nH2. Two tiny lymph nodes and fat - 1\nH3. Two lymph nodes and fat - 3\nH4. One lymph node and fat - 2\nH5. Two small lymph nodes and fat - 2\nH6. Two small lymph nodes.\n\nI. LEFT COMMON LYMPH NODE\nLabeled with the patient's name, labeled \"left common lymph node\", and received in formalin is a 3.2 x 2.0 x 0.5 cm soft yellow adipose tissue within which there are four soft tan lymph nodes ranging from about 0.1 to 1.0 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nI1. One lymph node, bisected - 2\nI2. Three small lymph nodes and fat - 2\n\nSURGICAL PATHOLOGY REPORT\n\nPage 8 of 10",
+          "confidence": {
+            "mean_probability": 0.9951707606985968,
+            "mean_log_probability": -0.0059061112903225806,
+            "perplexity": 1.0059235867526783,
+            "min_probability": 0.40848135839799044
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 621,
+            "total_tokens": 3093
+          },
+          "composite_score": 0.9321427101995262
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 9,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.990543365478516,
+        "chars": 1641,
+        "words": 301,
+        "text": "PATIENT: \n\nLabeled with the patient's name, labeled \"left PA\", and received in formalin are three portions of yellow fatty tissue ranging from 0.8 x 0.5 x 0.4 cm to 1.7 x 0.8 x 0.4 cm. A single 0.5 cm soft tan lymph node is identified in one of the tissue fragments..\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nJ1. One lymph node and fat - 3\n\nK. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin are three portions of soft yellow fatty tissue ranging from 1.3 x 1.0 x 0.6 cm to 4.5 x 1.8 x 0.5 cm. Dissection of the fat reveals four soft tan lymph nodes ranging from about 0.2 and 0.9 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nK1. Two lymph nodes and perinodal fat - 2\nK2. Smallest lymph node and fat - 2\nK3. One lymph node and fat - 1\nK4. Fat - 1\n\nL. RIGHT PA\nLabeled with the patient's name, labeled \"right PA\", and received in formalin is a 4.0 x 2.2 x 1.0 cm portion of soft yellow fatty tissue within which there are two nodes. The larger lymph node is 4.0 x 1.5 x 1.0 cm and the smaller is about 0.2 cm in diameter.\n\nNo gross tumor is identified. The larger lymph node is partially replaced by fat.\n\nSlide key:\nL1, L2. One half of largest lymph node, bisected - 1 each\nL3. Other half of largest lymph node, bisected - 2\nL4. Second lymph node - 1\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nOPERATIVE CALL\nOPERATIVE CONSULT (FROZEN):\n\nFSD: No tumor seen, benign epithelial lesion\n\nG. FROZEN:\nInfiltrating carcinoma to serosa\n\nFSG1 (ENDOMETRIUM TO SEROSA):\n\nSURGICAL PATHOLOGY REPORT\n\nPage 9 of 10",
+        "confidence": {
+          "mean_probability": 0.9897360806192534,
+          "mean_log_probability": -0.014029854251012145,
+          "perplexity": 1.014128734540362,
+          "min_probability": 0.2382113438450218
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 495,
+          "total_tokens": 2967
+        },
+        "composite_score": 0.9530314073409604,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.990543365478516,
+          "chars": 1641,
+          "words": 301,
+          "text": "PATIENT: \n\nLabeled with the patient's name, labeled \"left PA\", and received in formalin are three portions of yellow fatty tissue ranging from 0.8 x 0.5 x 0.4 cm to 1.7 x 0.8 x 0.4 cm. A single 0.5 cm soft tan lymph node is identified in one of the tissue fragments..\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nJ1. One lymph node and fat - 3\n\nK. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin are three portions of soft yellow fatty tissue ranging from 1.3 x 1.0 x 0.6 cm to 4.5 x 1.8 x 0.5 cm. Dissection of the fat reveals four soft tan lymph nodes ranging from about 0.2 and 0.9 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nK1. Two lymph nodes and perinodal fat - 2\nK2. Smallest lymph node and fat - 2\nK3. One lymph node and fat - 1\nK4. Fat - 1\n\nL. RIGHT PA\nLabeled with the patient's name, labeled \"right PA\", and received in formalin is a 4.0 x 2.2 x 1.0 cm portion of soft yellow fatty tissue within which there are two nodes. The larger lymph node is 4.0 x 1.5 x 1.0 cm and the smaller is about 0.2 cm in diameter.\n\nNo gross tumor is identified. The larger lymph node is partially replaced by fat.\n\nSlide key:\nL1, L2. One half of largest lymph node, bisected - 1 each\nL3. Other half of largest lymph node, bisected - 2\nL4. Second lymph node - 1\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nOPERATIVE CALL\nOPERATIVE CONSULT (FROZEN):\n\nFSD: No tumor seen, benign epithelial lesion\n\nG. FROZEN:\nInfiltrating carcinoma to serosa\n\nFSG1 (ENDOMETRIUM TO SEROSA):\n\nSURGICAL PATHOLOGY REPORT\n\nPage 9 of 10",
+          "confidence": {
+            "mean_probability": 0.9897360806192534,
+            "mean_log_probability": -0.014029854251012145,
+            "perplexity": 1.014128734540362,
+            "min_probability": 0.2382113438450218
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 495,
+            "total_tokens": 2967
+          },
+          "composite_score": 0.9530314073409604,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.863269329071045,
+          "chars": 1641,
+          "words": 301,
+          "text": "PATIENT: \n\nLabeled with the patient's name, labeled \"left PA\", and received in formalin are three portions of yellow fatty tissue ranging from 0.8 x 0.5 x 0.4 cm to 1.7 x 0.8 x 0.4 cm. A single 0.5 cm soft tan lymph node is identified in one of the tissue fragments..\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nJ1. One lymph node and fat - 3\n\nK. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin are three portions of soft yellow fatty tissue ranging from 1.3 x 1.0 x 0.6 cm to 4.5 x 1.8 x 0.5 cm. Dissection of the fat reveals four soft tan lymph nodes ranging from about 0.2 and 0.9 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nK1. Two lymph nodes and perinodal fat - 2\nK2. Smallest lymph node and fat - 2\nK3. One lymph node and fat - 1\nK4. Fat - 1\n\nL. RIGHT PA\nLabeled with the patient's name, labeled \"right PA\", and received in formalin is a 4.0 x 2.2 x 1.0 cm portion of soft yellow fatty tissue within which there are two nodes. The larger lymph node is 4.0 x 1.5 x 1.0 cm and the smaller is about 0.2 cm in diameter.\n\nNo gross tumor is identified. The larger lymph node is partially replaced by fat.\n\nSlide key:\nL1, L2. One half of largest lymph node, bisected - 1 each\nL3. Other half of largest lymph node, bisected - 2\nL4. Second lymph node - 1\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nOPERATIVE CALL\nOPERATIVE CONSULT (FROZEN):\n\nFSD: No tumor seen, benign epithelial lesion\n\nG. FROZEN:\nInfiltrating carcinoma to serosa\n\nFSG1 (ENDOMETRIUM TO SEROSA):\n\nSURGICAL PATHOLOGY REPORT\n\nPage 9 of 10",
+          "confidence": {
+            "mean_probability": 0.9903861219876837,
+            "mean_log_probability": -0.012241188259109312,
+            "perplexity": 1.0123164182589104,
+            "min_probability": 0.35474111821485654
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 495,
+            "total_tokens": 2967
+          },
+          "composite_score": 0.9067042031969937
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.336775541305542,
+          "chars": 1641,
+          "words": 301,
+          "text": "PATIENT: \n\nLabeled with the patient's name, labeled \"left PA\", and received in formalin are three portions of yellow fatty tissue ranging from 0.8 x 0.5 x 0.4 cm to 1.7 x 0.8 x 0.4 cm. A single 0.5 cm soft tan lymph node is identified in one of the tissue fragments..\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nJ1. One lymph node and fat - 3\n\nK. RIGHT PELVIC LYMPH NODE\nLabeled with the patient's name, labeled \"right pelvic lymph node\", and received in formalin are three portions of soft yellow fatty tissue ranging from 1.3 x 1.0 x 0.6 cm to 4.5 x 1.8 x 0.5 cm. Dissection of the fat reveals four soft tan lymph nodes ranging from about 0.2 and 0.9 cm in maximum dimension.\n\nNo gross tumor is identified.\n\nEntirely submitted.\n\nSlide key:\nK1. Two lymph nodes and perinodal fat - 2\nK2. Smallest lymph node and fat - 2\nK3. One lymph node and fat - 1\nK4. Fat - 1\n\nL. RIGHT PA\nLabeled with the patient's name, labeled \"right PA\", and received in formalin is a 4.0 x 2.2 x 1.0 cm portion of soft yellow fatty tissue within which there are two nodes. The larger lymph node is 4.0 x 1.5 x 1.0 cm and the smaller is about 0.2 cm in diameter.\n\nNo gross tumor is identified. The larger lymph node is partially replaced by fat.\n\nSlide key:\nL1, L2. One half of largest lymph node, bisected - 1 each\nL3. Other half of largest lymph node, bisected - 2\nL4. Second lymph node - 1\n\nGross dictated by\n\nINTRAOPERATIVE CONSULTATION:\nOPERATIVE CALL\nOPERATIVE CONSULT (FROZEN):\n\nFSD: No tumor seen, benign epithelial lesion\n\nG. FROZEN:\nInfiltrating carcinoma to serosa\n\nFSG1 (ENDOMETRIUM TO SEROSA):\n\nSURGICAL PATHOLOGY REPORT\n\nPage 9 of 10",
+          "confidence": {
+            "mean_probability": 0.9904235091963796,
+            "mean_log_probability": -0.012243313765182187,
+            "perplexity": 1.0123185699458916,
+            "min_probability": 0.31824460301733803
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 495,
+            "total_tokens": 2967
+          },
+          "composite_score": 0.9067026266496369
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 10,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 4.461184740066528,
+        "chars": 997,
+        "words": 141,
+        "text": "PATIENT:  \nFSG2 (SEROSAL TUMOR):  \nTissue given for research  \nM.D., ;  \n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.  \nElectronically signed  \nElectronically signed  \nElectronically signed  \n\n|riteria | Yes | No |  \n|-----------------------------|-----|----|  \n|iagnosis Discrepancy | | / |  \n|rimary Tumor Site Discrepancy | | / |  \n|IPAA Discrepancy | | / |  \n|rior Malignancy History | | / |  \n|ual/Synchronous Primary Noted | | / |  \n|ase is (circle): QUALIFIED | DISQUALIFIED |  \n|eviewer Initials | \\\\\\ | ate Reviewed: \\\\\\ |  \n\nSURGICAL PATHOLOGY REPORT  \nIf this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their  \nThose  \nperformance characteristics determined by  \nimmunohistochemical tests have not been cleared or approved by the U.S. food and drug administration (FDA), and therefore approval is not required.  \n\nPage 10 of 10",
+        "confidence": {
+          "mean_probability": 0.897168095628464,
+          "mean_log_probability": -0.15727562753036436,
+          "perplexity": 1.1703181413491903,
+          "min_probability": 0.09456820110228693
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 248,
+          "total_tokens": 2720
+        },
+        "composite_score": 0.7514297721082195,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 34.2% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 34.2% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.033073902130127,
+          "chars": 1961,
+          "words": 113,
+          "text": "PATIENT:                                                                                        \n\nFSG2 (SEROSAL TUMOR):\n                 Tissue given for research\n                 M.D., ;\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\n                                  Electronically signed '\n                                  Electronically signed\n                                  Electronically signed\n\n\n                                                                                 riteria                  Yes      No\n                                                                                 iagnosis Discrepancy\n                                                                                 rimary Tumor Site Discrepancy\n                                                                                 IPAA Discrepancy\n                                                                                 rior Malignancy History\n                                                                                 ual/Synchronous Primary Noted\n                                                                                 ase is (circle): QUALIFIED) DISQUALIFIED\n                                                                                 eviewer Initials: \\\\\\\\  ate Reviewed:  3/4/1\n\nSURGICAL PATHOLOGY REPORT\nIf this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their\n                                                                                                                        Those\nperformance characteristics determined by\nimmunohistochemical tests have not been cleared or approved by the U.S. food and drug administration (FDA), and therefore approval is not required.\n\n                                                                                          Page 10 of 10",
+          "confidence": {
+            "mean_probability": 0.8511870786216292,
+            "mean_log_probability": -0.28981226250000003,
+            "perplexity": 1.3361766140199052,
+            "min_probability": 0.03523712727879165
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 241,
+            "total_tokens": 2713
+          },
+          "composite_score": 0.34286502805211544
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.595356464385986,
+          "chars": 1007,
+          "words": 132,
+          "text": "PATIENT: \n\nFSG2 (SEROSAL TUMOR):\nTissue given for research\nM.D.,\n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.\nElectronically signed\nElectronically signed\nElectronically signed\n\n\n|riteria | Yes | No |\n|-----------------------------|-----|----|\n|iagnosis Discrepancy          |     |    |\n|rimary Tumor Site Discrepancy |     |    |\n|IPAA Discrepancy              |     |    |\n|rior Malignancy History       |     |    |\n|ual/Synchronous Primary Noted |     |    |\n|ase is (circle): QUALIFIED DISQUALIFIED |\n|eviewer Initials:  \\\\\\  |ate Reviewed:  \\\\\\  |\n\nSURGICAL PATHOLOGY REPORT\nIf this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their\nThose\nperformance characteristics determined by\nimmunohistochemical tests have not been cleared or approved by the U.S. food and drug administration (FDA), and therefore approval is not required.\n\nPage 10 of 10",
+          "confidence": {
+            "mean_probability": 0.8858081221448788,
+            "mean_log_probability": -0.18753833061224492,
+            "perplexity": 1.206276485851079,
+            "min_probability": 0.05658733964370485
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 246,
+            "total_tokens": 2718
+          },
+          "composite_score": 0.7356443424841924
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 4.461184740066528,
+          "chars": 997,
+          "words": 141,
+          "text": "PATIENT:  \nFSG2 (SEROSAL TUMOR):  \nTissue given for research  \nM.D., ;  \n\nI have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.  \nElectronically signed  \nElectronically signed  \nElectronically signed  \n\n|riteria | Yes | No |  \n|-----------------------------|-----|----|  \n|iagnosis Discrepancy | | / |  \n|rimary Tumor Site Discrepancy | | / |  \n|IPAA Discrepancy | | / |  \n|rior Malignancy History | | / |  \n|ual/Synchronous Primary Noted | | / |  \n|ase is (circle): QUALIFIED | DISQUALIFIED |  \n|eviewer Initials | \\\\\\ | ate Reviewed: \\\\\\ |  \n\nSURGICAL PATHOLOGY REPORT  \nIf this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their  \nThose  \nperformance characteristics determined by  \nimmunohistochemical tests have not been cleared or approved by the U.S. food and drug administration (FDA), and therefore approval is not required.  \n\nPage 10 of 10",
+          "confidence": {
+            "mean_probability": 0.897168095628464,
+            "mean_log_probability": -0.15727562753036436,
+            "perplexity": 1.1703181413491903,
+            "min_probability": 0.09456820110228693
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 248,
+            "total_tokens": 2720
+          },
+          "composite_score": 0.7514297721082195,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 34.2% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 34.2% - results inconsistent"
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
