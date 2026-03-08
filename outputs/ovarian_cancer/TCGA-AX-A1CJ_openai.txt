@@ -1,0 +1,205 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1CJ\TCGA-AX-A1CJ.pdf
+Processing Date: 2026-03-08 14:23:08
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Adenocarcinoma, endometrioid, nos 83303/3
+Site Code: Endometrium C54.1
+1/9/11
+hw
+
+                                SURGICAL PATHOLOGY REPORT
+PATIENT:                             PATHOLOGY NO:
+MR #:                               LOCATION:          UNIT:
+ACCT #:                            RM:
+DOB:                               DOCUMENT TYPE:
+AGE:                               SEX:  F           OFFICE CHART/IDX #:
+_________________________________________________________________________________________
+REQUESTING PHYSICIAN:
+COPY TO PHYSICIAN(S):
+
+DATE RECEIVED:                     UUID:AC9C3BB1-9B41-4B1F-BCEA-F6A0C68921B3
+SPECIMEN(S) SUBMITTED:             TCGA-AX-A1CJ-01A-PR
+A. Normal Tissue                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+```
+                                                                                        
+
+                             SURGICAL PATHOLOGY REPORT
+PATIENT:                                                                                 PATHOLOGY NO:
+MR #:                                                                                   LOCATION:        UNIT:
+ACCT #:                                                                                RM:
+DOB:
+AGE:                     SEX:      F                                                  DOCUMENT TYPE:
+                                                                                      OFFICE CHART/IDX #:
+REQUESTING PHYSICIAN:
+COPY TO PHYSICIAN(S):
+
+DATE RECEIVED:
+SPECIMEN(S) SUBMITTED:
+A. Normal Tissue
+B. Cervix
+C. Left External Iliac Lymph Node
+D. Left Common Iliac Lymph Node
+E. Left Periaortic Lymph Node
+F. Right External Lymph Node
+G. Right Common Iliac Lymph Node
+H. Right Periaortic Lymph Node
+I. Uterus, Tubes , and Ovaries
+
+SPECIAL ANATOMIC STUDIES REQUESTED:
+PRE/POST OP DIAGNOSIS: Endometrioid Grade II cancer
+CLINICAL INFORMATION:
+OPERATION PERFORMED:          TAH, BSO, nodes
+DATE OF OPERATION:
+DATE DICTATED:                                               CULTURES TAKEN?
+                                                             DATE TRANSCRIBED:
+GROSS DESCRIPTION: The information submitted on the requisition form and on the specimen container label have been
+reviewed and verified to match. The specimen is received in nine parts.
+
+Specimen A is received unfixed labeled as                       e, "normal tissue", and consists of a single fragment of soft
+tan tissue measuring 1.7 cm in length x 0.6 cm in width x 0.3 cm in thickness. A red tan surface is grossly identifiable. The
+specimen is submitted entirely in cassette A.
+
+Specimen B is received unfixed labeled as                       "cervix", and consists of three fragments of tan to tan-pink
+soft tissue measuring 0.8 x 0.4 x 0.2 cm, 2 x 1.2 x 0.9 cm, and 2.2 x 1.4 x 0.4 cm in greatest dimension, respectively.
+Thermal artifact is identified on the surface. A tan to tan-white smooth lining is identified in one fragment. Sectioning
+reveals tan homogeneous cut surface without any identifiable lesion.
+
+SUMMARY OF SECTIONS: B1 - the fragment with identifiable smooth lining submitted entirely; B2 - representative
+sections from the larger fragment; B3 - representative sections from the larger fragment and some small fragments
+(approximately 90% of the specimen is submitted).
+
+Specimen C is received unfixed labeled as                        "left external iliac lymph node", and consists of a single
+fragment of fibroadipose tissue measuring 1 x 0.5 x 0.2 cm in its greatest dimension. No lymph nodes are identified on
+gross examination. The specimen is entirely submitted in cassette C.
+
+                                                                                   SURGICAL PATHOLOGY REPORT
+                                                                                          Page 1 of 4
+```
+
+================================================================================
+PAGE 3
+================================================================================
+Department of Pathology
+
+PATIENT:
+PATHOLOGY #:
+
+Specimen D is received unfixed labeled as , left common iliac lymph node", and consists of a small fragment of tan-yellow adipose tissue measuring 0.2 x 0.2 x 0.1 cm in greatest dimension. No lymph nodes are identified on gross examination. The specimen is submitted entirely in cassette D. .
+
+Specimen E is received unfixed labeled as "left periaortic lymph node", and consists of two fragments of tan-yellow adipose tissue measuring 0.6 x 0.5 x 0.2 cm in greatest dimension. A single lymph node is identified on examination measuring 0.2 cm in diameter. The specimen is entirely submitted in cassette E.
+
+Specimen F is received unfixed labeled as "right external iliac node", and consists of a single fragment of tan adipose tissue measuring 0.6 x 0.4 x 0.2 cm in greatest dimension. No lymph node structure is identified on gross examination. The specimen is entirely submitted in cassette F.
+
+Specimen G is received unfixed labeled as "right common iliac lymph node", and consists of a single tiny fragment of tan-yellow adipose tissue measuring 0.4 x 0.3 x 0.2 cm in greatest dimension. No lymph node structure is identified on gross examination. The specimen is entirely submitted in cassette G.
+
+Specimen H is received unfixed labeled as "right periaortic lymph node", and consists of a single fragment of tan adipose tissue measuring 0.6 x 0.4 x 0.2 cm in its greatest dimension. No lymph nodes are identified on gross examination. The specimen is entirely submitted in cassette H.
+
+Specimen I is received unfixed labeled "uterus/cervix, tubes/ovaries". It contains a previously opened uterus with attached bilateral adnexa. The uterus weighs 218 grams and measures 11 cm in length, 7 cm between the cornu, 4 cm anteroposteriorly. The serosal surface is pink-tan, smooth and glistening. The uterus disrupted along the lateral surface. The uterus is inked as follows: anterior surface green and posterior surface orange. The endometrial cavity measures approximately 4 cm x 7 cm. It is lined by a tan-white to tan, soft, friable tumor mass on the anterior, fundic and upper portion of the posterior surface, which measures 4.5 x 2.8 cm in greatest dimension. The maximal endometrial thickness is approximately 1 cm. Sectioning through the myometrium reveals myometrial invasion to a depth of 1.8 cm in an area of myometrial thickness of 2.6 cm. No tumor is seen at the inked serosal surface. The lower uterine segment has tan smooth lining and does not appear to be involved by tumor. The uninvolved endometrium is measures 0.2 cm in thickness. The uninvolved myometrium has a tan, trabecular, unremarkable appearance. The myometrium is 3.5 cm in maximal thickness. Multiple white-tan, intramural nodules are seen ranging in size from 0.8 cm to 1.2 cm. The cut surface of the nodules has a whorled appearance. No areas of hemorrhage or necrosis are seen. There is no vaginal cuff attached to cervix. The ectocervix measures 3.2 cm in length and 1.2 cm in diameter. The ectocervix has tan, smooth, glistening surface. The cervical os is slit-like and measures 0.3 cm in length. The ectocervical mucosa is tan and appears unremarkable. The endocervical canal has unremarkable palmate folds overlying glistening tan mucosa. The endometrial tumor does not appear to extend to the endocervix. The left ovary weighs 4 grams and measures 3 x 2 x 1 cm. The surface is tan-white, smooth, glistening, with an unremarkable cerebriform appearance. The cut surface is tan-pink, and unremarkable. The left fallopian tube measures 5 cm in length with diameter varies from 0.4 cm to 1 cm. The left fallopian tube appears dilated. The serosal surface is pink-tan, smooth and glistening. Fimbriated end is identified. Cut section reveals a cyst, contains clear tan fluid, measures 1 cm in diameter. The cyst wall is lined by smooth lining.
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 4
+
+================================================================================
+PAGE 4
+================================================================================
+Department ot Pathology
+
+PATIENT: .
+PATHOLOGY #.__________________________________________________________
+
+The right ovary weighs 4 grams, and measures 2.5 x 1.5 x 0.8 cm. The surface is tan-white, smooth and glistening, with an unremarkable cerebriform appearance. The cut surface is pink-tan, and unremarkable. Corpora albicantia are identified. The right fallopian tube measures 6 cm in length x 0.6 cm in diameter. Fimbriated end is identified. Sectioning reveals a pinpoint lumen.
+
+Representative sections are submitted.
+
+SUMMARY OF SECTIONS: 11 through 14 - anterior cervix, endocervical canal, lower uterine segment, and corpus tumor, sequentially sectioned (11-cervix with endocervix; 12-endocervical canal; 13-section from lower uterine segment; 14-the tumor with anterior uterine wall); 15 through 18 - posterior cervix from cervix to uterine cavity with tumor (15-cervix with endocervix; 16-representative section from posterior endocervical canal; 17- posterior lower uterine segment; 18- posterior uterine wall with tumor); 19 and 110 - full thickness section of anterior uterine wall with maximal tumor thickness bisected; 111 - anterior uterine wall, full thickness with tumor; 112 and 113 - posterior uterine wall full thickness with tumor (with maximal tumor invasion bisected); 114- posterior uterine wall. 115 - right paracervical and parauterine tissue; 116 - left paracervical and parauterine tissue; 117 - posterior uterine wall with intramural leiomyomata; 118 and 119 - posterior uterine wall, full thickness, with tumor and unremarkable endometrium bisected; 120 - left fallopian tube, dilated portion of fallopian tube with cyst, left ovary; 121 - right ovary and right fallopian tube. (
+
+MICROSCOPIC: Microscopic examination is performed.
+
+DIAGNOSIS:
+A. Normal tissue, biopsy:
+    1. Benign fibrovascular tissue with congested blood vessels and mild chronic inflammation.
+    2. No malignancy is seen.
+
+B. Cervix, excision:
+    1. Mild acute and chronic cervicitis.
+    2. No dysplasia or malignancy is seen.
+
+C. Left external iliac lymph node, biopsy:
+    1. Benign mature adipose tissue.
+    2. No lymph nodes are identified.
+    3. No malignancy is identified.
+
+D. Left common iliac lymph node, biopsy:
+    1. Benign mature adipose tissue.
+    2. No lymph nodes are identified.
+    3. No malignancy is identified.
+
+E. Left periaortic lymph node, biopsy:
+    1. Benign fibroadipose tissue.
+    2. No lymph nodes are identified.
+    3. No malignancy is identified.
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 4
+
+================================================================================
+PAGE 5
+================================================================================
+Department of Pathology
+
+PATIENT:
+PATHOLOGY #: i
+
+Criteria
+Diagnosis Discrepancy  Yes No
+Primary Tumor Site Discrepancy  ✓
+HIPAA Discrepancy  ✓
+Prior Malignancy History  ✓
+Dual/Synchronous Primary  ✓
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials  RB Date Reviewed: 1/7/10
+
+F. Right external lymph node, biopsy:
+1. Benign fibroadipose tissue.
+2. No lymph nodes are identified.
+3. No malignancy is identified.
+
+G. Right common iliac lymph node, biopsy:
+1. Benign mature adipose tissue.
+2. No lymph nodes are identified.
+3. No malignancy is identified.
+
+H. Right periaortic lymph node, biopsy:
+1. Benign fibroadipose tissue.
+2. No lymph nodes are identified.
+3. No malignancy is identified.
+
+I. Uterus, bilateral fallopian tubes and bilateral ovaries, total abdominal hysterectomy with bilateral salpingo-oophorectomy:
+1. Endometrioid adenocarcinoma of the endometrium, moderately differentiated.
+2. FIGO grade 2 (architectural grade 2, nuclear grade 2).
+3. Adenocarcinoma invades for a depth of 1.9 cm in an area of myometrial thickness of 3 cm (invasion through 63 % of the myometrium).
+4. No adenocarcinoma is seen at the inked serosal surface.
+5. Adenocarcinoma does not involve the lower uterine segment or the uterine cervix.
+6. Lymphovascular space invasion is identified.
+7. Cystic atrophy of the adjacent nonneoplastic endometrium.
+8. Leiomyomata
+9. Acute and chronic cervicitis is seen.
+10. Right and left ovaries within normal limits.
+11. Left fallopian tube with hydrosalpinx.
+12. Right fallopian tube within normal limits.
+13. No malignancy identified in fallopian tubes or ovaries.
+14. Pathologic TNM classification: pT1c, pNX, pMX.
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 4

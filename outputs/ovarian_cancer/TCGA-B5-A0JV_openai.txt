@@ -1,0 +1,117 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JV\TCGA-B5-A0JV.pdf
+Processing Date: 2026-03-08 16:53:10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 2
+
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm of the corpus uteri, abnormal bleeding (post menopausal).
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1-2)". Received fresh is a 179.2 gram (11 x 7.5 x 4 cm) uterus with bilateral adnexa. The serosal surface (anterior) discloses multiple subserosal leiomyomata (0.6 cm) and a 2 cm powder burn mark. The opened specimen reveals a 6 x 4 cm exophytic tumor diffusely involving both anterior and posterior endometrial surfaces, invading to a maximum depth of 0.6 cm in a a 2.3 cm thick myometrium (A1, frozen section remnant AF1). The tumor extends to within 1.5 cm of the anterior endocervical os, and 2.5 cm from the posterior endocervical os. . The cervix (posterior) discloses a 0.6 x 0.6 cm endophytic polyp located 1 cm from the exocervical os. The right adnexa consist of an ovary and fimbriated fallopian tube (2/5 cm) which are both unremarkable. The left adnexa consist of an ovary and fimbriated fallopian tube (1.9/5.5 cm) and are both unremarkable. The paracervical soft tissue margins are grossly negative, and the remainder of the myometrium is unremarkable.
+
+BLOCK SUMMARY:
+A1-2- frozen section remnant AF1-2, respectively
+A3- tumor with anterior LOS
+A4- posterior endometrium with tumor
+A5- posterior cervix with polyp
+A6- anterior cervix
+A7- right ovary and fallopian tube
+A8- left ovary and fallopian tube
+A9- serosal leiomyoma and powder burn mark
+
+B. "Proximal right IP". Received fresh is a 1.5 x 1 x 1 cm fragment of fibroadipose tissue. The specimen is unoriented and unremarkable. The specimen is bisected and submitted entirely in block B1.
+
+C. "Right periaortic node". Received fresh is a 2.5 x 2 x 0.7 cm fragment of fibroadipose tissue. The specimen contains one 2 cm lymph node which is bisected and submitted entirely in block C1.
+
+D. "Right pelvic node". Received fresh is a 6 x 4 x 1.7 cm aggregate of multiple fragments of fibroadipose tissue. Multiple candidate nodes are found, the largest of which is 3 cm in greatest dimension.
+
+BLOCK SUMMARY:
+D1- largest node bisected
+D2- two lymph node candidates (one black and bisected)
+D3- additional candidates
+
+E. "Left periaortic", received fresh and placed in formalin is a 1 x 1 cm lymph node candidate. The specimen is submitted entirely in block E1.
+
+F. "Left pelvic node", received fresh and placed in formalin is a 5.5 x 3 x 1.5 cm aggregate of fibroadipose tissue. Multiple lymph node candidates are found, the largest of which is 2 cm in greatest dimension. The candidates are inserted in blocks F1-3.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus & bilateral adnexa":
+
+Criteria Yes No
+Diagnosis Discrepancy X
+Primary Tumor Site Discrepancy X
+HIPAA Discrepancy X
+Prior Malignancy History X
+Dual/Synchronous Pr Noted
+Case is (circle): QUALIFIED / DISQUALIFIED
+Review
+
+Redacted
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 2
+
+AF1-2- Adenocarcinoma, FIGO grade 2, with 6 mm myometrium invasion in a
+          2.3 cm thick wall. Adenomyosis is present (Dr.
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT2b pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 179 GRAMS
+         ENDOMETRIUM:
+               TUMOR SITE: DIFFUSE
+               HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+               FIGO GRADE: 2
+               TUMOR SIZE: 6 X 4 X 1.1 CM.
+               MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.6 CM IN A 2.3 CM THICK WALL.
+               LYMPHATIC/VASCULAR INVASION: ABSENT
+               ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC
+REMAINING MYOMETRIUM: ADENOMYOSIS, LEIOMYOMA (0.6 CM MAX)
+CERVIX: INVOLVED WITH TUMOR (2 MM NODULE AT TIP OF ENDOCERVICAL POLYP)
+SEROSA: NOT INVOLVED
+SPECIMEN MARGINS: NOT INVOLVED
+
+SPECIMENS FREE OF TUMOR:
+A. BILATERAL FALLOPIAN TUBES AND OVARIES
+B. PROXIMAL RIGHT INFUNDIBULOPELVIC LIGAMENT
+C. RIGHT PERIAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).
+D. RIGHT PELVIC LYMPH NODE: NO TUMOR IN 9 LYMPH NODES (0/9).
+E. LEFT PERIAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).
+F. LEFT PELVIC LYMPH NODE: NO TUMOR IN 7 LYMPH NODES (0/7).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+[Redacted signature and information]

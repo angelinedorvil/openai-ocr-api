@@ -1,0 +1,204 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A2HD\TCGA-AX-A2HD.pdf
+Processing Date: 2026-03-08 15:32:35
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+C. Clara
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HPA Discrepancy
+Your Malignancy History
+Date/Synchronous Primary Added
+Case # (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials RB Date Reviewed 6/19/11
+no  yes  no  yes  no  yes  no  yes  no  yes  no  yes  no  yes
+6/19/11
+
+PATIENT: 
+SEX: Female
+
+1CD-0-3
+adenocarcinoma, endometrioid, NOS
+8380/3
+Site: endometrium C54.1 lw 6/19/11
+
+UUID: 83BDA3FE-254F-4F99-B41E-FC1F8C128906
+TCGA-AX-A2HD-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+PATIENT
+SEX: Female
+MRN:
+FIN:
+
+Surgical Pathology Report - Final
+
+COLLECTED DATE / TIME RECEIVED DATE / TIME ACCESSION NUMBER
+
+-C. Left obturator (0/4)
+-D. Left common iliac (0/2)
+-E. Left periaortic (0/1)
+-G. Right common iliac (0/3)
+-H. Right periaortic (0/1)
+-I. Right external iliac (0/5)
+-J. Right obturator (0/4).
+
+AJCC (8th edition) staging: per surgeon.
+
+Comment
+This poorly differentiated carcinoma demonstrates focal glandular and squamous differentiation, consistent with endometrioid adenocarcinoma. A sarcomatous component is not identified.
+
+Intraoperative Consultation
+A. Tumor tissue sent to Precision Therapeutics for drug resistance assay on (confirmed by I. Tumor tissue collected for studies.
+
+Specimen
+A. Uterus, bilateral tubes and ovaries
+B. Left external iliac lymph nodes
+C. Left obturator lymph nodes
+D. Left common iliac lymph nodes
+E. Left periaortic lymph nodes
+F. Sigmoid adhesions
+G. Right common iliac lymph nodes
+H. Right periaortic lymph nodes
+I. Right external iliac lymph nodes
+J. Right obturator lymph nodes
+K. Omentum
+
+Gross Description
+A. Received fresh for triage, labeled with the patient's name and designated "uterus, bilateral tubes and ovaries", is a previously bivalved uterus with attached cervix, left tube and ovary and possible disrupted right adnexa. The specimen weighs 215 gm and measures 10 cm from fundus to ectocervix, 9 cm from cornu to cornu and up to 5 cm from anterior to posterior. Gross photographs are taken prior to sectioning. In the fresh state tissue is procured from the left tube for the study. The serosal surface is purple-tan and diffusely congested with multiple bulging nodules present. On the posterior body near the right lateral wall is an area of exposed gray-white tissue possibly representing perforation site of the wall. The anterior wall is inked blue and the posterior wall is inked black to include the
+
+PAGE 2 OF 5
+
+================================================================================
+PAGE 3
+================================================================================
+PATIENT:                                                                                      SEX: Female
+
+MRN:                                                                                          PHN:
+
+                             Surgical Pathology Report - Final
+
+COLLECTED DATE / TIME:       RECEIVED DATE / TIME:           ACCESSION NUMBER:
+
+exposed tumor. The cervical mucosa is purple-tan and congested throughout. Focal areas of green exudate-like material protrude from the endocervical canal to the cervical mucosa. The cervix measures 3.8 cm in thickness. Located within the posterior upper endocervical canal, located 2 cm from the cervical mucosa, is a bulging lesion that extends to involve the anterior and posterior bodies and fundus. This lesion appears to occupy the anatomic junction of the lower uterine segment and upper endocervical canal within the posterior plane. The anterior upper endocervical canal is similar in appearance. A lesion extends to within 2.6 cm of the anterior cervical mucosa at this site. A shift is made at the anatomic junction of the lower uterine segment and upper endocervical canal. There is a focal area of necrosis amount of attached bilateral parametia with the left side bearing focal areas of yellow chalky discoloration suggestive of involvement. The endometrial mass measures 7.5 x 7.5 x 4.5 cm. The endometrial chalky and myometrium are completely replaced by the lesion which extends through the serosal surface on the posterior plane. No normal-appearing endometrium or myometrium is identified. Bilaterally the walls are involved. Focal areas of chalky yellow-white discoloration are noted with possible calcification within the anterior and posterior body.
+
+A separately submitted, 3 cm in greatest dimension papillary-appearing portion of purple-tan soft tissue is received within the accompanying container. This tissue is similar in appearance to that noted within the body of the endometrial cavity with adherent blood clot. The left tube has been previously sampled for the study. The tubal remnant bearing the fimbria measures 1 cm in length and 0.5 cm in diameter. Sectioning through the soft tissue attached at the cornua reveals small caliber blood vessels circumvented by gelatinous soft tissue. The left tap cerebriform ovary measures 1.5 x 1 x 0.8 cm. The ovarian parenchyma is remarkable for a calcified cyst that measures 0.7 cm in greatest dimension. No evidence of surface nodularity or involvement by metastatic disease is noted within the ovary.
+
+The right adnexa is visibly absent. A possible round ligament remnant extends from the cornua. The round ligament remnant measures 2 cm in length and 0.6 cm in diameter with multiple small caliber blood vessels extending parallel to the long axis. Ovarian tissue is not identified. Perpendicular sections are taken at the right adnexa and all identifiable soft tissue at this site is submitted.
+Cassette Key:
+1. Anterior cervix
+2. Anterior upper endocervical canal
+3. Posterior cervix
+4. Posterior upper endocervical canal
+5-6. Left parametia
+7-10. Right parametia
+11. Right lateral wall from anterior body
+12. Left lateral wall from anterior body
+13-14. Anterior body with transmural involvement
+15. Anterior fundus with adherent blood clot within endometrial cavity
+16. Left lateral wall of body-posterior
+17. Right lateral wall of body-posterior
+18-19. Posterior body with transmural involvement
+20. Separately submitted fragment of possible necrotic tumor
+21. Left tubal fimbria
+22. Left paratubal soft tissue
+
+                                                                                                         PAGE 3 OF 5
+
+================================================================================
+PAGE 4
+================================================================================
+PATIENT
+SEX: Female
+MRN:
+FIN:
+
+Surgical Pathology Report - Final
+
+COLLECTED DATE / TIME RECEIVED DATE / TIME ACCESSION NUMBER
+
+23-24. Representative sections of left ovary with calcified cyst
+25-26. All recognizable soft tissue of right cornu
+
+B. Received in formalin, labeled with the patient's name " " and designated "left e* lymph nodes", the specimen consists of 1 fragment(s) of fibroadi ose tissue that in aggregate measure 4.5 x x cm. Candidate lymph node(s) are dissected that range in size from 1 cm to 2 cm in greatest dimension. All possible lymph node(s) are entirely submitted as follows:
+Cassette Key
+1. One possible node, bisected
+2. One node, bisected
+3-5. Largest fatty-replaced node serially sectioned
+
+C. Received in formalin, labeled with the patient's name " " and designated "left obturator lymph nodes", the specimen consists of multiple fragment(s) of fibroadi pose tissue that in aggregate measure 3 cm. Candidate lymph node(s) are dissected that range in size from 0.2 cm to 3 cm in greatest dimension. All possible lymph node(s) are entirely submitted as follows:
+Cassette Key
+1. Three smaller nodes
+2-4. Largest node serially sectioned
+
+D. Received in formalin, labeled with the patient's name " " and designated "left common iliac lymph nodes", the specimen consists of 1 fragment(s) of fibroadi pose tissue that in aggregate measure 4 x 1 x 1 cm. Candidate lymph node(s) are dissected that range in size from 1 cm to 2 cm in greatest dimension. All possible lymph node(s) are entirely submitted as follows:
+Cassette Key
+1-2. One node per cassette, each bisected
+
+E. Received in formalin, labeled with the patient's name " " and designated "left periartic lymph nodes", the specimen consists of 1 fragment(s) of fibroadi pose tissue that in aggregate measure 1.5 x 0.5 x 0.4 cm. Candidate lymph node(s) are dissected that range in size from 1 cm to greatest dimension. Entire specimen submitted.
+
+F. Received in formalin, labeled with the patient's name " " and designated "sigmoid adhesions", are multiple fragments of congested adipose tissue admixed with mucoid blood clot. The specimen measures approximately 2 cm in aggregate.
+
+G. Received in formalin, labeled with the patient's name " " and designated "right common iliac lymph nodes", the specimen consists of multiple fragment(s) of fibroadi pose tissue that in aggregate measure 2.5 cm. Candidate lymph node(s) are dissected that range in size from 0.2 cm to 1 cm in greatest dimension. All possible lymph node(s) are entirely submitted as follows:
+Cassette Key
+1. One node bisected
+
+PAGE 4 OF 5
+
+================================================================================
+PAGE 5
+================================================================================
+```
+                                                                                          PATIENT:
+                                                                                          SEX: Female
+                                                                                          MRN:
+                                                                                          FIN:
+
+                        Surgical Pathology Report - Final
+
+COLLECTED DATE / TIME          RECEIVED DATE / TIME                  ACCESSION NUMBER
+
+2.      Three nodes
+
+H.  Received in formalin, labeled with the patient's name '                              ' and designated "right periaortic lymph
+nodes", the specimen consists of multiple fragment(s) of fibroadipose tissue that in aggregate measures 4.5 cm.
+Candidate lymph node(s) are dissected that range in size from 1.5 cm to 1 cm in greatest dimension.  All possible lymph
+nodes) are entirely submitted as follows:
+Cassette Key
+1.      One node bisected
+2.      Three possible nodes
+
+I.  Received in formalin, labeled with the patient's name '                              ' and designated "right external iliac lymph
+nodes", the specimen consists of multiple fragment(s) of fibroadipose tissue that in aggregate measures 8 cm. Candidate
+lymph node(s) are dissected that range in size from 0.5 cm to 2.5 cm in greatest dimension.  All possible lymph node(s)
+are entirely submitted as follows:
+Cassette Key
+1.      Two possible nodes, one inked blue and the other bisected
+2.      One node bisected
+3-4.    One node serially sectioned
+5.      One node bisected
+
+J.  Received in formalin, labeled with the patient's name '                              ' and designated "right obturator lymph
+nodes", the specimen consists of multiple fragment(s) of fibroadipose tissue that in aggregate measure 3.5 cm.
+Candidate lymph node(s) are dissected that range in size from 0.2 cm to 2 cm in greatest dimension.  All possible lymph
+node(s) are entirely submitted as follows:
+Cassette Key
+1.      One node bisected
+2.      Two nodes
+3-4.    One node serially sectioned
+
+K.  Received in formalin, labeled with the patient's name '                              ' and designated "omentum", is a portion
+of yellow-tan lobulated omentum without recognizable metastatic disease present.  The specimen measures 30 x 16 x 1.9
+cm.  No areas of fat necrosis or congestion are identified.
+
+                                                                                                               PAGE 5 OF 5
+```

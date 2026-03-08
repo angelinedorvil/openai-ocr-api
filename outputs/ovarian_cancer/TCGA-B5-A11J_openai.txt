@@ -1,0 +1,149 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11J\TCGA-B5-A11J.pdf
+Processing Date: 2026-03-08 18:55:29
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+1CD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C54.1 2/25/11
+
+Page 1 of 3
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri. Biopsy showed endometrial adenocarcinoma
+(endometrioid) FIGO grade 2. ✓
+
+GROSS EXAMINATION:
+A. "Left tube and ovary (AF1)", received fresh for frozen section. An 11.5
+gram adnexa consist of a 3 x 1.5 x 1 cm unremarkable ovary and 5 cm long, 0.5
+cm in diameter fallopian tube that contains multiple paratubal cysts up to 0.6
+cm in diameter. The fallopian tube has been frozen as AF1 with remnant A1.
+Representative ovary and fallopian tube in A2.
+
+B. "Uterus and cervix (BF1-2)". Received fresh is a 145 gram uterus that
+contains a tan friable exophytic mass occupying the majority of the anterior
+and posterior 9 x 5 x 5 cm endometrial cavity. The tumor does not invade the
+2.2 cm thick myometrium. The tumor does not involve the lower uterine
+segment. The endocervix is grossly unremarkable. The ectocervix is diffusely
+erythematous. The serosal surface is unremarkable. A representative of the
+full thickness of the uterus is frozen as BF1-2.
+
+BLOCK SUMMARY:
+B1-2- frozen section remnants of BF1-2,respectively
+B3- tumor nearest anterior endocervical canal
+B4- anterior cervix
+B5- tumor nearest posterior endocervical canal
+B6- posterior cervix
+B7-10- posterior endomy metrium
+B11-13- anterior endomyometrium
+
+C. "Right paraaortic node (CF1)", received fresh for frozen section. A 2 x
+1.5 x 1 cm fragment of fibroadipose tissue is dissected for lymph nodes. A
+single lymph node is bisected and frozen as CF1 with remnant C1. The
+remainder is submitted in C2.
+
+D. "Paneth", received fresh and placed in formalin. Three fragments of skin
+and subcutaneous tissue measuring 15 x 15 x 6 cm in aggregate and weighing
+5830 gram is sectioned to demonstrate a 2.5 x 1.5 x 1 cm cyst containing
+yellow friable material within the subcutaneous tissue immediately beneath the
+umbilicus. Representative in D1-2.
+
+E. "Right tube and ovary", received fresh and placed in formalin. A 13.4 gram
+adnexa consist of a 6 cm long, 0.6 cm in diameter fimbriated fallopian tube
+adhesed to a 3.5 x 2 x 1.5 cm ovary. Multiple paratubal cysts up to 0.9 cm in
+diameter are present. Representative in E1.
+
+F. "Left pelvic lymph node", received fresh and placed in formalin. Multiple
+fragments of fibroadipose tissue measuring 7 x 6 x 2 cm aggregate are
+dissected for lymph nodes.
+
+BLOCK SUMMARY:
+F1- one lymph node sectioned
+F2- one lymph node bisected
+F3-5- a single 3.5 x 1.5 x 0.9 cm sectioned lymph node
+F6-7- one lymph node bisected
+F8- two lymph nodes,each bisected (one is inked blue)
+F9-11- a single 3.5 x 2 x 0.7 cm lymph node sectioned
+
+G. "Right pelvic lymph node", received fresh and placed in formalin. An 8 x 7
+x 2 cm aggregate of fibroadipose tissue dissected for lymph nodes.
+
+UUID:1F9E7FAB-ADA0-4EFF-8A86-F5344357ADED
+TCGA-B5-A11J-01A-PR Redacted
+
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+BLOCK SUMMARY:
+G1- five lymph node candidates
+G2- two lymph nodes, each bisected (one is inked blue)
+G3- one node bisected
+G5-8- one lymph node sectioned
+G9-12- one lymph node sectioned
+
+INTRA OPERATIVE CONSULTATION:
+A. "Left tube and ovary":
+      AF1- (tube/nodule/medial salpinx)- negative for malignancy,
+              Dr.  Oncurs
+B. "Uterus and cervix":
+      BF1-2 (mass and full thickness myometrium)- endometrioid adenocarcinoma,
+              invading 0.2 cm into a 1.8 cm thick myometrium (Dr.       ).
+C. "Right paraaortic node": CF1- negative for malignancy (Dr.       ).
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pNX pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+B. UTERUS: 145 GRAMS
+      ENDOMETRIUM:
+              TUMOR SITE: FUNDUS
+              HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH AREAS OF SQUAMOUS
+              DIFFERENTIATION AND CLEAR CELL ADENOCARCINOMA
+              DIFFERENTIATION.
+      FIGO GRADE: 2
+      TUMOR SIZE: 9 X 5.5 X 2 CM.
+      MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.2 THICK WALL.
+      LYMPHATIC/VASCULAR INVASION: NEGATIVE
+      ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT
+      REMAINING MYOMETRIUM: LEIOMYOMA, SMALL
+      CERVIX: NO PATHOLOGIC DIAGNOSIS.
+      SEROSA: NO PATHOLOGIC DIAGNOSIS.
+      SPECIMEN MARGINS: NOT INVOLVED
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR:
+A. LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+C. RIGHT PARAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).
+D. PANNICULUS: SKIN AND SUBCUTANEOUS FAT.
+E. RIGHT OVARY: ADHESIONS.
+      RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+F. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).
+G. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 10 LYMPH NODES (0/10).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).

@@ -1,0 +1,281 @@
+{
+  "pdf": "reports\\TCGA-B5-A0JN\\TCGA-B5-A0JN.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 28.20234179496765,
+        "chars": 2987,
+        "words": 482,
+        "text": "Page 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nmalig neo corpus uterus\n\nGROSS EXAMINATION:\nA. \"Right fallopian tube and ovary\". Received fresh for frozen section is a 21.5 gram, 6.0 x 5.0 x 2.0 cm specimen inclusive of a 6.5 cm long fimbriated fallopian tube with an average diameter of 0.6 cm. The fallopian tube is attached to a 3.5 x 2.5 x 2.0 cm multiloculated cystic structure that demonstrates tan-yellow papillary excrescences on the cut surface. There is also a 2.5 x 2.5 x 2.0 tan-yellow, firm, uniform nodule at the distal end of the fimbriated fallopian tube. The serosa of the fallopian tube demonstrates multiple small (less than 0.1 cm) tan-white adhesions. Representative sections submitted as follows:\n\nA1- remnant from previously submitted frozen section entirely submitted\nA2- representative section of multiloculated ovary\nA3- representative section of firm nodule\nA4- fallopian tube with adhesions\n\nB. \"Left fallopian tube and ovary\". Received is a 7.6 gram, specimen inclusive of a 5.5 cm long fimbriated fallopian tube with an average diameter of 0.5 cm. There is an attached 2.5 x 1.5 x 1.0 cm tan-yellow, firm ovary without focal abnormality. The serosa is smooth and glistening. No focal lesions, masses or abnormalities are identified. Representative sections are submitted as follows:\n\nB1- representative sections of ovary and fallopian tube\n\nC. \"Uterus and cervix\". Received is a 77.2 gram, 6.8 x 4.0 x 4.0 cm uterus with a 2.4 cm cervix that demonstrates a 0.6 cm cervical os. The uterus is opened longitudinally and demonstrates a 4 x 3 x 1 cm soft, papillary tumor that grossly fills the endometrial cavity but does not invade the 2.5 cm thick wall. There is a 3.0 cm polyp on the anterior uterine wall and a 2.0 cm polyp on the posterior uterine wall. There are multiple small (0.5 cm) intramural leiomyomata. The trabeculated endocervical canal and glistening ectocervix demonstrate no abnormalities. The serosa is rough and studied with adhesions. Representative sections is submitted as follows:\n\nC1- posterior cervix\nC2- anterior cervix\nC3- anterior endomyometrium (tumor and polyp)\nC4- posterior endomyometrium\nC5- deepest invasion\nC6- serosal adhesion\n\nD. \"Bladder flap peritoneum\". Received is a single 9 x 4 x 0.6 cm specimen of fibroadipose tissue with a 2.0 cm focal area of adhesion. Representative section submitted in block D1.\n\nE. \"Cul-de-sac peritoneum\". Received in formalin are two tan-yellow specimens of fibroadipose tissue, the largest of which is 2.0 x 1.0 x 0.6 cm. Entirely submitted in block E1.\n\nF. \"Hernia sac\". Received is a 9 x 4 x 2.5 cm specimen of fibroadipose tissue with a 5 x 2 cm skin ellipse. There are no focal lesions, masses or abnormalities. All exposed serosa is smooth and glistening. Representative section submitted in blocks F1 and F2.\n\n[Table]\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prim Notes\nCave in (circle):\nReviewer int\nYes\nNo",
+        "confidence": {
+          "mean_probability": 0.985354788388171,
+          "mean_log_probability": -0.02332626809015421,
+          "perplexity": 1.023600453236523,
+          "min_probability": 0.05471491158674477
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 844,
+          "total_tokens": 3316
+        },
+        "composite_score": 0.9326761373167884,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 49.0% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.0% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 205.35380506515503,
+          "chars": 8005,
+          "words": 20,
+          "text": "Page 1 of 3\n\nICD-0-3\nCarcinoma, serous, NOS 8441/3\nSite: endometrium C54.1 2/25/11\nhw\n\nSurg Path\n\nUUID:A22F4C33-7630-4595-8415-24C87949B211\nTCGA-B5-A0JN-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9892945228490644,
+            "mean_log_probability": -0.01192085302734375,
+            "perplexity": 1.0119921895781545,
+            "min_probability": 0.23982758731275783
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.5943453982235799
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 28.20234179496765,
+          "chars": 2987,
+          "words": 482,
+          "text": "Page 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nmalig neo corpus uterus\n\nGROSS EXAMINATION:\nA. \"Right fallopian tube and ovary\". Received fresh for frozen section is a 21.5 gram, 6.0 x 5.0 x 2.0 cm specimen inclusive of a 6.5 cm long fimbriated fallopian tube with an average diameter of 0.6 cm. The fallopian tube is attached to a 3.5 x 2.5 x 2.0 cm multiloculated cystic structure that demonstrates tan-yellow papillary excrescences on the cut surface. There is also a 2.5 x 2.5 x 2.0 tan-yellow, firm, uniform nodule at the distal end of the fimbriated fallopian tube. The serosa of the fallopian tube demonstrates multiple small (less than 0.1 cm) tan-white adhesions. Representative sections submitted as follows:\n\nA1- remnant from previously submitted frozen section entirely submitted\nA2- representative section of multiloculated ovary\nA3- representative section of firm nodule\nA4- fallopian tube with adhesions\n\nB. \"Left fallopian tube and ovary\". Received is a 7.6 gram, specimen inclusive of a 5.5 cm long fimbriated fallopian tube with an average diameter of 0.5 cm. There is an attached 2.5 x 1.5 x 1.0 cm tan-yellow, firm ovary without focal abnormality. The serosa is smooth and glistening. No focal lesions, masses or abnormalities are identified. Representative sections are submitted as follows:\n\nB1- representative sections of ovary and fallopian tube\n\nC. \"Uterus and cervix\". Received is a 77.2 gram, 6.8 x 4.0 x 4.0 cm uterus with a 2.4 cm cervix that demonstrates a 0.6 cm cervical os. The uterus is opened longitudinally and demonstrates a 4 x 3 x 1 cm soft, papillary tumor that grossly fills the endometrial cavity but does not invade the 2.5 cm thick wall. There is a 3.0 cm polyp on the anterior uterine wall and a 2.0 cm polyp on the posterior uterine wall. There are multiple small (0.5 cm) intramural leiomyomata. The trabeculated endocervical canal and glistening ectocervix demonstrate no abnormalities. The serosa is rough and studied with adhesions. Representative sections is submitted as follows:\n\nC1- posterior cervix\nC2- anterior cervix\nC3- anterior endomyometrium (tumor and polyp)\nC4- posterior endomyometrium\nC5- deepest invasion\nC6- serosal adhesion\n\nD. \"Bladder flap peritoneum\". Received is a single 9 x 4 x 0.6 cm specimen of fibroadipose tissue with a 2.0 cm focal area of adhesion. Representative section submitted in block D1.\n\nE. \"Cul-de-sac peritoneum\". Received in formalin are two tan-yellow specimens of fibroadipose tissue, the largest of which is 2.0 x 1.0 x 0.6 cm. Entirely submitted in block E1.\n\nF. \"Hernia sac\". Received is a 9 x 4 x 2.5 cm specimen of fibroadipose tissue with a 5 x 2 cm skin ellipse. There are no focal lesions, masses or abnormalities. All exposed serosa is smooth and glistening. Representative section submitted in blocks F1 and F2.\n\n[Table]\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prim Notes\nCave in (circle):\nReviewer int\nYes\nNo",
+          "confidence": {
+            "mean_probability": 0.985354788388171,
+            "mean_log_probability": -0.02332626809015421,
+            "perplexity": 1.023600453236523,
+            "min_probability": 0.05471491158674477
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 844,
+            "total_tokens": 3316
+          },
+          "composite_score": 0.9326761373167884,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 49.0% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.0% - results inconsistent"
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 33.40183186531067,
+          "chars": 3202,
+          "words": 508,
+          "text": "Page 1 of 3\n\nICD-0-3\nCarcinoma, serous, NOS 8441/3\nSite: endometrium C54.1 2/25/11 lw\n\nSurg Path\n\nCLINICAL HISTORY:\nmalig neo corpus uterus\n\nGROSS EXAMINATION:\nA. \"Right fallopian tube and ovary\". Received fresh for frozen section is a 21.5 gram, 6.0 x 5.0 x 2.0 cm specimen inclusive of a 6.5 cm long fimbriated fallopian tube with an average diameter of 0.6 cm. The fallopian tube is attached to a 3.5 x 2.5 x 2.0 cm multiloculated cystic structure that demonstrates tan-yellow papillary excrescences on the cut surface. There is also a 2.5 x 2.5 x 2.0 tan-yellow, firm, uniform nodule at the distal end of the fimbriated fallopian tube. The serosa of the fallopian tube demonstrates multiple small (less than 0.1 cm) tan-white adhesions. Representative sections submitted as follows:\n\nA1- remnant from previously submitted frozen section entirely submitted\nA2- representative section of multiloculated ovary\nA3- representative section of firm nodule\nA4- fallopian tube with adhesions\n\nB. \"Left fallopian tube and ovary\". Received is a 7.6 gram, specimen inclusive of a 5.5 cm long fimbriated fallopian tube with an average diameter of 0.5 cm. There is an attached 2.5 x 1.5 x 1.0 cm tan-yellow, firm ovary without focal abnormality. The serosa is smooth and glistening. No focal lesions, masses or abnormalities are identified. Representative sections are submitted as follows:\n\nB1- representative sections of ovary and fallopian tube\n\nC. \"Uterus and cervix\". Received is a 77.2 gram, 6.8 x 4.0 x 4.0 cm uterus with a 2.4 cm cervix that demonstrates a 0.6 cm cervical os. The uterus is opened longitudinally and demonstrates a 4 x 3 x 1 cm soft, papillary tumor that grossly fills the endometrial cavity but does not invade the 2.5 cm thick wall. There is a 3.0 cm polyp on the anterior uterine wall and a 2.0 cm polyp on the posterior uterine wall. There are multiple small (0.5 cm) intramural leiomyomata. The trabeculated endocervical canal and glistening ectocervix demonstrate no abnormalities. The serosa is rough and studied with adhesions. Representative sections is submitted as follows:\n\nCl- posterior cervix\nC2- anterior cervix\nC3- anterior endomyometrium (tumor and polyp)\nC4- posterior endomyometrium\nC5- deepest invasion\nC6- serosal adhesion\n\nD. \"Bladder flap peritoneum\". Received is a single 9 x 4 x 0.6 cm specimen of fibroadipose tissue with a 2.0 cm focal area of adhesion. Representative section submitted in block D1.\n\nE. \"Cul-de-sac peritoneum\". Received in formalin are two tan-yellow specimens of fibroadipose tissue, the largest of which is 2.0 x 1.0 x 0.6 cm. Entirely submitted in block E1.\n\nF. \"Hernia sac\". Received is a 9 x 4 x 2.5 cm specimen of fibroadipose tissue with a 5 x 2 cm skin ellipse. There are no focal lesions, masses or abnormalities. All exposed serosa is smooth and glistening. Representative section submitted in blocks F1 and F2.\n\n[There is a table with the following columns and rows:]\n\nCriteria                     Yes   No\nDiagnosis Discrepancy        X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy           X\nPrior Malignancy History    X\nDual/Synchronous Prima[ry] Notes\nCave in (circle): QUALIFIED DISQUALIFIED\nReviewer Initials: 3/1/11",
+          "confidence": {
+            "mean_probability": 0.9709844638633855,
+            "mean_log_probability": -0.04630297921225383,
+            "perplexity": 1.0473917008008264,
+            "min_probability": 0.04765560629900471
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 915,
+            "total_tokens": 3387
+          },
+          "composite_score": 0.6414569293690964
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 18.930771350860596,
+        "chars": 2189,
+        "words": 294,
+        "text": "Page 2 of 3\n\n  G. \"Omentum\". Received in formalin is a single 14 x 5 x 1.5 cm specimen of\nfibroadipose tissue. There are no focal lesions, masses or abnormalities.\nRepresentative section submitted in blocks G1 and G2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right fallopian tube and ovary\": AF1-adenocarcinoma studding outer\nsurface (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Bilateral salpingo-oophorectomy, hysterectomy, omentectomy,\nperitoneal biopsies, and hernia sac repair.\n\nPATHOLOGIC STAGE: TxNxMx (uncertain primary origin site).\n\nNOTE:\nInformation on pathology stage and the operative procedure is transmitted to\nthis Institution's Cancer Registry as required for accreditation purposes by\nthe Commission on Cancer. Pathology stage is based solely upon the current\ntissue specimen being evaluated, and does not incorporate information on any\nspecimens submitted separately to our Cytology section, past pathology\ninformation, imaging studies, or clinical or operative findings. Pathology\nstage is only a component to be considered in determining the clinical stage,\nand should not be confused with nor substituted for it. The exact operative\nprocedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\n  (SEROUS )DENOCARCINOMA, INVOLVING OVARY AND FALLOPIAN TUBE, SEE COMMENT.\nOVARY ITH INCIDENTAL SEROUS ADENOFIBROMA (2.5 CM).\n\nB. \"LEFT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\nSERIOUS ADENOCARCINOMA, INVOLVING OVARY, SEE COMMENT.\nFALLOPIAN TUBE: NO TUMOR IDENTIFIED.\n\nC. \"UTERUS AND CERVIX\" (HYSTERECTOMY):\n\nSERIOUS PAPILLARY CARCINOMA INVOLVING ENDOMETRIUM, SEE COMMENT.\nTUMOR SIZE: 4.0 X 3.0 X 1.0 CM.\nFIGO GRADE: 3 OF 3.\nDEPTH OF INVASION: LIMITED TO ENDOMETRIUM (NO MYOMETRIAL INVASION IS\nIDENTIFIED).\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nSTATUS OF REMAINING ENDOMETRIUM: MULTIPLE ENDOMETRIAL POLYPS, WITH\nATROPHY.\nSTATUS OF REMAINING MYOMETRIUM: MULTIPLE SMALL LEIOMYOMATA (LARGEST 0.5\nCM).\nCERVIX: FREE OF TUMOR.\nSEROSA: MULTIPLE IMPLANTS OF SEROUS CARCINOMA.\n\nD. \"BLADDER FLAP PERITONEUM\" (BIOPSY):\n\nPOSITIVE FOR SEROUS ADENOCARCINOMA.",
+        "confidence": {
+          "mean_probability": 0.9830835221660927,
+          "mean_log_probability": -0.024690646969696972,
+          "perplexity": 1.0249979852407887,
+          "min_probability": 0.23305658519191305
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 661,
+          "total_tokens": 3133
+        },
+        "composite_score": 0.9807234333267594,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 18.930771350860596,
+          "chars": 2189,
+          "words": 294,
+          "text": "Page 2 of 3\n\n  G. \"Omentum\". Received in formalin is a single 14 x 5 x 1.5 cm specimen of\nfibroadipose tissue. There are no focal lesions, masses or abnormalities.\nRepresentative section submitted in blocks G1 and G2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right fallopian tube and ovary\": AF1-adenocarcinoma studding outer\nsurface (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Bilateral salpingo-oophorectomy, hysterectomy, omentectomy,\nperitoneal biopsies, and hernia sac repair.\n\nPATHOLOGIC STAGE: TxNxMx (uncertain primary origin site).\n\nNOTE:\nInformation on pathology stage and the operative procedure is transmitted to\nthis Institution's Cancer Registry as required for accreditation purposes by\nthe Commission on Cancer. Pathology stage is based solely upon the current\ntissue specimen being evaluated, and does not incorporate information on any\nspecimens submitted separately to our Cytology section, past pathology\ninformation, imaging studies, or clinical or operative findings. Pathology\nstage is only a component to be considered in determining the clinical stage,\nand should not be confused with nor substituted for it. The exact operative\nprocedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\n  (SEROUS )DENOCARCINOMA, INVOLVING OVARY AND FALLOPIAN TUBE, SEE COMMENT.\nOVARY ITH INCIDENTAL SEROUS ADENOFIBROMA (2.5 CM).\n\nB. \"LEFT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\nSERIOUS ADENOCARCINOMA, INVOLVING OVARY, SEE COMMENT.\nFALLOPIAN TUBE: NO TUMOR IDENTIFIED.\n\nC. \"UTERUS AND CERVIX\" (HYSTERECTOMY):\n\nSERIOUS PAPILLARY CARCINOMA INVOLVING ENDOMETRIUM, SEE COMMENT.\nTUMOR SIZE: 4.0 X 3.0 X 1.0 CM.\nFIGO GRADE: 3 OF 3.\nDEPTH OF INVASION: LIMITED TO ENDOMETRIUM (NO MYOMETRIAL INVASION IS\nIDENTIFIED).\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nSTATUS OF REMAINING ENDOMETRIUM: MULTIPLE ENDOMETRIAL POLYPS, WITH\nATROPHY.\nSTATUS OF REMAINING MYOMETRIUM: MULTIPLE SMALL LEIOMYOMATA (LARGEST 0.5\nCM).\nCERVIX: FREE OF TUMOR.\nSEROSA: MULTIPLE IMPLANTS OF SEROUS CARCINOMA.\n\nD. \"BLADDER FLAP PERITONEUM\" (BIOPSY):\n\nPOSITIVE FOR SEROUS ADENOCARCINOMA.",
+          "confidence": {
+            "mean_probability": 0.9830835221660927,
+            "mean_log_probability": -0.024690646969696972,
+            "perplexity": 1.0249979852407887,
+            "min_probability": 0.23305658519191305
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 661,
+            "total_tokens": 3133
+          },
+          "composite_score": 0.9807234333267594,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 20.107710123062134,
+          "chars": 2192,
+          "words": 295,
+          "text": "Page 2 of 3\n\nG. \"Omentum\". Received in formalin is a single 14 x 5 x 1.5 cm specimen of\nfibroadipose tissue. There are no focal lesions, masses or abnormalities.\nRepresentative section submitted in blocks G1 and G2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right fallopian tube and ovary\": AF1-adenocarcinoma studding outer\nsurface (Dr. .\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Bilateral salpingo-oophorectomy, hysterectomy, omentectomy,\nperitoneal biopsies, and hernia sac repair.\n\nPATHOLOGIC STAGE: TxNxMx (uncertain primary origin site).\n\nNOTE:\nInformation on pathology stage and the operative procedure is transmitted to\nthis Institution's Cancer Registry as required for accreditation purposes by\nthe Commission on Cancer. Pathology stage is based solely upon the current\ntissue specimen being evaluated, and does not incorporate information on any\nspecimens submitted separately to our Cytology section, past pathology\ninformation, imaging studies, or clinical or operative findings. Pathology\nstage is only a component to be considered in determining the clinical stage,\nand should not be confused with nor substituted for it. The exact operative\nprocedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\n(SEROUS) (DENOCARCINOMA, INVOLVING OVARY AND FALLOPIAN TUBE, SEE COMMENT.\nOVARY (WITH INCIDENTAL SEROUS ADENOFIBROMA (2.5 CM).\n\nB. \"LEFT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\nSERIOUS ADENOCARCINOMA, INVOLVING OVARY, SEE COMMENT.\nFALLOPIAN TUBE: NO TUMOR IDENTIFIED.\n\nC. \"UTERUS AND CERVIX\" (HYSTERECTOMY):\n\nSERIOUS PAPILLARY CARCINOMA INVOLVING ENDOMETRIUM, SEE COMMENT.\nTUMOR SIZE: 4.0 X 3.0 X 1.0 CM.\nFIGO GRADE: 3 OF 3.\nDEPTH OF INVASION: LIMITED TO ENDOMETRIUM (NO MYOMETRIAL INVASION IS\nIDENTIFIED).\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nSTATUS OF REMAINING ENDOMETRIUM: MULTIPLE ENDOMETRIAL POLYPS, WITH\nATROPHY.\nSTATUS OF REMAINING MYOMETRIUM: MULTIPLE SMALL LEIOMYOMATA (LARGEST 0.5\nCM).\nCERVIX: FREE OF TUMOR.\nSEROSA: MULTIPLE IMPLANTS OF SERIOUS CARCINOMA.\n\nD. \"BLADDER FLAP PERITONEUM\" (BIOPSY):\n\nPOSITIVE FOR SERIOUS ADENOCARCINOMA.",
+          "confidence": {
+            "mean_probability": 0.985740563812432,
+            "mean_log_probability": -0.01966897869101979,
+            "perplexity": 1.0198636875319254,
+            "min_probability": 0.2626738842659566
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 658,
+            "total_tokens": 3130
+          },
+          "composite_score": 0.9353399248995837
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 18.05749249458313,
+          "chars": 2186,
+          "words": 295,
+          "text": "Page 2 of 3\n\n{G. \"Omentum\". Received in formalin is a single 14 x 5 x 1.5 cm specimen of\nfibroadipose tissue. There are no focal lesions, masses or abnormalities.\nRepresentative section submitted in blocks G1 and G2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right fallopian tube and ovary\": AFl-adenocarcinoma studding outer\nsurface (Dr. .\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Bilateral salpingo-oophorectomy, hysterectomy, omentectomy,\nperitoneal biopsies, and hernia sac repair.\n\nPATHOLOGIC STAGE: TxNxMx (uncertain primary origin site).\n\nNOTE:\nInformation on pathology stage and the operative procedure is transmitted to\nthis Institution's Cancer Registry as required for accreditation purposes by\nthe Commission on Cancer. Pathology stage is based solely upon the current\ntissue specimen being evaluated, and does not incorporate information on any\nspecimens submitted separately to our Cytology section, past pathology\ninformation, imaging studies, or clinical or operative findings. Pathology\nstage is only a component to be considered in determining the clinical stage,\nand should not be confused with nor substituted for it. The exact operative\nprocedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\n(SEROUS )DENOCARCINOMA, INVOLVING OVARY AND FALLOPIAN TUBE, SEE COMMENT.\nOVARY ITH INCIDENTAL SEROUS ADENOFIBROMA (2.5 CM).\n\nB. \"LEFT FALLOPIAN TUBE AND OVARY\" (SALPINGO-OOPHORECTOMY):\n\nSEROUS ADENOCARCINOMA, INVOLVING OVARY, SEE COMMENT.\nFALLOPIAN TUBE: NO TUMOR IDENTIFIED.\n\nC. \"UTERUS AND CERVIX\" (HYSTERECTOMY):\n\nSEROUS PAPILLARY CARCINOMA INVOLVING ENDOMETRIUM, SEE COMMENT.\nTUMOR SIZE: 4.0 X 3.0 X 1.0 CM.\nFIGO GRADE: 3 OF 3.\nDEPTH OF INVASION: LIMITED TO ENDOMETRIUM (NO MYOMETRIAL INVASION IS\nIDENTIFIED).\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nSTATUS OF REMAINING ENDOMETRIUM: MULTIPLE ENDOMETRIAL POLYPS, WITH\nATROPHY.\nSTATUS OF REMAINING MYOMETRIUM: MULTIPLE SMALL LEIOMYOMATA (LARGEST 0.5\nCM).\nCERVIX: FREE OF TUMOR.\nSEROSA: MULTIPLE IMPLANTS OF SEROUS CARCINOMA.\n\nD. \"BLADDER FLAP PERITONEUM\" (BIOPSY):\n\nPOSITIVE FOR SEROUS ADENOCARCINOMA.",
+          "confidence": {
+            "mean_probability": 0.9870259391992463,
+            "mean_log_probability": -0.02067841149773071,
+            "perplexity": 1.0208936911687638,
+            "min_probability": 0.12086234809677823
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 662,
+            "total_tokens": 3134
+          },
+          "composite_score": 0.9346027969620573
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.387477159500122,
+        "chars": 1487,
+        "words": 215,
+        "text": "Page 3 of 3\n\nE. \"CUL-DE-SAC PERITONEUM\" (BIOPSY):\n\n     POSITIVE FOR SEROUS ADENOCARCINOMA.\n\nF. \"HERNIA SAC\" (HERNIORRHAPHY):\n\n     HERNIA SAC WITH IMPLANTS OF SEROUS ADENOCARCINOMA ON PERITONEAL SURFACE.\n\nG. \"OMENTUM\" (OMENTECTOMY):\n\n     MULTIPLE IMPLANTS OF SEROUS ADENOCARCINOMA (LARGEST LESS THAN 2 CM)\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nCOMMENT:\nIt is not possible to determine a primary site with certainty. The endometrial tumor is non-invasive, while the ovarian tumor is primarily on the surface. Given that the endometrium has the largest single deposit of carcinoma (4.0 cm) compared with the small volume of tumor at the other involved sites, however, an endometrial primary is favored.\n\nADDENDUM 1:\nThe tumor is unreactive for Wilm's tumor gene (WT-1), which supports the other pathology findings that the primary tumor is endometrial in origin. See Hashi A et al, Wilms tumor gene immunoreactivity in primary serous carcinomas of the fallopian tube, ovary, endometrium, and peritoneum.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]",
+        "confidence": {
+          "mean_probability": 0.9848568035869303,
+          "mean_log_probability": -0.021714080428954424,
+          "perplexity": 1.0219515467463116,
+          "min_probability": 0.1886709097233912
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 374,
+          "total_tokens": 2846
+        },
+        "composite_score": 0.9316979201853905,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.387477159500122,
+          "chars": 1487,
+          "words": 215,
+          "text": "Page 3 of 3\n\nE. \"CUL-DE-SAC PERITONEUM\" (BIOPSY):\n\n     POSITIVE FOR SEROUS ADENOCARCINOMA.\n\nF. \"HERNIA SAC\" (HERNIORRHAPHY):\n\n     HERNIA SAC WITH IMPLANTS OF SEROUS ADENOCARCINOMA ON PERITONEAL SURFACE.\n\nG. \"OMENTUM\" (OMENTECTOMY):\n\n     MULTIPLE IMPLANTS OF SEROUS ADENOCARCINOMA (LARGEST LESS THAN 2 CM)\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nCOMMENT:\nIt is not possible to determine a primary site with certainty. The endometrial tumor is non-invasive, while the ovarian tumor is primarily on the surface. Given that the endometrium has the largest single deposit of carcinoma (4.0 cm) compared with the small volume of tumor at the other involved sites, however, an endometrial primary is favored.\n\nADDENDUM 1:\nThe tumor is unreactive for Wilm's tumor gene (WT-1), which supports the other pathology findings that the primary tumor is endometrial in origin. See Hashi A et al, Wilms tumor gene immunoreactivity in primary serous carcinomas of the fallopian tube, ovary, endometrium, and peritoneum.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.9848568035869303,
+            "mean_log_probability": -0.021714080428954424,
+            "perplexity": 1.0219515467463116,
+            "min_probability": 0.1886709097233912
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 374,
+            "total_tokens": 2846
+          },
+          "composite_score": 0.9316979201853905,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.505215406417847,
+          "chars": 1496,
+          "words": 215,
+          "text": "Page 3 of 3\n\nE. \"CUL-DE-SAC PERITONEUM\" (BIOPSY):\n\n        POSITIVE FOR SEROUS ADENOCARCINOMA.\n\nF. \"HERNIA SAC\" (HERNIORRHAPHY):\n\n        HERNIA SAC WITH IMPLANTS OF SEROUS ADENOCARCINOMA ON PERITONEAL SURFACE.\n\nG. \"OMENTUM\" (OMENTECTOMY):\n\n        MULTIPLE IMPLANTS OF SEROUS ADENOCARCINOMA (LARGEST LESS THAN 2 CM)\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[REDACTED]\n\nCOMMENT:\nIt is not possible to determine a primary site with certainty. The endometrial tumor is non-invasive, while the ovarian tumor is primarily on the surface. Given that the endometrium has the largest single deposit of carcinoma (4.0 cm) compared with the small volume of tumor at the other involved sites, however, an endometrial primary is favored.\n\nADDENDUM 1:\nThe tumor is unreactive for Wilm's tumor gene (WT-1), which supports the other pathology findings that the primary tumor is endometrial in origin. See Hashi A et al, Wilms tumor gene immunoreactivity in primary serous carcinomas of the fallopian tube, ovary, endometrium, and peritoneum.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[REDACTED]\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[REDACTED]",
+          "confidence": {
+            "mean_probability": 0.9857249693287994,
+            "mean_log_probability": -0.021699656992084437,
+            "perplexity": 1.0219368067989936,
+            "min_probability": 0.1685885749407878
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 380,
+            "total_tokens": 2852
+          },
+          "composite_score": 0.8859785251535305
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.200305461883545,
+          "chars": 1435,
+          "words": 211,
+          "text": "Page 3 of 3\n\nE. \"CUL-DE-SAC PERITONEUM\" (BIOPSY):\n\nPOSITIVE FOR SEROUS ADENOCARCINOMA.\n\nF. \"HERNIA SAC\" (HERNIORRHAPHY):\n\nHERNIASAC WITH IMPLANTS OF SEROUS ADENOCARCINOMA ON PERITONEAL SURFACE.\n\nG. \"OMENTUM\" (OMENTECTOMY):\n\nMULTIPLE IMPLANTS OF SEROUS ADENOCARCINOMA (LARGEST LESS THAN 2 CM)\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nIt is not possible to determine a primary site with certainty. The endometrial tumor is non-invasive, while the ovarian tumor is primarily on the surface. Given that the endometrium has the largest single deposit of carcinoma (4.0 cm) compared with the small volume of tumor at the other involved sites, however, an endometrial primary is favored.\n\nADDENDUM 1:\nThe tumor is unreactive for Wilm's tumor gene (WT-1), which supports the other pathology findings that the primary tumor is endometrial in origin. See Hashi A et al, Wilms tumor gene immunoreactivity in primary serous carcinomas of the fallopian tube, ovary, endometrium, and peritoneum.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9859761443432213,
+            "mean_log_probability": -0.020871743016759776,
+            "perplexity": 1.0210910811770848,
+            "min_probability": 0.13075826052778242
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 359,
+            "total_tokens": 2831
+          },
+          "composite_score": 0.8807867849389559
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

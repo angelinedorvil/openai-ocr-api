@@ -1,0 +1,298 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A2H5\TCGA-AX-A2H5.pdf
+Processing Date: 2026-03-08 15:19:12
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials Date Reviewed:  9/19/11
+Sex: F MR# PT#:
+
+REPORT
+
+/CB-0-3
+adenocarcinoma, serous, NOS 8441/3
+Site: endometrium C54.1 for 6/19/11
+
+DATE RECEIVED:
+SPECIMEN(S) SUBMITTED:
+A. Right Periaortic Node
+B. Left Periaortic Node
+C. Left Common
+D. External Iliac Node
+E. Left Obturator Node
+F. Low Right Periaortic
+G. Right Periaortic
+H. Right Common Iliac
+I. Right Obturator
+J. Uterus, Tubes, Ovaries, Cervix
+K. Omentum
+L. Appendix
+
+SPECIAL ANATOMIC STUDIES REQUESTED:
+
+PRE/POST OP DIAGNOSIS: Endometrial cancer
+
+CLINICAL INFORMATION:
+
+OPERATION PERFORMED: Abdominal hysterectomy with BSO/nodes,
+omentectomy
+DATE OF OPERATION: CULTURES TAKEN? No; Portion to
+Cytology - peritoneal washings
+
+DATE DICTATED: DATE TRANSCRIBED:
+
+GROSS DESCRIPTION: The specimen is received in twelve parts.
+
+Part A received unfixed labeled : "right periaortic node"
+is a 3.0 x 3.0 x 1.5 cm aggregate of adipose tissue, containing four
+possible lymph nodes ranging from 0.2 to 0.5 cm in greatest dimension.
+All possible lymph nodes are submitted in A.
+
+Part B received unfixed labeled . "left periaortic lymph
+node" is a 1.3 x 0.5 x 0.2 cm apparent lymph node with a scant amount of
+adherent adipose tissue. The lymph node is bisected and entirely
+submitted in B.
+
+Part C received unfixed labeled "left common" is a 2.5
+x 2.5 x 1.0 cm segment of adipose tissue. No lymph nodes are
+identified. Entirely submitted in C.
+
+================================================================================
+PAGE 2
+================================================================================
+Department of Pathology
+
+PATIENT: 1
+PATHOLOGY #:
+
+5. Location: Tumor is located within the fundus, lower uterine segment and cervix.
+6. Lymphovascular space invasion is extensive.
+7. Cervical involvement by neoplasm:
+    a. Cervical mucosa and stroma are extensively involved by neoplasm.
+8. Extrauterine involvement by neoplasm: Left and right ovary and fallopian tubes are involved by neoplasm.
+9. No lymph nodes were identified in parts A through F.
+10. Pathological stage: T3a NX MX.
+
+(Electronically signed) -
+My signature is attestation that I have personally reviewed the submitted material(s) and the above diagnosis reflects that evaluation.
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 4
+
+================================================================================
+PAGE 3
+================================================================================
+Page 2 of 5
+
+
+Part D received unfixed labeled          "external iliac node"
+is a 2.0 x 1.5 x 1.5 cm aggregate of adipose tissue, containing three
+possible lymph nodes ranging from 0.3 to 0.8 cm in greatest dimension.
+All possible lymph nodes are submitted.
+
+SUMMARY OF SECTIONS: D1 - two possible lymph nodes; D2 - one possible
+lymph node (bisected).
+
+Part E received unfixed labeled          "left obturator node"
+is a 3.0 x 3.0 x 1.8 cm aggregate of adipose tissue, containing two
+possible lymph nodes measuring 2.8 cm in greatest dimension each.
+Sectioning reveals one lymph node to have a yellow-gray, glistening cut
+surface and the other to have a gray-yellow, gritty (grossly positive)
+cut surface. One lymph node is entirely submitted and representative
+sections of the grossly positive lymph node are submitted.
+
+SUMMARY OF SECTIONS: E1 through E3 - one possible lymph node; E4 -
+representative section of grossly positive lymph node.
+
+Part F received unfixed labeled          "low right periaortic"
+is a 1.8 x 1.5 x 1.0 cm fragment of adipose tissue. No lymph nodes are
+identified. Entirely submitted in F.
+
+Part G received unfixed labeled          "right periaortic" is a
+1.5 x 0.7 x 0.7 cm apparent lymph node with a scant amount of adherent
+adipose tissue. Sectioning reveals a yellow-gray, glistening cut
+surface. Entirely submitted in G.
+
+Part H received unfixed labeled          "right common iliac" is
+a 1.0 x 0.6 x 0.4 cm segment of adipose tissue, containing a single
+possible lymph node measuring 0.4 cm in greatest dimension. The lymph
+node is entirely submitted in H.
+
+Part I received unfixed labeled          "right obturator" is a
+3.0 x 3.0 x 1.5 cm aggregate of yellow-red adipose tissue, containing
+five possible lymph nodes ranging from 0.2 to 2.3 cm in greatest
+dimension and dense gray nodular tissue aggregating to 1.2 x 1.2 x 0.6
+cm. All possible lymph nodes in the nodular tissue are submitted.
+
+SUMMARY OF SECTIONS: I-1 - two possible lymph nodes; I-2 through I-4 -
+one possible lymph node each (bisected); I-5 - nodular tissue.
+
+Part J received unfixed labeled          "uterus, tubes,
+ovaries, cervix" is a previously opened uterus with attached cervix and
+attached bilateral adnexa. The uterus has been previously opened at the
+left aspect and across the fundus.
+
+================================================================================
+PAGE 4
+================================================================================
+Page 3 of 5
+
+
+The uterus and attached cervix weigh 112 grams. The uterus measures 8.3
+cm from fundus to ectocervix, 5.0 cm laterally and 3.7 cm anterior
+posterior aspect. The serosa is pink and smooth. The anterior serosa
+is inked blue and the posterior serosa is inked green. The cervix
+measures 3.5 cm in diameter The ectocervix is tan-brown, patchy and
+smooth. The os has been previously opened. The endocervical canal is
+lined by a tan mucosa with a heaped appearance in the upper endocervical
+canal, involving approximately 50% of the length of the canal and coming
+within 1.0 cm of the external os.
+
+Endometrium: The endometrial cavity measures 4.0 cm from fundus to
+internal os and 3.0 cm laterally. The entire endometrium is replaced by
+an exophytic mass measuring up to 1.2 cm in thickness. No gross
+invasion into the myometrium is noted.
+
+Myometrium: The myometrium measures 1.8 cm in average thickness and
+contains eight apparent leiomyomata ranging from 0.7 to 2.0 cm in
+greatest dimension. No areas of hemorrhage or necrosis are noted.
+
+Right adnexa: The right fallopian tube measures 5.2 cm in length and
+0.5 cm in diameter. The fimbriated end is identified. The serosa is
+pink and smooth. Sectioning reveals a pinpoint lumen. The attached
+ovary measures 3.0 x 1.5 x 1.0 cm and weighs 2.7 grams. The outer
+surface is tan-pink and smooth. Sectioning reveals a pink-white
+variegated cut surface.
+
+Left adnexa: The left fallopian tube measures 5.8 cm in length and 0.5
+cm in diameter. The fimbriated end is identified. The serosa is pink
+and smooth. Sectioning reveals a pinpoint lumen. The attached ovary
+measures 3.0 x 1.3 x 0.8 cm and weighs 2.5 grams. The outer surface is
+tan-pink and smooth. Sectioning reveals a pink-white variegated cut
+surface. Representative sections are submitted.
+
+SUMMARY OF SECTIONS: J1 - right parametrial stump; J2 - left
+parametrial stump; J3 - anterior lower endocervical canal; J4 - anterior
+upper endocervical canal; J5 - posterior lower endocervical canal; J6 -
+posterior upper endocervical canal; J7 - anterior lower uterine segment;
+J8 - anterior uterine full thickness; J9 - anterior endomyometrium; J10
+and J11 - one posterior uterine full thickness each; J12 - uterine full
+thickness at fundus; J13 - endomyometrium at fundus; J14 and J15 -
+leiomyomata; J16 - right adnexa; J17 - left adnexa.
+
+Part K received unfixed labeled , "omentum" is a 16 x 9.5
+x 1.0 cm segment of adipose tissue (consistent with omentum). No tumors
+or lesions are identified. Representative sections are submitted in K1
+through K3.
+
+Part L received unfixed labeled , "appendix" is a 9.0 x
+0.6 cm vermiform appendix. The serosa is pink and smooth with a
+generous amount of adherent, focally hemorrhagic adipose tissue.
+Sectioning reveals a patent lumen. Representative sections are
+submitted in L.
+
+MICROSCOPIC: Microscopic examination is performed.
+
+================================================================================
+PAGE 5
+================================================================================
+Page 4 of 5
+
+COMMENT: The neoplasm in the endometrium is a papillary serous carcinoma. There are foci within the neoplastic growth that have an endometrioid appearance; however, these foci have Grade 3 nuclei and, overall, are estimated to comprise less than 25% of the total mass of the neoplasm. Accordingly, it is felt that one cannot justify classifying this as mixed carcinoma. The neoplasm shows extensive lymphvascular invasion involving the myometrium in this manner with relatively shallow direct extension into the myometrium. Parametrial tissue on each side of the uterus is involved, and this appears to be mainly lymphvascular spread. Twelve of nineteen lymph nodes contain metastatic carcinoma, and both ovaries contain metastatic carcinoma. The metastatic deposits are similar to the neoplasm seen in the endometrium.
+
+Omentum and vermiform appendix are uninvolved by neoplasm.
+
+DIAGNOSIS:
+A. Right periaortic node:
+1. Papillary serous carcinoma, metastatic, in three of four lymph nodes. The nodes are disrupted making it not practicable to measure the size of the metastasis accurately.
+2. Extra nodal extension is judged to be likely.
+
+B. Left periaortic node:
+Lymph node, one, free of neoplasm.
+
+C. Left common node:
+Lymph node, one (microscopic finding). Metastatic carcinoma is present in the node.
+
+D. External iliac node:
+Lymph nodes, three, free of neoplasm.
+
+E. Obturator node:
+1. Papillary serous carcinoma, metastatic, in two lymph nodes.
+2. The largest metastasis measures 2.8 cm in greatest dimension.
+3. Extra nodal extension is not seen.
+
+F. Low right periaortic tissue:
+1. Fibroadipose tissue.
+2. Lymph node is not seen.
+3. Malignancy is not seen.
+
+G. Right periaortic:
+1. Papillary serous carcinoma, metastatic in one lymph node.
+2. Vascular channels about the node contain neoplasm, and some of these channels have muscular walls suggestive of blood vessels.
+
+H. Right common iliac:
+Papillary serous carcinoma, metastatic in one lymph node:
+
+I. Right obturator:
+1. Papillary serous carcinoma, metastatic in five of six lymph nodes.
+
+================================================================================
+PAGE 6
+================================================================================
+Page 5 of 5
+
+2. Extra nodal extension is seen.
+
+J. Uterus, tubes, ovaries and cervix:
+   1. Papillary serous carcinoma, endometrium. See comment.
+   2. The neoplasm, by direct extension, involves the myometrium to a
+      depth of approximately 0.6 cm in an area where the myometrium measures
+      1.5 cm in greatest dimension. However, the neoplasm involves
+      intramyometrial lymphatics extensively, and focally is present within
+      0.1cm of the serosal surface. Several of these intravascular foci are
+      seen near the serosa.
+   3. The neoplasm extends along the surface of the uterine cavity to
+      involve the lower uterine segment and upper endocervical canal. The
+      involvement is along the surface with no significant penetration of
+      subjacent myometrium.
+   4. The neoplasm measures 4 cm in greatest dimension and involves the
+      entire endometrial cavity.
+   5. Adenocarcinoma is present in right and left parametrial tissue.
+   6. Lymph node status: papillary serous carcinoma, metastatic, in 12
+      of 19 lymph nodes. See parts A through I of the specimen.
+      a. The largest metastasis measures 2.8 cm in greatest dimension.
+      b. Several foci of extra nodal extension are seen.
+   7. The omentum is uninvolved. See Part K of the specimen.
+   8. Papillary serous carcinoma, metastatic, in the right ovary. The
+      right oviduct has atrophy but does not contain metastatic carcinoma.
+   9. Papillary serous carcinoma, metastatic, in the left ovary.
+      10. The left oviduct is atrophic and does not contain
+          metastatic carcinoma.
+      11. Leiomyomata.
+
+K. Omentum:
+   Lobular adipose tissue, compatible with omentum, free of
+   neoplasm.
+
+L. Appendix:
+   1. Vermiform appendix, histologically unremarkable.
+   2. Malignancy is not seen.
+
+               MD  (Electronically signed) -
+My signature is attestation that I have personally reviewed the
+submitted material(s) and the above diagnosis reflects that evaluation.
+
+_________________________                                  _______________________
+Page created:                                               Top of Page

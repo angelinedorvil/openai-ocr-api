@@ -1,0 +1,154 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0K8\TCGA-B5-A0K8.pdf
+Processing Date: 2026-03-08 18:00:34
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+/cb-0-3
+Adenocarcinoma, serous, NOS 8441/3
+Site: endometrium C54.1  2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri. Per E-browser: adenocarcinoma diagnosed at
+outside hospital.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, tubes and ovaries (AF1)". Unfixed for frozen section and
+transferred to formalin at is a 85 gram, 6 x 6 x 2.2 cm
+uterus with bilateral adnexa.
+
+The uterine serosa is tan and unremarkable. Sectioning demonstrates a 2.2 x 2
+x 1.1 cm tan-pink, friable mass at the fundus extending into the posterior
+endometrium. The mass does not grossly invade the myometrium (1.8 cm thick),
+is 1.5 cm from the closest superior endocervix, and is 4.2 cm from the
+cervical os. The endometrium is otherwise tan and less than 0.1 cm thick. The
+myometrium is unremarkable. The anterior endocervix is remarkable for a 1.1 cm
+nabotian cyst. The ectocervical and endocervical mucosa are otherwise
+unremarkable. Representative full-thickness section of the endometrial mass at
+the fundus is frozen as AF1. The frozen section control is transferred to A1.
+
+BLOCK SUMMARY:
+
+A2-8 mass entirely submitted (full-thickness sections) from fundus to
+posterior endometrium
+A9 adjacent uninvolved posterior endomyometrium
+A10 anterior endomyometrium
+A11 posterior cervix
+A12 anterior cervix
+
+The right fallopian tube (4.5 x 0.6 cm) has a tan, unremarkable serosal
+surface and an unremarkable cut surface. The right ovary (2.5 x 2 x 0.8 cm)
+has a yellow, smooth, glistening surface. The cut surface is unremarkable.
+Representative right fallopian tube and ovary are submitted in block A13.
+
+The left fallopian tube (4.5 x 0.5 cm) has a tan, smooth, glistening surface.
+There are two paratubal cysts up to 0.3 cm in greatest dimension. The cut
+surface is unremarkable. The left ovary (2.5 x 1.5 x 0.6 cm) has a yellow,
+unremarkable external surface and an unremarkable cut surface. Representative
+left fallopian tube and ovary submitted in block A14.
+
+B. "Left pelvic lymph node". Unfixed and transferred to formalin at on
+is a 2.5 x 2 x 0.6 cm fragment of yellow fibroadipose tissue
+dissected for lymph nodes. Two apparent lymph nodes up to 1 cm in greatest
+dimension are identified and submitted in block B1. The remaining fibroadipose
+tissue is submitted in block B2.
+
+C. "Left pelvic lymph node". Unfixed and transferred to formalin at on
+is a 3.4 x 2.2 x 0.8 cm aggregate of yellow fibroadipose tissue
+dissected for lymph nodes. Three apparent lymph nodes up to 1.2 cm in greatest
+dimension are identified and submitted in block C1. The remaining fibroadipose
+tissue is submitted in block C2.
+
+D. "Right pelvic lymph node". Unfixed and transferred to formalin at
+on is a 4.5 x 4 x 1.5 cm aggregate of tan-yellow fibroadipose tissue
+dissected for lymph nodes. Apparent lymph nodes up to 2.5 cm in greatest
+dimension are identified.
+
+BLOCK SUMMARY:  UUID:1E7C9CA2-73AA-4443-A125-D5588F93BEF9
+TCGA-B5-A0K8-01A-PR Redacted
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+  D1	one apparent lymph node, bisected
+  D2	five apparent lymph nodes
+  D3	remaining fibroadipose tissue
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, tubes and ovaries" (AF1, tumor with full thickness
+	myometrium); Extensive EIN. No invasive carcinoma seen (Dr.
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY, LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1a pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "UTERUS, CERVIX, TUBES AND OVARIES" (HYSTERECTOMY, BILATERAL
+	SALPINGO-OOPHORECTOMY):
+
+	UTERUS: 85 GRAMS
+	ENDOMETRIUM:
+		TUMOR SITE: FUNDUS, POSTERIOR ENDOMETRIUM
+		HISTOLOGIC TYPE: SEROUS ADENOCARCINOMA
+		FIGO GRADE: 3
+		TUMOR SIZE: 2.2 X 2 X 1.1 CM.
+		MAXIMUM DEPTH OF MYOMETRIAL INVASION: MINIMAL INVASION (1 MM) IN A 1.8
+			CM THICK WALL.
+		LYMPHATIC/VASCULAR INVASION: NEGATIVE
+		ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC
+	REMAINING MYOMETRIUM: ADENOMYOSIS.
+	CERVIX: NO PATHOLOGIC DIAGNOSIS.
+	SEROSA: NO PATHOLOGIC DIAGNOSIS.
+	SPECIMEN MARGINS: NOT INVOLVED
+
+RIGHT AND LEFT OVARIES AND FALLOPIAN TUBES: NO PATHOLOGIC DIAGNOSIS.
+
+B. "LEFT PELVIC LYMPH NODE" (BIOPSY):
+
+	THREE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/3).
+
+C. "LEFT PELVIC LYMPH NODE" (BIOPSY):
+
+	FOUR LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/4).
+
+D. "RIGHT PELVIC LYMPH NODE" (BIOPSY):
+
+	FIVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/5).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+specimen(s) and have rendered the above diagnosis(es).
+
+Performed by:

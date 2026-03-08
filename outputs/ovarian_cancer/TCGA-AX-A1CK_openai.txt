@@ -1,0 +1,222 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1CK\TCGA-AX-A1CK.pdf
+Processing Date: 2026-03-08 14:37:42
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Adenocarcinoma, endometrioid, axs 8380/3
+Site Cod: Endometrium C54.1  1/9/11 lw
+
+
+Name:
+Birthdate:                         Accession No:
+MR #:                             Accession Date
+Location:                        Collect Date:
+                                Report to Phys:
+
+Account #:
+
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES (HYSTERECTOMY AND
+BILATERAL SALPINGO-OOPHORECTOMY):
+1. MODERATELY DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM,
+5.5 CM IN MAXIMUM DIMENSION.
+2. CARCINOMA INVADES INNER HALF OF MYOMETRIUM (APPROXIMATELY 35 PERCENT OF
+MYOMETRIAL THICKNESS). SEE MICROSCOPIC.
+3. CARCINOMA INVADES LOWER UTERINE SEGMENT AND CLOSELY APPROACHES, BUT DOES
+NOT INVOLVE ENDOCERVIX.
+4. NO ANGIOLYMPHATIC INVASION IDENTIFIED.
+5. CERVIX WITH PARAKERATOSIS, NEGATIVE FOR TUMOR.
+6. BILATERAL OVARIES AND FALLOPIAN TUBES, NEGATIVE FOR TUMOR.
+7. LIEOMYOMATA AND FOCAL ADENOMYOSIS.
+8. LEFT PELVIC LYMPH NODES: SEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/7).
+C. RIGHT PARAORTIC LYMPH NODE: ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+D. RIGHT PELVIC LYMPH NODES: SEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/7).
+E. LEFT PARAORTIC LYMPH NODES: TWO LYMPH NODES, NEGATIVE FOR TUMOR
+(0/2).
+
+TISSUE:
+A) Uterus, Cervix, Bilateral Tubes and Ovaries (FS)
+B) Left Pelvic Lymph Nodes
+C) Right Paraaortic Lymph Node
+D) Right Pelvic Lymph Node
+E) Left Paraaortic Lymph Node
+
+PRE-OP DX:
+Endometrial Cancer
+
+POST-OP DX:
+
+INTRAOPERATIVE CONSULTATION:
+Adenocarcinoma invasion into inner half as per
+
+GROSS:
+The specimen is received fresh in five parts:
+Part A consists an intact uterus and cervix with bilaterally attached
+adnexa weighing 175 grams. Uterus measures 9 X 7 X 7 cm. Right fallopian
+tube measures 5 X 0.5 X 0.5 cm. The attached ovary is pink/tan and
+measures 2.5 X 1.5 X 1 cm. On sectioning, it has a solid tan parenchyma,
+which is not grossly suspicious. The left fallopian tube measures 5 X 0.5 X
+0.5 cm. The attached ovary measures 2.5 X 1.5 X 1 cm. It is sectioned
+revealing a solid tan parenchyma with a peripheral hemorrhagic cyst
+measuring 0.8 cm in diameter. The cervix measures 3 cm in diameter and has
+a rounded 1 cm os. The uterus is bisected revealing an
+
+(continued on next page)
+
+================================================================================
+PAGE 2
+================================================================================
+Name:                                    Accession No:
+Birthdate:                              Accession Date:
+MR #:                                   Collect Date:
+Location:                              Report to Phys
+
+Account #:
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES (HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY):
+1. MODERATELY DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM,
+5.5 CM IN MAXIMUM DIMENSION.
+2. CARCINOMA INVADES INNER HALF OF MYOMETRIUM (APPROXIMATELY 35 PERCENT OF MYOMETRIAL THICKNESS). SEE MICROSCOPIC.
+3. CARCINOMA INVADES LOWER UTERINE SEGMENT AND CLOSELY APPROACHES, BUT DOES NOT INVOLVE ENDOCERVIX.
+4. NO ANGIOLYMPHATIC INVASION IDENTIFIED.
+5. CERVIX WITH PARAKERATOSIS, NEGATIVE FOR TUMOR.
+6. BILATERAL OVARIES AND FALLOPIAN TUBES, NEGATIVE FOR TUMOR.
+7. LEIOMYOMATA AND FOCAL ADENOMYOSIS.
+B. LEFT PELVIC LYMPH NODES: SEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/7).
+C. RIGHT PARAAORTIC LYMPH NODE: ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+D. RIGHT PELVIC LYMPH NODES: SEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/7).
+E. LEFT PARAAORTIC LYMPH NODES: TWO LYMPH NODES, NEGATIVE FOR TUMOR (0/2).
+
+__________________________________________________________
+
+TISSUE:
+A) Uterus, Cervix, Bilateral Tubes and Ovaries (FS)
+B) Left Pelvic Lymph Nodes
+C) Right Paraaortic Lymph Node
+D) Right Pelvic Lymph Node
+E) Left Paraaortic Lymph Node
+
+PRE-OP DX:
+Endometrial Cancer
+
+POST-OP DX:
+
+INTRAOPERATIVE CONSULTATION:
+Adenocarcinoma invasion into inner half as per
+
+GROSS:
+The specimen is received fresh in five parts:
+Part A consists an intact uterus and cervix with bilaterally attached adnexa weighing 175 grams. Uterus measures 9 X 7 X 7 cm. Right fallopian tube measures 5 X 0.5 X 0.5 cm. The attached ovary is pink/tan and measures 2.5 X 1.5 X 1 cm. On sectioning, it has a solid tan parenchyma, which is not grossly suspicious. The left fallopian tube measures 5 X 0.5 X 0.5 cm. The attached ovary measures 2.5 X 1.5 X 1 cm. It is sectioned revealing a solid tan parenchyma with a peripheral hemorrhagic cyst measuring 0.8 cm in diameter. The cervix measures 3 cm in diameter and has a rounded 1 cm os. The uterus is bisected revealing an
+
+(continued on next page)
+
+================================================================================
+PAGE 3
+================================================================================
+(continued)  
+                                                                                         PAGE 2  
+
+Name:  
+Birthdate:  
+MR #:  
+Location:  
+
+Accession No:  
+Accession Date  
+Collect Date:  
+Report to Phys:  
+
+endometrial canal measuring 6 cm in length.  It is lined by a shaggy  
+nodular friable tumor measuring 5.5 X 4 X 2 cm anteriorly and 4 X 2 X 1 cm  
+posteriorly. The tumor grossly superficially invades into the myometrium.  
+The adjacent myometrium measures 2 cm in thickness. The tumor grossly  
+approaches the serosal surface to within 2 cm.  The tumor is also grossly  
+present in the lower uterine segment mainly on the posterior half.  The  
+myometrium also contains at least three separate circumscribed rubbery  
+tan/white soft tissue masses measuring up to 3 cm in diameter.  They each  
+have a swirling rubbery white parenchyma that bulges above the cut surface  
+without obvious areas of hemorrhage or necrosis grossly.  A representative  
+section of the lesion is frozen and submitted labeled A1.  The remaining  
+specimen is sectioned as follows: cervix A2, right tube and ovary A3, left  
+tube and ovary A4, representative sections of anterior endomyometrium A5 to  
+A9, representative sections of posterior endomyometrium A10 to A14,  
+intraparenchymal masses A15.  
+
+Part B consists of lobular portions of fatty soft tissue in aggregate  
+measuring 4 X 3 X 2 cm.  They are dissected revealing several fatty nodes  
+measuring up to 1.5 cm in diameter.  The smaller nodes are submitted  
+labeled B1.  One sectioned node each is submitted labeled B2 to B4.  
+
+Part C consists of fragments of yellow/red fatty soft tissue in an  
+aggregate measuring 3 X 2 X 1 cm.  They are dissected revealing a single  
+fatty node measuring up to 1.5 X 0.6 X 0.6 cm.  It is bisected and entirely  
+submitted as C.  
+
+Part D consists of lobular fragments of yellow/red fatty soft tissue in an  
+aggregate measuring 5 X 3 X 3 cm.  They are dissected revealing several  
+fatty nodes measuring up to 1.5 cm in diameter.  The smaller nodes are  
+submitted as D1.  One sectioned node each is submitted as D2-D4.  
+
+Part E consists of fragments of yellow/red fatty soft tissue in an  
+aggregate measuring 2 X 1 X 1 cm.  The specimen is dissected revealing two  
+small nodes measuring up to 1 cm in diameter.  They are sectioned and  
+separately submitted labeled E1 and E2.  
+
+MICROSCOPIC:  
+Grossly the uterus contained a tumor filling the endometrial cavity.  
+Microscopic sections show moderately differentiated endometrioid  
+adenocarcinoma.  The tumor involves the entire endometrial cavity and  
+invades with a pushing front, making measurement of the exact depth of  
+invasion difficult.  The invasion appears confined within the inner half  
+
+(continued on next page)
+
+================================================================================
+PAGE 4
+================================================================================
+(continued)                                                                                         PAGE 3
+and is estimated to be approximately 35 percent of the myometrial thickness.
+
+Name:                                                                                      Accession No:
+Birthdate:                                                                                Accession Date:
+MR #:                                                                                       Collect Date:
+Location:                                                                                  Report to Phys:
+
+Surgical Pathology Cancer Case Summary (Checklist)
+                         Applies to invasive carcinomas only
+Based on AJCC/UICC TNM, 6th edition,
+Organ:
+MACROSCOPIC
+SPECIMEN TYPE:
+      Hysterectomy
+TUMOR SIZE
+      Greatest dimension: 5.5 cm
+OTHER ORGANS PRESENT right ovary, left ovary, right fallopian tube, left fallopian tube.
+MICROSCOPIC
+HISTOLOGIC TYPE:
+      Endometrioid adenocarcinoma, NOS
+HISTOLOGIC GRADE: G2
+MYOMETRIAL INVASION
+      Invasion present
+      Specify depth of invasion: Approximately 14 mm
+      Specify myometrial thickness: Approximately 40 mm
+EXTENT OF INVASION TNM
+      pT1b (IB)
+REGIONAL LYMPH NODES: pNO
+      Specify Number examined:17 ; Number involved: 0
+DISTANT METASTASIS: pMX
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)
+      Absent
+MARGINS uninvolved by invasive carcinoma.
+PATHOLOGIST:                                                                                     MD
+SNOMED CODE:
+Endometrium, adenocarcinoma.
+Electronically signed by:

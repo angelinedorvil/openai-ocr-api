@@ -1,0 +1,278 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A2HJ\TCGA-AX-A2HJ.pdf
+Processing Date: 2026-03-08 16:04:43
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Criteria	Yes	No
+Diagnosis Discrepancy	✓	
+Primary Tumor Site Discrepancy	✓	
+HIPAA Discrepancy	✓	
+Prior Malignancy History		
+Dual/Synchronous Primary Note		
+Case is (circle):	QUALIFIED	DISQUALIFIED	
+Reviewer initials		6	Date Reviewed:	10/8/11	
+		/4/9/11	
+
+ICD-0-3
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C54.1 fw 4/9/11
+
+Name Redacted
+Loc -	Adm:	
+Sex: F	DOB: (		MRUN: Redacted
+		Att:		Acc#:
+
+Acc#: Redacted
+
+Ord #:	*ASAP*/RESULTED	Collect D/T=
+
+SURGICAL PATHOLOGY
+Modifiers:	(1 of 1)
+SURGICAL PATHOLOGY:
+CoPath Specimen :
+
+Source:
+A: Uterus, cervix +/- tubes/ovaries, ( f/s )
+B: Anterior Vaginal margin
+C: Posterior Vaginal margin
+D: Left Pelvic lymph node
+E: Left Peri-aortic lymph node
+F: Right Pelvic lymph node
+G: Right Peri-aortic lymph node
+
+Final Diagnosis
+A. Uterus, cervix, ovaries, and fallopian tubes, F/S (TAH/BSO):
+UTERUS:
+- Endometrial adenocarcinoma, endometrioid type, moderately differentiated, FIGO grade 3.
+-Tumor site: Anterior and posterior endometrium
+-Tumor size: 7.2 X 6.3 X 2.5 cm
+-Tumor invades more than two thirds of the myometrium (2.2 cm invasion depth/ 2.5 cm myometrial thickness) or 88% of myometrial wall.
+- Foci suspicious for lymphovascular invasion are seen.
+- Right and left parametia are negative for tumor.
+- Margins are uninvolved by invasive carcinoma
+- Distance of invasive carcinoma from closest margin: 3 mm (Anterior serosa).
+CERVIX:
+- Acute and chronic cervicitis.
+- Negative for carcinoma.
+OVARIES AND FALLOPIAN TUBES:
+- Follicular cysts
+- Negative for carcinoma.
+
+Pathologic TNM stage (AJCC 2002): T1b N0 MX.
+
+B. Anterior vaginal margin (excision):
+- Squamous mucosa with mild chronic inflammation.
+- Negative for malignancy.
+
+C. Posterior vaginal margin (excision):
+- Squamous mucosa with focal acute and chronic inflammation.
+- Negative for malignancy.
+
+UUID:84FF1AB9-47F4-4884-9345-43878BDEF379
+TCGA-AX-A2HJ-01A-PR	Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2
+
+
+Name ████████████████          Sex: F          DOB: '               MRUN██████████
+Loc:          Adm:              Att:               Acc#: ████████████████
+------------------------------------------------------------------------------------------
+SURGICAL PATHOLOGY
+                     (Continued)
+Acct#: ████████______________________
+
+D. Left pelvic lymph node (excision):
+- Three lymph nodes, negative for metastatic carcinoma (0/3).
+
+E. Left periaortic lymph node (excision):
+- Two lymph nodes, negative for metastatic carcinoma (0/3).
+
+F. Right pelvic lymph node (excision):
+- Four lymph nodes, negative for metastatic carcinoma (0/4).
+
+G. Right periaortic lymph node (excision):
+- Eight lymph nodes, negative for metastatic carcinoma (0/8).
+
+Comment:
+The frozen section of the right ovary had an area that was suspicious for metastatic carcinoma. However, on permanent section that area turned out to be only a solid collection of follicular cells.
+
+***Electronically Signed Out              ***
+
+Clinical History
+          female with endometrial cancer.
+
+Pre Operative Diagnosis
+Endometrial cancer.
+
+Operation Performed
+EUA; Ex-Lap; TAH/BSO; BLPPALND
+
+Operative Findings
+18 week globular uterus, enlarged right ovary; same prominent lymph nodes.
+
+Post Operative Diagnosis
+Same.
+
+Intraoperative Diagnosis
+Frozen Section:
+
+#1 and 2:
+Uterus Endometrial adenocarcinoma, grade 2-3, infiltrating
+
+================================================================================
+PAGE 3
+================================================================================
+4
+
+Name Sex: F DOB: MRUN Loc: Adm: Att: Acc#:
+---------------------------------------------------------------
+SURGICAL PATHOLOGY
+(Continued)
+Acct#:
+approximately 80% of myometrial wall.
+
+3. Right ovary Foci highly suspicious for metastatic carcinoma.
+
+Gross Description
+The specimen is submitted in 7 parts, labeled ":
+
+Specimen A is received fresh for frozen section, labeled
+"uterus, cervix, BSO". It consists of a hysterectomy and
+bilateral salpingo-oophorectomy spm weighing 266 grams. The
+uterus measures 9.5 cm from superior to inferior, 7.2 cm from
+cornu to cornu and 6.5 cm from anterior to posterior. The
+serosal surface is pink-tan and smooth. The anterior surface of
+the uterus is inked blue and the posterior surface is inked
+black. The uterus is opened with a Y-shaped incision to reveal a
+soft, pink-red, hemorrhagic, irregular, tumor mass, occupying
+the entire endometrial cavity. The mass measures 7.2 X 6.3 X
+2.5 cm. The endocervical canal measures 3.1 cm in length. The
+endocervical mucosa is pink-red and hemorrhagic. The anterior
+myometrium measures 2.5 cm in thickness and the posterior
+myometrium measures 2.2 cm in thickness. The tumor infiltrates
+deep into the anterior myometrium and measures up to 2.2 cm into
+the myometrium. The right fallopian tube measures 7.5 cm in
+length and 0.2 cm in average diameter. The right ovary is
+pink-tan, enlarged with a smooth serosal surface. The right
+ovary measures 4.1 X 2.2 X 1.7 cm. The ovary is bisected to
+reveal a cystic sectioned surface with central firm, pink-tan
+areas. The cysts measure 0.2 to 0.6 cm in greatest dimension.
+The left fallopian tube measures 6.5 cm in length and 0.3 cm in
+average diameter. The left ovary is pink-tan, enlarged with a
+smooth outer surface. The left ovary measures 4.0 X 2.2 X 2.0
+cm. The left ovary is bisected to reveal a firm, pink-tan
+sectioned surface with multiple cysts that range in size from
+0.3 to 0.4 cm in greatest dimension. A representative section
+of the tumor from the anterior wall, including the myometrium,
+is submitted for frozen section. The tumor with the myometrium
+is submitted as frozen sectionl and the remainder of tissue is
+entirely submitted in -Al. The tumor mass with the
+endometrium is submitted as frozen section 2 and the remaining
+
+================================================================================
+PAGE 4
+================================================================================
+```
+                                                                                     Page 4
+
+
+Name ████████████████████          Sex: F        DOB: ▪                MRUN███████████
+Loc:                 Adm: ▪        Att:                 Acc#:
+
+------------------------------------------------------------------------------------------
+SURGICAL PATHOLOGY
+
+Acct#: ████████
+                   (Continued)
+
+tissue is entirely submitted as ▪  -A2. A representative
+section of the right ovary is submitted for frozen section and
+the remainder of the tissue is submitted as        A3.
+Representative sections are submitted for microscopic
+examination as follows:
+
+Cassette Summary:
+A4 anterior cervix,
+A5 posterior cervix,
+A6 anterior lower uterine segment with tumor,
+A7 posterior lower uterine segment with tumor,
+A8 representative section from the tumor,
+A9 anterior endomyometrium to serosa with tumor,
+A10 posterior endomyometrium to serosa with tumor,
+A11 a representative section of tumor,
+A12 right ovary,
+A13 right fallopian tube,
+A14 left ovary,
+A15 left fallopian tube
+A16 - right parametrium
+A17 - left parametrium
+
+Specimen B is received in formalin, labeled "anterior vaginal
+margin". It consists of an elongated piece of tan tissue,
+measuring 1.5 X 0.8 X 0.3 cm. The specimen is entirely
+submitted in        B1.
+
+Specimen C is received in formalin, labeled "posterior vaginal
+margin". It consists of an irregular piece of pink-tan tissue,
+measuring 0.8 X 0.3 X 0.3 cm. The specimen is entirely
+submitted in        C1.
+
+Specimen D is received in formalin, labeled "pelvic lymph node".
+It consists of two irregular pieces of fatty tissue, measuring
+in aggregate 3.5 X 2.5 X 1.2 cm. Three lymph nodes are
+identified, measuring 1.5, 1.7, and 5.1 cm in greatest
+dimension. The lymph nodes are entirely submitted as follows:
+D1 two lymph nodes, one bisected, D2 and D3 one lymph node
+sectioned into 4 pieces.
+
+Specimen E is received in formalin, labeled as "left periaortic
+lymph node". It consists of multiple irregular pieces of
+fibro-lymphoid tissue, measuring in aggregate 2.7 X 1.4 X 0.6
+cm. Two lymph nodes are identified, measuring 1.4 and 1.0 cm in
+```
+
+================================================================================
+PAGE 5
+================================================================================
+Page 5
+
+
+Name███████████          Sex: F      DOB:               MRUN███████████
+Loc: I          Adm:.          Att:               Acc#:
+-------------------------------------------------------------------------------
+SURGICAL PATHOLOGY
+Acct#:███████
+                (Continued)
+
+greatest dimension. The lymph nodes are entirely submitted as
+follows: E1 one lymph node bisected, E2 one lymph node
+bisected.
+
+Specimen F is received in formalin, labeled "right pelvic lymph
+node". It consists of an irregular piece of fibro-lymphoid
+tissue, measuring 2.7 X 1.8 X 0.8 cm. Two lymph nodes are
+identified, measuring 2.1 X 1.3 X 2.5 cm and 0.8 X 0.3 X 0.3 m.
+The lymph nodes are entirely submitted as follows: F1 and F2
+one lymph node bisected, F3 one lymph node with entire
+remaining fatty tissue.
+
+Specimen G is received in formalin, labeled "right periaortic
+lymph node". It consists of an irregular piece of fibrofatty
+tissue, measuring 2.6 X 1.6 X 0.3 cm. Three lymph nodes are
+identified, measuring 0.8, 1.0 and 0.5 cm in greatest dimension.
+The specimen is entirely submitted as follows: G1 one lymph
+node, G2 one lymph node, bisected, G3 one lymph node with
+entire remaining fatty tissue.
+
+Microscopic Description
+Microscopic Examination was performed.

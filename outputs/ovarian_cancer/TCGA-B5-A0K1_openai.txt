@@ -1,0 +1,107 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0K1\TCGA-B5-A0K1.pdf
+Processing Date: 2026-03-08 17:22:01
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 2
+
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+site: Endometrium C54.1  2/25/11
+hr
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri.
+
+GROSS EXAMINATION:
+A. "Uterus and cervix", received fresh for frozen section is a 173 gram, 10.1 x 7.8 x 4.8 cm uterus which contains a 7 x 6 x 1.9 cm friable white mass that involves both the anterior and posterior wall of the uterus and fills the endometrial cavity, extending 1 cm into a 2.2 cm thick myometrium. A full thickness section demonstrating extent of invasion is frozen as AF1 with the frozen section remnant submitted in block A1. An additional full thickness section of tumor involving the anterior wall is in block A2, with tumor involving the posterior wall and A3. This tumor approaches but does not appear to invade the unremarkable lower uterine segment and cervix (anterior lower uterine segment and tumor A4, anterior cervix in A5, tumor approaching posterior lower uterine segment in A6, posterior cervix in A7). The serosal surface is unremarkable.
+
+B. "Right tube and ovary", received fresh is an 18.5 gram specimen containing right fallopian tube (5 x 1 cm) and ovary (3 x 1 x 1 cm) that are unremarkable. Sections of tube and ovary submitted in block B1.
+
+C. "Left tube and ovary", received fresh is a 13.6 gram specimen consisting of left fallopian tube (4 x 1 cm) and ovary (2.5 x 1 x 1 cm) that are unremarkable (C1).
+
+D. "Left pelvic lymph node", received fresh is a 10 x 4 x 1 cm aggregate of fibrofatty tissue that is examined for lymph nodes. This candidate is submitted as follows:
+
+BLOCK SUMMARY:
+D1- four lymph node candidates
+D2- four lymph node candidates
+D3- one candidate, bisected
+D4- one candidate, quadrasected
+D5- one candidate, trisected
+D6- one candidate, bisected
+D7- one candidate, bisected
+D8- one candidate, trisected
+D9-10- one candidate, quadrasected and fully submitted in two blocks
+D11-13- largest lymph node candidate (2 x 1 x 1 cm) in three blocks
+
+E. "Right pelvic lymph nodes", received fresh is a 10 x 4 x 1 cm aggregate of fibrofatty tissue that is examined for lymph nodes with candidates submitted as follows:
+
+E1- three candidates
+E2- two candidates
+E3- one candidate, bisected
+E4- one candidate, trisected
+E5- one candidate, trisected
+E6-7- one candidate, trisected and submitted in two blocks
+E8-10- largest candidate (4 x 1 x 0.2 cm), submitted in three blocks
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus and cervix":
+AF1 (anterior endomyometrium full thickness with mass, 1 cm invasion into
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 2
+
+a 2.2 cm thick myometrium)-adenocarcinoma FIGO I ████████
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 173 GRAMS
+    ENDOMETRIUM:
+        TUMOR SITE: ANTERIOR WALL
+        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+        FIGO GRADE: 1,
+        TUMOR SIZE: 7 X 6 X 1.9 CM.
+        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 1 CM, IN A 2.2 CM THICK WALL.
+        LYMPHATIC/VASCULAR INVASION: NEGATIVE
+        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC
+    REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.
+    CERVIX: NO PATHOLOGIC DIAGNOSIS.
+    SEROSA: NO PATHOLOGIC DIAGNOSIS.
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR
+B. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+C. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+D. LEFT PELVIC LYMPH NODES: NO TUMOR IN 13 LYMPH NODES (0/13).
+E. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 9 LYMPH NODES (0/9).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████

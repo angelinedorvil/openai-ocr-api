@@ -1,0 +1,275 @@
+{
+  "pdf": "reports\\TCGA-B5-A0JY\\TCGA-B5-A0JY.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 32.52482008934021,
+        "chars": 2870,
+        "words": 480,
+        "text": "Page 1 of 3\n\nICD-0-3\nCarcinoma, undifferentiated, NOS 80203\nSite: Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri, 182.0.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, right and left ovary and tubes (AF1)\". Received fresh for frozen section is a 734 gram, 10.5 x 13.5 x 14.5 cm hysterectomy specimen with bilateral attached fallopian tubes and ovaries. The serosal surface is discolored white and has pale plaque-like lesions that are focally hemorrhagic. Sectioning reveals an endometrial cavity that is grossly distorted by an infiltrating white mass with irregular borders that extends through the full thickness of the myometrium to the serosal surface. This mass measures approximately 10 x 7 x 4 cm. A representative section from the serosa is frozen as AF1 and the frozen section remnant is transferred to block A1. The tumor extends to within 1 cm of the lower uterine segment but does not appear to involve the lower uterine segment or the cervix. There are two intramural leiomyomas (up to 2 cm). The tumor displays an endophytic growth but protrudes into the uterine cavity (1 x 1 x 1 cm) and has areas of focal necrosis (up to 1 cm). The left fallopian tube (5 x 1 cm) contains a pedunculated paratubal cyst. The left ovary (3 x 3 x 2 cm) also contains a cyst (1 x 1 x 1 cm) that extrudes watery material upon sectioning. The right fallopian tube (6 x 1 cm) has focal hemorrhagic adhesions. The right ovary (1.5 x 1 x 0.5 cm) also has focal hemorrhagic adhesions and is otherwise unremarkable.\n\nBLOCK SUMMARY:\nA1- frozen section remnant.\nA2- anterior cervix.\nA3- anterior lower uterine segment.\nA4- posterior cervix.\nA5- posterior lower uterine segment.\nA6- tumor with exophytic growth.\nA7- tumor with necrosis.\nA8- tumor with serosa (inked blue, region of frozen section).\nA9- full thickness anterior endomyometrium with tumor.\nA10- full thickness posterior endomyometrium with myometrium with tumor.\nA11- leiomyoma.\nA12- right fallopian tube and ovary.\nA13- left fallopian tube and ovary.\nA14- tumor with questionable calcifications, not grossly visible.\n\nB. \"Left gutter biopsy (BF1)\", received fresh and fixed in formalin is a 1.5 x 0.5 x 0.3 cm fragment of tissue that is bisected and submitted in its entirety in block B1.\n\nC. \"Left pelvic lymph node (CF1)\", received fresh and fixed in formalin is an 8 x 3 x 2 cm aggregate of fibrofatty tissue. This aggregate contains one lymph node measuring 4 x 3 x 2 cm that on cut section is replaced by a white necrotic mass. A representative section is submitted in block C1. Additional lymph node candidate is submitted as follows:\n\nBLOCK SUMMARY:\n\nC2- three lymph node candidates, one bisected, inked blue.\nC3- four lymph node candidates (up to 1 cm).\nC4- four lymph node candidates (up to 1 cm).\n\nD. \"Right pelvic lymph node\". Received fresh and fixed in formalin. Received",
+        "confidence": {
+          "mean_probability": 0.9919687883324024,
+          "mean_log_probability": -0.01016469387755102,
+          "perplexity": 1.0102165298617956,
+          "min_probability": 0.32797988457298166
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 785,
+          "total_tokens": 3257
+        },
+        "composite_score": 0.9919500699724253,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 32.52482008934021,
+          "chars": 2870,
+          "words": 480,
+          "text": "Page 1 of 3\n\nICD-0-3\nCarcinoma, undifferentiated, NOS 80203\nSite: Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri, 182.0.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, right and left ovary and tubes (AF1)\". Received fresh for frozen section is a 734 gram, 10.5 x 13.5 x 14.5 cm hysterectomy specimen with bilateral attached fallopian tubes and ovaries. The serosal surface is discolored white and has pale plaque-like lesions that are focally hemorrhagic. Sectioning reveals an endometrial cavity that is grossly distorted by an infiltrating white mass with irregular borders that extends through the full thickness of the myometrium to the serosal surface. This mass measures approximately 10 x 7 x 4 cm. A representative section from the serosa is frozen as AF1 and the frozen section remnant is transferred to block A1. The tumor extends to within 1 cm of the lower uterine segment but does not appear to involve the lower uterine segment or the cervix. There are two intramural leiomyomas (up to 2 cm). The tumor displays an endophytic growth but protrudes into the uterine cavity (1 x 1 x 1 cm) and has areas of focal necrosis (up to 1 cm). The left fallopian tube (5 x 1 cm) contains a pedunculated paratubal cyst. The left ovary (3 x 3 x 2 cm) also contains a cyst (1 x 1 x 1 cm) that extrudes watery material upon sectioning. The right fallopian tube (6 x 1 cm) has focal hemorrhagic adhesions. The right ovary (1.5 x 1 x 0.5 cm) also has focal hemorrhagic adhesions and is otherwise unremarkable.\n\nBLOCK SUMMARY:\nA1- frozen section remnant.\nA2- anterior cervix.\nA3- anterior lower uterine segment.\nA4- posterior cervix.\nA5- posterior lower uterine segment.\nA6- tumor with exophytic growth.\nA7- tumor with necrosis.\nA8- tumor with serosa (inked blue, region of frozen section).\nA9- full thickness anterior endomyometrium with tumor.\nA10- full thickness posterior endomyometrium with myometrium with tumor.\nA11- leiomyoma.\nA12- right fallopian tube and ovary.\nA13- left fallopian tube and ovary.\nA14- tumor with questionable calcifications, not grossly visible.\n\nB. \"Left gutter biopsy (BF1)\", received fresh and fixed in formalin is a 1.5 x 0.5 x 0.3 cm fragment of tissue that is bisected and submitted in its entirety in block B1.\n\nC. \"Left pelvic lymph node (CF1)\", received fresh and fixed in formalin is an 8 x 3 x 2 cm aggregate of fibrofatty tissue. This aggregate contains one lymph node measuring 4 x 3 x 2 cm that on cut section is replaced by a white necrotic mass. A representative section is submitted in block C1. Additional lymph node candidate is submitted as follows:\n\nBLOCK SUMMARY:\n\nC2- three lymph node candidates, one bisected, inked blue.\nC3- four lymph node candidates (up to 1 cm).\nC4- four lymph node candidates (up to 1 cm).\n\nD. \"Right pelvic lymph node\". Received fresh and fixed in formalin. Received",
+          "confidence": {
+            "mean_probability": 0.9919687883324024,
+            "mean_log_probability": -0.01016469387755102,
+            "perplexity": 1.0102165298617956,
+            "min_probability": 0.32797988457298166
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 785,
+            "total_tokens": 3257
+          },
+          "composite_score": 0.9919500699724253,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 24.530036449432373,
+          "chars": 2872,
+          "words": 481,
+          "text": "ICD-0-3\nCarcinoma, undifferentiated, NOS 80203\nSite: Endometrium C54.1 2/25/11 μ\n\nPage 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri, 182.0.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, right and left ovary and tubes (AF1)\". Received fresh for frozen section is a 734 gram, 10.5 x 13.5 x 14.5 cm hysterectomy specimen with bilateral attached fallopian tubes and ovaries. The serosal surface is discolored white and has pale plaque-like lesions that are focally hemorrhagic. Sectioning reveals an endometrial cavity that is grossly distorted by an infiltrating white mass with irregular borders that extends through the full thickness of the myometrium to the serosal surface. This mass measures approximately 10 x 7 x 4 cm. A representative section from the serosa is frozen as AF1 and the frozen section remnant is transferred to block A1. The tumor extends to within 1 cm of the lower uterine segment but does not appear to involve the lower uterine segment or the cervix. There are two intramural leiomyomas (up to 2 cm). The tumor displays an endophytic growth but protrudes into the uterine cavity (1 x 1 x 1 cm) and has areas of focal necrosis (up to 1 cm). The left fallopian tube (5 x 1 cm) contains a pedunculated paratubal cyst. The left ovary (3 x 3 x 2 cm) also contains a cyst (1 x 1 x 1 cm) that extrudes watery material upon sectioning. The right fallopian tube (6 x 1 cm) has focal hemorrhagic adhesions. The right ovary (1.5 x 1 x 0.5 cm) also has focal hemorrhagic adhesions and is otherwise unremarkable.\n\nBLOCK SUMMARY:\nA1- frozen section remnant.\nA2- anterior cervix.\nA3- anterior lower uterine segment.\nA4- posterior cervix.\nA5- posterior lower uterine segment.\nA6- tumor with exophytic growth.\nA7- tumor with necrosis.\nA8- tumor with serosa (inked blue, region of frozen section).\nA9- full thickness anterior endomyometrium with tumor.\nA10- full thickness posterior endomyometrium with myometrium with tumor.\nA11- leiomyoma.\nA12- right fallopian tube and ovary.\nA13- left fallopian tube and ovary.\nA14- tumor with questionable calcifications, not grossly visible.\n\nB. \"Left gutter biopsy (BF1)\", received fresh and fixed in formalin is a 1.5 x 0.5 x 0.3 cm fragment of tissue that is bisected and submitted in its entirety in block B1.\n\nC. \"Left pelvic lymph node (CF1)\", received fresh and fixed in formalin is an 8 x 3 x 2 cm aggregate of fibrofatty tissue. This aggregate contains one lymph node measuring 4 x 3 x 2 cm that on cut section is replaced by a white necrotic mass. A representative section is submitted in block C1. Additional lymph node candidate is submitted as follows:\n\nBLOCK SUMMARY:\n\nC2- three lymph node candidates, one bisected, inked blue.\nC3- four lymph node candidates (up to 1 cm).\nC4- four lymph node candidates (up to 1 cm).\n\nD. \"Right pelvic lymph node\". Received fresh and fixed in formalin. Received",
+          "confidence": {
+            "mean_probability": 0.9920778826542349,
+            "mean_log_probability": -0.00979303949044586,
+            "perplexity": 1.0098411482169847,
+            "min_probability": 0.41447857273046584
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 786,
+            "total_tokens": 3258
+          },
+          "composite_score": 0.9426294698797939
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.22857975959778,
+          "chars": 2871,
+          "words": 481,
+          "text": "Page 1 of 3\n\nICD-0-3\nCarcinoma, undifferentiated, NOS 80203\nSite: Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri, 182.0.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, right and left ovary and tubes (AF1)\". Received fresh for frozen section is a 734 gram, 10.5 x 13.5 x 14.5 cm hysterectomy specimen with bilateral attached fallopian tubes and ovaries. The serosal surface is discolored white and has pale plaque-like lesions that are focally hemorrhagic. Sectioning reveals an endometrial cavity that is grossly distorted by an infiltrating white mass with irregular borders that extends through the full thickness of the myometrium to the serosal surface. This mass measures approximately 10 x 7 x 4 cm. A representative section from the serosa is frozen as AF1 and the frozen section remnant is transferred to block Al. The tumor extends to within 1 cm of the lower uterine segment but does not appear to involve the lower uterine segment or the cervix. There are two intramural leiomyomas (up to 2 cm). The tumor displays an endophytic growth but protrudes into the uterine cavity (1 x 1 x 1 cm) and has areas of focal necrosis (up to 1 cm). The left fallopian tube (5 x 1 cm) contains a pedunculated paratubal cyst. The left ovary (3 x 3 x 2 cm) also contains a cyst (1 x 1 x 1 cm) that extrudes watery material upon sectioning. The right fallopian tube (6 x 1 cm) has focal hemorrhagic adhesions. The right ovary (1.5 x 1 x 0.5 cm) also has focal hemorrhagic adhesions and is otherwise unremarkable.\n\nBLOCK SUMMARY:\nAl- frozen section remnant.\nA2- anterior cervix.\nA3- anterior lower uterine segment.\nA4- posterior cervix.\nA5- posterior lower uterine segment.\nA6- tumor with exophytic growth.\nA7- tumor with necrosis.\nA8- tumor with serosa (inked blue, region of frozen section).\nA9- full thickness anterior endomyometrium with tumor.\nA10- full thickness posterior endomyometrium with myometrium with tumor.\nAll- leiomyoma.\nA12- right fallopian tube and ovary.\nA13- left fallopian tube and ovary.\nA14- tumor with questionable calcifications, not grossly visible.\n\nB. \"Left gutter biopsy (BF1)\", received fresh and fixed in formalin is a 1.5 x 0.5 x 0.3 cm fragment of tissue that is bisected and submitted in its entirety in block Bl.\n\nC. \"Left pelvic lymph node (CF1)\", received fresh and fixed in formalin is an 8 x 3 x 2 cm aggregate of fibrofatty tissue. This aggregate contains one lymph node measuring 4 x 3 x 2 cm that on cut section is replaced by a white necrotic mass. A representative section is submitted in block Cl. Additional lymph node candidate is submitted as follows:\n\nBLOCK SUMMARY:\n\nC2- three lymph node candidates, one bisected, inked blue.\nC3- four lymph node candidates (up to 1 cm).\nC4- four lymph node candidates ( up to 1 cm).\n\nD. \"Right pelvic lymph node\". Received fresh and fixed in formalin. Received",
+          "confidence": {
+            "mean_probability": 0.9894778157827047,
+            "mean_log_probability": -0.013311622593068036,
+            "perplexity": 1.0134006166879308,
+            "min_probability": 0.3605152574965601
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 780,
+            "total_tokens": 3252
+          },
+          "composite_score": 0.9400160691487554
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 23.196685791015625,
+        "chars": 2592,
+        "words": 376,
+        "text": "Page 2 of 3\n\nfresh and fixed in formalin is a 2 x 2 x 1 cm aggregate of fibrofatty tissue\nthat contains a 2 x 2 x 1 cm lymph node candidate that on cut section is\ninfiltrated with white necrotic mass. Representative section in block D1.\nAdditional lymph node candidates are submitted as follows:\nD2- three lymph node candidates.\nD3- two lymph node candidates.\nD4- two lymph node candidates.\n\nE. \"Omentum\". Received fresh and fixed in formalin is a 17 x 2 x 1 cm piece of\nomentum. Sectioning reveals focal hemorrhage but no mass lesions.\nRepresentative sections are submitted in blocks E1-E2.\n\nF. \"Sigmoid mesenteric biopsy\". Received fresh and fixed in formalin is a 1 x\n0.2 x 0.3 cm piece of mesentery that is bisected and submitted entirely in\nblock F1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, right and left ovary\": AF1 (representative serosal surface\nwith gross tumor)- poorly differentiated carcinoma involving serosal surface\n(Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, bilateral lymph node\ndissection, omentectomy, biopsy.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, RIGHT AND LEFT OVARY AND TUBES\" (HYSTERECTOMY, BILATERAL\nSALPINGO-OOPHORECTOMY):\n\nUNDIFFERENTIATED CARCINOMA OF THE ENDOMETRIUM, SEE COMMENT.\n    TUMOR SITE: DIFFUSE\n    FIGO GRADE: 3 OF 3\n    TUMOR SIZE: 10 CM\n    MAXIMUM DEPTH OF MYOMETRIAL INVASION: THROUGH FULL THICKNESS OF\n        MYOMETRIUM TO SEROSAL SURFACE.\n    LYMPHATIC/VASCULAR INVASION: PRESENT\n    ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE IDENTIFIED\nREMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 2 CM)\nCERVIX: FREE OF TUMOR\nSEROSA: POSITIVE FOR CARCINOMA\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT FALLOPIAN TUBE: POSITIVE FOR SEROSAL IMPLANTS OF CARCINOMA.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT AND LEFT OVARIES: ADHESIONS, NO TUMOR IS SEEN.",
+        "confidence": {
+          "mean_probability": 0.9951358331850166,
+          "mean_log_probability": -0.005728049046321525,
+          "perplexity": 1.0057444856875697,
+          "min_probability": 0.40949237341567096
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 735,
+          "total_tokens": 3207
+        },
+        "composite_score": 0.995443659703632,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 23.196685791015625,
+          "chars": 2592,
+          "words": 376,
+          "text": "Page 2 of 3\n\nfresh and fixed in formalin is a 2 x 2 x 1 cm aggregate of fibrofatty tissue\nthat contains a 2 x 2 x 1 cm lymph node candidate that on cut section is\ninfiltrated with white necrotic mass. Representative section in block D1.\nAdditional lymph node candidates are submitted as follows:\nD2- three lymph node candidates.\nD3- two lymph node candidates.\nD4- two lymph node candidates.\n\nE. \"Omentum\". Received fresh and fixed in formalin is a 17 x 2 x 1 cm piece of\nomentum. Sectioning reveals focal hemorrhage but no mass lesions.\nRepresentative sections are submitted in blocks E1-E2.\n\nF. \"Sigmoid mesenteric biopsy\". Received fresh and fixed in formalin is a 1 x\n0.2 x 0.3 cm piece of mesentery that is bisected and submitted entirely in\nblock F1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, right and left ovary\": AF1 (representative serosal surface\nwith gross tumor)- poorly differentiated carcinoma involving serosal surface\n(Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, bilateral lymph node\ndissection, omentectomy, biopsy.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, RIGHT AND LEFT OVARY AND TUBES\" (HYSTERECTOMY, BILATERAL\nSALPINGO-OOPHORECTOMY):\n\nUNDIFFERENTIATED CARCINOMA OF THE ENDOMETRIUM, SEE COMMENT.\n    TUMOR SITE: DIFFUSE\n    FIGO GRADE: 3 OF 3\n    TUMOR SIZE: 10 CM\n    MAXIMUM DEPTH OF MYOMETRIAL INVASION: THROUGH FULL THICKNESS OF\n        MYOMETRIUM TO SEROSAL SURFACE.\n    LYMPHATIC/VASCULAR INVASION: PRESENT\n    ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE IDENTIFIED\nREMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 2 CM)\nCERVIX: FREE OF TUMOR\nSEROSA: POSITIVE FOR CARCINOMA\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT FALLOPIAN TUBE: POSITIVE FOR SEROSAL IMPLANTS OF CARCINOMA.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT AND LEFT OVARIES: ADHESIONS, NO TUMOR IS SEEN.",
+          "confidence": {
+            "mean_probability": 0.9951358331850166,
+            "mean_log_probability": -0.005728049046321525,
+            "perplexity": 1.0057444856875697,
+            "min_probability": 0.40949237341567096
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 735,
+            "total_tokens": 3207
+          },
+          "composite_score": 0.995443659703632,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 24.82038402557373,
+          "chars": 2560,
+          "words": 376,
+          "text": "Page 2 of 3\n\nfresh and fixed in formalin is a 2 x 2 x 1 cm aggregate of fibrofatty tissue\nthat contains a 2 x 2 x 1 cm lymph node candidate that on cut section is\ninfiltrated with white necrotic mass. Representative section in block D1.\nAdditional lymph node candidates are submitted as follows:\nD2- three lymph node candidates.\nD3- two lymph node candidates.\nD4- two lymph node candidates.\n\nE. \"Omentum\". Received fresh and fixed in formalin is a 17 x 2 x 1 cm piece of\nomentum. Sectioning reveals focal hemorrhage but no mass lesions.\nRepresentative sections are submitted in blocks E1-E2.\n\nF. \"Sigmoid mesenteric biopsy\". Received fresh and fixed in formalin is a 1 x\n0.2 x 0.3 cm piece of mesentery that is bisected and submitted entirely in\nblock F1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, right and left ovary\": AF1 (representative serosal surface\nwith gross tumor)- poorly differentiated carcinoma involving serosal surface\n(Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, bilateral lymph node\ndissection, omentectomy, biopsy.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, RIGHT AND LEFT OVARY AND TUBES\" (HYSTERECTOMY, BILATERAL\nSALPINGO-OOPHORECTOMY):\n\nUNDIFFERENTIATED CARCINOMA OF THE ENDOMETRIUM, SEE COMMENT.\nTUMOR SITE: DIFFUSE\nFIGO GRADE: 3 OF 3\nTUMOR SIZE: 10 CM\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: THROUGH FULL THICKNESS OF\nMYOMETRIUM TO SEROSAL SURFACE.\nLYMPHATIC/VASCULAR INVASION: PRESENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE IDENTIFIED\nREMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 2 CM)\nCERVIX: FREE OF TUMOR\nSEROSA: POSITIVE FOR CARCINOMA\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT FALLOPIAN TUBE: POSITIVE FOR SEROSAL IMPLANTS OF CARCINOMA.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT AND LEFT OVARIES: ADHESIONS, NO TUMOR IS SEEN.",
+          "confidence": {
+            "mean_probability": 0.9941015141155283,
+            "mean_log_probability": -0.007003187070151307,
+            "perplexity": 1.007027766729871,
+            "min_probability": 0.41427304233414347
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 728,
+            "total_tokens": 3200
+          },
+          "composite_score": 0.9447145925239815
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 21.35720729827881,
+          "chars": 2560,
+          "words": 376,
+          "text": "Page 2 of 3\n\nfresh and fixed in formalin is a 2 x 2 x 1 cm aggregate of fibrofatty tissue that contains a 2 x 2 x 1 cm lymph node candidate that on cut section is infiltrated with white necrotic mass. Representative section in block D1. Additional lymph node candidates are submitted as follows:\nD2- three lymph node candidates.\nD3- two lymph node candidates.\nD4- two lymph node candidates.\n\nE. \"Omentum\". Received fresh and fixed in formalin is a 17 x 2 x 1 cm piece of omentum. Sectioning reveals focal hemorrhage but no mass lesions. Representative sections are submitted in blocks E1-E2.\n\nF. \"Sigmoid mesenteric biopsy\". Received fresh and fixed in formalin is a 1 x 0.2 x 0.3 cm piece of mesentery that is bisected and submitted entirely in block F1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, right and left ovary\": AF1 (representative serosal surface with gross tumor)- poorly differentiated carcinoma involving serosal surface (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, bilateral lymph node dissection, omentectomy, biopsy.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, RIGHT AND LEFT OVARY AND TUBES\" (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):\n\nUNDIFFERENTIATED CARCINOMA OF THE ENDOMETRIUM, SEE COMMENT.\nTUMOR SITE: DIFFUSE\nFIGO GRADE: 3 OF 3\nTUMOR SIZE: 10 CM\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: THROUGH FULL THICKNESS OF MYOMETRIUM TO SEROSAL SURFACE.\nLYMPHATIC/VASCULAR INVASION: PRESENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE IDENTIFIED\nREMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 2 CM)\nCERVIX: FREE OF TUMOR\nSEROSA: POSITIVE FOR CARCINOMA\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT FALLOPIAN TUBE: POSITIVE FOR SEROSAL IMPLANTS OF CARCINOMA.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT AND LEFT OVARIES: ADHESIONS, NO TUMOR IS SEEN.",
+          "confidence": {
+            "mean_probability": 0.9942152488621316,
+            "mean_log_probability": -0.008111833333333335,
+            "perplexity": 1.008144823396312,
+            "min_probability": 0.21827053485626263
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 709,
+            "total_tokens": 3181
+          },
+          "composite_score": 0.9438846136614141
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.946790933609009,
+        "chars": 1089,
+        "words": 146,
+        "text": "Page 3 of 3\n\nB. \"LEFT GUTTER\" (BIOPSY):\n\n        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nC. \"LEFT PELVIC LYMPH NODES\" (DISSECTION):\n\n        METASTATIC CARCINOMA IN ONE OF TEN LYMPH NODES (1/10).\n        SIZE OF METASTASIS: 4 CM.\n\nD. \"RIGHT PELVIC LYMPH NODES\" (DISSECTION):\n\n        METASTATIC CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).\n        SIZE OF METASTASIS: 2 CM.\n\nE. \"OMENTUM\" (OMENTECTOMY):\n\n        ADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nF. \"SIGMOID MESENTERY\" (BIOPSY):\n\n        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe tumor is very poorly differentiated, with a completely solid, sheet-like\ngrowth pattern and no significant glandular, papillary, or squamous\ndifferentiation. Because it shows no specific differentiation, it is\nclassified as an undifferentiated carcinoma.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+        "confidence": {
+          "mean_probability": 0.9896996967138131,
+          "mean_log_probability": -0.013747660377358488,
+          "perplexity": 1.0138425939998312,
+          "min_probability": 0.25117006989349455
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 319,
+          "total_tokens": 2791
+        },
+        "composite_score": 0.8980510197934338,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.946790933609009,
+          "chars": 1089,
+          "words": 146,
+          "text": "Page 3 of 3\n\nB. \"LEFT GUTTER\" (BIOPSY):\n\n        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nC. \"LEFT PELVIC LYMPH NODES\" (DISSECTION):\n\n        METASTATIC CARCINOMA IN ONE OF TEN LYMPH NODES (1/10).\n        SIZE OF METASTASIS: 4 CM.\n\nD. \"RIGHT PELVIC LYMPH NODES\" (DISSECTION):\n\n        METASTATIC CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).\n        SIZE OF METASTASIS: 2 CM.\n\nE. \"OMENTUM\" (OMENTECTOMY):\n\n        ADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nF. \"SIGMOID MESENTERY\" (BIOPSY):\n\n        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe tumor is very poorly differentiated, with a completely solid, sheet-like\ngrowth pattern and no significant glandular, papillary, or squamous\ndifferentiation. Because it shows no specific differentiation, it is\nclassified as an undifferentiated carcinoma.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9896996967138131,
+            "mean_log_probability": -0.013747660377358488,
+            "perplexity": 1.0138425939998312,
+            "min_probability": 0.25117006989349455
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 319,
+            "total_tokens": 2791
+          },
+          "composite_score": 0.8980510197934338,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.7518980503082275,
+          "chars": 1061,
+          "words": 146,
+          "text": "Page 3 of 3\n\nB. \"LEFT GUTTER\" (BIOPSY):\n\n    FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nC. \"LEFT PELVIC LYMPH NODES\" (DISSECTION):\n\n    METASTATIC CARCINOMA IN ONE OF TEN LYMPH NODES (1/10).\n    SIZE OF METASTASIS: 4 CM.\n\nD. \"RIGHT PELVIC LYMPH NODES\" (DISSECTION):\n\n    METASTATIC CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).\n    SIZE OF METASTASIS: 2 CM.\n\nE. \"OMENTUM\" (OMENTECTOMY):\n\n    ADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nF. \"SIGMOID MESENTERY\" (BIOPSY):\n\n    FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe tumor is very poorly differentiated, with a completely solid, sheet-like\ngrowth pattern and no significant glandular, papillary, or squamous\ndifferentiation. Because it shows no specific differentiation, it is\nclassified as an undifferentiated carcinoma.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9897758441530458,
+            "mean_log_probability": -0.015762685534591196,
+            "perplexity": 1.0158875719813145,
+            "min_probability": 0.11806369641842782
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 319,
+            "total_tokens": 2791
+          },
+          "composite_score": 0.8490012600084739
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.184584140777588,
+          "chars": 1082,
+          "words": 146,
+          "text": "Page 3 of 3\n\nB. \"LEFT GUTTER\" (BIOPSY):\n\n       FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nC. \"LEFT PELVIC LYMPH NODES\" (DISSECTION):\n\n       METASTATIC CARCINOMA IN ONE OF TEN LYMPH NODES (1/10).\n       SIZE OF METASTASIS: 4 CM.\n\nD. \"RIGHT PELVIC LYMPH NODES\" (DISSECTION):\n\n       METASTATIC CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).\n       SIZE OF METASTASIS: 2 CM.\n\nE. \"OMENTUM\" (OMENTECTOMY):\n\n       ADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nF. \"SIGMOID MESENTERY\" (BIOPSY):\n\n       FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe tumor is very poorly differentiated, with a completely solid, sheet-like growth pattern and no significant glandular, papillary, or squamous differentiation. Because it shows no specific differentiation, it is classified as an undifferentiated carcinoma.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9889891651515381,
+            "mean_log_probability": -0.016277516233766234,
+            "perplexity": 1.0164107167442178,
+            "min_probability": 0.1311359116623225
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 309,
+            "total_tokens": 2781
+          },
+          "composite_score": 0.8506172301216427
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

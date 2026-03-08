@@ -1,0 +1,223 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A2HC\TCGA-AX-A2HC.pdf
+Processing Date: 2026-03-08 15:23:46
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Diagnosis Discrepancy	Yes	No
+Primary Tumor Site Discrepancy	✔	
+iiiPAD Discrepancy	✔	
+Prior Malignancy History	✔	
+Dual/Synchronous Primary Ne	✔	
+Case is (circle):	QUALIFIED	DISQUALIFIED	
+Reviewer Initials:  R R	Date Reviewed:  6 21 11	
+	7/19/11	
+Surgical Pathology Final Report		Page 1 of 5
+Temporary Copy	
+Case#	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+
+================================================================================
+PAGE 2
+================================================================================
+Surgical Pathology Final Report                  Page 2 of 5
+Temporary Copy
+
+Case:                                    Patient: 
+Collected:                               ID: 
+Ordered by:                             Location: 
+
+    Fibromuscular stroma.............Negative
+Vaginal involvement:
+Vaginal margin.....................N/A
+Parametrial soft tissue:
+    Right...........................Negative
+    Left............................Negative
+Regional Lymph Nodes
+    Metastasis/Total)..........8/26
+    Right inguinal/obturator.........N/A
+    Left inguinal/obturator..........N/A
+    Right pelvic.....................3/15
+    Left pelvic......................1/6
+    Right and left periaortic........1/1
+    Right common iliac...............1/1
+    Left common iliac................2/3
+
+Extranodal extension...............Negative
+Ancillary studies..................Ki-67, chromogranin, synaptophysin,
+                                  AE1/AE3 performed
+ER..................................N/A
+PR..................................N/A
+Ploidy..............................N/A
+pTNM...............................pT1b, N1, MX
+
+
+Completed By:
+(Electronically Signed)
+
+Comment
+This case was reviewed at the
+conference were:                         . Those present at the
+
+Immunostains performed as follows:
+
+-Chromogranin focally stains the tumor epithelial cells, an indication of neuroendocrine differentiation.
+The findings are not consistent with a diagnosis of PNET.
+-Synaptophysin is negative
+-Cytokeratin (AE1/AE3) stains the tumor epithelial cells
+-Vimentin focally stains the stromal component of the tumor
+-Mucicarmine and PAS stain the luminal secretions of the tumor glands
+-Ki 67 stain of the cellular leiomyoma shows an average proliferative index of 5-8 cells per HPF.
+Is notified.
+
+Clinical Information
+Specimen(s):  Uterus /w Cervix
+              Lymph Node, Left Pelvic
+              Lymph Nodes, Right Common Iliac
+              Right Adnexa
+              Left Adnexa
+
+================================================================================
+PAGE 3
+================================================================================
+Surgical Pathology Final Report                                                                                  Page 3 of 5
+Temporary
+
+Case:                                                                                      Patient:
+Collected:                                                                                  ID: /
+Ordered by                                                                                  Location. 
+
+                          Lymph Nodes, Right Pelvic
+                          Lymph Nodes, Left Pelvic
+                          Lymph Node, Left Common Iliac
+                          Lymph Node, PeriAortic
+                          Omentum
+
+Clinical diagnosis: Endometrial CA
+
+Operation: TAH-BSO
+
+Clinical history.                                           G2P2 endometrial CA
+
+Frozen Section Diagnosis
+1FSA. UTERUS: FROZEN SECTION:
+- Malignant neoplasm, no evidence of invasion
+
+2FSA. TWO LYMPH NODES, LEFT PELVIC; FROZEN SECTION:
+- Metastatic malignant neoplasm
+
+Accessioned:
+     Reported:
+
+3FSA. RIGHT COMMON ILIAC LYMPH NODE; FROZEN SECTION:
+- Positive for metastatic disease
+
+Accessioned:
+     Reported:
+
+Gross Description
+Specimen 1, received fresh and labeled "uterus with cervix," consists of a large distorted uterus with attached cervix weighing 1742 grams and has the following measurements: 20.0 cm from cornu-to-cornu, 10.0 cm from cervix to fundus and 8.0 cm from anterior to posterior. The cervix itself measures 5.0 x 4.0 cm. The specimen is bivalved to reveal large filiform, hemorrhagic exophytic tumor which measures 6.5 x 5.0 x 4.0 cm and extensively involves the endomyometrial cavity as well as a large, circumscribed, round, soft, pink-tan, lobulated tumor with focal areas of necrosis and hemorrhage involving the myometrium measuring 15.0 x 10.0 x 6.5 cm. There are also multiple small to large, intramural and subserosal, round, well-circumscribed, firm, tan-white nodules with whorled appearance measuring from 1.2 to 6.2 cm in greatest dimension. The endocervical canal itself is smooth, tan, unremarkable and measures 6.0 cm in length and 0.5 cm in thickness. The endometrial cavity is also enlarged but severely distorted and has a smooth, pink-tan appearance. Gross photographs are taken. The first two tumors which were mentioned appear to be abutting next to each other and serial sectioning of the uterus reveals that they are less than 0.6 cm apart. Serial sectioning of the endomyometrium reveals a maximal myometrial thickness of 3.3 cm with the first filiform tumor invading to a maximal depth of 0.5 cm. Representative sections of the tumor, uterus and cervix are submitted as follows:
+     1FSA through 1C                      - remainder of frozen section tissue of the tumor
+     1D & 1E                              - cervix
+
+================================================================================
+PAGE 4
+================================================================================
+Surgical Pathology Final Report                                    Page 4 of 5
+Temporary Copy
+
+Case:1                      Patient:  -------------------
+Collected:                  ID:  -------------------
+Ordered By:                Location:  -------------------
+        1F & 1G                     - lower uterine segment
+        1H through 1K               - parametrium
+        1L through 1P               - filiform tumor with myometrium
+        1Q & 1R                    - myometrium with inked serosa
+        1S & 1T                    - filiform tumor with myometrium again (showing maximal gross
+                                      myometrial invasion)
+        1U & 1V                    - myometrial with inked serosa again
+        1W                         - section showing relationship between the two large tumors*
+        1X through 1AC              - filiform tumor with endomyometrium
+        1AD through 1AH             - largest leiomyoma-like tumor
+        1AI through 1AK             - leiomyomas
+
+*the filiform tumor and the largest leiomyoma-like tumor
+
+Specimen 2, received fresh and labeled "left pelvic node," consists of an enlarged soft, pink lymph
+node with attached fat measuring 3.0 x 2.5 x 0.4 cm. The entire specimen is submitted as follows:
+        2FSA                        - remainder from frozen section tissue
+        2B through 2D               - tissue not used for frozen
+
+Specimen 3, received fresh and labeled "right common iliac lymph node," consists of an enlarged soft,
+pink lymph node which measures 4.0 x 2.0 x 1.0 cm. Serial sectioning reveals two large, firm, tan,
+circumscribed nodules within the lymph node parenchyma which measure 1.3 and 0.9 cm in greatest
+dimension, respectively. The entire specimen is submitted as follows:
+        3FSA                        - remainder from frozen section tissue
+        3B through 3F               - tissue not used for frozen
+
+Specimen 4, received in formalin and labeled "right adnexa," consists of a small, ovoid, firm, wrinkled
+tan ovary with attached fallopian tube and which measures 4.4 x 3.3 x 1.6 cm. The
+unremarkable-appearing ovary measures 2.3 x 1.6 x 1.2 cm and the attached fallopian tube has a soft,
+pink, coiled, tubular-like structure which measures 4.5 cm in length and 0.7 cm in diameter. No tumor
+is seen on the external surface of this adnexal structure. On cross section, the fallopian tube has a
+pinpoint lumen. Representative sections are submitted as follows:
+        4A                          - ovary
+        4B                          - ovarian hilum with blood vessels
+        4C                          - fallopian tube
+        4D and 4E                  - two more representative sections of the ovary
+
+Specimen 5, received in formalin and labeled "left adnexa," consists of an ovary with attached
+fallopian tube which measures altogether 5.1 x 2.6 x 2.8 cm. The firm, tan, wrinkled
+unremarkable-appearing ovary itself measures 2.8 x 2.5 x 0.9 cm and the attached fallopian tube is a
+soft, pink, coiled, tubular-like structure which measures 4.2 cm in length and 0.7 cm in maximal
+diameter. No tumor is seen grossly on the external surface of the specimen. Representative sections
+are submitted as follows:
+        5A through 5C               - ovary
+        5D                          - ovarian hilum including blood vessels
+        5E                          - fallopian tube
+
+Specimen 6, received in formalin and labeled "right pelvic nodes," consists of a fragment of fatty
+yellow tissue which measures 4.6 x 2.9 x 1.1 cm. Careful palpation reveals several small to large
+lymph nodes which range in size from 0.6 to 2.5 cm in largest dimension. The entire specimen is
+
+================================================================================
+PAGE 5
+================================================================================
+Surgical Pathology Final Report                 Page 5 of 5
+Property Copy
+
+Case: 1
+Collected: 
+Ordered by: 
+submitted as follows:
+        6A and 6B                  - largest lymph node bisected
+        6C and 6D                  - second largest lymph node bisected
+        6E through 6H           - smaller lymph nodes bisected, one lymph node per cassette
+
+Additional lymph nodes are found and these are submitted as follows:
+        6I and 6J                   - lymph nodes bisected, one per cassette
+        6K and 6L                  - multiple smaller lymph nodes
+
+Specimen 7, received in formalin and labeled "left pelvic nodes," consists of several fragments of soft, yellow fatty tissue which measures in aggregate 5.0 x 3.2 x 1.5 cm. Careful palpation reveals several small to large lymph nodes which range in size from 0.8 to 2.6 cm in largest dimension. The entire specimen is submitted as follows:
+        7A and 7B                  - largest lymph node bisected
+        7C and 7D                  - largest lymph node bisected
+        7E                             - smaller lymph node bisected
+        7F and 7G                  - fatty tissue
+
+Specimen 8, received in formalin and labeled "left common iliac lymph nodes," consists of three small to large soft, pink lymph nodes which range in size from 0.8 to 2.5 cm in largest dimension. The entire specimen is submitted as follows:
+        8A through 8C           - largest lymph node serially sectioned
+        8D                            - second largest lymph node
+        8E                             - smallest lymph node bisected
+
+Specimen 9, received in formalin and labeled "periaortic iliac lymph nodes," consists of an enlarged, soft, pink-tan lymph node which measures 2.9 x 1.6 x 1.1 cm. The specimen is serially sectioned to reveal firm, well-circumscribed, tan cut surface and is entirely submitted in cassettes 9A through 9D.
+
+Specimen 10, received in formalin and labeled "omental biopsy," consists of a soft, yellow, fatty fragment of tissue which measures 5.6 x 3.4 x 1.2 cm. No obvious tumor nodules are seen or palpated. The entire specimen is submitted in cassettes 10A through 10A.
+
+Microscopic Exam
+All sections are examined. Histologic findings are summarized in Pathologic Diagnosis.
+
+The attending pathologist whose signature appears on this report has reviewed the diagnostic slides and has edited the gross and/or microscopic portion of the report in rendering the final microscopic diagnosis.

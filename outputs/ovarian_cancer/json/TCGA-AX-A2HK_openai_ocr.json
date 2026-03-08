@@ -1,0 +1,661 @@
+{
+  "pdf": "reports\\TCGA-AX-A2HK\\TCGA-AX-A2HK.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 172.00315070152283,
+        "chars": 4167,
+        "words": 1990,
+        "text": "```\nCriteria\nDiagnosis Discrepancy\tYes\tNo\nPrimary Tumor Site Discrepancy\t✔\t\nPIRAD Discrepancy\t✔\t\nPrior Malignancy History\t✔\t\nUsual/Synchronous Primary Noted\t✔\t\nRUN DATE:\t(see is(sue):\tQUA\t DISQUALIFIED\nRUN TIME:\tReviewing Initials:\tDate Reviewed:\t6/19/11\nBY:\t\t/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /",
+        "confidence": {
+          "mean_probability": 0.9743088875588689,
+          "mean_log_probability": -0.0339130546875,
+          "perplexity": 1.0344946583565295,
+          "min_probability": 0.06623177144340787
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9737594533437823,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 30.6% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 30.6% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 172.00315070152283,
+          "chars": 4167,
+          "words": 1990,
+          "text": "```\nCriteria\nDiagnosis Discrepancy\tYes\tNo\nPrimary Tumor Site Discrepancy\t✔\t\nPIRAD Discrepancy\t✔\t\nPrior Malignancy History\t✔\t\nUsual/Synchronous Primary Noted\t✔\t\nRUN DATE:\t(see is(sue):\tQUA\t DISQUALIFIED\nRUN TIME:\tReviewing Initials:\tDate Reviewed:\t6/19/11\nBY:\t\t/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /",
+          "confidence": {
+            "mean_probability": 0.9743088875588689,
+            "mean_log_probability": -0.0339130546875,
+            "perplexity": 1.0344946583565295,
+            "min_probability": 0.06623177144340787
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9737594533437823,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 30.6% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 30.6% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.264187574386597,
+          "chars": 2355,
+          "words": 275,
+          "text": "```\nCriteria\nDiagnosis Discrepancy                Yes    No\nPrimary Tumor Site Discrepancy               ✓\nP53A Discrepancy                             ✓\nPrior Malignancy History                      ✓\nUsual/Synchronous Primary Note               ✓\nRUN DATE:                                  QUANTITATIVE   DISQUALIFIED\nRUN TIME:                                  Date Reviewed:  6/19/11\nBY:                                       \n\nPATIENT:                                 ACCT #:                 LOC:               U#:\nREG DR:                                 AGE/SX:      /F       RM/BED:             REG:\nSPEC #:                                STATUS:                  TLOC:              DIS:\n\nObtained:                              Submit Dr:\nReceived:\n\nCLINICAL HISTORY:\nENDOMETRIAL ADENO CA                                              ICD-0-3\n\nSPECIMEN/PROCEDURE:\n1. UTERUS - WITH CERVIX, TUBES, & OVARIES\n2. LYMPH NODE - L. PARA-AORTIC\n3. LYMPH NODE - R. PARA-AORTIC\n4. LYMPH NODE - R COMMON ILIAC\n5. LYMPH NODE - R EXTERNAL ILIAC\n6. LYMPH NODE - R OBTURATOR\n7. LYMPH NODE - L COMMON ILIAC\n8. LYMPH NODE - L PELVIC LYMPH NODE\n9. LYMPH NODE - L OBTURATOR\n10. LIVER - BX\n11. LYMPH NODE - LYMPH NODE\n\nadenocarcinoma, endometrioid, nos 8380/3\nSite: endometrium C54.1  lw 6/19/11\n\nIMPRESSION:\n\n1) UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES, TOTAL ABDOMINAL HYSTERECTOMY AND\n   BILATERAL SALPINGO-OOPHORECTOMY:\n   . ENDOMETRIUM:\n     . Endometrial adenocarcinoma, endometrioid type.\n     . FIGO grade III, nuclear grade 2.\n   . MYOMETRIUM:\n     . Myometrial invasion, more than 50% (10 mm of 12 mm, 84%).\n     . Lymphovascular space invasion, present.\n     . Leiomyomas, including adenomyoma.\n   . CERVIX:\n     . Cervical mucosa and stroma involvement, present.  See comment.\n   . UTERINE SEROSA:\n     . Negative for endometrial adenocarcinoma.\n   . BILATERAL OVARIES:\n     . Atrophic, negative for endometrial adenocarcinoma.\n   . BILATERAL FALLOPIAN TUBES:\n     . Negative for endometrial adenocarcinoma.\n\n2) LYMPH NODE, LEFT PARA-AORTIC, DISSECTION:\n   . One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n3) LYMPH NODE, RIGHT PARA-AORTIC, DISSECTION:\n   . One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n4) LYMPH NODE, RIGHT COMMON ILIAC, DISSECTION:\n\n                  ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9401362201608329,
+            "mean_log_probability": -14.635752350290698,
+            "perplexity": 2271048.893346334,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 689,
+            "total_tokens": 3161
+          },
+          "composite_score": 0.167024585966924
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 17.974395990371704,
+          "chars": 2206,
+          "words": 259,
+          "text": "```\nCriteria\nDiagnosis Discrepancy     Yes     No\nPrimary Tumor Site Discrepancy\nPIRAD Discrepancy\nPrior Malignancy History\nUsual/Synchronous Primary Noted\nRUN DATE:        (case is (circle): QUADRANT)  DISQUALIFIED\nRUN TIME:        Reviewing Initials:  Date Reviewed:  6/9/11\nBY:\n\nPATIENT:                       ACCT #:                LOC:                 U#:\nREG DR:                       AGE/SX:     /F        RM/BED:              REG:\nSPEC #:                       STATUS:                 TLOC:                DIS:\n\n                       Obtained:                 Subm Dr:\n                       Received:\n\nCLINICAL HISTORY:\nENDOMETRIAL ADENO CA                                   ICD-0-3\n\nSPECIMEN/PROCEDURE:\n1. UTERUS - WITH CERVIX, TUBES, & OVARIES\n2. LYMPH NODE - L. PARA-AORTIC\n3. LYMPH NODE - R. PARA-AORTIC\n4. LYMPH NODE - R COMMON ILIAC\n5. LYMPH NODE - R EXTERNAL ILIAC\n6. LYMPH NODE - R OBTURATOR\n7. LYMPH NODE - L COMMON ILIAC\n8. LYMPH NODE - L PELVIC LYMPH NODE\n9. LYMPH NODE - L OBTURATOR\n10. LIVER - BX\n11. LYMPH NODE - LYMPH NODE\n\nadenocarcinoma, endometrioid, nos 8380/3\nSite: endometrium C54.1  lw 6/19/11\n\nIMPRESSION:\n\n1)  UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES, TOTAL ABDOMINAL HYSTERECTOMY AND\n    BILATERAL SALPINGO-OOPHORECTOMY:\n    ENDOMETRIUM:\n        Endometrial adenocarcinoma, endometrioid type.\n        FIGO grade III, nuclear grade 2.\n    MYOMETRIUM:\n        Myometrial invasion, more than 50% (10 mm of 12 mm, 84%).\n        Lymphovascular space invasion, present.\n        Leiomyomas, including adenomyoma.\n    CERVIX:\n        Cervical mucosa and stroma involvement, present.  See comment.\n    UTERINE SEROSA:\n        Negative for endometrial adenocarcinoma.\n    BILATERAL OVARIES:\n        Atrophic, negative for endometrial adenocarcinoma.\n    BILATERAL FALLOPIAN TUBES:\n        Negative for endometrial adenocarcinoma.\n\n2)  LYMPH NODE, LEFT PARA-AORTIC, DISSECTION:\n    One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n3)  LYMPH NODE, RIGHT PARA-AORTIC, DISSECTION:\n    One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n4)  LYMPH NODE, RIGHT COMMON ILIAC, DISSECTION:\n\n                  ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9439632115229788,
+            "mean_log_probability": -0.10829353529411763,
+            "perplexity": 1.1143748057185978,
+            "min_probability": 0.027450387350413042
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 681,
+            "total_tokens": 3153
+          },
+          "composite_score": 0.6130172364614745
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.858933687210083,
+        "chars": 1604,
+        "words": 180,
+        "text": "```\nSPEC #1.                          PATIENT:                          Page 2\n                                                                 (Continued)\n\nIMPRESSION: (continued)\n      Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\n5)   LYMPH NODE, RIGHT EXTERNAL ILIAC, DISSECTION:\n      One of five lymph nodes, positive for endometrial adenocarcinoma (1/5).\n\n6)   LYMPH NODE, RIGHT OBTURATOR, DISSECTION:\n      Four lymph nodes, negative for endometrial adenocarcinoma (0/4).\n\n7)   LYMPH NODE, LEFT COMMON ILIAC, DISSECTION:\n      One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n8)   LYMPH NODE, LEFT PELVIC, DISSECTION:\n      One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n9)   LYMPH NODE, LEFT OBTURATOR, DISSECTION:\n      Eight lymph nodes, negative for endometrial adenocarcinoma (0/8).\n\n10)  LIVER, CORE BIOPSY:\n      Hepatoparenchyma with mild steatosis, minimal active inflammation and\n      marked fibrosis. See comment.\n      Negative for endometrial adenocarcinoma.\n\n11)  LYMPH NODE, SITE NOT SPECIFIED, DISSECTION:\n      Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n      Radical hysterectomy\n\nTUMOR SITE\n      Specify location(s): Anterior and posterior\n\nTUMOR SIZE\n      Greatest dimension:  4.0 cm\n      Additional dimensions:  3.0 x 1.0 cm\n\nOTHER ORGANS PRESENT\n      Right ovary\n      Left ovary\n      Right fallopian tube\n      Left fallopian tube\n      Others: Liver\n\nMICROSCOPIC\n\n\n                  ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9727698251338043,
+          "mean_log_probability": -0.04649123972602741,
+          "perplexity": 1.0475889018625455,
+          "min_probability": 0.04269173231902861
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 439,
+          "total_tokens": 2911
+        },
+        "composite_score": 0.6474015363700594,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.858933687210083,
+          "chars": 1604,
+          "words": 180,
+          "text": "```\nSPEC #1.                          PATIENT:                          Page 2\n                                                                 (Continued)\n\nIMPRESSION: (continued)\n      Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\n5)   LYMPH NODE, RIGHT EXTERNAL ILIAC, DISSECTION:\n      One of five lymph nodes, positive for endometrial adenocarcinoma (1/5).\n\n6)   LYMPH NODE, RIGHT OBTURATOR, DISSECTION:\n      Four lymph nodes, negative for endometrial adenocarcinoma (0/4).\n\n7)   LYMPH NODE, LEFT COMMON ILIAC, DISSECTION:\n      One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n8)   LYMPH NODE, LEFT PELVIC, DISSECTION:\n      One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n9)   LYMPH NODE, LEFT OBTURATOR, DISSECTION:\n      Eight lymph nodes, negative for endometrial adenocarcinoma (0/8).\n\n10)  LIVER, CORE BIOPSY:\n      Hepatoparenchyma with mild steatosis, minimal active inflammation and\n      marked fibrosis. See comment.\n      Negative for endometrial adenocarcinoma.\n\n11)  LYMPH NODE, SITE NOT SPECIFIED, DISSECTION:\n      Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n      Radical hysterectomy\n\nTUMOR SITE\n      Specify location(s): Anterior and posterior\n\nTUMOR SIZE\n      Greatest dimension:  4.0 cm\n      Additional dimensions:  3.0 x 1.0 cm\n\nOTHER ORGANS PRESENT\n      Right ovary\n      Left ovary\n      Right fallopian tube\n      Left fallopian tube\n      Others: Liver\n\nMICROSCOPIC\n\n\n                  ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9727698251338043,
+            "mean_log_probability": -0.04649123972602741,
+            "perplexity": 1.0475889018625455,
+            "min_probability": 0.04269173231902861
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 439,
+            "total_tokens": 2911
+          },
+          "composite_score": 0.6474015363700594,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.895987033843994,
+          "chars": 1662,
+          "words": 180,
+          "text": "```\nSPEC #1.                        PATIENT:                          Page 2\n                                                                 (Continued)\n\nIMPRESSION: (continued)\n        Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\n5)      LYMPH NODE, RIGHT EXTERNAL ILIAC, DISSECTION:\n        One of five lymph nodes, positive for endometrial adenocarcinoma (1/5).\n\n6)      LYMPH NODE, RIGHT OBTURATOR, DISSECTION:\n        Four lymph nodes, negative for endometrial adenocarcinoma (0/4).\n\n7)      LYMPH NODE, LEFT COMMON ILIAC, DISSECTION:\n        One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n8)      LYMPH NODE, LEFT PELVIC, DISSECTION:\n        One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n9)      LYMPH NODE, LEFT OBTURATOR, DISSECTION:\n        Eight lymph nodes, negative for endometrial adenocarcinoma (0/8).\n\n10)     LIVER, CORE BIOPSY:\n        Hepatoparenchyma with mild steatosis, minimal active inflammation and\n        marked fibrosis. See comment.\n        Negative for endometrial adenocarcinoma.\n\n11)     LYMPH NODE, SITE NOT SPECIFIED, DISSECTION:\n        Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n        Radical hysterectomy\n\nTUMOR SITE\n        Specify location(s): Anterior and posterior\n\nTUMOR SIZE\n        Greatest dimension: 4.0 cm\n        Additional dimensions: 3.0 x 1.0 cm\n\nOTHER ORGANS PRESENT\n        Right ovary\n        Left ovary\n        Right fallopian tube\n        Left fallopian tube\n        Others: Liver\n\nMICROSCOPIC\n\n\n                     ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9737687442653499,
+            "mean_log_probability": -0.047106614678899074,
+            "perplexity": 1.0482337602281513,
+            "min_probability": 0.03419773038935665
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 437,
+            "total_tokens": 2909
+          },
+          "composite_score": 0.6185896978339551
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 11.68278455734253,
+          "chars": 1640,
+          "words": 180,
+          "text": "```\nSPEC #1.                          PATIENT:                          Page 2\n                                                                 (Continued)\n\nIMPRESSION: (continued)\n       Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\n5)    LYMPH NODES, RIGHT EXTERNAL ILIAC, DISSECTION:\n       One of five lymph nodes, positive for endometrial adenocarcinoma (1/5).\n\n6)    LYMPH NODES, RIGHT OBTURATOR, DISSECTION:\n       Four lymph nodes, negative for endometrial adenocarcinoma (0/4).\n\n7)    LYMPH NODES, LEFT COMMON ILIAC, DISSECTION:\n       One of two lymph nodes, positive for endometrial adenocarcinoma (1/2).\n\n8)    LYMPH NODES, LEFT PELVIC, DISSECTION:\n       One of four lymph nodes, positive for endometrial adenocarcinoma (1/4).\n\n9)    LYMPH NODES, LEFT OBTURATOR, DISSECTION:\n       Eight lymph nodes, negative for endometrial adenocarcinoma (0/8).\n\n10)   LIVER, CORE BIOPSY:\n       Hepatoparenchyma with mild steatosis, minimal active inflammation and\n       marked fibrosis. See comment.\n       Negative for endometrial adenocarcinoma.\n\n11)   LYMPH NODES, SITE NOT SPECIFIED, DISSECTION:\n       Two lymph nodes, negative for endometrial adenocarcinoma (0/2).\n\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n       Radical hysterectomy\n\nTUMOR SITE\n       Specify location(s): Anterior and posterior\n\nTUMOR SIZE\n       Greatest dimension:  4.0 cm\n       Additional dimensions:  3.0 x 1.0 cm\n\nOTHER ORGANS PRESENT\n       Right ovary\n       Left ovary\n       Right fallopian tube\n       Left fallopian tube\n       Others: Liver\n\nMICROSCOPIC\n\n\n                     ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9714079851817368,
+            "mean_log_probability": -0.0502737972972973,
+            "perplexity": 1.051558970968783,
+            "min_probability": 0.04215664313306657
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 445,
+            "total_tokens": 2917
+          },
+          "composite_score": 0.6155945830477846
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.438729286193848,
+        "chars": 1908,
+        "words": 228,
+        "text": "SPEC #1.                                  PATIENT:                                 Page 1\n                                                                                  (Continued)\n\nIMPRESSION: (continued)\nHISTOLOGIC TYPE\n    Endometrial adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G3: More than 50% nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  10 mm\n    Thickness of myometrium in area of maximal tumor invasion:  12 mm\n    The % of myometrial involvement:  83%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\n    pT2b (IIB):  Cervical stromal invasion\n\nREGIONAL LYMPH NODES (pN)\n    pN1 (IIIC): Regional lymph node metastasis\n        Number examined: 33\n        Number involved: 5\n\nDISTANT METASTASIS (pM)\n    pMX:  Cannot be assessed\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Present\n\nPathologic TNM:  pT2b (IIB) N1 MX\n\n    Dictated by:\n    Entered:\n\nCOMMENT:\nThe uterus is received previously opened with defect in posterior lower uterine segment.\nThe sections from lower uterine segment show deep myometrial invasion of endometrial\nadenocarcinoma. However, uterine serosa involvement is not identified.\n\nSections of tumor show adenocarcinoma with endometrioid features. Poorly differentiated\nareas display sheets of tumor cells, which still have epithelioid features. The\ndifferential diagnosis includes carcinosarcoma. There is no heterologous component\nidentified. Immunohistochemical stains of pancytokeratin is strong positive for tumor\ncells in gland and in the nongland forming areas. The vimentin is positive for\nnongland forming tumor cells. The diagnosis of high grade endometrioid adenocarcinoma\nfavored. Representative sections are reviewed with Dr. - and Dr. -\nwho concur with the interpretation.\n\n                     ** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9652112542215704,
+          "mean_log_probability": -0.06102766105263159,
+          "perplexity": 1.0629283154966365,
+          "min_probability": 0.033347148917669885
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 476,
+          "total_tokens": 2948
+        },
+        "composite_score": 0.6613501986498931,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0333 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0333 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.438729286193848,
+          "chars": 1908,
+          "words": 228,
+          "text": "SPEC #1.                                  PATIENT:                                 Page 1\n                                                                                  (Continued)\n\nIMPRESSION: (continued)\nHISTOLOGIC TYPE\n    Endometrial adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G3: More than 50% nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  10 mm\n    Thickness of myometrium in area of maximal tumor invasion:  12 mm\n    The % of myometrial involvement:  83%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\n    pT2b (IIB):  Cervical stromal invasion\n\nREGIONAL LYMPH NODES (pN)\n    pN1 (IIIC): Regional lymph node metastasis\n        Number examined: 33\n        Number involved: 5\n\nDISTANT METASTASIS (pM)\n    pMX:  Cannot be assessed\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Present\n\nPathologic TNM:  pT2b (IIB) N1 MX\n\n    Dictated by:\n    Entered:\n\nCOMMENT:\nThe uterus is received previously opened with defect in posterior lower uterine segment.\nThe sections from lower uterine segment show deep myometrial invasion of endometrial\nadenocarcinoma. However, uterine serosa involvement is not identified.\n\nSections of tumor show adenocarcinoma with endometrioid features. Poorly differentiated\nareas display sheets of tumor cells, which still have epithelioid features. The\ndifferential diagnosis includes carcinosarcoma. There is no heterologous component\nidentified. Immunohistochemical stains of pancytokeratin is strong positive for tumor\ncells in gland and in the nongland forming areas. The vimentin is positive for\nnongland forming tumor cells. The diagnosis of high grade endometrioid adenocarcinoma\nfavored. Representative sections are reviewed with Dr. - and Dr. -\nwho concur with the interpretation.\n\n                     ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9652112542215704,
+            "mean_log_probability": -0.06102766105263159,
+            "perplexity": 1.0629283154966365,
+            "min_probability": 0.033347148917669885
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 476,
+            "total_tokens": 2948
+          },
+          "composite_score": 0.6613501986498931,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0333 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0333 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.225314855575562,
+          "chars": 1892,
+          "words": 227,
+          "text": "SPEC #;              PATIENT:                                            Page 1\n                                                                                 (Continued)\n\nIMPRESSION: (continued)\nHISTOLOGIC TYPE\n    Endometrial adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G3: More than 50% nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion:  10 mm\n    Thickness of myometrium in area of maximal tumor invasion:  12 mm\n    The % of myometrial involvement:  83%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\n    pT2b (IIB):  Cervical stromal invasion\n\nREGIONAL LYMPH NODES (pN)\n    pN1 (IIIC): Regional lymph node metastasis\n        Number examined: 33\n        Number involved: 5\n\nDISTANT METASTASIS (pM)\n    pMX:  Cannot be assessed\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Present\n\nPathologic TNM:  pT2b (IIB) N1 MX\n\n    Dictated by:\n    Entered:\n\nCOMMENT:\nThe uterus is received previously opened with defect in posterior lower uterine segment.\nThe sections from lower uterine segment show deep myometrial invasion of endometrial\nadenocarcinoma. However, uterine serosa involvement is not identified.\n\nSections of tumor show adenocarcinoma with endometrioid features. Poorly differentiated\nareas display sheets of tumor cells, which still have epithelioid features. The\ndifferential diagnosis includes carcinosarcoma. There is no heterologous component\nidentified. Immunohistochemical stains of pancytokeratin is strong positive for tumor\ncells in gland and in the nongland forming areas. The vimentin is positive for\nnongland forming tumor cells. The diagnosis of high grade endometrioid adenocarcinoma\nfavored. Representative sections are reviewed with Dr. - and Dr.\nwho concur with the interpretation.\n\n                  ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9633841527749033,
+            "mean_log_probability": -0.06233495137420719,
+            "perplexity": 1.0643187800684262,
+            "min_probability": 0.02098987710704977
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 474,
+            "total_tokens": 2946
+          },
+          "composite_score": 0.626601674030323
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 12.163182020187378,
+          "chars": 1899,
+          "words": 229,
+          "text": "```\nSPEC #:                                PATIENT:                               Page 1\n                                                                                  (Continued)\n\nIMPRESSION: (continued)\nHISTOLOGIC TYPE\n    Endometrial adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G3: More than 50% nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n    Maximal depth of myometrial invasion: 10 mm\n    Thickness of myometrium in area of maximal tumor invasion: 12 mm\n    The % of myometrial involvement: 83%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\n    pT2b (IIB): Cervical stromal invasion\n\nREGIONAL LYMPH NODES (pN)\n    pN1 (IIIC): Regional lymph node metastasis\n        Number examined: 33\n        Number involved: 5\n\nDISTANT METASTASIS (pM)\n    pMX: Cannot be assessed\n\nMARGINS\n    Uninvolved by invasive carcinoma\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\n    Present\n\nPathologic TNM: pT2b (IIB) N1 MX\n\n    Dictated by:\n    Entered:\n\nCOMMENT:\nThe uterus is received previously opened with defect in posterior lower uterine segment.\nThe sections from lower uterine segment show deep myometrial invasion of endometrial\nadenocarcinoma. However, uterine serosa involvement is not identified.\n\nSections of tumor show adenocarcinoma with endometrioid features. Poorly differentiated\nareas display sheets of tumor cells, which still have epithelioid features. The\ndifferential diagnosis includes carcinosarcoma. There is no heterologous component\nidentified. Immunohistochemical stains of pancytokeratin is strong positive for tumor\ncells in gland and in the nongland forming areas. The vimentin is positive for\nnongland forming tumor cells. The diagnosis of high grade endometrioid adenocarcinoma\nfavored. Representative sections are reviewed with Dr. - and Dr.\nwho concur with the interpretation.\n\n                 ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9706895260221378,
+            "mean_log_probability": -0.05441446268656717,
+            "perplexity": 1.0559221518066582,
+            "min_probability": 0.026856752496981228
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 470,
+            "total_tokens": 2942
+          },
+          "composite_score": 0.630828931446857
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 28.607852935791016,
+        "chars": 2652,
+        "words": 409,
+        "text": "SPEC #;\t\tPATIENT:\t\tProg:\n\t\t\t\t\t\t\t(Continued)\n\nCOMMENT: (continued)\nThe liver biopsy shows benign hepatoparenchyma with mild steatosis. Active interface\ninflammation is observed. There is no evidence of hepatocytes damage. Marked fibrosis is\nconsistent with cirrhosis. Sparse stainable iron is seen. However, the etiology of these\nchanges could not be determined on morphology. There is no tumor observed in the liver\nbiopsy. This biopsy is reviewed with Dr.\t\t\t\tand Dr.\t\t\t, who concur.\n\nSPECIAL STAINS/PROCEDURES:\nImmunohistochemical stains of pancytokeratin, vimentin are performed with appropriate\ncontrols on part 1. Mucicarmine stain is performed on part 1 also.\nSpecial stains of trichrome, reticulin and iron are performed on part 10.\n\nDictated by:\n\nGROSS DESCRIPTION:\n1)\tReceived fresh, labeled \"uterus, cervix, tubes and ovaries\", is a 153 gram specimen\n\tconsisting of a uterus received opened (11.0 x 6.5 x 4.5 cm), right ovary (3.0 x 1.5 x\n\t0.9 cm), right fallopian tube (6.0 cm long x 0.8 cm in diameter), left ovary (2.0 x\n\t1.5 x 1.0 cm) and left fallopian tube (4.0 cm long x 0.7 cm in diameter). The\n\tectocervix is distorted, irregular (3.8 x 2.0 cm) with a brown-gray dull mucosa. The\n\texternal os is slit-like, 2.0 cm in diameter. The endocervical canal is 3.0 cm long\n\tand is covered by a shaggy mucosal surface. The endometrial cavity, 2.5 cm from cornu\n\tto cornu, 4.5 cm long contains a 4.0 x 3.0 x 1.0 cm heaped friable tan polypoid tumor\n\tmass arising from the anterior endomyometrium and appears to extend into the lower\n\tuterine segment. There is a 1.8 x 1.2 x 0.7 cm tan, well-circumscribed nodule on the\n\tserosal surface on the posterior aspect. The myometrium is 2.0 cm in maximum\n\tthickness. There are multiple well-circumscribed nodules with tan-white whorled cut\n\tsurfaces in the anterior myometrium ranging from 0.5 to 0.6 cm in diameter.\n\nCASSETTE SUMMARY:\nCassette 1A:\tAnterior cervix.\nCassette 1B:\tAnterior lower uterine segment.\nCassette 1C:\tPosterior cervix.\nCassette 1D:\tCervix at 3 o'clock.\nCassette 1B:\tCervix at 9 o'clock.\nCassette 1G,1H:\tAdditional anterior lower uterine segment.\nCassette 1J:\tPosterior endomyometrium.\nCassette 1K-1M:\tAnterior endomyometrium with tumor.\nCassette 1N,1P:\tAnterior endomyometrium with IN tumor half and 1P serosal half.\nCassette 1Q-1U:\tTumor and anterior endomyometrium.\nCassette 1V,1W:\tAdditional lower uterine segment.\nCassette 1X:\tSubserosal nodule.\nCassette 1Y:\tRight ovary and fallopian tube.\nCassette 1Z:\tLeft ovary and fallopian tube.\nCassette 1AA-1DD:\tRight ovary, submitted entirely.\nCassette 1EE,1GG:\tRight fallopian tube, submitted entirely.\n\n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9802012086769745,
+          "mean_log_probability": -0.029690116028708125,
+          "perplexity": 1.0301352620814723,
+          "min_probability": 0.05535745170901428
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 837,
+          "total_tokens": 3309
+        },
+        "composite_score": 0.9769327757417219,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 28.607852935791016,
+          "chars": 2652,
+          "words": 409,
+          "text": "SPEC #;\t\tPATIENT:\t\tProg:\n\t\t\t\t\t\t\t(Continued)\n\nCOMMENT: (continued)\nThe liver biopsy shows benign hepatoparenchyma with mild steatosis. Active interface\ninflammation is observed. There is no evidence of hepatocytes damage. Marked fibrosis is\nconsistent with cirrhosis. Sparse stainable iron is seen. However, the etiology of these\nchanges could not be determined on morphology. There is no tumor observed in the liver\nbiopsy. This biopsy is reviewed with Dr.\t\t\t\tand Dr.\t\t\t, who concur.\n\nSPECIAL STAINS/PROCEDURES:\nImmunohistochemical stains of pancytokeratin, vimentin are performed with appropriate\ncontrols on part 1. Mucicarmine stain is performed on part 1 also.\nSpecial stains of trichrome, reticulin and iron are performed on part 10.\n\nDictated by:\n\nGROSS DESCRIPTION:\n1)\tReceived fresh, labeled \"uterus, cervix, tubes and ovaries\", is a 153 gram specimen\n\tconsisting of a uterus received opened (11.0 x 6.5 x 4.5 cm), right ovary (3.0 x 1.5 x\n\t0.9 cm), right fallopian tube (6.0 cm long x 0.8 cm in diameter), left ovary (2.0 x\n\t1.5 x 1.0 cm) and left fallopian tube (4.0 cm long x 0.7 cm in diameter). The\n\tectocervix is distorted, irregular (3.8 x 2.0 cm) with a brown-gray dull mucosa. The\n\texternal os is slit-like, 2.0 cm in diameter. The endocervical canal is 3.0 cm long\n\tand is covered by a shaggy mucosal surface. The endometrial cavity, 2.5 cm from cornu\n\tto cornu, 4.5 cm long contains a 4.0 x 3.0 x 1.0 cm heaped friable tan polypoid tumor\n\tmass arising from the anterior endomyometrium and appears to extend into the lower\n\tuterine segment. There is a 1.8 x 1.2 x 0.7 cm tan, well-circumscribed nodule on the\n\tserosal surface on the posterior aspect. The myometrium is 2.0 cm in maximum\n\tthickness. There are multiple well-circumscribed nodules with tan-white whorled cut\n\tsurfaces in the anterior myometrium ranging from 0.5 to 0.6 cm in diameter.\n\nCASSETTE SUMMARY:\nCassette 1A:\tAnterior cervix.\nCassette 1B:\tAnterior lower uterine segment.\nCassette 1C:\tPosterior cervix.\nCassette 1D:\tCervix at 3 o'clock.\nCassette 1B:\tCervix at 9 o'clock.\nCassette 1G,1H:\tAdditional anterior lower uterine segment.\nCassette 1J:\tPosterior endomyometrium.\nCassette 1K-1M:\tAnterior endomyometrium with tumor.\nCassette 1N,1P:\tAnterior endomyometrium with IN tumor half and 1P serosal half.\nCassette 1Q-1U:\tTumor and anterior endomyometrium.\nCassette 1V,1W:\tAdditional lower uterine segment.\nCassette 1X:\tSubserosal nodule.\nCassette 1Y:\tRight ovary and fallopian tube.\nCassette 1Z:\tLeft ovary and fallopian tube.\nCassette 1AA-1DD:\tRight ovary, submitted entirely.\nCassette 1EE,1GG:\tRight fallopian tube, submitted entirely.\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9802012086769745,
+            "mean_log_probability": -0.029690116028708125,
+            "perplexity": 1.0301352620814723,
+            "min_probability": 0.05535745170901428
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 837,
+            "total_tokens": 3309
+          },
+          "composite_score": 0.9769327757417219,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 34.031861782073975,
+          "chars": 2926,
+          "words": 411,
+          "text": "```\nSPEC #;                  PATIENT:                                   Page:\n                                                                                  (Continued)\n\nCOMMENT: (continued)\nThe liver biopsy shows benign hepatoparenchyma with mild steatosis. Active interface\ninflammation is observed. There is no evidence of hepatocytes damage. Marked fibrosis is\nconsistent with cirrhosis. Sparse stainable iron is seen. However, the etiology of these\nchanges could not be determined on morphology. There is no tumor observed in the liver\nbiopsy. This biopsy is reviewed with Dr.                      and Dr.                   , who concur.\n\nSPECIAL STAINS/PROCEDURES:\nImmunohistochemical stains of pancytokeratin, vimentin are performed with appropriate\ncontrols on part 1. Mucicarmine stain is performed on part 1 also.\n\nSpecial stains of trichrome, reticulin and iron are performed on part 10.\n\nDictated by:\n\nGROSS DESCRIPTION:\n1) Received fresh, labeled \"uterus, cervix, tubes and ovaries\", is a 153 gram specimen\nconsisting of a uterus received opened (11.0 x 6.5 x 4.5 cm), right ovary (3.0 x 1.5 x\n0.9 cm), right fallopian tube (6.0 cm long x 0.8 cm in diameter), left ovary (2.0 x\n1.5 x 1.0 cm) and left fallopian tube (4.0 cm long x 0.7 cm in diameter). The\nectocervix is distorted, irregular (3.8 x 2.0 cm) with a brown-gray dull mucosa. The\nexternal os is slit-like, 2.0 cm in diameter. The endocervical canal is 3.0 cm long\nand is covered by a shaggy mucosal surface. The endometrial cavity, 2.5 cm from cornu\nto cornu, 4.5 cm long contains a 4.0 x 3.0 x 1.0 cm heaped friable tan polypoid tumor\nmass arising from the anterior endomyometrium and appears to extend into the lower\nuterine segment. There is a 1.8 x 1.2 x 0.7 cm tan, well-circumscribed nodule on the\nserosal surface on the posterior aspect. The myometrium is 2.0 cm in maximum\nthickness. There are multiple well-circumscribed nodules with tan-white whorled cut\nsurfaces in the anterior myometrium ranging from 0.5 to 0.6 cm in diameter.\n\nCASSETTE SUMMARY:\nCassette 1A:          Anterior cervix.\nCassette 1B:          Anterior lower uterine segment.\nCassette 1C:          Posterior cervix.\nCassette 1D:          Cervix at 3 o'clock.\nCassette 1B:          Cervix at 9 o'clock.\nCassette 1G,1H:       Additional anterior lower uterine segment.\nCassette 1J:          Posterior endomyometrium.\nCassette 1K-1M:       Anterior endomyometrium with tumor.\nCassette 1N,1P:       Anterior endomyometrium with IN tumor half and IP serosal half.\nCassette 1Q-1U:       Tumor and anterior endomyometrium.\nCassette 1V,1W:       Additional lower uterine segment.\nCassette 1X:          Subserosal nodule.\nCassette 1Y:          Right ovary and fallopian tube.\nCassette 1Z:          Left ovary and fallopian tube.\nCassette 1AA-1DD:     Right ovary, submitted entirely.\nCassette 1EE,1GG:     Right fallopian tube, submitted entirely.\n\n** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.980807803066457,
+            "mean_log_probability": -0.0345685652173913,
+            "perplexity": 1.035173002804873,
+            "min_probability": 0.033902856690152555
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 829,
+            "total_tokens": 3301
+          },
+          "composite_score": 0.6472240136478651
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.167938232421875,
+          "chars": 2980,
+          "words": 409,
+          "text": "SPEC #:                PATIENT:                                    Page:\n                                                                                  (Continued)\n\nCOMMENT: (continued)\nThe liver biopsy shows benign hepatoparenchyma with mild steatosis. Active interface\ninflammation is observed. There is no evidence of hepatocytes damage. Marked fibrosis is\nconsistent with cirrhosis. Sparse stainable iron is seen. However, the etiology of these\nchanges could not be determined on morphology. There is no tumor observed in the liver\nbiopsy. This biopsy is reviewed with Dr.                      and Dr.                  , who concur.\n\nSPECIAL STAINS/PROCEDURES:\nImmunohistochemical stains of pancytokeratin, vimentin are performed with appropriate\ncontrols on part 1. Mucicarmine stain is performed on part 1 also.\n\nSpecial stains of trichrome, reticulin and iron are performed on part 10.\n\nDictated by:\n\nGROSS DESCRIPTION:\n1) Received fresh, labeled \"uterus, cervix, tubes and ovaries\", is a 153 gram specimen\nconsisting of a uterus received opened (11.0 x 6.5 x 4.5 cm), right ovary (3.0 x 1.5 x\n0.9 cm), right fallopian tube (6.0 cm long x 0.8 cm in diameter), left ovary (2.0 x\n1.5 x 1.0 cm) and left fallopian tube (4.0 cm long x 0.7 cm in diameter). The\nectocervix is distorted, irregular (3.8 x 2.0 cm) with a brown-gray dull mucosa. The\nexternal os is slit-like, 2.0 cm in diameter. The endocervical canal is 3.0 cm long\nand is covered by a shaggy mucosal surface. The endometrial cavity, 2.5 cm from cornu\nto cornu, 4.5 cm long contains a 4.0 x 3.0 x 1.0 cm heaped friable tan polypoid tumor\nmass arising from the anterior endomyometrium and appears to extend into the lower\nuterine segment. There is a 1.8 x 1.2 x 0.7 cm tan, well-circumscribed nodule on the\nserosal surface on the posterior aspect. The myometrium is 2.0 cm in maximum\nthickness. There are multiple well-circumscribed nodules with tan-white whorled cut\nsurfaces in the anterior myometrium ranging from 0.5 to 0.6 cm in diameter.\n\nCASSETTE SUMMARY:\nCassette 1A:              Anterior cervix.\nCassette 1B:              Anterior lower uterine segment.\nCassette 1C:              Posterior cervix.\nCassette 1D:              Cervix at 3 o'clock.\nCassette 1B:              Cervix at 9 o'clock.\nCassette 1G,1H:           Additional anterior lower uterine segment.\nCassette 1J:              Posterior endomyometrium.\nCassette 1K-1M:           Anterior endomyometrium with tumor.\nCassette 1N,1P:           Anterior endomyometrium with IN tumor half and IP serosal half.\nCassette 1Q-1U:           Tumor and anterior endomyometrium.\nCassette 1V,1W:           Additional lower uterine segment.\nCassette 1X:              Subserosal nodule.\nCassette 1Y:              Right ovary and fallopian tube.\nCassette 1Z:              Left ovary and fallopian tube.\nCassette 1AA-1DD:         Right ovary, submitted entirely.\nCassette 1EE,1GG:         Right fallopian tube, submitted entirely.\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.980702970263887,
+            "mean_log_probability": -0.03609650909090909,
+            "perplexity": 1.036755898032118,
+            "min_probability": 0.03551663857674574
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 826,
+            "total_tokens": 3298
+          },
+          "composite_score": 0.6464656813647475
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 27.19851517677307,
+        "chars": 2553,
+        "words": 436,
+        "text": "SPRC #\t\tPATIENT;\t\t\t\t\t\tPage 5\n\t\t\t\t\t\t\t\t\t(Continued)\n\nGROSS DESCRIPTION: (continued)\n\tCassette 1HH-1KK:\tLeft ovary, submitted entirely.\n\tCassette 1LL,1MM:\tLeft fallopian tube, submitted entirely.\n\n2)\tReceived in formalin labeled \"left para-aortic lymph node\" and with the patient's\n\tname is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 2 x\n\t1.3 x 1.3 cm. Specimen is dissected for lymph nodes. There are two tan ovoid lymph\n\tnodes identified, 0.8 x 0.5 x 0.3 cm and 1.5 x 0.7 x 0.7 cm. All lymph nodes\n\tidentified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 2A:\t\tOne lymph node bivalve.\nCassette 2B:\t\tOne lymph node bivalve.\n\n3)\tReceived in formalin labeled \"right para-aortic lymph node\" and with the patient's\n\tname is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 3 x\n\t2.5 x 2 cm. Specimen is dissected for possible lymph nodes. There are three tan\n\tovoid lymph nodes identified, ranging from 0.8 x 0.4 x 0.3 cm to 2.3 x 1 x 0.5 cm.\n\tAll lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 3A:\t\tTwo lymph nodes.\nCassette 3B,3C:\t\tOne large lymph node bivalve.\n\n4)\tReceived in formalin labeled \"right common iliac lymph node\" and with the patient's\n\tname is one irregular portion of yellow tan lobulated adipose tissue, 2.5 x 1.5 x 1\n\tcm. Specimen is dissected for lymph nodes. There are two tan to yellow tan ovoid\n\tlymph nodes identified, 1.2 x 0.5 x 0.5 cm and 1.5 x 0.5 x 0.5 cm. All lymph nodes\n\tidentified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 4A:\t\tOne lymph node bivalve.\nCassette 4B;\t\tOne lymph node bivalve.\n\n5)\tReceived in formalin labeled \"right external iliac lymph node\" and with the patient's\n\tname, is an irregular portion of yellow tan lobulated adipose tissue, 4.5 x 3 x 1.5\n\tcm. Specimen is dissected for lymph nodes. There are four yellow tan to tan ovoid\n\tlymph nodes identified, ranging from 1 x 0.6 x 0.3 cm to 2.4 x 1 x 0.5 cm. All lymph\n\tnodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 5A:\t\tOne lymph node.\nCassette 5B:\t\tOne lymph node bivalve.\nCassette 5C:\t\tOne lymph node bivalve.\nCassette 5D:\t\tOne lymph node bivalve.\n\n6)\tReceived in formalin labeled \"right obturator lymph node\" and with the patient's name\n\tis an aggregate of irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5\n\tx 1.5 cm. Specimen is dissected for lymph nodes. There are four tan to brown ovoid\n\tlymph nodes identified, ranging from 0.8 x 0.7 x 0.4 cm to 3 x 1.2 x 0.4 cm. All.\n\n\t\t** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9834942569925073,
+          "mean_log_probability": -0.023785133414932682,
+          "perplexity": 1.0240702557707435,
+          "min_probability": 0.0824591714216239
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 818,
+          "total_tokens": 3290
+        },
+        "composite_score": 0.9323432663697194,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 29.70876669883728,
+          "chars": 3075,
+          "words": 436,
+          "text": "SPRC #               PATIENT:                                                                                  Page: 5\n                                                                                                                       (Continued)\n\nGROSS DESCRIPTION: (continued)\n        Cassette 1HH-1KK:      Left ovary, submitted entirely.\n        Cassette 1LL,1MM:      Left fallopian tube, submitted entirely.\n\n2)      Received in formalin labeled \"left para-aortic lymph node\" and with the patient's\n        name is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 2 x\n        1.3 x 1.3 cm. Specimen is dissected for lymph nodes. There are two tan ovoid lymph\n        nodes identified, 0.8 x 0.5 x 0.3 cm and 1.5 x 0.7 x 0.7 cm. All lymph nodes\n        identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 2A:              One lymph node bivalve.\nCassette 2B:              One lymph node bivalve.\n\n3)      Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\n        name is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 3 x\n        2.5 x 2 cm. Specimen is dissected for possible lymph nodes. There are three tan\n        ovoid lymph nodes identified, ranging from 0.8 x 0.4 x 0.3 cm to 2.3 x 1 x 0.5 cm.\n        All lymph nodes identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 3A:              Two lymph nodes.\nCassette 3B,3C:           One large lymph node bivalve.\n\n4)      Received in formalin labeled \"right common iliac lymph node\" and with the patient's\n        name is one irregular portion of yellow tan lobulated adipose tissue, 2.5 x 1.5 x 1\n        cm. Specimen is dissected for lymph nodes. There are two tan to yellow tan ovoid\n        lymph nodes identified, 1.2 x 0.5 x 0.5 cm and 1.5 x 0.5 x 0.5 cm. All lymph nodes\n        identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 4A:              One lymph node bivalve.\nCassette 4B;              One lymph node bivalve.\n\n5)      Received in formalin labeled \"right external iliac lymph node\" and with the patient's\n        name, is an irregular portion of yellow tan lobulated adipose tissue, 4.5 x 3 x 1.5\n        cm. Specimen is dissected for lymph nodes. There are four yellow tan to tan ovoid\n        lymph nodes identified, ranging from 1 x 0.6 x 0.3 cm to 2.4 x 1 x 0.5 cm. All lymph\n        nodes identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 5A:              One lymph node.\nCassette 5B:              One lymph node bivalve.\nCassette 5C:              One lymph node bivalve.\nCassette 5D:              One lymph node bivalve.\n\n6)      Received in formalin labeled \"right obturator lymph node\" and with the patient's name\n        is an aggregate of irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5\n        x 1.5 cm. Specimen is dissected for lymph nodes. There are four tan to brown ovoid\n        lymph nodes identified, ranging from 0.8 x 0.7 x 0.4 cm to 3 x 1.2 x 0.4 cm. All.\n\n                      ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.980448616267251,
+            "mean_log_probability": -0.03753252088452089,
+            "perplexity": 1.038245761203307,
+            "min_probability": 0.044923016439380785
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 815,
+            "total_tokens": 3287
+          },
+          "composite_score": 0.6797421176953439
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 26.81622552871704,
+          "chars": 3035,
+          "words": 436,
+          "text": "SPKC #1                                                                                  Page 5\nPATIENT:                                                                                 (Continued)\n\nGROSS DESCRIPTION: (continued)\n       Cassette 1HH-1KK:        Left ovary, submitted entirely.\n       Cassette 1LL,1MM:        Left fallopian tube, submitted entirely.\n\n2)     Received in formalin labeled \"left para-aortic lymph node\" and with the patient's\n       name is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 2 x\n       1.3 x 1.3 cm. Specimen is dissected for lymph nodes. There are two tan ovoid lymph\n       nodes identified, 0.8 x 0.5 x 0.3 cm and 1.5 x 0.7 x 0.7 cm. All lymph nodes\n       identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 2A:                  One lymph node bivalve.\nCassette 2B:                  One lymph node bivalve.\n\n3)     Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\n       name is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 3 x\n       2.5 x 2 cm. Specimen is dissected for possible lymph nodes. There are three tan\n       ovoid lymph nodes identified, ranging from 0.8 x 0.4 x 0.3 cm to 2.3 x 1 x 0.5 cm.\n       All lymph nodes identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 3A:                  Two lymph nodes.\nCassette 3B,3C:               One large lymph node bivalve.\n\n4)     Received in formalin labeled \"right common iliac lymph node\" and with the patient's\n       name is one irregular portion of yellow tan lobulated adipose tissue, 2.5 x 1.5 x 1\n       cm. Specimen is dissected for lymph nodes. There are two tan to yellow tan ovoid\n       lymph nodes identified, 1.2 x 0.5 x 0.5 cm and 1.5 x 0.5 x 0.5 cm. All lymph nodes\n       identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 4A:                  One lymph node bivalve.\nCassette 4B;                  One lymph node bivalve.\n\n5)     Received in formalin labeled \"right external iliac lymph node\" and with the patient's\n       name, is an irregular portion of yellow tan lobulated adipose tissue, 4.5 x 3 x 1.5\n       cm. Specimen is dissected for lymph nodes. There are four yellow tan to tan ovoid\n       lymph nodes identified, ranging from 1 x 0.6 x 0.3 cm to 2.4 x 1 x 0.5 cm. All lymph\n       nodes identified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 5A:                  One lymph node.\nCassette 5B:                  One lymph node bivalve.\nCassette 5C:                  One lymph node bivalve.\nCassette 5D:                  One lymph node bivalve.\n\n6)     Received in formalin labeled \"right obturator lymph node\" and with the patient's name\n       is an aggregate of irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5\n       x 1.5 cm. Specimen is dissected for lymph nodes. There are four tan to brown ovoid\n       lymph nodes identified, ranging from 0.8 x 0.7 x 0.4 cm to 3 x 1.2 x 0.4 cm. All\n\n                  ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9795163012515637,
+            "mean_log_probability": -0.03817968880688807,
+            "perplexity": 1.0389178980247276,
+            "min_probability": 0.027831578101597396
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 814,
+            "total_tokens": 3286
+          },
+          "composite_score": 0.645435376780866
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 27.19851517677307,
+          "chars": 2553,
+          "words": 436,
+          "text": "SPRC #\t\tPATIENT;\t\t\t\t\t\tPage 5\n\t\t\t\t\t\t\t\t\t(Continued)\n\nGROSS DESCRIPTION: (continued)\n\tCassette 1HH-1KK:\tLeft ovary, submitted entirely.\n\tCassette 1LL,1MM:\tLeft fallopian tube, submitted entirely.\n\n2)\tReceived in formalin labeled \"left para-aortic lymph node\" and with the patient's\n\tname is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 2 x\n\t1.3 x 1.3 cm. Specimen is dissected for lymph nodes. There are two tan ovoid lymph\n\tnodes identified, 0.8 x 0.5 x 0.3 cm and 1.5 x 0.7 x 0.7 cm. All lymph nodes\n\tidentified are submitted as follows:\n\nCASSETTES SUMMARY:\nCassette 2A:\t\tOne lymph node bivalve.\nCassette 2B:\t\tOne lymph node bivalve.\n\n3)\tReceived in formalin labeled \"right para-aortic lymph node\" and with the patient's\n\tname is an aggregate of irregular portions of yellow tan lobulated adipose tissue, 3 x\n\t2.5 x 2 cm. Specimen is dissected for possible lymph nodes. There are three tan\n\tovoid lymph nodes identified, ranging from 0.8 x 0.4 x 0.3 cm to 2.3 x 1 x 0.5 cm.\n\tAll lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 3A:\t\tTwo lymph nodes.\nCassette 3B,3C:\t\tOne large lymph node bivalve.\n\n4)\tReceived in formalin labeled \"right common iliac lymph node\" and with the patient's\n\tname is one irregular portion of yellow tan lobulated adipose tissue, 2.5 x 1.5 x 1\n\tcm. Specimen is dissected for lymph nodes. There are two tan to yellow tan ovoid\n\tlymph nodes identified, 1.2 x 0.5 x 0.5 cm and 1.5 x 0.5 x 0.5 cm. All lymph nodes\n\tidentified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 4A:\t\tOne lymph node bivalve.\nCassette 4B;\t\tOne lymph node bivalve.\n\n5)\tReceived in formalin labeled \"right external iliac lymph node\" and with the patient's\n\tname, is an irregular portion of yellow tan lobulated adipose tissue, 4.5 x 3 x 1.5\n\tcm. Specimen is dissected for lymph nodes. There are four yellow tan to tan ovoid\n\tlymph nodes identified, ranging from 1 x 0.6 x 0.3 cm to 2.4 x 1 x 0.5 cm. All lymph\n\tnodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 5A:\t\tOne lymph node.\nCassette 5B:\t\tOne lymph node bivalve.\nCassette 5C:\t\tOne lymph node bivalve.\nCassette 5D:\t\tOne lymph node bivalve.\n\n6)\tReceived in formalin labeled \"right obturator lymph node\" and with the patient's name\n\tis an aggregate of irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5\n\tx 1.5 cm. Specimen is dissected for lymph nodes. There are four tan to brown ovoid\n\tlymph nodes identified, ranging from 0.8 x 0.7 x 0.4 cm to 3 x 1.2 x 0.4 cm. All.\n\n\t\t** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9834942569925073,
+            "mean_log_probability": -0.023785133414932682,
+            "perplexity": 1.0240702557707435,
+            "min_probability": 0.0824591714216239
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 818,
+            "total_tokens": 3290
+          },
+          "composite_score": 0.9323432663697194,
+          "quality_warning": false,
+          "quality_warnings": []
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 25.37285804748535,
+        "chars": 2604,
+        "words": 408,
+        "text": "```\nGROSS DESCRIPTION: (continued)\n     lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 6A:        One lymph node.\n     Cassette 6B:        One lymph node bivalve.\n     Cassette 6C:        One lymph node bivalve.\n     Cassette 6D:        One lymph node bivalve.\n\n7)   Received in formalin labeled \"left common iliac lymph node\" and with the patient's\n     name are two irregular portions of yellow tan lobulated adipose tissue, 1.5 x 0.8 x\n     0.5 cm and 2.5 x 1.2 x 1 cm. Specimen is dissected for lymph nodes. There are two\n     tan pale tan ovoid lymph nodes identified, 0.8 x 0.7 x 0.3 cm and 1.2 x 0.7 x 0.5 cm.\n     All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 7A:        One lymph node.\n     Cassette 7B:        One lymph node bivalve.\n\n8)   Received in formalin labeled \"left pelvic lymph node\" and with the patient's name\n     an irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5 x 1.5 cm.\n     Specimen is dissected for lymph nodes. There are four lymph nodes identified, ranging\n     from 0.8 x 0.5 x 0.3 cm to 2 x 1 x 0.5 cm. All lymph nodes identified are submitted\n     as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 8A:        Two lymph nodes.\n     Cassette 8B:        One lymph node bivalve.\n     Cassette 8C:        One lymph node bivalve.\n\n9)   Received in formalin labeled \"left obturator\" and with the patient's name is an\n     aggregate of irregular portions of yellow tan lobulated adipose tissue, 4 x 2.5 x 1.7\n     cm. Specimen is dissected for lymph nodes. There are eight pale tan ovoid lymph\n     nodes identified, ranging from 0.4 x 0.3 x 0.2 cm to 1.3 x 1.2 x 0.5 cm. All lymph\n     nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 9A:        Four lymph nodes.\n     Cassette 9B:        Two lymph nodes bivalve, one inked blue.\n     Cassette 9C:        Two lymph nodes bivalve, one inked blue.\n\n10)  Received in formalin labeled \"liver biopsy\" and with the patient's name are two\n     cylindrical portions of tissue, 1.1 x 0.1 x 0.1 cm and 1.9 x 0.1 x 0.1 cm. Specimen\n     is entirely submitted in one cassette.\n\n11)  Received in formalin labeled \"lymph node\" and with the patient's name is one irregular\n     portion of yellow tan lobulated adipose tissue, 2.5 x 1 x 0.9 cm. Specimen is\n     dissected for lymph nodes. There are two lymph nodes identified, 0.4 x 0.3 x 0.3 cm\n     and 1 x 0.4 x 0.3 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n\n                      ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.990239166623488,
+          "mean_log_probability": -0.01588072797927461,
+          "perplexity": 1.0160074969118114,
+          "min_probability": 0.06707613241467945
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 773,
+          "total_tokens": 3245
+        },
+        "composite_score": 0.987494021656764,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 25.37285804748535,
+          "chars": 2604,
+          "words": 408,
+          "text": "```\nGROSS DESCRIPTION: (continued)\n     lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 6A:        One lymph node.\n     Cassette 6B:        One lymph node bivalve.\n     Cassette 6C:        One lymph node bivalve.\n     Cassette 6D:        One lymph node bivalve.\n\n7)   Received in formalin labeled \"left common iliac lymph node\" and with the patient's\n     name are two irregular portions of yellow tan lobulated adipose tissue, 1.5 x 0.8 x\n     0.5 cm and 2.5 x 1.2 x 1 cm. Specimen is dissected for lymph nodes. There are two\n     tan pale tan ovoid lymph nodes identified, 0.8 x 0.7 x 0.3 cm and 1.2 x 0.7 x 0.5 cm.\n     All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 7A:        One lymph node.\n     Cassette 7B:        One lymph node bivalve.\n\n8)   Received in formalin labeled \"left pelvic lymph node\" and with the patient's name\n     an irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5 x 1.5 cm.\n     Specimen is dissected for lymph nodes. There are four lymph nodes identified, ranging\n     from 0.8 x 0.5 x 0.3 cm to 2 x 1 x 0.5 cm. All lymph nodes identified are submitted\n     as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 8A:        Two lymph nodes.\n     Cassette 8B:        One lymph node bivalve.\n     Cassette 8C:        One lymph node bivalve.\n\n9)   Received in formalin labeled \"left obturator\" and with the patient's name is an\n     aggregate of irregular portions of yellow tan lobulated adipose tissue, 4 x 2.5 x 1.7\n     cm. Specimen is dissected for lymph nodes. There are eight pale tan ovoid lymph\n     nodes identified, ranging from 0.4 x 0.3 x 0.2 cm to 1.3 x 1.2 x 0.5 cm. All lymph\n     nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 9A:        Four lymph nodes.\n     Cassette 9B:        Two lymph nodes bivalve, one inked blue.\n     Cassette 9C:        Two lymph nodes bivalve, one inked blue.\n\n10)  Received in formalin labeled \"liver biopsy\" and with the patient's name are two\n     cylindrical portions of tissue, 1.1 x 0.1 x 0.1 cm and 1.9 x 0.1 x 0.1 cm. Specimen\n     is entirely submitted in one cassette.\n\n11)  Received in formalin labeled \"lymph node\" and with the patient's name is one irregular\n     portion of yellow tan lobulated adipose tissue, 2.5 x 1 x 0.9 cm. Specimen is\n     dissected for lymph nodes. There are two lymph nodes identified, 0.4 x 0.3 x 0.3 cm\n     and 1 x 0.4 x 0.3 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n\n                      ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.990239166623488,
+            "mean_log_probability": -0.01588072797927461,
+            "perplexity": 1.0160074969118114,
+            "min_probability": 0.06707613241467945
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 773,
+            "total_tokens": 3245
+          },
+          "composite_score": 0.987494021656764,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 24.516849040985107,
+          "chars": 2542,
+          "words": 408,
+          "text": "```\nGROSS DESCRIPTION: (continued)\n    lymph nodes identified are submitted as follows:\n\n    CASSETTE SUMMARY:\n    Cassette 6A:        One lymph node.\n    Cassette 6B:        One lymph node bivalve.\n    Cassette 6C:        One lymph node bivalve.\n    Cassette 6D:        One lymph node bivalve.\n\n7)  Received in formalin labeled \"left common iliac lymph node\" and with the patient's\n    name are two irregular portions of yellow tan lobulated adipose tissue, 1.5 x 0.8 x\n    0.5 cm and 2.5 x 1.2 x 1 cm. Specimen is dissected for lymph nodes. There are two\n    tan pale tan ovoid lymph nodes identified, 0.8 x 0.7 x 0.3 cm and 1.2 x 0.7 x 0.5 cm.\n    All lymph nodes identified are submitted as follows:\n\n    CASSETTE SUMMARY:\n    Cassette 7A:        One lymph node.\n    Cassette 7B:        One lymph node bivalve.\n\n8)  Received in formalin labeled \"left pelvic lymph node\" and with the patient's name\n    an irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5 x 1.5 cm.\n    Specimen is dissected for lymph nodes. There are four lymph nodes identified, ranging\n    from 0.8 x 0.5 x 0.3 cm to 2 x 1 x 0.5 cm. All lymph nodes identified are submitted\n    as follows:\n\n    CASSETTE SUMMARY:\n    Cassette 8A:        Two lymph nodes.\n    Cassette 8B:        One lymph node bivalve.\n    Cassette 8C:        One lymph node bivalve.\n\n9)  Received in formalin labeled \"left obturator\" and with the patient's name is an\n    aggregate of irregular portions of yellow tan lobulated adipose tissue, 4 x 2.5 x 1.7\n    cm. Specimen is dissected for lymph nodes. There are eight pale tan ovoid lymph\n    nodes identified, ranging from 0.4 x 0.3 x 0.2 cm to 1.3 x 1.2 x 0.5 cm. All lymph\n    nodes identified are submitted as follows:\n\n    CASSETTE SUMMARY:\n    Cassette 9A:        Four lymph nodes.\n    Cassette 9B:        Two lymph nodes bivalve, one inked blue.\n    Cassette 9C:        Two lymph nodes bivalve, one inked blue.\n\n10) Received in formalin labeled \"liver biopsy\" and with the patient's name are two\n    cylindrical portions of tissue, 1.1 x 0.1 x 0.1 cm and 1.9 x 0.1 x 0.1 cm. Specimen\n    is entirely submitted in one cassette.\n\n11) Received in formalin labeled \"lymph node\" and with the patient's name is one irregular\n    portion of yellow tan lobulated adipose tissue, 2.5 x 1 x 0.9 cm. Specimen is\n    dissected for lymph nodes. There are two lymph nodes identified, 0.4 x 0.3 x 0.3 cm\n    and 1 x 0.4 x 0.3 cm. All lymph nodes identified are submitted as follows:\n\n    CASSETTE SUMMARY:\n\n** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9913990317548103,
+            "mean_log_probability": -0.013698942782834851,
+            "perplexity": 1.0137932032305355,
+            "min_probability": 0.11382250700498014
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 770,
+            "total_tokens": 3242
+          },
+          "composite_score": 0.9397294984974796
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 23.650866270065308,
+          "chars": 2639,
+          "words": 408,
+          "text": "```\nGROSS DESCRIPTION: (continued)\n     lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 6A:           One lymph node.\n     Cassette 6B:           One lymph node bivalve.\n     Cassette 6C:           One lymph node bivalve.\n     Cassette 6D:           One lymph node bivalve.\n\n7)   Received in formalin labeled \"left common iliac lymph node\" and with the patient's\n     name are two irregular portions of yellow tan lobulated adipose tissue, 1.5 x 0.8 x\n     0.5 cm and 2.5 x 1.2 x 1 cm. Specimen is dissected for lymph nodes. There are two\n     tan pale tan ovoid lymph nodes identified, 0.8 x 0.7 x 0.3 cm and 1.2 x 0.7 x 0.5 cm.\n     All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 7A:           One lymph node.\n     Cassette 7B:           One lymph node bivalve.\n\n8)   Received in formalin labeled \"left pelvic lymph node\" and with the patient's name\n     an irregular portion of yellow tan lobulated adipose tissue, 3.5 x 2.5 x 1.5 cm.\n     Specimen is dissected for lymph nodes. There are four lymph nodes identified, ranging\n     from 0.8 x 0.5 x 0.3 cm to 2 x 1 x 0.5 cm. All lymph nodes identified are submitted\n     as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 8A:           Two lymph nodes.\n     Cassette 8B:           One lymph node bivalve.\n     Cassette 8C:           One lymph node bivalve.\n\n9)   Received in formalin labeled \"left obturator\" and with the patient's name is an\n     aggregate of irregular portions of yellow tan lobulated adipose tissue, 4 x 2.5 x 1.7\n     cm. Specimen is dissected for lymph nodes. There are eight pale tan ovoid lymph\n     nodes identified, ranging from 0.4 x 0.3 x 0.2 cm to 1.3 x 1.2 x 0.5 cm. All lymph\n     nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 9A:           Four lymph nodes.\n     Cassette 9B:           Two lymph nodes bivalve, one inked blue.\n     Cassette 9C:           Two lymph nodes bivalve, one inked blue.\n\n10)  Received in formalin labeled \"liver biopsy\" and with the patient's name are two\n     cylindrical portions of tissue, 1.1 x 0.1 x 0.1 cm and 1.9 x 0.1 x 0.1 cm. Specimen\n     is entirely submitted in one cassette.\n\n11)  Received in formalin labeled \"lymph node\" and with the patient's name is one irregular\n     portion of yellow tan lobulated adipose tissue, 2.5 x 1 x 0.9 cm. Specimen is\n     dissected for lymph nodes. There are two lymph nodes identified, 0.4 x 0.3 x 0.3 cm\n     and 1 x 0.4 x 0.3 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n\n                     ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9906145974241517,
+            "mean_log_probability": -0.015821253886010363,
+            "perplexity": 1.0159470725840418,
+            "min_probability": 0.0640440596789379
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 773,
+            "total_tokens": 3245
+          },
+          "composite_score": 0.9381631213096105
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 7,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.023698329925537,
+        "chars": 696,
+        "words": 57,
+        "text": "```\nSPEC #;                 PATIENT:                             Pages 7\n                                                                 (Continued)\n\nGROSS DESCRIPTION: (continued)\n        Cassette 11:              Two lymph nodes.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\n\nCPT Codes:\nIRON-{                      MUCICARMINE.                       , TRICHROME.                 , RETIC-\nVIMENTIN-                  , LIVER NEEDLE/WEDGE BX\nLYMPH NODs BX\nIHC KERATIN COCKTAIL                       UTERUS W/WO ADNEXAS,TUMOR-\n\nICD9 Codes:\n\n\nElectronically Signed by: _____________________________________________________________\n\n\n                         ** END OF REPORT **\n```",
+        "confidence": {
+          "mean_probability": 0.8269253147333194,
+          "mean_log_probability": -0.3282859722222222,
+          "perplexity": 1.3885860125432183,
+          "min_probability": 0.036973161293214964
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 145,
+          "total_tokens": 2617
+        },
+        "composite_score": 0.4703159602909305,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Low composite quality score: 0.470 (threshold: 0.5)",
+          "Very uncertain tokens: min_prob=0.0370 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.470 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0370 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.023698329925537,
+          "chars": 696,
+          "words": 57,
+          "text": "```\nSPEC #;                 PATIENT:                             Pages 7\n                                                                 (Continued)\n\nGROSS DESCRIPTION: (continued)\n        Cassette 11:              Two lymph nodes.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\n\nCPT Codes:\nIRON-{                      MUCICARMINE.                       , TRICHROME.                 , RETIC-\nVIMENTIN-                  , LIVER NEEDLE/WEDGE BX\nLYMPH NODs BX\nIHC KERATIN COCKTAIL                       UTERUS W/WO ADNEXAS,TUMOR-\n\nICD9 Codes:\n\n\nElectronically Signed by: _____________________________________________________________\n\n\n                         ** END OF REPORT **\n```",
+          "confidence": {
+            "mean_probability": 0.8269253147333194,
+            "mean_log_probability": -0.3282859722222222,
+            "perplexity": 1.3885860125432183,
+            "min_probability": 0.036973161293214964
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 145,
+            "total_tokens": 2617
+          },
+          "composite_score": 0.4703159602909305,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Low composite quality score: 0.470 (threshold: 0.5)",
+            "Very uncertain tokens: min_prob=0.0370 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.470 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0370 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.4277846813201904,
+          "chars": 721,
+          "words": 57,
+          "text": "```\nSPEC #;                    PATIENT:                                   Pages 7\n                                                                                  (Continued)\n\nGROSS DESCRIPTION: (continued)\n       Cassette 11:                 Two lymph nodes.\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\n\nCPT Codes:\nIRON-{                       MUCICARMINE.                       , TRICHROME.                   , RETIC-\nVIMENTIN-                     , LIVER NEEDLE/WEDGE BX\nLYMPH NODs BX\nIHC KERATIN COCKTAIL                 UTERUS W/WO ADNEXAB,TUMOR-\n\nICD9 Codes:\n\nElectronically Signed by: ________________________________________________________\n\n                             ** END OF REPORT **\n```",
+          "confidence": {
+            "mean_probability": 0.8211037660241723,
+            "mean_log_probability": -0.3509463125,
+            "perplexity": 1.4204110655460178,
+            "min_probability": 0.027898007736453855
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 145,
+            "total_tokens": 2617
+          },
+          "composite_score": 0.44174453259206115
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 4.239532709121704,
+          "chars": 750,
+          "words": 57,
+          "text": "```\nSPEC #;                                PATIENT:                                Pages 7\n                                                                                 (Continued)\n\nGROSS DESCRIPTION: (continued)\n        Cassette 11:                 Two lymph nodes.\n\n        Dictated by:\n        Entered:\n\nCOPIES TO:\n\n        No PCP/Family Physician\n\nCPT Codes:\nIRON-{                         MUCICARMINE.                           , TRICHROME.                , RETIC-\nVIMENTIN-                     , LIVER NEEDLE/WEDGE BX\nLYMPH NODs BX\nIHC KERATIN COCKTAIL          UTERUS W/WO ADNEXAE,TUMOR-\n\nICD9 Codes:\n\nElectronically Signed by: ________________________________________________________\n\n                               ** END OF REPORT **\n```",
+          "confidence": {
+            "mean_probability": 0.8385124264634372,
+            "mean_log_probability": -0.3178064391891892,
+            "perplexity": 1.3741102615884624,
+            "min_probability": 0.020645766349275323
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 149,
+            "total_tokens": 2621
+          },
+          "composite_score": 0.4535761689875527
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

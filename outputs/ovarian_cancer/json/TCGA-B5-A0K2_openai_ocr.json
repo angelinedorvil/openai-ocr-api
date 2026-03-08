@@ -1,0 +1,275 @@
+{
+  "pdf": "reports\\TCGA-B5-A0K2\\TCGA-B5-A0K2.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 31.643644094467163,
+        "chars": 3344,
+        "words": 518,
+        "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nS.T.: endometrium C54.1  2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neo corpus uteri. Per E-browser, the patient has a FIGO 1 endometriod endometrial adenocarcinoma and endometriosis.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen section is a 114 gram hysterectomy and bilateral salpingo-oophorectomy specimen. (NOTE: The specimen cannot be definitively oriented due to extensive serosal and bilateral adnexal adhesions and probable endometriosis which obscure the usual orienting landmarks. The orientations used below are presumed.) There is a 3.1 x 2.1 cm area of heaped-up endometrium centered in the posterior endometrium that grossly appears to invade 2.6 cm into the 3.2 cm thick myometrium. The mass is tan and friable, with poorly defined borders, and comes within approximately 0.5 cm of the posterior lower uterine segment. The tumor does not involve the cervix or extend into the adnexa. The 0.2 cm thick endometrium is otherwise unremarkable. The myometrium displays approximately five firm, white, whorled nodules up to 1.7 cm in greatest dimension, and is otherwise unremarkable. The cervix displays a 1cm firm, white whorled submucosal nodule and is otherwise unremarkable. The posterior serosal surface of the uterus is diffusely covered with shaggy, tan-gray fibrous tissue which is continuous with adhesions involving the bilateral adnexa. The right fallopian tube (3.5 cm long x 0.6 cm in diameter) is unremarkable. No definite right ovary is identified. Sectioning the right adnexal soft tissue reveals numerous chocolate cysts of up to 0.6 cm in greatest dimension. The left fallopian tube (3.5 cm long x 0.4 cm diameter) is fixed to the anterior surface of the uterus by adhesions. No definite left ovary is identified. Sectioning the left adnexal soft tissue reveals a 2.7 cm unilocular chocolate cyst covered with adhesions that is affixed to the uterine fundus.\n\nBLOCK SUMMARY:\n\nA1-2- posterior endomyometrium with tumor at deepest extent of invasion, bisected (frozen remnant AF1)\nA3-5- remainder of tumor\nA6- posterior lower uterine segment\nA7- representative anterior endomyometrium with representative of largest white, firm, whorled lesions\nA8- posterior uterine serosa with adhesions\nA9- posterior cervix\nA10- anterior cervix\nA11-13- right fallopian tube and multiple representatives of right adnexa including chocolate cyst\nA14- representative of large chocolate cyst from left adnexa\nA15-17- representative of left fallopian tube and left adnexal soft tissue\nA18- additional full-thickness tumor with posterior myometrium (serosal surface inked blue, tumor surface inked black)\n\nB. \"Left pelvic nodes\", received fresh and fixed in formalin is a 6 x 5.8 x 1 cm aggregate of fibroadipose tissue and lymph nodes. The specimen is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nB1- one lymph node candidate, bisected\nB2-4- multiple intact lymph node candidates\nB5-9- remaining fibroadipose tissue\n\n| Crit.ria | Yes | No |\n| Diagnosis Discrepancy | X |\n| Primary Tumor Site Discrepancy | X |\n| HIPAA Discrepancy | X |\n| Prior Malignancy History | X |\n| Dual Synchronous Prima | Noted |\n| Case #(cir le): | QUALIFIED | DISQUALIFIED |\n| Review (rni |  | Date Reviewed: | / / | / / |\n\n[Redacted]",
+        "confidence": {
+          "mean_probability": 0.9700892489462897,
+          "mean_log_probability": -0.043882417331813,
+          "perplexity": 1.0448594902984625,
+          "min_probability": 0.16791842214205524
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 878,
+          "total_tokens": 3350
+        },
+        "composite_score": 0.9663698388989233,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 31.643644094467163,
+          "chars": 3344,
+          "words": 518,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nS.T.: endometrium C54.1  2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neo corpus uteri. Per E-browser, the patient has a FIGO 1 endometriod endometrial adenocarcinoma and endometriosis.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen section is a 114 gram hysterectomy and bilateral salpingo-oophorectomy specimen. (NOTE: The specimen cannot be definitively oriented due to extensive serosal and bilateral adnexal adhesions and probable endometriosis which obscure the usual orienting landmarks. The orientations used below are presumed.) There is a 3.1 x 2.1 cm area of heaped-up endometrium centered in the posterior endometrium that grossly appears to invade 2.6 cm into the 3.2 cm thick myometrium. The mass is tan and friable, with poorly defined borders, and comes within approximately 0.5 cm of the posterior lower uterine segment. The tumor does not involve the cervix or extend into the adnexa. The 0.2 cm thick endometrium is otherwise unremarkable. The myometrium displays approximately five firm, white, whorled nodules up to 1.7 cm in greatest dimension, and is otherwise unremarkable. The cervix displays a 1cm firm, white whorled submucosal nodule and is otherwise unremarkable. The posterior serosal surface of the uterus is diffusely covered with shaggy, tan-gray fibrous tissue which is continuous with adhesions involving the bilateral adnexa. The right fallopian tube (3.5 cm long x 0.6 cm in diameter) is unremarkable. No definite right ovary is identified. Sectioning the right adnexal soft tissue reveals numerous chocolate cysts of up to 0.6 cm in greatest dimension. The left fallopian tube (3.5 cm long x 0.4 cm diameter) is fixed to the anterior surface of the uterus by adhesions. No definite left ovary is identified. Sectioning the left adnexal soft tissue reveals a 2.7 cm unilocular chocolate cyst covered with adhesions that is affixed to the uterine fundus.\n\nBLOCK SUMMARY:\n\nA1-2- posterior endomyometrium with tumor at deepest extent of invasion, bisected (frozen remnant AF1)\nA3-5- remainder of tumor\nA6- posterior lower uterine segment\nA7- representative anterior endomyometrium with representative of largest white, firm, whorled lesions\nA8- posterior uterine serosa with adhesions\nA9- posterior cervix\nA10- anterior cervix\nA11-13- right fallopian tube and multiple representatives of right adnexa including chocolate cyst\nA14- representative of large chocolate cyst from left adnexa\nA15-17- representative of left fallopian tube and left adnexal soft tissue\nA18- additional full-thickness tumor with posterior myometrium (serosal surface inked blue, tumor surface inked black)\n\nB. \"Left pelvic nodes\", received fresh and fixed in formalin is a 6 x 5.8 x 1 cm aggregate of fibroadipose tissue and lymph nodes. The specimen is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nB1- one lymph node candidate, bisected\nB2-4- multiple intact lymph node candidates\nB5-9- remaining fibroadipose tissue\n\n| Crit.ria | Yes | No |\n| Diagnosis Discrepancy | X |\n| Primary Tumor Site Discrepancy | X |\n| HIPAA Discrepancy | X |\n| Prior Malignancy History | X |\n| Dual Synchronous Prima | Noted |\n| Case #(cir le): | QUALIFIED | DISQUALIFIED |\n| Review (rni |  | Date Reviewed: | / / | / / |\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9700892489462897,
+            "mean_log_probability": -0.043882417331813,
+            "perplexity": 1.0448594902984625,
+            "min_probability": 0.16791842214205524
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 878,
+            "total_tokens": 3350
+          },
+          "composite_score": 0.9663698388989233,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 32.659281730651855,
+          "chars": 3451,
+          "words": 518,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nS.T.: endometrium C54.1  2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neo corpus uteri. Per E-browser, the patient has a FIGO 1 endometriod endometrial adenocarcinoma and endometriosis.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen section is a 114 gram hysterectomy and bilateral salpingo-oophorectomy specimen. (NOTE: The specimen cannot be definitively oriented due to extensive serosal and bilateral adnexal adhesions and probable endometriosis which obscure the usual orienting landmarks. The orientations used below are presumed.) There is a 3.1 x 2.1 cm area of heaped-up endometrium centered in the posterior endometrium that grossly appears to invade 2.6 cm into the 3.2 cm thick myometrium. The mass is tan and friable, with poorly defined borders, and comes within approximately 0.5 cm of the posterior lower uterine segment. The tumor does not involve the cervix or extend into the adnexa. The 0.2 cm thick endometrium is otherwise unremarkable. The myometrium displays approximately five firm, white, whorled nodules up to 1.7 cm in greatest dimension, and is otherwise unremarkable. The cervix displays a 1cm firm, white whorled submucosal nodule and is otherwise unremarkable. The posterior serosal surface of the uterus is diffusely covered with shaggy, tan-gray fibrous tissue which is continuous with adhesions involving the bilateral adnexa. The right fallopian tube (3.5 cm long x 0.6 cm in diameter) is unremarkable. No definite right ovary is identified. Sectioning the right adnexal soft tissue reveals numerous chocolate cysts of up to 0.6 cm in greatest dimension. The left fallopian tube (3.5 cm long x 0.4 cm diameter) is fixed to the anterior surface of the uterus by adhesions. No definite left ovary is identified. Sectioning the left adnexal soft tissue reveals a 2.7 cm unilocular chocolate cyst covered with adhesions that is affixed to the uterine fundus.\n\nBLOCK SUMMARY:\n\nA1-2- posterior endomyometrium with tumor at deepest extent of invasion, bisected (frozen remnant AF1)\nA3-5- remainder of tumor\nA6- posterior lower uterine segment\nA7- representative anterior endomyometrium with representative of largest white, firm, whorled lesions\nA8- posterior uterine serosa with adhesions\nA9- posterior cervix\nA10- anterior cervix\nA11-13- right fallopian tube and multiple representatives of right adnexa including chocolate cyst\nA14- representative of large chocolate cyst from left adnexa\nA15-17- representative of left fallopian tube and left adnexal soft tissue\nA18- additional full-thickness tumor with posterior myometrium (serosal surface inked blue, tumor surface inked black)\n\nB. \"Left pelvic nodes\", received fresh and fixed in formalin is a 6 x 5.8 x 1 cm aggregate of fibroadipose tissue and lymph nodes. The specimen is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nB1- one lymph node candidate, bisected\nB2-4- multiple intact lymph node candidates\nB5-9- remaining fibroadipose tissue\n\n| Criteria | Yes | No |\n|-----------------------------|-----|----|\n| Diagnosis Discrepancy        |     | X  |\n| Primary Tumor Site Discrepancy |   | X  |\n| HIPAA Discrepancy            |     | X  |\n| Prior Malignancy History     |     | X  |\n| Dual Synchronous Primary Noted |  |    |\n| Case is (circle): QUALIFIED / DISQUALIFIED |\n| Reviewed by: (signature)    | (signature) | 2/25/11 |\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9735681402490698,
+            "mean_log_probability": -0.03774930155210643,
+            "perplexity": 1.0384708572098882,
+            "min_probability": 0.13128509799023802
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 903,
+            "total_tokens": 3375
+          },
+          "composite_score": 0.9223541426270377
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 30.458579301834106,
+          "chars": 3369,
+          "words": 514,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nS. fx: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neo corpus uteri. Per E-browser, the patient has a FIGO 1\nendometriod endometrial adenocarcinoma and endometriosis.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen\nsection is a 114 gram hysterectomy and bilateral salpingo-oophorectomy\nspecimen. (NOTE: The specimen cannot be definitively oriented due to\nextensive serosal and bilateral adnexal adhesions and probable endometriosis\nwhich obscure the usual orienting landmarks. The orientations used below are\npresumed.) There is a 3.1 x 2.1 cm area of heaped-up endometrium centered in\nthe posterior endometrium that grossly appears to invade 2.6 cm into the 3.2\ncm thick myometrium. The mass is tan and friable, with poorly defined\nborders, and comes within approximately 0.5 cm of the posterior lower uterine\nsegment. The tumor does not involve the cervix or extend into the adnexa. The\n0.2 cm thick endometrium is otherwise unremarkable. The myometrium displays\napproximately five firm, white, whorled nodules up to 1.7 cm in greatest\ndimension, and is otherwise unremarkable. The cervix displays a 1cm firm,\nwhite whorled submucosal nodule and is otherwise unremarkable. The posterior\nserosal surface of the uterus is diffusely covered with shaggy, tan-gray\nfibrous tissue which is continuous with adhesions involving the bilateral\nadnexa. The right fallopian tube (3.5 cm long x 0.6 cm in diameter) is\nunremarkable. No definite right ovary is identified. Sectioning the right\nadnexal soft tissue reveals numerous chocolate cysts of up to 0.6 cm in\ngreatest dimension. The left fallopian tube (3.5 cm long x 0.4 cm diameter)\nis fixed to the anterior surface of the uterus by adhesions. No definite left\novary is identified. Sectioning the left adnexal soft tissue reveals a 2.7 cm\nunilocular chocolate cyst covered with adhesions that is affixed to the\nuterine fundus.\n\nBLOCK SUMMARY:\n\nA1-2- posterior endomyometrium with tumor at deepest extent of invasion,\n          bisected (frozen remnant AF1)\nA3-5- remainder of tumor\nA6- posterior lower uterine segment\nA7- representative anterior endomyometrium with representative of largest\n          white, firm, whorled lesions\nA8- posterior uterine serosa with adhesions\nA9- posterior cervix\nA10- anterior cervix\nA11-13- right fallopian tube and multiple representatives of right adnexa\n          including chocolate cyst\nA14- representative of large chocolate cyst from left adnexa\nA15-17- representative of left fallopian tube and left adnexal soft tissue\nA18- additional full-thickness tumor with posterior myometrium (serosal\n          surface inked blue, tumor surface inked black)\n\nB. \"Left pelvic nodes\", received fresh and fixed in formalin is a 6 x 5.8 x 1\ncm aggregate of fibroadipose tissue and lymph nodes. The specimen is\ndissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nB1- one lymph node candidate, bisected\nB2-4- multiple intact lymph node candidates\nB5-9- remaining fibroadipose tissue\n\n| Crit.ria | Yes | No |\n| Diagnosis Discrepancy | X |\n| Primary Tumor Site Discrepancy | X |\n| HIPAA Discrepancy: | X |\n| Prior Malignancy History | X |\n| Dual Synchronous Prima Noted | |\n| Case #(circles): QUALIFIED / DISQUALIFIED | |\n| Review (form) | Date Reviewed: | / | / |",
+          "confidence": {
+            "mean_probability": 0.9700928866201354,
+            "mean_log_probability": -0.04575978414096917,
+            "perplexity": 1.0468229172854335,
+            "min_probability": 0.0929653905235543
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 909,
+            "total_tokens": 3381
+          },
+          "composite_score": 0.9167443360563878
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 142.97612500190735,
+        "chars": 4504,
+        "words": 1916,
+        "text": "Page 2 of 3\n\nC. \"Right pelvic nodes\", received fresh and fixed in formalin is a 5.8 x 4.5 x\n1.5 cm aggregate of lymph nodes and fibroadipose tissue. The specimen is\ndissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nCl- one lymph node candidate, bisected\nC2- multiple intact lymph node candidates\nC3- one lymph node candidate, bisected\nC4- one lymph node candidate, bisected\nC5-6- multiple intact lymph node candidates\nC7-9- remaining fibroadipose tissue\n\nDr. /Dr. ; slides to Dr. ... -.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes, and ovaries\": AF1-2- (posterior\nendomyometrium with\ntumor in deepest extent,\nbisected)- endometrioid\nadenocarcinoma, FIGO I,\ninvading 2.6 cm into a\n3.2 cm thick myometrium\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nIMMUNOHISTOCHEMICAL FINDINGS:\nThe immunoperoxidase tests reported herein were developed and their\nperformance characteristics were determined by the\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "confidence": {
+          "mean_probability": 0.9885879003496187,
+          "mean_log_probability": -0.013593449218750001,
+          "perplexity": 1.0136862602132808,
+          "min_probability": 0.21277351262690525
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9892710836051852,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 142.97612500190735,
+          "chars": 4504,
+          "words": 1916,
+          "text": "Page 2 of 3\n\nC. \"Right pelvic nodes\", received fresh and fixed in formalin is a 5.8 x 4.5 x\n1.5 cm aggregate of lymph nodes and fibroadipose tissue. The specimen is\ndissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nCl- one lymph node candidate, bisected\nC2- multiple intact lymph node candidates\nC3- one lymph node candidate, bisected\nC4- one lymph node candidate, bisected\nC5-6- multiple intact lymph node candidates\nC7-9- remaining fibroadipose tissue\n\nDr. /Dr. ; slides to Dr. ... -.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes, and ovaries\": AF1-2- (posterior\nendomyometrium with\ntumor in deepest extent,\nbisected)- endometrioid\nadenocarcinoma, FIGO I,\ninvading 2.6 cm into a\n3.2 cm thick myometrium\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nIMMUNOHISTOCHEMICAL FINDINGS:\nThe immunoperoxidase tests reported herein were developed and their\nperformance characteristics were determined by the\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+          "confidence": {
+            "mean_probability": 0.9885879003496187,
+            "mean_log_probability": -0.013593449218750001,
+            "perplexity": 1.0136862602132808,
+            "min_probability": 0.21277351262690525
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9892710836051852,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 181.43759846687317,
+          "chars": 4502,
+          "words": 1915,
+          "text": "Page 2 of 3\n\nC. \"Right pelvic nodes\", received fresh and fixed in formalin is a 5.8 x 4.5 x\n1.5 cm aggregate of lymph nodes and fibroadipose tissue. The specimen is\ndissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nC1- one lymph node candidate, bisected\nC2- multiple intact lymph node candidates\nC3- one lymph node candidate, bisected\nC4- one lymph node candidate, bisected\nC5-6- multiple intact lymph node candidates\nC7-9- remaining fibroadipose tissue\n\nDr. /Dr. : slides to Dr. ... -.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes, and ovaries\": AF1-2- (posterior\nendomyometrium with\ntumor in deepest extent,\nbisected)- endometrioid\nadenocarcinoma, FIGO I,\ninvading 2.6 cm into a\n3.2 cm thick myometrium\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nIMMUNOHISTOCHEMICAL FINDINGS:\nThe immunoperoxidase tests reported herein were developed and their\nperformance characteristics were determined by the\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+          "confidence": {
+            "mean_probability": 0.9893347863038218,
+            "mean_log_probability": -0.012971193359375,
+            "perplexity": 1.0130556842084488,
+            "min_probability": 0.19212693607708384
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9402681270526244
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 141.89182591438293,
+          "chars": 8065,
+          "words": 1916,
+          "text": "Page 2 of 3\n\nC. \"Right pelvic nodes\", received fresh and fixed in formalin is a 5.8 x 4.5 x\n1.5 cm aggregate of lymph nodes and fibroadipose tissue. The specimen is\ndissected for lymph node candidates.\n\nBLOCK SUMMARY:\n\nC1- one lymph node candidate, bisected\nC2- multiple intact lymph node candidates\nC3- one lymph node candidate, bisected\nC4- one lymph node candidate, bisected\nC5-6- multiple intact lymph node candidates\nC7-9- remaining fibroadipose tissue\n\nDr. /Dr. : slides to Dr. ...\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes, and ovaries\": AF1-2- (posterior\nendomyometrium with\ntumor in deepest extent,\nbisected)- endometrioid\nadenocarcinoma, FIGO I,\ninvading 2.6 cm into a\n3.2 cm thick myometrium\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nIMMUNOHISTOCHEMICAL FINDINGS:\nThe immunoperoxidase tests reported herein were developed and their\nperformance characteristics were determined by the\n... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+          "confidence": {
+            "mean_probability": 0.9934656339924056,
+            "mean_log_probability": -0.0086595654296875,
+            "perplexity": 1.0086971679284646,
+            "min_probability": 0.19068164913085764
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9434752319294578
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 8.539747953414917,
+        "chars": 1411,
+        "words": 196,
+        "text": "Page 3 of 3\n\n                            1.7 CM IN GREATEST DIMENSION\n      CERVIX: LEIOMYOMA, 1 CM IN GREATEST DIMENSION\n      SEROSA: FIBROVASCULAR ADHESIONS\n      SPECIMEN MARGINS: NOT INVOLVED\n\n      BILATERAL TUBES AND OVARIES: ENDOMETRIOSIS, FIBROVASCULAR ADHESIONS.\n\nCOMMENT: The tumor is an exophytic mass which is grossly suspicious for tumor\ninvasion into the outer half of the myometrium. The frozen section slides\nalso show areas of apparent deep myometrial tumor invasion. However, multiple\npermanent sections of these areas demonstrate that these tumor foci are\nactually present within adenomyosis, and do not invade the myometrium. This\nfinding is confirmed by an immunostain for CD10, which demonstrates a cuff of\nendometrial stromal cells surrounding each tumor nest. Dr. notified\nof the change from the frozen section diagnosis via email.\n\nB. \"LEFT PELVIC NODES\" (BIOPSY):\n\n      THIRTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/13).\n\nC. \"RIGHT PELVIC NODES\" (BIOPSY):\n\n      TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report    -_- -or results of supplementary\ntests.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\n\n",
+        "confidence": {
+          "mean_probability": 0.9723973827644777,
+          "mean_log_probability": -0.04603882058047494,
+          "perplexity": 1.0471150597823713,
+          "min_probability": 0.06344784811843035
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 380,
+          "total_tokens": 2852
+        },
+        "composite_score": 0.9058899717106662,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.539747953414917,
+          "chars": 1411,
+          "words": 196,
+          "text": "Page 3 of 3\n\n                            1.7 CM IN GREATEST DIMENSION\n      CERVIX: LEIOMYOMA, 1 CM IN GREATEST DIMENSION\n      SEROSA: FIBROVASCULAR ADHESIONS\n      SPECIMEN MARGINS: NOT INVOLVED\n\n      BILATERAL TUBES AND OVARIES: ENDOMETRIOSIS, FIBROVASCULAR ADHESIONS.\n\nCOMMENT: The tumor is an exophytic mass which is grossly suspicious for tumor\ninvasion into the outer half of the myometrium. The frozen section slides\nalso show areas of apparent deep myometrial tumor invasion. However, multiple\npermanent sections of these areas demonstrate that these tumor foci are\nactually present within adenomyosis, and do not invade the myometrium. This\nfinding is confirmed by an immunostain for CD10, which demonstrates a cuff of\nendometrial stromal cells surrounding each tumor nest. Dr. notified\nof the change from the frozen section diagnosis via email.\n\nB. \"LEFT PELVIC NODES\" (BIOPSY):\n\n      THIRTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/13).\n\nC. \"RIGHT PELVIC NODES\" (BIOPSY):\n\n      TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report    -_- -or results of supplementary\ntests.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\n\n",
+          "confidence": {
+            "mean_probability": 0.9723973827644777,
+            "mean_log_probability": -0.04603882058047494,
+            "perplexity": 1.0471150597823713,
+            "min_probability": 0.06344784811843035
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 380,
+            "total_tokens": 2852
+          },
+          "composite_score": 0.9058899717106662,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.385833263397217,
+          "chars": 1412,
+          "words": 196,
+          "text": "Page 3 of 3\n\n                        1.7 CM IN GREATEST DIMENSION\n        CERVIX: LEIOMYOMA, 1 CM IN GREATEST DIMENSION\n        SEROSA: FIBROVASCULAR ADHESIONS\n        SPECIMEN MARGINS: NOT INVOLVED\n\n        BILATERAL TUBES AND OVARIES: ENDOMETRIOSIS, FIBROVASCULAR ADHESIONS.\n\nCOMMENT: The tumor is an exophytic mass which is grossly suspicious for tumor\ninvasion into the outer half of the myometrium. The frozen section slides\nalso show areas of apparent deep myometrial tumor invasion. However, multiple\npermanent sections of these areas demonstrate that these tumor foci are\nactually present within adenomyosis, and do not invade the myometrium. This\nfinding is confirmed by an immunostain for CD10, which demonstrates a cuff of\nendometrial stromal cells surrounding each tumor nest. Dr. notified\nof the change from the frozen section diagnosis via email.\n\nB. \"LEFT PELVIC NODES\" (BIOPSY):\n\n        THIRTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/13).\n\nC. \"RIGHT PELVIC NODES\" (BIOPSY):\n\n        TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report ___ or results of supplementary\ntests.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n",
+          "confidence": {
+            "mean_probability": 0.9804957300218948,
+            "mean_log_probability": -0.034151056,
+            "perplexity": 1.034740898744598,
+            "min_probability": 0.06601251062465237
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 376,
+            "total_tokens": 2848
+          },
+          "composite_score": 0.8690423100547895
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.194201946258545,
+          "chars": 1463,
+          "words": 196,
+          "text": "Page 3 of 3\n\n                         1.7 CM IN GREATEST DIMENSION\n     CERVIX: LEIOMYOMA, 1 CM IN GREATEST DIMENSION\n     SEROSA: FIBROVASCULAR ADHESIONS\n     SPECIMEN MARGINS: NOT INVOLVED\n\n     BILATERAL TUBES AND OVARIES: ENDOMETRIOSIS, FIBROVASCULAR ADHESIONS.\n\n     COMMENT: The tumor is an exophytic mass which is grossly suspicious for tumor\n     invasion into the outer half of the myometrium.  The frozen section slides\n     also show areas of apparent deep myometrial tumor invasion.  However, multiple\n     permanent sections of these areas demonstrate that these tumor foci are\n     actually present within adenomyosis, and do not invade the myometrium.  This\n     finding is confirmed by an immunostain for CD10, which demonstrates a cuff of\n     endometrial stromal cells surrounding each tumor nest.  Dr.              notified\n     of the change from the frozen section diagnosis via email.\n\nB. \"LEFT PELVIC NODES\" (BIOPSY):\n\n     THIRTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/13).\n\nC. \"RIGHT PELVIC NODES\" (BIOPSY):\n\n     TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Report       ___ _or results of supplementary\ntests.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\n\n",
+          "confidence": {
+            "mean_probability": 0.9724167531752982,
+            "mean_log_probability": -0.05268246015424164,
+            "perplexity": 1.054094874846745,
+            "min_probability": 0.05645180577329774
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 390,
+            "total_tokens": 2862
+          },
+          "composite_score": 0.8609501022670625
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

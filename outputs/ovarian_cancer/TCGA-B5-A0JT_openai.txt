@@ -1,0 +1,135 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JT\TCGA-B5-A0JT.pdf
+Processing Date: 2026-03-08 16:41:50
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 2
+
+ICD-0-3
+Adenocarcinoma, endometroid, NOS 8380/3
+S.ft: endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri.
+
+GROSS EXAMINATION:
+A. "Uterus, tubes, cervix and ovaries (AF1)". Received fresh is a 52 gram,
+6.7 x 5.6 x 2.7 cm uterus with attached bilateral adnexa. The opened
+endometrial cavity (5 x 4.7 cm) is totally effaced by an exophytic friable
+white-tan mass (5 x 4.7 x 3 cm). Sectioning discloses it invades 0.2 cm into
+a 1.7 cm thick myometrium. By the cornu, it is only 0.6 cm from the nearest
+serosa (area for frozen section). The remaining tumor is strictly
+superficial. There is questionable extension into the anterior lower uterine
+segment, but it is grossly 2.2 cm from the internal os. Sectioning through
+this area demonstrates a 0.2 cm invasion into the underlying stroma. The
+remainder of the myometrium is brown-tan with no additional abnormalities
+grossly noted. The exocervix and serosa are grossly unremarkable. A
+representative section of the mass at the cornu has been previously frozen as
+AF1, the frozen section remnant of which is submitted in block A1. Additional
+sections are submitted as follows:
+
+A2- anterior cervix
+A3- anterior lower uterine segment/upper endocervical canal
+A4- posterior cervix
+A5- posterior lower uterine segment/upper endocervical canal
+A6-7 anterior endomyometrial mass at cornu
+A8- posterior endomyometrial mass at cornu
+A9- anterior endomyometrium with mass
+A10- posterior endometrium with mass
+
+The left adnexa is composed of a 7 cm long, 0.5 cm in diameter fimbriated
+fallopian tube with attached mesentery and an attached 5.5 x 3.5 x 2.5 cm soft
+yellow ovary. The surface of the ovary is smooth, glistening and the specimen
+is opened to demonstrate a lumen containing a minimal amount of thickened
+brown-tan material. The unilocular cyst demonstrates a focally granular
+brown-tan lining with no papillary excrescences. There is an average wall
+thickness of 0.2 cm. Representative section is submitted in block A11.
+
+The right adnexa is composed of a 4.5 cm long, 0.5 cm in diameter fimbriated
+fallopian tube with attached mesentery and an attached 2 x 1.3 x 1.3 cm
+cerebriform white-tan ovary. Sectioning of the adnexa demonstrates a grossly
+unremarkable cut surface. Representative sections are submitted in block
+A12.
+
+B. "Left pelvic node", received fresh and placed in formalin is a 12 x 8 x 4
+cm aggregate of yellow-tan fibrofatty tissue which is dissected for adherent
+lymph node candidates. Ten lymph node candidates are identified from 0.3 to
+2.4 cm in greatest dimension are submitted as follows:
+
+B1- three lymph node candidates
+B2- three lymph node candidates
+B3- one lymph node candidate, bisected
+B4- one lymph node candidate, bisected
+B5- one lymph node candidate, bisected
+B6-7 largest lymph node candidate, bisected
+
+C. "Right pelvic node", received fresh and placed in formalin is a 9 x 7 x 3
+cm aggregate of pink-tan soft tissue. The specimen is bisected for apparent
+lymph node candidates. Three lymph node candidates are identified from 0.6 cm
+in greatest dimension and are submitted as follows:
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 2
+
+C1-	one lymph node candidate
+C2-	one lymph node candidate
+C3-	largest lymph node candidate, bisected
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, tubes and ovaries":
+	AF1 (mass deepest extension)-endometrioid adenocarcinoma, FIGO grade 1,
+		2 mm at region of cornu, 6 cm from serosa (Dr.
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS; 52 GRAMS
+	ENDOMETRIUM:
+		TUMOR SITE: CORNU
+		HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH FOCAL SQUAMOUS
+			DIFFERENTIATION.
+		FIGO GRADE: 1
+		TUMOR SIZE: 5 X 4.7 X 3 CM.
+		MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.7 THICK WALL (IN
+			CORNU, WALL IS 0.9 CM THICK).
+		LYMPHATIC/VASCULAR INVASION: NEGATIVE
+		ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT
+	REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.
+	CERVIX: NO PATHOLOGIC DIAGNOSIS.
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR:
+A. LEFT OVARY: ENDOMETRIOSIS.
+A. RIGHT OVARY AND BOTH FALLOPIAN TUBES: NO PATHOLOGIC DIAGNOSIS.
+B. LEFT PELVIC LYMPH NODES: NO TUMOR IN 11 LYMPH NODES (0/11).
+C. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 3 LYMPH NODES (0/3).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+[Redacted text]

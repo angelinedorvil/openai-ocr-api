@@ -1,0 +1,207 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11I\TCGA-B5-A11I.pdf
+Processing Date: 2026-03-08 18:45:14
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+.                                                                                         Page 1 of 4
+
+                                                                                          Criteria
+                                                                                          Diagnosis Discrepancy
+                                                                                          Primary Tumor Site Discrepancy
+                                                                                          HIPAA Discrepancy
+                                                                                          Prior Malignary History
+                                                                                          Dual/Synchronous Prim
+                                                                                          Case is (circle):  FAILURE  QUALIFIED
+                                                                                          Reviewer Initials
+                                                                                          Disqualif
+                                                                                          2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm, corpus uteri. Papillary serous endometrial carcinoma- per
+surgeon.
+
+GROSS EXAMINATION:
+A. "Sigmoid nodule (AF1)". Received fresh and placed in formalin is a 1.6 x
+1.2 x 0.4 cm tan tissue fragment, which has been previously submitted for
+frozen section as AF1 and is submitted in block A1, with remaining tissue in
+block A2.
+
+B. "Pannus". Received fresh and placed in formalin is a 5800 gram, 56.0 x 26.0
+cm ellipse of brown-tan skin, which is excised to a depth of 5.0 cm. The skin
+is remarkable for a 2.0 cm umbilicus measuring 1.0 cm from the closest skin
+margin. The underlying adipose tissue demonstrates mild fibrosis and
+hemorrhage. Upon sectioning, no masses or lesions are identified. A
+representative section is submitted in A1. A 13.3 x 10.5 x 1.0 cm piece of
+omentum accompanies this specimen in which no masses or lesions are noted.
+Representative section is submitted in B2.
+
+C. "Left pelvic biopsy". Received fresh and placed in formalin is a 0.6 x 0.4
+x 0.3 cm tan tissue fragment, which is submitted entirely in C1.
+
+D. "Uterus, cervix, bilateral tubes and ovaries". Received fresh and placed in
+formalin is a 234.5 gram, 11.0 x 8.0 x 5.4 cm uterus, which has been bivalved
+to reveal a 10.0 x 7.5 x 1.5 cm exophytic, tan, soft mass arising from the
+anterior uterine fundus. The mass appears to extend into the lower uterine
+segment and is 1.0 cm from the endocervical canal and 5.0 cm from the anterior
+ectocervix. On sectioning the mass displays minimal invasion into the
+myometrium grossly; a 2.0 cm portion of the exophytic mass appears to markedly
+compress the myometrium (thickness 2.5 cm wall) on the anterior wall. The
+anterior cervix is inked blue distal to the peritoneal reflection. Multiple
+intramural leiomyomas ranging in size from 1.0 to 1.5 cm are noted.
+
+A 3.0 x 2.5 x 0.7 cm white ovary and a tortuous 3.0 x 0.8 x 0.7 cm right
+fallopian tube are grossly unremarkable. A 3.2 x 3.0 x 1.1 cm tan-white left
+ovary and a 3.2 x 1.0 x 0.8 cm left fallopian tube are grossly unremarkable.
+
+BLOCK SUMMARY:
+
+D1- right ovary
+D2- right fallopian tube
+D3- left ovary
+D4- left fallopian tube
+D5- anterior cervix
+D6- anterior full thickness, lower uterine segment to endocervix
+D7- posterior cervix
+D8- posterior lower uterine cervix to endocervix
+D9-10- anterior wall, full thickness with mass and leiomyoma
+D11-12- full thickness posterior wall with mass
+D13-D18: additional samples of tumor, submitted ██████
+E. "Vaginal cuff". Received fresh and placed in formalin are two tan-white
+tissue fragments, which measure in aggregate 2.0 x 0.8 x 0.5 cm, and are
+submitted entirely in block E1.
+
+F. "Left pelvic node". Received fresh and placed in formalin is a 3.0 x 2.0 x
+0.4 cm aggregate of adipose tissue from which multiple lymph node candidates
+are dissected and submitted entirely in block F1.
+
+UUID:850EFCC5-484B-4E09-801A-2FAFB4CFD72B
+TCGA-B5-A111-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 4
+
+G. "Left common". Received fresh and placed in formalin is a 0.8 x 0.6 x 0.2 cm tan tissue fragment, which is submitted entirely in block G1.
+
+H. "Right pelvic node". Received fresh and placed in formalin is a 5.0 x 2.5 x 1.0 cm aggregate of fibrofatty tissue from which multiple lymph node candidates are dissected and submitted in blocks H1-2.
+
+I. "Right periaortic node". Received fresh and placed in formalin is a 3.5 x 2.7 x 1.5 cm aggregate of fibrofatty tissue from which multiple lymph node candidates are dissected and submitted in block I1.
+
+J. "Left periaortic node". Received fresh and placed in formalin is a 1.4 x 1.0 x 0.2 cm aggregate of fibrofatty tissue with lymph node candidates, which have been submitted entirely in block J1.
+
+K. "Left ligament lymph node". Received fresh and placed in formalin is a 2.4 x 1.6 cm fibrous, tan tissue fragment, which is bisected and submitted entirely in blocks K1-2.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Sigmoid nodule": AF1- adenocarcinoma (Dr. ).
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, biopsies, omentectomy, lymph node dissections
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pM1
+
+NOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "SIGMOID NODULE" (BIOPSY):
+
+METASTATIC ADENOCARCINOMA.
+
+B. "PANNUS" (EXCISION):
+
+BENIGN SKIN WITH UNDERLYING FIBROADIPOSE TISSUE.
+NO TUMOR IS SEEN.
+
+OMENTUM, NO EVIDENCE OF MALIGNANCY.
+
+C. "LEFT PELVIS" (BIOPSY):
+
+BENIGN FIBROVASCULAR TISSUE.
+NO TUMOR IS SEEN.
+
+D. "UTERUS, BILATERAL TUBES AND OVARIES" (HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY):
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 4
+
+POORLY DIFFERENTIATED ADENOCARCINOMA OF THE ENDOMETRIUM.
+    HISTOLOGIC TYPE: NOT OTHERWISE SPECIFIED, SEE COMMENT.
+    FIGO GRADE: 3 OF 3.
+    TUMOR SIZE: 10 X 7.5 X 1.5 CM.
+    DEPTH OF INVASION: 0.1-0.2 CM, IN A 2.5 CM THICK MYOMETRIUM.
+    LYMPHATIC/VASCULAR INVASION: ABSENT.
+    ADJACENT NON-NEOPLASTIC ENDOMETRIUM: HYPERPLASTIC.
+    REMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 1 CM).
+    CERVIX: FREE OF TUMOR.
+    SEROSA: FREE OF TUMOR.
+    SPECIMEN MARGINS: NOT INVOLVED
+
+BILATERAL OVARIES AND FALLOPIAN TUBES: FREE OF TUMOR.
+
+COMMENT: The tumor is unusually poorly differentiated and in most areas
+consists of solid sheets of cells showing no particular differentiation. In a
+few areas, there is a gland-like pattern suggesting an endometrioid pattern,
+but the tumor is so poorly differentiated that definitive subtyping is not
+possible. Dr. : indicates that an outside biopsy was interpreted as
+having a serous component, but we do not have that material available for
+review.
+
+E. "VAGINAL CUFF" (BIOPSY):
+
+    ENDOMETRIOSIS. NO TUMOR IS SEEN.
+
+F. "LEFT PELVIC NODES" (DISSECTION):
+
+    ONE LYMPH NODE, NO EVIDENCE OF MALIGNANCY (0/1).
+
+G. "LEFT COMMONS" (LYMPH NODE DISSECTION):
+
+    FIBROVASCULAR TISSUE, NO LYMPH NODE IDENTIFIED.
+    NO EVIDENCE OF MALIGNANCY.
+
+H. "RIGHT PELVIC NODES" (DISSECTION):
+
+    FIVE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/5).
+
+I. "RIGHT PARAAORTIC NODES" (DISSECTION):
+
+    FIVE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/5).
+
+J. "LEFT PARAAORTIC NODES" (DISSECTION):
+
+    TWO LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/2).
+
+K. "LEFT INFUNDIBULAR PELVIC LIGAMENT" (BIOPSY):
+
+    FIBROVASCULAR TISSUE, NO LYMPH NODES IDENTIFIED. NO EVIDENCE OF
+    MALIGNANCY.
+    SMALL FRAGMENT OF RESIDUAL OVARIAN TISSUE, NO TUMOR SEEN.
+    SEE NOTE.
+
+================================================================================
+PAGE 4
+================================================================================
+Page 4 of 4
+
+NOTE: This specimen was initially received with the site identified as "left ligament lymph node" on both the container on the accompanying requisition. Dr. - indicates this was incorrectly labelled, and the site is corrected
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+ADDENDUM 1:
+This addendum is issued to report the results of additional evaluation of the left pelvic lymph node dissection (specimen F), at the request of Dr. Multiple step sections are obtained from the paraffin block, with no additional findings. All of the remaining tissue in the container is submitted in its entirety in blocks F2-6. No additional lymph nodes are identified upon microscopic examination of these additional sections. The previous diagnoses are unchanged.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).

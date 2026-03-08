@@ -1,0 +1,275 @@
+{
+  "pdf": "reports\\TCGA-B5-A0K4\\TCGA-B5-A0K4.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 42.262643337249756,
+        "chars": 3431,
+        "words": 562,
+        "text": "Page 1 of 2\n\nUUID: 80DF2981-089A-47A2-B221-F7C28ECAF3F2\nTCGA-B5-A0K4-01A-PR Redacted\n\nICD-0-3\nAdenocarcinoma, endometrial, NOS 8380/3\nSite: endometrium C54.1 3/11 lw\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on ______ is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on ______ is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at on ______ is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr. /Dr. /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for\n\n| Criteria                  | Yes | No |\n|---------------------------|-----|----|\n| Diagnosis Discrepancy      |     | X  |\n| Primary Tumor Site Discrepancy | | X  |\n| HIPAA Discrepancy          |     | X  |\n| Prior Malignancy History   |     | X  |\n| Dual/Synchronous Primary   |     | X  |\n| Case is (circle): QUALIFIED / DISQUALIFIED |\n| Review                     |     |    |\n|                           |     |    |",
+        "confidence": {
+          "mean_probability": 0.9791073548410328,
+          "mean_log_probability": -0.028870273843248348,
+          "perplexity": 1.0292910598404788,
+          "min_probability": 0.08182495569953911
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1060,
+          "total_tokens": 3532
+        },
+        "composite_score": 0.9775518647376944,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 42.262643337249756,
+          "chars": 3431,
+          "words": 562,
+          "text": "Page 1 of 2\n\nUUID: 80DF2981-089A-47A2-B221-F7C28ECAF3F2\nTCGA-B5-A0K4-01A-PR Redacted\n\nICD-0-3\nAdenocarcinoma, endometrial, NOS 8380/3\nSite: endometrium C54.1 3/11 lw\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on ______ is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on ______ is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at on ______ is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at ______ on ______ is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr. /Dr. /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for\n\n| Criteria                  | Yes | No |\n|---------------------------|-----|----|\n| Diagnosis Discrepancy      |     | X  |\n| Primary Tumor Site Discrepancy | | X  |\n| HIPAA Discrepancy          |     | X  |\n| Prior Malignancy History   |     | X  |\n| Dual/Synchronous Primary   |     | X  |\n| Case is (circle): QUALIFIED / DISQUALIFIED |\n| Review                     |     |    |\n|                           |     |    |",
+          "confidence": {
+            "mean_probability": 0.9791073548410328,
+            "mean_log_probability": -0.028870273843248348,
+            "perplexity": 1.0292910598404788,
+            "min_probability": 0.08182495569953911
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1060,
+            "total_tokens": 3532
+          },
+          "composite_score": 0.9775518647376944,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 45.91031360626221,
+          "chars": 3490,
+          "words": 565,
+          "text": "Page 1 of 2\n\nUUID: 80DF2981-089A-47A2-B221-F7C28ECAF3F2\nTCGA-B5-A0K4-01A-PR Redacted\n\nICD-0-3\nAdenocarcinoma, endometrial, NOS 8380/3\nSite: endometrium C54.1 3/11 lw\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on __________ is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at _______ on _______ is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at _______ on _______ is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at _______ on _______ is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at _______ m on _______ is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at _______ .m on _______ is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr. /Dr. /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for\n\n| Criteria                     | Yes | No |\n|------------------------------|-----|----|\n| Diagnosis Discrepancy         |     | X  |\n| Primary Tumor Site Discrepancy|     | X  |\n| HIPAA Discrepancy             |     | X  |\n| Prior Malignancy History      |     | X  |\n| Dual/Synchronous Primary Note:|     | X  |\n| Case is (circle): QUALIFIED / DISQUALIFIED |\n| Review                       |     |    |\n|                              |     |    |",
+          "confidence": {
+            "mean_probability": 0.9754770155591486,
+            "mean_log_probability": -0.034868859665427514,
+            "perplexity": 1.035483906189316,
+            "min_probability": 0.04194953209520076
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1077,
+            "total_tokens": 3549
+          },
+          "composite_score": 0.6470747980106342
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 40.56534171104431,
+          "chars": 3370,
+          "words": 551,
+          "text": "Page 1 of 2\n\nUUID: 80DF2981-089A-47A2-B221-F7C28ECAF3F2\nTCGA-B5-A0K4-01A-PR  Redacted\n\nICD-0-3\nAdenocarcinoma, endometrial, NOS 8380/3\nSite: endometrium C54.1 3/11 lw\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on  is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (Al-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (All).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at on  is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on  is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at on  is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at m on  is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at .m on  is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr. /Dr. /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for\n\n| Criteria                      | Yes | No |\n|-------------------------------|-----|----|\n| Diagnosis Discrepancy          |     | X  |\n| Primary Tumor Site Discrepancy |     | X  |\n| HIPAA Discrepancy              |     | X  |\n| Prior Malgnancy History        |     | X  |\n| Dual/Synchronous Primary Note:|     | X  |\n| Case is (circle): QUALIFIED / DISQUALIFIED |\n| Review                       |     |    |\n\n",
+          "confidence": {
+            "mean_probability": 0.9761151971717595,
+            "mean_log_probability": -0.03393776923076922,
+            "perplexity": 1.034520225735467,
+            "min_probability": 0.07181614266461857
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1054,
+            "total_tokens": 3526
+          },
+          "composite_score": 0.9250539100292524
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 29.766114473342896,
+        "chars": 2899,
+        "words": 480,
+        "text": "Page 1 of 2\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on                is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at pm on                is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on                is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at 2:30 pm on                is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at .m on                is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at on                is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr.  /Dr.  /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for",
+        "confidence": {
+          "mean_probability": 0.9915380990680448,
+          "mean_log_probability": -0.013106161142857141,
+          "perplexity": 1.01319242331617,
+          "min_probability": 0.07324070011738384
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 876,
+          "total_tokens": 3348
+        },
+        "composite_score": 0.989650710541077,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 29.766114473342896,
+          "chars": 2899,
+          "words": 480,
+          "text": "Page 1 of 2\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on                is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at pm on                is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on                is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at 2:30 pm on                is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at .m on                is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at on                is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr.  /Dr.  /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for",
+          "confidence": {
+            "mean_probability": 0.9915380990680448,
+            "mean_log_probability": -0.013106161142857141,
+            "perplexity": 1.01319242331617,
+            "min_probability": 0.07324070011738384
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 876,
+            "total_tokens": 3348
+          },
+          "composite_score": 0.989650710541077,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 128.66846823692322,
+          "chars": 2929,
+          "words": 480,
+          "text": "Page 1 of 2\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed in formalin at 11 am on                     is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a 0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan, exophytic tumor (A1-A4) at the junction of the posterior endomyometrium and the fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor does not involed the lower uterine segment or cervix. Abutting but separate from it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining endometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The myometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The cervix is smooth, white, glistening, and unremarkable (A8-posterior, A9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube (5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6 cm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at pm on                     is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing multiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest dimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at on                     is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two lymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted entirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at 2:30 pm on                     is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing multiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest dimension. Four lymph node candidates are submitted in block D1, and one lymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at .m on                     is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue containing three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest dimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at on                     is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue containing one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen is submitted in block F1.\n\nDr.  /Dr.  /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for",
+          "confidence": {
+            "mean_probability": 0.9909681591131861,
+            "mean_log_probability": -0.014334013714285714,
+            "perplexity": 1.0144372383067417,
+            "min_probability": 0.07656057663964586
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 876,
+            "total_tokens": 3348
+          },
+          "composite_score": 0.9392600955153164
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 31.892680168151855,
+          "chars": 2938,
+          "words": 480,
+          "text": "Page 1 of 2\n\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received unfixed and placed\nin formalin at 11 am on                        is a 177 gram, 9.5 x 5.5 x 4 cm uterus with a\n0.7 cm patent cervical os. The uterus demonstrates a 3.5 x 3.5 cm yellow-tan,\nexophytic tumor (A1-A4) at the junction of the posterior endomyometrium and\nthe fundus that penetrated 1.4 cm into the 2.3 cm thick myometrium. The tumor\ndoes not involed the lower uterine segment or cervix. Abutting but separate\nfrom it a 4.5 x 4.5 x 2 cm well-circumscribed leiomyoma (A5). The remaining\nendometrium (3 x 2.5 cm) is unremarkable (A6-anterior, A7-posterior). The\nmyometrium contains multiple intramural leiomyomata up to 1.3 cm in size. The\ncervix is smooth, white, glistening, and unremarkable (A8-posterior,\nA9-anterior).\n\nThe right ovary (2.5 x 1.5 x 0.5 cm) (A9) and right fimbriated fallopian tube\n(5.5 x 0.6 cm) (A10) are unremarkable as are the left ovary (2.6 x 1.2 x 0.6\ncm) and fimbriated left fallopian tube (6.2 x 0.5 cm) (A11).\n\nB. \"Right pelvic lymph node\", received unfixed and placed in formalin at\npm on                      is a 5 x 3 x 1 cm aggregate of fibrofatty tissue containing\nmultiple lymph node candidates, ranging from 0.4, up to 1.4 cm in greatest\ndimension. Multiple lymph node candidates are submitted in blocks B1-4.\n\nC. \"Left external iliac\", received unfixed and placed in formalin at\non                      is a 3 x 2 x 1 cm aggregate of fibrofatty tissue containing two\nlymph node candidates of equal size (1 x 1 x 0.5 cm), which are submitted\nentirely in block C1. One lymph node is inked blue.\n\nD. \"Left obturator node\", received unfixed and placed in formalin at 2:30 pm\non                      is a 4 x 2 x 0.5 cm fragment of fibrofatty tissue containing\nmultiple lymph node candidates, from 0.5 cm, up to 1.5 cm in greatest\ndimension. Four lymph node candidates are submitted in block D1, and one\nlymph node candidate is submitted in block D1.\n\nE. \"Right paraaortic lymph node\", received unfixed and placed in formalin at\n_m on                      is a 1.5 x 1.5 x 1 cm aggregate of fibrofatty tissue\ncontaining three lymph node candidate, from 0.5 cm, up to 0.8 cm in greatest\ndimension. The lymph nodes are entirely submitted in block E1.\n\nF. \"Left periaortic lymph node\", received unfixed and placed in formalin at\non                      is a 1 x 1 x 0.5 cm aggregate of fibrofatty tissue\ncontaining one lymph node candidate (0.4 x 0.4 x 0.3 cm). The entire specimen\nis submitted in block F1.\n\nDr.  /Dr.  /slides to Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for",
+          "confidence": {
+            "mean_probability": 0.9900532418398976,
+            "mean_log_probability": -0.016168017621145375,
+            "perplexity": 1.016299427274014,
+            "min_probability": 0.05474123578968128
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 909,
+            "total_tokens": 3381
+          },
+          "composite_score": 0.9379078132956438
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.46730637550354,
+        "chars": 1715,
+        "words": 247,
+        "text": "Page 2 of 2\n\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 177 GRAMS\n    ENDOMETRIUM:\n        TUMOR SITE: JUNCTION OF CORPUS AND FUNDUS\n        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH SQUAMOUS ✓\n        DIFFERENTIATION.\n        FIGO GRADE: 2 ✓\n        TUMOR SIZE: 3.5 X 3.5 X 1.4 CM.\n        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 2.0 CM, IN A 2.3 THICK WALL.\n        LYMPHATIC/VASCULAR INVASION: MASSIVE\n        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO ENDOMETRIUM PRESENT\n    REMAINING MYOMETRIUM: LEIOMYOMATA\n    CERVIX: NO PATHOLOGIC DIAGNOSIS.\n    SEROSA: NO PATHOLOGIC DIAGNOSIS.\n    SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL:\nB. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 12 LYMPH NODES (0/12).\nC. LEFT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nD. LEFT OBTURATOR LYMPH NODES: NO TUMOR IN 6 LYMPH NODES (0/6).\nE. RIGHT PERICOLIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\nF. LEFT PERIAORTIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]\nMD:\n[Redacted]\n[Redacted]",
+        "confidence": {
+          "mean_probability": 0.9840585671028234,
+          "mean_log_probability": -0.022499108892921962,
+          "perplexity": 1.0227541227806018,
+          "min_probability": 0.22931997040441104
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 552,
+          "total_tokens": 3024
+        },
+        "composite_score": 0.9538967698770656,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.46730637550354,
+          "chars": 1715,
+          "words": 247,
+          "text": "Page 2 of 2\n\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 177 GRAMS\n    ENDOMETRIUM:\n        TUMOR SITE: JUNCTION OF CORPUS AND FUNDUS\n        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH SQUAMOUS ✓\n        DIFFERENTIATION.\n        FIGO GRADE: 2 ✓\n        TUMOR SIZE: 3.5 X 3.5 X 1.4 CM.\n        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 2.0 CM, IN A 2.3 THICK WALL.\n        LYMPHATIC/VASCULAR INVASION: MASSIVE\n        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO ENDOMETRIUM PRESENT\n    REMAINING MYOMETRIUM: LEIOMYOMATA\n    CERVIX: NO PATHOLOGIC DIAGNOSIS.\n    SEROSA: NO PATHOLOGIC DIAGNOSIS.\n    SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL:\nB. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 12 LYMPH NODES (0/12).\nC. LEFT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nD. LEFT OBTURATOR LYMPH NODES: NO TUMOR IN 6 LYMPH NODES (0/6).\nE. RIGHT PERICOLIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\nF. LEFT PERIAORTIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]\nMD:\n[Redacted]\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9840585671028234,
+            "mean_log_probability": -0.022499108892921962,
+            "perplexity": 1.0227541227806018,
+            "min_probability": 0.22931997040441104
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 552,
+            "total_tokens": 3024
+          },
+          "composite_score": 0.9538967698770656,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 26.274298429489136,
+          "chars": 1710,
+          "words": 244,
+          "text": "Page 2 of 2\n\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 177 GRAMS\n    ENDOMETRIUM:\n        TUMOR SITE: JUNCTION OF CORPUS AND FUNDUS\n        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH SQUAMOUS\n        DIFFERENTIATION.\n        FIGO GRADE: 2√\n        TUMOR SIZE: 3.5 X 3.5 X 1.4 CM.\n        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 2.0 CM, IN A 2.3 THICK WALL.\n        LYMPHATIC/VASCULAR INVASION: MASSIVE\n        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO ENDOMETRIUM PRESENT\n    REMAINING MYOMETRIUM: LEIOMYOMATA\n    CERVIX: NO PATHOLOGIC DIAGNOSIS.\n    SEROSA: NO PATHOLOGIC DIAGNOSIS.\n    SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL:\nB. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 12 LYMPH NODES (0/12).\nC. LEFT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nD. LEFT OBTURATOR LYMPH NODES: NO TUMOR IN 6 LYMPH NODES (0/6).\nE. RIGHT PERICOLIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\nF. LEFT PERIAORTIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]\n\n[Redacted]\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9852248267883185,
+            "mean_log_probability": -0.02180607481751825,
+            "perplexity": 1.0220455648785005,
+            "min_probability": 0.2245165174766642
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 549,
+            "total_tokens": 3021
+          },
+          "composite_score": 0.9062310546739276
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 16.558578729629517,
+          "chars": 1788,
+          "words": 245,
+          "text": "Page 2 of 2\n\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 177 GRAMS\n        ENDOMETRIUM:\n                TUMOR SITE: JUNCTION OF CORPUS AND FUNDUS\n                HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH SQUAMOUS\n                DIFFERENTIATION.\n                FIGO GRADE: 2\n                TUMOR SIZE: 3.5 X 3.5 X 1.4 CM.\n                MAXIMUM DEPTH OF MYOMETRIAL INVASION: 2.0 CM, IN A 2.3 THICK WALL.\n                LYMPHATIC/VASCULAR INVASION: MASSIVE\n                ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO ENDOMETRIUM PRESENT\n        REMAINING MYOMETRIUM: LEIOMYOMATA\n        CERVIX: NO PATHOLOGIC DIAGNOSIS.\n        SEROSA: NO PATHOLOGIC DIAGNOSIS.\n        SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL:\nB. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 12 LYMPH NODES (0/12).\nC. LEFT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nD. LEFT OBTURATOR LYMPH NODES: NO TUMOR IN 6 LYMPH NODES (0/6).\nE. RIGHT PERICOLIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\nF. LEFT PERIAORTIC LYMPH NODE: NO TUMOR IN 3 LYMPH NODES (0/3).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted] MD:\n[redacted] MD:",
+          "confidence": {
+            "mean_probability": 0.9814997589619797,
+            "mean_log_probability": -0.02965642047531992,
+            "perplexity": 1.030100551688548,
+            "min_probability": 0.10482374063218576
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 548,
+            "total_tokens": 3020
+          },
+          "composite_score": 0.9079702908571788
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

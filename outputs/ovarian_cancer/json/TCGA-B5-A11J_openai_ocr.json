@@ -1,0 +1,191 @@
+{
+  "pdf": "reports\\TCGA-B5-A11J\\TCGA-B5-A11J.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 31.23419427871704,
+        "chars": 2894,
+        "words": 472,
+        "text": "1CD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nPage 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri. Biopsy showed endometrial adenocarcinoma\n(endometrioid) FIGO grade 2. ✓\n\nGROSS EXAMINATION:\nA. \"Left tube and ovary (AF1)\", received fresh for frozen section. An 11.5\ngram adnexa consist of a 3 x 1.5 x 1 cm unremarkable ovary and 5 cm long, 0.5\ncm in diameter fallopian tube that contains multiple paratubal cysts up to 0.6\ncm in diameter. The fallopian tube has been frozen as AF1 with remnant A1.\nRepresentative ovary and fallopian tube in A2.\n\nB. \"Uterus and cervix (BF1-2)\". Received fresh is a 145 gram uterus that\ncontains a tan friable exophytic mass occupying the majority of the anterior\nand posterior 9 x 5 x 5 cm endometrial cavity. The tumor does not invade the\n2.2 cm thick myometrium. The tumor does not involve the lower uterine\nsegment. The endocervix is grossly unremarkable. The ectocervix is diffusely\nerythematous. The serosal surface is unremarkable. A representative of the\nfull thickness of the uterus is frozen as BF1-2.\n\nBLOCK SUMMARY:\nB1-2- frozen section remnants of BF1-2,respectively\nB3- tumor nearest anterior endocervical canal\nB4- anterior cervix\nB5- tumor nearest posterior endocervical canal\nB6- posterior cervix\nB7-10- posterior endomy metrium\nB11-13- anterior endomyometrium\n\nC. \"Right paraaortic node (CF1)\", received fresh for frozen section. A 2 x\n1.5 x 1 cm fragment of fibroadipose tissue is dissected for lymph nodes. A\nsingle lymph node is bisected and frozen as CF1 with remnant C1. The\nremainder is submitted in C2.\n\nD. \"Paneth\", received fresh and placed in formalin. Three fragments of skin\nand subcutaneous tissue measuring 15 x 15 x 6 cm in aggregate and weighing\n5830 gram is sectioned to demonstrate a 2.5 x 1.5 x 1 cm cyst containing\nyellow friable material within the subcutaneous tissue immediately beneath the\numbilicus. Representative in D1-2.\n\nE. \"Right tube and ovary\", received fresh and placed in formalin. A 13.4 gram\nadnexa consist of a 6 cm long, 0.6 cm in diameter fimbriated fallopian tube\nadhesed to a 3.5 x 2 x 1.5 cm ovary. Multiple paratubal cysts up to 0.9 cm in\ndiameter are present. Representative in E1.\n\nF. \"Left pelvic lymph node\", received fresh and placed in formalin. Multiple\nfragments of fibroadipose tissue measuring 7 x 6 x 2 cm aggregate are\ndissected for lymph nodes.\n\nBLOCK SUMMARY:\nF1- one lymph node sectioned\nF2- one lymph node bisected\nF3-5- a single 3.5 x 1.5 x 0.9 cm sectioned lymph node\nF6-7- one lymph node bisected\nF8- two lymph nodes,each bisected (one is inked blue)\nF9-11- a single 3.5 x 2 x 0.7 cm lymph node sectioned\n\nG. \"Right pelvic lymph node\", received fresh and placed in formalin. An 8 x 7\nx 2 cm aggregate of fibroadipose tissue dissected for lymph nodes.\n\nUUID:1F9E7FAB-ADA0-4EFF-8A86-F5344357ADED\nTCGA-B5-A11J-01A-PR Redacted\n\f",
+        "confidence": {
+          "mean_probability": 0.9866058087935389,
+          "mean_log_probability": -0.017963656732891832,
+          "perplexity": 1.0181259736931867,
+          "min_probability": 0.12464332754101014
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 907,
+          "total_tokens": 3379
+        },
+        "composite_score": 0.9858826734223143,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 43.0% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 43.0% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 31.23419427871704,
+          "chars": 2894,
+          "words": 472,
+          "text": "1CD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nPage 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri. Biopsy showed endometrial adenocarcinoma\n(endometrioid) FIGO grade 2. ✓\n\nGROSS EXAMINATION:\nA. \"Left tube and ovary (AF1)\", received fresh for frozen section. An 11.5\ngram adnexa consist of a 3 x 1.5 x 1 cm unremarkable ovary and 5 cm long, 0.5\ncm in diameter fallopian tube that contains multiple paratubal cysts up to 0.6\ncm in diameter. The fallopian tube has been frozen as AF1 with remnant A1.\nRepresentative ovary and fallopian tube in A2.\n\nB. \"Uterus and cervix (BF1-2)\". Received fresh is a 145 gram uterus that\ncontains a tan friable exophytic mass occupying the majority of the anterior\nand posterior 9 x 5 x 5 cm endometrial cavity. The tumor does not invade the\n2.2 cm thick myometrium. The tumor does not involve the lower uterine\nsegment. The endocervix is grossly unremarkable. The ectocervix is diffusely\nerythematous. The serosal surface is unremarkable. A representative of the\nfull thickness of the uterus is frozen as BF1-2.\n\nBLOCK SUMMARY:\nB1-2- frozen section remnants of BF1-2,respectively\nB3- tumor nearest anterior endocervical canal\nB4- anterior cervix\nB5- tumor nearest posterior endocervical canal\nB6- posterior cervix\nB7-10- posterior endomy metrium\nB11-13- anterior endomyometrium\n\nC. \"Right paraaortic node (CF1)\", received fresh for frozen section. A 2 x\n1.5 x 1 cm fragment of fibroadipose tissue is dissected for lymph nodes. A\nsingle lymph node is bisected and frozen as CF1 with remnant C1. The\nremainder is submitted in C2.\n\nD. \"Paneth\", received fresh and placed in formalin. Three fragments of skin\nand subcutaneous tissue measuring 15 x 15 x 6 cm in aggregate and weighing\n5830 gram is sectioned to demonstrate a 2.5 x 1.5 x 1 cm cyst containing\nyellow friable material within the subcutaneous tissue immediately beneath the\numbilicus. Representative in D1-2.\n\nE. \"Right tube and ovary\", received fresh and placed in formalin. A 13.4 gram\nadnexa consist of a 6 cm long, 0.6 cm in diameter fimbriated fallopian tube\nadhesed to a 3.5 x 2 x 1.5 cm ovary. Multiple paratubal cysts up to 0.9 cm in\ndiameter are present. Representative in E1.\n\nF. \"Left pelvic lymph node\", received fresh and placed in formalin. Multiple\nfragments of fibroadipose tissue measuring 7 x 6 x 2 cm aggregate are\ndissected for lymph nodes.\n\nBLOCK SUMMARY:\nF1- one lymph node sectioned\nF2- one lymph node bisected\nF3-5- a single 3.5 x 1.5 x 0.9 cm sectioned lymph node\nF6-7- one lymph node bisected\nF8- two lymph nodes,each bisected (one is inked blue)\nF9-11- a single 3.5 x 2 x 0.7 cm lymph node sectioned\n\nG. \"Right pelvic lymph node\", received fresh and placed in formalin. An 8 x 7\nx 2 cm aggregate of fibroadipose tissue dissected for lymph nodes.\n\nUUID:1F9E7FAB-ADA0-4EFF-8A86-F5344357ADED\nTCGA-B5-A11J-01A-PR Redacted\n\f",
+          "confidence": {
+            "mean_probability": 0.9866058087935389,
+            "mean_log_probability": -0.017963656732891832,
+            "perplexity": 1.0181259736931867,
+            "min_probability": 0.12464332754101014
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 907,
+            "total_tokens": 3379
+          },
+          "composite_score": 0.9858826734223143,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 43.0% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 43.0% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 174.58488965034485,
+          "chars": 6695,
+          "words": 852,
+          "text": "1CD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nPage 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri. Biopsy showed endometrial adenocarcinoma\n(endometrioid) FIGO grade 2.  ✓\n\nGROSS EXAMINATION:\nA. \"Left tube and ovary (AF1)\", received fresh for frozen section. An 11.5\ngram adnexa consist of a 3 x 1.5 x 1 cm unremarkable ovary and 5 cm long, 0.5\ncm in diameter fallopian tube that contains multiple paratubal cysts up to 0.6\ncm in diameter. The fallopian tube has been frozen as AF1 with remnant A1.\nRepresentative ovary and fallopian tube in A2.\n\nB. \"Uterus and cervix (BF1-2)\". Received fresh is a 145 gram uterus that\ncontains a tan friable exophytic mass occupying the majority of the anterior\nand posterior 9 x 5 x 5 cm endometrial cavity. The tumor does not invade the\n2.2 cm thick myometrium. The tumor does not involve the lower uterine\nsegment. The endocervix is grossly unremarkable. The ectocervix is diffusely\nerythematous. The serosal surface is unremarkable. A representative of the\nfull thickness of the uterus is frozen as BF1-2.\n\nBLOCK SUMMARY:\nB1-2- frozen section remnants of BF1-2,respectively\nB3- tumor nearest anterior endocervical canal\nB4- anterior cervix\nB5- tumor nearest posterior endocervical canal\nB6- posterior cervix\nB7-10- posterior endomy¶metrium\nB11-13- anterior endomyometrium\n\nC. \"Right paraaortic node (CF1)\", received fresh for frozen section. A 2 x\n1.5 x 1 cm fragment of fibroadipose tissue is dissected for lymph nodes. A\nsingle lymph node is bisected and frozen as CF1 with remnant C1. The\nremainder is submitted in C2.\n\nD. \"Paneth\", received fresh and placed in formalin. Three fragments of skin\nand subcutaneous tissue measuring 15 x 15 x 6 cm in aggregate and weighing\n5830 gram is sectioned to demonstrate a 2.5 x 1.5 x 1 cm cyst containing\nyellow friable material within the subcutaneous tissue immediately beneath the\numbilicus. Representative in D1-2.\n\nE. \"Right tube and ovary\", received fresh and placed in formalin. A 13.4 gram\nadnexa consist of a 6 cm long, 0.6 cm in diameter fimbriated fallopian tube\nadhesed to a 3.5 x 2 x 1.5 cm ovary. Multiple paratubal cysts up to 0.9 cm in\ndiameter are present. Representative in E1.\n\nF. \"Left pelvic lymph node\", received fresh and placed in formalin. Multiple\nfragments of fibroadipose tissue measuring 7 x 6 x 2 cm aggregate are\ndissected for lymph nodes.\n\nBLOCK SUMMARY:\nF1- one lymph node sectioned\nF2- one lymph node bisected\nF3-5- a single 3.5 x 1.5 x 0.9 cm sectioned lymph node\nF6-7- one lymph node bisected\nF8- two lymph nodes,each bisected (one is inked blue)\nF9-11- a single 3.5 x 2 x 0.7 cm lymph node sectioned\n\nG. \"Right pelvic lymph node\", received fresh and placed in formalin. An 8 x 7\nx 2 cm aggregate of fibroadipose tissue dissected for lymph nodes.\n\nUUID:1F9E7FAB-ADA0-4EFF-8A86-F5344357ADED\nTCGA-B5-A11J-01A-PR Redacted\n[barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [barcode] [",
+          "confidence": {
+            "mean_probability": 0.9822421624795157,
+            "mean_log_probability": -0.02169404931640625,
+            "perplexity": 1.0219310761248854,
+            "min_probability": 0.09699983514657926
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.5603175647397572
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.39141035079956,
+          "chars": 2905,
+          "words": 474,
+          "text": "1CD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nPage 1 of 3\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri. Biopsy showed endometrial adenocarcinoma\n(endometrioid) FIGO grade 2.  ✓\n\nGROSS EXAMINATION:\nA. \"Left tube and ovary (AF1)\", received fresh for frozen section. An 11.5\ngram adnexa consist of a 3 x 1.5 x 1 cm unremarkable ovary and 5 cm long, 0.5\ncm in diameter fallopian tube that contains multiple paratubal cysts up to 0.6\ncm in diameter. The fallopian tube has been frozen as AF1 with remnant A1.\nRepresentative ovary and fallopian tube in A2.\n\nB. \"Uterus and cervix (BFl-2)\". Received fresh is a 145 gram uterus that\ncontains a tan friable exophytic mass occupying the majority of the anterior\nand posterior 9 x 5 x 5 cm endometrial cavity. The tumor does not invade the\n2.2 cm thick myometrium. The tumor does not involve the lower uterine\nsegment. The endocervix is grossly unremarkable. The ectocervix is diffusely\nerythematous. The serosal surface is unremarkable. A representative of the\nfull thickness of the uterus is frozen as BFl-2.\n\nBLOCK SUMMARY:\nB1-2- frozen section remnants of BFl-2,respectively\nB3- tumor nearest anterior endocervical canal\nB4- anterior cervix\nB5- tumor nearest posterior endocervical canal\nB6- posterior cervix  ?\nB7-10- posterior endomy metrium ?\nB11-13- anterior endomyometrium\n\nC. \"Right paraaortic node (CF1)\", received fresh for frozen section. A 2 x\n1.5 x 1 cm fragment of fibroadipose tissue is dissected for lymph nodes. A\nsingle lymph node is bisected and frozen as CF1 with remnant Cl. The\nremainder is submitted in C2.\n\nD. \"Paneth\", received fresh and placed in formalin. Three fragments of skin\nand subcutaneous tissue measuring 15 x 15 x 6 cm in aggregate and weighing\n5830 gram is sectioned to demonstrate a 2.5 x 1.5 x 1 cm cyst containing\nyellow friable material within the subcutaneous tissue immediately beneath the\numbilicus. Representative in D1-2.\n\nE. \"Right tube and ovary\", received fresh and placed in formalin. A 13.4 gram\nadnexa consist of a 6 cm long, 0.6 cm in diameter fimbriated fallopian tube\nadhesed to a 3.5 x 2 x 1.5 cm ovary. Multiple paratubal cysts up to 0.9 cm in\ndiameter are present. Representative in El.\n\nF. \"Left pelvic lymph node\", received fresh and placed in formalin. Multiple\nfragments of fibroadipose tissue measuring 7 x 6 x 2 cm aggregate are\ndissected for lymph nodes.\n\nBLOCK SUMMARY:\nF1- one lymph node sectioned\nF2- one lymph node bisected\nF3-5- a single 3.5 x 1.5 x 0.9 cm sectioned lymph node\nF6-7- one lymph node bisected\nF8- two lymph nodes,each bisected (one is inked blue)\nF9-11- a single 3.5 x 2 x 0.7 cm lymph node sectioned\n\nG. \"Right pelvic lymph node\", received fresh and placed in formalin. An 8 x 7\nx 2 cm aggregate of fibroadipose tissue dissected for lymph nodes.\n\nUUID:1F9E7FAB-ADA0-4EFF-8A86-F5344357ADED\nTCGA-B5-A11J-01A-PR  Redacted\n\f\n\f\n\f",
+          "confidence": {
+            "mean_probability": 0.9804808097628235,
+            "mean_log_probability": -0.02945464983534577,
+            "perplexity": 1.029892728607999,
+            "min_probability": 0.10668208877946549
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 912,
+            "total_tokens": 3384
+          },
+          "composite_score": 0.9282549587022187
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 75.31280159950256,
+        "chars": 2622,
+        "words": 356,
+        "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nG1- five lymph node candidates\nG2- two lymph nodes, each bisected (one is inked blue)\nG3- one node bisected\nG5-8- one lymph node sectioned\nG9-12- one lymph node sectioned\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Left tube and ovary\":\n      AF1- (tube/nodule/medial salpinx)- negative for malignancy,\n              Dr.  Oncurs\nB. \"Uterus and cervix\":\n      BF1-2 (mass and full thickness myometrium)- endometrioid adenocarcinoma,\n              invading 0.2 cm into a 1.8 cm thick myometrium (Dr.       ).\nC. \"Right paraaortic node\": CF1- negative for malignancy (Dr.       ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nB. UTERUS: 145 GRAMS\n      ENDOMETRIUM:\n              TUMOR SITE: FUNDUS\n              HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH AREAS OF SQUAMOUS\n              DIFFERENTIATION AND CLEAR CELL ADENOCARCINOMA\n              DIFFERENTIATION.\n      FIGO GRADE: 2\n      TUMOR SIZE: 9 X 5.5 X 2 CM.\n      MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.2 THICK WALL.\n      LYMPHATIC/VASCULAR INVASION: NEGATIVE\n      ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT\n      REMAINING MYOMETRIUM: LEIOMYOMA, SMALL\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nC. RIGHT PARAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).\nD. PANNICULUS: SKIN AND SUBCUTANEOUS FAT.\nE. RIGHT OVARY: ADHESIONS.\n      RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nF. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).\nG. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 10 LYMPH NODES (0/10).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+        "confidence": {
+          "mean_probability": 0.9817046260078125,
+          "mean_log_probability": -0.029022153558052433,
+          "perplexity": 1.0294474001452576,
+          "min_probability": 0.09371537646995412
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 802,
+          "total_tokens": 3274
+        },
+        "composite_score": 0.9774371010709906,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 75.31280159950256,
+          "chars": 2622,
+          "words": 356,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nG1- five lymph node candidates\nG2- two lymph nodes, each bisected (one is inked blue)\nG3- one node bisected\nG5-8- one lymph node sectioned\nG9-12- one lymph node sectioned\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Left tube and ovary\":\n      AF1- (tube/nodule/medial salpinx)- negative for malignancy,\n              Dr.  Oncurs\nB. \"Uterus and cervix\":\n      BF1-2 (mass and full thickness myometrium)- endometrioid adenocarcinoma,\n              invading 0.2 cm into a 1.8 cm thick myometrium (Dr.       ).\nC. \"Right paraaortic node\": CF1- negative for malignancy (Dr.       ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nB. UTERUS: 145 GRAMS\n      ENDOMETRIUM:\n              TUMOR SITE: FUNDUS\n              HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH AREAS OF SQUAMOUS\n              DIFFERENTIATION AND CLEAR CELL ADENOCARCINOMA\n              DIFFERENTIATION.\n      FIGO GRADE: 2\n      TUMOR SIZE: 9 X 5.5 X 2 CM.\n      MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.2 THICK WALL.\n      LYMPHATIC/VASCULAR INVASION: NEGATIVE\n      ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT\n      REMAINING MYOMETRIUM: LEIOMYOMA, SMALL\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nC. RIGHT PARAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).\nD. PANNICULUS: SKIN AND SUBCUTANEOUS FAT.\nE. RIGHT OVARY: ADHESIONS.\n      RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nF. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).\nG. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 10 LYMPH NODES (0/10).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9817046260078125,
+            "mean_log_probability": -0.029022153558052433,
+            "perplexity": 1.0294474001452576,
+            "min_probability": 0.09371537646995412
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 802,
+            "total_tokens": 3274
+          },
+          "composite_score": 0.9774371010709906,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 27.777449369430542,
+          "chars": 2696,
+          "words": 357,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nG1- five lymph node candidates\nG2- two lymph nodes, each bisected (one is inked blue)\nG3- one node bisected\nG5-8- one lymph node sectioned\nG9-12- one lymph node sectioned\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Left tube and ovary\":\n       AF1- (tube/nodule/medial salpinx)- negative for malignancy,\n              Dr. oncur\nB. \"Uterus and cervix\":\n       BF1-2 (mass and full thickness myometrium)- endometrioid adenocarcinoma,\n              invading 0.2 cm into a 1.8 cm thick myometrium (Dr.      ).\nC. \"Right paraaortic node\": CF1- negative for malignancy (Dr.      ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nB. UTERUS: 145 GRAMS\n       ENDOMETRIUM:\n              TUMOR SITE: FUNDUS\n              HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH AREAS OF SQUAMOUS\n              DIFFERENTIATION AND CLEAR CELL ADENOCARCINOMA\n              DIFFERENTIATION.\n              FIGO GRADE: 2\n              TUMOR SIZE: 9 X 5.5 X 2 CM.\n              MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.2 THICK WALL.\n              LYMPHATIC/VASCULAR INVASION: NEGATIVE\n              ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT\n              REMAINING MYOMETRIUM: LEIOMYOMA, SMALL\n              CERVIX: NO PATHOLOGIC DIAGNOSIS.\n              SEROSA: NO PATHOLOGIC DIAGNOSIS.\n              SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nC. RIGHT PARA AORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).\nD. PANNICULUS: SKIN AND SUBCUTANEOUS FAT.\nE. RIGHT OVARY: ADHESIONS.\n       RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nF. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).\nG. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 10 LYMPH NODES (0/10).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.981576489806057,
+            "mean_log_probability": -0.02890487125,
+            "perplexity": 1.0293266712579696,
+            "min_probability": 0.10441645510556505
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 801,
+            "total_tokens": 3273
+          },
+          "composite_score": 0.9286494332335001
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.613958597183228,
+          "chars": 2728,
+          "words": 356,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nG1- five lymph node candidates\nG2- two lymph nodes, each bisected (one is inked blue)\nG3- one node bisected\nG5-8- one lymph node sectioned\nG9-12- one lymph node sectioned\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Left tube and ovary\":\n       AF1- (tube/nodule/medial salpinx)- negative for malignancy,\n              Dr.  oncur\nB. \"Uterus and cervix\":\n       BF1-2 (mass and full thickness myometrium)- endometrioid adenocarcinoma,\n              invading 0.2 cm into a 1.8 cm thick myometrium (Dr.  ).\nC. \"Right paraaortic node\": CF1- negative for malignancy (Dr.  ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nB. UTERUS: 145 GRAMS\n       ENDOMETRIUM:\n              TUMOR SITE: FUNDUS\n              HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA WITH AREAS OF SQUAMOUS\n                                  DIFFERENTIATION AND CLEAR CELL ADENOCARCINOMA\n                                  DIFFERENTIATION.\n              FIGO GRADE: 2\n              TUMOR SIZE: 9 X 5.5 X 2 CM.\n              MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.2 THICK WALL.\n              LYMPHATIC/VASCULAR INVASION: NEGATIVE\n              ADJACENT NON-NEOPLASTIC ENDOMETRIUM: QUIESCENT\n              REMAINING MYOMETRIUM: LEIOMYOMA, SMALL\n              CERVIX: NO PATHOLOGIC DIAGNOSIS.\n              SEROSA: NO PATHOLOGIC DIAGNOSIS.\n              SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nC. RIGHT PARAAORTIC LYMPH NODE: NO TUMOR IN 1 LYMPH NODE (0/1).\nD. PANNICULUS: SKIN AND SUBCUTANEOUS FAT.\nE. RIGHT OVARY: ADHESIONS.\n       RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\nF. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).\nG. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 10 LYMPH NODES (0/10).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9811091091279992,
+            "mean_log_probability": -0.03089173907615481,
+            "perplexity": 1.0313738403574466,
+            "min_probability": 0.037084581082552324
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 802,
+            "total_tokens": 3274
+          },
+          "composite_score": 0.649058068790771
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

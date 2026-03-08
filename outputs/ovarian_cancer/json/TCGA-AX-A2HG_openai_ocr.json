@@ -1,0 +1,293 @@
+{
+  "pdf": "reports\\TCGA-AX-A2HG\\TCGA-AX-A2HG.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 38.059096336364746,
+        "chars": 3296,
+        "words": 556,
+        "text": "Criteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary N\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer initials RS Date Reviewed: 6/19/11\n6/19/11\n\nSurgical Pathology Report\nTemporary Copy\n\nCase\nCollected\nOrdered by\n\nPatient\nID\nLocation\n\nClinical Information\nGrade 2 adenocarcinoma of endometrium. TLH, BSO, lymph nodes\n\nOrgan Or Tissue\nLeft periaortic node\nRight periaortic node\nRight pelvic node\nLeft pelvic node\nUterus, cervix, BSO\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS\n8380/3\nSite: endometrium C54.1\n6/19/11\n\nGross Description\nThe specimen is received in five parts.\n\nPart A. is labeled with the patient's name, designated \"left periaortic node\". Received in formalin and consists of one lymph node and attached fibroadipose tissue that measure in aggregate 2.5 x 1.5 x 0.3 cm. The lymph node measure 1.3 x 0.7 x 0.4 cm. The specimen is entirely submitted in cassette A1.\n\nPart B. is labeled with the patient's name, designated \"right periaortic node\". Received in formalin and consists of one lymph node and a fragment of adipose tissue that measure together 2.0 x 1.3 x 0.5 cm. The lymph node measure 1.4 x 0.7 x 0.5 cm. The specimen is entirely submitted in cassette B1.\n\nPart C. is labeled with the patient's name, designated \"right pelvic node\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 8.0 x 7.0 1.5 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 cm in maximum dimension to 2.3 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nC1 - One lymph node bisected\nC2 - One lymph node bisected\nC3 - One lymph node bisected\nC4 - C6 Remainder of lymph nodes\n\nPart D. is labeled with the patient's name \"left pelvic nodes\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 6.5 x 4.5 x 1.0 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 to 2.5 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nD1 - D5 One lymph node in each cassette\nD6 - remainder of the specimen\n\nPart E. is labeled with the patient's name \"uterus, cervix, BSO\". Received fresh for intraoperative consultation, and consists of a uterus with attached cervix and bilateral adnexa. It weighs 207 gm. The uterus measures 9.0 x 6.0 x 6.0 cm. It is covered by a tan/pink smooth serosa. The exocervix measures 3.0 x 2.3 x 0.7 cm and has a 1.3 cm slit-like os. The endometrial cavity measures 6.0 x 6.0 cm. The endometrial cavity is almost entirely replaced by a polypoid tumor that measures 6.0 x 6.0 x 2.0 cm and involves entirely the anterior wall and 70% of the posterior wall. The tumor extends to the lower uterine segment in the anterior wall of the uterus. Cross section shows invasion of 1.3 cm into the myometrium. The average thickness of the myometrium is 2.4 cm. The left fallopian tube measures 3.5 cm in length x 0.7 cm in diameter. The serosal surface is tan/pink and smooth. The fimbria are present and appear unremarkable. The left ovary measures 1.8 x 1.0 x 0.7 cm, is tan/yellow and smooth and appear not involved by tumor. The cut surface is yellow and pink and",
+        "confidence": {
+          "mean_probability": 0.9788568128210956,
+          "mean_log_probability": -0.032887664473684214,
+          "perplexity": 1.0334344413185885,
+          "min_probability": 0.04958658229965538
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 913,
+          "total_tokens": 3385
+        },
+        "composite_score": 0.6821693174013771,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0496 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0496 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 38.059096336364746,
+          "chars": 3296,
+          "words": 556,
+          "text": "Criteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary N\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer initials RS Date Reviewed: 6/19/11\n6/19/11\n\nSurgical Pathology Report\nTemporary Copy\n\nCase\nCollected\nOrdered by\n\nPatient\nID\nLocation\n\nClinical Information\nGrade 2 adenocarcinoma of endometrium. TLH, BSO, lymph nodes\n\nOrgan Or Tissue\nLeft periaortic node\nRight periaortic node\nRight pelvic node\nLeft pelvic node\nUterus, cervix, BSO\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS\n8380/3\nSite: endometrium C54.1\n6/19/11\n\nGross Description\nThe specimen is received in five parts.\n\nPart A. is labeled with the patient's name, designated \"left periaortic node\". Received in formalin and consists of one lymph node and attached fibroadipose tissue that measure in aggregate 2.5 x 1.5 x 0.3 cm. The lymph node measure 1.3 x 0.7 x 0.4 cm. The specimen is entirely submitted in cassette A1.\n\nPart B. is labeled with the patient's name, designated \"right periaortic node\". Received in formalin and consists of one lymph node and a fragment of adipose tissue that measure together 2.0 x 1.3 x 0.5 cm. The lymph node measure 1.4 x 0.7 x 0.5 cm. The specimen is entirely submitted in cassette B1.\n\nPart C. is labeled with the patient's name, designated \"right pelvic node\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 8.0 x 7.0 1.5 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 cm in maximum dimension to 2.3 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nC1 - One lymph node bisected\nC2 - One lymph node bisected\nC3 - One lymph node bisected\nC4 - C6 Remainder of lymph nodes\n\nPart D. is labeled with the patient's name \"left pelvic nodes\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 6.5 x 4.5 x 1.0 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 to 2.5 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nD1 - D5 One lymph node in each cassette\nD6 - remainder of the specimen\n\nPart E. is labeled with the patient's name \"uterus, cervix, BSO\". Received fresh for intraoperative consultation, and consists of a uterus with attached cervix and bilateral adnexa. It weighs 207 gm. The uterus measures 9.0 x 6.0 x 6.0 cm. It is covered by a tan/pink smooth serosa. The exocervix measures 3.0 x 2.3 x 0.7 cm and has a 1.3 cm slit-like os. The endometrial cavity measures 6.0 x 6.0 cm. The endometrial cavity is almost entirely replaced by a polypoid tumor that measures 6.0 x 6.0 x 2.0 cm and involves entirely the anterior wall and 70% of the posterior wall. The tumor extends to the lower uterine segment in the anterior wall of the uterus. Cross section shows invasion of 1.3 cm into the myometrium. The average thickness of the myometrium is 2.4 cm. The left fallopian tube measures 3.5 cm in length x 0.7 cm in diameter. The serosal surface is tan/pink and smooth. The fimbria are present and appear unremarkable. The left ovary measures 1.8 x 1.0 x 0.7 cm, is tan/yellow and smooth and appear not involved by tumor. The cut surface is yellow and pink and",
+          "confidence": {
+            "mean_probability": 0.9788568128210956,
+            "mean_log_probability": -0.032887664473684214,
+            "perplexity": 1.0334344413185885,
+            "min_probability": 0.04958658229965538
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 913,
+            "total_tokens": 3385
+          },
+          "composite_score": 0.6821693174013771,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0496 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0496 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 36.28821802139282,
+          "chars": 3644,
+          "words": 578,
+          "text": "```\nCriteria                                Yes     No\nDiagnosis Discrepancy                             ✓✓✓\nPrimary Tumor Site Discrepancy                    ✓✓✓\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary N\nCase is (circle):  QUALIFIED  DISQUALIFIED\nReviewer Initials  RS  Date Reviewed:  6 19 11\n        t  6 19 11\n\nSurgical Pathology Report                      Page 1 of 3\nTemporary Copy\n\nCase:                                    Patient:\nCollected:                               ID:\nOrdered By:                             Location:\n\nClinical Information\nGrade 2 adenocarcinoma of endometrium. TLH, BSO, lymph nodes\n\nOrgan Or Tissue                         / C D - 0 - 3\nLeft periaortic node                   adenocarcinoma, endometrioid, NUS\nRight periaortic node                  8380/3\nRight pelvic node                     Site: endometrium C54.1          fw 6/19/11\nLeft pelvic node\nUterus, cervix, BSO\n\nGross Description\nThe specimen is received in five parts.\n\nPart A. is labeled with the patient's name, designated \"left periaortic node\". Received in formalin and\nconsists of one lymph node and attached fibroadipose tissue that measure in aggregate 2.5 x 1.5 x 0.3\ncm. The lymph node measure 1.3 x 0.7 x 0.4 cm. The specimen is entirely submitted in cassette A1.\n\nPart B. is labeled with the patient's name, designated \"right periaortic node\". Received in formalin and\nconsists of one lymph node and a fragment of adipose tissue that measure together 2.0 x 1.3 x 0.5\ncm. The lymph node measure 1.4 x 0.7 x 0.5 cm. The specimen is entirely submitted in cassette B1.\n\nPart C. is labeled with the patient's name, designated \"right pelvic node\". Received in formalin and\nconsists of several fragments of adipose tissue and lymph nodes that measure in aggregate 8.0 x 7.0\n1.5 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 cm in\nmaximum dimension to 2.3 cm in maximum dimension. The lymph nodes are entirely submitted as\nfollows:\nC1 - One lymph node bisected\nC2 - One lymph node bisected\nC3 - One lymph node bisected\nC4 - C6 Remainder of lymph nodes\n\nPart D. is labeled with the patient's name \"left pelvic nodes\". Received in formalin and consists of\nseveral fragments of adipose tissue and lymph nodes that measure in aggregate 6.5 x 4.5 x 1.0 cm.\nThe specimen is dissected to identify several lymph nodes ranging in size from 0.3 to 2.5 cm in\nmaximum dimension. The lymph nodes are entirely submitted as follows:\nD1 - D5 One lymph node in each cassette\nD6 - remainder of the specimen\n\nPart E. is labeled with the patient's name \"uterus, cervix, BSO\". Received fresh for intraoperative\nconsultation, and consists of a uterus with attached cervix and bilateral adnexa. It weighs 207 gm. The\nuterus measures 9.0 x 6.0 x 6.0 cm. It is covered by a tan/pink smooth serosa. The exocervix\nmeasures 3.0 x 2.3 x 0.7 cm and has a 1.3 cm slit-like os. The endometrial cavity measures 6.0 x 6.0\ncm. The endometrial cavity is almost entirely replaced by a polypoid tumor that measures 6.0 x 6.0 x\n2.0 cm and involves entirely the anterior wall and 70% of the posterior wall. The tumor extends to the\nlower uterine segment in the anterior wall of the uterus. Cross section shows invasion of 1.3 cm into\nthe myometrium. The average thickness of the myometrium is 2.4 cm. The left fallopian tube\nmeasures 3.5 cm in length x 0.7 cm in diameter. The serosal surface is tan/pink and smooth. The\nfimbria are present and appear unremarkable. The left ovary measures 1.8 x 1.0 x 0.7 cm, is\ntan/yellow and smooth and appear not involved by tumor. The cut surface is yellow and pink and\n```",
+          "confidence": {
+            "mean_probability": 0.96455497221766,
+            "mean_log_probability": -0.06436967922606925,
+            "perplexity": 1.066486583830924,
+            "min_probability": 0.02563191562206038
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 983,
+            "total_tokens": 3455
+          },
+          "composite_score": 0.6328263388964922
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 77.68615245819092,
+          "chars": 3630,
+          "words": 580,
+          "text": "```\nCriteria                         Yes     No\nDiagnosis Discrepancy            ✓       ✓\nPrimary Tumor Site Discrepancy  ✓       ✓\nHIPAA Discrepancy               ✓       ✓\nPrior Malignancy History        ✓       ✓\nDual/Synchronous Primary Note   ✓       ✓\nCase is (circle): QUALIFIED  DISQUALIFIED\nReviewer Initials: RS   Date Reviewed:  6/19/11\n      t  6/19/11\n\nSurgical Pathology Report              Page 1 of 3\nTemporary Copy\n\nCase#                                Patient\nCollected                            ID:\nOrdered By                          Location:\n\nClinical Information\nGrade 2 adenocarcinoma of endometrium. TLH, BSO, lymph nodes\n\nOrgan Or Tissue\nLeft periaortic node                ICD - 0 - 3\nRight periaortic node               adenocarcinoma, endometrioid, NOS\nRight pelvic node                  8380/3\nLeft pelvic node                   Site: endometrium C54.1          fw 6/19/11\nUterus, cervix, BSO\n\nGross Description\nThe specimen is received in five parts.\n\nPart A. is labeled with the patient's name, designated \"left periaortic node\". Received in formalin and consists of one lymph node and attached fibroadipose tissue that measure in aggregate 2.5 x 1.5 x 0.3 cm. The lymph node measure 1.3 x 0.7 x 0.4 cm. The specimen is entirely submitted in cassette A1.\n\nPart B. is labeled with the patient's name, designated \"right periaortic node\". Received in formalin and consists of one lymph node and a fragment of adipose tissue that measure together 2.0 x 1.3 x 0.5 cm. The lymph node measure 1.4 x 0.7 x 0.5 cm. The specimen is entirely submitted in cassette B1.\n\nPart C. is labeled with the patient's name, designated \"right pelvic node\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 8.0 x 7.0 1.5 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 cm in maximum dimension to 2.3 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nC1 - One lymph node bisected\nC2 - One lymph node bisected\nC3 - One lymph node bisected\nC4 - C6 Remainder of lymph nodes\n\nPart D. is labeled with the patient's name \"left pelvic nodes\". Received in formalin and consists of several fragments of adipose tissue and lymph nodes that measure in aggregate 6.5 x 4.5 x 1.0 cm. The specimen is dissected to identify several lymph nodes ranging in size from 0.3 to 2.5 cm in maximum dimension. The lymph nodes are entirely submitted as follows:\nD1 - D5 One lymph node in each cassette\nD6 - remainder of the specimen\n\nPart E. is labeled with the patient's name \"uterus, cervix, BSO\". Received fresh for intraoperative consultation, and consists of a uterus with attached cervix and bilateral adnexa. It weighs 207 gm. The uterus measures 9.0 x 6.0 x 6.0 cm. It is covered by a tan/pink smooth serosa. The exocervix measures 3.0 x 2.3 x 0.7 cm and has a 1.3 cm slit-like os. The endometrial cavity measures 6.0 x 6.0 cm. The endometrial cavity is almost entirely replaced by a polypoid tumor that measures 6.0 x 6.0 x 2.0 cm and involves entirely the anterior wall and 70% of the posterior wall. The tumor extends to the lower uterine segment in the anterior wall of the uterus. Cross section shows invasion of 1.3 cm into the myometrium. The average thickness of the myometrium is 2.4 cm. The left fallopian tube measures 3.5 cm in length x 0.7 cm in diameter. The serosal surface is tan/pink and smooth. The fimbria are present and appear unremarkable. The left ovary measures 1.8 x 1.0 x 0.7 cm, is tan/yellow and smooth and appear not involved by tumor. The cut surface is yellow and pink and\n```",
+          "confidence": {
+            "mean_probability": 0.9667329262503978,
+            "mean_log_probability": -0.062148671175858476,
+            "perplexity": 1.0641205370199192,
+            "min_probability": 0.025849009395997092
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 962,
+            "total_tokens": 3434
+          },
+          "composite_score": 0.6338715017371775
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 48.85212826728821,
+        "chars": 2037,
+        "words": 307,
+        "text": "Surgical Pathology Report               Page 2 of 3\nTemporary Copy\nCase                  Patient\nCollected             ID\nOrdered by            Location\n\nunremarkable. The right fallopian tube measures 3.5 cm in length x 0.5 cm in diameter. The fimbria\nare present and appear unremarkable. The fallopian tube is covered by a tan/pink, smooth serosa.\nThe right ovary measures 2.0 x 1.0 x 0.6 cm, is pink/yellow and smooth. The cut surface is pink and\nyellow and appear not involved by tumor. The endocervical canal measures 3.0 cm in length x 1.0 cm\nin diameter and has a herring bone appearance of the mucosa. There is no tumor involvement of the\nendocervical canal. Representative sections are submitted as follows:\nE1 - E2 Anterior and posterior cervix\nE3 - E4 Anterior and posterior lower uterine segment\nE5 - E7 Anterior endomyometrium\nE8 - E10 Posterior endomyometrium\nE11 - Left fallopian tube and ovary\nE12 - Tumor for\nE13 - Right fallopian tube and ovary\nE14 - Fallopian tube for\n\nIntra-Operative Consultation\nUterus, cervix and BSO (IOC):\n- Invasive endometrial carcinoma, about 40-50% invasion with lower uterine segment\ninvolvement. Cervix is not involved.\n- Benign BSO.\n\nTest performed by MD\n\nDiagnosis\nA. Lymph node, left periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nB. Lymph node, right periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nC. Lymph node, right pelvic, excision:\n- Nineteen lymph nodes negative for malignancy (0/19).\nD. Lymph nodes, left pelvic, excision:\n- Eight lymph nodes negative for malignancy (0/8).\nE. Uterus with cervix and bilateral adnexa, total hysterectomy and bilateral\nsalpingo-oophorectomy:\n- Poorly-differentiated endometrioid adenocarcinoma of the\nendometrium with extensive necrosis (FIGO 3).\n- Myometrial invasion of 67%.\n- Focal involvement of the lower uterine segment; no invasion.\n- Focal secretory change and stromal decidualization consistent\nwith progestin effect.\n- Small leiomyoma.\n- Focal serosal endosalpingiosis.",
+        "confidence": {
+          "mean_probability": 0.9817256628890025,
+          "mean_log_probability": -0.03292406294964029,
+          "perplexity": 1.0334720574418337,
+          "min_probability": 0.04596923088990305
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 557,
+          "total_tokens": 3029
+        },
+        "composite_score": 0.6821502122826453,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0460 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0460 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 48.85212826728821,
+          "chars": 2037,
+          "words": 307,
+          "text": "Surgical Pathology Report               Page 2 of 3\nTemporary Copy\nCase                  Patient\nCollected             ID\nOrdered by            Location\n\nunremarkable. The right fallopian tube measures 3.5 cm in length x 0.5 cm in diameter. The fimbria\nare present and appear unremarkable. The fallopian tube is covered by a tan/pink, smooth serosa.\nThe right ovary measures 2.0 x 1.0 x 0.6 cm, is pink/yellow and smooth. The cut surface is pink and\nyellow and appear not involved by tumor. The endocervical canal measures 3.0 cm in length x 1.0 cm\nin diameter and has a herring bone appearance of the mucosa. There is no tumor involvement of the\nendocervical canal. Representative sections are submitted as follows:\nE1 - E2 Anterior and posterior cervix\nE3 - E4 Anterior and posterior lower uterine segment\nE5 - E7 Anterior endomyometrium\nE8 - E10 Posterior endomyometrium\nE11 - Left fallopian tube and ovary\nE12 - Tumor for\nE13 - Right fallopian tube and ovary\nE14 - Fallopian tube for\n\nIntra-Operative Consultation\nUterus, cervix and BSO (IOC):\n- Invasive endometrial carcinoma, about 40-50% invasion with lower uterine segment\ninvolvement. Cervix is not involved.\n- Benign BSO.\n\nTest performed by MD\n\nDiagnosis\nA. Lymph node, left periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nB. Lymph node, right periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nC. Lymph node, right pelvic, excision:\n- Nineteen lymph nodes negative for malignancy (0/19).\nD. Lymph nodes, left pelvic, excision:\n- Eight lymph nodes negative for malignancy (0/8).\nE. Uterus with cervix and bilateral adnexa, total hysterectomy and bilateral\nsalpingo-oophorectomy:\n- Poorly-differentiated endometrioid adenocarcinoma of the\nendometrium with extensive necrosis (FIGO 3).\n- Myometrial invasion of 67%.\n- Focal involvement of the lower uterine segment; no invasion.\n- Focal secretory change and stromal decidualization consistent\nwith progestin effect.\n- Small leiomyoma.\n- Focal serosal endosalpingiosis.",
+          "confidence": {
+            "mean_probability": 0.9817256628890025,
+            "mean_log_probability": -0.03292406294964029,
+            "perplexity": 1.0334720574418337,
+            "min_probability": 0.04596923088990305
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 557,
+            "total_tokens": 3029
+          },
+          "composite_score": 0.6821502122826453,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0460 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0460 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 50.486146450042725,
+          "chars": 2196,
+          "words": 307,
+          "text": "Surgical Pathology Report           Page 2 of 3\nTemporary Copy\n\nCase:                              Patient\nCollected:                        ID:\nOrdered by:                      Location:\n\nunremarkable. The right fallopian tube measures 3.5 cm in length x 0.5 cm in diameter. The fimbria\nare present and appear unremarkable. The fallopian tube is covered by a tan/pink, smooth serosa.\nThe right ovary measures 2.0 x 1.0 x 0.6 cm, is pink/yellow and smooth. The cut surface is pink and\nyellow and appear not involved by tumor. The endocervical canal measures 3.0 cm in length x 1.0 cm\nin diameter and has a herring bone appearance of the mucosa. There is no tumor involvement of the\nendocervical canal. Representative sections are submitted as follows:\nE1 - E2   Anterior and posterior cervix\nE3 - E4   Anterior and posterior lower uterine segment\nE5 - E7   Anterior endomyometrium\nE8 - E10 Posterior endomyometrium\nE11 -    Left fallopian tube and ovary\nE12 -    Tumor for\nE13 -    Right fallopian tube and ovary\nE14 -    Fallopian tube for\n\nIntra-Operative Consultation\nUterus, cervix and BSO (IOC):\n     - Invasive endometrial carcinoma, about 40-50% invasion with lower uterine segment\n       involvement. Cervix is not involved.\n     - Benign BSO.\n\nTest performed by                       MD\n\nDiagnosis\nA. Lymph node, left periaortic, excision:\n     - One lymph node negative for metastatic carcinoma (0/1).\nB. Lymph node, right periaortic, excision:\n     - One lymph node negative for metastatic carcinoma (0/1).\nC. Lymph node, right pelvic, excision:\n     - Nineteen lymph nodes negative for malignancy (0/19).\nD. Lymph nodes, left pelvic, excision:\n     - Eight lymph nodes negative for malignancy (0/8).\nE. Uterus with cervix and bilateral adnexa, total hysterectomy and bilateral\n   salpingo-oophorectomy:\n     - Poorly-differentiated endometrioid adenocarcinoma of the\n       endometrium with extensive necrosis (FIGO 3).\n     - Myometrial invasion of 67%.\n     - Focal involvement of the lower uterine segment; no invasion.\n     - Focal secretory change and stromal decidualization consistent\n       with progestin effect.\n     - Small leiomyoma.\n     - Focal serosal endosalpingiosis.",
+          "confidence": {
+            "mean_probability": 0.9755056844365827,
+            "mean_log_probability": -0.04747842857142857,
+            "perplexity": 1.0486235805686408,
+            "min_probability": 0.029894761936577797
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 582,
+            "total_tokens": 3054
+          },
+          "composite_score": 0.6408863540183368
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 52.33467745780945,
+          "chars": 2058,
+          "words": 307,
+          "text": "Surgical Pathology Report       Page 2 of 3\nTemporary Copy\nCase                      Patient\nCollected                 ID\nOrdered by                Location\n\nunremarkable. The right fallopian tube measures 3.5 cm in length x 0.5 cm in diameter. The fimbria are present and appear unremarkable. The fallopian tube is covered by a tan/pink, smooth serosa. The right ovary measures 2.0 x 1.0 x 0.6 cm, is pink/yellow and smooth. The cut surface is pink and yellow and appear not involved by tumor. The endocervical canal measures 3.0 cm in length x 1.0 cm in diameter and has a herring bone appearance of the mucosa. There is no tumor involvement of the endocervical canal. Representative sections are submitted as follows:\nE1 - E2 Anterior and posterior cervix\nE3 - E4 Anterior and posterior lower uterine segment\nE5 - E7 Anterior endomyometrium\nE8 - E10 Posterior endomyometrium\nE11 - Left fallopian tube and ovary\nE12 - Tumor for\nE13 - Right fallopian tube and ovary\nE14 - Fallopian tube for\n\nIntra-Operative Consultation\nUterus, cervix and BSO (IOC):\n- Invasive endometrial carcinoma, about 40-50% invasion with lower uterine segment involvement. Cervix is not involved.\n- Benign BSO.\n\nTest performed by                  MD\n\nDiagnosis\nA. Lymph node, left periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nB. Lymph node, right periaortic, excision:\n- One lymph node negative for metastatic carcinoma (0/1).\nC. Lymph node, right pelvic, excision:\n- Nineteen lymph nodes negative for malignancy (0/19).\nD. Lymph nodes, left pelvic, excision:\n- Eight lymph nodes negative for malignancy (0/8).\nE. Uterus with cervix and bilateral adnexa, total hysterectomy and bilateral salpingo-oophorectomy:\n- Poorly-differentiated endometrioid adenocarcinoma of the endometrium with extensive necrosis (FIGO 3).\n- Myometrial invasion of 67%.\n- Focal involvement of the lower uterine segment; no invasion.\n- Focal secretory change and stromal decidualization consistent with progestin effect.\n- Small leiomyoma.\n- Focal serosal endosalpingiosis.",
+          "confidence": {
+            "mean_probability": 0.9815231488578003,
+            "mean_log_probability": -0.03490030530164534,
+            "perplexity": 1.0355164681515026,
+            "min_probability": 0.038600579101282166
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 548,
+            "total_tokens": 3020
+          },
+          "composite_score": 0.647059177753297
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 30.204614639282227,
+        "chars": 1165,
+        "words": 167,
+        "text": "Surgical Pathology Report\t\tPage 3 of 3\nTemporary Copy\nCase\t\tPatient\nCollected\t\tID\nOrdered by\t\tLocation\n\n-\tMild chronic cervicitis and immature squamous metaplasia of the uterine cervix.\n-\tUnremarkable left and right ovaries.\n-\tMultiple paratubal cysts and cystic Walthard rests of the left and right fallopian tubes.\n\nElectronically signed\n\nComments\nSelected slides from this case were also reviewed at the\n\nSUMMARY\nType of surgery:\t\tTotal hysterectomy and bilateral salpingo-oophorectomy\nGross size of tumor:\t\t6.0 cm.\nTumor location:\t\tCorpus; lower uterine segment\nHistologic type:\t\tEndometrioid\nHistologic grade (FIGO):\t3 of 3\nDepth of myometrial invasion:\t67% (1.6 cm with wall thickness of 2.4 cm)\nCervical involvement:\t\tAbsent\nLower uterine segment involvement:\tPresent; no stromal invasion\nLymphatic space invasion:\tPresent\nBlood vessel invasion:\t\tNot identified\nSurgical margins:\t\tNegative\nOther tumor site(s):\t\tNone\n\nOTHER ENDOMETRIAL PATHOLOGY: None\n\nPelvic washings:\t\tNot performed\n\nLYMPH NODES\nLeft pelvic:\t\t\t8 Negative nodes\nRight pelvic:\t\t\t19 Negative nodes\nLeft para-aortic:\t\t1 Negative node\nRight para-aortic:\t\t1 Negative node\n\nAJCC Stage: pT1c N0 MX",
+        "confidence": {
+          "mean_probability": 0.9721639780360806,
+          "mean_log_probability": -0.042631806547619056,
+          "perplexity": 1.0435535945058132,
+          "min_probability": 0.04746275408757698
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 337,
+          "total_tokens": 2809
+        },
+        "composite_score": 0.6186523562519946,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0475 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0475 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 30.204614639282227,
+          "chars": 1165,
+          "words": 167,
+          "text": "Surgical Pathology Report\t\tPage 3 of 3\nTemporary Copy\nCase\t\tPatient\nCollected\t\tID\nOrdered by\t\tLocation\n\n-\tMild chronic cervicitis and immature squamous metaplasia of the uterine cervix.\n-\tUnremarkable left and right ovaries.\n-\tMultiple paratubal cysts and cystic Walthard rests of the left and right fallopian tubes.\n\nElectronically signed\n\nComments\nSelected slides from this case were also reviewed at the\n\nSUMMARY\nType of surgery:\t\tTotal hysterectomy and bilateral salpingo-oophorectomy\nGross size of tumor:\t\t6.0 cm.\nTumor location:\t\tCorpus; lower uterine segment\nHistologic type:\t\tEndometrioid\nHistologic grade (FIGO):\t3 of 3\nDepth of myometrial invasion:\t67% (1.6 cm with wall thickness of 2.4 cm)\nCervical involvement:\t\tAbsent\nLower uterine segment involvement:\tPresent; no stromal invasion\nLymphatic space invasion:\tPresent\nBlood vessel invasion:\t\tNot identified\nSurgical margins:\t\tNegative\nOther tumor site(s):\t\tNone\n\nOTHER ENDOMETRIAL PATHOLOGY: None\n\nPelvic washings:\t\tNot performed\n\nLYMPH NODES\nLeft pelvic:\t\t\t8 Negative nodes\nRight pelvic:\t\t\t19 Negative nodes\nLeft para-aortic:\t\t1 Negative node\nRight para-aortic:\t\t1 Negative node\n\nAJCC Stage: pT1c N0 MX",
+          "confidence": {
+            "mean_probability": 0.9721639780360806,
+            "mean_log_probability": -0.042631806547619056,
+            "perplexity": 1.0435535945058132,
+            "min_probability": 0.04746275408757698
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 337,
+            "total_tokens": 2809
+          },
+          "composite_score": 0.6186523562519946,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0475 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0475 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 32.39102029800415,
+          "chars": 1613,
+          "words": 168,
+          "text": "Surgical Pathology Report                    Page 3 of 3\nTemporary Copy\nCase                        Patient\nCollected                   ID\nOrdered by                  Location\n\n- Mild chronic cervicitis and immature squamous metaplasia of\n  the uterine cervix.\n- Unremarkable left and right ovaries.\n- Multiple paratubal cysts and cystic Walthard rests of the left\n  and right fallopian tubes.\n\nElectronically signed\n\nComments\nSelected slides from this case were also reviewed at the                                                                                  on\n\nSUMMARY\nType of surgery:                         Total hysterectomy and bilateral salpingo-oophorectomy\nGross size of tumor:                    6.0 cm.\nTumor location:                        Corpus; lower uterine segment\nHistologic type:                      Endometrioid\nHistologic grade (FIGO):               3 of 3\nDepth of myometrial invasion:          67% (1.6 cm with wall thickness of 2.4 cm)\nCervical involvement:                  Absent\nLower uterine segment involvement:    Present; no stromal invasion\nLymphatic space invasion:              Present\nBlood vessel invasion:                 Not identified\nSurgical margins:                     Negative\nOther tumor site(s):                   None\n\nOTHER ENDOMETRIAL PATHOLOGY: None\n\nPelvic washings:                      Not performed\n\nLYMPH NODES\n  Left pelvic:                       8 Negative nodes\n  Right pelvic:                      19 Negative nodes\n  Left para-aortic:                  1 Negative node\n  Right para-aortic:                 1 Negative node\n\nAJCC Stage: pT1c N0 MX",
+          "confidence": {
+            "mean_probability": 0.9596040037155464,
+            "mean_log_probability": -0.07606026923076922,
+            "perplexity": 1.0790276043612976,
+            "min_probability": 0.037181089266846906
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 339,
+            "total_tokens": 2811
+          },
+          "composite_score": 0.6016605995607659
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 28.17650866508484,
+          "chars": 1727,
+          "words": 168,
+          "text": "Surgical Pathology Report                     Page 3 of 3\nTemporary Copy\nCase                         Patient\nCollected                   ID\nOrdered by                 Location\n\n- Mild chronic cervicitis and immature squamous metaplasia of the uterine cervix.\n- Unremarkable left and right ovaries.\n- Multiple paratubal cysts and cystic Walthard rests of the left and right fallopian tubes.\n\nElectronically signed\n\nComments\nSelected slides from this case were also reviewed at the                                                                                 on\n\nSUMMARY\nType of surgery:                                Total hysterectomy and bilateral salpingo-oophorectomy\nGross size of tumor:                          6.0 cm.\nTumor location:                               Corpus; lower uterine segment\nHistologic type:                               Endometrioid\nHistologic grade (FIGO):                  3 of 3\nDepth of myometrial invasion:           67% (1.6 cm with wall thickness of 2.4 cm)\nCervical involvement:                        Absent\nLower uterine segment involvement: Present; no stromal invasion\nLymphatic space invasion:                 Present\nBlood vessel invasion:                      Not identified\nSurgical margins:                              Negative\nOther tumor site(s):                          None\n\nOTHER ENDOMETRIAL PATHOLOGY: None\n\nPelvic washings:                             Not performed\n\nLYMPH NODES\n  Left pelvic:                                     8 Negative nodes\n  Right pelvic:                                    19 Negative nodes\n  Left para-aortic:                              1 Negative node\n  Right para-aortic:                            1 Negative node\n\nAJCC Stage: pT1c N0 MX",
+          "confidence": {
+            "mean_probability": 0.9413251915691093,
+            "mean_log_probability": -0.11794848648648648,
+            "perplexity": 1.1251861475825773,
+            "min_probability": 0.039550023127599906
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 334,
+            "total_tokens": 2806
+          },
+          "composite_score": 0.5907171581584018
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

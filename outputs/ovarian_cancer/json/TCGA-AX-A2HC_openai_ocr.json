@@ -1,0 +1,479 @@
+{
+  "pdf": "reports\\TCGA-AX-A2HC\\TCGA-AX-A2HC.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 164.31170916557312,
+        "chars": 2256,
+        "words": 1018,
+        "text": "Diagnosis Discrepancy\tYes\tNo\nPrimary Tumor Site Discrepancy\t✔\t\niiiPAD Discrepancy\t✔\t\nPrior Malignancy History\t✔\t\nDual/Synchronous Primary Ne\t✔\t\nCase is (circle):\tQUALIFIED\tDISQUALIFIED\t\nReviewer Initials:  R R\tDate Reviewed:  6 21 11\t\n\t7/19/11\t\nSurgical Pathology Final Report\t\tPage 1 of 5\nTemporary Copy\t\nCase#\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t",
+        "confidence": {
+          "mean_probability": 0.9830964525993133,
+          "mean_log_probability": -0.02304735009765625,
+          "perplexity": 1.0233149924649096,
+          "min_probability": 0.06575240701507795
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9819774909965164,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 164.31170916557312,
+          "chars": 2256,
+          "words": 1018,
+          "text": "Diagnosis Discrepancy\tYes\tNo\nPrimary Tumor Site Discrepancy\t✔\t\niiiPAD Discrepancy\t✔\t\nPrior Malignancy History\t✔\t\nDual/Synchronous Primary Ne\t✔\t\nCase is (circle):\tQUALIFIED\tDISQUALIFIED\t\nReviewer Initials:  R R\tDate Reviewed:  6 21 11\t\n\t7/19/11\t\nSurgical Pathology Final Report\t\tPage 1 of 5\nTemporary Copy\t\nCase#\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t-\t",
+          "confidence": {
+            "mean_probability": 0.9830964525993133,
+            "mean_log_probability": -0.02304735009765625,
+            "perplexity": 1.0233149924649096,
+            "min_probability": 0.06575240701507795
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9819774909965164,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 25.67139768600464,
+          "chars": 2568,
+          "words": 302,
+          "text": "Diagnosis Discrepancy                  Yes     No\nPrimary Tumor Site Discrepancy        ✔       ✔\nIIIpAD Discrepancy                    ✔       ✔\nPrior Malignancy History              ✔       ✔\nDual/Synchronous Primary Neur\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials  R R Date Reviewed: 6 9 11\n      7/19/11\n\nSurgical Pathology Final Report             Page 1 of 5\nTemporary Copy\n\nC a p t i\nCollected\nOrdered by:\n\nPatient\nID:\nLocation\n\nFinal Diagnosis\n1. UTERUS WITH CERVIX; TOTAL ABDOMINAL HYSTERECTOMY:\n  -- High grade endometrial carcinoma, endometrioid type, FIGO grade III\n     (6.5 x 5.0 x 4.0 cm) with myometrial invasion (<1/2 entire myometrial thickness) and\n     and lymphovascular invasion (slide 1Y)\n  -- pT1b, N1, MX (see comment)\n  -- Cellular leiomyoma (15 cm in greatest dimension) and multiple leiomyomata (see comment)\n  -- Chronic cervicitis\n\n2. LYMPH NODE, LEFT PELVIC; BIOPSY:                  / C D - 0 - 3\n  -- Lymph node, 1, positive for metastatic carcinoma (1/1)          adenocarcinoma, endometrioid, NOS\n                                                                                 8380/3\n3. LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n  -- Lymph node, 1, positive for metastatic carcinoma (1/1)          Site: endometrium C54.1\n4. ADNEXA, RIGHT; SALPINGO-OOPHORECTOMY:                      /w 6/19/11\n  -- Unremarkable ovary and fallopian tube, no evidence of malignancy\n\n5. ADNEXA, LEFT; SALPINGO-OOPHORECTOMY:\n  -- Unremarkable ovary and fallopian tube, no evidence of malignancy\n\n6. LYMPH NODE, RIGHT PELVIC; DISSECTION:\n  -- Lymph nodes, 3/15, positive for metastatic carcinoma (3/15)\n\n7. LYMPH NODE, LEFT PELVIC; DISSECTION:\n  -- Lymph nodes, 0/5, no evidence of malignancy\n\n8. LYMPH NODE, LEFT COMMON ILIAC; DISSECTION:\n  -- Lymph nodes, 2/3, positive for metastatic carcinoma (2/3)\n\n9. LYMPH NODE, PERIAORTIC ILIAC; BIOPSY:\n  -- Lymph node, 1, positive for metastatic carcinoma (1/1)\n\n10. OMENTUM; BIOPSY:\n  -- Omental fat, no evidence of malignancy\n\n\nENDOMETRIUM CANCER STAGING SUMMARY\nSite...........................Endometrium\nSize............................6.5 cm\nHistologic type................Endometrioid-type\nFIGO Grade (I-III)..............III\nDepth of invasion (measure tumor\n  invasion/myometrial thickness)...0.5 out of 3.3 cm\nLymphatic/Vascular invasion.......Present (slide 1Y)\nLower uterine segment involvement..Negative\nEctocervical involvement:\n  Mucosa..........................Negative\n  Fibromuscular stroma............Negative\nEndocervical involvement:\n  Mucosa..........................Negative",
+          "confidence": {
+            "mean_probability": 0.9365055251237084,
+            "mean_log_probability": -0.11437066622162884,
+            "perplexity": 1.1211676268411792,
+            "min_probability": 0.025880616193298987
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 750,
+            "total_tokens": 3222
+          },
+          "composite_score": 0.610399501015037
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 25.71006751060486,
+          "chars": 2533,
+          "words": 296,
+          "text": "Diagnosis Discrepancy           Yes    No\nPrimary Tumor Site Discrepancy  ✔      ✔\nIII/AJ Discrepancy              ✔      ✔\nPrior Malignancy History        ✔      ✔\nDual/Synchronous Primary Neur\nCase is (circle): QUALIFIED   DISQUALIFIED\nReviewer Initials:  R G  Date Reviewed:  6  21  11\n         7/19/11\n\nSurgical Pathology Final Report              Page 1 of 5\nTemporary Copy\nC\nCollected\nOrdered by:\n\nPatient\nID:\nLocation:\n\nFinal Diagnosis\n1. UTERUS WITH CERVIX; TOTAL ABDOMINAL HYSTERECTOMY:\n   -- High grade endometrial carcinoma, endometrioid type, FIGO grade III\n      (6.5 x 5.0 x 4.0 cm) with myometrial invasion (<1/2 entire myometrial thickness) and\n      and lymphovascular invasion (slide 1Y)\n   -- pT1b, N1, MX (see comment)\n   -- Cellular leiomyoma (15 cm in greatest dimension) and multiple leiomyomata (see comment)\n   -- Chronic cervicitis\n\n2. LYMPH NODE, LEFT PELVIC; BIOPSY:                      / C D - 0 - 3\n   -- Lymph node, 1, positive for metastatic carcinoma (1/1)        adenocarcinoma, moderatelyd, NOS\n                                                                                  8380/3\n3. LYMPH NODE, RIGHT COMMON ILIAC; BIOPSY:\n   -- Lymph node, 1, positive for metastatic carcinoma (1/1)        Site: endometrium C54.1\n\n4. ADNEXA, RIGHT; SALPINGO-OOPHORECTOMY:\n   -- Unremarkable ovary and fallopian tube, no evidence of malignancy\n\n5. ADNEXA, LEFT; SALPINGO-OOPHORECTOMY:\n   -- Unremarkable ovary and fallopian tube, no evidence of malignancy\n\n6. LYMPH NODE, RIGHT PELVIC; DISSECTION:\n   -- Lymph nodes, 3/15, positive for metastatic carcinoma (3/15)\n\n7. LYMPH NODE, LEFT PELVIC; DISSECTION:\n   -- Lymph nodes, 0/5, no evidence of malignancy\n\n8. LYMPH NODE, LEFT COMMON ILIAC; DISSECTION:\n   -- Lymph nodes, 2/3, positive for metastatic carcinoma (2/3)\n\n9. LYMPH NODE, PERIAORTIC ILIAC; BIOPSY:\n   -- Lymph node, 1, positive for metastatic carcinoma (1/1)\n\n10. OMENTUM; BIOPSY:\n    -- Omental fat, no evidence of malignancy\n\nENDOMETRIUM CANCER STAGING SUMMARY\nSite...........................Endometrium\nSize............................6.5 cm\nHistologic type.................Endometrioid-type\nFIGO Grade (I-III)...............III\nDepth of invasion (measure tumor\n   invasion/myometrial thickness)...0.5 out of 3.3 cm\nLymphatic/Vascular invasion.......Present (slide 1Y)\nLower uterine segment involvement..Negative\nEctocervical involvement:\n   Mucosa..........................Negative\n   Fibromuscular stroma............Negative\nEndocervical involvement:\n   Mucosa..........................Negative",
+          "confidence": {
+            "mean_probability": 0.9416711089071197,
+            "mean_log_probability": -0.10383966756756756,
+            "perplexity": 1.1094225642368214,
+            "min_probability": 0.02835584775674316
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 741,
+            "total_tokens": 3213
+          },
+          "composite_score": 0.6149540515085136
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 10.533057928085327,
+        "chars": 1986,
+        "words": 176,
+        "text": "Surgical Pathology Final Report                  Page 2 of 5\nTemporary Copy\n\nCase:                                    Patient: \nCollected:                               ID: \nOrdered by:                             Location: \n\n    Fibromuscular stroma.............Negative\nVaginal involvement:\nVaginal margin.....................N/A\nParametrial soft tissue:\n    Right...........................Negative\n    Left............................Negative\nRegional Lymph Nodes\n    Metastasis/Total)..........8/26\n    Right inguinal/obturator.........N/A\n    Left inguinal/obturator..........N/A\n    Right pelvic.....................3/15\n    Left pelvic......................1/6\n    Right and left periaortic........1/1\n    Right common iliac...............1/1\n    Left common iliac................2/3\n\nExtranodal extension...............Negative\nAncillary studies..................Ki-67, chromogranin, synaptophysin,\n                                  AE1/AE3 performed\nER..................................N/A\nPR..................................N/A\nPloidy..............................N/A\npTNM...............................pT1b, N1, MX\n\n\nCompleted By:\n(Electronically Signed)\n\nComment\nThis case was reviewed at the\nconference were:                         . Those present at the\n\nImmunostains performed as follows:\n\n-Chromogranin focally stains the tumor epithelial cells, an indication of neuroendocrine differentiation.\nThe findings are not consistent with a diagnosis of PNET.\n-Synaptophysin is negative\n-Cytokeratin (AE1/AE3) stains the tumor epithelial cells\n-Vimentin focally stains the stromal component of the tumor\n-Mucicarmine and PAS stain the luminal secretions of the tumor glands\n-Ki 67 stain of the cellular leiomyoma shows an average proliferative index of 5-8 cells per HPF.\nIs notified.\n\nClinical Information\nSpecimen(s):  Uterus /w Cervix\n              Lymph Node, Left Pelvic\n              Lymph Nodes, Right Common Iliac\n              Right Adnexa\n              Left Adnexa",
+        "confidence": {
+          "mean_probability": 0.9561640904660453,
+          "mean_log_probability": -0.07079610337078653,
+          "perplexity": 1.0733623485901438,
+          "min_probability": 0.04200872265499325
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 446,
+          "total_tokens": 2918
+        },
+        "composite_score": 0.6619953808751841,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0420 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0420 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 10.533057928085327,
+          "chars": 1986,
+          "words": 176,
+          "text": "Surgical Pathology Final Report                  Page 2 of 5\nTemporary Copy\n\nCase:                                    Patient: \nCollected:                               ID: \nOrdered by:                             Location: \n\n    Fibromuscular stroma.............Negative\nVaginal involvement:\nVaginal margin.....................N/A\nParametrial soft tissue:\n    Right...........................Negative\n    Left............................Negative\nRegional Lymph Nodes\n    Metastasis/Total)..........8/26\n    Right inguinal/obturator.........N/A\n    Left inguinal/obturator..........N/A\n    Right pelvic.....................3/15\n    Left pelvic......................1/6\n    Right and left periaortic........1/1\n    Right common iliac...............1/1\n    Left common iliac................2/3\n\nExtranodal extension...............Negative\nAncillary studies..................Ki-67, chromogranin, synaptophysin,\n                                  AE1/AE3 performed\nER..................................N/A\nPR..................................N/A\nPloidy..............................N/A\npTNM...............................pT1b, N1, MX\n\n\nCompleted By:\n(Electronically Signed)\n\nComment\nThis case was reviewed at the\nconference were:                         . Those present at the\n\nImmunostains performed as follows:\n\n-Chromogranin focally stains the tumor epithelial cells, an indication of neuroendocrine differentiation.\nThe findings are not consistent with a diagnosis of PNET.\n-Synaptophysin is negative\n-Cytokeratin (AE1/AE3) stains the tumor epithelial cells\n-Vimentin focally stains the stromal component of the tumor\n-Mucicarmine and PAS stain the luminal secretions of the tumor glands\n-Ki 67 stain of the cellular leiomyoma shows an average proliferative index of 5-8 cells per HPF.\nIs notified.\n\nClinical Information\nSpecimen(s):  Uterus /w Cervix\n              Lymph Node, Left Pelvic\n              Lymph Nodes, Right Common Iliac\n              Right Adnexa\n              Left Adnexa",
+          "confidence": {
+            "mean_probability": 0.9561640904660453,
+            "mean_log_probability": -0.07079610337078653,
+            "perplexity": 1.0733623485901438,
+            "min_probability": 0.04200872265499325
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 446,
+            "total_tokens": 2918
+          },
+          "composite_score": 0.6619953808751841,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0420 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0420 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.127201080322266,
+          "chars": 2015,
+          "words": 176,
+          "text": "Surgical Pathology Final Report                 Page 2 of 5\nTemporary Copy\n\nCase:                                              Patient: \nCollected:                                         ID: \nOrdered by:                                        Location: \n\n    Fibromuscular stroma.............Negative\nVaginal involvement:\nVaginal margin.....................N/A\nParametrial soft tissue:\n    Right...........................Negative\n    Left............................Negative\nRegional Lymph Nodes\n    Metastasis/Total)..........8/26\n    Right inguinal/obturator.........N/A\n    Left inguinal/obturator..........N/A\n    Right pelvic.....................3/15\n    Left pelvic......................1/6\n    Right and left periaortic........1/1\n    Right common iliac...............1/1\n    Left common iliac................2/3\n\nExtranodal extension...............Negative\nAncillary studies..................Ki-67, chromogranin, synaptophysin,\n                                 AE1/AE3 performed\nER..................................N/A\nPR..................................N/A\nPloidy..............................N/A\npTNM...............................pT1b, N1, MX\n\n\nCompleted By:\n(Electronically Signed)\n\nComment\nThis case was reviewed at the\nconference were:                         . Those present at the\n\nImmunostains performed as follows:\n\n-Chromogranin focally stains the tumor epithelial cells, an indication of neuroendocrine differentiation.\nThe findings are not consistent with a diagnosis of PNET.\n-Synaptophysin is negative\n-Cytokeratin (AE1/AE3) stains the tumor epithelial cells\n-Vimentin focally stains the stromal component of the tumor\n-Mucicarmine and PAS stain the luminal secretions of the tumor glands\n-Ki 67 stain of the cellular leiomyoma shows an average proliferative index of 5-8 cells per HPF.\nIs notified.\n\nClinical Information\nSpecimen(s):  Uterus /w Cervix\n              Lymph Node, Left Pelvic\n              Lymph Nodes, Right Common Iliac\n              Right Adnexa\n              Left Adnexa",
+          "confidence": {
+            "mean_probability": 0.954351683611855,
+            "mean_log_probability": -0.07610049213483146,
+            "perplexity": 1.0790710068579898,
+            "min_probability": 0.030002727043538055
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 446,
+            "total_tokens": 2918
+          },
+          "composite_score": 0.6273776198304556
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 10.89851999282837,
+          "chars": 2048,
+          "words": 178,
+          "text": "Surgical Pathology Final Report                   Page 2 of 5\nTemporary Copy\n\nCase:                                                 Patient: \nCollected:                                            ID: \nOrdered by: ,                                        Location: \\\n\n    Fibromuscular stroma.............Negative\nVaginal involvement:\nVaginal margin.....................N/A\nParametrial soft tissue:\n    Right...........................Negative\n    Left............................Negative\nRegional Lymph Nodes\n    Metastasis/Total).........8/26\n    Right inguinal/obturator.........N/A\n    Left inguinal/obturator..........N/A\n    Right pelvic.....................3/15\n    Left pelvic......................1/6\n    Right and left periaortic........1/1\n    Right common iliac...............1/1\n    Left common iliac................2/3\n\nExtranodal extension...............Negative\nAncillary studies..................Ki-67, chromogranin, synaptophysin,\n                                  AE1/AE3 performed\nER..................................N/A\nPR..................................N/A\nPloidy..............................N/A\npTNM...............................pT1b, N1, MX\n\n\nCompleted By:\n(Electronically Signed)\n\nComment\nThis case was reviewed at the\nconference were:                                              . Those present at the\n\nImmunostains performed as follows:\n\n-Chromogranin focally stains the tumor epithelial cells, an indication of neuroendocrine differentiation.\nThe findings are not consistent with a diagnosis of PNET.\n-Synaptophysin is negative\n-Cytokeratin (AE1/AE3) stains the tumor epithelial cells\n-Vimentin focally stains the stromal component of the tumor\n-Mucicarmine and PAS stain the luminal secretions of the tumor glands\n-Ki 67 stain of the cellular leiomyoma shows an average proliferative index of 5-8 cells per HPF.\nwas notified.\n\nClinical Information\nSpecimen(s):  Uterus /w Cervix\n              Lymph Node, Left Pelvic\n              Lymph Nodes, Right Common Iliac\n              Right Adnexa\n              Left Adnexa",
+          "confidence": {
+            "mean_probability": 0.9537556321053513,
+            "mean_log_probability": -44.80123286577182,
+            "perplexity": 2.8637045930246038e+19,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 448,
+            "total_tokens": 2920
+          },
+          "composite_score": 0.14461540785504867
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 17.485167741775513,
+        "chars": 2808,
+        "words": 344,
+        "text": "Surgical Pathology Final Report                                                                                  Page 3 of 5\nTemporary\n\nCase:                                                                                      Patient:\nCollected:                                                                                  ID: /\nOrdered by                                                                                  Location. \n\n                          Lymph Nodes, Right Pelvic\n                          Lymph Nodes, Left Pelvic\n                          Lymph Node, Left Common Iliac\n                          Lymph Node, PeriAortic\n                          Omentum\n\nClinical diagnosis: Endometrial CA\n\nOperation: TAH-BSO\n\nClinical history.                                           G2P2 endometrial CA\n\nFrozen Section Diagnosis\n1FSA. UTERUS: FROZEN SECTION:\n- Malignant neoplasm, no evidence of invasion\n\n2FSA. TWO LYMPH NODES, LEFT PELVIC; FROZEN SECTION:\n- Metastatic malignant neoplasm\n\nAccessioned:\n     Reported:\n\n3FSA. RIGHT COMMON ILIAC LYMPH NODE; FROZEN SECTION:\n- Positive for metastatic disease\n\nAccessioned:\n     Reported:\n\nGross Description\nSpecimen 1, received fresh and labeled \"uterus with cervix,\" consists of a large distorted uterus with attached cervix weighing 1742 grams and has the following measurements: 20.0 cm from cornu-to-cornu, 10.0 cm from cervix to fundus and 8.0 cm from anterior to posterior. The cervix itself measures 5.0 x 4.0 cm. The specimen is bivalved to reveal large filiform, hemorrhagic exophytic tumor which measures 6.5 x 5.0 x 4.0 cm and extensively involves the endomyometrial cavity as well as a large, circumscribed, round, soft, pink-tan, lobulated tumor with focal areas of necrosis and hemorrhage involving the myometrium measuring 15.0 x 10.0 x 6.5 cm. There are also multiple small to large, intramural and subserosal, round, well-circumscribed, firm, tan-white nodules with whorled appearance measuring from 1.2 to 6.2 cm in greatest dimension. The endocervical canal itself is smooth, tan, unremarkable and measures 6.0 cm in length and 0.5 cm in thickness. The endometrial cavity is also enlarged but severely distorted and has a smooth, pink-tan appearance. Gross photographs are taken. The first two tumors which were mentioned appear to be abutting next to each other and serial sectioning of the uterus reveals that they are less than 0.6 cm apart. Serial sectioning of the endomyometrium reveals a maximal myometrial thickness of 3.3 cm with the first filiform tumor invading to a maximal depth of 0.5 cm. Representative sections of the tumor, uterus and cervix are submitted as follows:\n     1FSA through 1C                      - remainder of frozen section tissue of the tumor\n     1D & 1E                              - cervix",
+        "confidence": {
+          "mean_probability": 0.9709374852982771,
+          "mean_log_probability": -0.0604317639553429,
+          "perplexity": 1.0622951082807142,
+          "min_probability": 0.023538379965859474
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 628,
+          "total_tokens": 3100
+        },
+        "composite_score": 0.6680867841144589,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0235 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0235 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 17.485167741775513,
+          "chars": 2808,
+          "words": 344,
+          "text": "Surgical Pathology Final Report                                                                                  Page 3 of 5\nTemporary\n\nCase:                                                                                      Patient:\nCollected:                                                                                  ID: /\nOrdered by                                                                                  Location. \n\n                          Lymph Nodes, Right Pelvic\n                          Lymph Nodes, Left Pelvic\n                          Lymph Node, Left Common Iliac\n                          Lymph Node, PeriAortic\n                          Omentum\n\nClinical diagnosis: Endometrial CA\n\nOperation: TAH-BSO\n\nClinical history.                                           G2P2 endometrial CA\n\nFrozen Section Diagnosis\n1FSA. UTERUS: FROZEN SECTION:\n- Malignant neoplasm, no evidence of invasion\n\n2FSA. TWO LYMPH NODES, LEFT PELVIC; FROZEN SECTION:\n- Metastatic malignant neoplasm\n\nAccessioned:\n     Reported:\n\n3FSA. RIGHT COMMON ILIAC LYMPH NODE; FROZEN SECTION:\n- Positive for metastatic disease\n\nAccessioned:\n     Reported:\n\nGross Description\nSpecimen 1, received fresh and labeled \"uterus with cervix,\" consists of a large distorted uterus with attached cervix weighing 1742 grams and has the following measurements: 20.0 cm from cornu-to-cornu, 10.0 cm from cervix to fundus and 8.0 cm from anterior to posterior. The cervix itself measures 5.0 x 4.0 cm. The specimen is bivalved to reveal large filiform, hemorrhagic exophytic tumor which measures 6.5 x 5.0 x 4.0 cm and extensively involves the endomyometrial cavity as well as a large, circumscribed, round, soft, pink-tan, lobulated tumor with focal areas of necrosis and hemorrhage involving the myometrium measuring 15.0 x 10.0 x 6.5 cm. There are also multiple small to large, intramural and subserosal, round, well-circumscribed, firm, tan-white nodules with whorled appearance measuring from 1.2 to 6.2 cm in greatest dimension. The endocervical canal itself is smooth, tan, unremarkable and measures 6.0 cm in length and 0.5 cm in thickness. The endometrial cavity is also enlarged but severely distorted and has a smooth, pink-tan appearance. Gross photographs are taken. The first two tumors which were mentioned appear to be abutting next to each other and serial sectioning of the uterus reveals that they are less than 0.6 cm apart. Serial sectioning of the endomyometrium reveals a maximal myometrial thickness of 3.3 cm with the first filiform tumor invading to a maximal depth of 0.5 cm. Representative sections of the tumor, uterus and cervix are submitted as follows:\n     1FSA through 1C                      - remainder of frozen section tissue of the tumor\n     1D & 1E                              - cervix",
+          "confidence": {
+            "mean_probability": 0.9709374852982771,
+            "mean_log_probability": -0.0604317639553429,
+            "perplexity": 1.0622951082807142,
+            "min_probability": 0.023538379965859474
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 628,
+            "total_tokens": 3100
+          },
+          "composite_score": 0.6680867841144589,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0235 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0235 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 15.422302722930908,
+          "chars": 2333,
+          "words": 345,
+          "text": "Surgical Pathology Final Report                         Page 3 of 5\nTemporary\n\nCase:\nCollected: (\nOrdered by\nPatient:\nID: /\nLocation. \n\nLymph Nodes, Right Pelvic\nLymph Nodes, Left Pelvic\nLymph Node, Left Common Iliac\nLymph Node, PeriAortic\nOmentum\n\nClinical diagnosis: Endometrial CA\n\nOperation: TAH-BSO\n\nClinical history.                                    G2P2 endometrial CA\n\nFrozen Section Diagnosis\n1FSA. UTERUS: FROZEN SECTION:\n- Malignant neoplasm, no evidence of invasion\n\n2FSA. TWO LYMPH NODES, LEFT PELVIC; FROZEN SECTION:\n- Metastatic malignant neoplasm\n\nAccessioned:\nReported:\n\n3FSA. RIGHT COMMON ILIAC LYMPH NODE; FROZEN SECTION:\n- Positive for metastatic disease\n\nAccessioned:\nReported:\n\nGross Description\nSpecimen 1, received fresh and labeled \"uterus with cervix,\" consists of a large distorted uterus with attached cervix weighing 1742 grams and has the following measurements: 20.0 cm from cornu-to-cornu, 10.0 cm from cervix to fundus and 8.0 cm from anterior to posterior. The cervix itself measures 5.0 x 4.0 cm. The specimen is bivalved to reveal large filiform, hemorrhagic exophytic tumor which measures 6.5 x 5.0 x 4.0 cm and extensively involves the endomyometrial cavity as well as a large, circumscribed, round, soft, pink-tan, lobulated tumor with focal areas of necrosis and hemorrhage involving the myometrium measuring 15.0 x 10.0 x 6.5 cm. There are also multiple small to large, intramural and subserosal, round, well-circumscribed, firm, tan-white nodules with whorled appearance measuring from 1.2 to 6.2 cm in greatest dimension. The endocervical canal itself is smooth, tan, unremarkable and measures 6.0 cm in length and 0.5 cm in thickness. The endometrial cavity is also enlarged but severely distorted and has a smooth, pink-tan appearance. Gross photographs are taken. The first two tumors which were mentioned appear to be abutting next to each other and serial sectioning of the uterus reveals that they are less than 0.6 cm apart. Serial sectioning of the endomyometrium reveals a maximal myometrial thickness of 3.3 cm with the first filiform tumor invading to a maximal depth of 0.5 cm. Representative sections of the tumor, uterus and cervix are submitted as follows:\n1FSA through 1C              - remainder of frozen section tissue of the tumor\n1D & 1E                      - cervix",
+          "confidence": {
+            "mean_probability": 0.9780275641019257,
+            "mean_log_probability": -0.0430751724137931,
+            "perplexity": 1.0440163731316825,
+            "min_probability": 0.022762268595971687
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 610,
+            "total_tokens": 3082
+          },
+          "composite_score": 0.6430303545418421
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 19.120303630828857,
+          "chars": 2864,
+          "words": 345,
+          "text": "Surgical Pathology Final Report                                                                                      Page 3 of 5\nTemporary\n\nCase:                                                                                  Patient: \nCollected: (                                                                           ID: /\nOrdered by                                                                            Location. \n\n                                   Lymph Nodes, Right Pelvic\n                                   Lymph Nodes, Left Pelvic\n                                   Lymph Node, Left Common Iliac\n                                   Lymph Node, PeriAortic\n                                   Omentum\n\nClinical diagnosis: Endometrial CA\n\nOperation: TAH-BSO\n\nClinical history.                                                     G2P2 endometrial CA\n\nFrozen Section Diagnosis\n1FSA. UTERUS: FROZEN SECTION:\n- Malignant neoplasm, no evidence of invasion\n\n2FSA. TWO LYMPH NODES, LEFT PELVIC; FROZEN SECTION:\n- Metastatic malignant neoplasm\n\nAccessioned:\n     Reported:\n\n3FSA. RIGHT COMMON ILIAC LYMPH NODE; FROZEN SECTION:\n- Positive for metastatic disease\n\nAccessioned:\n     Reported:\n\n\nGross Description\nSpecimen 1, received fresh and labeled \"uterus with cervix,\" consists of a large distorted uterus with\nattached cervix weighing 1742 grams and has the following measurements: 20.0 cm from\ncornu-to-cornu, 10.0 cm from cervix to fundus and 8.0 cm from anterior to posterior. The cervix itself\nmeasures 5.0 x 4.0 cm. The specimen is bivalved to reveal large filiform, hemorrhagic exophytic\ntumor which measures 6.5 x 5.0 x 4.0 cm and extensively involves the endomyometrial cavity as well\nas a large, circumscribed, round, soft, pink-tan, lobulated tumor with focal areas of necrosis and\nhemorrhage involving the myometrium measuring 15.0 x 10.0 x 6.5 cm. There are also multiple small\nto large, intramural and subserosal, round, well-circumscribed, firm, tan-white nodules with whorled\nappearance measuring from 1.2 to 6.2 cm in greatest dimension. The endocervical canal itself is\nsmooth, tan, unremarkable and measures 6.0 cm in length and 0.5 cm in thickness. The endometrial\ncavity is also enlarged but severely distorted and has a smooth, pink-tan appearance. Gross\nphotographs are taken. The first two tumors which were mentioned appear to be abutting next to each\nother and serial sectioning of the uterus reveals that they are less than 0.6 cm apart. Serial sectioning\nof the endomyometrium reveals a maximal myometrial thickness of 3.3 cm with the first filiform tumor\ninvading to a maximal depth of 0.5 cm. Representative sections of the tumor, uterus and cervix are\nsubmitted as follows:\n          1FSA through 1C                      - remainder of frozen section tissue of the tumor\n          1D & 1E                              - cervix",
+          "confidence": {
+            "mean_probability": 0.9715909758063745,
+            "mean_log_probability": -0.05942803703703703,
+            "perplexity": 1.061229389020376,
+            "min_probability": 0.031091307514691264
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 649,
+            "total_tokens": 3121
+          },
+          "composite_score": 0.6351577505989693
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 37.1599907875061,
+        "chars": 3707,
+        "words": 499,
+        "text": "Surgical Pathology Final Report                                    Page 4 of 5\nTemporary Copy\n\nCase:1                      Patient:  -------------------\nCollected:                  ID:  -------------------\nOrdered By:                Location:  -------------------\n        1F & 1G                     - lower uterine segment\n        1H through 1K               - parametrium\n        1L through 1P               - filiform tumor with myometrium\n        1Q & 1R                    - myometrium with inked serosa\n        1S & 1T                    - filiform tumor with myometrium again (showing maximal gross\n                                      myometrial invasion)\n        1U & 1V                    - myometrial with inked serosa again\n        1W                         - section showing relationship between the two large tumors*\n        1X through 1AC              - filiform tumor with endomyometrium\n        1AD through 1AH             - largest leiomyoma-like tumor\n        1AI through 1AK             - leiomyomas\n\n*the filiform tumor and the largest leiomyoma-like tumor\n\nSpecimen 2, received fresh and labeled \"left pelvic node,\" consists of an enlarged soft, pink lymph\nnode with attached fat measuring 3.0 x 2.5 x 0.4 cm. The entire specimen is submitted as follows:\n        2FSA                        - remainder from frozen section tissue\n        2B through 2D               - tissue not used for frozen\n\nSpecimen 3, received fresh and labeled \"right common iliac lymph node,\" consists of an enlarged soft,\npink lymph node which measures 4.0 x 2.0 x 1.0 cm. Serial sectioning reveals two large, firm, tan,\ncircumscribed nodules within the lymph node parenchyma which measure 1.3 and 0.9 cm in greatest\ndimension, respectively. The entire specimen is submitted as follows:\n        3FSA                        - remainder from frozen section tissue\n        3B through 3F               - tissue not used for frozen\n\nSpecimen 4, received in formalin and labeled \"right adnexa,\" consists of a small, ovoid, firm, wrinkled\ntan ovary with attached fallopian tube and which measures 4.4 x 3.3 x 1.6 cm. The\nunremarkable-appearing ovary measures 2.3 x 1.6 x 1.2 cm and the attached fallopian tube has a soft,\npink, coiled, tubular-like structure which measures 4.5 cm in length and 0.7 cm in diameter. No tumor\nis seen on the external surface of this adnexal structure. On cross section, the fallopian tube has a\npinpoint lumen. Representative sections are submitted as follows:\n        4A                          - ovary\n        4B                          - ovarian hilum with blood vessels\n        4C                          - fallopian tube\n        4D and 4E                  - two more representative sections of the ovary\n\nSpecimen 5, received in formalin and labeled \"left adnexa,\" consists of an ovary with attached\nfallopian tube which measures altogether 5.1 x 2.6 x 2.8 cm. The firm, tan, wrinkled\nunremarkable-appearing ovary itself measures 2.8 x 2.5 x 0.9 cm and the attached fallopian tube is a\nsoft, pink, coiled, tubular-like structure which measures 4.2 cm in length and 0.7 cm in maximal\ndiameter. No tumor is seen grossly on the external surface of the specimen. Representative sections\nare submitted as follows:\n        5A through 5C               - ovary\n        5D                          - ovarian hilum including blood vessels\n        5E                          - fallopian tube\n\nSpecimen 6, received in formalin and labeled \"right pelvic nodes,\" consists of a fragment of fatty\nyellow tissue which measures 4.6 x 2.9 x 1.1 cm. Careful palpation reveals several small to large\nlymph nodes which range in size from 0.6 to 2.5 cm in largest dimension. The entire specimen is",
+        "confidence": {
+          "mean_probability": 0.9793220435176182,
+          "mean_log_probability": -0.03735277973568282,
+          "perplexity": 1.038059162487648,
+          "min_probability": 0.03144699024805756
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 909,
+          "total_tokens": 3381
+        },
+        "composite_score": 0.6798356383087805,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0314 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0314 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 37.1599907875061,
+          "chars": 3707,
+          "words": 499,
+          "text": "Surgical Pathology Final Report                                    Page 4 of 5\nTemporary Copy\n\nCase:1                      Patient:  -------------------\nCollected:                  ID:  -------------------\nOrdered By:                Location:  -------------------\n        1F & 1G                     - lower uterine segment\n        1H through 1K               - parametrium\n        1L through 1P               - filiform tumor with myometrium\n        1Q & 1R                    - myometrium with inked serosa\n        1S & 1T                    - filiform tumor with myometrium again (showing maximal gross\n                                      myometrial invasion)\n        1U & 1V                    - myometrial with inked serosa again\n        1W                         - section showing relationship between the two large tumors*\n        1X through 1AC              - filiform tumor with endomyometrium\n        1AD through 1AH             - largest leiomyoma-like tumor\n        1AI through 1AK             - leiomyomas\n\n*the filiform tumor and the largest leiomyoma-like tumor\n\nSpecimen 2, received fresh and labeled \"left pelvic node,\" consists of an enlarged soft, pink lymph\nnode with attached fat measuring 3.0 x 2.5 x 0.4 cm. The entire specimen is submitted as follows:\n        2FSA                        - remainder from frozen section tissue\n        2B through 2D               - tissue not used for frozen\n\nSpecimen 3, received fresh and labeled \"right common iliac lymph node,\" consists of an enlarged soft,\npink lymph node which measures 4.0 x 2.0 x 1.0 cm. Serial sectioning reveals two large, firm, tan,\ncircumscribed nodules within the lymph node parenchyma which measure 1.3 and 0.9 cm in greatest\ndimension, respectively. The entire specimen is submitted as follows:\n        3FSA                        - remainder from frozen section tissue\n        3B through 3F               - tissue not used for frozen\n\nSpecimen 4, received in formalin and labeled \"right adnexa,\" consists of a small, ovoid, firm, wrinkled\ntan ovary with attached fallopian tube and which measures 4.4 x 3.3 x 1.6 cm. The\nunremarkable-appearing ovary measures 2.3 x 1.6 x 1.2 cm and the attached fallopian tube has a soft,\npink, coiled, tubular-like structure which measures 4.5 cm in length and 0.7 cm in diameter. No tumor\nis seen on the external surface of this adnexal structure. On cross section, the fallopian tube has a\npinpoint lumen. Representative sections are submitted as follows:\n        4A                          - ovary\n        4B                          - ovarian hilum with blood vessels\n        4C                          - fallopian tube\n        4D and 4E                  - two more representative sections of the ovary\n\nSpecimen 5, received in formalin and labeled \"left adnexa,\" consists of an ovary with attached\nfallopian tube which measures altogether 5.1 x 2.6 x 2.8 cm. The firm, tan, wrinkled\nunremarkable-appearing ovary itself measures 2.8 x 2.5 x 0.9 cm and the attached fallopian tube is a\nsoft, pink, coiled, tubular-like structure which measures 4.2 cm in length and 0.7 cm in maximal\ndiameter. No tumor is seen grossly on the external surface of the specimen. Representative sections\nare submitted as follows:\n        5A through 5C               - ovary\n        5D                          - ovarian hilum including blood vessels\n        5E                          - fallopian tube\n\nSpecimen 6, received in formalin and labeled \"right pelvic nodes,\" consists of a fragment of fatty\nyellow tissue which measures 4.6 x 2.9 x 1.1 cm. Careful palpation reveals several small to large\nlymph nodes which range in size from 0.6 to 2.5 cm in largest dimension. The entire specimen is",
+          "confidence": {
+            "mean_probability": 0.9793220435176182,
+            "mean_log_probability": -0.03735277973568282,
+            "perplexity": 1.038059162487648,
+            "min_probability": 0.03144699024805756
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 909,
+            "total_tokens": 3381
+          },
+          "composite_score": 0.6798356383087805,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0314 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0314 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 108.1650869846344,
+          "chars": 3552,
+          "words": 500,
+          "text": "Surgical Pathology Final Report                                    Page 4 of 5\nTemporary Copy\n\nCase: 1                    Patient:  [redacted]\nCollected:                 ID:  [redacted]\nOrdered By:                Location:  [redacted]\n  1F & 1G                      - lower uterine segment\n  1H through 1K                - parametrium\n  1L through 1P                - filiform tumor with myometrium\n  1Q & 1R                     - myometrium with inked serosa\n  1S & 1T                     - filiform tumor with myometrium again (showing maximal gross\n                                 myometrial invasion)\n  1U & 1V                     - myometrial with inked serosa again\n  1W                          - section showing relationship between the two large tumors*\n  1X through 1AC              - filiform tumor with endomyometrium\n  1AD through 1AH             - largest leiomyoma-like tumor\n  1AI through 1AK             - leiomyomas\n\n*the filiform tumor and the largest leiomyoma-like tumor\n\nSpecimen 2, received fresh and labeled \"left pelvic node,\" consists of an enlarged soft, pink lymph node with attached fat measuring 3.0 x 2.5 x 0.4 cm. The entire specimen is submitted as follows:\n  2FSA                        - remainder from frozen section tissue\n  2B through 2D               - tissue not used for frozen\n\nSpecimen 3, received fresh and labeled \"right common iliac lymph node,\" consists of an enlarged soft, pink lymph node which measures 4.0 x 2.0 x 1.0 cm. Serial sectioning reveals two large, firm, tan, circumscribed nodules within the lymph node parenchyma which measure 1.3 and 0.9 cm in greatest dimension, respectively. The entire specimen is submitted as follows:\n  3FSA                        - remainder from frozen section tissue\n  3B through 3F               - tissue not used for frozen\n\nSpecimen 4, received in formalin and labeled \"right adnexa,\" consists of a small, ovoid, firm, wrinkled tan ovary with attached fallopian tube and which measures 4.4 x 3.3 x 1.6 cm. The unremarkable-appearing ovary measures 2.3 x 1.6 x 1.2 cm and the attached fallopian tube has a soft, pink, coiled, tubular-like structure which measures 4.5 cm in length and 0.7 cm in diameter. No tumor is seen on the external surface of this adnexal structure. On cross section, the fallopian tube has a pinpoint lumen. Representative sections are submitted as follows:\n  4A                          - ovary\n  4B                          - ovarian hilum with blood vessels\n  4C                          - fallopian tube\n  4D and 4E                  - two more representative sections of the ovary\n\nSpecimen 5, received in formalin and labeled \"left adnexa,\" consists of an ovary with attached fallopian tube which measures altogether 5.1 x 2.6 x 2.8 cm. The firm, tan, wrinkled unremarkable-appearing ovary itself measures 2.8 x 2.5 x 0.9 cm and the attached fallopian tube is a soft, pink, coiled, tubular-like structure which measures 4.2 cm in length and 0.7 cm in maximal diameter. No tumor is seen grossly on the external surface of the specimen. Representative sections are submitted as follows:\n  5A through 5C               - ovary\n  5D                         - ovarian hilum including blood vessels\n  5E                         - fallopian tube\n\nSpecimen 6, received in formalin and labeled \"right pelvic nodes,\" consists of a fragment of fatty yellow tissue which measures 4.6 x 2.9 x 1.1 cm. Careful palpation reveals several small to large lymph nodes which range in size from 0.6 to 2.5 cm in largest dimension. The entire specimen is",
+          "confidence": {
+            "mean_probability": 0.9814544516140749,
+            "mean_log_probability": -0.033478075639599564,
+            "perplexity": 1.0340447727074886,
+            "min_probability": 0.03273963027054938
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 900,
+            "total_tokens": 3372
+          },
+          "composite_score": 0.6477666046720493
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 35.70120310783386,
+          "chars": 3663,
+          "words": 499,
+          "text": "Surgical Pathology Final Report                        Page  4 of  5\nTemporary Copy\n\nCase:1                      Patient:  ████████████████\nCollected:                  ID:  ████████████\nOrdered By:                 Location:  ████████████████\n        1F & 1G                   - lower uterine segment\n        1H through 1K              - parametrium\n        1L through 1P              - filiform tumor with myometrium\n        1Q & 1R                   - myometrium with inked serosa\n        1S & 1T                   - filiform tumor with myometrium again (showing maximal gross\n                                    myometrial invasion)\n        1U & 1V                   - myometrial with inked serosa again\n        1W                        - section showing relationship between the two large tumors*\n        1X through 1AC             - filiform tumor with endomyometrium\n        1AD through 1AH            - largest leiomyoma-like tumor\n        1AI through 1AK            - leiomyomas\n\n*the filiform tumor and the largest leiomyoma-like tumor\n\nSpecimen 2, received fresh and labeled \"left pelvic node,\" consists of an enlarged soft, pink lymph\nnode with attached fat measuring 3.0 x 2.5 x 0.4 cm.  The entire specimen is submitted as follows:\n        2FSA                      - remainder from frozen section tissue\n        2B through 2D             - tissue not used for frozen\n\nSpecimen 3, received fresh and labeled \"right common iliac lymph node,\" consists of an enlarged soft,\npink lymph node which measures 4.0 x 2.0 x 1.0 cm.  Serial sectioning reveals two large, firm, tan,\ncircumscribed nodules within the lymph node parenchyma which measure 1.3 and 0.9 cm in greatest\ndimension, respectively.  The entire specimen is submitted as follows:\n        3FSA                      - remainder from frozen section tissue\n        3B through 3F             - tissue not used for frozen\n\nSpecimen 4, received in formalin and labeled \"right adnexa,\" consists of a small, ovoid, firm, wrinkled\ntan ovary with attached fallopian tube and which measures 4.4 x 3.3 x 1.6 cm.  The\nunremarkable-appearing ovary measures 2.3 x 1.6 x 1.2 cm and the attached fallopian tube has a soft,\npink, coiled, tubular-like structure which measures 4.5 cm in length and 0.7 cm in diameter.  No tumor\nis seen on the external surface of this adnexal structure.  On cross section, the fallopian tube has a\npinpoint lumen.  Representative sections are submitted as follows:\n        4A                        - ovary\n        4B                        - ovarian hilum with blood vessels\n        4C                        - fallopian tube\n        4D and 4E                 - two more representative sections of the ovary\n\nSpecimen 5, received in formalin and labeled \"left adnexa,\" consists of an ovary with attached\nfallopian tube which measures altogether 5.1 x 2.6 x 2.8 cm.  The firm, tan, wrinkled\nunremarkable-appearing ovary itself measures 2.8 x 2.5 x 0.9 cm and the attached fallopian tube is a\nsoft, pink, coiled, tubular-like structure which measures 4.2 cm in length and 0.7 cm in maximal\ndiameter.  No tumor is seen grossly on the external surface of the specimen.  Representative sections\nare submitted as follows:\n        5A through 5C             - ovary\n        5D                        - ovarian hilum including blood vessels\n        5E                        - fallopian tube\n\nSpecimen 6, received in formalin and labeled \"right pelvic nodes,\" consists of a fragment of fatty\nyellow tissue which measures 4.6 x 2.9 x 1.1 cm.  Careful palpation reveals several small to large\nlymph nodes which range in size from 0.6 to 2.5 cm in largest dimension.  The entire specimen is",
+          "confidence": {
+            "mean_probability": 0.9770934371725873,
+            "mean_log_probability": -0.040334888888888885,
+            "perplexity": 1.0411593885263766,
+            "min_probability": 0.02563704251785728
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 937,
+            "total_tokens": 3409
+          },
+          "composite_score": 0.6443737948058177
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.114090204238892,
+        "chars": 2496,
+        "words": 360,
+        "text": "Surgical Pathology Final Report                 Page 5 of 5\nProperty Copy\n\nCase: 1\nCollected: \nOrdered by: \nsubmitted as follows:\n        6A and 6B                  - largest lymph node bisected\n        6C and 6D                  - second largest lymph node bisected\n        6E through 6H           - smaller lymph nodes bisected, one lymph node per cassette\n\nAdditional lymph nodes are found and these are submitted as follows:\n        6I and 6J                   - lymph nodes bisected, one per cassette\n        6K and 6L                  - multiple smaller lymph nodes\n\nSpecimen 7, received in formalin and labeled \"left pelvic nodes,\" consists of several fragments of soft, yellow fatty tissue which measures in aggregate 5.0 x 3.2 x 1.5 cm. Careful palpation reveals several small to large lymph nodes which range in size from 0.8 to 2.6 cm in largest dimension. The entire specimen is submitted as follows:\n        7A and 7B                  - largest lymph node bisected\n        7C and 7D                  - largest lymph node bisected\n        7E                             - smaller lymph node bisected\n        7F and 7G                  - fatty tissue\n\nSpecimen 8, received in formalin and labeled \"left common iliac lymph nodes,\" consists of three small to large soft, pink lymph nodes which range in size from 0.8 to 2.5 cm in largest dimension. The entire specimen is submitted as follows:\n        8A through 8C           - largest lymph node serially sectioned\n        8D                            - second largest lymph node\n        8E                             - smallest lymph node bisected\n\nSpecimen 9, received in formalin and labeled \"periaortic iliac lymph nodes,\" consists of an enlarged, soft, pink-tan lymph node which measures 2.9 x 1.6 x 1.1 cm. The specimen is serially sectioned to reveal firm, well-circumscribed, tan cut surface and is entirely submitted in cassettes 9A through 9D.\n\nSpecimen 10, received in formalin and labeled \"omental biopsy,\" consists of a soft, yellow, fatty fragment of tissue which measures 5.6 x 3.4 x 1.2 cm. No obvious tumor nodules are seen or palpated. The entire specimen is submitted in cassettes 10A through 10A.\n\nMicroscopic Exam\nAll sections are examined. Histologic findings are summarized in Pathologic Diagnosis.\n\nThe attending pathologist whose signature appears on this report has reviewed the diagnostic slides and has edited the gross and/or microscopic portion of the report in rendering the final microscopic diagnosis.",
+        "confidence": {
+          "mean_probability": 0.9764693759943867,
+          "mean_log_probability": -0.041533347602739724,
+          "perplexity": 1.0424079230771799,
+          "min_probability": 0.042687292609736326
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 585,
+          "total_tokens": 3057
+        },
+        "composite_score": 0.6776688142428969,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.114090204238892,
+          "chars": 2496,
+          "words": 360,
+          "text": "Surgical Pathology Final Report                 Page 5 of 5\nProperty Copy\n\nCase: 1\nCollected: \nOrdered by: \nsubmitted as follows:\n        6A and 6B                  - largest lymph node bisected\n        6C and 6D                  - second largest lymph node bisected\n        6E through 6H           - smaller lymph nodes bisected, one lymph node per cassette\n\nAdditional lymph nodes are found and these are submitted as follows:\n        6I and 6J                   - lymph nodes bisected, one per cassette\n        6K and 6L                  - multiple smaller lymph nodes\n\nSpecimen 7, received in formalin and labeled \"left pelvic nodes,\" consists of several fragments of soft, yellow fatty tissue which measures in aggregate 5.0 x 3.2 x 1.5 cm. Careful palpation reveals several small to large lymph nodes which range in size from 0.8 to 2.6 cm in largest dimension. The entire specimen is submitted as follows:\n        7A and 7B                  - largest lymph node bisected\n        7C and 7D                  - largest lymph node bisected\n        7E                             - smaller lymph node bisected\n        7F and 7G                  - fatty tissue\n\nSpecimen 8, received in formalin and labeled \"left common iliac lymph nodes,\" consists of three small to large soft, pink lymph nodes which range in size from 0.8 to 2.5 cm in largest dimension. The entire specimen is submitted as follows:\n        8A through 8C           - largest lymph node serially sectioned\n        8D                            - second largest lymph node\n        8E                             - smallest lymph node bisected\n\nSpecimen 9, received in formalin and labeled \"periaortic iliac lymph nodes,\" consists of an enlarged, soft, pink-tan lymph node which measures 2.9 x 1.6 x 1.1 cm. The specimen is serially sectioned to reveal firm, well-circumscribed, tan cut surface and is entirely submitted in cassettes 9A through 9D.\n\nSpecimen 10, received in formalin and labeled \"omental biopsy,\" consists of a soft, yellow, fatty fragment of tissue which measures 5.6 x 3.4 x 1.2 cm. No obvious tumor nodules are seen or palpated. The entire specimen is submitted in cassettes 10A through 10A.\n\nMicroscopic Exam\nAll sections are examined. Histologic findings are summarized in Pathologic Diagnosis.\n\nThe attending pathologist whose signature appears on this report has reviewed the diagnostic slides and has edited the gross and/or microscopic portion of the report in rendering the final microscopic diagnosis.",
+          "confidence": {
+            "mean_probability": 0.9764693759943867,
+            "mean_log_probability": -0.041533347602739724,
+            "perplexity": 1.0424079230771799,
+            "min_probability": 0.042687292609736326
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 585,
+            "total_tokens": 3057
+          },
+          "composite_score": 0.6776688142428969,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0427 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.05461096763611,
+          "chars": 2598,
+          "words": 360,
+          "text": "Surgical Pathology Final Report                         Page 5 of 5\nProperty Copy\n\nCase: 1\nCollected:\nOrdered by:\nsubmitted as follows:\n                6A and 6B                  - largest lymph node bisected\n                6C and 6D                  - second largest lymph node bisected\n                6E through 6H          - smaller lymph nodes bisected, one lymph node per cassette\n\nAdditional lymph nodes are found and these are submitted as follows:\n                6I and 6J                    - lymph nodes bisected, one per cassette\n                6K and 6L                  - multiple smaller lymph nodes\n\nSpecimen 7, received in formalin and labeled \"left pelvic nodes,\" consists of several fragments of soft,\nyellow fatty tissue which measures in aggregate 5.0 x 3.2 x 1.5 cm. Careful palpation reveals several\nsmall to large lymph nodes which range in size from 0.8 to 2.6 cm in largest dimension. The entire\nspecimen is submitted as follows:\n                7A and 7B                  - largest lymph node bisected\n                7C and 7D                  - largest lymph node bisected\n                7E                             - smaller lymph node bisected\n                7F and 7G                  - fatty tissue\n\nSpecimen 8, received in formalin and labeled \"left common iliac lymph nodes,\" consists of three small\nto large soft, pink lymph nodes which range in size from 0.8 to 2.5 cm in largest dimension. The entire\nspecimen is submitted as follows:\n                8A through 8C           - largest lymph node serially sectioned\n                8D                            - second largest lymph node\n                8E                             - smallest lymph node bisected\n\nSpecimen 9, received in formalin and labeled \"periaortic iliac lymph nodes,\" consists of an enlarged,\nsoft, pink-tan lymph node which measures 2.9 x 1.6 x 1.1 cm. The specimen is serially sectioned to\nreveal firm, well-circumscribed, tan cut surface and is entirely submitted in cassettes 9A through 9D.\n\nSpecimen 10, received in formalin and labeled \"omental biopsy,\" consists of a soft, yellow, fatty\nfragment of tissue which measures 5.6 x 3.4 x 1.2 cm. No obvious tumor nodules are seen or\npalpated. The entire specimen is submitted in cassettes 10A through 10A.\n\nMicroscopic Exam\nAll sections are examined. Histologic findings are summarized in Pathologic Diagnosis.\n\nThe attending pathologist whose signature appears on this report has reviewed the diagnostic slides\nand has edited the gross and/or microscopic portion of the report in rendering the final microscopic\ndiagnosis.",
+          "confidence": {
+            "mean_probability": 0.9796843563128576,
+            "mean_log_probability": -0.03742076342281879,
+            "perplexity": 1.0381297359758752,
+            "min_probability": 0.028719038895598566
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 597,
+            "total_tokens": 3069
+          },
+          "composite_score": 0.6458102489916853
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.858423471450806,
+          "chars": 2558,
+          "words": 360,
+          "text": "Surgical Pathology Final Report                  Page 5 of 5\nProperty Copy\n\nCase: 1\nCollected:\nOrdered by:\nsubmitted as follows:\n                6A and 6B               - largest lymph node bisected\n                6C and 6D               - second largest lymph node bisected\n                6E through 6H        - smaller lymph nodes bisected, one lymph node per cassette\n\nAdditional lymph nodes are found and these are submitted as follows:\n                6I and 6J                 - lymph nodes bisected, one per cassette\n                6K and 6L               - multiple smaller lymph nodes\n\nSpecimen 7, received in formalin and labeled \"left pelvic nodes,\" consists of several fragments of soft, yellow fatty tissue which measures in aggregate 5.0 x 3.2 x 1.5 cm. Careful palpation reveals several small to large lymph nodes which range in size from 0.8 to 2.6 cm in largest dimension. The entire specimen is submitted as follows:\n                7A and 7B               - largest lymph node bisected\n                7C and 7D               - largest lymph node bisected\n                7E                          - smaller lymph node bisected\n                7F and 7G               - fatty tissue\n\nSpecimen 8, received in formalin and labeled \"left common iliac lymph nodes,\" consists of three small to large soft, pink lymph nodes which range in size from 0.8 to 2.5 cm in largest dimension. The entire specimen is submitted as follows:\n                8A through 8C         - largest lymph node serially sectioned\n                8D                          - second largest lymph node\n                8E                          - smallest lymph node bisected\n\nSpecimen 9, received in formalin and labeled \"periaortic iliac lymph nodes,\" consists of an enlarged, soft, pink-tan lymph node which measures 2.9 x 1.6 x 1.1 cm. The specimen is serially sectioned to reveal firm, well-circumscribed, tan cut surface and is entirely submitted in cassettes 9A through 9D.\n\nSpecimen 10, received in formalin and labeled \"omental biopsy,\" consists of a soft, yellow, fatty fragment of tissue which measures 5.6 x 3.4 x 1.2 cm. No obvious tumor nodules are seen or palpated. The entire specimen is submitted in cassettes 10A through 10A.\n\nMicroscopic Exam\nAll sections are examined. Histologic findings are summarized in Pathologic Diagnosis.\n\nThe attending pathologist whose signature appears on this report has reviewed the diagnostic slides and has edited the gross and/or microscopic portion of the report in rendering the final microscopic diagnosis.",
+          "confidence": {
+            "mean_probability": 0.9798295181038121,
+            "mean_log_probability": -0.037123072164948444,
+            "perplexity": 1.0378207398239483,
+            "min_probability": 0.042509359660175106
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 583,
+            "total_tokens": 3055
+          },
+          "composite_score": 0.6459574437963989
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

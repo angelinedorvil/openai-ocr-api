@@ -1,0 +1,133 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JX\TCGA-B5-A0JX.pdf
+Processing Date: 2026-03-08 16:55:49
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+ICD-0-3
+Adenocarcinoma, Endometrioid, NOS 8380/3
+Site: Endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1)", received fresh for frozen section is a 112 gram hysterectomy specimen with bilateral adnexa. The uterine dimensions are 8.2 x 5.2 x 3.1 cm; the cervix is 2.7 cm in diameter and the os diameter is 0.9 cm. The specimen is opened to demonstrate a 3.4 x 2.5 x 2.2 cm exophytic, soft, friable mass involving the anterior and posterior wall but sparing the fundus. The lesion extends into the lower uterine segment but does not extend into the endocervical canal (3.3 cm from the os). The myometrium averages 1.5 cm in thickness and the lesion grossly appears to invade 3 mm into the myometrium. A portion of the anterior wall endomyometrium was frozen as representative AF1.
+
+The left adnexa consists of a 2.6 x 1.6 x 1.3 cm tan-yellow cerebriform ovary and a 3.5 cm long x 0.3 cm diameter fallopian tube (discontinuous, consistent with tubal ligation). The ovary exhibits small cortical cysts up to 0.4 cm in diameter and two white corpora albecantia up to 0.5 cm in greatest dimension. The right adnexa consists of a 4.5 cm long x 0.3 cm diameter fallopian tube (discontinuous, consistent with tubal ligation). The right ovary (2.2 x 1.6 x 1 cm) exhibits one cortical cyst (0.6 cm in diameter).
+
+BLOCK SUMMARY:
+
+A1- frozen section remnant (anterior wall endomyometrium with lesion)
+A2- representative anterior cervix
+A3- representative of posterior cervix
+A4- representative of anterior lower uterine segment with lesion, longitudinal section
+A5- posterior lower uterine segment with lesion, longitudinal section
+A6-7- anterior endomyometrium, full thickness
+A8-9- posterior endomyometrium, full thickness
+A10- uninvolved fundus
+A11- left tube and ovary
+A12- right tube and ovary
+
+B. "Left pelvic lymph node", received fresh and placed in formalin is a 6.5 x 6 x 2.5 cm aggregate of multiple fragments of yellow-tan fibroadipose tissue and lymph nodes. Twenty lymph node candidates are identified ranging in greatest dimension from 0.3 to 1.1 cm.
+
+BLOCK SUMMARY:
+
+B1- one lymph node candidate, sectioned
+B2- six lymph node candidates, whole
+B3- three lymph node candidates, whole
+B4- two lymph node candidates, bisected (one black, one red)
+B5-8- all have two lymph node candidates, all are bisected with one inked black and one inked blue
+
+C. "Right pelvic lymph node", received fresh and placed in formalin is a 8 x 6 x 3 cm aggregate of tan-yellow fibroadipose tissue containing lymph nodes. Twenty lymph node candidates are identified, ranging in greatest dimension from 0.2 to 2.5 cm.
+
+BLOCK SUMMARY: UUID:E511CFF9-9687-4134-B85D-37C037871643
+TCGA-B5-A0JX-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+C1-2- largest lymph node candidate, bisected
+C3- one lymph node candidate bisected
+C4- three lymph node candidates (one bisected is inked blue)
+C5- three lymph node candidates
+C6- seven lymph node candidates
+C7- five lymph node candidates
+
+D. "Right aortic lymph node", received fresh and placed in formalin is a 2.3 x 1.8 x 0.7 cm fragment of tan-yellow fibroadipose tissue containing two lymph node candidates. The lymph nodes are bisected and submitted in blocks D1-2 respectively.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, bilateral tubes and ovaries": AF1 (representative full thickness)
+# 1 endometrioid carcinoma
+# 2 figo grade 3
+# 3 invasive, 3 mm into 15 mm wall
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "UTERUS, CERVIX, BILATERAL TUBES AND OVARIES (AF1)":
+
+UTERUS: 112 GRAMS
+ENDOMETRIUM: CARCINOMA
+TUMOR SITE: ANTERIOR AND POSTERIOR WALL
+HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+FIGO GRADE: 3.
+TUMOR SIZE: 3.4 X 2.5 X 2.2 CM.
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.3 CM, IN A 1.3 THICK WALL.
+LYMPHATIC/VASCULAR INVASION: ABSENT
+ADJACENT NON-NEOPLASTIC ENDOMETRIUM: INACTIVE
+REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.
+CERVIX: NEGATIVE FOR TUMOR
+SEROSA: NEGATIVE FOR TUMOR
+SPECIMEN MARGINS: NOT INVOLVED
+
+RIGHT AND LEFT FALLOPIAN TUBES: NEGATIVE FOR CARCINOMA.
+RIGHT AND LEFT OVARIES: NEGATIVE FOR CARCINOMA.
+
+B. "LEFT PELVIC LYMPH NODES":
+
+TWENTY LYMPH NODES, NEGATIVE FOR CARCINOMA (0/20).
+
+C. "RIGHT PELVIC LYMPH NODES":
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+
+TWENTY LYMPH NODES, NEGATIVE FOR CARCINOMA (0/20).
+
+D. "RIGHT AORTIC LYMPH NODES":
+
+TWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+
+COMMENT: In part A, poorly differentiated adenocarcinoma involves the lower uterine segment, but not the endocervix.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+CI ADDENDUM 1:
+Please see
+tests.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).

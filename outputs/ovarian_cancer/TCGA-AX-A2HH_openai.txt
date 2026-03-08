@@ -1,0 +1,172 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A2HH\TCGA-AX-A2HH.pdf
+Processing Date: 2026-03-08 15:50:10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+First Malignancy History
+Daily synchronous Primary Noted
+Class is (circle):
+Reviewer's Initials
+Date Reviewed:
+
+QUALIFIED
+DE-QUALIFIED
+
+
+Surgical Pathology Report
+Temporary Copy
+Case:
+Collected:
+Ordered by:
+
+Page 1 of 3
+Patient
+ID
+Location:
+
+Clinical Information
+Endometrial cancer. X-lap, TAH, BSO, Node dissection.
+
+Organ Or Tissue
+Uterus, BSO
+Left pelvic node
+Left pelvic nodes
+Left periaortic nodes
+Right pelvic nodes
+Right periaortic node
+
+Gross Description
+The specimen is received in six parts, each labeled with the patient's name.
+
+Part A. is received unfixed, additionally labeled "uterus, cervix, tubes, ovaries" and consists of a uterus with attached cervix, and bilateral fallopian tubes and ovaries. The uterus measures 14.5 x 14 x 6.5 cm and the specimen weighs 622 gms. The cervix measures 2.5 x 1.7 x 1.7 cm and has a 0.7 cm slit-like os. The endocervical canal measures 2 cm in length. The endometrial thickness is approximately 0.1 cm and the myometrial thickness is 1.5 cm. The endometrial cavity measures approximately 8 x 6.5 cm, and remarkable for a polypoid tumor both in the fundic anterior wall and also in the anterior lower uterine segment. Superficial invasion is noted in the fundus and the anterior lower uterine segment. The tumor overall measures 9 x 6 x 2.5 cm. The specimen is further remarkable for a large fundic intramural/subserosal fibroid measuring 8 x 6 x 4.5 cm, a pedunculated serosal fibroid at the fundus, measuring 3 x 2.5 x 2 cm, and a 0.9 cm intramural fibroid in the lower uterine segment. The right fallopian tube measures 7 cm in length with an average diameter of 0.5 cm, and an unremarkable fimbriated end. The right ovary is tan/white and rubbery, and measures 4 x 1.5 x 0.7 cm, and is unremarkable. The left fallopian tube measures 5 cm in length, with an unremarkable fimbriated end, and a tan/white rubbery ovary measuring 6 x 1 x 0.7 cm. The specimen is represented as follows:
+A1 - A2 Anterior and posterior cervix
+A3 - A4 Anterior and posterior lower uterine segment
+A5 - A6 Tumor at anterior lower uterine segment
+A8 - A12 Tumor
+A13 - A14 Fibroids
+A15 - A17 Left fallopian tube and ovary
+A18 - A20 Right fallopian tube and ovary
+A21 Normal tissue for
+A22 Tumor tissue for
+
+Part B. is received fresh and is additionally labeled "left pelvic node". It consists of 0.8 x 0.5 x 0.5 cm piece of pink/tan and fatty tissue. The specimen is bisected, and a touch prep is made for intraoperative diagnosis. The specimen is entirely submitted as follows:
+B1 bisected lymph node
+
+Part C is received unfixed, and labeled "left pelvic nodes" It consists of an aggregate of tan and fatty tissue fragments, overall measuring 6 x 3 x 1.0 cm. Three definite lymph nodes are dissected out, one measuring 1.8 cm in greatest dimension another measuring 3 cm in greatest dimension and a third measuring 6 cm in greatest dimension and which is very elongated and thin with a maximum diameter of 0.8 cm. The specimen is entirely submitted as follows:
+
+UUID: 2EE7245F-7069-456A-A215-41E59D9FE606
+TCGA-AX-A2HH-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Surgical Pathology Report  
+Temporary Copy  
+Case:  
+Collected:  
+Ordered by: 1  
+
+C1 One lymph node  
+C2 One lymph node and fat  
+C3 - C4 Three lymph nodes, bisected  
+C5 - C6 Remaining tissue with one lymph node  
+
+Part D. is received in formalin and is labeled "left periaortic nodes". It consists of an aggregate of tan and yellow tissue fragments measuring 2 x 2 x 0.5 cm in aggregate. Two lymph nodes are identified, measuring 1.8 and 1.5 cm in greatest dimension. The specimen is entirely submitted as follows:  
+D1 two lymph nodes  
+D2 remainder of tissue.  
+
+Part E. is received in formalin, and is additionally labeled "right pelvic nodes". It consists of an aggregate of tan and yellow tissue measuring 4 x 3 x 1.3 cm. Three definitive lymph nodes are identified, ranging from 4 cm to 0.8 cm in greatest dimension. The largest node is bisected to show a fatty replacement. The specimen is entirely submitted as follows:  
+E1 - E2 Largest lymph node, bisected  
+E3 Two smaller nodes  
+E4 - E5 Remainder of the specimen with eight lymph nodes  
+
+Part F. is received in formalin and is labeled "Right periaortic nodes". It consists of an aggregate of tan and yellow tissue measuring 2.5 x 2 x 1 cm. A single lymph node is identified, which measures 2.5 cm in greatest dimension. The specimen is entirely submitted as follows:  
+F1 lymph node  
+F2 remainder of tissue with one lymph node  
+
+Note: tissue was collected for protocol  
+
+Intra-Operative Consultation  
+Left pelvic node (TP1): One cluster of suspicious cells for tumor.  
+
+Uterus, BSO (Gross diagnosis): Large necrotic endometrial tumor invading anterior LUS and posterior fundus.  
+
+Tests performed by  
+
+Diagnosis  
+A. Uterus, total hysterectomy, bilateral salpingo-oophorectomy:  
+- Uterine cervix with transitional metaplasia and endocervical polyp. No tumor is seen.  
+- Poorly differentiated endometrioid adenocarcinoma with squamous differentiation, invading 1.0 mm of myometrium and anterior lower uterine segment.  
+- Focal vascular space tumor invasion is present.  
+- Extensive adenomyosis.  
+- Multiple leiomyomata uteri.  
+- Serosal fibrous adhesions of bilateral ovaries and fallopian  
+
+Page 2 of 3  
+Patient  
+ID  
+Location:
+
+================================================================================
+PAGE 3
+================================================================================
+Surgical Pathology Report  
+Temporary Copy  
+Case:  
+Collected:  
+Ordered by:  
+
+Page 3 of 3  
+Patient:  
+IL  
+Location:  
+
+tubes with old hemorrhage and granulomatous reactions.  
+- Atrophic underlying bilateral ovaries.  
+- Hydatid cyst of Morgagni, right.  
+B. Left pelvic lymph node, biopsy:  
+- One lymph node with sinus histiocytosis. No tumor is seen.  
+C. Left pelvic lymph nodes, biopsy:  
+- Six lymph nodes with sinus histiocytosis. No tumor is seen.  
+D. Left periaortic lymph node, biopsy:  
+- Two lymph nodes. No tumor is seen.  
+E. Right pelvic lymph nodes, biopsy:  
+- Eleven lymph nodes. No tumor is seen.  
+F. Right periaortic lymph node, biopsy:  
+- Two lymph nodes. No tumor is seen.  
+
+Comments  
+Type of surgery: TAH, BSO  
+Gross size of tumor: 9.0 x 6.0 x 2.5 cm.  
+Tumor location: Uterine corpus  
+Histologic type: Endometrioid with squamous differentiation  
+Histologic grade (FIGO): 3  
+Depth of myometrial invasion: 1.0 mm, over 1.5 cm thickness (7%)  
+Cervical involvement: Absent  
+Lower uterine segment involvement: Present  
+Lymphatic space invasion: Present  
+Blood vessel invasion: Present  
+Surgical margins: Negative  
+Other tumor site(s): None  
+
+OTHER ENDOMETRIAL PATHOLOGY: None  
+
+Pelvic washings:  
+Negative  
+
+LYMPH NODES  
+Pelvic: 0 of 17 Positive  
+Para-aortic: 0 of 4 Positive  
+
+AJCC (7th Ed. ©2010) Stage: pT1aN0Mna

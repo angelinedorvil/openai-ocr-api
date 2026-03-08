@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-B5-A0JS\\TCGA-B5-A0JS.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 32.874696254730225,
+        "chars": 2724,
+        "words": 411,
+        "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Left pelvic lymph node\". Received is an 8 x 7 x 1 cm fragment of\ntan-yellow fibrofatty tissue with multiple lymph node candidates. The specimen\nis dissected for lymph node candidates which are submitted as follows:\n\nBLOCK SUMMARY:\n\nA1-A2- multiple lymph node candidates.\nA3-A4- one lymph node candidate.\nA5-A11- multiple lymph node candidates.\n\nB. \"Right pelvic node\". Received is an 8.5 x 6.5 x 2.5 cm aggregate of\nfibrofatty tissue which contains multiple lymph node candidates. The lymph\nnodes are dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nB1-3 one lymph node candidate each, bisected.\nB4- multiple lymph node candidates.\nB5- two lymph node candidates.\nB6-8 one lymph node candidate, quadrasected.\nB9-10 one lymph node candidate each, bisected.\nB11- multiple lymph node candidates.\n\nC. \"Uterus\". Received is a 167.4 gram, 8 x 7.5 x 5 cm uterus with attached\nbilateral adnexa which is most remarkable for heaped shaggy pink-gray mucosa\non the anterior and posterior endometrium (anterior=3.7 x 2.9 cm and posterior\n3.9 x 1.1 cm). There appears to be invasion of the underlying myometrium\nsuperficially.\n\nThe remaining endometrial cavity (3.2 cm from cornu to cornu and 7 cm in\nlength), has a 0.2 cm thick endometrium overlying a 2.6 cm mildly trabecular\npink myometrium. The uterine serosa is smooth and glistening with no\nadhesions. The endocervix and ectocervix are also smooth and glistening with a\n0.4 cm patent cervical os.\n\nThe left adnexa consists of a tan-white bosselated ovary (2.7 x 1.3 x 0.9 cm)\nand a tan-pink fimbriated fallopian tube (6.7 x 0.5 cm) which has multiple\nsmall paratubal cysts (largest=0.6 cm in greatest dimension). Sectioning of\nthe ovary demonstrates an unremarkable tan-pink cut surface with corpora\nalbuginea. Sectioning of the fallopian tube is unremarkable.\n\nThe right adnexa consists of tan-white bosselated ovary (2.3 x 1.7 x 1.7 cm)\nwhich is on section grossly unremarkable, and fimbriated fallopian tube (6.7 x\n0.5 cm to 0.9 cm) which is also normal.\n\nBLOCK SUMMARY:\nC1-C2- anterior and posterior cervix, respectively.\nC3-C4- anterior and posterior lower uterine segment, respectively.\nC5-C6- anterior and posterior endomyometrium, respectively.\nC7-C8- additional anterior endomyometrium.\nC9- additional posterior endomyometrium.\nC10- right ovary and fallopian tube.\nC11- left ovary and fallopian tube.\n\nCriteria Yes No\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is Qualified DISQUALIFIED\nR. Viewer\n",
+        "confidence": {
+          "mean_probability": 0.9864412526066602,
+          "mean_log_probability": -0.018742444025157234,
+          "perplexity": 1.0189191860952027,
+          "min_probability": 0.16632692494927398
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 796,
+          "total_tokens": 3268
+        },
+        "composite_score": 0.9852818979830829,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 32.874696254730225,
+          "chars": 2724,
+          "words": 411,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Left pelvic lymph node\". Received is an 8 x 7 x 1 cm fragment of\ntan-yellow fibrofatty tissue with multiple lymph node candidates. The specimen\nis dissected for lymph node candidates which are submitted as follows:\n\nBLOCK SUMMARY:\n\nA1-A2- multiple lymph node candidates.\nA3-A4- one lymph node candidate.\nA5-A11- multiple lymph node candidates.\n\nB. \"Right pelvic node\". Received is an 8.5 x 6.5 x 2.5 cm aggregate of\nfibrofatty tissue which contains multiple lymph node candidates. The lymph\nnodes are dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nB1-3 one lymph node candidate each, bisected.\nB4- multiple lymph node candidates.\nB5- two lymph node candidates.\nB6-8 one lymph node candidate, quadrasected.\nB9-10 one lymph node candidate each, bisected.\nB11- multiple lymph node candidates.\n\nC. \"Uterus\". Received is a 167.4 gram, 8 x 7.5 x 5 cm uterus with attached\nbilateral adnexa which is most remarkable for heaped shaggy pink-gray mucosa\non the anterior and posterior endometrium (anterior=3.7 x 2.9 cm and posterior\n3.9 x 1.1 cm). There appears to be invasion of the underlying myometrium\nsuperficially.\n\nThe remaining endometrial cavity (3.2 cm from cornu to cornu and 7 cm in\nlength), has a 0.2 cm thick endometrium overlying a 2.6 cm mildly trabecular\npink myometrium. The uterine serosa is smooth and glistening with no\nadhesions. The endocervix and ectocervix are also smooth and glistening with a\n0.4 cm patent cervical os.\n\nThe left adnexa consists of a tan-white bosselated ovary (2.7 x 1.3 x 0.9 cm)\nand a tan-pink fimbriated fallopian tube (6.7 x 0.5 cm) which has multiple\nsmall paratubal cysts (largest=0.6 cm in greatest dimension). Sectioning of\nthe ovary demonstrates an unremarkable tan-pink cut surface with corpora\nalbuginea. Sectioning of the fallopian tube is unremarkable.\n\nThe right adnexa consists of tan-white bosselated ovary (2.3 x 1.7 x 1.7 cm)\nwhich is on section grossly unremarkable, and fimbriated fallopian tube (6.7 x\n0.5 cm to 0.9 cm) which is also normal.\n\nBLOCK SUMMARY:\nC1-C2- anterior and posterior cervix, respectively.\nC3-C4- anterior and posterior lower uterine segment, respectively.\nC5-C6- anterior and posterior endomyometrium, respectively.\nC7-C8- additional anterior endomyometrium.\nC9- additional posterior endomyometrium.\nC10- right ovary and fallopian tube.\nC11- left ovary and fallopian tube.\n\nCriteria Yes No\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is Qualified DISQUALIFIED\nR. Viewer\n",
+          "confidence": {
+            "mean_probability": 0.9864412526066602,
+            "mean_log_probability": -0.018742444025157234,
+            "perplexity": 1.0189191860952027,
+            "min_probability": 0.16632692494927398
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 796,
+            "total_tokens": 3268
+          },
+          "composite_score": 0.9852818979830829,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 27.039902687072754,
+          "chars": 2788,
+          "words": 421,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSitz: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Left pelvic lymph node\". Received is an 8 x 7 x 1 cm fragment of\ntan-yellow fibrofatty tissue with multiple lymph node candidates. The specimen\nis dissected for lymph node candidates which are submitted as follows:\n\nBLOCK SUMMARY:\n\nA1-A2- multiple lymph node candidates.\nA3-A4- one lymph node candidate.\nA5-A11- multiple lymph node candidates.\n\nB. \"Right pelvic node\". Received is an 8.5 x 6.5 x 2.5 cm aggregate of\nfibrofatty tissue which contains multiple lymph node candidates. The lymph\nnodes are dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nB1-3 one lymph node candidate each, bisected.\nB4- multiple lymph node candidates.\nB5- two lymph node candidates.\nB6-8 one lymph node candidate, quadrasected.\nB9-10 one lymph node candidate each, bisected.\nB11- multiple lymph node candidates.\n\nC. \"Uterus\". Received is a 167.4 gram, 8 x 7.5 x 5 cm uterus with attached\nbilateral adnexa which is most remarkable for heaped shaggy pink-gray mucosa\non the anterior and posterior endometrium (anterior=3.7 x 2.9 cm and posterior\n3.9 x 1.1 cm). There appears to be invasion of the underlying myometrium\nsuperficially.\n\nThe remaining endometrial cavity (3.2 cm from cornu to cornu and 7 cm in\nlength), has a 0.2 cm thick endometrium overlying a 2.6 cm mildly trabecular\npink myometrium. The uterine serosa is smooth and glistening with no\nadhesions. The endocervix and ectocervix are also smooth and glistening with a\n0.4 cm patent cervical os.\n\nThe left adnexa consists of a tan-white bosselated ovary (2.7 x 1.3 x 0.9 cm)\nand a tan-pink fimbriated fallopian tube (6.7 x 0.5 cm) which has multiple\nsmall paratubal cysts (largest=0.6 cm in greatest dimension). Sectioning of\nthe ovary demonstrates an unremarkable tan-pink cut surface with corpora\nalbugin ea. Sectioning of the fallopian tube is unremarkable.\n\nThe right adnexa consists of tan-white bosselated ovary (2.3 x 1.7 x 1.7 cm)\nwhich is on section grossly unremarkable, and fimbriated fallopian tube (6.7 x\n0.5 cm to 0.9 cm) which is also normal.\n\nBLOCK SUMMARY:\nC1-C2- anterior and posterior cervix, respectively.\nC3-C4- anterior and posterior lower uterine segment, respectively.\nC5-C6- anterior and posterior endomyometrium, respectively.\nC7-C8- additional anterior endomyometrium.\nC9- additional posterior endomyometrium.\nC10- right ovary and fallopian tube.\nC11- left ovary and fallopian tube.\n\nCriteria Yes No\nDiagnosis Discrepancy __X__\nPrimary Tumor Site Discrepancy __X__\nHIPAA Discrepancy __X__\nPrior Malignancy History ____\nDual/Synchronous Primar/ Noted ____\nCase is (circle): QUALIFIED DISQUALIFIED\nR. Viewer (initials) Date Reviewed:",
+          "confidence": {
+            "mean_probability": 0.9773275727309689,
+            "mean_log_probability": -0.03199968995098039,
+            "perplexity": 1.0325171851741277,
+            "min_probability": 0.15251504989010872
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 817,
+            "total_tokens": 3289
+          },
+          "composite_score": 0.9264343297778508
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 29.84836435317993,
+          "chars": 2753,
+          "words": 417,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Left pelvic lymph node\". Received is an 8 x 7 x 1 cm fragment of\ntan-yellow fibrofatty tissue with multiple lymph node candidates. The specimen\nis dissected for lymph node candidates which are submitted as follows:\n\nBLOCK SUMMARY:\n\nA1-A2- multiple lymph node candidates.\nA3-A4- one lymph node candidate.\nA5-A11- multiple lymph node candidates.\n\nB. \"Right pelvic node\". Received is an 8.5 x 6.5 x 2.5 cm aggregate of\nfibrofatty tissue which contains multiple lymph node candidates. The lymph\nnodes are dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nB1-3 one lymph node candidate each, bisected.\nB4- multiple lymph node candidates.\nB5- two lymph node candidates.\nB6-8 one lymph node candidate, quadrasected.\nB9-10 one lymph node candidate each, bisected.\nB11- multiple lymph node candidates.\n\nC. \"Uterus\". Received is a 167.4 gram, 8 x 7.5 x 5 cm uterus with attached\nbilateral adnexa which is most remarkable for heaped shaggy pink-gray mucosa\non the anterior and posterior endometrium (anterior=3.7 x 2.9 cm and posterior\n3.9 x 1.1 cm). There appears to be invasion of the underlying myometrium\nsuperficially.\n\nThe remaining endometrial cavity (3.2 cm from cornu to cornu and 7 cm in\nlength), has a 0.2 cm thick endometrium overlying a 2.6 cm mildly trabecular\npink myometrium. The uterine serosa is smooth and glistening with no\nadhesions. The endocervix and ectocervix are also smooth and glistening with a\n0.4 cm patent cervical os.\n\nThe left adnexa consists of a tan-white bosselated ovary (2.7 x 1.3 x 0.9 cm)\nand a tan-pink fimbriated fallopian tube (6.7 x 0.5 cm) which has multiple\nsmall paratubal cysts (largest=0.6 cm in greatest dimension). Sectioning of\nthe ovary demonstrates an unremarkable tan-pink cut surface with corpora\nalbugin ea. Sectioning of the fallopian tube is unremarkable.\n\nThe right adnexa consists of tan-white bosselated ovary (2.3 x 1.7 x 1.7 cm)\nwhich is on section grossly unremarkable, and fimbriated fallopian tube (6.7 x\n0.5 cm to 0.9 cm) which is also normal.\n\nBLOCK SUMMARY:\nC1-C2- anterior and posterior cervix, respectively.\nC3-C4- anterior and posterior lower uterine segment, respectively.\nC5-C6- anterior and posterior endomyometrium, respectively.\nC7-C8- additional anterior endomyometrium.\nC9- additional posterior endomyometrium.\nC10- right ovary and fallopian tube.\nC11- left ovary and fallopian tube.\n\nCriteria Yes No\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary/ Noted\nCase is (rclc): QUALIFIED DISQUALIFIED\nR. Viewer (miti) Date Row ed:",
+          "confidence": {
+            "mean_probability": 0.9756857851923182,
+            "mean_log_probability": -0.03974192830655131,
+            "perplexity": 1.04054220504987,
+            "min_probability": 0.07341690915012686
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 810,
+            "total_tokens": 3282
+          },
+          "composite_score": 0.9209506131370768
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 20.928300142288208,
+        "chars": 2430,
+        "words": 335,
+        "text": "Page 2 of 3\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph\nnode dissections.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component.to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"LEFT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nEIGHTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/18).\n\nB. \"RIGHT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nTEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/10).\n\nC. \"UTERUS\" (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):\n\nWELL DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM.\nTUMOR SITE: DIFFUSE.\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 1 OF 3.\nTUMOR SIZE: 3.7 AND 3.9 CM (TWO LARGEST GROSS NODULES).\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: SEE COMMENT.\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\nNEOPLASIA (EIN).\nREMAINING MYOMETRIUM: ADENOMYOSIS.\nCERVIX: FREE OF TUMOR.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT AND LEFT OVARIES: FREE OF TUMOR.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT FALLOPIAN TUBE: FREE-FLOATING TUMOR IN LUMEN, SEE COMMENT.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe depth of invasion is difficult to determine due to extensive\ninvolvement of adenomyosis. There is carcinoma present at a maximum depth of\n0.7 centimeters in a 2.6 centimeter thick myometrium, but the vast majority of\nthe tumor in the myometrium is within adenomyosis, which is considered\nnon-invasive disease. There are foci that likely represent invasion, but\nthese are very small areas and the overall depth of true invasion is likely no\nmore than 0.1-0.3 centimeters.",
+        "confidence": {
+          "mean_probability": 0.994382864809827,
+          "mean_log_probability": -0.007550635343618513,
+          "perplexity": 1.0075792132725574,
+          "min_probability": 0.30825065871174473
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 714,
+          "total_tokens": 3186
+        },
+        "composite_score": 0.9940047595991692,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 20.928300142288208,
+          "chars": 2430,
+          "words": 335,
+          "text": "Page 2 of 3\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph\nnode dissections.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component.to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"LEFT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nEIGHTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/18).\n\nB. \"RIGHT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nTEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/10).\n\nC. \"UTERUS\" (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):\n\nWELL DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM.\nTUMOR SITE: DIFFUSE.\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 1 OF 3.\nTUMOR SIZE: 3.7 AND 3.9 CM (TWO LARGEST GROSS NODULES).\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: SEE COMMENT.\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\nNEOPLASIA (EIN).\nREMAINING MYOMETRIUM: ADENOMYOSIS.\nCERVIX: FREE OF TUMOR.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT AND LEFT OVARIES: FREE OF TUMOR.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT FALLOPIAN TUBE: FREE-FLOATING TUMOR IN LUMEN, SEE COMMENT.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe depth of invasion is difficult to determine due to extensive\ninvolvement of adenomyosis. There is carcinoma present at a maximum depth of\n0.7 centimeters in a 2.6 centimeter thick myometrium, but the vast majority of\nthe tumor in the myometrium is within adenomyosis, which is considered\nnon-invasive disease. There are foci that likely represent invasion, but\nthese are very small areas and the overall depth of true invasion is likely no\nmore than 0.1-0.3 centimeters.",
+          "confidence": {
+            "mean_probability": 0.994382864809827,
+            "mean_log_probability": -0.007550635343618513,
+            "perplexity": 1.0075792132725574,
+            "min_probability": 0.30825065871174473
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 714,
+            "total_tokens": 3186
+          },
+          "composite_score": 0.9940047595991692,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 22.652418613433838,
+          "chars": 2430,
+          "words": 335,
+          "text": "Page 2 of 3\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph\nnode dissections.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component.to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"LEFT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nEIGHTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/18).\n\nB. \"RIGHT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nTEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/10).\n\nC. \"UTERUS\" (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):\n\nWELL DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM.\nTUMOR SITE: DIFFUSE.\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 1 OF 3.\nTUMOR SIZE: 3.7 AND 3.9 CM (TWO LARGEST GROSS NODULES).\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: SEE COMMENT.\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\nNEOPLASIA (EIN).\nREMAINING MYOMETRIUM: ADENOMYOSIS.\nCERVIX: FREE OF TUMOR.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT AND LEFT OVARIES: FREE OF TUMOR.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT FALLOPIAN TUBE: FREE-FLOATING TUMOR IN LUMEN, SEE COMMENT.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe depth of invasion is difficult to determine due to extensive\ninvolvement of adenomyosis. There is carcinoma present at a maximum depth of\n0.7 centimeters in a 2.6 centimeter thick myometrium, but the vast majority of\nthe tumor in the myometrium is within adenomyosis, which is considered\nnon-invasive disease. There are foci that likely represent invasion, but\nthese are very small areas and the overall depth of true invasion is likely no\nmore than 0.1-0.3 centimeters.",
+          "confidence": {
+            "mean_probability": 0.9943452476059623,
+            "mean_log_probability": -0.007662025245441795,
+            "perplexity": 1.0076914536733106,
+            "min_probability": 0.2936754596816694
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 714,
+            "total_tokens": 3186
+          },
+          "composite_score": 0.9442211385954359
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 21.642710208892822,
+          "chars": 2434,
+          "words": 335,
+          "text": "Page 2 of 3\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph\nnode dissections.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component.to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"LEFT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nEIGHTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/18).\n\nB. \"RIGHT PELVIC LYMPH NODES\" (LYMPHADENECTOMY):\n\nTEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/10).\n\nC. \"UTERUS\" (HYSTERECTOMY, BILATERAL SALPINGO-OOPHORECTOMY):\n\nWELL DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM.\nTUMOR SITE: DIFFUSE.\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 1 OF 3.\nTUMOR SIZE: 3.7 AND 3.9 CM (TWO LARGEST GROSS NODULES).\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: SEE COMMENT.\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\n    NEOPLASIA (EIN).\nREMAINING MYOMETRIUM: ADENOMYOSIS.\nCERVIX: FREE OF TUMOR.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nRIGHT AND LEFT OVARIES: FREE OF TUMOR.\nLEFT FALLOPIAN TUBE: FREE OF TUMOR.\nRIGHT FALLOPIAN TUBE: FREE-FLOATING TUMOR IN LUMEN, SEE COMMENT.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\nCOMMENT:\nThe depth of invasion is difficult to determine due to extensive\ninvolvement of adenomyosis. There is carcinoma present at a maximum depth of\n0.7 centimeters in a 2.6 centimeter thick myometrium, but the vast majority of\nthe tumor in the myometrium is within adenomyosis, which is considered\nnon-invasive disease. There are foci that likely represent invasion, but\nthese are very small areas and the overall depth of true invasion is likely no\nmore than 0.1-0.3 centimeters.",
+          "confidence": {
+            "mean_probability": 0.993878337674319,
+            "mean_log_probability": -0.0093518837535014,
+            "perplexity": 1.0093957492534238,
+            "min_probability": 0.11814991438254141
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 715,
+            "total_tokens": 3187
+          },
+          "composite_score": 0.9429584203813733
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

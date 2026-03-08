@@ -1,0 +1,103 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0K6\TCGA-B5-A0K6.pdf
+Processing Date: 2026-03-08 17:48:19
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 2
+
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri. Grade 1 endometrial carcinoma per biopsy.
+
+GROSS EXAMINATION:
+A. "Uterus and cervix (AF1)". Received fresh for frozen section and later placed in formalin is a 61 gm, 8 x 4.5 x 2 cm uterus with a 2 cm in diameter cervix. The opened uterus discloses an exophytic 2.6 x 1.5 x 0.3 cm tan-white tumor without myometrial invasion located in the corpus. The myometrium contains three well circumscribed tan-white leiomyomas maximally 0.7 cm in size. The cervix is unremarkable. The right fallopian tube is attached, measuring 9 cm long x 0.8 cm in average diameter and displays ten paratubal cysts measuring 0.5 cm.
+
+A1- frozen section remnant AF1 (full-thickness endomyometrium)
+A2- anterior endomyometrium
+A3-4 remaining anterior endometrium with myometrial nodules (A4)
+A5- full thickness posterior endomyometrium
+A6-8 posterior endometrium, entirely submitted
+A9- right fallopian tube
+A10- anterior cervix
+A11- posterior cervix
+
+B. "Right tube and ovary", received fresh and placed in formalin is a 3.5 x 3 x 2.5 cm ovary with extensive calcifications. Sectioning demonstrates a viscus tan-yellow material and hair (B1, with B2 decalcified).
+
+C. "Left tube and ovary", received is a 5.2 x 3.5 x 3.3 cm ovary, with an attached 6.5 cm long x 0.9 cm in average diameter discontinued fallopian tube. The ovary shows multilocular architecture of thick yellow material and clear fluid (C1-2). The fallopian tube displays two paratubal cysts measuring up to 0.2 cm (C3).
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus":
+AF1 - endometrioid adenocarcinoma, grade 1.
+No or minimal invasion of myometrium. (Dr. ).
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY & OOPHORECTOMY
+
+PATHOLOGIC STAGE (AJCC 7th Edition): pT1A (FIGO 2008) pNX pMX
+
+NOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.
+
+UUID: B7F34F79-DB7F-4C98-B1B3-80C3187AE91C
+TCGA-B5-A06X-01A-PR Redacted
+
+[barcode]
+
+Criteria
+Yes No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HRPA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case #  12-  QUALIFIED  /  DISQUALIFIED
+Review  2/25/11
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 2
+
+
+DIAGNOSIS:
+A. UTERUS: 61 GRAMS
+      ENDOMETRIUM:
+            TUMOR SITE: CORPUS
+            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+            FIGO GRADE: 1/
+            TUMOR SIZE: 2.6 X 1.5 X 0.3 CM.
+            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.1 CM, IN A 1.5 CM THICK WALL.
+            LYMPHATIC/VASCULAR INVASION: NEGATIVE
+            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: HYPERPLASTIC
+      REMAINING MYOMETRIUM: LEIOMYOMATA
+      CERVIX: NO PATHOLOGIC DIAGNOSIS.
+      SEROSA: NO PATHOLOGIC DIAGNOSIS.
+      SPECIMEN MARGINS: NOT INVOLVED
+
+B. RIGHT OVARY: MATURE CYSTIC TERATOMA (DERMOID CYST)
+      RIGHT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+
+C. LEFT OVARY: MATURE CYSTIC TERATOMA (DERMOID CYST)
+      LEFT FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+Performed by:  [redacted]
+
+[redacted]
+
+[redacted]

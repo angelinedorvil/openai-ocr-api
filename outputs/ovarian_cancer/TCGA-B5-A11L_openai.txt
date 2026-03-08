@@ -1,0 +1,137 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11L\TCGA-B5-A11L.pdf
+Processing Date: 2026-03-08 19:01:32
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+1C0-0-3  
+Adenocarcinoma, endometrioid, NOS 8380/3  
+Site: endometrium C54.1  2/25/11 hu  
+
+Surg Path  
+
+CLINICAL HISTORY:  
+Malignant neoplasm of the corpus uteri.  
+
+GROSS EXAMINATION:  
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1)". Received fresh is a  
+55.5 gram, 8.6 x 5.5 x 2.5 cm uterus with bilateral adnexa. The opened  
+specimen reveals a tan exophytic endometrial tumor (anterior and posterior  
+endometrium) that diffusely involves the entire cavity and invades 1.2 cm into  
+the 1.7 cm thick myometrium. Anteriorly the tumor extends to within 0.2 cm of  
+the internal cervical os. The cervix and paracervical soft tissue are  
+unremarkable. The remainder of the myometrium and cervical surface of the  
+uterus are also unremarkable. The right ovary and fallopian tube (2.1/5 cm)  
+contain a 0.6 cm ovarian surface nodule that has a white cut surface. The  
+remainder of the right ovary contains multiple cysts. The fallopian tube is  
+unremarkable. The left ovary and fallopian tube (1.5 cm/4 cm) are  
+unremarkable.  
+
+BLOCK SUMMARY:  
+A1- frozen section remnant AF1.  
+A2- tumor with maximal depth of invasion (from anterior endomyometrium).  
+A3- anterior cervix.  
+A4-A5- posterior endomyometrium with tumor.  
+A6- posterior cervix.  
+A7- right fallopian tube and ovary.  
+A8- left fallopian tube and ovary.  
+
+B. "Left pelvic node". Received fresh and placed in formalin is a 4 x 4 x 2 cm  
+aggregate of tan fibrofatty tissue. Multiple lymph node candidates are  
+dissected out (1.5 cm).  
+
+BLOCK SUMMARY:  
+B1- three lymph node candidates.  
+B2- two lymph node candidates.  
+B3- two lymph node candidates.  
+B4- two lymph node candidates, bisected (one blue).  
+
+C. "Right pelvic node". Received fresh and placed in formalin is a 5.5 x 4 x 2  
+cm aggregate of fibrofatty tissue. Multiple lymph node candidates are found up  
+to 2 cm.  
+
+BLOCK SUMMARY:  
+C1- two lymph node candidates.  
+C2- two lymph node candidates.  
+C3- one lymph node candidate.  
+C4- one lymph node candidate.  
+
+D. "Omentum". Received fresh and placed in formalin is a 10 x 8 x 2 cm  
+aggregate of adipose tissue. The specimen is grossly unremarkable.  
+Representative sections are submitted in  
+
+INTRA OPERATIVE CONSULTATION:  
+A. "Uterus, bilateral tubes and ovaries":  
+AF1 (anterior endomyometrium, full thickness)-  
+adenocarcinoma, FIGO grade 2 & area suspicious for serous carcinoma  
+invades 0.5 cm in 2.2 cm thick myometrium (cervix neg) (Dr
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+.transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 56 GRAMS
+ENDOMETRIUM:
+TUMOR SITE: DIFFUSE
+HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+FIGO GRADE: 2;
+TUMOR SIZE: 6 X 3.5 X 2 CM (INVOLVES ENTIRE CAVITY).
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.7 CM, IN A 2 THICK WALL.
+LYMPHATIC/VASCULAR INVASION: NOT IDENTIFIED
+ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NA
+REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS
+CERVIX: NO PATHOLOGIC DIAGNOSIS
+SEROSA: NO PATHOLOGIC DIAGNOSIS
+SPECIMEN MARGINS: NOT INVOLVED
+
+SPECIMENS FREE OF TUMOR:
+A. OVARIES AND FALLOPIAN TUBES, BILATERAL
+B. LEFT PELVIC NODE: NO TUMOR IN 9 LYMPH NODES (0/9).
+C. RIGHT PELVIC LYMPH NODE: FAT ONLY
+D. OMENTUM: NO PATHOLOGIC DIAGNOSIS
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+ADDENDUM 1:
+The remainder of the tissue in container C is submitted in block C5-C8.
+Because of prior dissection of this tissue, it is difficult to know exactly
+how many lymph nodes are present in these additional blocks, but there are
+four lymph node profiles without evidence of carcinoma. In addition, the
+original slides are reviewed from part C, C1-C4, are reviewed. In total, there
+are eight lymph nodes, with no evidence of metastatic carcinoma (0/8).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+CI ADDENDUM 1:
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+

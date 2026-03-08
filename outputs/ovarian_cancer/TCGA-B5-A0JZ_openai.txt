@@ -1,0 +1,194 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JZ\TCGA-B5-A0JZ.pdf
+Processing Date: 2026-03-08 17:10:15
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 4
+
+[Redacted]
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neocorpus uteri 182.0.
+
+GROSS EXAMINATION:
+A. "Right tube and ovary", received fresh for gross consultation diagnosis is a 154 gram, 8 x 7 x 7 cm serous filled cyst with no residual ovary (A1-2). The attached tube (4 cm in length x 0.8 cm in diameter) and fimbria are grossly unremarkable (A3).
+
+B. "Uterus and cervix (BF1)", received is a 257 gram, 11 x 7.5 x 7.5 cm hysterectomy specimen with attached cervix (2.5 cm). The anterior and posterior cervix (3 cm long x 1 cm in diameter) is tan-brown and has a herringbone appearance and is submitted in blocks B1-2, respectively. The endometrial cavity (9.5 x 6 cm) is entirely covered by a white-tan, friable mass which grossly comes within 0.5 cm of both the anterior and posterior cervix. Sectioning reveals an endometrium with the average thickness of 3 cm and a myometrium of 2 cm. The deepest invasion is grossly 1.4 cm into a 2 cm myometrium (B3-BF1).
+
+BLOCK SUMMARY:
+
+B1- anterior cervix
+B2- posterior cervix
+B3- BF1
+B4-5- anterior endomyometrium, full-thickness deepest invasion
+B6- posterior endomyometrium
+B7- representative section of tumor
+
+C. "Left tube and ovary", received is a 36 gram, 4.5 x 3.5 x 3 cm thin-walled clear fluid-filled, uniloculated ovarian cyst with no residual ovary (C1-2). The fallopian tube (3.5 cm long x 0.5 cm in diameter) has attached fimbria and both are grossly unremarkable (C3).
+
+D. "Right round ligament", received is a 2.8 x 1.2 x 0.9 cm aggregate of fibrofatty tissue. The specimen is sectioned and submitted in its entirety in D1-2.
+
+E. "Right pelvic lymph node", received is a 7.8 x 4 x 1.8 cm aggregate of fibrofatty tissue which is dissected for nodes and submitted as follows:
+
+BLOCK SUMMARY:
+E1-2- one lymph node each, bisected
+E3- one lymph node, bisected
+E4- two lymph nodes
+E5- one lymph node, bisected
+
+F. "Right obturator", received is a 5 x 3 x 2.8 cm aggregate of fibrofatty tissue which contains one 2.5 cm lymph node, submitted in toto with surrounding tissue, in F1-F7.
+
+G. "Left external iliac node", received is a 5 x 4.5 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+G1- four lymph nodes
+
+[Redacted]
+
+Criteria Yes No
+Diagnosis Discrepancy X
+Primary Tumor Site Discrepancy X
+HIPAA Discrepancy X
+Prior Malignancy History X
+Dual/Synchronous Primary [redacted]
+Case is (circle) QUALIFIED / DISQUALIFIED
+Reviewed in [redacted] Date Reviewed: [redacted]
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 4
+
+G2- one lymph node, bisected
+G3-5- one lymph node, trisected
+
+H. "Right aortic node", received is a 3 x 2.8 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+H1- one lymph node
+H2- one lymph node
+H3- two lymph nodes
+
+I. "Left obturator", received is a 5 x 2 x 2 cm aggregate of fibrofatty tissue which is dissected. One lymph node is sectioned and submitted in 11-3, 14 one lymph node.
+
+J. "High aortic node", received is a 1 x 1 x 0.8 cm aggregate of fibrofatty tissue which is bisected and submitted in its entirety in J1.
+
+K. "Left aortic node", received is a 3.2 x 2.5 x 1 cm aggregate of fibrofatty tissue which is dissected and submitted as follows:
+
+BLOCK SUMMARY:
+
+K1- one lymph node, bisected
+K2- one lymph node
+K3- remaining fibrofatty tissue
+
+INTRA OPERATIVE CONSULTATION:
+A. "Right tube and ovary": AF1- grossly benign (Dr.
+
+B. "Uterus and cervix": BF1- (thickest invasion posterior wall, grossly 1.4 cm invasion into a 2 cm thick wall) endometrioid adenocarcinoma grade II approximately 50% invasion
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTEROSALPINGO-OOPHORECTOMY AND NODE DISSECTION
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN1 pMX
+
+NOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "RIGHT TUBE AND OVARY":
+
+OVARY WITH BENIGN SIMPLE CYST.
+FALLOPIAN TUBE WITH NO PATHOLOGIC DIAGNOSIS.
+THERE IS NO EVIDENCE OF MALIGNANCY.
+
+B. UTERUS: 257 GRAMS
+ENDOMETRIUM:
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 4
+
+TUMOR SITE: DIFFUSE  ✓
+HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+FIGO GRADE: 3 ✓
+TUMOR SIZE: APPROXIMATELY 8.5 X 5.5 CM.
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.4 CM, IN A 2.3 THICK WALL.
+LYMPHATIC/VASCULAR INVASION: ABSENT
+ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS
+REMAINING MYOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS.
+CERVIX: NEGATIVE FOR TUMOR.
+SEROSA: NEGATIVE FOR TUMOR.
+SPECIMEN MARGINS: NOT INVOLVED
+
+C. "LEFT TUBE AND OVARY":
+
+OVARY WITH BENIGN SIMPLE CYST.
+FALLOPIAN TUBE WITH ADHESIONS.
+THERE IS NO EVIDENCE OF MALIGNANCY.
+
+D. "RIGHT ROUND LIGAMENT":
+
+NEGATIVE FOR CARCINOMA.
+
+E. "RIGHT PELVIC LYMPH NODE" (DISSECTION):
+
+SIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).
+
+F. "RIGHT OBTURATOR" (NODE DISSECTION):
+
+ONE OF FIVE LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (1/5).
+MAXIMUM OF SIZE OF METASTASES: 8 MM.
+EXTRANODAL EXTENSION: ABSENT.
+
+G. "LEFT EXTERNAL ILIAC NODE" (DISSECTION):
+
+SIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).
+
+H. "RIGHT AORTIC NODE" (DISSECTION):
+
+FOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).
+
+I. "LEFT OBTURATOR":
+
+TWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+
+J. "HIGH AORTIC NODE":
+
+ONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).
+
+K. "LEFT AORTIC NODE":
+
+THREE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).
+REPORT REVISED ON       AT       BY
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+================================================================================
+PAGE 4
+================================================================================
+Page 4 of 4
+
+CI ADDENDUM 1:
+Please see Image Cytometry Repo for results of supplementary tests.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+
+
+
+https://

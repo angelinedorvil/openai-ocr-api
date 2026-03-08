@@ -1,0 +1,224 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0K3\TCGA-B5-A0K3.pdf
+Processing Date: 2026-03-08 17:37:58
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 4
+
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm of corpus uteri. Laparoscopic total hysterectomy, BSO, and lymph node sampling.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1-3)", received is a 280 gram, 10.6 x 6.8 x 5.5 cm partially morcellated uterus. The specimen is unoriented and contains one portion of the cervix (posterior cervix) which is detached from the specimen. The endocervical canal (2.5 x 1 cm) is white-tan and has an herringbone pattern. The endometrial canal (not able to be measured) has a friable, soft endometrium which begins roughly 2.5 cm from the lower uterine segment. Sectioning reveals a 0.6 cm endometrium overlying a 2 cm myometrium. The friable endometrium does not appear to invade the myometrium. There are multiple (greater than 20) white, whorled lesions in the myometrium, the largest of which measures 2 x 2 x 1.9 cm. Sectioning of these white, whorled lesions does not reveal any hemorrhage or necrosis. The right tube (partially morcellated) and measures 3 cm in length x 0.6 cm in diameter and has an unattached fimbriae. Sectioning reveals an unremarkable tube. The right ovary (2.5 x 1.2 x 1 cm) is white, cerebriform, and is grossly unremarkable. The left tube is also interrupted but measures 2.5 cm in length x 0.6 cm in diameter. Sectioning reveals an unremarkable tube and fimbriae. The left ovary (2.6 x 1.3 x 0.8 cm) is white, cerebriform, and upon sectioning contains several corpora albicantia. The serosal surface is, in areas where it is not morcellated, smooth, tan, and grossly unremarkable.
+
+BLOCK SUMMARY:
+
+A1-2- (AF1-2) full-thickness posterior endomyometrium
+A3- endomyometrium (AF3)
+A4- anterior cervix
+A5- posterior cervix
+A6- anterior lower uterine segment
+A7- posterior lower uterine segment
+A8- posterior endomyometrium
+A9-A10- anterior endomyometrium with deepest invasion and leiomyoma
+A11- representative section of endometrium
+A12- right tube and fimbriae
+A13- right ovary
+A14- left tube and fimbriae
+A15- left ovary
+A16-A17- posterior endomyometrium bisected.
+A18-A19- anterior endomyometrium, bisected.
+A20- leiomyoma with overlying endometrium.
+
+B. "Posterior vaginal cuff", received is a 3.5 x 2 x 1.5 cm aggregate of fibrofatty tissue which is unoriented. The entire specimen is 
+
+C. "Left pelvic nodes", received is a 5 x 2.5 x 1 cm aggregate of fibroadipose tissue, which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+C1- three lymph node candidates
+C2- two lymph node candidates, one blue and bisected
+C3- one lymph node candidate, bisected
+C4- two lymph node candidates, bisected, one inked blue
+C5-6- one lymph node candidate, bisected
+
+Criteria
+Diagnosis: Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circ.): QUALIFIED DISQUALIFIED
+Review initials Date reviewed 3/11
+
+Redacted
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 4
+
+C7- remaining fibroadipose tissue
+
+D. "Right external iliac lymph node", received is a 3.2 x 2.2 x 1.8 cm aggregate of fibroadipose tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+D1- two lymph node candidates
+D2- two lymph node candidates, one bisected, inked blue
+D3- remaining fibroadipose tissue
+
+E. "Right obturator nodes", received is a 5.8 x 4.2 x 1.4 cm aggregate of fibroadipose tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+E1- three lymph node candidates
+E2- two lymph node candidates
+E3- one lymph node candidate, bisected
+E4- one lymph node candidate, bisected
+E5-6- remaining fibroadipose tissue
+
+F. "Right aortic lymph node (low)", received is a 3.8 x 2 x 0.6 cm aggregate of fibroadipose tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+F1- three lymph node candidates
+F2- three lymph node candidates
+F3- remaining fibroadipose tissue
+
+G. "Right aortic lymph node (high)", received is a 1.5 x 1 x 0.5 cm aggregate of fibroadipose tissue which is submitted in its entirety in block G1.
+
+H. "Left aortic lymph node", received fresh and placed in formalin. 3:00 pm is a 3 x 1.5 x 0.8 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:
+
+BLOCK SUMMARY:
+
+H1- three lymph node candidates.
+H2- remaining fibroadipose tissue
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, bilateral tubes and ovaries": AF1-2- (full-thickness posterior endomyometrium)-
+polyp with atypical hyperplasia, no invasive carcinoma is seen on two sections (Dr.
+AF3- endometrioid adenocarcinoma FIGO 2 of 3, no invasion seen (Dr.
+).
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+IMMUNOHISTOCHEMICAL FINDINGS:
+The immunoperoxidase tests reported herein were developed and their performance characteristics were determined by the
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 4
+
+
+                Some of them may not be cleared or approved by
+the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical
+purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvements Amendments
+of 1988 (CLIA) as qualified to perform high complexity clinical testing.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERO-SALPINGO-OOPHORECTOMY DISSECTION
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pTlb pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "UTERUS, CERVIX, BILATERAL TUBES AND OVARIES (AF1-AF3)":
+
+        UTERUS: 280 GRAMS
+                ENDOMETRIUM:
+                        TUMOR SITE: DIFFUSE
+                        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA, WITH FOCAL PAPILLARY
+                        SEROUS DIFFERENTIATION, SEE COMMENT.
+        FIGO GRADE: 3
+        TUMOR SIZE: 2.0 CM (SINGLE SLIDE MAXIMUM MEASUREMENT)
+        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 2.0 CM THICK WALL.
+        LYMPHATIC/VASCULAR INVASION: POSSIBLY PRESENT, SEE COMMENT
+        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL POLYP WITH GENERALLY
+                                        INACTIVE ENDOMETRIUM.
+        REMAINING MYOMETRIUM: LEIOMYOMATA
+        CERVIX: NEGATIVE FOR TUMOR
+        SEROSA: NEGATIVE FOR TUMOR.
+        SPECIMEN MARGINS: NOT INVOLVED
+
+        RIGHT AND LEFT FALLOPIAN TUBES: NEGATIVE FOR CARCINOMA.
+        RIGHT OVARY: BENIGN BRENNER TUMOR (1 CM), NEGATIVE FOR CARCINOMA.
+        LEFT OVARY: NEGATIVE FOR CARCINOMA.
+
+B. "POSTERIOR VAGINAL CUFF":
+
+        NEGATIVE FOR CARCINOMA.
+
+C. "LEFT PELVIC NODES" (DISSECTION):
+
+        ELEVEN LYMPH NODES, NEGATIVE FOR CARCINOMA (0/11).
+
+D. "RIGHT EXTERNAL ILIAC LYMPH NODES" (DISSECTION):
+
+        SIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).
+
+E. "RIGHT OBTURATOR NODES" (DISSECTION):
+
+        TEN LYMPH NODES, NEGATIVE FOR CARCINOMA (0/10).
+
+
+================================================================================
+PAGE 4
+================================================================================
+Page 4 of 4
+
+F. "RIGHT AORTIC LYMPH NODE (LOW)" (DISSECTION):
+
+      SEVEN LYMPH NODES, NEGATIVE FOR CARCINOMA (0/7).
+
+G. "RIGHT AORTIC NODE (HIGH)":
+
+      BENIGN NERVE AND GANGLION.
+      NEGATIVE FOR CARCINOMA OR LYMPH NODES.
+
+H. "LEFT AORTIC LYMPH NODE" (DISSECTION):
+
+      FOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4), SEE COMMENT.
+
+COMMENT: The adenocarcinoma in part A has areas of definitive endometrioid
+differentiation, but in many areas is very poorly differentiated, not
+exhibiting a definite endometrioid pattern. Some areas are consistent with
+papillary serous carcinoma. Immunoperoxidase stain for p53 on block All is
+diffusely and strongly positive, consistent with serous tumor. Only
+superficial myometrial invasion is seen. The tumor does involve the lower
+uterine segment, but not the cervix. All of the grossly visible tumor has been
+submitted (tumor size was grossly difficult to determine). There are foci of
+tumor cells within vascular lumens, but not directly attached to the vessel
+wall, which is suggestive of, but not definite for, vascular invasion.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+[Redacted]
+[Redacted]
+[Redacted]

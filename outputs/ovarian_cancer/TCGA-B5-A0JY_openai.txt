@@ -1,0 +1,157 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JY\TCGA-B5-A0JY.pdf
+Processing Date: 2026-03-08 17:07:21
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+ICD-0-3
+Carcinoma, undifferentiated, NOS 80203
+Site: Endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri, 182.0.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, right and left ovary and tubes (AF1)". Received fresh for frozen section is a 734 gram, 10.5 x 13.5 x 14.5 cm hysterectomy specimen with bilateral attached fallopian tubes and ovaries. The serosal surface is discolored white and has pale plaque-like lesions that are focally hemorrhagic. Sectioning reveals an endometrial cavity that is grossly distorted by an infiltrating white mass with irregular borders that extends through the full thickness of the myometrium to the serosal surface. This mass measures approximately 10 x 7 x 4 cm. A representative section from the serosa is frozen as AF1 and the frozen section remnant is transferred to block A1. The tumor extends to within 1 cm of the lower uterine segment but does not appear to involve the lower uterine segment or the cervix. There are two intramural leiomyomas (up to 2 cm). The tumor displays an endophytic growth but protrudes into the uterine cavity (1 x 1 x 1 cm) and has areas of focal necrosis (up to 1 cm). The left fallopian tube (5 x 1 cm) contains a pedunculated paratubal cyst. The left ovary (3 x 3 x 2 cm) also contains a cyst (1 x 1 x 1 cm) that extrudes watery material upon sectioning. The right fallopian tube (6 x 1 cm) has focal hemorrhagic adhesions. The right ovary (1.5 x 1 x 0.5 cm) also has focal hemorrhagic adhesions and is otherwise unremarkable.
+
+BLOCK SUMMARY:
+A1- frozen section remnant.
+A2- anterior cervix.
+A3- anterior lower uterine segment.
+A4- posterior cervix.
+A5- posterior lower uterine segment.
+A6- tumor with exophytic growth.
+A7- tumor with necrosis.
+A8- tumor with serosa (inked blue, region of frozen section).
+A9- full thickness anterior endomyometrium with tumor.
+A10- full thickness posterior endomyometrium with myometrium with tumor.
+A11- leiomyoma.
+A12- right fallopian tube and ovary.
+A13- left fallopian tube and ovary.
+A14- tumor with questionable calcifications, not grossly visible.
+
+B. "Left gutter biopsy (BF1)", received fresh and fixed in formalin is a 1.5 x 0.5 x 0.3 cm fragment of tissue that is bisected and submitted in its entirety in block B1.
+
+C. "Left pelvic lymph node (CF1)", received fresh and fixed in formalin is an 8 x 3 x 2 cm aggregate of fibrofatty tissue. This aggregate contains one lymph node measuring 4 x 3 x 2 cm that on cut section is replaced by a white necrotic mass. A representative section is submitted in block C1. Additional lymph node candidate is submitted as follows:
+
+BLOCK SUMMARY:
+
+C2- three lymph node candidates, one bisected, inked blue.
+C3- four lymph node candidates (up to 1 cm).
+C4- four lymph node candidates (up to 1 cm).
+
+D. "Right pelvic lymph node". Received fresh and fixed in formalin. Received
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+fresh and fixed in formalin is a 2 x 2 x 1 cm aggregate of fibrofatty tissue
+that contains a 2 x 2 x 1 cm lymph node candidate that on cut section is
+infiltrated with white necrotic mass. Representative section in block D1.
+Additional lymph node candidates are submitted as follows:
+D2- three lymph node candidates.
+D3- two lymph node candidates.
+D4- two lymph node candidates.
+
+E. "Omentum". Received fresh and fixed in formalin is a 17 x 2 x 1 cm piece of
+omentum. Sectioning reveals focal hemorrhage but no mass lesions.
+Representative sections are submitted in blocks E1-E2.
+
+F. "Sigmoid mesenteric biopsy". Received fresh and fixed in formalin is a 1 x
+0.2 x 0.3 cm piece of mesentery that is bisected and submitted entirely in
+block F1.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, right and left ovary": AF1 (representative serosal surface
+with gross tumor)- poorly differentiated carcinoma involving serosal surface
+(Dr.
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy, bilateral lymph node
+dissection, omentectomy, biopsy.
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT3a pN1 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "UTERUS, CERVIX, RIGHT AND LEFT OVARY AND TUBES" (HYSTERECTOMY, BILATERAL
+SALPINGO-OOPHORECTOMY):
+
+UNDIFFERENTIATED CARCINOMA OF THE ENDOMETRIUM, SEE COMMENT.
+    TUMOR SITE: DIFFUSE
+    FIGO GRADE: 3 OF 3
+    TUMOR SIZE: 10 CM
+    MAXIMUM DEPTH OF MYOMETRIAL INVASION: THROUGH FULL THICKNESS OF
+        MYOMETRIUM TO SEROSAL SURFACE.
+    LYMPHATIC/VASCULAR INVASION: PRESENT
+    ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE IDENTIFIED
+REMAINING MYOMETRIUM: LEIOMYOMATA (LARGEST 2 CM)
+CERVIX: FREE OF TUMOR
+SEROSA: POSITIVE FOR CARCINOMA
+SPECIMEN MARGINS: NOT INVOLVED
+
+RIGHT FALLOPIAN TUBE: POSITIVE FOR SEROSAL IMPLANTS OF CARCINOMA.
+LEFT FALLOPIAN TUBE: FREE OF TUMOR.
+RIGHT AND LEFT OVARIES: ADHESIONS, NO TUMOR IS SEEN.
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+B. "LEFT GUTTER" (BIOPSY):
+
+        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.
+
+C. "LEFT PELVIC LYMPH NODES" (DISSECTION):
+
+        METASTATIC CARCINOMA IN ONE OF TEN LYMPH NODES (1/10).
+        SIZE OF METASTASIS: 4 CM.
+
+D. "RIGHT PELVIC LYMPH NODES" (DISSECTION):
+
+        METASTATIC CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).
+        SIZE OF METASTASIS: 2 CM.
+
+E. "OMENTUM" (OMENTECTOMY):
+
+        ADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.
+
+F. "SIGMOID MESENTERY" (BIOPSY):
+
+        FIBROADIPOSE TISSUE, NO EVIDENCE OF MALIGNANCY.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+COMMENT:
+The tumor is very poorly differentiated, with a completely solid, sheet-like
+growth pattern and no significant glandular, papillary, or squamous
+differentiation. Because it shows no specific differentiation, it is
+classified as an undifferentiated carcinoma.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).

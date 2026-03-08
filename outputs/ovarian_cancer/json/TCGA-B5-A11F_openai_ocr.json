@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-B5-A11F\\TCGA-B5-A11F.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 25.576748847961426,
+        "chars": 2949,
+        "words": 485,
+        "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\n55 year old woman with a stage I endometrial carcinoma. ✓\n\nGROSS EXAMINATION:\nA. \"Uterus\". A uterus measuring 9.5 x 4.0 cm and bilateral 2 cm fragments of fallopian tubes. The uterus is grossly distorted by multiple leiomyoma ranging from 1 to 3 cm in diameter. The uterus is opened anteriorly in the midline revealing an exophytic mass measuring 5 x 3 x 1 cm with numerous papillary projections into the endometrial cavity, involving anterior and posterior endometrium and extending very close if not into the upper portion of the endocervical canal. The endocervical canal measures 3 cm in length. The myometrium is 1.5 cm thick. Grossly, the endometrial tumor appears to involve the superficial.myometrium. The resection margin is inked in black and multiple representative sections are taken.\n\nBLOCK SUMMARY:\nA1 remnants of Afl, consisting of a .2 x 1 x 0.3 cm soft tan tissue and multiple 2-3 mm fragments.\nA2 remnant of AE2 consisting of tan soft tissue fragments measuring 1 x 0.5 x 0.2 cm.\nA3 anterior endocervical canal, and the left fallopian tube.\nA4 posterior endocervical canal, and right fallopian tube.\nA5 anterior corpus and endocervix.\nA6 anterior corpus including a leiomyoma.\nA7 posterior corpus.\nA8 posterior corpus and endocervical canal.\nA9 1 cm leiomyoma.\n\nB. \"Left tube and ovary\". A 5 cm segment of fallopian tube, an ovary measuring 3 x 1.5 x 0.1 cm, and a cyst measuring 2 x 1.5 x 1 cm that is attached to the inferior portion of the ovary. The fallopian tube is 0.5 cm in diameter and appears unremarkable. The ovary is yellow-tan with lobulated surface. No focal lesions are present. The cyst attached to the ovary is unilocular, contains a small amount of serous fluid. The wall is thin and translucent.\n\nBLOCK SUMMARY:\n\nB1 remnant of Bfl consisting of two 5 mm fragment of irregular dark red tissue. Submitted in toto.\nB2 representative section of the ovary and fallopian tube.\nB3 ovary and cystic lesion.\n\nC. \"Right tube and ovary\". An ovary measuring 3 x 1 x 0.7 cm and a 3 cm segment of fallopian tube. Representative sections of the fallopian tube and ovary submitted in Block C1.\n\nD. \"Right pelvic node\". Two irregular shaped fibroadipose tissue fragments measuring 3 x 2 x 0.5 and 4 x 0.7 x 0.7 cm. Sections reveal possible 5-6 lymph node candidates. submitted in Blocks D1 and D2.\n\nE. \"Left pelvic lymph node\". Multiple fragments of fatty soft tissue and lymph node candidates, the largest measuring 4 x 0.5 x 0.5 cm. Cut section is tan and maroon. Representative sections are submitted in Block E1.\n\nINTRA OPERATIVE CONSULTATION:\nAfl: \"Uterus, cervix\": Adenocarcinoma 1/3 invasion.\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is (circle): QUALIFIED / ISQUALIFIED\nReviewer Initials: Date Review:",
+        "confidence": {
+          "mean_probability": 0.982939059036622,
+          "mean_log_probability": -0.02214598776009792,
+          "perplexity": 1.0223930304445847,
+          "min_probability": 0.2356482622319689
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 818,
+          "total_tokens": 3290
+        },
+        "composite_score": 0.9826670647635156,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 25.576748847961426,
+          "chars": 2949,
+          "words": 485,
+          "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\n55 year old woman with a stage I endometrial carcinoma. ✓\n\nGROSS EXAMINATION:\nA. \"Uterus\". A uterus measuring 9.5 x 4.0 cm and bilateral 2 cm fragments of fallopian tubes. The uterus is grossly distorted by multiple leiomyoma ranging from 1 to 3 cm in diameter. The uterus is opened anteriorly in the midline revealing an exophytic mass measuring 5 x 3 x 1 cm with numerous papillary projections into the endometrial cavity, involving anterior and posterior endometrium and extending very close if not into the upper portion of the endocervical canal. The endocervical canal measures 3 cm in length. The myometrium is 1.5 cm thick. Grossly, the endometrial tumor appears to involve the superficial.myometrium. The resection margin is inked in black and multiple representative sections are taken.\n\nBLOCK SUMMARY:\nA1 remnants of Afl, consisting of a .2 x 1 x 0.3 cm soft tan tissue and multiple 2-3 mm fragments.\nA2 remnant of AE2 consisting of tan soft tissue fragments measuring 1 x 0.5 x 0.2 cm.\nA3 anterior endocervical canal, and the left fallopian tube.\nA4 posterior endocervical canal, and right fallopian tube.\nA5 anterior corpus and endocervix.\nA6 anterior corpus including a leiomyoma.\nA7 posterior corpus.\nA8 posterior corpus and endocervical canal.\nA9 1 cm leiomyoma.\n\nB. \"Left tube and ovary\". A 5 cm segment of fallopian tube, an ovary measuring 3 x 1.5 x 0.1 cm, and a cyst measuring 2 x 1.5 x 1 cm that is attached to the inferior portion of the ovary. The fallopian tube is 0.5 cm in diameter and appears unremarkable. The ovary is yellow-tan with lobulated surface. No focal lesions are present. The cyst attached to the ovary is unilocular, contains a small amount of serous fluid. The wall is thin and translucent.\n\nBLOCK SUMMARY:\n\nB1 remnant of Bfl consisting of two 5 mm fragment of irregular dark red tissue. Submitted in toto.\nB2 representative section of the ovary and fallopian tube.\nB3 ovary and cystic lesion.\n\nC. \"Right tube and ovary\". An ovary measuring 3 x 1 x 0.7 cm and a 3 cm segment of fallopian tube. Representative sections of the fallopian tube and ovary submitted in Block C1.\n\nD. \"Right pelvic node\". Two irregular shaped fibroadipose tissue fragments measuring 3 x 2 x 0.5 and 4 x 0.7 x 0.7 cm. Sections reveal possible 5-6 lymph node candidates. submitted in Blocks D1 and D2.\n\nE. \"Left pelvic lymph node\". Multiple fragments of fatty soft tissue and lymph node candidates, the largest measuring 4 x 0.5 x 0.5 cm. Cut section is tan and maroon. Representative sections are submitted in Block E1.\n\nINTRA OPERATIVE CONSULTATION:\nAfl: \"Uterus, cervix\": Adenocarcinoma 1/3 invasion.\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary\nCase is (circle): QUALIFIED / ISQUALIFIED\nReviewer Initials: Date Review:",
+          "confidence": {
+            "mean_probability": 0.982939059036622,
+            "mean_log_probability": -0.02214598776009792,
+            "perplexity": 1.0223930304445847,
+            "min_probability": 0.2356482622319689
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 818,
+            "total_tokens": 3290
+          },
+          "composite_score": 0.9826670647635156,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 30.82045078277588,
+          "chars": 2969,
+          "words": 488,
+          "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\n55 year old woman with a stage I endometrial carcinoma. ✓\n\nGROSS EXAMINATION:\nA. \"Uterus\". A uterus measuring 9.5 x 4.0 cm and bilateral 2 cm fragments of fallopian tubes. The uterus is grossly distorted by multiple leiomyoma ranging from 1 to 3 cm in diameter. The uterus is opened anteriorly in the midline revealing an exophytic mass measuring 5 x 3 x 1 cm with numerous papillary projections into the endometrial cavity, involving anterior and posterior endometrium and extending very close if not into the upper portion of the endocervical canal. The endocervical canal measures 3 cm in length. The myometrium is 1.5 cm thick. Grossly, the endometrial tumor appears to involve the superficial myometrium. The resection margin is inked in black and multiple representative sections are taken.\n\nBLOCK SUMMARY:\nA1 remnants of Af1, consisting of a .2 x 1 x 0.3 cm soft tan tissue and multiple 2-3 mm fragments.\nA2 remnant of AE2 consisting of tan soft tissue fragments measuring 1 x 0.5 x 0.2 cm.\nA3 anterior endocervical canal, and the left fallopian tube.\nA4 posterior endocervical canal, and right fallopian tube.\nA5 anterior corpus and endocervix.\nA6 anterior corpus including a leiomyoma.\nA7 posterior corpus.\nA8 posterior corpus and endocervical canal.\nA9 1 cm leiomyoma.\n\nB. \"Left tube and ovary\". A 5 cm segment of fallopian tube, an ovary measuring 3 x 1.5 x 0.1 cm, and a cyst measuring 2 x 1.5 x 1 cm that is attached to the inferior portion of the ovary. The fallopian tube is 0.5 cm in diameter and appears unremarkable. The ovary is yellow-tan with lobulated surface. No focal lesions are present. The cyst attached to the ovary is unilocular, contains a small amount of serous fluid. The wall is thin and translucent.\n\nBLOCK SUMMARY:\n\nB1 remnant of Bf1 consisting of two 5 mm fragment of irregular dark red tissue. Submitted in toto.\nB2 representative section of the ovary and fallopian tube.\nB3 ovary and cystic lesion.\n\nC. \"Right tube and ovary\". An ovary measuring 3 x 1 x 0.7 cm and a 3 cm segment of fallopian tube. Representative sections of the fallopian tube and ovary submitted in Block C1.\n\nD. \"Right pelvic node\". Two irregular shaped fibroadipose tissue fragments measuring 3 x 2 x 0.5 and 4 x 0.7 x 0.7 cm. Sections reveal possible 5-6 lymph node candidates. submitted in Blocks D1 and D2.\n\nE. \"Left pelvic lymph node\". Multiple fragments of fatty soft tissue and lymph node candidates, the largest measuring 4 x 0.5 x 0.5 cm. Cut section is tan and maroon. Representative sections are submitted in Block E1.\n\nINTRA OPERATIVE CONSULTATION:\nAf1: \"Uterus, cervix\": Adenocarcinoma 1/3 invasion.\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle): QUALIFIED / ISQUALIFIED\nReviewer Initials: Date Review:\n\n[Signatures]",
+          "confidence": {
+            "mean_probability": 0.9822959663039723,
+            "mean_log_probability": -0.023253184466019417,
+            "perplexity": 1.0235256475393035,
+            "min_probability": 0.2933543544053896
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 825,
+            "total_tokens": 3297
+          },
+          "composite_score": 0.9327291813380507
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.929808139801025,
+          "chars": 2967,
+          "words": 489,
+          "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\n55 year old woman with a stage I endometrial carcinoma. ✓\n\nGROSS EXAMINATION:\nA. \"Uterus\". A uterus measuring 9.5 x 4.0 cm and bilateral 2 cm fragments of fallopian tubes. The uterus is grossly distorted by multiple leiomyoma ranging from 1 to 3 cm in diameter. The uterus is opened anteriorly in the midline revealing an exophytic mass measuring 5 x 3 x 1 cm with numerous papillary projections into the endometrial cavity, involving anterior and posterior endometrium and extending very close if not into the upper portion of the endocervical canal. The endocervical canal measures 3 cm in length. The myometrium is 1.5 cm thick. Grossly, the endometrial tumor appears to involve the superficial myometrium. The resection margin is inked in black and multiple representative sections are taken.\n\nBLOCK SUMMARY:\nA1 remnants of Afl, consisting of a .2 x 1 x 0.3 cm soft tan tissue and multiple 2-3 mm fragments.\nA2 remnant of AE2 consisting of tan soft tissue fragments measuring 1 x 0.5 x 0.2 cm.\nA3 anterior endocervical canal, and the left fallopian tube.\nA4 posterior endocervical canal, and right fallopian tube.\nA5 anterior corpus and endocervix.\nA6 anterior corpus including a leiomyoma.\nA7 posterior corpus.\nA8 posterior corpus and endocervical canal.\nA9 1 cm leiomyoma.\n\nB. \"Left tube and ovary\". A 5 cm segment of fallopian tube, an ovary measuring 3 x 1.5 x 0.1 cm, and a cyst measuring 2 x 1.5 x 1 cm that is attached to the inferior portion of the ovary. The fallopian tube is 0.5 cm in diameter and appears unremarkable. The ovary is yellow-tan with lobulated surface. No focal lesions are present. The cyst attached to the ovary is unilocular, contains a small amount of serous fluid. The wall is thin and translucent.\n\nBLOCK SUMMARY:\n\nB1 remnant of Bfl consisting of two 5 mm fragment of irregular dark red tissue. Submitted in toto.\nB2 representative section of the ovary and fallopian tube.\nB3 ovary and cystic lesion.\n\nC. \"Right tube and ovary\". An ovary measuring 3 x 1 x 0.7 cm and a 3 cm segment of fallopian tube. Representative sections of the fallopian tube and ovary submitted in Block C1.\n\nD. \"Right pelvic node\". Two irregular shaped fibroadipose tissue fragments measuring 3 x 2 x 0.5 and 4 x 0.7 x 0.7 cm. Sections reveal possible 5-6 lymph node candidates. submitted in Blocks D1 and D2.\n\nE. \"Left pelvic lymph node\". Multiple fragments of fatty soft tissue and lymph node candidates, the largest measuring 4 x 0.5 x 0.5 cm. Cut section is tan and maroon. Representative sections are submitted in Block E1.\n\nINTRA OPERATIVE CONSULTATION:\nAfl: \"Uterus, cervix\": Adenocarcinoma 1/3 invasion.\n\nCriteria\nDiagnosis Discrepancy Yes No\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary noted\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials Date Review\n2/28/11",
+          "confidence": {
+            "mean_probability": 0.9823937550699173,
+            "mean_log_probability": -0.024652396111786146,
+            "perplexity": 1.0249587789383385,
+            "min_probability": 0.12154836859358979
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 824,
+            "total_tokens": 3296
+          },
+          "composite_score": 0.9317149492685973
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.161136627197266,
+        "chars": 1358,
+        "words": 194,
+        "text": "Page 2 of:\n\nAf2: Leiomyoma\nBfl: \"Left tube and ovary\": Reactive mesothelium ....., \n\nMICROSCOPIC EXAMINATION:\nSections of the uterus show a neoplasm composed of irregular glands in a\ncribriform pattern, with a prominent desmoplastic stromal reaction. The tumor\nfor the most part is limited to the endometrium, with only a few foci which\nare suspicious for very superficial myometrial invasion (1 mm or less).\nSections of the upper endocervical canal show that the carcinoma approaches to\nimmediately adjacent to the endocervix, but no actual invasion of endocervix\nidentified microscopically.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX,\" (HYSTERECTOMY):\n\n    1. ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3.\n    2. DEPTH OF INVASION: SUPERFICIALLY INVASIVE AT MOST (LESS THAN 1 MM OF\n        MYOMETRIAL INVASION).\n    3. MYOMETRIUM THICKNESS: 1.5 CM.\n    4. CERVICAL INVOLVEMENT: ABSENT.\n    5. VASCULAR INVASION: ABSENT.\n    6. MULTIPLE LEIOMYOMATA.\n    7. ALL SURGICAL MARGINS ARE FREE OF TUMOR.\nB. \"LEFT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nC. \"RIGHT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nD. \"RIGHT PELVIC NODE\":\n\n    TEN LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/10).\nE. \"LEFT PELVIC LYMPH NODES\":\n\n    THREE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/3).",
+        "confidence": {
+          "mean_probability": 0.9867995689452157,
+          "mean_log_probability": -0.018852403083700443,
+          "perplexity": 1.0190312316497363,
+          "min_probability": 0.16904623865030982
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 455,
+          "total_tokens": 2927
+        },
+        "composite_score": 0.9209971468867201,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.161136627197266,
+          "chars": 1358,
+          "words": 194,
+          "text": "Page 2 of:\n\nAf2: Leiomyoma\nBfl: \"Left tube and ovary\": Reactive mesothelium ....., \n\nMICROSCOPIC EXAMINATION:\nSections of the uterus show a neoplasm composed of irregular glands in a\ncribriform pattern, with a prominent desmoplastic stromal reaction. The tumor\nfor the most part is limited to the endometrium, with only a few foci which\nare suspicious for very superficial myometrial invasion (1 mm or less).\nSections of the upper endocervical canal show that the carcinoma approaches to\nimmediately adjacent to the endocervix, but no actual invasion of endocervix\nidentified microscopically.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX,\" (HYSTERECTOMY):\n\n    1. ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3.\n    2. DEPTH OF INVASION: SUPERFICIALLY INVASIVE AT MOST (LESS THAN 1 MM OF\n        MYOMETRIAL INVASION).\n    3. MYOMETRIUM THICKNESS: 1.5 CM.\n    4. CERVICAL INVOLVEMENT: ABSENT.\n    5. VASCULAR INVASION: ABSENT.\n    6. MULTIPLE LEIOMYOMATA.\n    7. ALL SURGICAL MARGINS ARE FREE OF TUMOR.\nB. \"LEFT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nC. \"RIGHT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nD. \"RIGHT PELVIC NODE\":\n\n    TEN LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/10).\nE. \"LEFT PELVIC LYMPH NODES\":\n\n    THREE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/3).",
+          "confidence": {
+            "mean_probability": 0.9867995689452157,
+            "mean_log_probability": -0.018852403083700443,
+            "perplexity": 1.0190312316497363,
+            "min_probability": 0.16904623865030982
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.9209971468867201,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.100565195083618,
+          "chars": 1358,
+          "words": 194,
+          "text": "Page 2 of:\n\nAf2: Leiomyoma\nBfl: \"Left tube and ovary\": Reactive mesothelium ....., \n\nMICROSCOPIC EXAMINATION:\nSections of the uterus show a neoplasm composed of irregular glands in a\ncribriform pattern, with a prominent desmoplastic stromal reaction. The tumor\nfor the most part is limited to the endometrium, with only a few foci which\nare suspicious for very superficial myometrial invasion (1 mm or less).\nSections of the upper endocervical canal show that the carcinoma approaches to\nimmediately adjacent to the endocervix, but no actual invasion of endocervix\nidentified microscopically.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX,\" (HYSTERECTOMY):\n\n    1. ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3.\n    2. DEPTH OF INVASION: SUPERFICIALLY INVASIVE AT MOST (LESS THAN 1 MM OF\n        MYOMETRIAL INVASION).\n    3. MYOMETRIUM THICKNESS: 1.5 CM.\n    4. CERVICAL INVOLVEMENT: ABSENT.\n    5. VASCULAR INVASION: ABSENT.\n    6. MULTIPLE LEIOMYOMATA.\n    7. ALL SURGICAL MARGINS ARE FREE OF TUMOR.\nB. \"LEFT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nC. \"RIGHT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nD. \"RIGHT PELVIC NODE\":\n\n    TEN LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/10).\nE. \"LEFT PELVIC LYMPH NODES\":\n\n    THREE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/3).",
+          "confidence": {
+            "mean_probability": 0.9871194678475843,
+            "mean_log_probability": -0.018079823788546254,
+            "perplexity": 1.0182442532597975,
+            "min_probability": 0.19455351740855528
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.8755133509571356
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.75387692451477,
+          "chars": 1358,
+          "words": 194,
+          "text": "Page 2 of:\n\nAf2: Leiomyoma\nBfl: \"Left tube and ovary\": Reactive mesothelium .....,\n\n\nMICROSCOPIC EXAMINATION:\nSections of the uterus show a neoplasm composed of irregular glands in a\ncribriform pattern, with a prominent desmoplastic stromal reaction. The tumor\nfor the most part is limited to the endometrium, with only a few foci which\nare suspicious for very superficial myometrial invasion (1 mm or less).\nSections of the upper endocervical canal show that the carcinoma approaches to\nimmediately adjacent to the endocervix, but no actual invasion of endocervix\nidentified microscopically.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX,\" (HYSTERECTOMY):\n\n    1. ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2/3.\n    2. DEPTH OF INVASION: SUPERFICIALLY INVASIVE AT MOST (LESS THAN 1 MM OF\n        MYOMETRIAL INVASION).\n    3. MYOMETRIUM THICKNESS: 1.5 CM.\n    4. CERVICAL INVOLVEMENT: ABSENT.\n    5. VASCULAR INVASION: ABSENT.\n    6. MULTIPLE LEIOMYOMATA.\n    7. ALL SURGICAL MARGINS ARE FREE OF TUMOR.\nB. \"LEFT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nC. \"RIGHT TUBE AND OVARY\":\n\n    FALLOPIAN TUBE AND OVARY WITH ENDOMETRIOSIS. NO EVIDENCE OF MALIGNANCY.\nD. \"RIGHT PELVIC NODE\":\n\n    TEN LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/10).\nE. \"LEFT PELVIC LYMPH NODES\":\n\n    THREE LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/3).",
+          "confidence": {
+            "mean_probability": 0.9882068859582829,
+            "mean_log_probability": -0.017502345814977976,
+            "perplexity": 1.0176564093816094,
+            "min_probability": 0.16278076231407507
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.8759370249114473
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

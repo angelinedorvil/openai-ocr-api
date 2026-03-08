@@ -1,0 +1,140 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0K2\TCGA-B5-A0K2.pdf
+Processing Date: 2026-03-08 17:28:10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+S.T.: endometrium C54.1  2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neo corpus uteri. Per E-browser, the patient has a FIGO 1 endometriod endometrial adenocarcinoma and endometriosis.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries", received fresh for frozen section is a 114 gram hysterectomy and bilateral salpingo-oophorectomy specimen. (NOTE: The specimen cannot be definitively oriented due to extensive serosal and bilateral adnexal adhesions and probable endometriosis which obscure the usual orienting landmarks. The orientations used below are presumed.) There is a 3.1 x 2.1 cm area of heaped-up endometrium centered in the posterior endometrium that grossly appears to invade 2.6 cm into the 3.2 cm thick myometrium. The mass is tan and friable, with poorly defined borders, and comes within approximately 0.5 cm of the posterior lower uterine segment. The tumor does not involve the cervix or extend into the adnexa. The 0.2 cm thick endometrium is otherwise unremarkable. The myometrium displays approximately five firm, white, whorled nodules up to 1.7 cm in greatest dimension, and is otherwise unremarkable. The cervix displays a 1cm firm, white whorled submucosal nodule and is otherwise unremarkable. The posterior serosal surface of the uterus is diffusely covered with shaggy, tan-gray fibrous tissue which is continuous with adhesions involving the bilateral adnexa. The right fallopian tube (3.5 cm long x 0.6 cm in diameter) is unremarkable. No definite right ovary is identified. Sectioning the right adnexal soft tissue reveals numerous chocolate cysts of up to 0.6 cm in greatest dimension. The left fallopian tube (3.5 cm long x 0.4 cm diameter) is fixed to the anterior surface of the uterus by adhesions. No definite left ovary is identified. Sectioning the left adnexal soft tissue reveals a 2.7 cm unilocular chocolate cyst covered with adhesions that is affixed to the uterine fundus.
+
+BLOCK SUMMARY:
+
+A1-2- posterior endomyometrium with tumor at deepest extent of invasion, bisected (frozen remnant AF1)
+A3-5- remainder of tumor
+A6- posterior lower uterine segment
+A7- representative anterior endomyometrium with representative of largest white, firm, whorled lesions
+A8- posterior uterine serosa with adhesions
+A9- posterior cervix
+A10- anterior cervix
+A11-13- right fallopian tube and multiple representatives of right adnexa including chocolate cyst
+A14- representative of large chocolate cyst from left adnexa
+A15-17- representative of left fallopian tube and left adnexal soft tissue
+A18- additional full-thickness tumor with posterior myometrium (serosal surface inked blue, tumor surface inked black)
+
+B. "Left pelvic nodes", received fresh and fixed in formalin is a 6 x 5.8 x 1 cm aggregate of fibroadipose tissue and lymph nodes. The specimen is dissected for lymph node candidates.
+
+BLOCK SUMMARY:
+
+B1- one lymph node candidate, bisected
+B2-4- multiple intact lymph node candidates
+B5-9- remaining fibroadipose tissue
+
+| Crit.ria | Yes | No |
+| Diagnosis Discrepancy | X |
+| Primary Tumor Site Discrepancy | X |
+| HIPAA Discrepancy | X |
+| Prior Malignancy History | X |
+| Dual Synchronous Prima | Noted |
+| Case #(cir le): | QUALIFIED | DISQUALIFIED |
+| Review (rni |  | Date Reviewed: | / / | / / |
+
+[Redacted]
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+C. "Right pelvic nodes", received fresh and fixed in formalin is a 5.8 x 4.5 x
+1.5 cm aggregate of lymph nodes and fibroadipose tissue. The specimen is
+dissected for lymph node candidates.
+
+BLOCK SUMMARY:
+
+Cl- one lymph node candidate, bisected
+C2- multiple intact lymph node candidates
+C3- one lymph node candidate, bisected
+C4- one lymph node candidate, bisected
+C5-6- multiple intact lymph node candidates
+C7-9- remaining fibroadipose tissue
+
+Dr. /Dr. ; slides to Dr. ... -.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, bilateral tubes, and ovaries": AF1-2- (posterior
+endomyometrium with
+tumor in deepest extent,
+bisected)- endometrioid
+adenocarcinoma, FIGO I,
+invading 2.6 cm into a
+3.2 cm thick myometrium
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+IMMUNOHISTOCHEMICAL FINDINGS:
+The immunoperoxidase tests reported herein were developed and their
+performance characteristics were determined by the
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+                            1.7 CM IN GREATEST DIMENSION
+      CERVIX: LEIOMYOMA, 1 CM IN GREATEST DIMENSION
+      SEROSA: FIBROVASCULAR ADHESIONS
+      SPECIMEN MARGINS: NOT INVOLVED
+
+      BILATERAL TUBES AND OVARIES: ENDOMETRIOSIS, FIBROVASCULAR ADHESIONS.
+
+COMMENT: The tumor is an exophytic mass which is grossly suspicious for tumor
+invasion into the outer half of the myometrium. The frozen section slides
+also show areas of apparent deep myometrial tumor invasion. However, multiple
+permanent sections of these areas demonstrate that these tumor foci are
+actually present within adenomyosis, and do not invade the myometrium. This
+finding is confirmed by an immunostain for CD10, which demonstrates a cuff of
+endometrial stromal cells surrounding each tumor nest. Dr. notified
+of the change from the frozen section diagnosis via email.
+
+B. "LEFT PELVIC NODES" (BIOPSY):
+
+      THIRTEEN LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/13).
+
+C. "RIGHT PELVIC NODES" (BIOPSY):
+
+      TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+
+
+CI ADDENDUM 1:
+Please see Image Cytometry Report    -_- -or results of supplementary
+tests.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+
+
+
+

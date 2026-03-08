@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-B5-A0K9\\TCGA-B5-A0K9.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 30.146376609802246,
+        "chars": 3142,
+        "words": 487,
+        "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid NOS 8380/3\nSite: Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen section and placed in formalin on is a 157 gm, 11.7 x 6.5 x 3.2 cm hysterectomy specimen with attached right and left adnexa. The uterine serosa is tan-pink to red-brown and focally hemorrhagic. The cervix is 3.5 x 2.7 cm. The ectocervical mucosa is gray-white, the cervical os is patent up to 1.2 cm. The endocervical canal is obliterated by a tan-yellow to red-brown necrotic fungating tumor mass which is 4.5 x 4 cm overall. The tumor mass involves both the anterior and posterior endocervical canal. A representative section of the anterior endocervical canal is submitted for frozen section as AFl, the frozen section remnant is submitted in block Al. The endometrial cavity is lined by tan granular endometrium which is 0.3 to 0.4 cm thick. The tumor is minimally involving the posterior lower aspect of the endometrial cavity. The endometrial cavity at the fundus displays a 3 x 1.8 cm pedunculated polyp. Sectioning through the tumor reveals a tan-yellow to tan-gray gritty cut surface which is approximately 1.5 cm thick at the thickest myometrial region of up to 2 cm. The right ovary is 3.5 x 1.2 x 1 cm. The external surface is remarkable for several red-brown to gray fibrous adhesions. The associated fallopian tube segment is 5 cm in length x 0.4 cm in diameter. The serosal surface is remarkable for several intact paratubal cysts. The left adnexa is remarkable for an abundant amount of gray periadnexal soft tissue 4.8 x 3.5 x 2 cm. There is a segment of fallopian tube which is 9 cm in length x 0.3 cm in diameter. Sectioning of the periadnexal soft tissue reveals no identifiable ovarian parenchyma. Representative sections submitted in blocks Al-A17.\n\nBLOCK SUMMARY:\n\nAl- frozen section remnant-anterior lower uterine segment-endocervical canal\nA2- anterior cervix\nA3- anterior lower uterine segment (longitudinal)\nA4- posterior cervix\nA5- posterior lower uterine segment (longitudinal)\nA6-A7 anterior lower uterine segment adjacent to site of frozen section\nA8-A9 random sections of anterior endomyometrium\nA10-A12 posterior endomyometrium full thickness\nA13- representative-posterior endomyometrium\nA14- endometrial polyp\nA15- right ovary and fallopian tube\nA16-A17 left fallopian tube/questionable tissue/periadnexal soft tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"TAH and BSO\": invasive adenocarcinoma into the deep muscle case discussed with Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy\n\nPATHOLOGIC STAGE (AJCC 7th Edition): pT2 pNX pMX\n\n| Criteria | Yes | No |\n|-----------------------------|-----|----|\n| Diagnosis Discrepancy | X | |\n| Primary Tumor Site Discrepancy | X | |\n| HIPAA Discrepancy | X | |\n| Prior Malignancy History | X | |\n| Dual/Synchronous Prima | Noted | |\n| Case | QUALIFIED | DISQUALIFIED |\n| Review | | |\n\n[Handwritten signatures and dates]",
+        "confidence": {
+          "mean_probability": 0.9747916478521416,
+          "mean_log_probability": -0.037494627002288325,
+          "perplexity": 1.0382064187861266,
+          "min_probability": 0.12844056639092905
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 875,
+          "total_tokens": 3347
+        },
+        "composite_score": 0.922533914123416,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 36.056838512420654,
+          "chars": 3778,
+          "words": 488,
+          "text": "```\n                                                                                                    Page 1 of 2\n\n                                                                                                    ICD-0-3\n                                                                                                    Adenocarcinoma, endometrioid NOS 8380/3\n                                                                                                    Site: endometrium C54.1 2/25/11\n\n                                                                                                    μ\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen\nsection and placed in formalin on                     is a 157 gm, 11.7 x 6.5 x 3.2\ncm hysterectomy specimen with attached right and left adnexa. The uterine\nserosa is tan-pink to red-brown and focally hemorrhagic. The cervix is 3.5 x\n2.7 cm. The ectocervical mucosa is gray-white, the cervical os is patent up\nto 1.2 cm. The endocervical canal is obliterated by a tan-yellow to red-brown\nnecrotic fungating tumor mass which is 4.5 x 4 cm overall. The tumor mass\ninvolves both the anterior and posterior endocervical canal. A representative\nsection of the anterior endocervical canal is submitted for frozen section as\nAF1, the frozen section remnant is submitted in block A1. The endometrial\ncavity is lined by tan granular endometrium which is 0.3 to 0.4 cm thick. The\ntumor is minimally involving the posterior lower aspect of the endometrial\ncavity. The endometrial cavity at the fundus displays a 3 x 1.8 cm\npedunculated polyp. Sectioning through the tumor reveals a tan-yellow to\ntan-gray gritty cut surface which is approximately 1.5 cm thick at the\nthickest myometrial region of up to 2 cm. The right ovary is 3.5 x 1.2 x 1\ncm. The external surface is remarkable for several red-brown to gray fibrous\nadhesions. The associated fallopian tube segment is 5 cm in length x 0.4 cm\nin diameter. The serosal surface is remarkable for several intact paratubal\ncysts. The left adnexa is remarkable for an abundant amount of gray\nperiadnexal soft tissue 4.8 x 3.5 x 2 cm. There is a segment of fallopian\ntube which is 9 cm in length x 0.3 cm in diameter. Sectioning of the\nperiadnexal soft tissue reveals no identifiable ovarian parenchyma.\nRepresentative sections submitted in blocks A1-A17.\n\nBLOCK SUMMARY:\n\nA1- frozen section remnant-anterior lower uterine segment-endocervical\ncanal\nA2- anterior cervix\nA3- anterior lower uterine segment (longitudinal)\nA4- posterior cervix\nA5- posterior lower uterine segment (longitudinal)\nA6-A7 anterior lower uterine segment adjacent to site of frozen section\nA8-A9 random sections of anterior endomyometrium\nA10-A12 posterior endomyometrium full thickness\nA13- representative-posterior endomyometrium\nA14- endometrial polyp\nA15- right ovary and fallopian tube\nA16-A17 left fallopian tube/questionable tissue/periadnexal soft tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"TAH and BSO\": invasive adenocarcinoma into the deep muscle case discussed\nwith Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy\n\nPATHOLOGIC STAGE (AJCC 7th Edition): pT2 pNX pMX\n\n\n| Criteria                         | Yes | No |\n|---------------------------------|-----|----|\n| Diagnosis Discrepancy            |  X  |    |\n| Primary Tumor Site Discrepancy   |  X  |    |\n| HIPAA Discrepancy                |  X  |    |\n| Prior Malignancy History         |  X  |    |\n| Dual/Synchronous Primar Noted    |  X  |    |\n| Case (Qualified) / DISQUALIFIED  |     |    |\n| Reviewer                        |     |    |\n\n```",
+          "confidence": {
+            "mean_probability": 0.9708627678800645,
+            "mean_log_probability": -0.04740576613756614,
+            "perplexity": 1.0485473877952807,
+            "min_probability": 0.040421154694902296
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 946,
+            "total_tokens": 3418
+          },
+          "composite_score": 0.6746543031408611
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 34.177786350250244,
+          "chars": 3849,
+          "words": 482,
+          "text": "```\n                                                                                  Page 1 of 2\n\n                                                                                  ICD-0-3\n                                                                                  Adenocarcinoma, endometrioid NOS 8380/3\n                                                                                  Site: endometrium C54.1 2/25/11\n\n                                                                                  Surg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen\nsection and placed in formalin on                 is a 157 gm, 11.7 x 6.5 x 3.2\ncm hysterectomy specimen with attached right and left adnexa. The uterine\nserosa is tan-pink to red-brown and focally hemorrhagic. The cervix is 3.5 x\n2.7 cm. The ectocervical mucosa is gray-white, the cervical os is patent up\nto 1.2 cm. The endocervical canal is obliterated by a tan-yellow to red-brown\nnecrotic fungating tumor mass which is 4.5 x 4 cm overall. The tumor mass\ninvolves both the anterior and posterior endocervical canal. A representative\nsection of the anterior endocervical canal is submitted for frozen section as\nAF1, the frozen section remnant is submitted in block A1. The endometrial\ncavity is lined by tan granular endometrium which is 0.3 to 0.4 cm thick. The\ntumor is minimally involving the posterior lower aspect of the endometrial\ncavity. The endometrial cavity at the fundus displays a 3 x 1.8 cm\npedunculated polyp. Sectioning through the tumor reveals a tan-yellow to\ntan-gray gritty cut surface which is approximately 1.5 cm thick at the\nthickest myometrial region of up to 2 cm. The right ovary is 3.5 x 1.2 x 1\ncm. The external surface is remarkable for several red-brown to gray fibrous\nadhesions. The associated fallopian tube segment is 5 cm in length x 0.4 cm\nin diameter. The serosal surface is remarkable for several intact paratubal\ncysts. The left adnexa is remarkable for an abundant amount of gray\nperiadnexal soft tissue 4.8 x 3.5 x 2 cm. There is a segment of fallopian\ntube which is 9 cm in length x 0.3 cm in diameter. Sectioning of the\nperiadnexal soft tissue reveals no identifiable ovarian parenchyma.\nRepresentative sections submitted in blocks A1-A17.\n\nBLOCK SUMMARY:\n\nA1-        frozen section remnant-anterior lower uterine segment-endocervical\n           canal\nA2-        anterior cervix\nA3-        anterior lower uterine segment (longitudinal)\nA4-        posterior cervix\nA5-        posterior lower uterine segment (longitudinal)\nA6-A7      anterior lower uterine segment adjacent to site of frozen section\nA8-A9      random sections of anterior endomyometrium\nA10-A12    posterior endomyometrium full thickness\nA13-       representative-posterior endomyometrium\nA14-       endometrial polyp\nA15-       right ovary and fallopian tube\nA16-A17    left fallopian tube/questionable tissue/periadnexal soft tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"TAH and BSO\": invasive adenocarcinoma into the deep muscle case discussed\n              with Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy\n\nPATHOLOGIC STAGE (AJCC 7th Edition): pT2 pNX pMX\n\n\n| Criteria                     | Yes | No |\n|------------------------------|-----|----|\n| Diagnosis Discrepancy         |  X  |    |\n| Primary Tumor Site Discrepancy|  X  |    |\n| HIPAA Discrepancy             |  X  |    |\n| Prior Malignancy History      |  X  |    |\n| Dual/Synchronous Primary Noted|  X  |    |\n| Case (illegible)              |QUALIFIED|DISQUALIFIED|\n| Review (illegible)            |     |    |\n\n                                                                                        \n```",
+          "confidence": {
+            "mean_probability": 0.9711806567411893,
+            "mean_log_probability": -0.049491646201873046,
+            "perplexity": 1.0507368145349276,
+            "min_probability": 0.04559241107981605
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 962,
+            "total_tokens": 3434
+          },
+          "composite_score": 0.6399120863661151
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 30.146376609802246,
+          "chars": 3142,
+          "words": 487,
+          "text": "Page 1 of 2\n\nICD-0-3\nAdenocarcinoma, endometrioid NOS 8380/3\nSite: Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of corpus uteri\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\", received fresh for frozen section and placed in formalin on is a 157 gm, 11.7 x 6.5 x 3.2 cm hysterectomy specimen with attached right and left adnexa. The uterine serosa is tan-pink to red-brown and focally hemorrhagic. The cervix is 3.5 x 2.7 cm. The ectocervical mucosa is gray-white, the cervical os is patent up to 1.2 cm. The endocervical canal is obliterated by a tan-yellow to red-brown necrotic fungating tumor mass which is 4.5 x 4 cm overall. The tumor mass involves both the anterior and posterior endocervical canal. A representative section of the anterior endocervical canal is submitted for frozen section as AFl, the frozen section remnant is submitted in block Al. The endometrial cavity is lined by tan granular endometrium which is 0.3 to 0.4 cm thick. The tumor is minimally involving the posterior lower aspect of the endometrial cavity. The endometrial cavity at the fundus displays a 3 x 1.8 cm pedunculated polyp. Sectioning through the tumor reveals a tan-yellow to tan-gray gritty cut surface which is approximately 1.5 cm thick at the thickest myometrial region of up to 2 cm. The right ovary is 3.5 x 1.2 x 1 cm. The external surface is remarkable for several red-brown to gray fibrous adhesions. The associated fallopian tube segment is 5 cm in length x 0.4 cm in diameter. The serosal surface is remarkable for several intact paratubal cysts. The left adnexa is remarkable for an abundant amount of gray periadnexal soft tissue 4.8 x 3.5 x 2 cm. There is a segment of fallopian tube which is 9 cm in length x 0.3 cm in diameter. Sectioning of the periadnexal soft tissue reveals no identifiable ovarian parenchyma. Representative sections submitted in blocks Al-A17.\n\nBLOCK SUMMARY:\n\nAl- frozen section remnant-anterior lower uterine segment-endocervical canal\nA2- anterior cervix\nA3- anterior lower uterine segment (longitudinal)\nA4- posterior cervix\nA5- posterior lower uterine segment (longitudinal)\nA6-A7 anterior lower uterine segment adjacent to site of frozen section\nA8-A9 random sections of anterior endomyometrium\nA10-A12 posterior endomyometrium full thickness\nA13- representative-posterior endomyometrium\nA14- endometrial polyp\nA15- right ovary and fallopian tube\nA16-A17 left fallopian tube/questionable tissue/periadnexal soft tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"TAH and BSO\": invasive adenocarcinoma into the deep muscle case discussed with Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy\n\nPATHOLOGIC STAGE (AJCC 7th Edition): pT2 pNX pMX\n\n| Criteria | Yes | No |\n|-----------------------------|-----|----|\n| Diagnosis Discrepancy | X | |\n| Primary Tumor Site Discrepancy | X | |\n| HIPAA Discrepancy | X | |\n| Prior Malignancy History | X | |\n| Dual/Synchronous Prima | Noted | |\n| Case | QUALIFIED | DISQUALIFIED |\n| Review | | |\n\n[Handwritten signatures and dates]",
+          "confidence": {
+            "mean_probability": 0.9747916478521416,
+            "mean_log_probability": -0.037494627002288325,
+            "perplexity": 1.0382064187861266,
+            "min_probability": 0.12844056639092905
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 875,
+            "total_tokens": 3347
+          },
+          "composite_score": 0.922533914123416,
+          "quality_warning": false,
+          "quality_warnings": []
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.291368961334229,
+        "chars": 1615,
+        "words": 213,
+        "text": "Page 2 of 2\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (HYSTERECTOMY, BILATERAL\n    SALPINGO-OOPHORECTOMY):\n\n    ADENOCARCINOMA OF THE ENDOMETRIUM.\n        HISTOLOGIC TYPE: ENDOMETRIOID.\n        FIGO GRADE: 1 OF 3 (WELL DIFFERENTIATED).\n        TUMOR SIZE: 4.5 X 4 CM.\n        DEPTH OF INVASION: 1.3 CM, IN A 1.5 CM THICK MYOMETRIUM.\n        LYMPHATIC/VASCULAR INVASION: ABSENT.\n    STATUS OF REMAINING ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL NEOPLASIA\n        (EIN).\n    MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n    CERVIX: POSITIVE FOR INVASIVE CARCINOMA.\n    SEROSA: ADHESIONS.\n    ALL SPECIMEN MARGINS ARE FREE OF TUMOR.\n\n    LEFT OVARY: ABSENT.\n    RIGHT OVARY: ADHESIONS, NO EVIDENCE OF MALIGNANCY.\n    RIGHT AND LEFT FALLOPIAN TUBES: NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted signature and information]",
+        "confidence": {
+          "mean_probability": 0.9844077389582114,
+          "mean_log_probability": -0.023655803964757707,
+          "perplexity": 1.0239378218916093,
+          "min_probability": 0.11734417450159672
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 455,
+          "total_tokens": 2927
+        },
+        "composite_score": 0.9430126890322816,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.291368961334229,
+          "chars": 1615,
+          "words": 213,
+          "text": "Page 2 of 2\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (HYSTERECTOMY, BILATERAL\n    SALPINGO-OOPHORECTOMY):\n\n    ADENOCARCINOMA OF THE ENDOMETRIUM.\n        HISTOLOGIC TYPE: ENDOMETRIOID.\n        FIGO GRADE: 1 OF 3 (WELL DIFFERENTIATED).\n        TUMOR SIZE: 4.5 X 4 CM.\n        DEPTH OF INVASION: 1.3 CM, IN A 1.5 CM THICK MYOMETRIUM.\n        LYMPHATIC/VASCULAR INVASION: ABSENT.\n    STATUS OF REMAINING ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL NEOPLASIA\n        (EIN).\n    MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n    CERVIX: POSITIVE FOR INVASIVE CARCINOMA.\n    SEROSA: ADHESIONS.\n    ALL SPECIMEN MARGINS ARE FREE OF TUMOR.\n\n    LEFT OVARY: ABSENT.\n    RIGHT OVARY: ADHESIONS, NO EVIDENCE OF MALIGNANCY.\n    RIGHT AND LEFT FALLOPIAN TUBES: NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted signature and information]",
+          "confidence": {
+            "mean_probability": 0.9844077389582114,
+            "mean_log_probability": -0.023655803964757707,
+            "perplexity": 1.0239378218916093,
+            "min_probability": 0.11734417450159672
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.9430126890322816,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.737766981124878,
+          "chars": 1501,
+          "words": 210,
+          "text": "Page 2 of 2\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (HYSTERECTOMY, BILATERAL\nSALPINGO-OOPHORECTOMY):\n\nADENOCARCINOMA OF THE ENDOMETRIUM.\nHISTOLOGIC TYPE: ENDOMETRIOID.\nFIGO GRADE: 1 OF 3 (WELL DIFFERENTIATED).\nTUMOR SIZE: 4.5 X 4 CM.\nDEPTH OF INVASION: 1.3 CM, IN A 1.5 CM THICK MYOMETRIUM.\nLYMPHATIC/VASCULAR INVASION: ABSENT.\nSTATUS OF REMAINING ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL NEOPLASIA\n(EIN).\nMYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\nCERVIX: POSITIVE FOR INVASIVE CARCINOMA.\nSEROSA: ADHESIONS.\nALL SPECIMEN MARGINS ARE FREE OF TUMOR.\n\nLEFT OVARY: ABSENT.\nRIGHT OVARY: ADHESIONS, NO EVIDENCE OF MALIGNANCY.\nRIGHT AND LEFT FALLOPIAN TUBES: NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.985478397125291,
+            "mean_log_probability": -0.0214958091954023,
+            "perplexity": 1.021728508463879,
+            "min_probability": 0.2639187469271279
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 436,
+            "total_tokens": 2908
+          },
+          "composite_score": 0.8866019681721223
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.643336057662964,
+          "chars": 1615,
+          "words": 213,
+          "text": "Page 2 of 2\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (HYSTERECTOMY, BILATERAL\n    SALPINGO-OOPHORECTOMY):\n\n    ADENOCARCINOMA OF THE ENDOMETRIUM.\n        HISTOLOGIC TYPE: ENDOMETRIOID.\n        FIGO GRADE: 1 OF 3 (WELL DIFFERENTIATED).\n        TUMOR SIZE: 4.5 X 4 CM.\n        DEPTH OF INVASION: 1.3 CM, IN A 1.5 CM THICK MYOMETRIUM.\n        LYMPHATIC/VASCULAR INVASION: ABSENT.\n    STATUS OF REMAINING ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL NEOPLASIA\n        (EIN).\n    MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n    CERVIX: POSITIVE FOR INVASIVE CARCINOMA.\n    SEROSA: ADHESIONS.\n    ALL SPECIMEN MARGINS ARE FREE OF TUMOR.\n\n    LEFT OVARY: ABSENT.\n    RIGHT OVARY: ADHESIONS, NO EVIDENCE OF MALIGNANCY.\n    RIGHT AND LEFT FALLOPIAN TUBES: NO EVIDENCE OF MALIGNANCY.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted signature and information]",
+          "confidence": {
+            "mean_probability": 0.9845522775191445,
+            "mean_log_probability": -0.023166288546255506,
+            "perplexity": 1.023436711200917,
+            "min_probability": 0.11685154453318883
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.8962172601709544
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

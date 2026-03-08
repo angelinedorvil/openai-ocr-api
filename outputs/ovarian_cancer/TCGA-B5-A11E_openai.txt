@@ -1,0 +1,113 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11E\TCGA-B5-A11E.pdf
+Processing Date: 2026-03-08 18:14:52
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD-0-3
+Adenocarcinoma, Endometrioid, NOS 8380/3
+Site: Endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri. Per E browser grade 2 endometrioid adenocarcinoma on biopsy.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1)", received fresh for frozen section and transferred to formalin at on is a 186 gram, 9.8 x 9.2 x 5.2 cm uterus. The cervix is amputated and per surgeon was macerated during surgery. The separate portion of cervix measures 3.5 x 2.6 x 1.9 cm and demonstrates a tan smooth ectocervix with a 1.3 cm os. The endocervical canal is covered with a tan-yellow mucosa which focally appears friable. The endometrial cavity is 6.5 (cornu to cornu) x 7.3 cm (to point of cervical amputation) is filled with a 7.8 x 5.5 x 2.1 cm friable fungating mass. The tumor primarily involves the anterior wall but extends over the fundus partially onto the posterior wall to within 1.1 cm of the amputation site of the cervix. The tumor is focally necrotic and invades 1.1 cm into a 1.6 cm myometrium. A representative section of the tumor is frozen as AF1 (remnant A1). The remaining endometrium is tan and approximately 1 mm in thickness. The myometrium which is on average 2 cm thick is tan and partially trabeculated with one intramural white whorled nodule, up to 0.7 cm, consistent with leiomyoma. The serosal surface is tan and smooth with no gross abnormalities identified.
+
+The right fallopian tube, 8.5 cm long is distally dilated to 1.7 cm in diameter. Proximally, the diameter is 0.4 cm. The surface of the right fallopian tube demonstrates focal yellow discoloration and opening the tube reveals a cystically dilated tube with yellow studding of the luminal surface. The cystic dilated portion is filled with brown-red liquid. The right ovary, 3.5 x 1.5 x 1 cm, is grossly unremarkable. The left fallopian tube, 8 cm long x 0.5 cm in diameter, and left ovary, 2.5 x 1.1 x 0.8 cm, are grossly unremarkable.
+
+BLOCK SUMMARY:
+
+A1- representative full thickness posterior wall, frozen section remnant of AF1
+A2-3- . representative sections of cervix, presumed anterior and posterior
+A4- lower uterine segment, anterior
+A5- lower uterine segment, posterior
+A6-11- anterior endomyometrium with tumor
+A12- posterior endomyometrium with tumor
+A13- normal appearing endomyometrium with leiomyoma
+A14-15- right fallopian tube with dilated area and yellow studding
+A16- right ovary
+A17- left ovary and fallopian tube
+
+B. "Right pelvic lymph nodes", received fresh and transferred to formalin at is a 4.2 x 2.5 x 0.9 cm aggregate of fibroadipose tissue which for lymph nodes. Five candidates are identified from 0.4 to 2.5 cm.
+
+BLOCK SUMMARY:
+
+B1- largest lymph node, bisected
+B2- four lymph node candidates, intact
+B3- fibroadipose tissue for identification of additional lymph nodes
+
+C. "Left pelvic lymph nodes", received fresh and transferred to formalin at 2
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+pm on███████is a 8 x 2 x 0.5 cm and 4 x 1.5 x 0.4 cm fragment of adipose tissue, which is dissected for lymph node candidates. Four lymph node candidates are identified up to 2 cm.
+
+BLOCK SUMMARY:
+
+C1- four lymph node candidates, intact
+C2- fibroadipose tissue for identification of additional lymph nodes
+
+D. "Left periaortic lymph nodes", received fresh and transferred to formalin at 6 pm on███████is a 1.2 x 0.8 x 0.4 cm fragment of brown soft tissue which is bisected and submitted as D1.
+
+E. "Right periaortic lymph nodes", received fresh and transferred to formalin at███████on███████is a 7.6 x 1.1 x 0.5 cm aggregate of fibrofatty tissue and lymph nodes. Three lymph node candidates up to 2.2 cm are identified.
+
+BLOCK SUMMARY:
+
+E1- largest lymph node, bisected
+E2- one lymph node, bisected
+E3- one lymph node intact
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+RIGHT OVARY: FREE OF TUMOR.
+RIGHT FALLOPIAN TUBE: CHRONIC SALPINGITIS WITH ASSOCIATED HYDROSALPINX.
+                        FIBROVASCULAR ADHESIONS.
+                        SINGLE FREE FLOATING FRAGMENT OF TUMOR IN TUBAL
+                        LUMEN, SEE COMMENT.
+
+LEFT OVARY AND FALLOPIAN TUBE: DETACHED FRAGMENT OF ADENOCARCINOMA
+                              PRESENT. SEE COMMENT.
+
+COMMENT: There is a freely-floating, minute cluster of tumor cells within in
+a cystic space in the right fallopian tube. It is not clear whether this
+represents a contaminant ("floater"). Additionally, there is a free floating
+fragment of adenocarcinoma with surrounding smooth muscle found in the section
+of the left fallopian tube and ovary, not invading either of these tissues. As
+with the right tube, it possible this represents a contaminant.
+
+B. "RIGHT PELVIC LYMPH NODE" (LYMPHADENECTOMY):
+
+    EIGHT LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/8).
+
+C. "LEFT PELVIC LYMPH NODES" (LYMPHADENECTOMY):
+
+    TWELVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/12).
+
+D. "LEFT PARAAORTIC LYMPH NODE" (LYMPHADENECTOMY):
+
+    ONE LYMPH NODE, NEGATIVE FOR MALIGNANCY (0/1).
+
+E. "RIGHT PARAAORTIC LYMPH NODES (LYMPHADENECTOMY):
+
+    THREE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/3).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+Performed by:

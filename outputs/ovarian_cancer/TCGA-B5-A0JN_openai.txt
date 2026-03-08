@@ -1,0 +1,157 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A0JN\TCGA-B5-A0JN.pdf
+Processing Date: 2026-03-08 16:30:10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+Surg Path
+
+CLINICAL HISTORY:
+malig neo corpus uterus
+
+GROSS EXAMINATION:
+A. "Right fallopian tube and ovary". Received fresh for frozen section is a 21.5 gram, 6.0 x 5.0 x 2.0 cm specimen inclusive of a 6.5 cm long fimbriated fallopian tube with an average diameter of 0.6 cm. The fallopian tube is attached to a 3.5 x 2.5 x 2.0 cm multiloculated cystic structure that demonstrates tan-yellow papillary excrescences on the cut surface. There is also a 2.5 x 2.5 x 2.0 tan-yellow, firm, uniform nodule at the distal end of the fimbriated fallopian tube. The serosa of the fallopian tube demonstrates multiple small (less than 0.1 cm) tan-white adhesions. Representative sections submitted as follows:
+
+A1- remnant from previously submitted frozen section entirely submitted
+A2- representative section of multiloculated ovary
+A3- representative section of firm nodule
+A4- fallopian tube with adhesions
+
+B. "Left fallopian tube and ovary". Received is a 7.6 gram, specimen inclusive of a 5.5 cm long fimbriated fallopian tube with an average diameter of 0.5 cm. There is an attached 2.5 x 1.5 x 1.0 cm tan-yellow, firm ovary without focal abnormality. The serosa is smooth and glistening. No focal lesions, masses or abnormalities are identified. Representative sections are submitted as follows:
+
+B1- representative sections of ovary and fallopian tube
+
+C. "Uterus and cervix". Received is a 77.2 gram, 6.8 x 4.0 x 4.0 cm uterus with a 2.4 cm cervix that demonstrates a 0.6 cm cervical os. The uterus is opened longitudinally and demonstrates a 4 x 3 x 1 cm soft, papillary tumor that grossly fills the endometrial cavity but does not invade the 2.5 cm thick wall. There is a 3.0 cm polyp on the anterior uterine wall and a 2.0 cm polyp on the posterior uterine wall. There are multiple small (0.5 cm) intramural leiomyomata. The trabeculated endocervical canal and glistening ectocervix demonstrate no abnormalities. The serosa is rough and studied with adhesions. Representative sections is submitted as follows:
+
+C1- posterior cervix
+C2- anterior cervix
+C3- anterior endomyometrium (tumor and polyp)
+C4- posterior endomyometrium
+C5- deepest invasion
+C6- serosal adhesion
+
+D. "Bladder flap peritoneum". Received is a single 9 x 4 x 0.6 cm specimen of fibroadipose tissue with a 2.0 cm focal area of adhesion. Representative section submitted in block D1.
+
+E. "Cul-de-sac peritoneum". Received in formalin are two tan-yellow specimens of fibroadipose tissue, the largest of which is 2.0 x 1.0 x 0.6 cm. Entirely submitted in block E1.
+
+F. "Hernia sac". Received is a 9 x 4 x 2.5 cm specimen of fibroadipose tissue with a 5 x 2 cm skin ellipse. There are no focal lesions, masses or abnormalities. All exposed serosa is smooth and glistening. Representative section submitted in blocks F1 and F2.
+
+[Table]
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prim Notes
+Cave in (circle):
+Reviewer int
+Yes
+No
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+  G. "Omentum". Received in formalin is a single 14 x 5 x 1.5 cm specimen of
+fibroadipose tissue. There are no focal lesions, masses or abnormalities.
+Representative section submitted in blocks G1 and G2.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Right fallopian tube and ovary": AF1-adenocarcinoma studding outer
+surface (Dr.
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: Bilateral salpingo-oophorectomy, hysterectomy, omentectomy,
+peritoneal biopsies, and hernia sac repair.
+
+PATHOLOGIC STAGE: TxNxMx (uncertain primary origin site).
+
+NOTE:
+Information on pathology stage and the operative procedure is transmitted to
+this Institution's Cancer Registry as required for accreditation purposes by
+the Commission on Cancer. Pathology stage is based solely upon the current
+tissue specimen being evaluated, and does not incorporate information on any
+specimens submitted separately to our Cytology section, past pathology
+information, imaging studies, or clinical or operative findings. Pathology
+stage is only a component to be considered in determining the clinical stage,
+and should not be confused with nor substituted for it. The exact operative
+procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. "RIGHT FALLOPIAN TUBE AND OVARY" (SALPINGO-OOPHORECTOMY):
+
+  (SEROUS )DENOCARCINOMA, INVOLVING OVARY AND FALLOPIAN TUBE, SEE COMMENT.
+OVARY ITH INCIDENTAL SEROUS ADENOFIBROMA (2.5 CM).
+
+B. "LEFT FALLOPIAN TUBE AND OVARY" (SALPINGO-OOPHORECTOMY):
+
+SERIOUS ADENOCARCINOMA, INVOLVING OVARY, SEE COMMENT.
+FALLOPIAN TUBE: NO TUMOR IDENTIFIED.
+
+C. "UTERUS AND CERVIX" (HYSTERECTOMY):
+
+SERIOUS PAPILLARY CARCINOMA INVOLVING ENDOMETRIUM, SEE COMMENT.
+TUMOR SIZE: 4.0 X 3.0 X 1.0 CM.
+FIGO GRADE: 3 OF 3.
+DEPTH OF INVASION: LIMITED TO ENDOMETRIUM (NO MYOMETRIAL INVASION IS
+IDENTIFIED).
+LYMPHATIC/VASCULAR INVASION: ABSENT.
+STATUS OF REMAINING ENDOMETRIUM: MULTIPLE ENDOMETRIAL POLYPS, WITH
+ATROPHY.
+STATUS OF REMAINING MYOMETRIUM: MULTIPLE SMALL LEIOMYOMATA (LARGEST 0.5
+CM).
+CERVIX: FREE OF TUMOR.
+SEROSA: MULTIPLE IMPLANTS OF SEROUS CARCINOMA.
+
+D. "BLADDER FLAP PERITONEUM" (BIOPSY):
+
+POSITIVE FOR SEROUS ADENOCARCINOMA.
+
+================================================================================
+PAGE 3
+================================================================================
+Page 3 of 3
+
+E. "CUL-DE-SAC PERITONEUM" (BIOPSY):
+
+     POSITIVE FOR SEROUS ADENOCARCINOMA.
+
+F. "HERNIA SAC" (HERNIORRHAPHY):
+
+     HERNIA SAC WITH IMPLANTS OF SEROUS ADENOCARCINOMA ON PERITONEAL SURFACE.
+
+G. "OMENTUM" (OMENTECTOMY):
+
+     MULTIPLE IMPLANTS OF SEROUS ADENOCARCINOMA (LARGEST LESS THAN 2 CM)
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+[redacted]
+
+COMMENT:
+It is not possible to determine a primary site with certainty. The endometrial tumor is non-invasive, while the ovarian tumor is primarily on the surface. Given that the endometrium has the largest single deposit of carcinoma (4.0 cm) compared with the small volume of tumor at the other involved sites, however, an endometrial primary is favored.
+
+ADDENDUM 1:
+The tumor is unreactive for Wilm's tumor gene (WT-1), which supports the other pathology findings that the primary tumor is endometrial in origin. See Hashi A et al, Wilms tumor gene immunoreactivity in primary serous carcinomas of the fallopian tube, ovary, endometrium, and peritoneum.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+[redacted]
+
+CI ADDENDUM 1:
+Please see Image Cytometry Report for results of supplementary tests.
+
+I certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).
+
+[redacted]

@@ -1,0 +1,275 @@
+{
+  "pdf": "reports\\TCGA-B5-A0JR\\TCGA-B5-A0JR.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 29.93269395828247,
+        "chars": 2729,
+        "words": 443,
+        "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of the uterus.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\". Received is a 114\ngram, 9 x 7 x 3.2 cm uterus, which is bivalved to reveal a 6.5 x 3.6 cm white,\nfriable, polypoid tumor that diffusely involves the anterior and posterior\nendometrium. The tumor invades 1 cm deep in a 1.4 cm thick anterior wall and\n1.1 cm into a 1.5 cm posterior wall. It does not grossly involve the\nendocervical canal and measures 4.2 cm from the ectocervix on the anterior\nportion and 4.6 cm from the ectocervix on the posterior portion of the\nuterus. A minimal amount of uninvolved endometrium is identified. A 0.6 x\n0.5 x 0.4 cm nodule is identified in the posterior endocervix. This lesion\nappears well-circumscribed and is grossly consistent with a submucosal\nleiomyoma. The remaining endocervix, and ectocervix are grossly unremarkable.\nThe specimen also demonstrates ovaries (left ovary-2.2 x 1.2 x 0.9 cm; right\novary 3.4 x 2.2 x 0.4 cm) and fallopian tubes (left fallopian tube - 5 x 0.6 x\n0.4 cm; right fallopian tube - 5 x 0.5 x 0.2 cm). Both ovaries are\nhemorrhagic on cut surface but are otherwise grossly unremarkable. The left\nfallopian tube is unremarkable; however the right fallopian tube displays an\narea of cautery artifact and is discontinuous.\n\nBLOCK SUMMARY:\nA1- AF1 remnant\nA2- full thickness anterior endomyometrium\nA3- full thickness posterior endomyometrium\nA4-6- mass with adjacent uninvolved endomyometrium\nA7- anterior endocervix and ectocervix\nA8- posterior endocervix and ectocervix\nA9- putative submucosal leiomyoma\nA10- left ovary\nA11- right ovary\nA12- left fallopian tube\nA13- right fallopian tube\nA14-15- additional mass\n\nB. \"Anal skin tag\". Received is a skin-lined polypoid lesion measuring 2.2 x\n1.8 x 0.7 cm. The deep surface is inked blue and the specimen is sectioned\nand submitted entirely in blocks B1-2.\n\nC. \"Left pelvic lymph node\". Received is a 6.5 x 5 x 2 cm collection of\nfibroadipose tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nC1- four lymph node candidates\nC2-3- one lymph node candidate\nC4- three lymph node candidates\nC5- one lymph node candidate, sectioned\nC6- four lymph node candidates, one inked blue and bisected\nC7- four lymph node candidates\nC8- five lymph node candidates\nC9- four lymph node candidates\nC10- two lymph node candidates, each bisected, one inked blue\nC11-12- one lymph node candidate, bisected\nC13-15- one lymph node candidate, sectioned\n\nD. \"Right pelvic lymph node\". Received is a 6 x 5 x 2 cm collection of\nfibrofatty tissue, which is dissected for lymph node candidates.",
+        "confidence": {
+          "mean_probability": 0.9937412614982976,
+          "mean_log_probability": -0.0074811014150943395,
+          "perplexity": 1.007509154767309,
+          "min_probability": 0.4990564816284049
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 849,
+          "total_tokens": 3321
+        },
+        "composite_score": 0.9940595599027424,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 29.93269395828247,
+          "chars": 2729,
+          "words": 443,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of the uterus.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\". Received is a 114\ngram, 9 x 7 x 3.2 cm uterus, which is bivalved to reveal a 6.5 x 3.6 cm white,\nfriable, polypoid tumor that diffusely involves the anterior and posterior\nendometrium. The tumor invades 1 cm deep in a 1.4 cm thick anterior wall and\n1.1 cm into a 1.5 cm posterior wall. It does not grossly involve the\nendocervical canal and measures 4.2 cm from the ectocervix on the anterior\nportion and 4.6 cm from the ectocervix on the posterior portion of the\nuterus. A minimal amount of uninvolved endometrium is identified. A 0.6 x\n0.5 x 0.4 cm nodule is identified in the posterior endocervix. This lesion\nappears well-circumscribed and is grossly consistent with a submucosal\nleiomyoma. The remaining endocervix, and ectocervix are grossly unremarkable.\nThe specimen also demonstrates ovaries (left ovary-2.2 x 1.2 x 0.9 cm; right\novary 3.4 x 2.2 x 0.4 cm) and fallopian tubes (left fallopian tube - 5 x 0.6 x\n0.4 cm; right fallopian tube - 5 x 0.5 x 0.2 cm). Both ovaries are\nhemorrhagic on cut surface but are otherwise grossly unremarkable. The left\nfallopian tube is unremarkable; however the right fallopian tube displays an\narea of cautery artifact and is discontinuous.\n\nBLOCK SUMMARY:\nA1- AF1 remnant\nA2- full thickness anterior endomyometrium\nA3- full thickness posterior endomyometrium\nA4-6- mass with adjacent uninvolved endomyometrium\nA7- anterior endocervix and ectocervix\nA8- posterior endocervix and ectocervix\nA9- putative submucosal leiomyoma\nA10- left ovary\nA11- right ovary\nA12- left fallopian tube\nA13- right fallopian tube\nA14-15- additional mass\n\nB. \"Anal skin tag\". Received is a skin-lined polypoid lesion measuring 2.2 x\n1.8 x 0.7 cm. The deep surface is inked blue and the specimen is sectioned\nand submitted entirely in blocks B1-2.\n\nC. \"Left pelvic lymph node\". Received is a 6.5 x 5 x 2 cm collection of\nfibroadipose tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nC1- four lymph node candidates\nC2-3- one lymph node candidate\nC4- three lymph node candidates\nC5- one lymph node candidate, sectioned\nC6- four lymph node candidates, one inked blue and bisected\nC7- four lymph node candidates\nC8- five lymph node candidates\nC9- four lymph node candidates\nC10- two lymph node candidates, each bisected, one inked blue\nC11-12- one lymph node candidate, bisected\nC13-15- one lymph node candidate, sectioned\n\nD. \"Right pelvic lymph node\". Received is a 6 x 5 x 2 cm collection of\nfibrofatty tissue, which is dissected for lymph node candidates.",
+          "confidence": {
+            "mean_probability": 0.9937412614982976,
+            "mean_log_probability": -0.0074811014150943395,
+            "perplexity": 1.007509154767309,
+            "min_probability": 0.4990564816284049
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 849,
+            "total_tokens": 3321
+          },
+          "composite_score": 0.9940595599027424,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 29.359678983688354,
+          "chars": 2729,
+          "words": 443,
+          "text": "Page 1 of 3\n\nICD-O-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of the uterus.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\". Received is a 114\ngram, 9 x 7 x 3.2 cm uterus, which is bivalved to reveal a 6.5 x 3.6 cm white,\nfriable, polypoid tumor that diffusely involves the anterior and posterior\nendometrium. The tumor invades 1 cm deep in a 1.4 cm thick anterior wall and\n1.1 cm into a 1.5 cm posterior wall. It does not grossly involve the\nendocervical canal and measures 4.2 cm from the ectocervix on the anterior\nportion and 4.6 cm from the ectocervix on the posterior portion of the\nuterus. A minimal amount of uninvolved endometrium is identified. A 0.6 x\n0.5 x 0.4 cm nodule is identified in the posterior endocervix. This lesion\nappears well-circumscribed and is grossly consistent with a submucosal\nleiomyoma. The remaining endocervix, and ectocervix are grossly unremarkable.\nThe specimen also demonstrates ovaries (left ovary-2.2 x 1.2 x 0.9 cm; right\novary 3.4 x 2.2 x 0.4 cm) and fallopian tubes (left fallopian tube - 5 x 0.6 x\n0.4 cm; right fallopian tube - 5 x 0.5 x 0.2 cm). Both ovaries are\nhemorrhagic on cut surface but are otherwise grossly unremarkable. The left\nfallopian tube is unremarkable; however the right fallopian tube displays an\narea of cautery artifact and is discontinuous.\n\nBLOCK SUMMARY:\nA1- AF1 remnant\nA2- full thickness anterior endomyometrium\nA3- full thickness posterior endomyometrium\nA4-6- mass with adjacent uninvolved endomyometrium\nA7- anterior endocervix and ectocervix\nA8- posterior endocervix and ectocervix\nA9- putative submucosal leiomyoma\nA10- left ovary\nA11- right ovary\nA12- left fallopian tube\nA13- right fallopian tube\nA14-15- additional mass\n\nB. \"Anal skin tag\". Received is a skin-lined polypoid lesion measuring 2.2 x\n1.8 x 0.7 cm. The deep surface is inked blue and the specimen is sectioned\nand submitted entirely in blocks B1-2.\n\nC. \"Left pelvic lymph node\". Received is a 6.5 x 5 x 2 cm collection of\nfibroadipose tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nC1- four lymph node candidates\nC2-3- one lymph node candidate\nC4- three lymph node candidates\nC5- one lymph node candidate, sectioned\nC6- four lymph node candidates, one inked blue and bisected\nC7- four lymph node candidates\nC8- five lymph node candidates\nC9- four lymph node candidates\nC10- two lymph node candidates, each bisected, one inked blue\nC11-12- one lymph node candidate, bisected\nC13-15- one lymph node candidate, sectioned\n\nD. \"Right pelvic lymph node\". Received is a 6 x 5 x 2 cm collection of\nfibrofatty tissue, which is dissected for lymph node candidates.",
+          "confidence": {
+            "mean_probability": 0.9939156961712268,
+            "mean_log_probability": -0.007465360094451004,
+            "perplexity": 1.007493295367477,
+            "min_probability": 0.43696944772648155
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 848,
+            "total_tokens": 3320
+          },
+          "composite_score": 0.944368368485393
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 32.083653688430786,
+          "chars": 2729,
+          "words": 443,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite Endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm of the uterus.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\". Received is a 114\ngram, 9 x 7 x 3.2 cm uterus, which is bivalved to reveal a 6.5 x 3.6 cm white,\nfriable, polypoid tumor that diffusely involves the anterior and posterior\nendometrium. The tumor invades 1 cm deep in a 1.4 cm thick anterior wall and\n1.1 cm into a 1.5 cm posterior wall. It does not grossly involve the\nendocervical canal and measures 4.2 cm from the ectocervix on the anterior\nportion and 4.6 cm from the ectocervix on the posterior portion of the\nuterus. A minimal amount of uninvolved endometrium is identified. A 0.6 x\n0.5 x 0.4 cm nodule is identified in the posterior endocervix. This lesion\nappears well-circumscribed and is grossly consistent with a submucosal\nleiomyoma. The remaining endocervix, and ectocervix are grossly unremarkable.\nThe specimen also demonstrates ovaries (left ovary-2.2 x 1.2 x 0.9 cm; right\novary 3.4 x 2.2 x 0.4 cm) and fallopian tubes (left fallopian tube - 5 x 0.6 x\n0.4 cm; right fallopian tube - 5 x 0.5 x 0.2 cm). Both ovaries are\nhemorrhagic on cut surface but are otherwise grossly unremarkable. The left\nfallopian tube is unremarkable; however the right fallopian tube displays an\narea of cautery artifact and is discontinuous.\n\nBLOCK SUMMARY:\nA1- AF1 remnant\nA2- full thickness anterior endomyometrium\nA3- full thickness posterior endomyometrium\nA4-6- mass with adjacent uninvolved endomyometrium\nA7- anterior endocervix and ectocervix\nA8- posterior endocervix and ectocervix\nA9- putative submucosal leiomyoma\nA10- left ovary\nA11- right ovary\nA12- left fallopian tube\nA13- right fallopian tube\nA14-15- additional mass\n\nB. \"Anal skin tag\". Received is a skin-lined polypoid lesion measuring 2.2 x\n1.8 x 0.7 cm. The deep surface is inked blue and the specimen is sectioned\nand submitted entirely in blocks B1-2.\n\nC. \"Left pelvic lymph node\". Received is a 6.5 x 5 x 2 cm collection of\nfibroadipose tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nC1- four lymph node candidates\nC2-3- one lymph node candidate\nC4- three lymph node candidates\nC5- one lymph node candidate, sectioned\nC6- four lymph node candidates, one inked blue and bisected\nC7- four lymph node candidates\nC8- five lymph node candidates\nC9- four lymph node candidates\nC10- two lymph node candidates, each bisected, one inked blue\nC11-12- one lymph node candidate, bisected\nC13-15- one lymph node candidate, sectioned\n\nD. \"Right pelvic lymph node\". Received is a 6 x 5 x 2 cm collection of\nfibrofatty tissue, which is dissected for lymph node candidates.",
+          "confidence": {
+            "mean_probability": 0.9941310518380738,
+            "mean_log_probability": -0.006883877358490567,
+            "perplexity": 1.0069076257045262,
+            "min_probability": 0.5216444778778834
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 849,
+            "total_tokens": 3321
+          },
+          "composite_score": 0.9448040216850249
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 20.58636498451233,
+        "chars": 2454,
+        "words": 369,
+        "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nD1- four lymph node candidates\nD2- three lymph node candidates\nD3- two lymph node candidates, one inked blue and bisected\nD4- one lymph node candidate\nD5- two lymph node candidates, one inked blue, the other bisected\nD6- two lymph node candidates\nD7-8- one lymph node candidate\nD9-10- one lymph node candidate\nD11-13 one lymph node candidate\n\nE. \"Right aortic lymph node\". Received is a 4.5 x 3 x 2 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nE1- one lymph node candidate, bisected\nE2- one lymph node candidate, bisected\nE3- one lymph node candidate, bisected\n\nF. \"Left aortic lymph node\". Received is a 2.6 x 1 x 0.5 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nF1- three lymph node candidates\n\nG. \"Right common lymph node\". Received is a 2.3 x 0.7 x 0.4 cm lymph node candidate and fibrofatty tissue. The specimen is submitted entirely in block G1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\nAF1- (posterior endomyometrium)- FIGO grade 2 at least,\ngreater than one-half myometrium, invasive component (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 114 GRAMS\nENDOMETRIUM:\nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA, PREDOMINANTLY. SEE NOTE.\nFIGO GRADE: 3\nTUMOR SIZE: 6.5 X 3.6 X 1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1 CM, IN A 1.4 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: INVOLVED\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC WITH IN SITU TUMOR\nREMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\nCERVIX: NO PATHOLOGIC DIAGNOSIS.",
+        "confidence": {
+          "mean_probability": 0.9939039371375556,
+          "mean_log_probability": -0.007900116809116809,
+          "perplexity": 1.0079314050712858,
+          "min_probability": 0.2377049690791587
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 703,
+          "total_tokens": 3175
+        },
+        "composite_score": 0.9937294446722538,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 20.58636498451233,
+          "chars": 2454,
+          "words": 369,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nD1- four lymph node candidates\nD2- three lymph node candidates\nD3- two lymph node candidates, one inked blue and bisected\nD4- one lymph node candidate\nD5- two lymph node candidates, one inked blue, the other bisected\nD6- two lymph node candidates\nD7-8- one lymph node candidate\nD9-10- one lymph node candidate\nD11-13 one lymph node candidate\n\nE. \"Right aortic lymph node\". Received is a 4.5 x 3 x 2 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nE1- one lymph node candidate, bisected\nE2- one lymph node candidate, bisected\nE3- one lymph node candidate, bisected\n\nF. \"Left aortic lymph node\". Received is a 2.6 x 1 x 0.5 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nF1- three lymph node candidates\n\nG. \"Right common lymph node\". Received is a 2.3 x 0.7 x 0.4 cm lymph node candidate and fibrofatty tissue. The specimen is submitted entirely in block G1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\nAF1- (posterior endomyometrium)- FIGO grade 2 at least,\ngreater than one-half myometrium, invasive component (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 114 GRAMS\nENDOMETRIUM:\nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA, PREDOMINANTLY. SEE NOTE.\nFIGO GRADE: 3\nTUMOR SIZE: 6.5 X 3.6 X 1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1 CM, IN A 1.4 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: INVOLVED\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC WITH IN SITU TUMOR\nREMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\nCERVIX: NO PATHOLOGIC DIAGNOSIS.",
+          "confidence": {
+            "mean_probability": 0.9939039371375556,
+            "mean_log_probability": -0.007900116809116809,
+            "perplexity": 1.0079314050712858,
+            "min_probability": 0.2377049690791587
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 703,
+            "total_tokens": 3175
+          },
+          "composite_score": 0.9937294446722538,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 21.452206134796143,
+          "chars": 2574,
+          "words": 369,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nD1- four lymph node candidates\nD2- three lymph node candidates\nD3- two lymph node candidates, one inked blue and bisected\nD4- one lymph node candidate\nD5- two lymph node candidates, one inked blue, the other bisected\nD6- two lymph node candidates\nD7-8- one lymph node candidate\nD9-10- one lymph node candidate\nD11-13 one lymph node candidate\n\nE. \"Right aortic lymph node\". Received is a 4.5 x 3 x 2 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nE1- one lymph node candidate, bisected\nE2- one lymph node candidate, bisected\nE3- one lymph node candidate, bisected\n\nF. \"Left aortic lymph node\". Received is a 2.6 x 1 x 0.5 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nF1- three lymph node candidates\n\nG. \"Right common lymph node\". Received is a 2.3 x 0.7 x 0.4 cm lymph node candidate and fibrofatty tissue. The specimen is submitted entirely in block G1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\n      AF1- (posterior endomyometrium)- FIGO grade 2 at least,\n            greater than one-half myometrium, invasive component (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 114 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: FUNDUS\n            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA, PREDOMINANTLY. SEE NOTE.\n            FIGO GRADE: 3\n            TUMOR SIZE: 6.5 X 3.6 X 1 CM.\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 1 CM, IN A 1.4 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: INVOLVED\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC WITH IN SITU TUMOR\n      REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.",
+          "confidence": {
+            "mean_probability": 0.9913205901410223,
+            "mean_log_probability": -0.014042248246844318,
+            "perplexity": 1.0141413037255622,
+            "min_probability": 0.060690991630166294
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 714,
+            "total_tokens": 3186
+          },
+          "composite_score": 0.9394756764956762
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 17.98738169670105,
+          "chars": 2454,
+          "words": 369,
+          "text": "Page 2 of 3\n\nBLOCK SUMMARY:\nD1- four lymph node candidates\nD2- three lymph node candidates\nD3- two lymph node candidates, one inked blue and bisected\nD4- one lymph node candidate\nD5- two lymph node candidates, one inked blue, the other bisected\nD6- two lymph node candidates\nD7-8- one lymph node candidate\nD9-10- one lymph node candidate\nD11-13 one lymph node candidate\n\nE. \"Right aortic lymph node\". Received is a 4.5 x 3 x 2 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nE1- one lymph node candidate, bisected\nE2- one lymph node candidate, bisected\nE3- one lymph node candidate, bisected\n\nF. \"Left aortic lymph node\". Received is a 2.6 x 1 x 0.5 cm aggregate of fibrofatty tissue, which is dissected for lymph node candidates.\n\nBLOCK SUMMARY:\nF1- three lymph node candidates\n\nG. \"Right common lymph node\". Received is a 2.3 x 0.7 x 0.4 cm lymph node candidate and fibrofatty tissue. The specimen is submitted entirely in block G1.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\nAF1- (posterior endomyometrium)- FIGO grade 2 at least,\ngreater than one-half myometrium, invasive component (Dr.\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 114 GRAMS\nENDOMETRIUM:\nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA, PREDOMINANTLY. SEE NOTE.\nFIGO GRADE: 3\nTUMOR SIZE: 6.5 X 3.6 X 1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1 CM, IN A 1.4 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: INVOLVED\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC WITH IN SITU TUMOR\nREMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\nCERVIX: NO PATHOLOGIC DIAGNOSIS.",
+          "confidence": {
+            "mean_probability": 0.9941247700331641,
+            "mean_log_probability": -0.007017883190883191,
+            "perplexity": 1.0070425662402587,
+            "min_probability": 0.449216196700131
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 703,
+            "total_tokens": 3175
+          },
+          "composite_score": 0.9447035784427472
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 14.577578783035278,
+        "chars": 1553,
+        "words": 241,
+        "text": "Page 3 of 3\n\nSEROSA: NO PATHOLOGIC DIAGNOSIS.\nSPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.\nB. ANAL SKIN TAG: ANAL SKIN TAG.\nC. LEFT PELVIC LYMPH NODES: NO TUMOR IN 19 LYMPH NODES (0/19).\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 13 LYMPH NODES (0/13).\nE. RIGHT AORTIC LYMPH NODE: NO TUMOR IN 4 LYMPH NODES (0/4).\nF. LEFT AORTIC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nG. RIGHT COMMON ILIAC LYMPH NODES: FAT ONLY\n\nNOTE\n#1: Most of the nodal tissue in all specimens is fat.\n#2: The tumor is poorly-differentiated tumor, consisting in part of sheets of\nundifferentiated cells and in elsewhere, as expanses of tightly clustered\nsmall acini. Some areas are suggestive of showing slight squamous\ndifferentiation. Because the tumor is composed of nuclei that are on the\nsmaller side and have minimal cytoplasm, an immunoprofile will be performed to\nexclude the possibility of a neuroendocrine component. This will be reported\nseparately.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\nImmunoperoxidase stains for chromogranin and synaptophysin are negative in the\ntumor cells, i.e. there is no evidence of neuroendocrine differentiation. The\nprevious diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nPerformed by:\n\n[redacted]",
+        "confidence": {
+          "mean_probability": 0.990762930861575,
+          "mean_log_probability": -0.012006239130434783,
+          "perplexity": 1.012078603336796,
+          "min_probability": 0.31265247775132277
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 461,
+          "total_tokens": 2933
+        },
+        "composite_score": 0.945808960386844,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 14.577578783035278,
+          "chars": 1553,
+          "words": 241,
+          "text": "Page 3 of 3\n\nSEROSA: NO PATHOLOGIC DIAGNOSIS.\nSPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.\nB. ANAL SKIN TAG: ANAL SKIN TAG.\nC. LEFT PELVIC LYMPH NODES: NO TUMOR IN 19 LYMPH NODES (0/19).\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 13 LYMPH NODES (0/13).\nE. RIGHT AORTIC LYMPH NODE: NO TUMOR IN 4 LYMPH NODES (0/4).\nF. LEFT AORTIC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nG. RIGHT COMMON ILIAC LYMPH NODES: FAT ONLY\n\nNOTE\n#1: Most of the nodal tissue in all specimens is fat.\n#2: The tumor is poorly-differentiated tumor, consisting in part of sheets of\nundifferentiated cells and in elsewhere, as expanses of tightly clustered\nsmall acini. Some areas are suggestive of showing slight squamous\ndifferentiation. Because the tumor is composed of nuclei that are on the\nsmaller side and have minimal cytoplasm, an immunoprofile will be performed to\nexclude the possibility of a neuroendocrine component. This will be reported\nseparately.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\nImmunoperoxidase stains for chromogranin and synaptophysin are negative in the\ntumor cells, i.e. there is no evidence of neuroendocrine differentiation. The\nprevious diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nPerformed by:\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.990762930861575,
+            "mean_log_probability": -0.012006239130434783,
+            "perplexity": 1.012078603336796,
+            "min_probability": 0.31265247775132277
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 461,
+            "total_tokens": 2933
+          },
+          "composite_score": 0.945808960386844,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.397592544555664,
+          "chars": 1553,
+          "words": 241,
+          "text": "Page 3 of 3\n\nSEROSA: NO PATHOLOGIC DIAGNOSIS.\nSPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.\nB. ANAL SKIN TAG: ANAL SKIN TAG.\nC. LEFT PELVIC LYMPH NODES: NO TUMOR IN 19 LYMPH NODES (0/19).\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 13 LYMPH NODES (0/13).\nE. RIGHT AORTIC LYMPH NODE: NO TUMOR IN 4 LYMPH NODES (0/4).\nF. LEFT AORTIC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nG. RIGHT COMMON ILIAC LYMPH NODES: FAT ONLY\n\nNOTE\n#1: Most of the nodal tissue in all specimens is fat.\n#2: The tumor is poorly-differentiated tumor, consisting in part of sheets of\nundifferentiated cells and in elsewhere, as expanses of tightly clustered\nsmall acini. Some areas are suggestive of showing slight squamous\ndifferentiation. Because the tumor is composed of nuclei that are on the\nsmaller side and have minimal cytoplasm, an immunoprofile will be performed to\nexclude the possibility of a neuroendocrine component. This will be reported\nseparately.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\nImmunoperoxidase stains for chromogranin and synaptophysin are negative in the\ntumor cells, i.e. there is no evidence of neuroendocrine differentiation. The\nprevious diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nPerformed by:\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.9903434007243974,
+            "mean_log_probability": -0.012696778260869564,
+            "perplexity": 1.0127777245729799,
+            "min_probability": 0.2930749208768663
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 461,
+            "total_tokens": 2933
+          },
+          "composite_score": 0.8980064306538702
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.228979587554932,
+          "chars": 1517,
+          "words": 238,
+          "text": "Page 3 of 3\n\nSEROSA: NO PATHOLOGIC DIAGNOSIS.\nSPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR\nA. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.\nB. ANAL SKIN TAG: ANAL SKIN TAG.\nC. LEFT PELVIC LYMPH NODES: NO TUMOR IN 19 LYMPH NODES (0/19).\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 13 LYMPH NODES (0/13).\nE. RIGHT AORTIC LYMPH NODE: NO TUMOR IN 4 LYMPH NODES (0/4).\nF. LEFT AORTIC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).\nG. RIGHT COMMON ILIAC LYMPH NODES: FAT ONLY\n\nNOTE\n#1: Most of the nodal tissue in all specimens is fat.\n#2: The tumor is poorly-differentiated tumor, consisting in part of sheets of undifferentiated cells and in elsewhere, as expanses of tightly clustered small acini. Some areas are suggestive of showing slight squamous differentiation. Because the tumor is composed of nuclei that are on the smaller side and have minimal cytoplasm, an immunoprofile will be performed to exclude the possibility of a neuroendocrine component. This will be reported separately.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\nADDENDUM 1:\nImmunoperoxidase stains for chromogranin and synaptophysin are negative in the tumor cells, i.e. there is no evidence of neuroendocrine differentiation. The previous diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\nPerformed by:",
+          "confidence": {
+            "mean_probability": 0.9920743725371299,
+            "mean_log_probability": -0.012639878787878787,
+            "perplexity": 1.012720099693623,
+            "min_probability": 0.19607834112360512
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 430,
+            "total_tokens": 2902
+          },
+          "composite_score": 0.8946285990789868
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

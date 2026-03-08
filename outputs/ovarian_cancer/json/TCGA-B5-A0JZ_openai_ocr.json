@@ -1,0 +1,365 @@
+{
+  "pdf": "reports\\TCGA-B5-A0JZ\\TCGA-B5-A0JZ.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 34.87893080711365,
+        "chars": 2497,
+        "words": 417,
+        "text": "Page 1 of 4\n\n[Redacted]\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri 182.0.\n\nGROSS EXAMINATION:\nA. \"Right tube and ovary\", received fresh for gross consultation diagnosis is a 154 gram, 8 x 7 x 7 cm serous filled cyst with no residual ovary (A1-2). The attached tube (4 cm in length x 0.8 cm in diameter) and fimbria are grossly unremarkable (A3).\n\nB. \"Uterus and cervix (BF1)\", received is a 257 gram, 11 x 7.5 x 7.5 cm hysterectomy specimen with attached cervix (2.5 cm). The anterior and posterior cervix (3 cm long x 1 cm in diameter) is tan-brown and has a herringbone appearance and is submitted in blocks B1-2, respectively. The endometrial cavity (9.5 x 6 cm) is entirely covered by a white-tan, friable mass which grossly comes within 0.5 cm of both the anterior and posterior cervix. Sectioning reveals an endometrium with the average thickness of 3 cm and a myometrium of 2 cm. The deepest invasion is grossly 1.4 cm into a 2 cm myometrium (B3-BF1).\n\nBLOCK SUMMARY:\n\nB1- anterior cervix\nB2- posterior cervix\nB3- BF1\nB4-5- anterior endomyometrium, full-thickness deepest invasion\nB6- posterior endomyometrium\nB7- representative section of tumor\n\nC. \"Left tube and ovary\", received is a 36 gram, 4.5 x 3.5 x 3 cm thin-walled clear fluid-filled, uniloculated ovarian cyst with no residual ovary (C1-2). The fallopian tube (3.5 cm long x 0.5 cm in diameter) has attached fimbria and both are grossly unremarkable (C3).\n\nD. \"Right round ligament\", received is a 2.8 x 1.2 x 0.9 cm aggregate of fibrofatty tissue. The specimen is sectioned and submitted in its entirety in D1-2.\n\nE. \"Right pelvic lymph node\", received is a 7.8 x 4 x 1.8 cm aggregate of fibrofatty tissue which is dissected for nodes and submitted as follows:\n\nBLOCK SUMMARY:\nE1-2- one lymph node each, bisected\nE3- one lymph node, bisected\nE4- two lymph nodes\nE5- one lymph node, bisected\n\nF. \"Right obturator\", received is a 5 x 3 x 2.8 cm aggregate of fibrofatty tissue which contains one 2.5 cm lymph node, submitted in toto with surrounding tissue, in F1-F7.\n\nG. \"Left external iliac node\", received is a 5 x 4.5 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nG1- four lymph nodes\n\n[Redacted]\n\nCriteria Yes No\nDiagnosis Discrepancy X\nPrimary Tumor Site Discrepancy X\nHIPAA Discrepancy X\nPrior Malignancy History X\nDual/Synchronous Primary [redacted]\nCase is (circle) QUALIFIED / DISQUALIFIED\nReviewed in [redacted] Date Reviewed: [redacted]",
+        "confidence": {
+          "mean_probability": 0.9828665050988905,
+          "mean_log_probability": -0.02480951131824234,
+          "perplexity": 1.0251198281998133,
+          "min_probability": 0.06774992000235987
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 752,
+          "total_tokens": 3224
+        },
+        "composite_score": 0.9806328797348267,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 34.87893080711365,
+          "chars": 2497,
+          "words": 417,
+          "text": "Page 1 of 4\n\n[Redacted]\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri 182.0.\n\nGROSS EXAMINATION:\nA. \"Right tube and ovary\", received fresh for gross consultation diagnosis is a 154 gram, 8 x 7 x 7 cm serous filled cyst with no residual ovary (A1-2). The attached tube (4 cm in length x 0.8 cm in diameter) and fimbria are grossly unremarkable (A3).\n\nB. \"Uterus and cervix (BF1)\", received is a 257 gram, 11 x 7.5 x 7.5 cm hysterectomy specimen with attached cervix (2.5 cm). The anterior and posterior cervix (3 cm long x 1 cm in diameter) is tan-brown and has a herringbone appearance and is submitted in blocks B1-2, respectively. The endometrial cavity (9.5 x 6 cm) is entirely covered by a white-tan, friable mass which grossly comes within 0.5 cm of both the anterior and posterior cervix. Sectioning reveals an endometrium with the average thickness of 3 cm and a myometrium of 2 cm. The deepest invasion is grossly 1.4 cm into a 2 cm myometrium (B3-BF1).\n\nBLOCK SUMMARY:\n\nB1- anterior cervix\nB2- posterior cervix\nB3- BF1\nB4-5- anterior endomyometrium, full-thickness deepest invasion\nB6- posterior endomyometrium\nB7- representative section of tumor\n\nC. \"Left tube and ovary\", received is a 36 gram, 4.5 x 3.5 x 3 cm thin-walled clear fluid-filled, uniloculated ovarian cyst with no residual ovary (C1-2). The fallopian tube (3.5 cm long x 0.5 cm in diameter) has attached fimbria and both are grossly unremarkable (C3).\n\nD. \"Right round ligament\", received is a 2.8 x 1.2 x 0.9 cm aggregate of fibrofatty tissue. The specimen is sectioned and submitted in its entirety in D1-2.\n\nE. \"Right pelvic lymph node\", received is a 7.8 x 4 x 1.8 cm aggregate of fibrofatty tissue which is dissected for nodes and submitted as follows:\n\nBLOCK SUMMARY:\nE1-2- one lymph node each, bisected\nE3- one lymph node, bisected\nE4- two lymph nodes\nE5- one lymph node, bisected\n\nF. \"Right obturator\", received is a 5 x 3 x 2.8 cm aggregate of fibrofatty tissue which contains one 2.5 cm lymph node, submitted in toto with surrounding tissue, in F1-F7.\n\nG. \"Left external iliac node\", received is a 5 x 4.5 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nG1- four lymph nodes\n\n[Redacted]\n\nCriteria Yes No\nDiagnosis Discrepancy X\nPrimary Tumor Site Discrepancy X\nHIPAA Discrepancy X\nPrior Malignancy History X\nDual/Synchronous Primary [redacted]\nCase is (circle) QUALIFIED / DISQUALIFIED\nReviewed in [redacted] Date Reviewed: [redacted]",
+          "confidence": {
+            "mean_probability": 0.9828665050988905,
+            "mean_log_probability": -0.02480951131824234,
+            "perplexity": 1.0251198281998133,
+            "min_probability": 0.06774992000235987
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 752,
+            "total_tokens": 3224
+          },
+          "composite_score": 0.9806328797348267,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 23.251892805099487,
+          "chars": 2648,
+          "words": 432,
+          "text": "Page 1 of 4\n\n[Redacted]\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri 182.0.\n\nGROSS EXAMINATION:\nA. \"Right tube and ovary\", received fresh for gross consultation diagnosis is a 154 gram, 8 x 7 x 7 cm serous filled cyst with no residual ovary (A1-2). The attached tube (4 cm in length x 0.8 cm in diameter) and fimbria are grossly unremarkable (A3).\n\nB. \"Uterus and cervix (BF1)\", received is a 257 gram, 11 x 7.5 x 7.5 cm hysterectomy specimen with attached cervix (2.5 cm). The anterior and posterior cervix (3 cm long x 1 cm in diameter) is tan-brown and has a herringbone appearance and is submitted in blocks B1-2, respectively. The endometrial cavity (9.5 x 6 cm) is entirely covered by a white-tan, friable mass which grossly comes within 0.5 cm of both the anterior and posterior cervix. Sectioning reveals an endometrium with the average thickness of 3 cm and a myometrium of 2 cm. The deepest invasion is grossly 1.4 cm into a 2 cm myometrium (B3-BF1).\n\nBLOCK SUMMARY:\n\nB1- anterior cervix\nB2- posterior cervix\nB3- BF1\nB4-5- anterior endomyometrium, full-thickness deepest invasion\nB6- posterior endomyometrium\nB7- representative section of tumor\n\nC. \"Left tube and ovary\", received is a 36 gram, 4.5 x 3.5 x 3 cm thin-walled clear fluid-filled, uniloculated ovarian cyst with no residual ovary (C1-2). The fallopian tube (3.5 cm long x 0.5 cm in diameter) has attached fimbria and both are grossly unremarkable (C3).\n\nD. \"Right round ligament\", received is a 2.8 x 1.2 x 0.9 cm aggregate of fibrofatty tissue. The specimen is sectioned and submitted in its entirety in D1-2.\n\nE. \"Right pelvic lymph node\", received is a 7.8 x 4 x 1.8 cm aggregate of fibrofatty tissue which is dissected for nodes and submitted as follows:\n\nBLOCK SUMMARY:\nE1-2- one lymph node each, bisected\nE3- one lymph node, bisected\nE4- two lymph nodes\nE5- one lymph node, bisected\n\nF. \"Right obturator\", received is a 5 x 3 x 2.8 cm aggregate of fibrofatty tissue which contains one 2.5 cm lymph node, submitted in toto with surrounding tissue, in F1-F7.\n\nG. \"Left external iliac node\", received is a 5 x 4.5 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nG1- four lymph nodes\n\n\n[Table with criteria and check marks]\n\nCriteria                  Yes   No\nDiagnosis Discrepancy      X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy         X\nPrior Malignancy History  X\nDual/Synchronous Primary  X\nCase is (circle) QUALIFIED / DISQUALIFIED\nReviewed in [illegible]  Date Reviewed: [illegible]\n\n[Redacted]\n\nICD-O-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: Endometrium C54.1 2/25/11",
+          "confidence": {
+            "mean_probability": 0.9726483211566006,
+            "mean_log_probability": -0.04013377419354839,
+            "perplexity": 1.0409500171276904,
+            "min_probability": 0.04034523431159727
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 807,
+            "total_tokens": 3279
+          },
+          "composite_score": 0.6444726713037251
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 21.68265199661255,
+          "chars": 2501,
+          "words": 417,
+          "text": "Page 1 of 4\n\n[Redacted]\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neocorpus uteri 182.0.\n\nGROSS EXAMINATION:\nA. \"Right tube and ovary\", received fresh for gross consultation diagnosis is a 154 gram, 8 x 7 x 7 cm serous filled cyst with no residual ovary (A1-2). The attached tube (4 cm in length x 0.8 cm in diameter) and fimbria are grossly unremarkable (A3).\n\nB. \"Uterus and cervix (BF1)\", received is a 257 gram, 11 x 7.5 x 7.5 cm hysterectomy specimen with attached cervix (2.5 cm). The anterior and posterior cervix (3 cm long x 1 cm in diameter) is tan-brown and has a herringbone appearance and is submitted in blocks B1-2, respectively. The endometrial cavity (9.5 x 6 cm) is entirely covered by a white-tan, friable mass which grossly comes within 0.5 cm of both the anterior and posterior cervix. Sectioning reveals an endometrium with the average thickness of 3 cm and a myometrium of 2 cm. The deepest invasion is grossly 1.4 cm into a 2 cm myometrium (B3-BF1).\n\nBLOCK SUMMARY:\n\nB1- anterior cervix\nB2- posterior cervix\nB3- BF1\nB4-5- anterior endomyometrium, full-thickness deepest invasion\nB6- posterior endomyometrium\nB7- representative section of tumor\n\nC. \"Left tube and ovary\", received is a 36 gram, 4.5 x 3.5 x 3 cm thin-walled clear fluid-filled, uniloculated ovarian cyst with no residual ovary (C1-2). The fallopian tube (3.5 cm long x 0.5 cm in diameter) has attached fimbria and both are grossly unremarkable (C3).\n\nD. \"Right round ligament\", received is a 2.8 x 1.2 x 0.9 cm aggregate of fibrofatty tissue. The specimen is sectioned and submitted in its entirety in D1-2.\n\nE. \"Right pelvic lymph node\", received is a 7.8 x 4 x 1.8 cm aggregate of fibrofatty tissue which is dissected for nodes and submitted as follows:\n\nBLOCK SUMMARY: \nE1-2- one lymph node each, bisected\nE3- one lymph node, bisected\nE4- two lymph nodes\nE5- one lymph node, bisected\n\nF. \"Right obturator\", received is a 5 x 3 x 2.8 cm aggregate of fibrofatty tissue which contains one 2.5 cm lymph node, submitted in toto with surrounding tissue, in F1-F7.\n\nG. \"Left external iliac node\", received is a 5 x 4.5 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nG1- four lymph nodes\n\n[Redacted]\n\nCriteria       Yes  No\nDiagnosis Discrepancy  X\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy  X\nPrior Malignancy History  X\nDual/Synchronous Primary  X\nCase is (circle) QUALIFIED / DISQUALIFIED\nReviewed in [Redacted] Date Reviewed: [Redacted]",
+          "confidence": {
+            "mean_probability": 0.9769560000310099,
+            "mean_log_probability": -0.03692244327176781,
+            "perplexity": 1.0376125438833566,
+            "min_probability": 0.03885101796758189
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 759,
+            "total_tokens": 3231
+          },
+          "composite_score": 0.6460566933447767
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 18.05418586730957,
+        "chars": 2134,
+        "words": 336,
+        "text": "Page 2 of 4\n\nG2- one lymph node, bisected\nG3-5- one lymph node, trisected\n\nH. \"Right aortic node\", received is a 3 x 2.8 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nH1- one lymph node\nH2- one lymph node\nH3- two lymph nodes\n\nI. \"Left obturator\", received is a 5 x 2 x 2 cm aggregate of fibrofatty tissue which is dissected. One lymph node is sectioned and submitted in 11-3, 14 one lymph node.\n\nJ. \"High aortic node\", received is a 1 x 1 x 0.8 cm aggregate of fibrofatty tissue which is bisected and submitted in its entirety in J1.\n\nK. \"Left aortic node\", received is a 3.2 x 2.5 x 1 cm aggregate of fibrofatty tissue which is dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nK1- one lymph node, bisected\nK2- one lymph node\nK3- remaining fibrofatty tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right tube and ovary\": AF1- grossly benign (Dr.\n\nB. \"Uterus and cervix\": BF1- (thickest invasion posterior wall, grossly 1.4 cm invasion into a 2 cm thick wall) endometrioid adenocarcinoma grade II approximately 50% invasion\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTEROSALPINGO-OOPHORECTOMY AND NODE DISSECTION\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH NO PATHOLOGIC DIAGNOSIS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nB. UTERUS: 257 GRAMS\nENDOMETRIUM:",
+        "confidence": {
+          "mean_probability": 0.990235051320354,
+          "mean_log_probability": -0.013488360068259384,
+          "perplexity": 1.0135797383825733,
+          "min_probability": 0.15101516752896613
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 587,
+          "total_tokens": 3059
+        },
+        "composite_score": 0.9893529235462746,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 18.05418586730957,
+          "chars": 2134,
+          "words": 336,
+          "text": "Page 2 of 4\n\nG2- one lymph node, bisected\nG3-5- one lymph node, trisected\n\nH. \"Right aortic node\", received is a 3 x 2.8 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nH1- one lymph node\nH2- one lymph node\nH3- two lymph nodes\n\nI. \"Left obturator\", received is a 5 x 2 x 2 cm aggregate of fibrofatty tissue which is dissected. One lymph node is sectioned and submitted in 11-3, 14 one lymph node.\n\nJ. \"High aortic node\", received is a 1 x 1 x 0.8 cm aggregate of fibrofatty tissue which is bisected and submitted in its entirety in J1.\n\nK. \"Left aortic node\", received is a 3.2 x 2.5 x 1 cm aggregate of fibrofatty tissue which is dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nK1- one lymph node, bisected\nK2- one lymph node\nK3- remaining fibrofatty tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right tube and ovary\": AF1- grossly benign (Dr.\n\nB. \"Uterus and cervix\": BF1- (thickest invasion posterior wall, grossly 1.4 cm invasion into a 2 cm thick wall) endometrioid adenocarcinoma grade II approximately 50% invasion\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTEROSALPINGO-OOPHORECTOMY AND NODE DISSECTION\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH NO PATHOLOGIC DIAGNOSIS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nB. UTERUS: 257 GRAMS\nENDOMETRIUM:",
+          "confidence": {
+            "mean_probability": 0.990235051320354,
+            "mean_log_probability": -0.013488360068259384,
+            "perplexity": 1.0135797383825733,
+            "min_probability": 0.15101516752896613
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 587,
+            "total_tokens": 3059
+          },
+          "composite_score": 0.9893529235462746,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 15.116273403167725,
+          "chars": 2225,
+          "words": 336,
+          "text": "Page 2 of 4\n\n      G2-    one lymph node, bisected\n      G3-5-  one lymph node, trisected\n\nH. \"Right aortic node\", received is a 3 x 2.8 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nH1-  one lymph node\nH2-  one lymph node\nH3-  two lymph nodes\n\nI. \"Left obturator\", received is a 5 x 2 x 2 cm aggregate of fibrofatty tissue which is dissected.  One lymph node is sectioned and submitted in 11-3, 14 one lymph node.\n\nJ. \"High aortic node\", received is a 1 x 1 x 0.8 cm aggregate of fibrofatty tissue which is bisected and submitted in its entirety in J1.\n\nK. \"Left aortic node\", received is a 3.2 x 2.5 x 1 cm aggregate of fibrofatty tissue which is dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nK1-  one lymph node, bisected\nK2-  one lymph node\nK3-  remaining fibrofatty tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right tube and ovary\":  AF1- grossly benign (Dr.\n\nB. \"Uterus and cervix\":  BF1- (thickest invasion posterior wall, grossly 1.4 cm\n                     invasion into a 2 cm thick wall) endometrioid\n                     adenocarcinoma grade II approximately 50% invasion\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTEROSALPINGO-OOPHORECTOMY AND NODE DISSECTION\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT TUBE AND OVARY\":\n\n      OVARY WITH BENIGN SIMPLE CYST.\n      FALLOPIAN TUBE WITH NO PATHOLOGIC DIAGNOSIS.\n      THERE IS NO EVIDENCE OF MALIGNANCY.\n\nB. UTERUS: 257 GRAMS\n      ENDOMETRIUM:",
+          "confidence": {
+            "mean_probability": 0.9811028139557803,
+            "mean_log_probability": -0.030106831683168318,
+            "perplexity": 1.03056462502631,
+            "min_probability": 0.03896190130248759
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 607,
+            "total_tokens": 3079
+          },
+          "composite_score": 0.6494512879996394
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.444240093231201,
+          "chars": 2142,
+          "words": 336,
+          "text": "Page 2 of 4\n\nG2-\tone lymph node, bisected\nG3-5-\tone lymph node, trisected\n\nH. \"Right aortic node\", received is a 3 x 2.8 x 2 cm aggregate of fibrofatty tissue which is dissected for lymph nodes and submitted as follows:\n\nBLOCK SUMMARY:\n\nH1-\tone lymph node\nH2-\tone lymph node\nH3-\ttwo lymph nodes\n\nI. \"Left obturator\", received is a 5 x 2 x 2 cm aggregate of fibrofatty tissue which is dissected.\tOne lymph node is sectioned and submitted in I1-3, I4 one lymph node.\n\nJ. \"High aortic node\", received is a 1 x 1 x 0.8 cm aggregate of fibrofatty tissue which is bisected and submitted in its entirety in J1.\n\nK. \"Left aortic node\", received is a 3.2 x 2.5 x 1 cm aggregate of fibrofatty tissue which is dissected and submitted as follows:\n\nBLOCK SUMMARY:\n\nK1-\tone lymph node, bisected\nK2-\tone lymph node\nK3-\tremaining fibrofatty tissue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Right tube and ovary\": AF1- grossly benign (Dr.\n\nB. \"Uterus and cervix\": BF1- (thickest invasion posterior wall, grossly 1.4 cm\n\t\tinvasion into a 2 cm thick wall) endometrioid\n\t\tadenocarcinoma grade II approximately 50% invasion\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTEROSALPINGO-OOPHORECTOMY AND NODE DISSECTION\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1c pN1 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"RIGHT TUBE AND OVARY\":\n\n\tOVARY WITH BENIGN SIMPLE CYST.\n\tFALLOPIAN TUBE WITH NO PATHOLOGIC DIAGNOSIS.\n\tTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nB. UTERUS: 257 GRAMS\n\tENDOMETRIUM:",
+          "confidence": {
+            "mean_probability": 0.9849566119443731,
+            "mean_log_probability": -0.020895668874172185,
+            "perplexity": 1.0211155119489606,
+            "min_probability": 0.17072640065669076
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 605,
+            "total_tokens": 3077
+          },
+          "composite_score": 0.9344443376257205
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 13.210250616073608,
+        "chars": 1462,
+        "words": 209,
+        "text": "Page 3 of 4\n\nTUMOR SITE: DIFFUSE  ✓\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 3 ✓\nTUMOR SIZE: APPROXIMATELY 8.5 X 5.5 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.4 CM, IN A 2.3 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: ABSENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS\nREMAINING MYOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS.\nCERVIX: NEGATIVE FOR TUMOR.\nSEROSA: NEGATIVE FOR TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nC. \"LEFT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH ADHESIONS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nD. \"RIGHT ROUND LIGAMENT\":\n\nNEGATIVE FOR CARCINOMA.\n\nE. \"RIGHT PELVIC LYMPH NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nF. \"RIGHT OBTURATOR\" (NODE DISSECTION):\n\nONE OF FIVE LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (1/5).\nMAXIMUM OF SIZE OF METASTASES: 8 MM.\nEXTRANODAL EXTENSION: ABSENT.\n\nG. \"LEFT EXTERNAL ILIAC NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nH. \"RIGHT AORTIC NODE\" (DISSECTION):\n\nFOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).\n\nI. \"LEFT OBTURATOR\":\n\nTWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).\n\nJ. \"HIGH AORTIC NODE\":\n\nONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).\n\nK. \"LEFT AORTIC NODE\":\n\nTHREE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).\nREPORT REVISED ON       AT       BY\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+        "confidence": {
+          "mean_probability": 0.9866890050264105,
+          "mean_log_probability": -0.02186705037313433,
+          "perplexity": 1.0221078865747146,
+          "min_probability": 0.11705024405479712
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 537,
+          "total_tokens": 3009
+        },
+        "composite_score": 0.929080708119398,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 13.210250616073608,
+          "chars": 1462,
+          "words": 209,
+          "text": "Page 3 of 4\n\nTUMOR SITE: DIFFUSE  ✓\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 3 ✓\nTUMOR SIZE: APPROXIMATELY 8.5 X 5.5 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.4 CM, IN A 2.3 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: ABSENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS\nREMAINING MYOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS.\nCERVIX: NEGATIVE FOR TUMOR.\nSEROSA: NEGATIVE FOR TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nC. \"LEFT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH ADHESIONS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nD. \"RIGHT ROUND LIGAMENT\":\n\nNEGATIVE FOR CARCINOMA.\n\nE. \"RIGHT PELVIC LYMPH NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nF. \"RIGHT OBTURATOR\" (NODE DISSECTION):\n\nONE OF FIVE LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (1/5).\nMAXIMUM OF SIZE OF METASTASES: 8 MM.\nEXTRANODAL EXTENSION: ABSENT.\n\nG. \"LEFT EXTERNAL ILIAC NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nH. \"RIGHT AORTIC NODE\" (DISSECTION):\n\nFOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).\n\nI. \"LEFT OBTURATOR\":\n\nTWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).\n\nJ. \"HIGH AORTIC NODE\":\n\nONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).\n\nK. \"LEFT AORTIC NODE\":\n\nTHREE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).\nREPORT REVISED ON       AT       BY\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9866890050264105,
+            "mean_log_probability": -0.02186705037313433,
+            "perplexity": 1.0221078865747146,
+            "min_probability": 0.11705024405479712
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 537,
+            "total_tokens": 3009
+          },
+          "composite_score": 0.929080708119398,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 14.294049978256226,
+          "chars": 1464,
+          "words": 209,
+          "text": "Page 3 of 4\n\nTUMOR SITE: DIFFUSE  ✓\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 3 ✓\nTUMOR SIZE: APPROXIMATELY 8.5 X 5.5 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.4 CM, IN A 2.3 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: ABSENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS\nREMAINING MYOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS.\nCERVIX: NEGATIVE FOR TUMOR.\nSEROSA: NEGATIVE FOR TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nC. \"LEFT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH ADHESIONS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nD. \"RIGHT ROUND LIGAMENT\":\n\nNEGATIVE FOR CARCINOMA.\n\nE. \"RIGHT PELVIC LYMPH NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nF. \"RIGHT OBTURATOR\" (NODE DISSECTION):\n\nONE OF FIVE LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (1/5).\nMAXIMUM OF SIZE OF METASTASES: 8 MM.\nEXTRANODAL EXTENSION: ABSENT.\n\nG. \"LEFT EXTERNAL ILIAC NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nH. \"RIGHT AORTIC NODE\" (DISSECTION):\n\nFOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).\n\nI. \"LEFT OBTURATOR\":\n\nTWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).\n\nJ. \"HIGH AORTIC NODE\":\n\nONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).\n\nK. \"LEFT AORTIC NODE\":\n\nTHREE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).\nREPORT REVISED ON        AT        BY\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9865612382648349,
+            "mean_log_probability": -0.02204852052238806,
+            "perplexity": 1.0222933854761924,
+            "min_probability": 0.12702060012103794
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 537,
+            "total_tokens": 3009
+          },
+          "composite_score": 0.8826846183125922
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.201500415802002,
+          "chars": 1476,
+          "words": 209,
+          "text": "Page 3 of 4\n\nTUMOR SITE: DIFFUSE        ✓\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.\nFIGO GRADE: 3 ✓\nTUMOR SIZE: APPROXIMATELY 8.5 X 5.5 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.4 CM, IN A 2.3 THICK WALL.\nLYMPHATIC/VASCULAR INVASION: ABSENT\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS\nREMAINING MYOMETRIUM: NO SPECIFIC PATHOLOGIC DIAGNOSIS.\nCERVIX: NEGATIVE FOR TUMOR.\nSEROSA: NEGATIVE FOR TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\n\nC. \"LEFT TUBE AND OVARY\":\n\nOVARY WITH BENIGN SIMPLE CYST.\nFALLOPIAN TUBE WITH ADHESIONS.\nTHERE IS NO EVIDENCE OF MALIGNANCY.\n\nD. \"RIGHT ROUND LIGAMENT\":\n\nNEGATIVE FOR CARCINOMA.\n\nE. \"RIGHT PELVIC LYMPH NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nF. \"RIGHT OBTURATOR\" (NODE DISSECTION):\n\nONE OF FIVE LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (1/5).\nMAXIMUM OF SIZE OF METASTASES: 8 MM.\nEXTRANODAL EXTENSION: ABSENT.\n\nG. \"LEFT EXTERNAL ILIAC NODE\" (DISSECTION):\n\nSIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6).\n\nH. \"RIGHT AORTIC NODE\" (DISSECTION):\n\nFOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).\n\nI. \"LEFT OBTURATOR\":\n\nTWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).\n\nJ. \"HIGH AORTIC NODE\":\n\nONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).\n\nK. \"LEFT AORTIC NODE\":\n\nTHREE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).\nREPORT REVISED ON            AT          BY\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).",
+          "confidence": {
+            "mean_probability": 0.9863900756982245,
+            "mean_log_probability": -0.02637709514925373,
+            "perplexity": 1.0267280496489926,
+            "min_probability": 0.0430917377407397
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 537,
+            "total_tokens": 3009
+          },
+          "composite_score": 0.616482012690733
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 2.395425319671631,
+        "chars": 241,
+        "words": 37,
+        "text": "Page 4 of 4\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Repo for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n\n\n\nhttps://",
+        "confidence": {
+          "mean_probability": 0.9555629059828986,
+          "mean_log_probability": -0.05693190384615384,
+          "perplexity": 1.0585837224610486,
+          "min_probability": 0.4084078383704798
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 53,
+          "total_tokens": 2525
+        },
+        "composite_score": 0.7810077980225748,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 2.395425319671631,
+          "chars": 241,
+          "words": 37,
+          "text": "Page 4 of 4\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Repo for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n\n\n\nhttps://",
+          "confidence": {
+            "mean_probability": 0.9555629059828986,
+            "mean_log_probability": -0.05693190384615384,
+            "perplexity": 1.0585837224610486,
+            "min_probability": 0.4084078383704798
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 53,
+            "total_tokens": 2525
+          },
+          "composite_score": 0.7810077980225748,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.903902292251587,
+          "chars": 241,
+          "words": 37,
+          "text": "Page 4 of 4\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Repo for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n\n\n\nhttps://",
+          "confidence": {
+            "mean_probability": 0.9460098129338953,
+            "mean_log_probability": -0.07409563461538461,
+            "perplexity": 1.0769097904252907,
+            "min_probability": 0.2922995927869047
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 53,
+            "total_tokens": 2525
+          },
+          "composite_score": 0.7304670033739297
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 1.7762823104858398,
+          "chars": 241,
+          "words": 37,
+          "text": "Page 4 of 4\n\nCI ADDENDUM 1:\nPlease see Image Cytometry Repo for results of supplementary tests.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n\n\n\nhttps://",
+          "confidence": {
+            "mean_probability": 0.9481543867207767,
+            "mean_log_probability": -0.06595663461538462,
+            "perplexity": 1.0681803941079628,
+            "min_probability": 0.4197197719630073
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 53,
+            "total_tokens": 2525
+          },
+          "composite_score": 0.7358695951384046
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
