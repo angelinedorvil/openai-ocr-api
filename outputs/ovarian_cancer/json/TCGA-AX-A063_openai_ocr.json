@@ -180,6 +180,194 @@
         }
       ],
       "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 25.282859086990356,
+        "chars": 2567,
+        "words": 403,
+        "text": "Patient Name:  ,  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nadditional sections from non-tumorous endometrium; A11 - larger uterine mass; A12 - posterior serosa; A13 through A15 - right adnexal structures; A16 through A18 - left adnexal structures. Jar 3.  \nThe second container is labeled \"right external iliac node\" and contains several irregular fragments of fibrofatty tissue measuring 7 x 4 x 1 cm in aggregate.  \nSectioning show two putative lymph nodes and adipose tissue. Labeled B1. Jar 1.  \nThe third container is labeled \"right obturator node\" and contains several irregular fragments of fibroadipose tissue measuring 5 x 3 x 1.5 cm. Sectioned to show multiple lymph nodes labeled C1 to C3. Jar 1.  \nThe fourth container is labeled \"left external iliac\" and contains several irregular portions of fibrofatty tissue measuring 5 cc in aggregate. Dissected to show two lymph nodes. Labeled D1. Jar 1.  \nThe fifth container is labeled \"left obturator node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 1 cm in aggregate. Dissected to show multiple lymph nodes. Labeled E1 and E2. Jar 1.  \nThe sixth container is labeled \"right periaortic lymph node\" and contains an irregular portion of fibrofatty tissue measuring 3.5 x 1.5 x 1 cm. Bisected to show one lymph node. Bisected. Labeled F1 and F2. Jar 1.  \nThe seventh container is labeled \"left periaortic lymph node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 0.8 cm in aggregate Labeled G1. Jar 1.  \n\n, M.D.  \nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, endometrioid type  \n\nFIGO GRADE  \nThe FIGO Grade of the tumor is 6 to 50% solid growth pattern (FII)  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 20 mm  \n\nENDOCERVICAL INVOLVEMENT  \nThe endocervix is not involved by tumor  \n\nLYMPHVASCULAR SPACE INVASION  \nLymphvascular space invasion by tumor is absent  \n\nREGIONAL LYMPH NODES (N)  \nNo regional lymph node metastasis (NO)  \nThe regional lymph nodes are free of tumor in 22 nodes  \nThe total number of lymph nodes examined is 22  \n\nDISTANT METASTASIS (M)  \nDistant metastasis cannot be assessed (MX)  \n\nPRIMARY TUMOR (TNM Category/FIGO Stage)  \nTumor invades less than one-half of the myometrium (T1b/IB)  \n\nSTAGE GROUPING  \nThe overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)  \n\nPage 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9890072659023404,
+          "mean_log_probability": -0.013843863764044943,
+          "perplexity": 1.0139401337826945,
+          "min_probability": 0.2098150186551174
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 713,
+          "total_tokens": 3185
+        },
+        "composite_score": 0.989076137453633,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 25.282859086990356,
+          "chars": 2567,
+          "words": 403,
+          "text": "Patient Name:  ,  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nadditional sections from non-tumorous endometrium; A11 - larger uterine mass; A12 - posterior serosa; A13 through A15 - right adnexal structures; A16 through A18 - left adnexal structures. Jar 3.  \nThe second container is labeled \"right external iliac node\" and contains several irregular fragments of fibrofatty tissue measuring 7 x 4 x 1 cm in aggregate.  \nSectioning show two putative lymph nodes and adipose tissue. Labeled B1. Jar 1.  \nThe third container is labeled \"right obturator node\" and contains several irregular fragments of fibroadipose tissue measuring 5 x 3 x 1.5 cm. Sectioned to show multiple lymph nodes labeled C1 to C3. Jar 1.  \nThe fourth container is labeled \"left external iliac\" and contains several irregular portions of fibrofatty tissue measuring 5 cc in aggregate. Dissected to show two lymph nodes. Labeled D1. Jar 1.  \nThe fifth container is labeled \"left obturator node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 1 cm in aggregate. Dissected to show multiple lymph nodes. Labeled E1 and E2. Jar 1.  \nThe sixth container is labeled \"right periaortic lymph node\" and contains an irregular portion of fibrofatty tissue measuring 3.5 x 1.5 x 1 cm. Bisected to show one lymph node. Bisected. Labeled F1 and F2. Jar 1.  \nThe seventh container is labeled \"left periaortic lymph node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 0.8 cm in aggregate Labeled G1. Jar 1.  \n\n, M.D.  \nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, endometrioid type  \n\nFIGO GRADE  \nThe FIGO Grade of the tumor is 6 to 50% solid growth pattern (FII)  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 20 mm  \n\nENDOCERVICAL INVOLVEMENT  \nThe endocervix is not involved by tumor  \n\nLYMPHVASCULAR SPACE INVASION  \nLymphvascular space invasion by tumor is absent  \n\nREGIONAL LYMPH NODES (N)  \nNo regional lymph node metastasis (NO)  \nThe regional lymph nodes are free of tumor in 22 nodes  \nThe total number of lymph nodes examined is 22  \n\nDISTANT METASTASIS (M)  \nDistant metastasis cannot be assessed (MX)  \n\nPRIMARY TUMOR (TNM Category/FIGO Stage)  \nTumor invades less than one-half of the myometrium (T1b/IB)  \n\nSTAGE GROUPING  \nThe overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)  \n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9890072659023404,
+            "mean_log_probability": -0.013843863764044943,
+            "perplexity": 1.0139401337826945,
+            "min_probability": 0.2098150186551174
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 713,
+            "total_tokens": 3185
+          },
+          "composite_score": 0.989076137453633,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 18.274411916732788,
+          "chars": 2567,
+          "words": 403,
+          "text": "Patient Name:  ,  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nadditional sections from non-tumorous endometrium; A11 - larger uterine mass; A12 - posterior serosa; A13 through A15 - right adnexal structures; A16 through A18 - left adnexal structures. Jar 3.  \nThe second container is labeled \"right external iliac node\" and contains several irregular fragments of fibrofatty tissue measuring 7 x 4 x 1 cm in aggregate.  \nSectioning show two putative lymph nodes and adipose tissue. Labeled B1. Jar 1.  \nThe third container is labeled \"right obturator node\" and contains several irregular fragments of fibroadipose tissue measuring 5 x 3 x 1.5 cm. Sectioned to show multiple lymph nodes labeled C1 to C3. Jar 1.  \nThe fourth container is labeled \"left external iliac\" and contains several irregular portions of fibrofatty tissue measuring 5 cc in aggregate. Dissected to show two lymph nodes. Labeled D1. Jar 1.  \nThe fifth container is labeled \"left obturator node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 1 cm in aggregate. Dissected to show multiple lymph nodes. Labeled E1 and E2. Jar 1.  \nThe sixth container is labeled \"right periaortic lymph node\" and contains an irregular portion of fibrofatty tissue measuring 3.5 x 1.5 x 1 cm. Bisected to show one lymph node. Bisected. Labeled F1 and F2. Jar 1.  \nThe seventh container is labeled \"left periaortic lymph node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 0.8 cm in aggregate Labeled G1. Jar 1.  \n\n, M.D.  \nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, endometrioid type  \n\nFIGO GRADE  \nThe FIGO Grade of the tumor is 6 to 50% solid growth pattern (FII)  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 20 mm  \n\nENDOCERVICAL INVOLVEMENT  \nThe endocervix is not involved by tumor  \n\nLYMPHVASCULAR SPACE INVASION  \nLymphvascular space invasion by tumor is absent  \n\nREGIONAL LYMPH NODES (N)  \nNo regional lymph node metastasis (NO)  \nThe regional lymph nodes are free of tumor in 22 nodes  \nThe total number of lymph nodes examined is 22  \n\nDISTANT METASTASIS (M)  \nDistant metastasis cannot be assessed (MX)  \n\nPRIMARY TUMOR (TNM Category/FIGO Stage)  \nTumor invades less than one-half of the myometrium (T1b/IB)  \n\nSTAGE GROUPING  \nThe overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)  \n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9891735575923596,
+            "mean_log_probability": -0.013457550561797753,
+            "perplexity": 1.0135485109721274,
+            "min_probability": 0.24698442525253608
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 713,
+            "total_tokens": 3185
+          },
+          "composite_score": 0.9399080741750885
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.111178159713745,
+          "chars": 2568,
+          "words": 403,
+          "text": "Patient Name:  -,  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nadditional sections from non-tumorous endometrium; A11 - larger uterine mass; A12 - posterior serosa; A13 through A15 - right adnexal structures; A16 through A18 - left adnexal structures. Jar 3.  \nThe second container is labeled \"right external iliac node\" and contains several irregular fragments of fibrofatty tissue measuring 7 x 4 x 1 cm in aggregate.  \nSectioning show two putative lymph nodes and adipose tissue. Labeled B1. Jar 1.  \nThe third container is labeled \"right obturator node\" and contains several irregular fragments of fibroadipose tissue measuring 5 x 3 x 1.5 cm. Sectioned to show multiple lymph nodes labeled C1 to C3. Jar 1.  \nThe fourth container is labeled \"left external iliac\" and contains several irregular portions of fibrofatty tissue measuring 5 cc in aggregate. Dissected to show two lymph nodes. Labeled D1. Jar 1.  \nThe fifth container is labeled \"left obturator node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 1 cm in aggregate. Dissected to show multiple lymph nodes. Labeled E1 and E2. Jar 1.  \nThe sixth container is labeled \"right periaortic lymph node\" and contains an irregular portion of fibrofatty tissue measuring 3.5 x 1.5 x 1 cm. Bisected to show one lymph node. Bisected. Labeled F1 and F2. Jar 1.  \nThe seventh container is labeled \"left periaortic lymph node\" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 0.8 cm in aggregate Labeled G1. Jar 1.  \n\n, M.D.  \nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, endometrioid type  \n\nFIGO GRADE  \nThe FIGO Grade of the tumor is 6 to 50% solid growth pattern (FII)  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 20 mm  \n\nENDOCERVICAL INVOLVEMENT  \nThe endocervix is not involved by tumor  \n\nLYMPHVASCULAR SPACE INVASION  \nLymphvascular space invasion by tumor is absent  \n\nREGIONAL LYMPH NODES (N)  \nNo regional lymph node metastasis (NO)  \nThe regional lymph nodes are free of tumor in 22 nodes  \nThe total number of lymph nodes examined is 22  \n\nDISTANT METASTASIS (M)  \nDistant metastasis cannot be assessed (MX)  \n\nPRIMARY TUMOR (TNM Category/FIGO Stage)  \nTumor invades less than one-half of the myometrium (T1b/IB)  \n\nSTAGE GROUPING  \nThe overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)  \n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.988540803375817,
+            "mean_log_probability": -0.015552196629213484,
+            "perplexity": 1.0156737614214661,
+            "min_probability": 0.19579873687589963
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 713,
+            "total_tokens": 3185
+          },
+          "composite_score": 0.9383613373321097
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 1.9591765403747559,
+        "chars": 277,
+        "words": 33,
+        "text": "Patient Name:\nnop: \nAccession:                             MRN:\n                                      PAN:\n\nThe pathologic stage assigned here should be regarded as provisional, and may\nchange after integration of clinical data not provided with this specimen.\n\n\n\n\n\nPage 4 of 4",
+        "confidence": {
+          "mean_probability": 0.8492815202305812,
+          "mean_log_probability": -0.32905238,
+          "perplexity": 1.3896506435819873,
+          "min_probability": 0.03529856385022891
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 51,
+          "total_tokens": 2523
+        },
+        "composite_score": 0.4407428438961902,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Low composite quality score: 0.441 (threshold: 0.5)",
+          "Very uncertain tokens: min_prob=0.0353 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.441 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0353 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 1.9591765403747559,
+          "chars": 277,
+          "words": 33,
+          "text": "Patient Name:\nnop: \nAccession:                             MRN:\n                                      PAN:\n\nThe pathologic stage assigned here should be regarded as provisional, and may\nchange after integration of clinical data not provided with this specimen.\n\n\n\n\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.8492815202305812,
+            "mean_log_probability": -0.32905238,
+            "perplexity": 1.3896506435819873,
+            "min_probability": 0.03529856385022891
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 51,
+            "total_tokens": 2523
+          },
+          "composite_score": 0.4407428438961902,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Low composite quality score: 0.441 (threshold: 0.5)",
+            "Very uncertain tokens: min_prob=0.0353 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Low composite quality score: 0.441 (threshold: 0.5)\n  - Very uncertain tokens: min_prob=0.0353 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 2.5927624702453613,
+          "chars": 242,
+          "words": 33,
+          "text": "Patient Name:\nnop: \n          MRN:\nAccession:                          PAN:\n\nThe pathologic stage assigned here should be regarded as provisional, and may\nchange after integration of clinical data not provided with this specimen.\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.8505611694333263,
+            "mean_log_probability": -0.31246816326530613,
+            "perplexity": 1.3667944262095846,
+            "min_probability": 0.03602464469065546
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 50,
+            "total_tokens": 2522
+          },
+          "composite_score": 0.42143616556405483
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 2.023390293121338,
+          "chars": 243,
+          "words": 33,
+          "text": "Patient Name:\nno#:\n          MRN:\nAccession:                        PAN:\n\nThe pathologic stage assigned here should be regarded as provisional, and may\nchange after integration of clinical data not provided with this specimen.\n\n\n\n\n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.8702030387718963,
+            "mean_log_probability": -0.26566812000000006,
+            "perplexity": 1.3043021150622898,
+            "min_probability": 0.040187028884067964
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 51,
+            "total_tokens": 2523
+          },
+          "composite_score": 0.4364908582710766
+        }
+      ],
+      "total_attempts": 3
     }
   ]
 }

@@ -1,0 +1,166 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1C5\TCGA-AX-A1C5.pdf
+Processing Date: 2026-03-08 13:00:11
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICB 0-3  
+Adenocarcinoma, Endometrial No.  83613  
+Site Code. Endometrium C54.1  
+
+11/3/11  
+lw  
+
+Name: █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+================================================================================
+PAGE 2
+================================================================================
+Surgical Pathology Final
+
+No lymphoid tissue present.
+Negative for tumor.
+
+G. Omentum, biopsy:
+Negative for tumor
+
+Collected Date:
+Received Date:
+Verified Date:
+
+Comment
+A: Endometrium, Hysterectomy, Macroscopic
+SPECIMEN TYPE:
+Radical hysterectomy (includes parametria)
+*TUMOR SITE:
+*Specify location(s), if known: uterus
+TUMOR SIZE:
+Greatest dimension: 9 cm
+*Additional dimensions: 6 x 3.2 cm
+HER ORGANS PRESENT:
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+
+A: Endometrium, Hysterectomy, Microscopic
+HISTOLOGIC TYPE:
+Endometrioid adenocarcinoma, not otherwise characterized
+HISTOLOGIC GRADE:
+G3: More than 50% nonsquamous solid growth
+MYOMETRIAL INVASION:
+Invasion present
+Specify depth of invasion: 22 mm
+Specify myometrial thickness: 22 mm
+PRIMARY TUMOR (pT):
+pT3a [IIIA]: Local and/or regional spread as specified in T3a, T3b, and FIGO IIIA and IIIB: Tumor involves serosa, parametria, and/or adnexa (direct extension or metastasis
+REGIONAL LYMPH NODES (pN):
+pN1 [IIIC]: Regional lymph node metastasis
+Number examined: 3
+Number involved 2
+DISTANT METASTASIS (pM):
+pMX: Cannot be assessed
+
+Visit:
+Page 2 of 5
+
+================================================================================
+PAGE 3
+================================================================================
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+MARGINS:
+    Involved by invasive carcinoma
+        Specify margin(s): posterior uterine serosal
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L):
+    *Present
+*ADDITIONAL PATHOLOGIC FINDINGS:
+    *None identified
+
+This case was also reviewed by Dr.                        who agrees with the above diagnosis.
+
+                                                                                  (Electronic Signature)
+
+Clinical History
+_Endometrial carcinoma.
+
+Specimen
+A) Uterus, bilateral ovaries/fallopian tubes, cervix.  B) Pelvic cul-de-sac biopsy.  C) Right pelvic lymph node.
+D) Left pelvic lymph node.  E) Right paraaortic.  F) Left paraaortic.  G) Omentum.
+
+Gross Description
+The specimens are received fresh in seven containers, each designated with the patient's name
+
+Part A is designated "uterus, bilateral tubes and ovaries, and cervix". The specimen consists of a total hysterectomy specimen to include a uterus with attached cervix and attached bilateral adnexa. The left fallopian tube with fimbriae is 2.5 cm in length and 0.3 cm in diameter. The ovary is tan-gray, 2.5 cm in greatest dimension. Bivalving reveals a tan cut surface with normal ovarian architecture present. The right fallopian tube with fimbriae is 5 cm in length and 0.5 cm in diameter. The ovary is tan-gray, 2.5 cm in greatest dimension. Serially sectioning reveals a tan-gray cut surface.
+
+Visit:
+Page 3 of 5
+
+================================================================================
+PAGE 4
+================================================================================
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+The uterus with cervix is 198 g, approximately 11.5 x 8.6 x 5.7 cm. The serosa is tan-pink with a moderate amount of hemorrhagic adhesions. The paracervical/parametrial margin is inked black. The cervix is tan-pink, 3.5 x 3.0 x 1.5 cm. Upon bivalving, the endocervical canal is 1.5 cm and the endometrial cavity is entirely replaced by tan-gray mass extending and involving the lower uterine cavity, 2.5 cm from the squamocolumnar junction. Sectioning the anterior endometrium/myometrium and mass, the mass is 1.2 cm in thickness, it involves 50% of the myometrium, 1.2 cm from the serosa. Sectioning the posterior endometrium/myometrium and mass, the mass extends to and there is serosal involvement, the mass is approximately 3.2 cm in depth. There also appears to be parametrial involvement (black ink). Tissue was taken according to the and protocol. The specimen is submitted as per code of sections.
+
+CODE OF SECTIONS:
+A1 Left fallopian tube and ovary
+A2 Right fallopian tube and ovary
+A3 Anterior cervix
+A4-A5 Anterior endometrium/myometrium, mass, deepest invasion
+A6 Right parametrial margin
+-A10 Posterior cervix
+Posterior endometrium/myometrium, mass, deepest invasion (serosal involvement)
+A11 Parametrial margin involvement
+
+Part B is designated "pelvic cul-de-sac". The specimen consists of a portion of yellow-gray to red membranous tissue, 1.2 cm in greatest dimension. The specimen is entirely submitted in a single cassette.
+
+Part C is designated "right pelvic lymph node". The specimen consists of a portion of tan-gray to yellow rubbery tissue, 2.5 x 1.5 x 0.7 cm. The specimen is entirely submitted in a single cassette.
+
+Part D is designated "left pelvic lymph node". The specimen consists of lobulated adipose tissue, 4.5 x 3.0 x 1.5 cm. Sectioning reveals a lymph node with possible tumor involvement, 2.5 x 2.0 x 1.5 cm. The entire lymph node is submitted in cassettes D1-D3.
+
+Part E is designated "right paraaortic". The specimen consists of lobulated adipose tissue with tan-gray rubbery tissue, 2.0 x 1.5 x 1.0 cm. Sectioning reveals a possible tumor bisected and entirely submitted in a single cassette.
+
+Part F is designated "left paraaortic". The specimen consists of a portion of lobulated adipose tissue, 1.0 x 1.0 x 0.4 cm. The specimen is submitted as received in a single cassette.
+
+Visit:
+Page 4 of 5
+
+================================================================================
+PAGE 5
+================================================================================
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+MPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neoplas
+Case is (circle):  DISQUALIFIED
+Reviewer Initials:  PB
+Date Review:  11/5/10
+
+Surgical Pathology Final
+
+Collected Date:
+Reccived Date:
+Verified Date:
+
+Part G is designated "omentum". The specimen consists of an apron of omentum, 22 x 12 x 4 cm. Sectioning,
+there are no implants identified. The cut surface is lobulated adipose tissue. Representative portions are
+submitted in cassettes G1-G2.
+
+Visit:
+Page 5 of 5

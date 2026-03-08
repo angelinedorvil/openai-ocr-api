@@ -1,0 +1,365 @@
+{
+  "pdf": "reports\\TCGA-AX-A0J0\\TCGA-AX-A0J0.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 24.312763214111328,
+        "chars": 2007,
+        "words": 265,
+        "text": "```\nUUID:EC377A34-8219-4A4F-95DB-DF6E00E5A63A\nTCGA-AX-A0J0-01A-PR\nRedacted\nPatient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nSurgical Pathology Report\nFinal\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS 83803\nSite: endometrium C54.1 /w 10/29/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:1\n\nGender: F\nDOB: (Age: )\n\nPhvsician(s):\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA--WELL TO MODERATELY DIFFERENTIATED, ENDOMETRIOID TYPE WITH\nSQUAMOUS DIFFERENTIATION (FIGO GRADE 1-2)\n- ADENOCARCINOMA INVADES TO A DEPTH OF 2 MM WHERE THE TOTAL WALL THICKNESS\nMEASURES 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\n- THE LOWER UTERINE SEGMENT IS FREE OF CARCINOMA\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\n- ADENOMYOSIS\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- MILD ACUTE AND CHRONIC INFLAMMATION\nOVARY, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nOVARY, RIGHT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nLYMPH NODES, LEFT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHTEEN LYMPH NODES (0/18)\nLYMPH NODES, RIGHT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHT LYMPH NODES (0/8)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)\n\"LYMPH NODES,\" LEFT PERIAORTIC, EXCISION\n- FIBROADIPOSE TISSUE WITH NO CARCINOMA IDENTIFIED\n- NO LYMPH NODES PRESENT (SPECIMEN ENTIRELY SUBMITTED)\n\nBY this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n\nPage 1 of 4\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prima\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed\nYes No\n2\nRS\n10/11\n10/11\n```",
+        "confidence": {
+          "mean_probability": 0.9596413393632848,
+          "mean_log_probability": -0.06077536204576042,
+          "perplexity": 1.0626601735656551,
+          "min_probability": 0.09138334848470857
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 744,
+          "total_tokens": 3216
+        },
+        "composite_score": 0.9064570626285102,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 22.03022313117981,
+          "chars": 2145,
+          "words": 275,
+          "text": "```\nUUID:EC377A34-8219-44AF-95DB-DF6E00E5A63A\nTCGA-AX-A0J0-01A-PR\nRedacted\nPatient Name:\nDOB:\nAccession:                                 MRN:\nPAN:\n\nSurgical Pathology Report\nFinal\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS 83803\nSite: endometrium C54.1          /w 10/29/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:1\nGender: F\nDOB: (Age: )\n\nService:Gvnernlogy\nLocation:\nMRN:\nHospital #\nPatient Typ..\n\nAccession #:\nTaken:.\nReceived:\nAccessioned:\nReported:\n\nPhysician(s):\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA - WELL TO MODERATELY DIFFERENTIATED, ENDOMETRIOID TYPE WITH\nSQUAMOUS DIFFERENTIATION (FIGO GRADE 1-2)\n- ADENOCARCINOMA INVADES TO A DEPTH OF 2 MM WHERE THE TOTAL WALL THICKNESS\nMEASURES 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\n- THE LOWER UTERINE SEGMENT IS FREE OF CARCINOMA\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\n- ADENOMYOSIS\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- MILD ACUTE AND CHRONIC INFLAMMATION\nOVARY, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nOVARY, RIGHT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nLYMPH NODES, LEFT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHTEEN LYMPH NODES (0/18)\nLYMPH NODES, RIGHT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHT LYMPH NODES (0/8)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)\n\"LYMPH NODES,\" LEFT PERIAORTIC, EXCISION\n- FIBROADIPOSE TISSUE WITH NO CARCINOMA IDENTIFIED\n- NO LYMPH NODES PRESENT (SPECIMEN ENTIRELY SUBMITTED)\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n\nPage 1 of 4\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prima\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed 10/11\n```",
+          "confidence": {
+            "mean_probability": 0.9537022731036934,
+            "mean_log_probability": -0.07283547051114023,
+            "perplexity": 1.075553562078503,
+            "min_probability": 0.031816953574067545
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 764,
+            "total_tokens": 3236
+          },
+          "composite_score": 0.6619812500543018
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 24.312763214111328,
+          "chars": 2007,
+          "words": 265,
+          "text": "```\nUUID:EC377A34-8219-4A4F-95DB-DF6E00E5A63A\nTCGA-AX-A0J0-01A-PR\nRedacted\nPatient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nSurgical Pathology Report\nFinal\n\nICD-0-3\nadenocarcinoma, endometrioid, NOS 83803\nSite: endometrium C54.1 /w 10/29/11\n\nSURGICAL PATHOLOGY REPORT\nFINAL\nPatient Name:\nAddress:1\n\nGender: F\nDOB: (Age: )\n\nPhvsician(s):\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA--WELL TO MODERATELY DIFFERENTIATED, ENDOMETRIOID TYPE WITH\nSQUAMOUS DIFFERENTIATION (FIGO GRADE 1-2)\n- ADENOCARCINOMA INVADES TO A DEPTH OF 2 MM WHERE THE TOTAL WALL THICKNESS\nMEASURES 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\n- THE LOWER UTERINE SEGMENT IS FREE OF CARCINOMA\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\n- ADENOMYOSIS\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- MILD ACUTE AND CHRONIC INFLAMMATION\nOVARY, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nOVARY, RIGHT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nLYMPH NODES, LEFT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHTEEN LYMPH NODES (0/18)\nLYMPH NODES, RIGHT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHT LYMPH NODES (0/8)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)\n\"LYMPH NODES,\" LEFT PERIAORTIC, EXCISION\n- FIBROADIPOSE TISSUE WITH NO CARCINOMA IDENTIFIED\n- NO LYMPH NODES PRESENT (SPECIMEN ENTIRELY SUBMITTED)\n\nBY this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n\nPage 1 of 4\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prima\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed\nYes No\n2\nRS\n10/11\n10/11\n```",
+          "confidence": {
+            "mean_probability": 0.9596413393632848,
+            "mean_log_probability": -0.06077536204576042,
+            "perplexity": 1.0626601735656551,
+            "min_probability": 0.09138334848470857
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 744,
+            "total_tokens": 3216
+          },
+          "composite_score": 0.9064570626285102,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 25.516902685165405,
+          "chars": 2419,
+          "words": 274,
+          "text": "```\nUUID:EC377A34-8219-44AF-95DB-DF6E00E5A63A\nTCGA-AX-A0J0-01A-PR\nRedacted\nPatient Name:\nDOB:\nAccession:                                    MRN:\nPAN:\n\n                              Surgical Pathology Report\n                                                                                      Final\n ICD-0-3\n  adenocarcinoma, endometrioid, NOS 83803\n  Site: endometrium C54.1          fw 10/29/11\n\n                                              SURGICAL PATHOLOGY REPORT\n                                              FINAL\nPatient Name:\nAddress:1\nGender: F\nDOB:        (Age:  )\n\nService:Gvnernlogy\nLocation:\nMRN:\nHospital #\nPatient Typ..\n\nAccession #.\nTaken:.\nReceived:\nAccessioned:\nReported:\n\nPhvsician(s):\ni\n\nOther Related Clinical Data:\nDIAGNOSIS:\nUTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA--WELL TO MODERATELY DIFFERENTIATED, ENDOMETRIOID TYPE WITH\nSQUAMOUS DIFFERENTIATION (FIGO GRADE 1-2)\n- ADENOCARCINOMA INVADES TO A DEPTH OF 2 MM WHERE THE TOTAL WALL THICKNESS\nMEASURES 12 MM\n- NO LYMPHVASCULAR SPACE INVASION IS IDENTIFIED\n- THE LOWER UTERINE SEGMENT IS FREE OF CARCINOMA\nUTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY\n- ADENOCARCINOMA BY DIRECT EXTENSION\n- ADENOMYOSIS\nUTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY\n- MILD ACUTE AND CHRONIC INFLAMMATION\nOVARY, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, LEFT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nOVARY, RIGHT, SALPINGO-OOPHORECTOMY\n- NO HISTOPATHOLOGIC ABNORMALITY\nFALLOPIAN TUBE, RIGHT, SALPINGO-OOPHORECTOMY\n- MILD HYDROSALPINX\nLYMPH NODES, LEFT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHTEEN LYMPH NODES (0/18)\nLYMPH NODES, RIGHT PELVIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN EIGHT LYMPH NODES (0/8)\nLYMPH NODES, RIGHT PERIAORTIC, EXCISION\n- NO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)\n\"LYMPH NODES,\" LEFT PERIAORTIC, EXCISION\n- FIBROADIPOSE TISSUE WITH NO CARCINOMA IDENTIFIED\n- NO LYMPH NODES PRESENT (SPECIMEN ENTIRELY SUBMITTED)\n\n                                             By this signature, I attest that the above diagnosis is\nbased upon my personal\n     examination of the slides(and/or other material indicated in the\ndiagnosis).\n\nPage 1 of 4\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Prima\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials\nDate Reviewed 10/11\n```",
+          "confidence": {
+            "mean_probability": 0.9424380251770753,
+            "mean_log_probability": -0.10065610038610039,
+            "perplexity": 1.1058962590639356,
+            "min_probability": 0.03281180236872286
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 778,
+            "total_tokens": 3250
+          },
+          "composite_score": 0.6163480683143255
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 29.740018129348755,
+        "chars": 3356,
+        "words": 546,
+        "text": "Patient Name:\nDOB:\nAccession: MRN:\nPAN:\n\n***Report Electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\"Called to pick up 'cervix, uterus, bilateral tubes and ovaries,' consisting of 6 x 4 x 2 cm, 85 gram uterus with unremarkable cervix measuring 3 cm in diameter with slit-shaped os. Bilateral unremarkable adnexae are also present. Opened to show an anterior based polypoid mass filling the endometrial cavity. There is no definitive invasion seen. Shown to surgeon. Tissue for and tissue bank. Rest for permanents,\" by Ph. D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a year old woman with a history of endometrial carcinoma (FIGO grade 1) ( ). Operative procedure: Exploratory laparotomy, total anterior hysterectomy, bilateral salpingo-oophorectomy, and lymph node dissection.\nSpecimen(s) Received:\nA: CERVIX, UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES\nB: LYMPH NODES, LEFT PELVIC\nC: LYMPH NODES, RIGHT PELVIC\nD: LYMPH NODE, RIGHT PERIAORTIC\nE: LYMPH NODE, LEFT PERIAORTIC\n\nGross Description\nThe specimens are received in five formalin-filled containers, each labeled \" . \" The first container is labeled \"cervix, uterus, bilateral fallopian tubes, and ovary.\" It contains a previously bisected uterus and attached bilateral adnexa. The uterus measures 7 x 6 x 2.5 cm. The cervix is unremarkable with a slit-shaped os measuring 1 cm in diameter. The endometrial canal is lined by tan-white, unremarkable mucosa, measuring 2 cm in length with an average diameter of 0.3 cm. There is a large, polypoid mass arising from the anterior endometrial wall measuring 3.5 cm in greatest dimension. The mass does not appear to involve the lower uterine segment. Sectioning of the mass reveals invasion into the superficial myometrium. The average myometrial thickness measures 1.5 cm. The serosa appears intact and smooth. The left ovary is unremarkable and measures 3 x 1.2 x 1 cm. Sections show yellow-tan parenchyma without cysts. The left fallopian tube measures 5 cm in length with an average diameter of 0.3 cm. It is grossly unremarkable. The right ovary measures 3.5 x 1 x 0.8 cm and is grossly unremarkable. The right fallopian tube measures 4 cm in length with an average diameter of 0.3 cm. Sections show unremarkable cross sections. Labeled A1, anterior cervix and lower uterine segment; A2 to A5, sections of the tumor; A6, posterior cervix and lower uterine segment; A7, posterior uterine wall; A8, left ovary and fallopian tube; A9, right ovary and fallopian tube. Jar 2.\nThe second container is labeled \"left pelvic lymph node.\" It contains multiple fragments of fibrofatty tissue measuring 6 x 2 x 1 cm in aggregate from which multiple possible lymph nodes, the largest measuring 2 x 1 x 0.4 cm, are dissected. Labeled B1, largest lymph node; B2 to B7, possible lymph nodes. Jar 1.\nThe third container is labeled \"right pelvic lymph node.\" It contains multiple fragments of fibroadipose tissue measuring 7 x 3 x 1 cm in aggregate from which two lymph nodes measuring 2 x 1 x 0.4 cm and 3 x 1.2 x 0.8 cm, are dissected. Labeled C1 to C4. Jar 1.\nThe fourth container is labeled \"periaortic, right.\" It contains a piece of fibroadipose tissue measuring 2.5 x 1 x 0.4 cm. NO lymph nodes are identified. Labeled D1. Jar 0.\n\nPage 2 of 4",
+        "confidence": {
+          "mean_probability": 0.9922878530416418,
+          "mean_log_probability": -0.011208619625137818,
+          "perplexity": 1.0112716715569248,
+          "min_probability": 0.06977022054548086
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 908,
+          "total_tokens": 3380
+        },
+        "composite_score": 0.9911324967706128,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 29.740018129348755,
+          "chars": 3356,
+          "words": 546,
+          "text": "Patient Name:\nDOB:\nAccession: MRN:\nPAN:\n\n***Report Electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\"Called to pick up 'cervix, uterus, bilateral tubes and ovaries,' consisting of 6 x 4 x 2 cm, 85 gram uterus with unremarkable cervix measuring 3 cm in diameter with slit-shaped os. Bilateral unremarkable adnexae are also present. Opened to show an anterior based polypoid mass filling the endometrial cavity. There is no definitive invasion seen. Shown to surgeon. Tissue for and tissue bank. Rest for permanents,\" by Ph. D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a year old woman with a history of endometrial carcinoma (FIGO grade 1) ( ). Operative procedure: Exploratory laparotomy, total anterior hysterectomy, bilateral salpingo-oophorectomy, and lymph node dissection.\nSpecimen(s) Received:\nA: CERVIX, UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES\nB: LYMPH NODES, LEFT PELVIC\nC: LYMPH NODES, RIGHT PELVIC\nD: LYMPH NODE, RIGHT PERIAORTIC\nE: LYMPH NODE, LEFT PERIAORTIC\n\nGross Description\nThe specimens are received in five formalin-filled containers, each labeled \" . \" The first container is labeled \"cervix, uterus, bilateral fallopian tubes, and ovary.\" It contains a previously bisected uterus and attached bilateral adnexa. The uterus measures 7 x 6 x 2.5 cm. The cervix is unremarkable with a slit-shaped os measuring 1 cm in diameter. The endometrial canal is lined by tan-white, unremarkable mucosa, measuring 2 cm in length with an average diameter of 0.3 cm. There is a large, polypoid mass arising from the anterior endometrial wall measuring 3.5 cm in greatest dimension. The mass does not appear to involve the lower uterine segment. Sectioning of the mass reveals invasion into the superficial myometrium. The average myometrial thickness measures 1.5 cm. The serosa appears intact and smooth. The left ovary is unremarkable and measures 3 x 1.2 x 1 cm. Sections show yellow-tan parenchyma without cysts. The left fallopian tube measures 5 cm in length with an average diameter of 0.3 cm. It is grossly unremarkable. The right ovary measures 3.5 x 1 x 0.8 cm and is grossly unremarkable. The right fallopian tube measures 4 cm in length with an average diameter of 0.3 cm. Sections show unremarkable cross sections. Labeled A1, anterior cervix and lower uterine segment; A2 to A5, sections of the tumor; A6, posterior cervix and lower uterine segment; A7, posterior uterine wall; A8, left ovary and fallopian tube; A9, right ovary and fallopian tube. Jar 2.\nThe second container is labeled \"left pelvic lymph node.\" It contains multiple fragments of fibrofatty tissue measuring 6 x 2 x 1 cm in aggregate from which multiple possible lymph nodes, the largest measuring 2 x 1 x 0.4 cm, are dissected. Labeled B1, largest lymph node; B2 to B7, possible lymph nodes. Jar 1.\nThe third container is labeled \"right pelvic lymph node.\" It contains multiple fragments of fibroadipose tissue measuring 7 x 3 x 1 cm in aggregate from which two lymph nodes measuring 2 x 1 x 0.4 cm and 3 x 1.2 x 0.8 cm, are dissected. Labeled C1 to C4. Jar 1.\nThe fourth container is labeled \"periaortic, right.\" It contains a piece of fibroadipose tissue measuring 2.5 x 1 x 0.4 cm. NO lymph nodes are identified. Labeled D1. Jar 0.\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9922878530416418,
+            "mean_log_probability": -0.011208619625137818,
+            "perplexity": 1.0112716715569248,
+            "min_probability": 0.06977022054548086
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 908,
+            "total_tokens": 3380
+          },
+          "composite_score": 0.9911324967706128,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 32.35510563850403,
+          "chars": 3384,
+          "words": 546,
+          "text": "Patient Name:\nDOB:\nAccession:                              MRN:\nPAN:\n***Report Electronically Reviewed and Signed Out By\nM.D.***\nIntraoperative Consultation:\n\"Called to pick up 'cervix, uterus, bilateral tubes and ovaries,' consisting of\n6 x 4 x 2 cm, 85 gram uterus with unremarkable cervix measuring 3 cm in diameter\nwith slit-shaped os. Bilateral unremarkable adnexae are also present. Opened\nto show an anterior based polypoid mass filling the endometrial cavity. There\nis no definitive invasion seen. Shown to surgeon. Tissue for and tissue\nbank. Rest for permanents,\" by\nMicroscopic Description and Comment:\nPh. D.\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a year old woman with a history of endometrial carcinoma (FIGO\ngrade 1) ( ). Operative procedure: Exploratory laparotomy, total\nanterior hysterectomy, bilateral salpingo-oophorectomy, and lymph node\ndissection.\nSpecimen(s) Received:\nA: CERVIX, UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES\nB: LYMPH NODES, LEFT PELVIC\nC: LYMPH NODES, RIGHT PELVIC\nD: LYMPH NODE, RIGHT PERIAORTIC\nE: LYMPH NODE, LEFT PERIAORTIC\n\nGross Description\nThe specimens are received in five formalin-filled containers, each labeled\n\" . \" The first container is labeled \"cervix, uterus, bilateral\nfallopian tubes, and ovary.\" It contains a previously bisected uterus and\nattached bilateral adnexa. The uterus measures 7 x 6 x 2.5 cm. The cervix is\nunremarkable with a slit-shaped os measuring 1 cm in diameter. The endometrial\ncanal is lined by tan-white, unremarkable mucosa, measuring 2 cm in length with\nan average diameter of 0.3 cm. There is a large, polypoid mass arising from the\nanterior endometrial wall measuring 3.5 cm in greatest dimension. The mass does\nnot appear to involve the lower uterine segment. Sectioning of the mass reveals\ninvasion into the superficial myometrium. The average myometrial thickness\nmeasures 1.5 cm. The serosa appears intact and smooth. The left ovary is\nunremarkable and measures 3 x 1.2 x 1 cm. Sections show yellow-tan parenchyma\nwithout cysts. The left fallopian tube measures 5 cm in length with an average\ndiameter of 0.3 cm. It is grossly unremarkable. The right ovary measures 3.5 x\n1 x 0.8 cm and is grossly unremarkable. The right fallopian tube measures 4 cm\nin length with an average diameter of 0.3 cm. Sections show unremarkable cross\nsections. Labeled A1, anterior cervix and lower uterine segment; A2 to A5,\nsections of the tumor; A6, posterior cervix and lower uterine segment; A7,\nposterior uterine wall; A8, left ovary and fallopian tube; A9, right ovary and\nfallopian tube. Jar 2.\nThe second container is labeled \"left pelvic lymph node.\" It contains multiple\nfragments of fibrofatty tissue measuring 6 x 2 x 1 cm in aggregate from which\nmultiple possible lymph nodes, the largest measuring 2 x 1 x 0.4 cm, are\ndissected. Labeled B1, largest lymph node; B2 to B7, possible lymph nodes. Jar\n1.\nThe third container is labeled \"right pelvic lymph node.\" It contains multiple\nfragments of fibroadipose tissue measuring 7 x 3 x 1 cm in aggregate from which\ntwo lymph nodes measuring 2 x 1 x 0.4 cm and 3 x 1.2 x 0.8 cm, are dissected.\nLabeled C1 to C4. Jar 1.\nThe fourth container is labeled \"periaortic, right.\" It contains a piece of\nfibroadipose tissue measuring 2.5 x 1 x 0.4 cm. NO lymph nodes are identified.\nLabeled D1. Jar 0.\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9879032791239681,
+            "mean_log_probability": -0.01868317070600632,
+            "perplexity": 1.0188587931629587,
+            "min_probability": 0.0310587098335813
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 950,
+            "total_tokens": 3422
+          },
+          "composite_score": 0.6552428477259453
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 34.357046604156494,
+          "chars": 3380,
+          "words": 546,
+          "text": "Patient Name:\nDOB:\nAccession:                         MRN:\nPAN:\n\n***Report Electronically Reviewed and Signed Out By M.D.***\nIntraoperative Consultation:\n\"Called to pick up 'cervix, uterus, bilateral tubes and ovaries,' consisting of 6 x 4 x 2 cm, 85 gram uterus with unremarkable cervix measuring 3 cm in diameter with slit-shaped os. Bilateral unremarkable adnexae are also present. Opened to show an anterior based polypoid mass filling the endometrial cavity. There is no definitive invasion seen. Shown to surgeon. Tissue for and tissue bank. Rest for permanents,\" by Ph. D.\nMicroscopic Description and Comment:\nMicroscopic examination substantiates the above cited diagnosis.\n\nHistory:\nThe patient is a year old woman with a history of endometrial carcinoma (FIGO grade 1) ( ). Operative procedure: Exploratory laparotomy, total anterior hysterectomy, bilateral salpingo-oophorectomy, and lymph node dissection.\nSpecimen(s) Received:\nA: CERVIX, UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES\nB: LYMPH NODES, LEFT PELVIC\nC: LYMPH NODES, RIGHT PELVIC\nD: LYMPH NODE, RIGHT PERIAORTIC\nE: LYMPH NODE, LEFT PERIAORTIC\n\nGross Description\nThe specimens are received in five formalin-filled containers, each labeled \" . \" The first container is labeled \"cervix, uterus, bilateral fallopian tubes, and ovary.\" It contains a previously bisected uterus and attached bilateral adnexa. The uterus measures 7 x 6 x 2.5 cm. The cervix is unremarkable with a slit-shaped os measuring 1 cm in diameter. The endometrial canal is lined by tan-white, unremarkable mucosa, measuring 2 cm in length with an average diameter of 0.3 cm. There is a large, polypoid mass arising from the anterior endometrial wall measuring 3.5 cm in greatest dimension. The mass does not appear to involve the lower uterine segment. Sectioning of the mass reveals invasion into the superficial myometrium. The average myometrial thickness measures 1.5 cm. The serosa appears intact and smooth. The left ovary is unremarkable and measures 3 x 1.2 x 1 cm. Sections show yellow-tan parenchyma without cysts. The left fallopian tube measures 5 cm in length with an average diameter of 0.3 cm. It is grossly unremarkable. The right ovary measures 3.5 x 1 x 0.8 cm and is grossly unremarkable. The right fallopian tube measures 4 cm in length with an average diameter of 0.3 cm. Sections show unremarkable cross sections. Labeled A1, anterior cervix and lower uterine segment; A2 to A5, sections of the tumor; A6, posterior cervix and lower uterine segment; A7, posterior uterine wall; A8, left ovary and fallopian tube; A9, right ovary and fallopian tube. Jar 2.\nThe second container is labeled \"left pelvic lymph node.\" It contains multiple fragments of fibrofatty tissue measuring 6 x 2 x 1 cm in aggregate from which multiple possible lymph nodes, the largest measuring 2 x 1 x 0.4 cm, are dissected. Labeled B1, largest lymph node; B2 to B7, possible lymph nodes. Jar 1.\nThe third container is labeled \"right pelvic lymph node.\" It contains multiple fragments of fibroadipose tissue measuring 7 x 3 x 1 cm in aggregate from which two lymph nodes measuring 2 x 1 x 0.4 cm and 3 x 1.2 x 0.8 cm, are dissected. Labeled C1 to C4. Jar 1.\nThe fourth container is labeled \"periaortic, right.\" It contains a piece of fibroadipose tissue measuring 2.5 x 1 x 0.4 cm. NO lymph nodes are identified. Labeled D1. Jar 0.\n\nPage 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9894560207139202,
+            "mean_log_probability": -0.017710509911894275,
+            "perplexity": 1.0178682709592612,
+            "min_probability": 0.033974806986702244
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 909,
+            "total_tokens": 3381
+          },
+          "composite_score": 0.6557419731039789
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.237698078155518,
+        "chars": 2163,
+        "words": 329,
+        "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\nThe fifth container is labeled \"periaortic, left.\" It contains a piece of fibroadipose tissue measuring 1.5 x 0.8 x 0.8 cm. No lymph nodes are identified 1 chaled El. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\n\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type with squamous differentiation\n\nFIGO GRADE\nWell to moderately (FIGO grade 1-2)\n\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nTUMOR SIZE\nThe tumor invades to a depth of 2 mm\nThe myometrial thickness is 12 mm\n\nLOWER UTERINE SEGMENT INVOLVEMENT\n(does not change the stage)\nThe lower uterine segment is not involved by tumor\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is not involved by tumor\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\nThe regional lymph nodes are free of tumor in 29 nodes\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM Category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T1b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nThe performance characteristics of some immunohistochemical stains, fluorescence in-situ hybridization tests and immunophenotyping by flow cytometry cited in this report (if any) were determined by the Surgical Pathology Department at as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Act of 1988 (CLIA '88). Some of these tests rely on the use of \"analyte specific reagents\" and are subject to specific labeling requirements by the US Food and Drug Administration. Such diagnostic tests may only be performed in a facility that is certified by the Department of Health\n\nPage 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9832327850054066,
+          "mean_log_probability": -0.023621339483394836,
+          "perplexity": 1.02390253301374,
+          "min_probability": 0.1727154217328779
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 543,
+          "total_tokens": 3015
+        },
+        "composite_score": 0.9815390019162233,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.237698078155518,
+          "chars": 2163,
+          "words": 329,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\nThe fifth container is labeled \"periaortic, left.\" It contains a piece of fibroadipose tissue measuring 1.5 x 0.8 x 0.8 cm. No lymph nodes are identified 1 chaled El. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\n\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type with squamous differentiation\n\nFIGO GRADE\nWell to moderately (FIGO grade 1-2)\n\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nTUMOR SIZE\nThe tumor invades to a depth of 2 mm\nThe myometrial thickness is 12 mm\n\nLOWER UTERINE SEGMENT INVOLVEMENT\n(does not change the stage)\nThe lower uterine segment is not involved by tumor\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is not involved by tumor\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\nThe regional lymph nodes are free of tumor in 29 nodes\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM Category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T1b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nThe performance characteristics of some immunohistochemical stains, fluorescence in-situ hybridization tests and immunophenotyping by flow cytometry cited in this report (if any) were determined by the Surgical Pathology Department at as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Act of 1988 (CLIA '88). Some of these tests rely on the use of \"analyte specific reagents\" and are subject to specific labeling requirements by the US Food and Drug Administration. Such diagnostic tests may only be performed in a facility that is certified by the Department of Health\n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9832327850054066,
+            "mean_log_probability": -0.023621339483394836,
+            "perplexity": 1.02390253301374,
+            "min_probability": 0.1727154217328779
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 543,
+            "total_tokens": 3015
+          },
+          "composite_score": 0.9815390019162233,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 18.419504642486572,
+          "chars": 2164,
+          "words": 329,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\n\nThe fifth container is labeled \"periaortic, left.\" It contains a piece of fibroadipose tissue measuring 1.5 x 0.8 x 0.8 cm. No lymph nodes are identified 1 1holed El. Jar 0.\n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\n\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type with squamous differentiation\n\nFIGO GRADE\nWell to moderately (FIGO grade 1-2)\n\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\n\nTUMOR SIZE\nThe tumor invades to a depth of 2 mm\nThe myometrial thickness is 12 mm\n\nLOWER UTERINE SEGMENT INVOLVEMENT\n(does not change the stage)\nThe lower uterine segment is not involved by tumor\n\nENDOCERVICAL INVOLVEMENT\nThe endocervix is not involved by tumor\n\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\n\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\nThe regional lymph nodes are free of tumor in 29 nodes\nExtranodal extension by tumor is not applicable; no nodal metastases are present\n\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\n\nPRIMARY TUMOR (TNM Category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\n\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T1b/NO/MX\n\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\n\nThe performance characteristics of some immunohistochemical stains, fluorescence in-situ hybridization tests and immunophenotyping by flow cytometry cited in this report (if any) were determined by the Surgical Pathology Department at as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Act of 1988 (CLIA '88). Some of these tests rely on the use of \"analyte specific reagents\" and are subject to specific labeling requirements by the US Food and Drug Administration. Such diagnostic tests may only be performed in a facility that is certified by the Department of Health\n\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.980844032232927,
+            "mean_log_probability": -0.03125869485294118,
+            "perplexity": 1.0317523783953042,
+            "min_probability": 0.056908816646655064
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 545,
+            "total_tokens": 3017
+          },
+          "composite_score": 0.9269634833560138
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.188852310180664,
+          "chars": 2149,
+          "words": 329,
+          "text": "Patient Name:\nDOB:\nAccession:\nMRN:\nPAN:\nThe fifth container is labeled \"periaortic, left.\" It contains a piece of fibroadipose tissue measuring 1.5 x 0.8 x 0.8 cm. No lymph nodes are identified. 1 chaled El. Jar 0.\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS\nHISTOPATHOLOGIC TYPE\nThe histologic diagnosis is adenocarcinoma, endometrioid type with squamous differentiation\nFIGO GRADE\nWell to moderately (FIGO grade 1-2)\nTUMOR INVASION\nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium\nTUMOR SIZE\nThe tumor invades to a depth of 2 mm\nThe myometrial thickness is 12 mm\nLOWER UTERINE SEGMENT INVOLVEMENT\n(does not change the stage)\nThe lower uterine segment is not involved by tumor\nENDOCERVICAL INVOLVEMENT\nThe endocervix is not involved by tumor\nLYMPHVASCULAR SPACE INVASION\nLymphvascular space invasion by tumor is absent\nREGIONAL LYMPH NODES (N)\nNo regional lymph node metastasis (NO)\nThe regional lymph nodes are free of tumor in 29 nodes\nExtranodal extension by tumor is not applicable; no nodal metastases are present\nDISTANT METASTASIS (M)\nDistant metastasis cannot be assessed (MX)\nPRIMARY TUMOR (TNM Category/FIGO Stage)\nTumor invades less than one-half of the myometrium (T1b/1B)\nSTAGE GROUPING\nThe overall pathologic AJCC stage of the tumor is T1b/NO/MX\nThe pathologic stage assigned here should be regarded as provisional, and may change after integration of clinical data not provided with this specimen.\nThe performance characteristics of some immunohistochemical stains, fluorescence in-situ hybridization tests and immunophenotyping by flow cytometry cited in this report (if any) were determined by the Surgical Pathology Department at as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Act of 1988 (CLIA '88). Some of these tests rely on the use of \"analyte specific reagents\" and are subject to specific labeling requirements by the US Food and Drug Administration. Such diagnostic tests may only be performed in a facility that is certified by the Department of Health\nPage 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9827624617710056,
+            "mean_log_probability": -0.023987904235727442,
+            "perplexity": 1.0242779283913201,
+            "min_probability": 0.14414464563295204
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 544,
+            "total_tokens": 3016
+          },
+          "composite_score": 0.9321962670225487
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 3.664172410964966,
+        "chars": 651,
+        "words": 102,
+        "text": "Patient Name:  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nand Human Services as a high complexity laboratory under CLIA '88. The FDA has determined that such clearance or approval is not necessary. This test is used for clinical purposes. It should not be regarded as investigational or for research. Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to the report:  \nThis test was developed and its performance characteristics determined by the Surgical Pathology Department of . It has not been cleared or approved by the U. S. Food and Drug Administration.  \n\nPage 4 of 4",
+        "confidence": {
+          "mean_probability": 0.9466838357891336,
+          "mean_log_probability": -0.07830948120300751,
+          "perplexity": 1.081457297590644,
+          "min_probability": 0.20262283170654247
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 134,
+          "total_tokens": 2606
+        },
+        "composite_score": 0.8070020364241687,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 3.664172410964966,
+          "chars": 651,
+          "words": 102,
+          "text": "Patient Name:  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nand Human Services as a high complexity laboratory under CLIA '88. The FDA has determined that such clearance or approval is not necessary. This test is used for clinical purposes. It should not be regarded as investigational or for research. Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to the report:  \nThis test was developed and its performance characteristics determined by the Surgical Pathology Department of . It has not been cleared or approved by the U. S. Food and Drug Administration.  \n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.9466838357891336,
+            "mean_log_probability": -0.07830948120300751,
+            "perplexity": 1.081457297590644,
+            "min_probability": 0.20262283170654247
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 134,
+            "total_tokens": 2606
+          },
+          "composite_score": 0.8070020364241687,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 3.6881933212280273,
+          "chars": 651,
+          "words": 102,
+          "text": "Patient Name:  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nand Human Services as a high complexity laboratory under CLIA '88. The FDA has determined that such clearance or approval is not necessary. This test is used for clinical purposes. It should not be regarded as investigational or for research. Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to the report:  \nThis test was developed and its performance characteristics determined by the Surgical Pathology Department of . It has not been cleared or approved by the U. S. Food and Drug Administration.  \n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.9514111169162834,
+            "mean_log_probability": -0.06916326315789473,
+            "perplexity": 1.071611149487602,
+            "min_probability": 0.20298463346952197
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 134,
+            "total_tokens": 2606
+          },
+          "composite_score": 0.7726812456780024
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 3.237694501876831,
+          "chars": 652,
+          "words": 102,
+          "text": "Patient Name:  \nDOB:  \nAccession:  \nMRN:  \nPAN:  \n\nand Human Services as a high complexity laboratory under CLIA '88. The FDA has determined that such clearance or approval is not necessary. This test is used for clinical purposes. It should not be regarded as investigational or for research. Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to the report:  \nThis test was developed and its performance characteristics determined by the Surgical Pathology Department of  . It has not been cleared or approved by the U. S. Food and Drug Administration.  \n\nPage 4 of 4",
+          "confidence": {
+            "mean_probability": 0.9480283308584098,
+            "mean_log_probability": -0.07645655223880596,
+            "perplexity": 1.079455289402669,
+            "min_probability": 0.12168555251054664
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 135,
+            "total_tokens": 2607
+          },
+          "composite_score": 0.7679601346903949
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

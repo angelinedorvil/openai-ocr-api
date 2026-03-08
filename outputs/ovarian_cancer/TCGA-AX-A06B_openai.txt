@@ -1,0 +1,249 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A06B\TCGA-AX-A06B.pdf
+Processing Date: 2026-03-08 11:29:05
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+Patient Name:
+DOB: 
+Accession: /
+
+MRN:
+PAN: 1
+
+Surgical Pathology Report
+Final
+
+1C3-0-3
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium cs4.1 hw 10/30/11
+
+SURGICAL PATHOLOGY REPORT
+FINAL
+
+Patient Name :
+Address:
+Gender: F
+DOB: (Age: :
+
+Physician(s):
+, M.D.
+
+Other Related Clinical Data:
+DIAGNOSIS:
+UTERUS, ENDOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY
+- POORLY DIFFEREN-TIATED ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE III/II
+(SEE COMMENT)
+- TUMOR INVADES TO THE MYOMETRIUM WITH A MAXIMUM DEPTH OF 1.2 CM FROM TOTAL
+THICKNESS OF 1.5 CM
+- LOWER UTERINE SEGMENT IS INVOLVED BY TUMOR
+- NO LYMPH-VASCULAR SPACE INVASION IDENTIFIED
+UTERUS, MYOMETRIUM, TOTAL ABDOMINAL HYSTERECTOMY
+- DIRECT EXTENSION OF TUMOR TO THE MYOMETRIUM
+- ADENOMYOSIS, FOCAL
+UTERUS, CERVIX, TOTAL ABDOMINAL HYSTERECTOMY
+- TUMOR INVOLVES THE SUPERFICIAL ENDOCERVICAL GLANDS
+- NO EVIDENCE OF STROMAL INVASION
+OVARY, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY
+- NO EVIDENCE OF MALIGNANCY
+FALLOPIAN TUBE, RIGHT, BILATERAL SALPINGO-OOPHORECTOMY
+- NO EVIDENCE OF MALIGNANCY
+OVARY, LEFT, BILATERAL SALPINGO-OOPHORECTOMY
+- NO EVIDENCE OF MALIGNANCY
+- ENDOMETRIOSIS, FOCAL (SEE COMMENT)
+FALLOPIAN TUBE, LEFT, BILATERAL SALPINGO-OOPHORECTOMY
+- NO EVIDENCE OF MALIGNANCY
+LYMPH NODES, "LEFT PELVIC," DISSECTION
+- NEGATIVE FOR MALIGNANCY IN TOTAL OF SIX LYMPH NODES (0/6)
+LYMPH NODES, "RIGHT PELVIC," DISSECTION
+- NO EVIDENCE OF MALIGNANCY IN TOTAL OF SEVEN LYMPH NODES (0/7)
+LYMPH NODES, "RIGHT PERI-AORTIC," DISSECTION
+- NO EVIDENCE OF MALIGNANCY IN TOTAL OF FOUR LYMPH NODES (0/4)
+LYMPH NODES, "LEFT PERI-AORTIC," DISSECTION
+- NO EVIDENCE OF MALIGNANCY IN TOTAL OF FOUR LYMPH NODES (0/4)
+
+By this signature, I attest that the above diagnosis is
+based upon my personal
+examination of the slides(and/or other material) indicated in the
+
+Page 1 of 4
+
+Criteria      OMF-NO TX  Yes  No
+Diagnosis Discrepancy  /
+Primary Tumor Site Discrepancy  /
+HIPAA Discrepancy  /
+Prior Malignancy History  /
+Dual/Synchronous Prima / /
+Case is (circle): QUALIFIED  DISQUALIFIED
+Reviewer Initials  Date Reviewed: 10/12/11
+```
+
+
+================================================================================
+PAGE 2
+================================================================================
+Patient Name:
+DOB: .
+Accession: _____________________________________________
+
+diagnosis).
+
+***Report Electronically Reviewed and Signed Out By
+Intraoperative Consultation:
+An intraoperative non-microscopic consultation was obtained and interpreted as:
+"Called to pick up '#1, uterus, cervix, BSO,' consisting of a uterus with
+attached bilateral fallopian tubes and ovaries, weighing 80 grams and measuring
+7.5 cm from fundus to ectocervix, 5 cm from cornu to cornu, 4 cm from anterior
+to posterior. Opened in the O.R. to show a polypoid mass protruding into the
+anterior endometrial cavity, measuring 3.5 x 2.5 x 1.5 cm. A mass measuring 3.5
+x 2.4 x 0.9 cm is present in the posterior endomyometrium. The unremarkable
+right fallopian tube measures 8.5 x 0.3 x 0.3 cm, and the right ovary measures
+2.5 x 1.5 x 1 cm. The left fallopian tube measures 5 x 0.3 x 0.3 cm, and the
+left ovary measures 2.5 x 1 < v 1 cm. Tumor and normal taken for . Rest for
+permanents," by
+M.D.
+Microscopic Description and Comment:
+Microscopic sections show a poorly differentiated endometrioid adenocarcinoma,
+FIGO grade III/III, with involvement of lower uterine segment and endocervical
+glands with no evidence of cervical stromal invasion. The maximum depth of
+invasion of tumor measures 1.2 cm from total thickness of 1.5 cm. No definitive
+lymph-vascular space invasion is identified. Foci of adenomyosis and
+endometriosis (left ovary) can be appreciated. No evidence of metastatic tumor
+in total of 21 regional lymph nodes (0/21).
+
+History:
+The patient is a year old woman with endometrial carcinoma. Operative
+procedure: EUA, exploratory laparotomy, TAH/BSO, lymph node dissection.
+Specimen(s) Received:
+A: UTERUS, CERVIX, BILATERAL TUBES AND OVARIES
+B: LEFT PELVIC NODE
+C: RIGHT PELVIC NODE
+D: RIGHT PERI-AORTIC NODE
+E: LEFT PERI-AORTIC NODE
+
+Gross Description
+The specimens are received in five formalin-filled containers, each labeled
+"The first container is additionally labeled
+"uterus, cervix, BSO." The measurements and weight are consistent with the ones
+described in the intraoperative note. Additionally, the ectocervical canal
+measures 3 x 1 cm, and is yellow-tan and smooth. The endometrium measures 3.5 x
+2.5 cm, and is roughly triangular. The entire endometrial cavity is replaced by
+tumor. In addition to the polypoid protuberance, the underlying myometrium
+shows a gross invasion of 0.5 cm. Labeled A1 to A4 - contiguous sections of
+anterior endomyometrium to anterior cervix; A5, A6 - additional sections of
+anterior endomyometrium with tumor; A7 to A9 - contiguous sections of posterior
+endomyometrium to posterior cervix; A10, A11 - posterior endomyometrium with
+tumor; A12 - right ovary; A13 - right fallopian tube; A14 - left ovary; A15 -
+left fallopian tube. Jar 2.
+The second container is labeled "left pelvic lymph nodes." It contains fatty
+fragments of tissue measuring 7.5 x 6 x 1 cm. Labeled B1 to B6 - one lymph node
+bisected each. Jar 1.
+The third container is labeled "right pelvic lymph nodes." It contains an 8 x
+5.5 x 1 cm fatty tissue. Labeled C1 to C7 - one lymph node bisected each. Jar
+1.
+The fourth container is labeled "right periaortic lymph nodes." It contains a 4
+x 3 x 1 cm fragment of fatty tissue. Labeled D1 to D4 - one lymph node bisected
+each. Jar 1.
+The fifth container is labeled "left periaortic lymph nodes." It contains two
+fragments of fatty tissue measuring 2 x 1 x 1, and 1.5 x 1 x 1 cm. Labeled E1
+
+Page 2 of 4
+
+================================================================================
+PAGE 3
+================================================================================
+Patient Name:
+DOB:
+Accession:
+
+to EA - one lymph node bisected each. Jar 1.
+M.D.
+SYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS
+
+HISTOPATHOLOGIC TYPE
+The histologic diagnosis is adenocarcinoma, endometrioid type
+
+FIGO GRADE
+The FIGO Grade of the tumor is 51 to 100% solid growth pattern (FIII)
+
+TUMOR INVASION
+Invasive tumor is present with invasion of the outer 1/3 of the myometrium
+
+TUMOR SIZE
+The tumor invades to a depth of 1.2 mm
+The myometrial thickness is 1.5 mm;
+
+LOWER UTERINE SEGMENT INVOLVEMENT
+(does not change the stage)
+The lower uterine segment is involved by tumor
+
+ENDOCERVICAL INVOLVEMENT
+The endocervix is involved by tumor in its mucosal aspect only
+
+LYMPHVASCULAR SPACE INVASION
+Lymphvascular space invasion by tumor is absent
+
+REGIONAL LYMPH NODES (N)
+No regional lymph node metastasis (NO)
+The regional lymph nodes are free of tumor in 21 nodes
+The regional lymph nodes are involved by tumor in 0 nodes
+The total number of lymph nodes examined is 21
+
+DISTANT METASTASIS (M)
+Distant metastasis cannot be assessed (MX)
+
+PRIMARY TUMOR (TNM Category/FIGO-Stage)
+Tumor limited to the glandular epithelium of the endocervix. There is no
+evidence of connective tissue stromal invasion (T2a/IIA)
+
+STAGE GROUPING
+The overall pathologic AJCC stage of the tumor is T2a/NO/MO (Stage IIA)
+
+The pathologic stage assigned here should be regarded as provisional, and may
+change after integration of clinical data not provided with this specimen.
+
+The performance characteristics of some immunohistochemical stains, fluorescence
+in-situ hybridization tests and immunophenotyping by flow cytometry cited in
+this report (if any) were determined by the Surgical Pathology Department at
+as part of an ongoing quality assurance program and in
+compliance with federally mandated regulations drawn from the Clinical
+Laboratory Improvement Act of 1988 (CLIA '88). Some of these tests rely on the
+use of "analyte specific reagents" and are subject to specific labeling
+requirements by the US Food and Drug Administration. Such diagnostic tests may
+only be performed in a facility that is certified by the Department of Health
+and Human Services as a high complexity laboratory under CLIA '88. The FDA has
+determined that such clearance or approval is not necessary. This test is used
+for clinical purposes. It should not be regarded as investigational or for
+
+Page 3 of 4
+
+================================================================================
+PAGE 4
+================================================================================
+Patient Name:
+DOB:
+1 Accession: ___________________________________________
+
+
+research. Nevertheless, federal rules concerning the medical use of analyte
+specific reagents require that the following disclaimer be attached to the
+report:
+      This test was developed and its performancr charcteristics determined by
+the Surgical Pathology Department of ____________________________ It has not been
+cleared or approved by the U. S. Food and Drug Administration.
+
+
+
+
+
+
+
+
+
+Page 4 of 4

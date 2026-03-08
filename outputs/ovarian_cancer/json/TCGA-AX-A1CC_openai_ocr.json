@@ -1,0 +1,287 @@
+{
+  "pdf": "reports\\TCGA-AX-A1CC\\TCGA-AX-A1CC.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 15.031165361404419,
+        "chars": 2521,
+        "words": 308,
+        "text": "Adnexacarcinoma, serous, NOS  8441/3\nS.ta Code Endometrium C54.1  1/9/11 lw\n\nHistology Report\nDate:                                    Enc:                                    Ordered by:\nStatus Final                        POC:                                    Clinician:\nDocument Id:\n\nAccession Number:\n\nMicroscopic Diagnosis:\nA) Omental nodule, biopsy:\n- Adipose tissue with hemorrhage and focal fat necrosis, no evidence of malignancy\n\nB) Uterus, cervix, fallopian tubes, and ovaries, hysterectomy and bilateral salpingo-oophorectomy:\n- Serous adenocarcinoma (1.5 cm), Grade III/III, invading 1.5 cm into a 1.8 cm thick myometrium, with lymphovascular invasion, not involving the cervix (see comment and Microscopic Summary)\n- Ovaries: peritoneal inclusion cysts\n- Fallopian tubes: paratubal cysts\n\nC) Lymph node, right periaortic, excision:\n- Four lymph nodes negative for malignancy (0/4)\n\nD) Omentum, omentectomy:\nNegative for malignancy\n\nE) Lymph node, left periaortic #1, excision:\n- Three lymph nodes negative for malignancy (0/3)\n\nF) Lymph node, left periaortic #2, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nG) Lymph node, right pelvic, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nH) Lymph nodes, left common iliac, excision:\n- Nine lymph nodes negative for malignancy (0/9)\n\nComments:\nThe tumor is composed of admixed glandular and solid areas. Both are strongly and diffusely positive for vimentin and p53; there is patchy staining for p16 in the glandular areas. These results in combination with tumor cell morphology and architectural growth patterns, are consistent with a diagnosis of serous carcinoma. ER shows 2+ expression in 80% of the glandular cells, but only 1+ expression in <5% of the cells in the solid-growth areas. CD56, synaptophysin and chromogranin are negative, excluding the presence of a neuroendocrine component.\n\nClinical History:\nThe patient is female with endometrial cancer. Preop dx: Endometrial cancer.\n\nMACROSCOPIC SUMMARY:\nSpecimen Type: Hysterectomy\nTumor Site: Not specified\nTumor Size: Greatest dimension: 1.5 cm\nOther Organs Present: Right ovary, Left ovary, Right fallopian tube, Left fallopian tube\n\nPrinted By:                                                                                          Unit#:\n\n                                                                                                      Print Date:\n\n                                                                                                      Page 1 of 3",
+        "confidence": {
+          "mean_probability": 0.9709073785844425,
+          "mean_log_probability": -0.052477269949066215,
+          "perplexity": 1.0538786070918722,
+          "min_probability": 0.031978547232009734
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 590,
+          "total_tokens": 3062
+        },
+        "composite_score": 0.6720779992019217,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0320 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0320 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 15.031165361404419,
+          "chars": 2521,
+          "words": 308,
+          "text": "Adnexacarcinoma, serous, NOS  8441/3\nS.ta Code Endometrium C54.1  1/9/11 lw\n\nHistology Report\nDate:                                    Enc:                                    Ordered by:\nStatus Final                        POC:                                    Clinician:\nDocument Id:\n\nAccession Number:\n\nMicroscopic Diagnosis:\nA) Omental nodule, biopsy:\n- Adipose tissue with hemorrhage and focal fat necrosis, no evidence of malignancy\n\nB) Uterus, cervix, fallopian tubes, and ovaries, hysterectomy and bilateral salpingo-oophorectomy:\n- Serous adenocarcinoma (1.5 cm), Grade III/III, invading 1.5 cm into a 1.8 cm thick myometrium, with lymphovascular invasion, not involving the cervix (see comment and Microscopic Summary)\n- Ovaries: peritoneal inclusion cysts\n- Fallopian tubes: paratubal cysts\n\nC) Lymph node, right periaortic, excision:\n- Four lymph nodes negative for malignancy (0/4)\n\nD) Omentum, omentectomy:\nNegative for malignancy\n\nE) Lymph node, left periaortic #1, excision:\n- Three lymph nodes negative for malignancy (0/3)\n\nF) Lymph node, left periaortic #2, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nG) Lymph node, right pelvic, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nH) Lymph nodes, left common iliac, excision:\n- Nine lymph nodes negative for malignancy (0/9)\n\nComments:\nThe tumor is composed of admixed glandular and solid areas. Both are strongly and diffusely positive for vimentin and p53; there is patchy staining for p16 in the glandular areas. These results in combination with tumor cell morphology and architectural growth patterns, are consistent with a diagnosis of serous carcinoma. ER shows 2+ expression in 80% of the glandular cells, but only 1+ expression in <5% of the cells in the solid-growth areas. CD56, synaptophysin and chromogranin are negative, excluding the presence of a neuroendocrine component.\n\nClinical History:\nThe patient is female with endometrial cancer. Preop dx: Endometrial cancer.\n\nMACROSCOPIC SUMMARY:\nSpecimen Type: Hysterectomy\nTumor Site: Not specified\nTumor Size: Greatest dimension: 1.5 cm\nOther Organs Present: Right ovary, Left ovary, Right fallopian tube, Left fallopian tube\n\nPrinted By:                                                                                          Unit#:\n\n                                                                                                      Print Date:\n\n                                                                                                      Page 1 of 3",
+          "confidence": {
+            "mean_probability": 0.9709073785844425,
+            "mean_log_probability": -0.052477269949066215,
+            "perplexity": 1.0538786070918722,
+            "min_probability": 0.031978547232009734
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 590,
+            "total_tokens": 3062
+          },
+          "composite_score": 0.6720779992019217,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0320 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0320 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 13.337980508804321,
+          "chars": 2489,
+          "words": 308,
+          "text": "Adnexacarcinoma, serous, Nos  8441/3\nS.ta Code Endometrium C54.1\n1/9/11 lw\n\nHistology Report\nDate:                                   Enc:                                   Ordered by:\nStatus Final                      POC:                                   Clinician:\nDocument Id:\n\nAccession Number:\n\nMicroscopic Diagnosis:\nA) Omental nodule, biopsy:\n- Adipose tissue with hemorrhage and focal fat necrosis, no evidence of malignancy\n\nB) Uterus, cervix, fallopian tubes, and ovaries, hysterectomy and bilateral salpingo-oophorectomy:\n- Serous adenocarcinoma (1.5 cm), Grade III/III, invading 1.5 cm into a 1.8 cm thick myometrium, with lymphovascular invasion, not involving the cervix (see comment and Microscopic Summary)\n- Ovaries: peritoneal inclusion cysts\n- Fallopian tubes: paratubal cysts\n\nC) Lymph node, right periaortic, excision:\n- Four lymph nodes negative for malignancy (0/4)\n\nD) Omentum, omentectomy:\nNegative for malignancy\n\nE) Lymph node, left periaortic #1, excision:\n- Three lymph nodes negative for malignancy (0/3)\n\nF) Lymph node, left periaortic #2, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nG) Lymph node, right pelvic, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nH) Lymph nodes, left common iliac, excision:\n- Nine lymph nodes negative for malignancy (0/9)\n\nComments:\nThe tumor is composed of admixed glandular and solid areas. Both are strongly and diffusely positive for vimentin and p53; there is patchy staining for p16 in the glandular areas. These results in combination with tumor cell morphology and architectural growth patterns, are consistent with a diagnosis of serous carcinoma. ER shows 2+ expression in 80% of the glandular cells, but only 1+ expression in <5% of the cells in the solid-growth areas. CD56, synaptophysin and chromogranin are negative, excluding the presence of a neuroendocrine component.\n\nClinical History:\nThe patient is female with endometrial cancer. Preop dx: Endometrial cancer.\n\nMACROSCOPIC SUMMARY:\nSpecimen Type: Hysterectomy\nTumor Site: Not specified\nTumor Size: Greatest dimension: 1.5 cm\nOther Organs Present: Right ovary, Left ovary, Right fallopian tube, Left fallopian tube\n\nPrinted By:                                                                                  Unit#:\n                                                                                              Print Date:\n                                                                                              Page 1 of 3",
+          "confidence": {
+            "mean_probability": 0.969692984624465,
+            "mean_log_probability": -0.05425062925170068,
+            "perplexity": 1.0557491706240136,
+            "min_probability": 0.027930555785299464
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 589,
+            "total_tokens": 3061
+          },
+          "composite_score": 0.6376238391886089
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.85776162147522,
+          "chars": 2531,
+          "words": 308,
+          "text": "Adnexacarcinoma, serous, NOS 8441/3\nS.ta Code Endometrium C54.1\n1/9/11 lw\n\nHistology Report\n\nDate:                                       Enc:                                      Ordered by:\nStatus Final                            POC:                                      Clinician:\nDocument Id:\n\nAccession Number:\n\nMicroscopic Diagnosis:\nA) Omental nodule, biopsy:\n- Adipose tissue with hemorrhage and focal fat necrosis, no evidence of malignancy\n\nB) Uterus, cervix, fallopian tubes, and ovaries, hysterectomy and bilateral salpingo-oophorectomy:\n- Serous adenocarcinoma (1.5 cm), Grade III/III, invading 1.5 cm into a 1.8 cm thick myometrium, with lymphovascular invasion, not involving the cervix (see comment and Microscopic Summary)\n- Ovaries: peritoneal inclusion cysts\n- Fallopian tubes: paratubal cysts\n\nC) Lymph node, right periaortic, excision:\n- Four lymph nodes negative for malignancy (0/4)\n\nD) Omentum, omentectomy:\nNegative for malignancy\n\nE) Lymph node, left periaortic #1, excision:\n- Three lymph nodes negative for malignancy (0/3)\n\nF) Lymph node, left periaortic #2, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nG) Lymph node, right pelvic, excision:\n- Two lymph nodes negative for malignancy (0/2)\n\nH) Lymph nodes, left common iliac, excision:\n- Nine lymph nodes negative for malignancy (0/9)\n\nComments:\nThe tumor is composed of admixed glandular and solid areas. Both are strongly and diffusely positive for vimentin and p53; there is patchy staining for p16 in the glandular areas. These results in combination with tumor cell morphology and architectural growth patterns, are consistent with a diagnosis of serous carcinoma. ER shows 2+ expression in 80% of the glandular cells, but only 1+ expression in <5% of the cells in the solid-growth areas. CD56, synaptophysin and chromogranin are negative, excluding the presence of a neuroendocrine component.\n\nClinical History:\nThe patient is female with endometrial cancer. Preop dx: Endometrial cancer.\n\nMACROSCOPIC SUMMARY:\nSpecimen Type: Hysterectomy\nTumor Site: Not specified\nTumor Size: Greatest dimension: 1.5 cm\nOther Organs Present: Right ovary, Left ovary, Right fallopian tube, Left fallopian tube\n\nPrinted By:                                                                                          Unit#:\n\n                                                                                                      Print Date:\n\n                                                                                                      Page 1 of 3",
+          "confidence": {
+            "mean_probability": 0.9726248013238127,
+            "mean_log_probability": -17.07799802214651,
+            "perplexity": 26114415.090457454,
+            "min_probability": 0.0
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 588,
+            "total_tokens": 3060
+          },
+          "composite_score": 0.16242803729418887
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 42.85974073410034,
+        "chars": 4094,
+        "words": 628,
+        "text": "MICROSCOPIC SUMMARY:\nHistologic Type: Serous adenocarcinoma\nHistologic Grade: G3: More than 50% nonsquamous solid growth\nMyometrial Invasion: Invasion present (depth of invasion: 15 mm, myometrial thickness: 18 mm)\nPathologic Staging (pTNM [FIGO])\nPrimary Tumor (pT): pT1c [IC]: Tumor invades one-half or more of the myometrium\nRegional Lymph Nodes (pN): pNO: No regional lymph node metastasis (Number examined: 20, Number involved: 0)\nDistant Metastasis (pM): pMX: Cannot be assessed\nMargins: Uninvolved by invasive carcinoma\nVenous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present\nConcurrent cytology: N10-220 is reported as negative.\n\nGross Description:\nReceived fresh for frozen section diagnosis labeled with patient name and medical record number are two specimens.\n\nSpecimen A, designated \"omental nodule,\" is one red-tan soft tissue fragment measuring 0.7 x 0.5 x 0.4 cm. The specimen is submitted entirely for frozen section diagnosis with the remainder of tissue submitted in cassette (FSA1).\n\nSpecimen B, designated \"uterus/cervix/tubes/ovaries\" is a 65 g specimen, including an unopened uterus (6.5 x 5.5 x 4 cm), right fallopian tube (4.5 cm in length x 0.3 cm in diameter), right ovary (1.8 x 1.1 x 0.5 cm), left fallopian tube (4.6 cm in length, 0.3 cm in diameter), and left ovary (1.3 x 1 x 0.4 cm). The exocervix (2.5 x 2.5 cm) is covered by a smooth glistening white mucosa. The external os is circular and measures 0.3 cm in diameter. The endocervical canal (3 cm in length) has tan herringbone mucosa. The endometrial cavity (2 cm from cornu to cornu, 2.3 cm in length) has a tan-pink hemorrhagic endometrial lining. There is a 1.5 x 1 cm tan fibrous heaped-up lesion that invades superficially into the myometrium. A representative section was used for frozen section diagnosis and submitted in cassette (FSB1). The lesion is located 0.5 cm from the lower uterine segment. The myometrium measures 1.8 cm in maximum thickness. Cut sections reveal a 0.7 x 0.7 x 0.6 cm white whorled lesion in the myometrial wall, 0.5 cm deep to the endometrium. The serosa is tan and smooth, without adhesions. The fallopian tubes are patent and have fimbriated ends. The ovaries have smooth white outer surfaces and cut sections show a pink-tan heterogeneous parenchyma. Representative sections are submitted as follows:\n\n(FSB1) frozen section remnant\n(B2-B3) full-thickness section of lesion on posterior endometrium\n(B4-B5) full-thickness section, anterior endomyometrium, with leiomyoma\n(B6) anterior cervix\n(B7) posterior cervix\n(B8) anterior lower uterine segment\n(B9) posterior lower uterine segment\n(B10-B11) right ovary and tube, submitted entirely\n(B12-B13) left ovary and tube, submitted entirely\n(B14-B15) anterior endomyometrium\n(B16-B17) posterior endomyometrium\n\nReceived later, in formalin, labeled with the patient's name and medical record number, are six additional specimens.\n\nSpecimen C, designated \"right periaortic lymph node,\" are two pieces of fibrofatty tissue measuring 1.4 x 0.7 x 0.3 cm and 0.6 x 0.5 x 0.2 cm. The specimen is submitted entirely in cassette (C1).\n\nSpecimen D, designated \"omentum,\" is a 21 x 19 x 2 cm piece of fibrofatty tissue. The surface is golden yellow and glistening. Cut sections reveal homogeneous fibrofatty tissue with no masses or lesions. Representative sections are submitted in cassettes (D1-D5).\n\nSpecimen E, designated \"left periaortic lymph node #1,\" is three nodules with maximum dimensions of 0.6, 0.5, and 0.5 cm. The nodules are submitted entirely in cassette (E1).\n\nSpecimen F, designated \"left periaortic lymph node #2,\" is a 0.6 x 0.5 x 0.3 cm nodule. The specimen is submitted entirely in cassette (F1).\n\nSpecimen G, designated \"R pelvic lymph node,\" is two nodules measuring 0.8 x and 0.5 cm in maximum dimension. The specimen is submitted entirely in cassette (G1).\n\nSpecimen H, designated \"L common iliac LN,\" are eight nodules, the largest with a maximum dimension of 0.9 cm. The specimen is submitted entirely in cassettes (H1-H3).\n\nUnit#:\nPrint Date:                                             Page 2 of 3",
+        "confidence": {
+          "mean_probability": 0.9958169825959147,
+          "mean_log_probability": -0.006635417322834647,
+          "perplexity": 1.0066574804767743,
+          "min_probability": 0.04010128100171199
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1144,
+          "total_tokens": 3616
+        },
+        "composite_score": 0.6963086598813802,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0401 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0401 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 42.85974073410034,
+          "chars": 4094,
+          "words": 628,
+          "text": "MICROSCOPIC SUMMARY:\nHistologic Type: Serous adenocarcinoma\nHistologic Grade: G3: More than 50% nonsquamous solid growth\nMyometrial Invasion: Invasion present (depth of invasion: 15 mm, myometrial thickness: 18 mm)\nPathologic Staging (pTNM [FIGO])\nPrimary Tumor (pT): pT1c [IC]: Tumor invades one-half or more of the myometrium\nRegional Lymph Nodes (pN): pNO: No regional lymph node metastasis (Number examined: 20, Number involved: 0)\nDistant Metastasis (pM): pMX: Cannot be assessed\nMargins: Uninvolved by invasive carcinoma\nVenous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present\nConcurrent cytology: N10-220 is reported as negative.\n\nGross Description:\nReceived fresh for frozen section diagnosis labeled with patient name and medical record number are two specimens.\n\nSpecimen A, designated \"omental nodule,\" is one red-tan soft tissue fragment measuring 0.7 x 0.5 x 0.4 cm. The specimen is submitted entirely for frozen section diagnosis with the remainder of tissue submitted in cassette (FSA1).\n\nSpecimen B, designated \"uterus/cervix/tubes/ovaries\" is a 65 g specimen, including an unopened uterus (6.5 x 5.5 x 4 cm), right fallopian tube (4.5 cm in length x 0.3 cm in diameter), right ovary (1.8 x 1.1 x 0.5 cm), left fallopian tube (4.6 cm in length, 0.3 cm in diameter), and left ovary (1.3 x 1 x 0.4 cm). The exocervix (2.5 x 2.5 cm) is covered by a smooth glistening white mucosa. The external os is circular and measures 0.3 cm in diameter. The endocervical canal (3 cm in length) has tan herringbone mucosa. The endometrial cavity (2 cm from cornu to cornu, 2.3 cm in length) has a tan-pink hemorrhagic endometrial lining. There is a 1.5 x 1 cm tan fibrous heaped-up lesion that invades superficially into the myometrium. A representative section was used for frozen section diagnosis and submitted in cassette (FSB1). The lesion is located 0.5 cm from the lower uterine segment. The myometrium measures 1.8 cm in maximum thickness. Cut sections reveal a 0.7 x 0.7 x 0.6 cm white whorled lesion in the myometrial wall, 0.5 cm deep to the endometrium. The serosa is tan and smooth, without adhesions. The fallopian tubes are patent and have fimbriated ends. The ovaries have smooth white outer surfaces and cut sections show a pink-tan heterogeneous parenchyma. Representative sections are submitted as follows:\n\n(FSB1) frozen section remnant\n(B2-B3) full-thickness section of lesion on posterior endometrium\n(B4-B5) full-thickness section, anterior endomyometrium, with leiomyoma\n(B6) anterior cervix\n(B7) posterior cervix\n(B8) anterior lower uterine segment\n(B9) posterior lower uterine segment\n(B10-B11) right ovary and tube, submitted entirely\n(B12-B13) left ovary and tube, submitted entirely\n(B14-B15) anterior endomyometrium\n(B16-B17) posterior endomyometrium\n\nReceived later, in formalin, labeled with the patient's name and medical record number, are six additional specimens.\n\nSpecimen C, designated \"right periaortic lymph node,\" are two pieces of fibrofatty tissue measuring 1.4 x 0.7 x 0.3 cm and 0.6 x 0.5 x 0.2 cm. The specimen is submitted entirely in cassette (C1).\n\nSpecimen D, designated \"omentum,\" is a 21 x 19 x 2 cm piece of fibrofatty tissue. The surface is golden yellow and glistening. Cut sections reveal homogeneous fibrofatty tissue with no masses or lesions. Representative sections are submitted in cassettes (D1-D5).\n\nSpecimen E, designated \"left periaortic lymph node #1,\" is three nodules with maximum dimensions of 0.6, 0.5, and 0.5 cm. The nodules are submitted entirely in cassette (E1).\n\nSpecimen F, designated \"left periaortic lymph node #2,\" is a 0.6 x 0.5 x 0.3 cm nodule. The specimen is submitted entirely in cassette (F1).\n\nSpecimen G, designated \"R pelvic lymph node,\" is two nodules measuring 0.8 x and 0.5 cm in maximum dimension. The specimen is submitted entirely in cassette (G1).\n\nSpecimen H, designated \"L common iliac LN,\" are eight nodules, the largest with a maximum dimension of 0.9 cm. The specimen is submitted entirely in cassettes (H1-H3).\n\nUnit#:\nPrint Date:                                             Page 2 of 3",
+          "confidence": {
+            "mean_probability": 0.9958169825959147,
+            "mean_log_probability": -0.006635417322834647,
+            "perplexity": 1.0066574804767743,
+            "min_probability": 0.04010128100171199
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1144,
+            "total_tokens": 3616
+          },
+          "composite_score": 0.6963086598813802,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0401 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0401 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 45.32097673416138,
+          "chars": 4095,
+          "words": 628,
+          "text": "MICROSCOPIC SUMMARY:\nHistologic Type: Serous adenocarcinoma\nHistologic Grade: G3: More than 50% nonsquamous solid growth\nMyometrial Invasion: Invasion present (depth of invasion: 15 mm, myometrial thickness: 18 mm)\nPathologic Staging (pTNM [FIGO])\nPrimary Tumor (pT): pT1c [IC]: Tumor invades one-half or more of the myometrium\nRegional Lymph Nodes (pN): pNO: No regional lymph node metastasis (Number examined: 20, Number involved: 0)\nDistant Metastasis (pM): pMX: Cannot be assessed\nMargins: Uninvolved by invasive carcinoma\nVenous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present\nConcurrent cytology: N10-220 is reported as negative.\n\nGross Description:\nReceived fresh for frozen section diagnosis labeled with patient name and medical record number are two specimens.\n\nSpecimen A, designated \"omental nodule,\" is one red-tan soft tissue fragment measuring 0.7 x 0.5 x 0.4 cm. The specimen is submitted entirely for frozen section diagnosis with the remainder of tissue submitted in cassette (FSA1).\n\nSpecimen B, designated \"uterus/cervix/tubes/ovaries\" is a 65 g specimen, including an unopened uterus (6.5 x 5.5 x 4 cm), right fallopian tube (4.5 cm in length x 0.3 cm in diameter), right ovary (1.8 x 1.1 x 0.5 cm), left fallopian tube (4.6 cm in length, 0.3 cm in diameter), and left ovary (1.3 x 1 x 0.4 cm). The exocervix (2.5 x 2.5 cm) is covered by a smooth glistening white mucosa. The external os is circular and measures 0.3 cm in diameter. The endocervical canal (3 cm in length) has tan herringbone mucosa. The endometrial cavity (2 cm from cornu to cornu, 2.3 cm in length) has a tan-pink hemorrhagic endometrial lining. There is a 1.5 x 1 cm tan fibrous heaped-up lesion that invades superficially into the myometrium. A representative section was used for frozen section diagnosis and submitted in cassette (FSB1). The lesion is located 0.5 cm from the lower uterine segment. The myometrium measures 1.8 cm in maximum thickness. Cut sections reveal a 0.7 x 0.7 x 0.6 cm white whorled lesion in the myometrial wall, 0.5 cm deep to the endometrium. The serosa is tan and smooth, without adhesions. The fallopian tubes are patent and have fimbriated ends. The ovaries have smooth white outer surfaces and cut sections show a pink-tan heterogeneous parenchyma. Representative sections are submitted as follows:\n\n(FSB1) frozen section remnant\n(B2-B3) full-thickness section of lesion on posterior endometrium\n(B4-B5) full-thickness section, anterior endomyometrium, with leiomyoma\n(B6) anterior cervix\n(B7) posterior cervix\n(B8) anterior lower uterine segment\n(B9) posterior lower uterine segment\n(B10-B11) right ovary and tube, submitted entirely\n(B12-B13) left ovary and tube, submitted entirely\n(B14-B15) anterior endomyometrium\n(B16-B17) posterior endomyometrium\n\nReceived later, in formalin, labeled with the patient's name and medical record number, are six additional specimens.\n\nSpecimen C, designated \"right periaortic lymph node,\" are two pieces of fibrofatty tissue measuring 1.4 x 0.7 x 0.3 cm and 0.6 x 0.5 x 0.2 cm. The specimen is submitted entirely in cassette (C1).\n\nSpecimen D, designated \"omentum,\" is a 21 x 19 x 2 cm piece of fibrofatty tissue. The surface is golden yellow and glistening. Cut sections reveal homogeneous fibrofatty tissue with no masses or lesions. Representative sections are submitted in cassettes (D1-D5).\n\nSpecimen E, designated \"left periaortic lymph node #1,\" is three nodules with maximum dimensions of 0.6, 0.5, and 0.5 cm. The nodules are submitted entirely in cassette (E1).\n\nSpecimen F, designated \"left periaortic lymph node #2,\" is a 0.6 x 0.5 x 0.3 cm nodule. The specimen is submitted entirely in cassette (F1).\n\nSpecimen G, designated \"R pelvic lymph node,\" is two nodules measuring 0.8 x and 0.5 cm in maximum dimension. The specimen is submitted entirely in cassette (G1).\n\nSpecimen H, designated \"L common iliac LN,\" are eight nodules, the largest with a maximum dimension of 0.9 cm. The specimen is submitted entirely in cassettes (H1-H3).\n\nUnit#:\nPrint Date:                                              Page 2 of 3",
+          "confidence": {
+            "mean_probability": 0.9956324143158234,
+            "mean_log_probability": -0.007018745406824146,
+            "perplexity": 1.0070434345287869,
+            "min_probability": 0.03502045358633503
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1144,
+            "total_tokens": 3616
+          },
+          "composite_score": 0.6612920525824749
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 46.49071717262268,
+          "chars": 4090,
+          "words": 628,
+          "text": "MICROSCOPIC SUMMARY:\nHistologic Type: Serous adenocarcinoma\nHistologic Grade: G3: More than 50% nonsquamous solid growth\nMyometrial Invasion: Invasion present (depth of invasion: 15 mm, myometrial thickness: 18 mm)\nPathologic Staging (pTNM [FIGO])\nPrimary Tumor (pT): pT1c [IC]: Tumor invades one-half or more of the myometrium\nRegional Lymph Nodes (pN): pN0: No regional lymph node metastasis (Number examined: 20, Number involved: 0)\nDistant Metastasis (pM): pMX: Cannot be assessed\nMargins: Uninvolved by invasive carcinoma\nVenous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present\nConcurrent cytology: N10-220 is reported as negative.\n\nGross Description:\nReceived fresh for frozen section diagnosis labeled with patient name and medical record number are two specimens.\n\nSpecimen A, designated \"omental nodule,\" is one red-tan soft tissue fragment measuring 0.7 x 0.5 x 0.4 cm. The specimen is submitted entirely for frozen section diagnosis with the remainder of tissue submitted in cassette (FSA1).\n\nSpecimen B, designated \"uterus/cervix/tubes/ovaries\" is a 65 g specimen, including an unopened uterus (6.5 x 5.5 x 4 cm), right fallopian tube (4.5 cm in length x 0.3 cm in diameter), right ovary (1.8 x 1.1 x 0.5 cm), left fallopian tube (4.6 cm in length, 0.3 cm in diameter), and left ovary (1.3 x 1 x 0.4 cm). The exocervix (2.5 x 2.5 cm) is covered by a smooth glistening white mucosa. The external os is circular and measures 0.3 cm in diameter. The endocervical canal (3 cm in length) has tan herringbone mucosa. The endometrial cavity (2 cm from cornu to cornu, 2.3 cm in length) has a tan-pink hemorrhagic endometrial lining. There is a 1.5 x 1 cm tan fibrous heaped-up lesion that invades superficially into the myometrium. A representative section was used for frozen section diagnosis and submitted in cassette (FSB1). The lesion is located 0.5 cm from the lower uterine segment. The myometrium measures 1.8 cm in maximum thickness. Cut sections reveal a 0.7 x 0.7 x 0.6 cm white whorled lesion in the myometrial wall, 0.5 cm deep to the endometrium. The serosa is tan and smooth, without adhesions. The fallopian tubes are patent and have fimbriated ends. The ovaries have smooth white outer surfaces and cut sections show a pink-tan heterogeneous parenchyma. Representative sections are submitted as follows:\n\n(FSB1) frozen section remnant\n(B2-B3) full-thickness section of lesion on posterior endometrium\n(B4-B5) full-thickness section, anterior endomyometrium, with leiomyoma\n(B6) anterior cervix\n(B7) posterior cervix\n(B8) anterior lower uterine segment\n(B9) posterior lower uterine segment\n(B10-B11) right ovary and tube, submitted entirely\n(B12-B13) left ovary and tube, submitted entirely\n(B14-B15) anterior endomyometrium\n(B16-B17) posterior endomyometrium\n\nReceived later, in formalin, labeled with the patient's name and medical record number, are six additional specimens.\n\nSpecimen C, designated \"right periaortic lymph node,\" are two pieces of fibrofatty tissue measuring 1.4 x 0.7 x 0.3 cm and 0.6 x 0.5 x 0.2 cm. The specimen is submitted entirely in cassette (C1).\n\nSpecimen D, designated \"omentum,\" is a 21 x 19 x 2 cm piece of fibrofatty tissue. The surface is golden yellow and glistening. Cut sections reveal homogeneous fibrofatty tissue with no masses or lesions. Representative sections are submitted in cassettes (D1-D5).\n\nSpecimen E, designated \"left periaortic lymph node #1,\" is three nodules with maximum dimensions of 0.6, 0.5, and 0.5 cm. The nodules are submitted entirely in cassette (E1).\n\nSpecimen F, designated \"left periaortic lymph node #2,\" is a 0.6 x 0.5 x 0.3 cm nodule. The specimen is submitted entirely in cassette (F1).\n\nSpecimen G, designated \"R pelvic lymph node,\" is two nodules measuring 0.8 x and 0.5 cm in maximum dimension. The specimen is submitted entirely in cassette (G1).\n\nSpecimen H, designated \"L common iliac LN,\" are eight nodules, the largest with a maximum dimension of 0.9 cm. The specimen is submitted entirely in cassettes (H1-H3).\n\nUnit#:\nPrint Date:                                         Page 2 of 3",
+          "confidence": {
+            "mean_probability": 0.9960311648869431,
+            "mean_log_probability": -0.0065525559440559435,
+            "perplexity": 1.006574070905748,
+            "min_probability": 0.03436010932909253
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1145,
+            "total_tokens": 3617
+          },
+          "composite_score": 0.6615367334853486
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.092280626296997,
+        "chars": 1496,
+        "words": 212,
+        "text": "Intraoperative Consultation:\nFSA1: Omental nodule, cutting poorly, adipose tissue\n\nTime received:\nime reported:\notal time: 19 minutes\n\nFSB1: Uterus, cervix, fallopian tubes, and ovaries: Endometrioid adenocarcinoma, at least FIGO grade II, invasive into outer one-third of myometrium\n\nTime received:\nTime reported\nTotal time: 23 minutes\n\nInterpreted by:\n\nInterpreted by:\n\n_____ELECTRONICALLY SIGNED______\n\nDate: __      ___\n\n\"I certify that (1) all services on this form were rendered and are hereby approved for billing, (2) all specimens/slides have been examined/reviewed, (3) the medical record has been documented for these services, and (4) the rendering of the services and the documentation in the medical record are in accordance with guidelines.\"\n\nThe following special evaluations were performed on this specimen. Please refer to the Microscopic Description or Comment section(s).\n\nStain\nSpecimen\nBlock\nLevel\nTissue\n\nCD-56 + (N-CAM)          B    3    2    Hysterectomy - BSO\nChromogranin +           B    3    3    Hysterectomy - BSO\np16 +                    B    3    4    Hysterectomy - BSO\nSynaptophysin +          B    3    5    Hysterectomy - BSO\np53 +                    B    3    6    Hysterectomy - BSO\nVimentin +               B    3    7    Hysterectomy - BSO\nER +                     B    3    8    Hysterectomy - BSO\nRecut                    B    3    9    Hysterectomy - BSO\n\nThe following cases, on this patient, were collected on the same day as this case.\n\nPage 3 of 3",
+        "confidence": {
+          "mean_probability": 0.9726031315779761,
+          "mean_log_probability": -0.04086493975903615,
+          "perplexity": 1.0417114022509801,
+          "min_probability": 0.09937417578792733
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 416,
+          "total_tokens": 2888
+        },
+        "composite_score": 0.918191552507478,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.092280626296997,
+          "chars": 1496,
+          "words": 212,
+          "text": "Intraoperative Consultation:\nFSA1: Omental nodule, cutting poorly, adipose tissue\n\nTime received:\nime reported:\notal time: 19 minutes\n\nFSB1: Uterus, cervix, fallopian tubes, and ovaries: Endometrioid adenocarcinoma, at least FIGO grade II, invasive into outer one-third of myometrium\n\nTime received:\nTime reported\nTotal time: 23 minutes\n\nInterpreted by:\n\nInterpreted by:\n\n_____ELECTRONICALLY SIGNED______\n\nDate: __      ___\n\n\"I certify that (1) all services on this form were rendered and are hereby approved for billing, (2) all specimens/slides have been examined/reviewed, (3) the medical record has been documented for these services, and (4) the rendering of the services and the documentation in the medical record are in accordance with guidelines.\"\n\nThe following special evaluations were performed on this specimen. Please refer to the Microscopic Description or Comment section(s).\n\nStain\nSpecimen\nBlock\nLevel\nTissue\n\nCD-56 + (N-CAM)          B    3    2    Hysterectomy - BSO\nChromogranin +           B    3    3    Hysterectomy - BSO\np16 +                    B    3    4    Hysterectomy - BSO\nSynaptophysin +          B    3    5    Hysterectomy - BSO\np53 +                    B    3    6    Hysterectomy - BSO\nVimentin +               B    3    7    Hysterectomy - BSO\nER +                     B    3    8    Hysterectomy - BSO\nRecut                    B    3    9    Hysterectomy - BSO\n\nThe following cases, on this patient, were collected on the same day as this case.\n\nPage 3 of 3",
+          "confidence": {
+            "mean_probability": 0.9726031315779761,
+            "mean_log_probability": -0.04086493975903615,
+            "perplexity": 1.0417114022509801,
+            "min_probability": 0.09937417578792733
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 416,
+            "total_tokens": 2888
+          },
+          "composite_score": 0.918191552507478,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.695456504821777,
+          "chars": 1522,
+          "words": 212,
+          "text": "Intraoperative Consultation:  \nFSA1: Omental nodule, cutting poorly, adipose tissue  \n\nTime received:  \nime reported:  \notal time: 19 minutes  \n\nFSB1: Uterus, cervix, fallopian tubes, and ovaries: Endometrioid adenocarcinoma, at least FIGO grade II, invasive into outer one-third of myometrium  \n\nTime received:  \nTime reported:  \nTotal time: 23 minutes  \n\nInterpreted by:  \n\nInterpreted by:  \n\n_____ELECTRONICALLY SIGNED_____  \n\nDate: __       __  \n\n\"I certify that (1) all services on this form were rendered and are hereby approved for billing, (2) all specimens/slides have been examined/reviewed, (3) the medical record has been documented for these services, and (4) the rendering of the services and the documentation in the medical record are in accordance with guidelines.\"  \n\nThe following special evaluations were performed on this specimen. Please refer to the Microscopic Description or Comment section(s).  \n\nStain  \nSpecimen  \nBlock  \nLevel  \nTissue  \n\nCD-56 + (N-CAM)         B   3   2   Hysterectomy - BSO  \nChromogranin +          B   3   3   Hysterectomy - BSO  \np16 +                   B   3   4   Hysterectomy - BSO  \nSynaptophysin +         B   3   5   Hysterectomy - BSO  \np53 +                   B   3   6   Hysterectomy - BSO  \nVimentin +              B   3   7   Hysterectomy - BSO  \nER +                    B   3   8   Hysterectomy - BSO  \nRecut                   B   3   9   Hysterectomy - BSO  \n\nThe following cases, on this patient, were collected on the same day as this case.  \n\nPage 3 of 3",
+          "confidence": {
+            "mean_probability": 0.9761562650436442,
+            "mean_log_probability": -0.03669974117647058,
+            "perplexity": 1.0373814911246486,
+            "min_probability": 0.08598090863404703
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 426,
+            "total_tokens": 2898
+          },
+          "composite_score": 0.8776855818871284
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.331699848175049,
+          "chars": 1297,
+          "words": 212,
+          "text": "Intraoperative Consultation:\nFSA1: Omental nodule, cutting poorly, adipose tissue\n\nTime received:\nime reported:\notal time: 19 minutes\n\nFSB1: Uterus, cervix, fallopian tubes, and ovaries: Endometrioid adenocarcinoma, at least FIGO grade II, invasive into outer one-third of myometrium\n\nTime received:\nTime reported\nTotal time: 23 minutes\n\nInterpreted by:\n\nInterpreted by:\n\n____ELECTRONICALLY SIGNED_____\n\nDate: __ __\n\n\"I certify that (1) all services on this form were rendered and are hereby approved for billing, (2) all specimens/slides have been examined/reviewed, (3) the medical record has been documented for these services, and (4) the rendering of the services and the documentation in the medical record are in accordance with guidelines.\"\n\nThe following special evaluations were performed on this specimen. Please refer to the Microscopic Description or Comment section(s).\n\nStain\nSpecimen\nBlock\nLevel\nTissue\n\nCD-56 + (N-CAM) B 3 2 Hysterectomy - BSO\nChromogranin + B 3 3 Hysterectomy - BSO\np16 + B 3 4 Hysterectomy - BSO\nSynaptophysin + B 3 5 Hysterectomy - BSO\np53 + B 3 6 Hysterectomy - BSO\nVimentin + B 3 7 Hysterectomy - BSO\nER + B 3 8 Hysterectomy - BSO\nRecut B 3 9 Hysterectomy - BSO\n\nThe following cases, on this patient, were collected on the same day as this case.\n\nPage 3 of 3",
+          "confidence": {
+            "mean_probability": 0.9808362296618056,
+            "mean_log_probability": -0.030153013089005237,
+            "perplexity": 1.0306122190484706,
+            "min_probability": 0.060449619282343624
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 383,
+            "total_tokens": 2855
+          },
+          "composite_score": 0.8609694795224864
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

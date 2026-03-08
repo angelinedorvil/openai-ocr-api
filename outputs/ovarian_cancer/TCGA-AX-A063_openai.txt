@@ -139,3 +139,76 @@ to A5 - posterior contiguous segment of cervix lower uterine segment and
 endometrium including tumor; A6 through A9 - additional sections of tumor; A10 -
 
 Page 2 of 4
+
+================================================================================
+PAGE 3
+================================================================================
+Patient Name:  ,  
+DOB:  
+Accession:  
+MRN:  
+PAN:  
+
+additional sections from non-tumorous endometrium; A11 - larger uterine mass; A12 - posterior serosa; A13 through A15 - right adnexal structures; A16 through A18 - left adnexal structures. Jar 3.  
+The second container is labeled "right external iliac node" and contains several irregular fragments of fibrofatty tissue measuring 7 x 4 x 1 cm in aggregate.  
+Sectioning show two putative lymph nodes and adipose tissue. Labeled B1. Jar 1.  
+The third container is labeled "right obturator node" and contains several irregular fragments of fibroadipose tissue measuring 5 x 3 x 1.5 cm. Sectioned to show multiple lymph nodes labeled C1 to C3. Jar 1.  
+The fourth container is labeled "left external iliac" and contains several irregular portions of fibrofatty tissue measuring 5 cc in aggregate. Dissected to show two lymph nodes. Labeled D1. Jar 1.  
+The fifth container is labeled "left obturator node" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 1 cm in aggregate. Dissected to show multiple lymph nodes. Labeled E1 and E2. Jar 1.  
+The sixth container is labeled "right periaortic lymph node" and contains an irregular portion of fibrofatty tissue measuring 3.5 x 1.5 x 1 cm. Bisected to show one lymph node. Bisected. Labeled F1 and F2. Jar 1.  
+The seventh container is labeled "left periaortic lymph node" and contains several irregular portions of fibrofatty tissue measuring 5 x 3 x 0.8 cm in aggregate Labeled G1. Jar 1.  
+
+, M.D.  
+SYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  
+
+HISTOPATHOLOGIC TYPE  
+The histologic diagnosis is adenocarcinoma, endometrioid type  
+
+FIGO GRADE  
+The FIGO Grade of the tumor is 6 to 50% solid growth pattern (FII)  
+
+TUMOR INVASION  
+Invasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  
+
+TUMOR SIZE  
+The tumor invades to a depth of 3 mm  
+The myometrial thickness is 20 mm  
+
+ENDOCERVICAL INVOLVEMENT  
+The endocervix is not involved by tumor  
+
+LYMPHVASCULAR SPACE INVASION  
+Lymphvascular space invasion by tumor is absent  
+
+REGIONAL LYMPH NODES (N)  
+No regional lymph node metastasis (NO)  
+The regional lymph nodes are free of tumor in 22 nodes  
+The total number of lymph nodes examined is 22  
+
+DISTANT METASTASIS (M)  
+Distant metastasis cannot be assessed (MX)  
+
+PRIMARY TUMOR (TNM Category/FIGO Stage)  
+Tumor invades less than one-half of the myometrium (T1b/IB)  
+
+STAGE GROUPING  
+The overall pathologic AJCC stage of the tumor is T1b/N0/M0 (Stage IB)  
+
+Page 3 of 4
+
+================================================================================
+PAGE 4
+================================================================================
+Patient Name:
+nop: 
+Accession:                             MRN:
+                                      PAN:
+
+The pathologic stage assigned here should be regarded as provisional, and may
+change after integration of clinical data not provided with this specimen.
+
+
+
+
+
+Page 4 of 4

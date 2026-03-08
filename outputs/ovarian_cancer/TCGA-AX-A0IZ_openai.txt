@@ -1,0 +1,304 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A0IZ\TCGA-AX-A0IZ.pdf
+Processing Date: 2026-03-08 12:42:55
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+Criteria                  Yes       No
+Diagnosis Discrepancy
+Primary Tumor site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prim  noted
+Case is (circle):  QUALIFIED  DISQUALIFIED
+Reviewer Initials  25  Date Reviewed  10/29/11
+
+Account#:                  Room#:
+NAME:  ████████████
+NCBH#:  ████████████
+EXAM DATE:
+DOB:  ██████  Sex: F
+-------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                  AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+Patient/Provider Information and Computer Access and Responsibilities.
+-------------------------------------------------------------------------------
+
+SURGICAL PATHOLOGY
+
+                                JCA-0-3
+
+ACCESSION NUMBER:                adenocarcinoma, endometrioid, NOS 8380/3
+RECEIVED:                      Site: endometrium C54.1  fw 10/29/11
+ORDERING PHYSICIAN:
+PATIENT NAME:  ████████████
+SURGICAL PATHOLOGY REPORT
+
+FINAL PATHOLOGIC DIAGNOSIS
+***MICROSCOPIC EXAMINATION AND DIAGNOSIS***
+
+A.  TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL
+SALPINGO-OOPHORECTOMY:
+        Cervix:            Nabothian cysts.
+        Myometrium:        Adenomyosis.
+        Endometrium:       High grade endometrioid adenocarcinoma (see
+                          comment and cancer protocol below).
+        Tubes:             Benign tubes exhibiting evidence of previous
+                          tubal ligations.
+                          Benign paratubal cysts (right tube).
+        Ovaries:           Benign post-menopausal ovaries.
+
+B.  LYMPH NODES, LEFT PELVIC:
+        Benign lymph nodes (8).
+
+C.  LYMPH NODES, RIGHT PELVIC:
+        Benign lymph nodes (13).
+
+D.  LYMPH NODES, LEFT COMMON:
+        No lymph nodes identified.
+        Benign adipose tissue containing blood vessels.
+
+E.  LYMPH NODE, RIGHT COMMON:
+        Benign lymph node (1).
+
+F.  LYMPH NODES, PERI-AORTIC:
+        Benign lymph nodes (3).
+
+G.  OMENTUM, OMENTECTOMY:
+        Benign adipose tissue.
+
+COMMENT:
+The tumor in the endometrium exhibits FIGO architectural grade 3
+and nuclear grade 3 changes.  It invades into the myometrium
+```
+
+================================================================================
+PAGE 2
+================================================================================
+```
+                                                                                      I, I
+
+                                             NAME:
+                                             NCBH#:
+                                             EXAM DATE:
+Account#:                                  Room#:                                  DOB: ******* Sex: F
+---------------------------------------------------------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                    AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+Patient/Provider Information and Computer Access and Responsibilities.
+---------------------------------------------------------------------------------------------------------------------------------
+about 5 mm of 20 mm. The tumor extends into the lower uterine
+segment but not into the endocervix. No vascular invasion is
+seen and all lymph nodes are free of metastatic carcinoma.
+
+GYN: ENDOMETRIAL HYSTERECTOMY - CANCER PROTOCOL
+
+SPECIMEN TYPE:               Hysterectomy
+TUMOR SIZE:                  Greatest dimension:  4 cm
+OTHER ORGANS PRESENT:        Right ovary
+                            Left ovary
+                            Right fallopian tube
+                            Left fallopian tube
+                            Omentum and lymph nodes
+HISTOLOGIC TYPE:             Endometrioid adenocarcinoma, not otherwise
+                            characterized
+HISTOLOGIC GRADE:            FIGO Architectural Grade: Grade 3
+                            FIGO Nuclear Grade: Grade 3
+                            FIGO Final Grade: Grade 3
+DEPTH OF MYOMETRIAL INVASION: Depth of myometrial invasion
+                            5mm, Total myometrial thickness 20mm, ( 25 %)
+ENDOCERVICAL INVOLVEMENT:    Absent
+INVOLVEMENT OF OTHER STRUCTURES:      Absent
+MARGINS:                    Uninvolved by invasive carcinoma
+LYMPHOVASCULAR INVASION:     Absent
+AJCC (FIGO) STAGE
+PRIMARY TUMOR:               pT1b (IB)
+REGIONAL LYMPH NODES:        pN0
+                            Number involved:  0
+                            Number examined:  25 (8 left pelvic, 13 right plevic, 1
+                            right common, 3 periaortic)
+DISTANT METASTASIS:          pMX
+------------------------------------------------------
+
+I have personally reviewed the slides and/or other related
+materials referenced, and have edited the report as part of my
+pathologic assessment and final interpretation.
+
+***Electronically Signed Out By:
+```
+
+================================================================================
+PAGE 3
+================================================================================
+NAME:
+NCBH#:
+EXAM DATE:`
+
+Account#: Room#: DOB: Sex: F
+-------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM -- AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+Patient/Provider Information and Computer Access and Responsibilities.
+-------------------------------------------------------------------------------
+Specimen(s) Received
+A: Uterus bilateral fallopian tubes and ovaries
+B: Left pelvic lymph nodes
+C: Right pelvic lymph nodes
+D: Left common lymph nodes
+E: Right common lymph nodes
+F: Periaortic lymph nodes
+G: Omentum
+
+Clinical History
+Cancer of uterus
+
+
+Gross Description
+A. The specimen is a 120 g, 9.5 x 6.0 x 3.5 cm hysterectomy
+received with attached adnexa. The serosa is tan-brown, smooth,
+and unremarkable. The ectocervical mucosa is 4.0 x 3.2 cm, with
+erythema overlying the 12 to 6 o'clock position. The os is 0.9
+cm, patent and leads into a 2.2 cm long x 0.9 cm wide tan-white,
+trabeculated endocervical canal. The endometrial cavity is
+notable for a 4 x 2 cm tan-white flattened lesion on the anterior
+wall that approaches the anterior lower uterine segment, and is
+2.5 cm from the external os. Further sectioning reveals that the
+lesion is 0.5 cm thick and 1.5 cm from the overlying serosa. The
+myometrium is 2 cm thick, tan-white with prominent tubular
+structures.
+
+The left adnexa are 10.2g and consists of a 2 x 1 x 1 cm ovary, a
+3.5 cm in length x up to 0.6 cm in diameter fimbriated fallopian
+tube, and attached meso-salpinx. The ovary is sectioned to
+reveal no abnormalities. The fallopian tube is notable for a
+previous tubal ligation and is otherwise unremarkable.
+
+The right adnexa are 14.7g and consists of a 2.6 x 1.5 x 0.3 cm
+ovary, a 4.5 cm in length x 0.6 cm in diameter fimbriated
+fallopian tube, and attached meso-salpinx. The ovary is
+sectioned to reveal a simple 0.8-cm serous fluid-filled cortical
+cyst. The fallopian tube is notable for a previous tubal
+ligation and two serous fluid-filled paratubal cysts that are up
+to 1.2 cm.
+
+BLOCK SUMMARY:
+
+================================================================================
+PAGE 4
+================================================================================
+NAME:
+NCBH#:
+EXAM DATE:
+Account#: Room#: DOB: 'Sex: F
+-------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+Patient/Provider Information and Computer Access and Responsibilities.
+-------------------------------------------------------------------------------
+A1-2 anterior cervix - lower uterine segment, tandem
+inked blue;
+A3-4 posterior cervix - lower uterine segment, tandem
+inked blue;
+A5 section of lesion, closest approach to serosa and
+greatest invasion into myometrium;
+A6-7 additional sections of lesion:
+A8 full thickness posterior uterus,
+A9 additional section of endomyometrium, posterior wall
+saved gross;
+A10 additional section of anterior lower uterine segment
+to include lesion;
+A11 sections of left ovary and fallopian tube
+A12 sections of right ovary to include cysts;
+A13 sections of right fallopian tube to include cysts.
+
+B. The specimen consists of multiple fragments of yellow tan
+adipose tissue that are 5.5 cm in aggregate and sectioned to
+reveal 11 lymph nodes. The largest is 3.2 cm.
+
+BLOCK SUMMARY:
+
+B1 3 lymph nodes;
+B2-4 one lymph node, serially sectioned;
+B5 3 lymph nodes;
+B6-7 one lymph node, bisected;
+B8-10 one lymph node, serially sectioned;
+B11-12 one lymph node, bisected;
+B13-15 one lymph node, serially sectioned.
+
+C. The specimen consists of multiple fragments of yellow-tan
+fibrofatty tissue that are up to 5 cm in aggregate and sectioned
+to reveal 13 lymph nodes. The largest is 2.5 cm.
+
+BLOCK SUMMARY:
+
+C1-2 one lymph node, bisected;
+C3-4 one lymph node, bisected;
+C5 two lymph nodes;
+C6-7 one lymph node, trisected;
+C8 3 lymph nodes;
+C9 two lymph nodes;
+C10 one lymph nodes;
+C11-12 one lymph node, bisected;
+C13-15 one lymph node, trisected
+
+================================================================================
+PAGE 5
+================================================================================
+NAME:
+NCBH#:
+EXAM DATE:
+Account#:
+Room#:
+DOB: ████████ Sex: F
+---------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM ND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE: of
+Patient/Provider Information and Computer Access and Responsibilities.
+---------------------------------------------------------------------------
+D. The specimen consists of a 2.5 cm greatest dimension fragment
+of yellow lobulated tissue that is palpated to reveal no apparent
+lymphoid tissue. The specimen is entirely submitted in D1.
+
+E. The specimen consists of a 2.1-cm in greatest dimension
+fragment of yellow-tan lobulated tissue it is bisected to reveal
+no apparent lymphoid tissue. The specimen is entirely submitted
+in E1 - L.
+
+F. The specimen consists of a 3.5 cm greatest dimension fragment
+of tan-pink firm tissue that is sectioned to reveal 5 lymph nodes
+that are up to 1.6 cm.
+
+BLOCK SUMMARY:
+
+F1 3 lymph nodes;
+F2 one lymph node, bisected;
+F3 one lymph node, bisected.
+
+G. The specimen is an 8.5-cm in greatest dimension fragment of
+omentum that is sectioned to reveal yellow lobulated unremarkable
+tissue. Sections are submitted in G1 - G3.
+
+Uterus bilateral fallopian tubes and ovaries
+
+LABEL: RESULTS COPY PRINTED

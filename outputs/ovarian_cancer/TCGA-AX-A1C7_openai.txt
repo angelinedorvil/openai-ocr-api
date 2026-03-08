@@ -1,0 +1,189 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1C7\TCGA-AX-A1C7.pdf
+Processing Date: 2026-03-08 13:10:52
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Carcinoma serous, No's 3441/3  
+Site Cod: Endometrium C.54.1  
+1/9/11 lw  
+
+Page 1 of 4  
+
+Sex: F  
+UUID: 18458026-4907-40EC-BC7B-0D6A381FB025  
+TCGA-AX-A1C7-01A-PR Redacted  
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Page 1 of 4
+
+Sex: F
+
+Surg Path Report
+
+ACCESSION:
+
+SOURCE OF TISSUE:
+1. UTERUS, CERVIX, BILATERAL TUBES AND OVARIES 2. ABDOMINAL SCAR 3. OMENTUM 4. LEFT EXTERNAL LYMPH NODES 5. LEFT INTERNAL ILIAC LYMPH NODES 6. LEFT OBTURATOR LYMPH NODES 7. LEFT COMMON ILIAC LYMPH NODES 8. LEFT AORTIC NODES 9. RIGHT EXTERNAL ILIAC LYMPH NODES 10. RIGHT INTERNAL ILIAC LYMPH NODES 11. RIGHT COMMON ILIAC LYMPH NODES 12. RIGHT AORTIC LYMPH NODES 13. RIGHT OBTURATOR LYMPH NODES
+
+GROSS:
+Specimen "No. 1" labeled "Uterus, Cervix, Bilateral Tubes and Ovaries"
+consists of the aforementioned structures. The uterus measures 7.5 cm from superior to inferior by 4 cm in width by 2.5 cm anterior to posterior. The serosal surface is smooth and free of nodules. Upon opening the uterus, the uterine cavity measures 2 cm in width by 0.5 cm anterior to posterior by 3 cm superior to inferior. The posterior wall of the uterine cavity contains a fungating mass measuring 2.5x1.8x1.5 cm. It is immediately adjacent to the cervical canal. At the thickest point, the uterine mass and underlying myometrium together measure 2.4 cm in thickness. Two smaller polypoid masses are seen attached to the anterior wall of the uterine canal and measure 1x0.8x0.3 cm each. The myometrium contains two gross leiomyomata measuring 0.8 cm and 1.9 cm in greatest dimension. The underlying myometrium alone measures 1.7 cm. Cervical canal is 3.5 cm in length by 0.5 cm in diameter. The cervical os is slit like. The ectocervix is smooth with multifocal mild acute hemorrhage. Summary of sections: "1A" - "1C", one continuous full thickness section from superior to inferior of the uterus including the dominant lesion; "1D" and "1E", additional sections through the largest mass; "1F", a section through the smaller anterior wall lesions; "1G", sections through two leiomyomata. The left uterine tube measures 7 cm in length by 0.3 cm in diameter. The fimbriated end is identified. The serosal surface does not contain nodules. The serosal surface does contain multiple small cystic structures. The left ovary measures 1.5x0.8x0.5 cm. It is light yellow and firm. Representative section of the left ovary and adjacent soft tissue is submitted in "1H". The fimbriated end of the uterine tube is amputated, serially sectioned and entirely submitted in cassette "1I" along with sections from mid uterine tube and the uterine end of the tube. The right uterine tube measures 6 cm in length by 0.3 cm in diameter. The fimbriated end is not identified grossly. The right ovary is yellow firm and measures 1.6x1x0.6 cm. The outer surface of the tube contains multiple white cystic structures. Representative section of the right ovary as well as adjacent soft tissue is submitted in cassette "1J". Representative sections of right uterine tube are submitted in "1K". Sections of parovarian soft tissue submitted in cassette "1L".
+
+Specimen "No. 2" labeled "Abdominal Scar" consists of an ellipse of skin and underlying adipose tissue. The skin ellipse measures 8.5x4x0.2 cm. The underlying adipose measures 9x5.5x2.5 cm. No skin based lesions are appreciated grossly. Representative sections are submitted in cassettes "2A" - "2D".
+
+Specimen "No. 3" labeled "Omentum" consists of glistening yellow adipose tissue measuring 4x3x2 cm in aggregate. Serial sectioning and palpation does not reveal masses, nodules or other lesions. Representative sections are submitted in cassettes "3A" - "3D".
+
+Specimen "No. 4" labeled "Left External Iliac Lymph Nodes" consists of ___ yellow adipose tissue measuring 2.5x2x0.6 cm in aggregate.
+~~ostion reveals two lymph nodes which are entirely submitted in cassette "4".
+
+Specimen "No. 5" labeled "Left Internal Iliac Lymph Nodes" consists of soft___
+
+================================================================================
+PAGE 3
+================================================================================
+Page 2 of 4
+
+glistening yellow adipose tissue measuring 3x2.5x2 cm in aggregate. Four lymph nodes are dissected from the tissue. Three lymph nodes are submitted in cassette "5A". The fourth lymph node is submitted in cassette "5B".
+
+Specimen "No. 6" labeled "Left Obturator Lymph Nodes" consists of glistening yellow adipose tissue measuring 2x2x1.5 cm in aggregate. Two lymph nodes are dissected from the tissue and entirely submitted in cassette "6A".
+
+Specimen "No. 7" labeled "Left Common Iliac Lymph Nodes" consists of glistening yellow adipose tissue measuring 2x1x0.5 cm in aggregate. One lymph node is dissected from the specimen and entirely submitted in cassette "7".
+
+Specimen "No. 8" labeled "Left Aortic Nodes" consists of yellow adipose tissue measuring 2.5x1x0.6 cm in aggregate. Five lymph nodes are dissected from the specimen. Two lymph nodes are submitted in cassette "8A" and three are submitted in cassette "8B".
+
+Specimen "No. 9" labeled "Right External Iliac Lymph Nodes" consists of glistening yellow adipose tissue measuring 4x3x1 cm in aggregate. Seven lymph nodes are dissected from the tissue. Two lymph nodes are submitted in "9A", two lymph nodes submitted in "9B" and three lymph nodes submitted in "9C".
+
+Specimen "No. 10" labeled "Right Internal Iliac Lymph Nodes" consists of glistening yellow adipose tissue and clotted blood measuring 2x2x1 cm in aggregate. Three lymph nodes are dissected from the tissue. All lymph nodes are submitted in cassette "10".
+
+Specimen "No. 11" labeled "Right Common Iliac Lymph Nodes" consists of glistening yellow adipose tissue measuring 2.5x1x0.5 cm in aggregate. Four lymph nodes are dissected from the tissue and are entirely submitted in cassette "11".
+
+Specimen "No. 12" labeled "Right Aortic Lymph Nodes" consists of glistening yellow adipose tissue measuring 2x1x0.5 cm in aggregate. Five lymph nodes are dissected from the tissue. Three lymph nodes are submitted in cassette "12A" and two submitted in cassette "12B".
+
+Specimen "No. 13" labeled "Right Obturator Lymph Nodes" consists of glistening yellow adipose tissue measuring 3x2x1 cm in aggregate. A lymph node is dissected from the tissue. The lymph node is entirely submitted in cassette "3A". (Dictated by Dr.
+
+MICROSCOPIC SUMMARY OF INDIVIDUAL SPECIMENS:
+1) Uterus, cervix, bilateral tubes and ovaries; high grade papillary serous carcinoma, two leiomyomata, benign ovary and uterine tubes
+2) Abdominal scar; benign skin with reparative changes
+3) Omentum; benign mature adipose tissue, one lymph node negative for carcinoma
+4) Left external lymph nodes; two lymph nodes negative for carcinoma
+5) Left internal iliac lymph nodes; four lymph nodes negative for carcinoma
+6) Left obturator lymph nodes; two lymph nodes negative for carcinoma
+7) Left common iliac lymph nodes; two lymph nodes negative for carcinoma
+8) Left aortic nodes; four lymph nodes negative for carcinoma
+9) Right external iliac lymph nodes; seven lymph nodes negative for carcinoma
+10) Right internal iliac lymph nodes; three lymph nodes negative for carcinoma
+11) Right common iliac lymph nodes; four lymph nodes negative for carcinoma
+12) Right aortic lymph nodes; five lymph nodes negative for carcinoma
+13) Right obturator lymph nodes; one lymph node negative for carcinoma
+
+Synoptic Summary
+
+================================================================================
+PAGE 4
+================================================================================
+Page 3 of 4
+
+MICROSCOPIC:
+SPECIMEN TYPE
+Total abdominal hysterectomy, bilateral salpingo-oophorectomy and lymph node dissection with omentectomy
+
+TUMOR SITE
+Specify location(s), if known: endometrium, posterior wall
+
+TUMOR SIZE IN GREATEST DIMENSION
+2.5 cm
+
+TOTAL THICKNESS OF TUMOR AND UNDERLYING MYOMETRIUM
+2.4 cm
+
+Number of block(s) with tumor versus total number of block(s) from uterus:
+4/6
+
+HISTOLOGIC TYPE: Papillary serous
+
+HISTOLOGIC GRADE: High grade
+
+MYOMETRIAL INVASION
+Invasion present: 1B
+A. Specify depth of invasion: 2.5 mm
+
+CERVICAL INVOLVEMENT
+1. Not present - Distance between the tumor and endocervical canal 7
+
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)
+Absent
+
+STATUS OF TUBES AND OVARIES: Negative for carcinoma
+
+LYMPH NODES
+
+Mesenteric
+Number examined: 1
+Number involved: 0
+
+Right Pelvic
+Number examined: 15
+Number involved: 0
+
+Left Pelvic
+Number examined: 9
+Number involved: 0
+
+Right Periaortic
+Number examined: 5
+Number involved: 0
+
+Left Periaortic
+Number examined: 4
+Number involved: 0
+
+Peritoneal Cytology:
+Negative for malignancy per report
+
+OTHER SPECIMENS SUBMITTED: Omentum negative for carcinoma
+
+FINA8 DIAGNOSIS:
+Uterus, Bilateral Uterine Tubes and Bilateral Ovaries: Radical Hysterectomy with Bilateral Salpingo-oophorectomy and Lymph Node Dissection:
+-High grade papillary serous carcinoma of endometrium
+
+================================================================================
+PAGE 5
+================================================================================
+Page 4 of 4
+
+-Thirty-four lymph nodes all negative for carcinoma
+-Please see synoptic summary and microscopic summary of individual specimens for details
+
+This case was reviewed at our daily QA conference with agreement as to the above diagnosis.
+
+35 blocks
+
+
+As the staff pathologist, I have personally examined all slides and relevant information about this case and have discussed them with
+and arrived at the diagnosis that is recorded in my report.
+
+Diagnostician:
+Staff Pathologist
+Electronically Signed
+
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Size Discrepancy
+In/AA Discrepancy
+Prior Discrepancy History
+Dual/Synchronous Primary
+Case is (circle):  DISQUALIFIED
+Reviewer initials:  Date Reviewer:
+
+Page created: 1
+
+Top of Page

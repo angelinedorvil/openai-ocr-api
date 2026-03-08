@@ -1,0 +1,335 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A064\TCGA-AX-A064.pdf
+Processing Date: 2026-03-08 11:24:34
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+                                                                                                  UUID:F760DFF2-7A11-4465-8581-397ABA4768E4
+                                                                                                  TCGA-AX-A064-01A-PR Redacted
+RUN DATE: (
+RUN TIME:
+BY:                                                                                      ;pecimen Inquiry
+IENT:                                                                                  ACCT #:                      LOC:                      UW:
+REG DR: No PCP/Family Physician                                                      AGE/SX: /F                   RM/BED:                   REG:
+                                                                                      STATUS: DIS IN               TLOC:                     DIS:
+
+SPEC #:                                                                                 Obtained:                   Subm Dr:
+STATUS: SOUT                                                                           Received:
+
+CLINICAL HISTORY:
+ENDOMETRIAL CANCER
+
+SPECIMEN/PROCEDURE:
+1. UTERUS - UTERUS, TUBES AND OVARIES
+2. LYMPH NODE - RIGHT PARA-AORTIC
+3. LYMPH NODE - LEFT PARA-AORTIC
+4. LYMPH NODE - RIGHT COMMON ILIAC
+5. LYMPH NODE - RIGHT PELVIC
+6. LYMPH NODE - LEFT PELVIC
+7. LYMPH NODE - LEFT COMMON ILIAC
+8. LYMPH NODE - RIGHT PELVIC
+
+                                                                                     Criteria          Yes      No
+                                                                                     Diagnosis Discrepancy          ✓
+                                                                                     Primary Tumor Site Discrepancy ✓
+                                                                                     HIPAA Discrepancy             ✓
+                                                                                     Prior Malignancy History      ✓
+                                                                                     Dual/Synchronous Prina-Noter  ✓
+                                                                                     Case (s) in lab:              DISQUALIFIED
+                                                                                     Reviewer Initials             Date Reviewed: 10/27/11
+                                                                                                             /CD-0-3
+                                                                                     adenocarcinoma endometrioid, NOS 83801/3
+                                                                                     Site: endometrium C54.1          /w 10/30/11
+
+IMPRESSION:
+
+1) UTERUS, TUBES AND OVARIES, SALPINGO-OOPHORECTOMY AND HYSTERECTOMY:
+   Endometrial adenocarcinoma, endometrioid type, FIGO grade II, nuclear grade 2
+   involving posterior and anterior uterus wall and extending to posterior cervical
+   mucosa, with myometrium invasion.
+   All resection margins are free of the tumor.
+   Ovaries bilateral, without tumor involvement.
+   Fallopian tube, bilateral, without involvement.
+   Small leiomyoma of myometrium, 0.8 cm.
+
+2) LYMPH NODE, RIGHT PARA-AORTIC, DISSECTION:
+   Fibrovascular tissue without tumor identified.
+   No lymph nodes identified.
+
+3) LYMPH NODES, LEFT PARA-AORTIC, DISSECTION:
+   Five lymph nodes with metastasis (0/5).
+
+4) LYMPH NODES, RIGHT COMMON ILIAC, DISSECTION:
+   Three lymph nodes without metastasis (0/3).
+
+5) LYMPH NODES, RIGHT PELVIC, DISSECTION:
+   Thirteen lymph nodes without metastasis (0/13).
+
+6) LYMPH NODES, LEFT PELVIC, DISSECTION:
+   Eleven lymph nodes without metastasis (0/11).
+
+7) LYMPH NODE, LEFT COMMON ILIAC, DISSECTION:
+
+                      ** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 2
+================================================================================
+SPEC #:                                                                                                  Page:  2
+PATIENT:                                                                                         Continued)
+
+IMPRESSION: (continued)
+        One lymph node without metastasis (0/1).
+
+8)  LYMPH NODE, RIGHT PELVIC, DISECTION:
+        One lymph node without metastasis (0/1).
+
+ENDOMETRIAL CARCINOMA CHECKLIST
+
+MACROSCOPIC
+
+SPECIMEN TYPE
+        Hysterectomy and salpingo-oophorectomy
+
+TUMOR SITE
+        Specify location(s), if known:  Posterior and anterior cavity of uterus
+
+TUMOR SIZE
+        Greatest dimension:  2.5 x 1.5 x 1.8 cm
+
+OTHER ORGANS PRESENT
+        Right ovary
+        Left ovary
+        Right fallopian tube
+        Left fallopian tube
+
+MICROSCOPIC
+
+HISTOLOGIC TYPE
+        Endometrioid adenocarcinoma, not otherwise characterized
+
+HISTOLOGIC GRADE
+        G2:  6% to 50% nonsquamous solid growth
+
+MYOMETRIAL INVASION
+        Myometrial invasion present
+                Maximal depth of myometrial invasion:  2 mm
+                Thickness of myometrium in area of maximal tumor invasion:  1.7cm
+                The % of myometrial involvement:  12%
+
+EXTENT OF INVASION
+
+PRIMARY TUMOR (pT)
+TNM (FIGO)
+        pT2a (IIA):  Endocervical glandular involvement only
+
+REGIONAL LYMPH NODES (pN)
+TNM (FIGO)
+pNO:  No regional lymph node metastasis
+
+
+                ** CONTINUED ON NEXT PAGE **
+
+================================================================================
+PAGE 3
+================================================================================
+```
+Page: 3
+SPEC #:                 PATIENT: 
+                        (Continued)
+
+IMPRESSION: (continued)
+    Number examined: 34
+
+DISTANT METASTASIS (pM)
+TNM (FIGO)
+pMX: Cannot be assessed
+
+MARGINS
+    Uninvolved by invasive carcinoma
+        Distance of invasive carcinoma from closest margin: 1.1 cm
+        (Specify margin[s]): Cervical radial margin
+
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)
+    Absent
+
+ADDITIONAL PATHOLOGIC FINDINGS
+    None identified
+
+Patl.-Logic TNM (AJCC 6th Edition): pT2a NO MX
+
+    Dictated by:  .---
+    Entered:
+
+SPECIAL STAINS/PROCEDURES:
+Immunohistochemical stains are performed with appropriate positive and negative control on
+section 1A.
+
+    CD10:
+        Marked reduced at the tumor with myometrium invasion.
+
+    Dictated by:  J
+
+
+GROSS DESCRIPTION:
+1)  Received fresh with the patient's name and "uterus, cervix, tubes and ovaries", is a
+    67 gram specimen with uterus (7.0 x 5.3 x 3.5 cm), left ovary (2.5 x 1.6 x 0.9 cm) and
+    fallopian tube (5.2 x 0.5 cm), and right ovary (3.0 x 1.6 x 0.7 cm) and fallopian tube
+    (4.0 x 0.7 cm). The serosal surface of the uterus is pink to dark-red, glistening and
+    is grossly unremarkable. The cervix is covered by dark red fibromuscular tissue. The
+    ectocervix is dark pink, smooth and glistening. The uterus is bivalved revealing an
+    exophytic soft friable, yellow-tan polypoid lesion, 2.5 x 1.5 x 1.8 cm located at
+    posterior and anterior middle portion of the endometrial cavity.          The remaining
+    endometrial canal, 3.0 x 2.6 cm has a red-tan glistening herringbone mucosa. Multiple
+    cuts are made through the myometrium, 1.5 cm maximum thickness, revealing yellow-pink
+    finely trabeculated myometrium and a 1.0 x 0.8 x 0.6 cm yellow-tan well-circumscribed
+    intramural nodule. The endocervical canal is a yellow to dark red, glistening
+    herringbone mucosa that is grossly unremarkable. The endocervix has a smooth, yellow
+
+                    ** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 4
+================================================================================
+```
+Page: 4
+(Continued)
+SPEC #:                PATIENT:
+
+ROSS DESCRIPTION: (continued)
+cut surface. The external surface of the ovaries are yellow-tan, finely nodular with
+a solid yellow-white cut surface that is grossly unremarkable. The bilateral
+fallopian tubes are dark red to pink, glistening with distal fimbriated ends and a
+yellow unremarkable cut surface. The specimen is representatively sampled and
+submitted as follows:
+
+CASSETTE SUMMARY:
+Cassette 1A,1B:       Full thickness sections, posterior uterus with lesion in two
+                       cassettes.
+Cassette 1C:           Full thickness section, posterior uterus with well-circumscribed
+                       nodule.
+Cassette 1D,1E:        Full thickness sections, posterior uterus with lesion.
+Cassette 1G-1K:        Representative full thickness sections, anterior uterus.
+Cassette 1L:           Representative section, midportion, posterior cervix.
+Cassette 1M:           Representative section, midportion, anterior cervix.
+Cassette 1N:           Left ovary and fallopian tube, representative section.
+Cassette 1P:           Right ovary and fallopian tube, representative section.
+
+2)    Received in formalin, labeled "right para-aortic lymph node" and with the patient's
+      name, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,
+      1.5 x 1.2 x 0.5 cm. The specimen is dissected for lymph nodes, there are two tan
+      ovoid lymph nodes identified, 0.3 x 0.2 x 0.2 cm and 0.7 x 0.5 x 0.3 cm. All lymph
+      nodes identified are submitted in cassette #2.
+
+3)    Received in formalin, labeled "left para-aortic lymph nodes" and with the patient's
+      name, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,
+      1.5 x 1.5 x 0.5 cm. The specimen is dissected for lymph nodes, there are five tan
+      ovoid lymph nodes identified, ranging from 0.3 x 0.2 x 0.2 cm to 0.8 x 0.5 x 0.4 cm.
+      All lymph nodes identified are submitted as follows:
+
+      CASSETTE SUMMARY:
+      Cassette 3A:        Four lymph nodes.
+      Cassette 3B:        One lymph node, bivalved.
+
+4)    Received in formalin, labeled "right common iliac lymph node" and with the patient's
+      name, are two irregular unoriented portions of yellow-tan lobulated adipose tissue,
+      0.8 x 0.4 x 0.4 cm and 1.5 x 1.0 x 0.8 cm. The specimen is dissected for lymph
+      nodes, there are three tan ovoid lymph nodes identified, ranging from 0.4 x 0.3 x 0.2
+      cm to 1.3 x 0.6 x 0.4 cm. All lymph nodes identified are submitted as follows:
+
+      CASSETTE SUMMARY:
+      Cassette 4A:        Two lymph nodes.
+      Cassette 4B:        One lymph node, bivalved.
+
+5)    Received in formalin, labeled "right pelvic lymph nodes" and with the patient's name,
+      is an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 4.0 x
+      4.0 x 1.0 cm. The specimen is dissected for lymph nodes, there are thirteen irregular
+      pale tan to tan glistening ovoid lymph nodes identified, ranging from 0.3 x 0.2 x 0.2
+
+** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 5
+================================================================================
+Page: 5
+(Continued)
+
+SPEC #:			PATIENT:
+
+GROSS DESCRIPTION: (continued)
+cm to 1.3 x 0.9 x 0.4 cm.  All lymph nodes identified are submitted as follows:
+
+CASSETTE SUMMARY:
+Cassette 5A:		Five lymph nodes.
+Cassette 5B:		Five lymph nodes.
+Cassette 5C:		Two lymph nodes, bivalved, one inked green.
+Cassette 5D:		One lymph node, bivalved.
+
+6)	Received in formalin, labeled "left pelvic lymph nodes" and with the patient's name,
+	is an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 5.0 x
+	3.0 x 1.0 cm.  The specimen is dissected for lymph nodes, there are eight tan ovoid
+	lymph nodes identified, ranging from 0.4 x 0.3 x 0.2 cm to 1.2 x 0.8 x 0.5 cm.  All
+	lymph nodes identified are submitted as follows:
+
+	CASSETTE SUMMARY:
+	Cassette 6A:		Five lymph nodes.
+	Cassette 6B:		Two lymph nodes, bivalved, one inked green.
+	Cassette 6C:		One lymph node, bivalved.
+
+7)	Received in formalin, labeled "left common iliac lymph nodes" and with the patient's
+	name, are three irregular unoriented portions of yellow-tan lobulated adipose tissue,
+	ranging from 1.2 x 0.5 x 0.3 cm to 1.5 x 0.8 x 0.5 cm.  The specimen is dissected for
+	lymph nodes, there are no obvious lymph nodes identified.  The specimen is entirely
+	submitted in one cassette.
+
+8)	Received labeled with the patient's name and "right pelvic lymph node".  Received is a
+	1.7 x 1 x 0.5 cm portion of yellow gold to pink tan fibroadipose tissue.  The specimen
+	is dissected for possible lymph nodes.  One lymph node is identified that is, 2 x 0.8
+	x 0.4 cm.  Entirely submitted in cassette 8.
+
+Dictated by:
+Entered:
+
+COPIES TO:
+
+No PCP/Family Physician
+
+
+** CONTINUED ON NEXT PAGE **
+
+================================================================================
+PAGE 6
+================================================================================
+```
+                                                                                      Page:  6
+SPEC #:                  PATIENT:                                         ;Continued)
+
+PT Codes:
+LYMPH NODE BIOPSY (M)/          , LYMPH NODE, REGIONAL RESECT,  , 
+SOFT TISSUE, LIPOMA/ADIPOSE                 UTERUS W/WO ADNEXAE,TUMOR-8
+IHC
+
+
+ICD9 Codes:
+^
+
+
+                    Resident Physician:
+
+                             I have personally reviewed the material
+                             (specimen/slide) and approve this final report.
+
+Electronically Signed by:  _____________________________
+
+
+                          ** END OF REPORT **
+```

@@ -1,0 +1,399 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A06F\TCGA-AX-A06F.pdf
+Processing Date: 2026-03-08 11:33:18
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primar Noted
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials Date Reviewed
+
+NAME:
+NCSBH:
+
+EXAM DATE:
+
+Account#: Room#: DOB: Sex: F
+--------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM .AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+
+------------------------------------------------- ------------
+SURGICAL PATHOLOGY /CD - 0 - 3
+
+ACCESSION NUMBER: adenocarcinoma endometrioid, NUS 8380/3
+RECEIVED: Site endometrium C54.1 lw 10/30/11
+ORDERING PHYSICIAN:
+PATIENT NAME:
+SURGICAL PATHOLOGY REPORT
+
+FINAL PATHOLOGIC DIAGNOSIS
+***MICROSCOPIC EXAMINATION AND DIAGNOSIS***
+
+A. UTERUS, AND RIGHT AND LEFT ADNEXA, HYSTERECTOMY BILATERAL
+SALPINGO-OOPHORECTOMY:
+UTERUS:
+Endometrioid endometrial adenocarcinoma with
+squamous differentiation extending into the cervix with invasion
+of the cervical strr~a and full thickness invasion of
+the myometrium (see comment and cancer protocol
+below).
+Right uterine adnexa obliterated by tumor.
+
+B. BLADDER WALL, PARTIAL EXCISION: Endometrial
+adenocarcinoma invading the muscularis propria from outside in.
+Secondary inflammation and marked submucosal edema.
+
+C. LYMPH NODES, RIGHT PELVIC, LYMPHADENECTOMY: Metastatic
+endometrial carcinoma in one of eleven lymph nodes.
+
+D. PERITONEUM, BIOPSY: Metastatic endometrial
+adenocarcinoma.
+
+E. LEFT PELVIC LYMPH NODES, LYMPHADENECTOMY:
+Metastatic endometrial carcinoma in one of five lymph
+nodes.
+
+F. ILEUM, SEGMENTAL RESECTION: Metastatic endometrial
+carcinoma extending from outside in all the way into the mucosa
+with perforation evident
+in slide P3.
+Margins free of tumor.
+Metastatic endometrial carcinoma in one of five lymph nodes.
+
+G. OMENTUM, OMENTECTOMY: Benign adipose tissue.
+
+================================================================================
+PAGE 2
+================================================================================
+NAME:  
+NCBH#:
+EXAM DATE:
+Account#: Room#: DOB: Sex: F
+-------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                 AND MAY BE UNAUTHENTICATED
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+
+-------------------------------------------------------------------------------
+H. VERMIFORM APPENDIX, APPENDECTOMY: Benign appendix with
+fibrous luminal obliteration.
+
+I. LYMPH NODE, PERIAORTIC, BIOPSY: One lymph node, benign.
+
+COMMENT:
+The tumor is a poorly differentiated endometrioid endometrial
+adenocarcinoma with squamous differentiation and focal
+neuroendocrine differentiation. Histologically, the tumors in
+the ileum and urinary bladder present an appearance suggestive of
+neuroendocrine differentiation with the tumor in the ileum
+particularly suggestive of neuroendocrine differentiation and
+that in the bladder more suggestive of more poorly differentiated
+neuroendocrine tumor. However, immunohistochemical stains to
+cytokeratins 7 and 20, synaptophysin and chromogranin applied to
+blocks A7 (uterus), B2 (urinary bladder) and F2 (ileum), show the
+tumor in all three sites to be strongly reactive for cytokeratin
+7 with only focal strong dot cytoplasmic reactivity for
+cytokeratin 20 in the ileum and focal reactivity to chromogranin
+in the endometrium and the ileum. There is no reactivity to
+synaptophysin in any of the three sites. The block from the
+ileum was also stained for CD56 and shows weak diffuse
+reactivity. The positive and negative controls worked
+appropriately.* The above findings are most consistent with a
+primary poorly differentiated endometrioid endometrial
+adenocarcinoma with squamous differentiation and focal
+neuroendocrine differentiation. I do not see evidence of serous
+endometrial carcinoma, however, disregarding its classification
+the present tumor has already expressed its poor biological
+nature.
+
+* "These tests were developed and their performance
+characteristics determined by
+                                ,
+They have not been cleared or
+approved by the U.S. Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary.
+These tests are used for clinical purposes. They should not be
+regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+laboratory testing."
+
+GYN: ENDOMETRIAL HYSTERECTOMY CANCER PROTOCOL
+
+================================================================================
+PAGE 3
+================================================================================
+NAME:
+NCBHF:
+EXAM DATE:
+Account#.
+Room#:
+DOB:
+Sex: F
+-------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+
+-------------------------------------------------------------------------------
+
+SPECIMEN TYPE:          Hysterectomy
+TUMOR SIZE:             Greatest dimension: 11
+                        Additional dimensions: 10 x 9.5 cm
+OTHER ORGANS PRESENT:   Left ovary
+                        Left fallopian tube
+HISTOLOGIC TYPE:        Endometrioid adenocarcinoma, not otherwise
+characterized
+HISTOLOGIC GRADE:       FIGO Architectural Grade: Grade 3
+                        FIGO Nuclear Grade: Grade 2
+                        FIGO Final Grade: Grade 3
+DEPTH OF MYOMETRIAL INVASION: ( 100 %)
+ENDOCERVICAL INVOLVEMENT: Cervical stromal invasion
+INVOLVEMENT OF OTHER STRUCTURES: Right tube and ovary
+MARGINS:                Cannot be assessed
+LYMPHOVASCULAR INVASION: Present
+AJCC (FIGO) STAGE
+PRIMARY TUMOR:          pT4 (IVA)
+REGIONAL LYMPH NODES:   pN1
+                        Number involved: 2
+                        Number examined: 17
+DISTANT METASTASIS:     pM1 (IVB)
+                        Site(s): Intraabdominal lymph node (1/5, specimen F)
+-------------------------------------------------------------
+
+I have personally reviewed the slides and/or other related
+materials referenced, and have edited the report as part of my
+pathologic assessment and final interpretation.
+
+***Electronically Signed Out By:
+Ph.D.***
+
+Specimen(s) Received
+A: Uterus and bilateral tubes and ovaries
+B: Bladder wall with tumor
+C: Right pelvic lymph nodes
+D: Peritoneal biopsy
+E: Left pelvic lymph nodes
+F: Portion of ileum
+G: Omentum
+H: Appendix
+
+================================================================================
+PAGE 4
+================================================================================
+NAME:
+NCBHH:
+EXAM DATE:
+Account#: Room#: DOB: Sex: F
+--------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM LASTWORD AND MAY BE UNAUTHENTICATED
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+--------------------------------------------------------------------------------
+I: Periaortic lymph node
+Clinical History
+Endometrial carcinoma.
+Gross Description
+A. A 470 g uterus with adnexal structures attached is received.
+The uterus is 13 x 12 x 8 cm. The left ovary is 6.4 g and 1.5 x
+1.0 x 0.4 cm The left tube is 6.5 cm in length x 0.5 cm in
+diameter. The left ovary and left tube are separated from the
+uterus and wrapped. On the right side of the uterus there is a
+large fungating mass through the serosa which has replaced the
+right ovary The ectocervical mucosa is 2.2 x 2.0 cm and has a
+1.1 x 1.0 cm patent os. The os has red-tan friable tissue
+extending through it. The resection margin is inked black and the
+uterus is opened to reveal a fungating mass that has multiple
+areas of myometrial invasion. The dominant mass is 11 x 10 x 9.5
+cm and has eroded through the right wall of the uterus. In this
+area the tumor appears to have encased and replaced the right
+tube and ovary. The tumor comes within 2 cm from the os.
+Sectioning through the left ovary and tube reveals
+normal-appearing white-tan lobulated ovarian tissue and the tube
+with a normal-appearing patent lumen. Tissue is submitted as
+follows:
+BLOCK SUMMARY:
+A1-A2 anterior cervix, tandem section with blue ink -
+opposing surfaces (A2 containing tumor with closest approach to
+cervix);
+A3-A4 representative section of posterior cervix, blue ink -
+tandem section opposing surfaces;
+A5-A6 anterior uterine wall full thickness section, tandem
+surfaces inked blue;
+A7-A8 posterior uterine wall full thickness section, blue ink
+- tandem, opposing surfaces;
+A9-A10 representative sections of locally invasive tumor into
+right adnexal structures;
+A11 representative sectic- of left tube and ovary.
+B An 8 x 7 x 3 cm fragment of tissue is received. On one aspect
+there is roughened white-tan .parent tumor. On the opposite
+aspect there is an apparent 3.6 x 2 0 cm area of apparent mucosa.
+
+================================================================================
+PAGE 5
+================================================================================
+```
+                                                                                      NAME:
+                                                                                      NCBR#:
+                                                                                      EXAM DATE:
+Account#:                              Room#:                       DOB:               Sex: F
+-----------------------------------------------------------------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                    AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:                                                                                 of
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Representative sections are submitted in cassette B1-B3.
+
+C. Multiple yellow-tan fragments of adipose tissue aggregate to
+8 x 6 x 2.0 cm. Lymph node search is performed revealing multiple
+lymph nodes ranging in size from 0.5 cm up to 2.0 cm in greatest
+dimension are identified Tissue is submitted as follows:
+
+BLOCK SUMMARY:
+
+C1       three apparent nodes;
+C2       two apparent nodes;
+C3       single node bisected.
+C4       single node bisected;
+C5       single node bisected;
+C6       single node bisected;
+C7-C8    single node bisected;
+C9-C10   single node bisected.
+
+D. Multiple yellow-tan soft tissue fragments aggregate to 4 x
+3.5 x 1.0 cm are received. On one aspect there is a roughened
+white-tan apparent tumor implant present. Representative sections
+are submitted in cassettes D1-D2.
+
+E. Five apparent lymph nodes are found ranging in size from 1 cm
+up to 3.4 cm in maximum dimension. Tissue is submitted as
+follows:
+
+BLOCK SUMMARY:
+
+E1       single apparent node;
+E2       single apparent node bisected;
+E3       single apparent node bisected;
+E4       representative sections of large node;
+E5       representative sections of largest node.
+
+F. A 32 cm in length x 2.5 cm in diameter segment of small
+intestine is received unoriented. Staple lines are inked black
+and shaved On the serosal surface there are two surface tumor
+nodules. One is 6.5 cm x 3.0 cm and comes within 1 cm of one of
+the staple lines The second surface nodule is 4.5 x 3.0 cm and
+comes within 11 cm of the opposite staple line margin. The
+specimen is opened to reveal normal tan-brown mucosa with
+appropriate folds. However there is an apparent perforation at
+the smaller of the two surface tumor nodules. This perforation
+measures 15 cm from one staple line and 17 cm from the opposite
+staple line Tissue is submitted as follows.
+```
+
+================================================================================
+PAGE 6
+================================================================================
+```
+NAME:
+MEDIUM:
+EXAM DATE:
+Account#:
+Room#:
+DOB:
+Sex: F
+-----------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM                        AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+
+-----------------------------------------------------------------------
+
+BLOCK SUMMARY:
+F1      section from staple line with close approach with tumor;
+F2      representative section of larger tumor implant;
+F3      representative section of smaller tumor implant with
+        perforation;
+F4      representative sectio- 0; normal-appearing intestine;
+F5      representative section from opposite staple line.
+
+Sectioning through the meser..:cy of the small bowel reveals a
+single apparent tumor implant which measures up to 1.9 cm in
+greatest dimension. Representative section of this is submitted
+in cassette F6 and four apparent lymph nodes ranging in size from
+0.6 up to 1.2 cm in greatest dimension are identified. These are
+submitted as follows:
+
+F7      single apparent node bisected;
+F8      two apparent nodes;
+F9      single apparent node bisected.
+
+G. A 14 cm x 9 cm x up to 2.0 cm segment of yellow-tan adipose
+tissue consistent with omentum is received. Sectioning reveals
+normal-appearing yellow-tan adipose tissue. Representative
+sections are submitted in cassettes G1-G2.
+
+H. A 3.5 cm in length x up to 0.5 cm in diameter apparent
+appendix is received with yellow-tan adipose tissue extending off
+of one aspect up to 2.2 cm. Sectioning through the appendix
+reveals normal-appearing appendix with tan-pink serosa, wall
+thickness averaging 0.2 cm with a pink patent lumen and
+normal-appearing mucosa. Tissue is submitted as follows:
+
+BLOCK SUMMARY:
+
+H1      representative cross section from proximal tip and middle
+        end of appendix (proximal tip with blue ink) and longitudinal
+                section through dista' tip.
+
+I       A 4.0 x 1.8 x 1.0 cm red-brown fragment of soft tissue is
+        received. Sectioning reveals a single apparent lymph node
+        measuring up to 3.6 cm in greatest dimension. Representative
+        sections of this node are submitted in cassettes 11-12. Please
+        note approximately 60% of the lymph node is submitted for
+        histologic evaluation.
+```
+
+================================================================================
+PAGE 7
+================================================================================
+```
+                                                                                      NAME:
+                                                                                      NCBH#:
+                                                                                      EXAM DATE:
+Account#: '                            Room#:                            DOB: '    Sex: F
+---------------------------------------------------------------------------
+THIS IS A CONFIDENTIAL REPORT PRINTED FROM LASTWORD AND MAY BE UNAUTHENTICATED.
+Do not release without patient, legal representative or proper authorization.
+Please place in patient record or discard by shredding or tearing to protect
+patient confidentiality.
+REFERENCE:
+
+---------------------------------------------------------------------------
+                        Uterus and bilateral tubes and ovaries
+
+LABEL: RESULTS                      COPY                             PRINTED
+```

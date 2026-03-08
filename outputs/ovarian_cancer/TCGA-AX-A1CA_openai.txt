@@ -1,0 +1,221 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1CA\TCGA-AX-A1CA.pdf
+Processing Date: 2026-03-08 13:37:58
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+UUID:5906346F-CB34-421F-BBC3-3B6D2239AA7F
+TCGA-AX-A1CA-01A-PR  Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Surg Path Final Report
+
+Accession Number	Collected Date/Time	Received Date/Time	Pathologist
+
+Diagnosis:
+1) UTERUS, CERVIX, AND BILATERAL ADNEXA
+	ENDOMETRIUM -
+		•	SEROUS ADENOCARCINOMA WITH SUPERFICIAL MYOMETRIAL INVASION AND WITHOUT NODAL
+		METASTASES; pT1b, pN0, pMx
+	CERVIX -
+		•	SEROUS ADENOCARCINOMA EXTENDING INTO THE CERVICAL STROMA
+	MYOMETRIUM -
+		•	ADENOMYOSIS
+		•	LEIOMYOMATA
+	UTERINE SEROSA AND CUL-DE-SAC -
+		•	NO EVIDENCE OF MALIGNANCY
+2) LYMPH NODES, RIGHT PELVIC
+	•	NO EVIDENCE OF MALIGNANCY IN FOUR LYMPH NODES
+3) LYMPH NODES, LEFT PELVIC
+	•	NO EVIDENCE OF MALIGNANCY IN SIX LYMPH NODES
+4) LYMPH NODES, RIGHT PERIAORTIC
+	•	NO EVIDENCE OF MALIGNANCY IN TWO LYMPH NODES
+5) LYMPH NODES, LEFT PERIAORTIC
+	•	NO EVIDENCE OF MALIGNANCY IN TWO LYMPH NODES
+6) APPENDIX, INCIDENTAL APPENDECTOMY
+	•	BENIGN APPENDIX
+
+
+Verified:
+
+N/A
+Name:
+MRN:
+Acct#:
+Client ID:		Age		DOB:		Sex: Female
+						PG 1 of 4
+
+================================================================================
+PAGE 3
+================================================================================
+Surg Path Final Report
+
+Accession Number	Collected Date/Time	Received Date/Time	Pathologist
+
+CAP Protocol:
+1: Endometrium, Hysterectomy, Macroscopic
+SPECIMEN TYPE:
+Radical hysterectomy (includes parametia)
+*TUMOR SITE:
+*Specify location(s), if known: Endometrium
+TUMOR SIZE:
+Greatest dimension: 6 cm
+*Additional dimensions: 2.5 x 1.5 cm
+OTHER ORGANS PRESENT:
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+
+1: Endometrium, Hysterectomy, Microscopic
+HISTOLOGIC TYPE:
+Serous adenocarcinoma
+HISTOLOGIC GRADE:
+Not applicable
+MYOMETRIAL INVASION:
+Invasion present
+Specify depth of invasion: 6 mm
+Specify myometrial thickness: 20 mm
+PRIMARY TUMOR (pT):
+pT1b (IB): Tumor confined to corpus uteri: Tumor invades less than one-half of the myometrium
+REGIONAL LYMPH NODES (pN):
+pN0: No regional lymph node metastasis
+Number examined: 14
+Number involved: 0
+DISTANT METASTASIS (pM):
+pMX: Cannot be assessed
+MARGINS:
+Uninvolved by invasive carcinoma
+*Distance of invasive carcinoma from closest margin: 5 mm
+*Specify margin: Cervical/vaginal
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L):
+*Absent
+*ADDITIONAL PATHOLOGIC FINDINGS:
+*None identified
+
+Specimen(s):
+1. UTERUS, TUBES, OVARIES AND OMENTUM
+2. RIGHT PELVIC LYMPH NODE
+3. LEFT PELVIC LYMPH NODE
+4. RIGHT PERIAORTIC LYMPH NODE
+5. LEFT PERIAORTIC LYMPH NODE
+6. APPENDIX
+
+N/A
+Name:
+MRN:
+Acct#:
+Client ID:	Age: .  --  DOB:		Sex: Female
+
+PG 2 of 4
+
+================================================================================
+PAGE 4
+================================================================================
+```
+Surg Path Final Report
+
+Accession Number                Collected Date/Time               Received Date/Time               Pathologist
+
+Clinical Information:
+Uterine cancer.
+
+Frozen Section Diagnosis:
+1) UTERUS, TUBES, OVARIES AND OMENTUM
+   • Adenocarcinoma (serous)
+   • excision Therapeutics obtained (
+
+
+Gross Description:
+1) Specimen 1 designated as "uterus, tubes, ovaries and omentum" is received fresh in a container labeled with the patient's name and medical record number and
+consists of a uterus with cervix attached and bilateral adnexae attached which weighs 433 grams. The uterus and cervix together measure 13 x 8 x 8 cm. The serosal
+surface is smooth and glistening and the cervical portio is smooth and tan with an external os and measures 1.0 cm in width. The uterus and cervix is opened to
+reveal an irregular shaped light tan mass that completely covers the surface of the endometrium and extends up the endocervical canal almost to the internal os.
+This is both on the posterior and anterior. The posterior measurement is approximately 8.7 x 5.5 and the anterior measurement is 8.0 x 5.5 cm. A large submucosal
+light tan mass is also present which measures 7 x 7 cm. Frozen section is done by Dr. ________ and submitted in F31A. The right fallopian tube has fimbria attached and measures 2.0 x 0.5 cm. The adjacent ovary measures 1.7 x
+1.0 x 1.8 cm. Additional sections are submitted as:
+1B & C: Right parametrium and paracervical tissue
+1D & E: Left parametral and paracervical tissue
+1F: Anterior transformation zone and endocervical canal
+1G: Posterior transformation zone and endocervical canal
+1H: Section through the neck of the cervix for cancer studies
+1I & J: Tumor and anterior endomyometrium
+1K & L: Tumor and posterior endomyometrium
+1M: Right fallopian tube and ovary
+1N: Left fallopian tube and ovary
+1O & P: Omentum
+1Q: Submucosal light tan mass
+1R: Section of normal appearing ovary for cancer studies
+
+2) Specimen 2 designated as "right pelvic nodes" is received in formalin in a container labeled with the patient's name and medical record number and consists of
+multiple irregular shaped fragments of yellow adipose tissue which have an aggregate measurement of 6.5 x 2.3 cm. Several lymph nodes are appreciated which
+range from 0.3 to 1.5 cm in greatest dimension. Sections are submitted as:
+
+2A-2B: Lymph nodes
+2C: One bisected node
+2D: One bisected node
+
+3) Specimen 3 designated as "left pelvic nodes" is received in formalin in a container labeled with the patient's name and medical record number and consists of
+multiple irregular shaped fragments of yellow adipose tissue which have an aggregate measurement of 6.3 x 4.8 x 2.0 cm. Several lymph nodes are appreciated
+which range from 0.5 to 3.0 cm in greatest dimension. Sections are submitted as:
+
+3A: Lymph nodes
+3B: One bisected node
+3C: One bisected node
+3D: One bisected node
+
+
+N/A
+Name:
+MRN:
+Acct#:
+Client ID:                                  Age          J:           Sex: Female
+
+                                                                                                  PG 3 of 4
+```
+
+================================================================================
+PAGE 5
+================================================================================
+Diagnosis Discrepancy:  Yes  No
+Primary Tumor Site Discrepancy  ✔
+HEPAA Discrepancy  ✔
+Prior Malignancy History  ✔
+Dual/Synchronous Primary Noted  ✔
+Case is (circle):  QUALIFIED  DISQUALIFIED
+Reviewer Initials  RB  Date Reviewed:  11/3/10
+
+Surg Path Final Report
+
+Accession Number          Collected Date/Time          Received Date/Time          Pathologist
+
+4) Specimen 4 designated as "right periaortic nodes" is received in formalin in a container labeled with the patient's name and medical record number and consists of two irregular shaped fragments of yellow adipose tissue which have an aggregate measurement of 3.5 x 2.5 x 1.3 cm. Two possible lymph nodes are appreciated which range from 0.5 to 2.2 cm in greatest dimension. Sections are submitted as:
+
+4A:  One bisected node
+4B:  One possible lymph node
+
+5) Specimen 5 designated as "left periaortic nodes" is received in formalin in a container labeled with the patient's name and medical record number and consists of two possible lymph nodes which range from 0.8 to 0.9 cm in greatest dimension. Sections are submitted in toto in cassette 5A.
+
+6) Specimen 6 designated as "appendix" is received in formalin in a container labeled with the patient's name and medical record number and consists of a vermiform appendix with attached adipose tissue which measures 7.8 x 0.6 cm. The serosal surface is smooth and glistening. The lumen is devoid of obstructance. The proximal section is notched and representative sections from the proximal, distal and middle of the appendix are submitted in cassette 6A.
+
+Microscopic Description:
+A microscopic exam was performed.
+
+Intradepartmental Consultation:
+-
+
+
+N/A
+Name:
+MRN:
+Acct#:
+Client ID:                                                                                  Age:  -7;          Sex: Female
+                                                                                                                        PG 4 of 4

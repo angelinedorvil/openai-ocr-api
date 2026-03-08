@@ -1,0 +1,371 @@
+{
+  "pdf": "reports\\TCGA-AX-A1C9\\TCGA-AX-A1C9.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 21.371832370758057,
+        "chars": 2106,
+        "words": 339,
+        "text": "ICD-0-3  \nAdenocarcinoma endometrioid, NOS 8380/3  \nSite cited Endometrium C54.1 1/9/11 lw  \n\nPatient Initials:  \nDeliver to  \nPrinted from  \nPatient Study ID#:  \nStudy:  \n\nPage 1  \n\n*** TEMPORARY COPY ***  \n\nSURGICAL PATHOLOGY REPORT  \nACCESSION NO:  \nLOCATION: HOSPITAL INPATIENT  \n\nPhysician(s):  \n\nSpecimen:  \nA - Para-aortic lymph nodes  \nB - Uterus, cervix, tubes, and ovaries  \nC - Right pelvic lymph nodes  \nD - Left pelvic lymph nodes  \nE - Omentum  \n\nClinical History:  \n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy  \n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:  \n\nSlide Key:  \nA1 - Two nodes  \nA2 - One node, bisected  \nA3-4 - One node, bisected  \n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.  \n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.  \n\nSlide Key:  \nB1 - Right parametrium  \nB2 - Left parametrium  \nB3-4 - Anterior cervix to lower uterine segment  \nB5-6 - Posterior cervix to lower uterine segment",
+        "confidence": {
+          "mean_probability": 0.9872485910894645,
+          "mean_log_probability": -0.01658806984126984,
+          "perplexity": 1.0167264157772076,
+          "min_probability": 0.2690849903567939
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 631,
+          "total_tokens": 3103
+        },
+        "composite_score": 0.9869460834071289,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 21.371832370758057,
+          "chars": 2106,
+          "words": 339,
+          "text": "ICD-0-3  \nAdenocarcinoma endometrioid, NOS 8380/3  \nSite cited Endometrium C54.1 1/9/11 lw  \n\nPatient Initials:  \nDeliver to  \nPrinted from  \nPatient Study ID#:  \nStudy:  \n\nPage 1  \n\n*** TEMPORARY COPY ***  \n\nSURGICAL PATHOLOGY REPORT  \nACCESSION NO:  \nLOCATION: HOSPITAL INPATIENT  \n\nPhysician(s):  \n\nSpecimen:  \nA - Para-aortic lymph nodes  \nB - Uterus, cervix, tubes, and ovaries  \nC - Right pelvic lymph nodes  \nD - Left pelvic lymph nodes  \nE - Omentum  \n\nClinical History:  \n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy  \n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:  \n\nSlide Key:  \nA1 - Two nodes  \nA2 - One node, bisected  \nA3-4 - One node, bisected  \n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.  \n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.  \n\nSlide Key:  \nB1 - Right parametrium  \nB2 - Left parametrium  \nB3-4 - Anterior cervix to lower uterine segment  \nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9872485910894645,
+            "mean_log_probability": -0.01658806984126984,
+            "perplexity": 1.0167264157772076,
+            "min_probability": 0.2690849903567939
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 631,
+            "total_tokens": 3103
+          },
+          "composite_score": 0.9869460834071289,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 16.108288526535034,
+          "chars": 2106,
+          "words": 339,
+          "text": "ICD-0-3  \nAdenocarcinoma endometrioid, NOS 8380/3  \nSite cited Endometrium C54.1 1/9/11 lw  \n\nPatient Initials:  \nDeliver to  \nPrinted from  \nPatient Study ID#:  \nStudy:  \n\nPage 1  \n\n*** TEMPORARY COPY ***  \n\nSURGICAL PATHOLOGY REPORT  \nACCESSION NO:  \nLOCATION: HOSPITAL INPATIENT  \n\nPhysician(s):  \n\nSpecimen:  \nA - Para-aortic lymph nodes  \nB - Uterus, cervix, tubes, and ovaries  \nC - Right pelvic lymph nodes  \nD - Left pelvic lymph nodes  \nE - Omentum  \n\nClinical History:  \n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy  \n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:  \n\nSlide Key:  \nA1 - Two nodes  \nA2 - One node, bisected  \nA3-4 - One node, bisected  \n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.  \n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.  \n\nSlide Key:  \nB1 - Right parametrium  \nB2 - Left parametrium  \nB3-4 - Anterior cervix to lower uterine segment  \nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9872422569564068,
+            "mean_log_probability": -0.01662671111111111,
+            "perplexity": 1.0167657041360656,
+            "min_probability": 0.3008272798584051
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 631,
+            "total_tokens": 3103
+          },
+          "composite_score": 0.9375703635303526
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 19.13925576210022,
+          "chars": 2106,
+          "words": 340,
+          "text": "ICD-0-3  \nAdenocarcinoma endometrioid, NOS 8380/3 c  \nSite cited Endometrium C54.1 1/9/11 lw  \n\nPatient Initials:  \nDeliver to  \nPrinted from  \nPatient Study ID#:  \nStudy:  \n\nPage 1  \n\n*** TEMPORARY COPY ***  \n\nSURGICAL PATHOLOGY REPORT ACCESSION NO:  \nLOCATION: HOSPITAL INPATIENT  \n\nPhysician(s):  \n\nSpecimen:  \nA - Para-aortic lymph nodes  \nB - Uterus, cervix, tubes, and ovaries  \nC - Right pelvic lymph nodes  \nD - Left pelvic lymph nodes  \nE - Omentum  \n\nClinical History:  \n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy  \n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:  \n\nSlide Key:  \nA1 - Two nodes  \nA2 - One node, bisected  \nA3-4 - One node, bisected  \n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.  \n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.  \n\nSlide Key:  \nB1 - Right parametrium  \nB2 - Left parametrium  \nB3-4 - Anterior cervix to lower uterine segment  \nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9864717480952803,
+            "mean_log_probability": -0.01842493492063492,
+            "perplexity": 1.0185957213310664,
+            "min_probability": 0.23474534281600862
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 631,
+            "total_tokens": 3103
+          },
+          "composite_score": 0.9362503852178622
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 18.39995002746582,
+        "chars": 2367,
+        "words": 331,
+        "text": "Printed fr                                                                                                         Page 1\n\n1                                                                                  Female   Birthdate: \nSurgical Pathology Report by -                                                                                   or service on\n\n                                                                                                                *** TEMPORARY COPY ***\n\nSURGICAL PATHOLOGY REPORT                         ACCESSION NO:\n\nLOCATION: HOSPITAL INPATIENT\n\nPhysician(s):\n\nSpecimen:\nA - Para-aortic lymph nodes\nB - Uterus, cervix, tubes, and ovaries\nC - Right pelvic lymph nodes\nD - Left pelvic lymph nodes\nE - Omentum\n\nClinical History:\n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy\n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:\n\nSlide Key:\nA1 - Two nodes\nA2 - One node, bisected\nA3-4 - One node, bisected\n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.\n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.\n\nSlide Key:\nB1 - Right parametrium\nB2 - Left parametrium\nB3-4 - Anterior cervix to lower uterine segment\nB5-6 - Posterior cervix to lower uterine segment",
+        "confidence": {
+          "mean_probability": 0.9775365045177201,
+          "mean_log_probability": -0.049958663837011884,
+          "perplexity": 1.0512276417607693,
+          "min_probability": 0.038497691520214934
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 590,
+          "total_tokens": 3062
+        },
+        "composite_score": 0.673354330306217,
+        "quality_warning": true,
+        "quality_warnings": [
+          "Very uncertain tokens: min_prob=0.0385 (threshold: 0.05)"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0385 (threshold: 0.05)"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 18.39995002746582,
+          "chars": 2367,
+          "words": 331,
+          "text": "Printed fr                                                                                                         Page 1\n\n1                                                                                  Female   Birthdate: \nSurgical Pathology Report by -                                                                                   or service on\n\n                                                                                                                *** TEMPORARY COPY ***\n\nSURGICAL PATHOLOGY REPORT                         ACCESSION NO:\n\nLOCATION: HOSPITAL INPATIENT\n\nPhysician(s):\n\nSpecimen:\nA - Para-aortic lymph nodes\nB - Uterus, cervix, tubes, and ovaries\nC - Right pelvic lymph nodes\nD - Left pelvic lymph nodes\nE - Omentum\n\nClinical History:\n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy\n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:\n\nSlide Key:\nA1 - Two nodes\nA2 - One node, bisected\nA3-4 - One node, bisected\n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.\n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.\n\nSlide Key:\nB1 - Right parametrium\nB2 - Left parametrium\nB3-4 - Anterior cervix to lower uterine segment\nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9775365045177201,
+            "mean_log_probability": -0.049958663837011884,
+            "perplexity": 1.0512276417607693,
+            "min_probability": 0.038497691520214934
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 590,
+            "total_tokens": 3062
+          },
+          "composite_score": 0.673354330306217,
+          "quality_warning": true,
+          "quality_warnings": [
+            "Very uncertain tokens: min_prob=0.0385 (threshold: 0.05)"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - Very uncertain tokens: min_prob=0.0385 (threshold: 0.05)"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 14.765583038330078,
+          "chars": 2373,
+          "words": 331,
+          "text": "Printed fr                                                                                                                  Page 1\n\n1                                                                                                  Female    Birthdate: \nSurgical Pathology Report by -                                                                                  or service on\n\n                                                                                              *** TEMPORARY COPY ***\n\nSURGICAL PATHOLOGY REPORT                        ACCESSION NO:\n\nLOCATION: HOSPITAL INPATIENT\n\nPhysician(s):\n\nSpecimen:\nA - Para-aortic lymph nodes\nB - Uterus, cervix, tubes, and ovaries\nC - Right pelvic lymph nodes\nD - Left pelvic lymph nodes\nE - Omentum\n\nClinical History:\n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy\n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:\n\nSlide Key:\nA1 - Two nodes\nA2 - One node, bisected\nA3-4 - One node, bisected\n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.\n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.\n\nSlide Key:\nB1 - Right parametrium\nB2 - Left parametrium\nB3-4 - Anterior cervix to lower uterine segment\nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9775377030934986,
+            "mean_log_probability": -0.051706816638370116,
+            "perplexity": 1.0530669555399286,
+            "min_probability": 0.028104431793696084
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 590,
+            "total_tokens": 3062
+          },
+          "composite_score": 0.6388443965405317
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.311232805252075,
+          "chars": 2388,
+          "words": 330,
+          "text": "Printed fr                                                                                                              Page 1\n\n1                                                                                                 Female    Birthdate:\nSurgical Pathology Report by                                                                                       or service on\n\n                                                                                                               *** TEMPORARY COPY ***\n\nSURGICAL PATHOLOGY REPORT                         ACCESSION NO:\n\nLOCATION: HOSPITAL INPATIENT\n\nPhysician(s):\n\nSpecimen:\nA - Para-aortic lymph nodes\nB - Uterus, cervix, tubes, and ovaries\nC - Right pelvic lymph nodes\nD - Left pelvic lymph nodes\nE - Omentum\n\nClinical History:\n\nOperation/Procedure: da Vinci hysterectomy / Bilateral salpingo-oophorectomy / Nodes / Biopsy\n\nGross: Tissue \"A\" - The 3 cm. piece of fat has 0.3-2.5 cm. lymph nodes submitted as follows:\n\nSlide Key:\nA1 - Two nodes\nA2 - One node, bisected\nA3-4 - One node, bisected\n\nTissue \"B\" - A 50-gram, 5.5 x 4 x 3.5 cm. uterus and cervix has attached left adnexa and a separate right adnexa. The serosa is smooth (inked black). The ecto- and endocervical mucosae are unremarkable. The right anterior and posterior endometrium is involved by a papillary, bulky, friable tumor, 1.5 cm. from the lower uterine segment. The anterior and posterior tumors average 2.3 x 2 x 1 cm. each. The tumor seems to track along the isthmus. These tumor plaques appear to push into the underlying myometrium, but unequivocal myometrial invasion is not seen. The remaining endometrium is flat, except for a 0.7 cm., plaque-like nodule, possibly a subserosal fibroid. The remaining myometrium has an additional 0.5 cm. fibroid.\n\nThe right adnexa is 74 grams and includes a 6 x 4.5 x 3.5 cm. unilocular cyst with thin, clear colorless fluid. The inner lining is smooth. Normal ovarian parenchyma is identified. The right, 4.5 x 0.5 cm. fallopian tube has scant delicate adhesions. The left, 1.7 x 1.3 x 0.7 cm. ovary has atrophic cut surfaces and an adjacent 5 x 0.5 cm. fallopian tube with small paratubal cysts. Tissue is submitted from Parts B and D for research as requested.\n\nSlide Key:\nB1 - Right parametrium\nB2 - Left parametrium\nB3-4 - Anterior cervix to lower uterine segment\nB5-6 - Posterior cervix to lower uterine segment",
+          "confidence": {
+            "mean_probability": 0.9798198725383007,
+            "mean_log_probability": -0.049587425894378194,
+            "perplexity": 1.0508374586036797,
+            "min_probability": 0.0235132779087649
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 588,
+            "total_tokens": 3060
+          },
+          "composite_score": 0.6398658283007442
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 18.671401500701904,
+        "chars": 1680,
+        "words": 271,
+        "text": "f.------- Patient Initials: _____________________________________________\nDeliver to\n\\ Printed fro Patient Study ID#: \nStudy: ____________________________________________________________ Page 2\n\n*** TEMPORARY COPY ***\n\nB7-9 - Anterior tumor to normal at isthmus\nB10 - Anterior endometrium\nB11-14 - Posterior tumor to normal at isthmus\nB15 - Endometrial plaque-like lesion (also seen in B12 and B13)\nB16 - Normal posterior endometrium\nB17 - Intramural fibroid\nB18 - Right fallopian tube\nB19-21 - Right ovarian cyst\nB22 - Left ovary\nB23 - Left fallopian tube\n\nTissue \"C\" - A 5 cm. aggregate of fat has a 0.2-3.5 cm. lymph node submitted as follows:\n\nSlide Key:\nC1 - Five possible nodes\nC2-6 - Each have one node, bisected\nC7-10 - One node, sectioned\nC11-17 - One node, sectioned\n\nTissue \"D\" - A 5 cm. aggregate of fat has 0.4-4 cm. lymph nodes submitted as follows:\n\nSlide Key:\nD1 - Three possible nodes\nD2 - One node, bisected\nD3-4 - One node, bisected\nD5-6 - One node, bisected\nD7-8 - One node, bisected\nD9-13 - One node, sectioned\nD14-17 - One node, sectioned\nD18-24 - One node, sectioned\n\nTissue \"E\" - A 7 x 5 x 1 cm., unremarkable piece of omentum is sampled in three cassettes.\n\nMicroscopic: Tissue \"A\" and \"C\" through \"E\" - Microscopic findings correspond to the diagnoses.\n\nTissue \"B\":\nSpecimen Type: Radical hysterectomy\nTumor Site: Right anterior and posterior endometrium\nTumor Size: Two tumor plaques, each measuring 2.3 x 2 x 1 cm.\nOther Organs Present: Oviducts and ovaries\nHistologic Type and Grade: Endometrioid adenocarcinoma, Grade II/III\nMyometrial Invasion: Invasion present, tumor invades 0.1 cm. into a 0.7 cm., thick myometrium\nStage: T1N0Mx\nMargins: Involved",
+        "confidence": {
+          "mean_probability": 0.9780540825815041,
+          "mean_log_probability": -0.034366613461538464,
+          "perplexity": 1.0349639689074368,
+          "min_probability": 0.16410595380141163
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 521,
+          "total_tokens": 2993
+        },
+        "composite_score": 0.8943491596394798,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 13.331859111785889,
+          "chars": 1762,
+          "words": 271,
+          "text": "f.------- Patient Initials: ___________________________________________\nDeliver to\n\\ Printed fro Patient Study ID#:                                                                                      Page 2\nStudy: ____________________________________________________________\n\n*** TEMPORARY COPY ***\n\nB7-9 - Anterior tumor to normal at isthmus\nB10 - Anterior endometrium\nB11-14 - Posterior tumor to normal at isthmus\nB15 - Endometrial plaque-like lesion (also seen in B12 and B13)\nB16 - Normal posterior endometrium\nB17 - Intramural fibroid\nB18 - Right fallopian tube\nB19-21 - Right ovarian cyst\nB22 - Left ovary\nB23 - Left fallopian tube\n\nTissue \"C\" - A 5 cm. aggregate of fat has a 0.2-3.5 cm. lymph node submitted as follows:\n\nSlide Key:\nC1 - Five possible nodes\nC2-6 - Each have one node, bisected\nC7-10 - One node, sectioned\nC11-17 - One node, sectioned\n\nTissue \"D\" - A 5 cm. aggregate of fat has 0.4-4 cm. lymph nodes submitted as follows:\n\nSlide Key:\nD1 - Three possible nodes\nD2 - One node, bisected\nD3-4 - One node, bisected\nD5-6 - One node, bisected\nD7-8 - One node, bisected\nD9-13 - One node, sectioned\nD14-17 - One node, sectioned\nD18-24 - One node, sectioned\n\nTissue \"E\" - A 7 x 5 x 1 cm., unremarkable piece of omentum is sampled in three cassettes.\n\nMicroscopic: Tissue \"A\" and \"C\" through \"E\" - Microscopic findings correspond to the diagnoses.\n\nTissue \"B\":\nSpecimen Type: Radical hysterectomy\nTumor Site: Right anterior and posterior endometrium\nTumor Size: Two tumor plaques, each measuring 2.3 x 2 x 1 cm.\nOther Organs Present: Oviducts and ovaries\nHistologic Type and Grade: Endometrioid adenocarcinoma, Grade II/III\nMyometrial Invasion: Invasion present, tumor invades 0.1 cm. into a 0.7 cm., thick myometrium\nStage: T1N0Mx\nMargins: Involved",
+          "confidence": {
+            "mean_probability": 0.9777284978916075,
+            "mean_log_probability": -0.03871305192307692,
+            "perplexity": 1.0394721663122732,
+            "min_probability": 0.04829105172403175
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 521,
+            "total_tokens": 2993
+          },
+          "composite_score": 0.6624686832905528
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 14.999841690063477,
+          "chars": 1884,
+          "words": 271,
+          "text": "f.------- Patient Initials: ___________________________________________\nDeliver to\n\\ Printed fro Patient Study ID#:                                                                                                   Page 2\nStudy: ________________________________________________________________________________________\n\n                                                                                 *** TEMPORARY COPY ***\n\nB7-9 - Anterior tumor to normal at isthmus\nB10 - Anterior endometrium\nB11-14 - Posterior tumor to normal at isthmus\nB15 - Endometrial plaque-like lesion (also seen in B12 and B13)\nB16 - Normal posterior endometrium\nB17 - Intramural fibroid\nB18 - Right fallopian tube\nB19-21 - Right ovarian cyst\nB22 - Left ovary\nB23 - Left fallopian tube\n\nTissue \"C\" - A 5 cm. aggregate of fat has a 0.2-3.5 cm. lymph node submitted as follows:\n\nSlide Key:\nC1 - Five possible nodes\nC2-6 - Each have one node, bisected\nC7-10 - One node, sectioned\nC11-17 - One node, sectioned\n\nTissue \"D\" - A 5 cm. aggregate of fat has 0.4-4 cm. lymph nodes submitted as follows:\n\nSlide Key:\nD1 - Three possible nodes\nD2 - One node, bisected\nD3-4 - One node, bisected\nD5-6 - One node, bisected\nD7-8 - One node, bisected\nD9-13 - One node, sectioned\nD14-17 - One node, sectioned\nD18-24 - One node, sectioned\n\nTissue \"E\" - A 7 x 5 x 1 cm., unremarkable piece of omentum is sampled in three cassettes.\n\nMicroscopic: Tissue \"A\" and \"C\" through \"E\" - Microscopic findings correspond to the diagnoses.\n\nTissue \"B\":\nSpecimen Type: Radical hysterectomy\nTumor Site: Right anterior and posterior endometrium\nTumor Size: Two tumor plaques, each measuring 2.3 x 2 x 1 cm.\nOther Organs Present: Oviducts and ovaries\nHistologic Type and Grade: Endometrioid adenocarcinoma, Grade II/III\nMyometrial Invasion: Invasion present, tumor invades 0.1 cm. into a 0.7 cm., thick myometrium\nStage: T1N0Mx\nMargins: Involved",
+          "confidence": {
+            "mean_probability": 0.972755503178909,
+            "mean_log_probability": -0.054334212237093685,
+            "perplexity": 1.055837416979416,
+            "min_probability": 0.03451424988767468
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 524,
+            "total_tokens": 2996
+          },
+          "composite_score": 0.6298698348270979
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 18.671401500701904,
+          "chars": 1680,
+          "words": 271,
+          "text": "f.------- Patient Initials: _____________________________________________\nDeliver to\n\\ Printed fro Patient Study ID#: \nStudy: ____________________________________________________________ Page 2\n\n*** TEMPORARY COPY ***\n\nB7-9 - Anterior tumor to normal at isthmus\nB10 - Anterior endometrium\nB11-14 - Posterior tumor to normal at isthmus\nB15 - Endometrial plaque-like lesion (also seen in B12 and B13)\nB16 - Normal posterior endometrium\nB17 - Intramural fibroid\nB18 - Right fallopian tube\nB19-21 - Right ovarian cyst\nB22 - Left ovary\nB23 - Left fallopian tube\n\nTissue \"C\" - A 5 cm. aggregate of fat has a 0.2-3.5 cm. lymph node submitted as follows:\n\nSlide Key:\nC1 - Five possible nodes\nC2-6 - Each have one node, bisected\nC7-10 - One node, sectioned\nC11-17 - One node, sectioned\n\nTissue \"D\" - A 5 cm. aggregate of fat has 0.4-4 cm. lymph nodes submitted as follows:\n\nSlide Key:\nD1 - Three possible nodes\nD2 - One node, bisected\nD3-4 - One node, bisected\nD5-6 - One node, bisected\nD7-8 - One node, bisected\nD9-13 - One node, sectioned\nD14-17 - One node, sectioned\nD18-24 - One node, sectioned\n\nTissue \"E\" - A 7 x 5 x 1 cm., unremarkable piece of omentum is sampled in three cassettes.\n\nMicroscopic: Tissue \"A\" and \"C\" through \"E\" - Microscopic findings correspond to the diagnoses.\n\nTissue \"B\":\nSpecimen Type: Radical hysterectomy\nTumor Site: Right anterior and posterior endometrium\nTumor Size: Two tumor plaques, each measuring 2.3 x 2 x 1 cm.\nOther Organs Present: Oviducts and ovaries\nHistologic Type and Grade: Endometrioid adenocarcinoma, Grade II/III\nMyometrial Invasion: Invasion present, tumor invades 0.1 cm. into a 0.7 cm., thick myometrium\nStage: T1N0Mx\nMargins: Involved",
+          "confidence": {
+            "mean_probability": 0.9780540825815041,
+            "mean_log_probability": -0.034366613461538464,
+            "perplexity": 1.0349639689074368,
+            "min_probability": 0.16410595380141163
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 521,
+            "total_tokens": 2993
+          },
+          "composite_score": 0.8943491596394798,
+          "quality_warning": false,
+          "quality_warnings": []
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 2,
+        "temperature": 0.2,
+        "time": 6.878936290740967,
+        "chars": 1509,
+        "words": 226,
+        "text": "Deliver to J\nnted fro Patient Study ID#:\nStudy:\n\nCriteria\nDiagnosis Discrepancy\nPri ary Tumor Site Discrepancy\nHiPAA Discrepancy\nError Malignancy History\nCusal/Synchronous Primary Noted\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials Date Reviewed\nYes No\nPage 3\n\n*** TEMPORARY COPY ***\n\nRegional Lymph Nodes: Twenty (20) regional lymph nodes all free of metastatic tumor\nVenous/Lymphatic Invasion: Not identified\n\nComment: Tissue \"B\" - The vast bulk of this tumor exhibits the histology of a moderately well-differentiated endometrioid-type adenocarcinoma. In a few small foci, however, this tumor exhibits high-grade features which closely approach, but do not quite attain the histologic character of serous carcinoma (Dr. . Therefore, an unequivocal serous component is not identified in this specimen.\n\nDiagnoses:\nTissue \"A\" - Para-aortic lymph nodes - Three lymph nodes, all free of metastatic tumor.\n\nTissue \"B\":\nUterus - Adenocarcinoma of endometrium, endometrioid type, Grade II/III, with foci of superficial myometrial invasion (see comment).\n\nRight ovary - Benign serous ovarian cyst.\n\nRight fallopian tube - No diagnostic features.\n\nLeft ovary - No diagnostic features.\n\nLeft fallopian tube - No diagnostic features.\n\nTissue \"C\" - Right pelvic lymph nodes - Nine lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"D\" - Left pelvic lymph nodes - Eight lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"E\" - Omental adipose tissue - No tumor present.",
+        "confidence": {
+          "mean_probability": 0.9570079405164227,
+          "mean_log_probability": -0.06254985675675676,
+          "perplexity": 1.0645475324821936,
+          "min_probability": 0.17563557977443478
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 371,
+          "total_tokens": 2843
+        },
+        "composite_score": 0.8586155547562389,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 8.334385395050049,
+          "chars": 2327,
+          "words": 229,
+          "text": "```\n                                                                                      Criteria\n                                                                                      Diagnosis Discrepancy\n                                                                                      Prior any Tumor Site Discrepancy\n                                                                                      H&E Discrepancy\n                                                                                      Error Malignancy History\n                                                                                      Causal/Synchronous Primary Noted\n                                                                                      Case is (circle): QUALIFIED DISQUALIFIED\n                                                                                      Reviewer Initials  P5 Date Reviewed  5/5/10\n\n                                                                                                              Page 3\n\nDeliver to J\n(Y)nted fro: Patient Study ID#:\nStudy:\n\n*** TEMPORARY COPY ***\n\nRegional Lymph Nodes: Twenty (20) regional lymph nodes all free of metastatic tumor\nVenous/Lymphatic Invasion: Not identified\n\nComment: Tissue \"B\" - The vast bulk of this tumor exhibits the histology of a moderately well-\ndifferentiated endometrioid-type adenocarcinoma. In a few small foci, however, this tumor exhibits\nhigh-grade features which closely approach, but do not quite attain the histologic character of serous\ncarcinoma (Dr. . Therefore, an unequivocal serous component is not identified in this\nspecimen.\n\nDiagnoses:\nTissue \"A\" - Para-aortic lymph nodes - Three lymph nodes, all free of metastatic tumor.\n\nTissue \"B\":\nUterus - Adenocarcinoma of endometrium, endometrioid type, Grade II/III, with foci of superficial\nmyometrial invasion (see comment).\n\nRight ovary - Benign serous ovarian cyst.\n\nRight fallopian tube - No diagnostic features.\n\nLeft ovary - No diagnostic features.\n\nLeft fallopian tube - No diagnostic features.\n\nTissue \"C\" - Right pelvic lymph nodes - Nine lymph nodes in adipose tissue, all free of metastatic\ntumor.\n\nTissue \"D\" - Left pelvic lymph nodes - Eight lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"E\" - Omental adipose tissue - No tumor present.\n```",
+          "confidence": {
+            "mean_probability": 0.937088299577271,
+            "mean_log_probability": -0.1117841512195122,
+            "perplexity": 1.1182714570623868,
+            "min_probability": 0.04649999843708046
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 411,
+            "total_tokens": 2883
+          },
+          "composite_score": 0.6436948938206556
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.878936290740967,
+          "chars": 1509,
+          "words": 226,
+          "text": "Deliver to J\nnted fro Patient Study ID#:\nStudy:\n\nCriteria\nDiagnosis Discrepancy\nPri ary Tumor Site Discrepancy\nHiPAA Discrepancy\nError Malignancy History\nCusal/Synchronous Primary Noted\nCase is (circle): QUALIFIED DISQUALIFIED\nReviewer Initials Date Reviewed\nYes No\nPage 3\n\n*** TEMPORARY COPY ***\n\nRegional Lymph Nodes: Twenty (20) regional lymph nodes all free of metastatic tumor\nVenous/Lymphatic Invasion: Not identified\n\nComment: Tissue \"B\" - The vast bulk of this tumor exhibits the histology of a moderately well-differentiated endometrioid-type adenocarcinoma. In a few small foci, however, this tumor exhibits high-grade features which closely approach, but do not quite attain the histologic character of serous carcinoma (Dr. . Therefore, an unequivocal serous component is not identified in this specimen.\n\nDiagnoses:\nTissue \"A\" - Para-aortic lymph nodes - Three lymph nodes, all free of metastatic tumor.\n\nTissue \"B\":\nUterus - Adenocarcinoma of endometrium, endometrioid type, Grade II/III, with foci of superficial myometrial invasion (see comment).\n\nRight ovary - Benign serous ovarian cyst.\n\nRight fallopian tube - No diagnostic features.\n\nLeft ovary - No diagnostic features.\n\nLeft fallopian tube - No diagnostic features.\n\nTissue \"C\" - Right pelvic lymph nodes - Nine lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"D\" - Left pelvic lymph nodes - Eight lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"E\" - Omental adipose tissue - No tumor present.",
+          "confidence": {
+            "mean_probability": 0.9570079405164227,
+            "mean_log_probability": -0.06254985675675676,
+            "perplexity": 1.0645475324821936,
+            "min_probability": 0.17563557977443478
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 371,
+            "total_tokens": 2843
+          },
+          "composite_score": 0.8586155547562389,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.186747789382935,
+          "chars": 1301,
+          "words": 201,
+          "text": "```\nDeliver to J\nnted fro Patient Study ID#:\n\nStudy:\n\nPage 3\n\n*** TEMPORARY COPY ***\n\nRegional Lymph Nodes: Twenty (20) regional lymph nodes all free of metastatic tumor\nVenous/Lymphatic Invasion: Not identified\n\nComment: Tissue \"B\" - The vast bulk of this tumor exhibits the histology of a moderately well-differentiated endometrioid-type adenocarcinoma. In a few small foci, however, this tumor exhibits high-grade features which closely approach, but do not quite attain the histologic character of serous carcinoma (Dr. . Therefore, an unequivocal serous component is not identified in this specimen.\n\nDiagnoses:\nTissue \"A\" - Para-aortic lymph nodes - Three lymph nodes, all free of metastatic tumor.\n\nTissue \"B\":\nUterus - Adenocarcinoma of endometrium, endometrioid type, Grade II/III, with foci of superficial myometrial invasion (see comment).\n\nRight ovary - Benign serous ovarian cyst.\n\nRight fallopian tube - No diagnostic features.\n\nLeft ovary - No diagnostic features.\n\nLeft fallopian tube - No diagnostic features.\n\nTissue \"C\" - Right pelvic lymph nodes - Nine lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"D\" - Left pelvic lymph nodes - Eight lymph nodes in adipose tissue, all free of metastatic tumor.\n\nTissue \"E\" - Omental adipose tissue - No tumor present.\n```",
+          "confidence": {
+            "mean_probability": 0.977090976130306,
+            "mean_log_probability": -0.035284718849840246,
+            "perplexity": 1.0359146112321331,
+            "min_probability": 0.17180743384924255
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 314,
+            "total_tokens": 2786
+          },
+          "composite_score": 0.8576925735103378
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

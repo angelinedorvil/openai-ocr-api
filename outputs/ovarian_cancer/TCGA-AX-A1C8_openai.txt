@@ -1,0 +1,244 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1C8\TCGA-AX-A1C8.pdf
+Processing Date: 2026-03-08 13:25:06
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD 0-3  
+Carcinoma serous NOS 8441/3  
+Site Code Endometrium C54.1  1/9/11  lkr  
+
+*** FINAL REPORT ***  
+
+Provider:  
+Acc #:  
+Col Date:  
+Rec Date:  
+
+Pt. Name:  
+Pt. MRN:  
+DOB/Sex:  
+LOC:  years),Female  
+
+SURGICAL PATHOLOGY  
+
+---Pathologic Diagnosis---  
+A - Specimen type:  Uterus, cervix, and bilateral ovaries and  
+                         fallopian tubes, resection  
+Histologic type:  Papillary serous carcinoma of the endometrium  
+Tumor size:  7.5 cm  
+Myometrial invasion  
+(no invasion, <1/2, >1/2):  <1/2  
+   Depth of invasion (mm)  8 mm  
+   Width of myometrium (mm)  24 mm  
+Myometrial lymphovascular  
+   space invasion:  Not identified  
+Lower uterine segment  
+   involvement:  Involved by invasive tumor  
+Cervical involvement:  
+   Cervical mucosa:  Not involved  
+   Stromal invasion  
+   (inner 1/3, middle 1/3,  
+   outer 1/3):  Present, involving the inner 1/3, focal (A16)  
+   Cervical lymphovascular  
+   space invasion:  Not identified  
+Other:  1 - Small focus of adenomyosis.  
+           2 - Calcified uterine leiomyoma.  
+           3 - Squamous metaplasia, tunnel clusters,  
+                and Nabothian cysts, cervix.  
+           4 - Bilateral atrophic ovaries negative for  
+                malignancy.  
+           5 - Bilateral fallopian tubes without  
+                histopathologic abnormality.  
+Pathologic Stage:  pT2b N1[IIIC] MX  
+B - Right periaortic lymph nodes, resection:  
+    Three lymph nodes negative for malignancy (0/3).  
+C - Right pelvic lymph nodes including obturators, resection:  
+    Eight lymph nodes negative for malignancy (0/8).  
+
+UUID:5F0E78BA-B827-4DB6-99EB-5FA3D3598793  
+TCGA-AX-A1C8-01A-PR  Redacted  
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+*** FINAL REPORT ***
+
+Provider:                                    Pt. Name:
+
+Acc #:                                       Pt. MRN:
+Col Date:                                  DOB/Sex:
+                                                       years),Female
+Rec Date:                                  LOC:
+
+SURGICAL PATHOLOGY
+
+
+---Pathologic Diagnosis---
+A - Specimen type:                  Uterus, cervix, and bilateral ovaries and
+                                               fallopian tubes, resection
+Histologic type:                      Papillary serous carcinoma of the endometrium
+Tumor size:                            7.5 cm
+Myometrial invasion
+(no invasion, <1/2, >1/2):     <1/2
+       Depth of invasion (mm)       8 mm
+       Width of myometrium (mm) 24 mm
+Myometrial lymphovascular
+       space invasion:                  Not identified
+Lower uterine segment
+       involvement:                     Involved by invasive tumor
+Cervical involvement:
+       Cervical mucosa:               Not involved
+       Stromal invasion
+       (inner 1/3, middle 1/3,
+       outer 1/3):                        Present, involving the inner 1/3, focal (A1.6)
+       Cervical lymphovascular
+       space invasion:                  Not identified
+Other:                                      1 - Small focus of adenomyosis.
+                                               2 - Calcified uterine leiomyoma.
+                                               3 - Squamous metaplasia, tunnel clusters,
+                                                    and Nabothian cysts, cervix.
+                                               4 - Bilateral atrophic ovaries negative for
+                                                    malignancy.
+                                               5 - Bilateral fallopian tubes without
+                                                    histopathologic abnormality.
+Pathologic Stage:                    pT2b N1[IIIC] MX
+
+B - Right periaortic lymph nodes, resection:
+       Three lymph nodes negative for malignancy (0/3).
+
+C - Right pelvic lymph nodes including obturators, resection:
+       Eight lymph nodes negative for malignancy (0/8).
+
+================================================================================
+PAGE 3
+================================================================================
+D - Left pelvic lymph nodes including obturators, resection:
+    Metastatic carcinoma in one of four lymph nodes (1/4) (see Comment).
+
+, Verified by:
+                    Pathologist
+                    (Electronic Signature)
+
+The attending pathologist whose signature appears on this report has
+reviewed all diagnostic slides and has edited the gross and/or
+microscopic portion of the report in rendering the final pathologic
+diagnosis.
+
+---Comment---
+The nodal tumor metastasis in specimen D measures approximately 0.35 cm in
+diameter; there is no extranodal extension.
+
+---Microscopic Description---
+Slides reviewed, microscopic description not recorded.
+
+---Gross Description---
+A - Labeled/Fixative:                  Labeled with the patient's name, uterus
+                                     and ovaries, fresh.
+Qty/Size/Weight:                     Single, 10 x 8 x 5 cm.
+Tissue Description:                  Specimen contains a uterus and bilateral
+tubes and ovaries; it has been opened for the , protocol.
+    Endometrial tumor
+        Greatest dimension:           7.5 cm.
+        Qualitative description:     Yellow, papillary.
+        Location:                    Tumor grossly involves the extent of the
+                                    endometrium.
+        Myometrial invasion
+        (<1/2 or >1/2):              <1/2.
+        Cervical involvement:        The endocervix is velvety but there
+                                    is no gross tumor involvement.
+        Gross lymphatic or
+            vascular invasion:       Not identified.
+        Endometrium:                 Grossly completely involved by tumor.
+        Myometrium:
+            Lesions:                 One firm white nodule seen in one section
+                                    measuring 0.3 x 0.3 cm.
+        Thickness:                   1.5 cm.
+        Uterine serosa:              Smooth.
+
+================================================================================
+PAGE 4
+================================================================================
+Ovaries and fallopian tubes
+        Right ovary
+                Dimensions:              3.0 x 1.5 x 0.5 cm.
+                Outer surface:           Yellow and cerebriform.
+                Cut surface:             Unremarkable.
+        Right tube:                     4.5 x 0.5 cm.
+        Left ovary:
+                Dimensions:              3.5 x 1.5 x 0.5 cm.
+                Outer surface:           Yellow and cerebriform.
+                Cut surface:             Unremarkable.
+        Left tube:                      5.0 x 0.5 cm.
+        Sections/Processing:    Representative sections are submitted
+                                        as follows:  (A1) anterior squamocolumnar
+        cervix; (A2-A10) anterior endometrial/endocervical junction with the
+        cervical aspect inked black; (All) posterior squamocolumnar cervix;
+        (A12-A22) posterior endometrial/endocervical junction with the endocervical
+        aspect inked black; (A23) right ovary and fallopian tube; (A24) left ovary
+        and fallopian tube; (A25) representative section of tumor; (A26-A27)
+        representative section of tumor bisected with an ink dot marking where the
+        sections meet (myometrial nodule in A26); (A28-A31) representative
+        section of tumor; (A32) representative section of (A33) tissue deep to A32.
+        (R33)
+
+B - Labeled/Fixative: Right periaortic lymph node, pelvis, fresh.
+Qty/Size/Weight:          Two, in aggregate 4.5 x 1.5 x 0.5 cm.
+Tissue Description:       Fibrofatty tissue.  Serial sectioning reveals
+                                three presumed lymph nodes.
+Sections/Processing:  Three presumed lymph nodes submitted in (B1). (R1)
+
+C - Labeled/Fixative: Right pelvic lymph node including obturators,
+                                patient's name, fresh.
+Qty/Size/Weight:          Single, 7.0 x 3.5 x 1.0 cm.
+Tissue Description:       Fibrofatty tissue.  Serial sectioning reveals eight
+presumed lymph nodes, the largest of which measures 0.8 x 0.4 x 0.3 cm.
+Sections/Processing:  (C1) one presumed lymph node bisected; (C2) two
+                                lymph nodes; (C3) four lymph nodes; (C4-C5) one
+                                lymph node. (R5)
+
+D - Labeled/Fixative: Left pelvic lymph node including obturators,
+                                fresh.
+Qty/Size/Weight:          Two, in aggregate 6 x 4 x 1 cm.
+Tissue Description:       Fibrofatty tissue.  Serial sectioning reveals
+
+                                four presumed lymph nodes.
+Sections/Processing:  (D1) single bisected lymph node; (D2) single
+
+                                bisected lymph node; (D3) two lymph nodes.
+                                (R3)
+
+---Clinical Information---
+
+================================================================================
+PAGE 5
+================================================================================
+```
+                                                                                      Citeria
+                                                                                      Diagnosis Discrepancy
+                                                                                      Primary Tumor Size Discrepancy
+                                                                                      HIPAA Discrepancy
+                                                                                      Prior Malignancy History
+                                                                                      Dual/synchronous Primary Tumor
+                                                                                      Case is (circle):  QUALIFIED / DISQUALIFIED
+                                                                                      Reviewer initials  KE  Date reviewed:  1/5/10
+
+Specimen Submitted:
+
+A - Uterus and ovaries: Pelvis
+B - Right periaortic lymph node: Pelvis
+C - Right pelvic lymph node including obturators: Pelvis
+D - Left pelvic lymph node including obturators: Pelvis
+
+Clinical History:
+High-grade endometrial cancer, on                  and  .
+
+Clinical Diagnosis:
+Endometrial cancer
+```

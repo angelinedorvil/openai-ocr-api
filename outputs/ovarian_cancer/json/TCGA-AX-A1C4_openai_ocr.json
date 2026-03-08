@@ -1,0 +1,545 @@
+{
+  "pdf": "reports\\TCGA-AX-A1C4\\TCGA-AX-A1C4.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.978009939193726,
+        "chars": 1065,
+        "words": 148,
+        "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status: Final\nResult title: Surgical Pathology\nPerformed by: PATHOLOGY -STAFF,\nVerified by: PATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA. Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nColic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\nPrinted on:\n\nPage 1 of 6\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9789996707913807,
+          "mean_log_probability": -0.02677553401360544,
+          "perplexity": 1.0271372195162682,
+          "min_probability": 0.15744532875375197
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 295,
+          "total_tokens": 2767
+        },
+        "composite_score": 0.8856381597035595,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.978009939193726,
+          "chars": 1065,
+          "words": 148,
+          "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status: Final\nResult title: Surgical Pathology\nPerformed by: PATHOLOGY -STAFF,\nVerified by: PATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA. Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nColic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\nPrinted on:\n\nPage 1 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9789996707913807,
+            "mean_log_probability": -0.02677553401360544,
+            "perplexity": 1.0271372195162682,
+            "min_probability": 0.15744532875375197
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 295,
+            "total_tokens": 2767
+          },
+          "composite_score": 0.8856381597035595,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.627889394760132,
+          "chars": 1065,
+          "words": 148,
+          "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA. Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nColic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\nPrinted on:\n\nPage 1 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9776309676672229,
+            "mean_log_probability": -0.029435181208053694,
+            "perplexity": 1.0298726782054926,
+            "min_probability": 0.11229229841989896
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 299,
+            "total_tokens": 2771
+          },
+          "composite_score": 0.8394439205435272
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.830028772354126,
+          "chars": 1065,
+          "words": 148,
+          "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA. Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nColic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\nPrinted on:\n\nPage 1 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9780024004135928,
+            "mean_log_probability": -0.028865966442953018,
+            "perplexity": 1.0292866262814122,
+            "min_probability": 0.1167473594289297
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 299,
+            "total_tokens": 2771
+          },
+          "composite_score": 0.839852363998646
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 5.465015411376953,
+        "chars": 1067,
+        "words": 149,
+        "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA.  Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nb. Colic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\ninted on:\t\tPage 1 of 6\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9685256748302357,
+          "mean_log_probability": -0.04686743377483445,
+          "perplexity": 1.0479830727107375,
+          "min_probability": 0.12229415863764967
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 303,
+          "total_tokens": 2775
+        },
+        "composite_score": 0.8708846275753651,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 5.465015411376953,
+          "chars": 1067,
+          "words": 149,
+          "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA.  Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nb. Colic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\nPrinted by:\ninted on:\t\tPage 1 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9685256748302357,
+            "mean_log_probability": -0.04686743377483445,
+            "perplexity": 1.0479830727107375,
+            "min_probability": 0.12229415863764967
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 303,
+            "total_tokens": 2775
+          },
+          "composite_score": 0.8708846275753651,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 5.502593040466309,
+          "chars": 1075,
+          "words": 149,
+          "text": "Surgical Pathology\n\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\n\nFINAL DIAGNOSIS:\nA.  Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nb.  Colic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\n\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\n\nPrinted by:\nnted on:\t\tPage 1 of 6\n\t\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9646657664496089,
+            "mean_log_probability": -0.0547082908496732,
+            "perplexity": 1.056232457058885,
+            "min_probability": 0.0999829107597816
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 307,
+            "total_tokens": 2779
+          },
+          "composite_score": 0.8227033879708994
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.1795430183410645,
+          "chars": 1084,
+          "words": 149,
+          "text": "Surgical Pathology\n\n***Not Official Copy***: Surgical Pathology\nFlowsheet Date:\nResult status:\tFinal\nResult title:\tSurgical Pathology\nPerformed by:\tPATHOLOGY -STAFF,\nVerified by:\tPATHOLOGY -STAFF,\nEncounter info:\n\n* Final Report *\n\nSurgical Pathology\n\nCASE NUMBER:\n\nFINAL DIAGNOSIS:\nA.  Abdomen, anterior, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nb.  Colic gutter, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\nC. Omentum, omentectomy:\n- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.\n- No evidence of malignancy.\n\nD. Uterus, cervix, fallopian tubes and ovaries\n\nMACROSCOPIC\n- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy\n- Tumor Site: Endometrium at cornu/fundus of right side of the uterus\n- Tumor Size: 3.5 cm largest dimension.\n- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.\n\nMICROSCOPIC\n- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized\n- Histologic Grade: G2\n\n\nPrinted by:\ninted on:\t\t\t\t\t\t\t\tPage 1 of 6\n\t\t\t\t\t\t\t\t(Continued)",
+          "confidence": {
+            "mean_probability": 0.9672764599609663,
+            "mean_log_probability": -0.0491443868852459,
+            "perplexity": 1.0503719997330927,
+            "min_probability": 0.09175695418388678
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 306,
+            "total_tokens": 2778
+          },
+          "composite_score": 0.8273798152211703
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 11.757784128189087,
+        "chars": 1599,
+        "words": 240,
+        "text": "- Surgical Pathology\n* Final Report *\n\n- Myometrial Invasion: Present, less than 50% of myometrial wall involved.\n  - Deepest myometrial invasion: 0.3 cm (D13).\n  - Myometrial thickness in the area of deepest invasion: 1.9 cm.\n\nPATHOLOGIC STAGING\n- Primary Tumor (pT): pT1b\n- Regional Lymph Nodes (pN): pN0 (0/21)\n- Distant Metastasis (pM): pMX\n\n- Margins: Uninvolved by carcinoma\n- Venous/Lymphatic (large/small vessel) Invasion: Absent\n- Additional Pathologic Findings:\n  - Cervix with squamous metaplasia and nabothian cysts.\n  - Adenomyosis.\n  - Numerous leiomyomata (largest one is 10 cm), some are hyalinized and partially calcified.\n  - Right ovary with benign Brenner's tumor (2 cm).\n  - Left ovary is surgically absent.\n  - Right and left fallopian tubes are negative for tumor.\n\nE. Pelvic sidewall, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nCul-de-sac, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nG. Bladder peritoneum, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nH. Lymph nodes, left pelvic, excision:\n- Five benign lymph nodes negative for malignancy (0/5).\n\nI. Lymph nodes, left para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nJ. Lymph nodes, right pelvic, excision:\n- Eight benign lymph nodes negative for malignancy (0/8).\n\nK. Lymph nodes, right para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nL. Appendix, appendectomy:\n- Negative for malignancy.\n\nI attest that the above diagnosis is based upon my personal\n\nPrinted by:\nPrinted on: \n\nPage 2 of 6\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9884442085532914,
+          "mean_log_probability": -0.016248037444933923,
+          "perplexity": 1.0163807546289576,
+          "min_probability": 0.14633525829881372
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 455,
+          "total_tokens": 2927
+        },
+        "composite_score": 0.9471093923166358,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 11.757784128189087,
+          "chars": 1599,
+          "words": 240,
+          "text": "- Surgical Pathology\n* Final Report *\n\n- Myometrial Invasion: Present, less than 50% of myometrial wall involved.\n  - Deepest myometrial invasion: 0.3 cm (D13).\n  - Myometrial thickness in the area of deepest invasion: 1.9 cm.\n\nPATHOLOGIC STAGING\n- Primary Tumor (pT): pT1b\n- Regional Lymph Nodes (pN): pN0 (0/21)\n- Distant Metastasis (pM): pMX\n\n- Margins: Uninvolved by carcinoma\n- Venous/Lymphatic (large/small vessel) Invasion: Absent\n- Additional Pathologic Findings:\n  - Cervix with squamous metaplasia and nabothian cysts.\n  - Adenomyosis.\n  - Numerous leiomyomata (largest one is 10 cm), some are hyalinized and partially calcified.\n  - Right ovary with benign Brenner's tumor (2 cm).\n  - Left ovary is surgically absent.\n  - Right and left fallopian tubes are negative for tumor.\n\nE. Pelvic sidewall, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nCul-de-sac, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nG. Bladder peritoneum, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nH. Lymph nodes, left pelvic, excision:\n- Five benign lymph nodes negative for malignancy (0/5).\n\nI. Lymph nodes, left para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nJ. Lymph nodes, right pelvic, excision:\n- Eight benign lymph nodes negative for malignancy (0/8).\n\nK. Lymph nodes, right para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nL. Appendix, appendectomy:\n- Negative for malignancy.\n\nI attest that the above diagnosis is based upon my personal\n\nPrinted by:\nPrinted on: \n\nPage 2 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9884442085532914,
+            "mean_log_probability": -0.016248037444933923,
+            "perplexity": 1.0163807546289576,
+            "min_probability": 0.14633525829881372
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.9471093923166358,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.245841264724731,
+          "chars": 1782,
+          "words": 239,
+          "text": "Surgical Pathology\n* Final Report *\n\n- Myometrial Invasion: Present, less than 50% of myometrial wall involved.\n  - Deepest myometrial invasion: 0.3 cm (D13).\n  - Myometrial thickness in the area of deepest invasion: 1.9 cm.\n\nPATHOLOGIC STAGING\n- Primary Tumor (pT): pT1b\n- Regional Lymph Nodes (pN): pN0 (0/21)\n- Distant Metastasis (pM): pMX\n\n- Margins: Uninvolved by carcinoma\n- Venous/Lymphatic (large/small vessel) Invasion: Absent\n- Additional Pathologic Findings:\n  - Cervix with squamous metaplasia and nabothian cysts.\n  - Adenomyosis.\n  - Numerous leiomyomata (largest one is 10 cm), some are hyalinized and partially calcified.\n  - Right ovary with benign Brenner's tumor (2 cm).\n  - Left ovary is surgically absent.\n  - Right and left fallopian tubes are negative for tumor.\n\nE. Pelvic sidewall, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nCul-de-sac, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nG. Bladder peritoneum, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nH. Lymph nodes, left pelvic, excision:\n- Five benign lymph nodes negative for malignancy (0/5).\n\nI. Lymph nodes, left para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nJ. Lymph nodes, right pelvic, excision:\n- Eight benign lymph nodes negative for malignancy (0/8).\n\nK. Lymph nodes, right para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nL. Appendix, appendectomy:\n- Negative for malignancy.\n\nI attest that the above diagnosis is based upon my personal\n\nPrinted by:\nPrinted on:                                                                                          Page 2 of 6\n                                                                                                  (Continued)",
+          "confidence": {
+            "mean_probability": 0.9845567361353129,
+            "mean_log_probability": -0.02711532166301969,
+            "perplexity": 1.027486287358826,
+            "min_probability": 0.05180689657838462
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 458,
+            "total_tokens": 2930
+          },
+          "composite_score": 0.9092263868601154
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.956603527069092,
+          "chars": 1597,
+          "words": 239,
+          "text": "Surgical Pathology\n* Final Report *\n\n- Myometrial Invasion: Present, less than 50% of myometrial wall involved.\n  - Deepest myometrial invasion: 0.3 cm (D13).\n  - Myometrial thickness in the area of deepest invasion: 1.9 cm.\n\nPATHOLOGIC STAGING\n- Primary Tumor (pT): pT1b\n- Regional Lymph Nodes (pN): pN0 (0/21)\n- Distant Metastasis (pM): pMX\n\n- Margins: Uninvolved by carcinoma\n- Venous/Lymphatic (large/small vessel) Invasion: Absent\n- Additional Pathologic Findings:\n  - Cervix with squamous metaplasia and nabothian cysts.\n  - Adenomyosis.\n  - Numerous leiomyomata (largest one is 10 cm), some are hyalinized and partially calcified.\n  - Right ovary with benign Brenner's tumor (2 cm).\n  - Left ovary is surgically absent.\n  - Right and left fallopian tubes are negative for tumor.\n\nE. Pelvic sidewall, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nCul-de-sac, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nG. Bladder peritoneum, biopsy:\n- Fibroadipose tissue with no evidence of malignancy.\n\nH. Lymph nodes, left pelvic, excision:\n- Five benign lymph nodes negative for malignancy (0/5).\n\nI. Lymph nodes, left para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nJ. Lymph nodes, right pelvic, excision:\n- Eight benign lymph nodes negative for malignancy (0/8).\n\nK. Lymph nodes, right para-aortic, excision:\n- Four benign lymph nodes negative for malignancy (0/4).\n\nL. Appendix, appendectomy:\n- Negative for malignancy.\n\nI attest that the above diagnosis is based upon my personal\n\nPrinted by:\nPrinted on: \n\nPage 2 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9872609291933893,
+            "mean_log_probability": -0.0186890859030837,
+            "perplexity": 1.018864819931339,
+            "min_probability": 0.10407380167705557
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 455,
+            "total_tokens": 2927
+          },
+          "composite_score": 0.8977718789016211
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 19.29133152961731,
+        "chars": 2627,
+        "words": 396,
+        "text": "Surgical Pathology\n* Final Report *\n\nexamination of the slides (and/or other material) and that I have\nreviewed and approved this report.\n\nCLINICAL HISTORY:\nEndometrial adenocarcinoma\n\nGROSS DESCRIPTION:\nA. The specimen is received in formalin with proper patient\nidentification, labeled \"anterior abdomen\" and consists of three\npieces of soft tan tissue measuring 1.6 x 1.0 x 0.4 cm in aggregate.\nThe specimen is entirely submitted in one cassette.\n\nB. The specimen is received in formalin with proper patient\nidentification, labeled \"colic gutter is\" and consists of four pieces\nof soft tan tissue measuring 0.9 x 0.8 x 0.3 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nC. Specimen is received in formalin with proper patient\nidentification labeled \"omentum\" and consists of an omentectomy\nspecimen measuring 15 x 10 x 1.8 cm. The specimen is sectioned to\nreveal unremarkable fibroadipose tissue. No nodules or mass lesions\nare identified. The specimen is representatively submitted in four\nssettes.\nSpecimen is received fresh with proper patient identification\nlabeled \"Uterus, cervix, tubes, and ovaries\". The specimen weighs\n1990 grams and measures 19 x 17 x 16 cm. The external surface of the\nuterus is distorted by multiple firm fibroid nodules. The ectocervix\nmeasures 2.9 cm in diameter with 0.8 cm patent The ectocervical\nmucosa is smooth, glistening and unremarkable. The endocervical canal\nmeasures 3.5 cm in length and 0.4 cm in diameter with a smooth\nglistening mucosa. The endometrial cavity measures 4.5 cm in length\nand 2.9 cm in width. The cavity is distorted by multiple nodules.\nThere is a mass extending from the endometrium into the myometrial\nwall. The tumor measures 3.5 x 3.0 x 3.0 cm (with 3.0 cm representing\ndepth from endometrial surface to tumor base). It is friable and has\na white-tan cut surface with hemorrhagic areas. It extends from the\nanterior aspect of the endometrial cavity in the fundic/cornu region\nto within 1.6 cm of the peritoneum over the anterior portion of the\nuterus. The mass extends to within 2.1 cm of the anterior peritoneal\nsurface of the uterus Sectioning through the myometrium\nreveals numerous tan-white whorled, well circumscribed nodules without\nareas of hemorrhage, necrosis, or degeneration. The largest of these\nnodules measures 10 cm in greatest dimension. The right fallopian\ntube measures 7.2 x 0.6 cm with an unremarkable serosa and a pinpoint\n\nPrinted by:\nPinted on:                                                                 Page 3 of 6\n                                                                                 (Continued)",
+        "confidence": {
+          "mean_probability": 0.9859896240067452,
+          "mean_log_probability": -0.0234820030075188,
+          "perplexity": 1.0237598759820439,
+          "min_probability": 0.08029451232728385
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 666,
+          "total_tokens": 3138
+        },
+        "composite_score": 0.9816454003579809,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 19.29133152961731,
+          "chars": 2627,
+          "words": 396,
+          "text": "Surgical Pathology\n* Final Report *\n\nexamination of the slides (and/or other material) and that I have\nreviewed and approved this report.\n\nCLINICAL HISTORY:\nEndometrial adenocarcinoma\n\nGROSS DESCRIPTION:\nA. The specimen is received in formalin with proper patient\nidentification, labeled \"anterior abdomen\" and consists of three\npieces of soft tan tissue measuring 1.6 x 1.0 x 0.4 cm in aggregate.\nThe specimen is entirely submitted in one cassette.\n\nB. The specimen is received in formalin with proper patient\nidentification, labeled \"colic gutter is\" and consists of four pieces\nof soft tan tissue measuring 0.9 x 0.8 x 0.3 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nC. Specimen is received in formalin with proper patient\nidentification labeled \"omentum\" and consists of an omentectomy\nspecimen measuring 15 x 10 x 1.8 cm. The specimen is sectioned to\nreveal unremarkable fibroadipose tissue. No nodules or mass lesions\nare identified. The specimen is representatively submitted in four\nssettes.\nSpecimen is received fresh with proper patient identification\nlabeled \"Uterus, cervix, tubes, and ovaries\". The specimen weighs\n1990 grams and measures 19 x 17 x 16 cm. The external surface of the\nuterus is distorted by multiple firm fibroid nodules. The ectocervix\nmeasures 2.9 cm in diameter with 0.8 cm patent The ectocervical\nmucosa is smooth, glistening and unremarkable. The endocervical canal\nmeasures 3.5 cm in length and 0.4 cm in diameter with a smooth\nglistening mucosa. The endometrial cavity measures 4.5 cm in length\nand 2.9 cm in width. The cavity is distorted by multiple nodules.\nThere is a mass extending from the endometrium into the myometrial\nwall. The tumor measures 3.5 x 3.0 x 3.0 cm (with 3.0 cm representing\ndepth from endometrial surface to tumor base). It is friable and has\na white-tan cut surface with hemorrhagic areas. It extends from the\nanterior aspect of the endometrial cavity in the fundic/cornu region\nto within 1.6 cm of the peritoneum over the anterior portion of the\nuterus. The mass extends to within 2.1 cm of the anterior peritoneal\nsurface of the uterus Sectioning through the myometrium\nreveals numerous tan-white whorled, well circumscribed nodules without\nareas of hemorrhage, necrosis, or degeneration. The largest of these\nnodules measures 10 cm in greatest dimension. The right fallopian\ntube measures 7.2 x 0.6 cm with an unremarkable serosa and a pinpoint\n\nPrinted by:\nPinted on:                                                                 Page 3 of 6\n                                                                                 (Continued)",
+          "confidence": {
+            "mean_probability": 0.9859896240067452,
+            "mean_log_probability": -0.0234820030075188,
+            "perplexity": 1.0237598759820439,
+            "min_probability": 0.08029451232728385
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 666,
+            "total_tokens": 3138
+          },
+          "composite_score": 0.9816454003579809,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 19.224282026290894,
+          "chars": 2483,
+          "words": 396,
+          "text": "Surgical Pathology\n* Final Report *\n\nexamination of the slides (and/or other material) and that I have\nreviewed and approved this report.\n\nCLINICAL HISTORY:\nEndometrial adenocarcinoma\n\nGROSS DESCRIPTION:\nA. The specimen is received in formalin with proper patient\nidentification, labeled \"anterior abdomen\" and consists of three\npieces of soft tan tissue measuring 1.6 x 1.0 x 0.4 cm in aggregate.\nThe specimen is entirely submitted in one cassette.\n\nB. The specimen is received in formalin with proper patient\nidentification, labeled \"colic gutter is\" and consists of four pieces\nof soft tan tissue measuring 0.9 x 0.8 x 0.3 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nC. Specimen is received in formalin with proper patient\nidentification labeled \"omentum\" and consists of an omentectomy\nspecimen measuring 15 x 10 x 1.8 cm. The specimen is sectioned to\nreveal unremarkable fibroadipose tissue. No nodules or mass lesions\nare identified. The specimen is representatively submitted in four\nssettes.\nSpecimen is received fresh with proper patient identification\nlabeled \"Uterus, cervix, tubes, and ovaries\". The specimen weighs\n1990 grams and measures 19 x 17 x 16 cm. The external surface of the\nuterus is distorted by multiple firm fibroid nodules. The ectocervix\nmeasures 2.9 cm in diameter with 0.8 cm patent The ectocervical\nmucosa is smooth, glistening and unremarkable. The endocervical canal\nmeasures 3.5 cm in length and 0.4 cm in diameter with a smooth\nglistening mucosa. The endometrial cavity measures 4.5 cm in length\nand 2.9 cm in width. The cavity is distorted by multiple nodules.\nThere is a mass extending from the endometrium into the myometrial\nwall. The tumor measures 3.5 x 3.0 x 3.0 cm (with 3.0 cm representing\ndepth from endometrial surface to tumor base). It is friable and has\na white-tan cut surface with hemorrhagic areas. It extends from the\nanterior aspect of the endometrial cavity in the fundic/cornu region\nto within 1.6 cm of the peritoneum over the anterior portion of the\nuterus. The mass extends to within 2.1 cm of the anterior peritoneal\nsurface of the uterus Sectioning through the myometrium\nreveals numerous tan-white whorled, well circumscribed nodules without\nareas of hemorrhage, necrosis, or degeneration. The largest of these\nnodules measures 10 cm in greatest dimension. The right fallopian\ntube measures 7.2 x 0.6 cm with an unremarkable serosa and a pinpoint\n\nPrinted by:\nPinted on: \nPage 3 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9892822971005996,
+            "mean_log_probability": -0.016541321266968327,
+            "perplexity": 1.0166788863777898,
+            "min_probability": 0.09165506881559053
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 664,
+            "total_tokens": 3136
+          },
+          "composite_score": 0.9376331597153104
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 15.393280744552612,
+          "chars": 2565,
+          "words": 396,
+          "text": "Surgical Pathology\n* Final Report *\n\nexamination of the slides (and/or other material) and that I have\nreviewed and approved this report.\n\nCLINICAL HISTORY:\nEndometrial adenocarcinoma\n\nGROSS DESCRIPTION:\nA. The specimen is received in formalin with proper patient\nidentification, labeled \"anterior abdomen\" and consists of three\npieces of soft tan tissue measuring 1.6 x 1.0 x 0.4 cm in aggregate.\nThe specimen is entirely submitted in one cassette.\n\nB. The specimen is received in formalin with proper patient\nidentification, labeled \"colic gutter is\" and consists of four pieces\nof soft tan tissue measuring 0.9 x 0.8 x 0.3 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nC. Specimen is received in formalin with proper patient\nidentification labeled \"omentum\" and consists of an omentectomy\nspecimen measuring 15 x 10 x 1.8 cm. The specimen is sectioned to\nreveal unremarkable fibroadipose tissue. No nodules or mass lesions\nare identified. The specimen is representatively submitted in four\ncassettes.\n\nSpecimen is received fresh with proper patient identification\nlabeled \"Uterus, cervix, tubes, and ovaries\". The specimen weighs\n1990 grams and measures 19 x 17 x 16 cm. The external surface of the\nuterus is distorted by multiple firm fibroid nodules. The ectocervix\nmeasures 2.9 cm in diameter with 0.8 cm patent The ectocervical\nmucosa is smooth, glistening and unremarkable. The endocervical canal\nmeasures 3.5 cm in length and 0.4 cm in diameter with a smooth\nglistening mucosa. The endometrial cavity measures 4.5 cm in length\nand 2.9 cm in width. The cavity is distorted by multiple nodules.\nThere is a mass extending from the endometrium into the myometrial\nwall. The tumor measures 3.5 x 3.0 x 3.0 cm (with 3.0 cm representing\ndepth from endometrial surface to tumor base). It is friable and has\na white-tan cut surface with hemorrhagic areas. It extends from the\nanterior aspect of the endometrial cavity in the fundic/cornu region\nto within 1.6 cm of the peritoneum over the anterior portion of the\nuterus. The mass extends to within 2.1 cm of the anterior peritoneal\nsurface of the uterus Sectioning through the myometrium\nreveals numerous tan-white whorled, well circumscribed nodules without\nareas of hemorrhage, necrosis, or degeneration. The largest of these\nnodules measures 10 cm in greatest dimension. The right fallopian\ntube measures 7.2 x 0.6 cm with an unremarkable serosa and a pinpoint\n\nPrinted by:\nPrinted on:                                  Page 3 of 6\n                                              (Continued)",
+          "confidence": {
+            "mean_probability": 0.988272913762906,
+            "mean_log_probability": -0.021596466063348415,
+            "perplexity": 1.0218313576315827,
+            "min_probability": 0.01723887967339452
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 664,
+            "total_tokens": 3136
+          },
+          "composite_score": 0.6537535633419185
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 12.546190977096558,
+        "chars": 2114,
+        "words": 347,
+        "text": "Surgical Pathology\n* Final Report *\n\nlumen. The right ovary measures 2.6 x 2.4 x 2.0 cm and has an unremarkable granular white-tan appearance both on the external and internal aspects. The left fallopian tube measures 4.5 x 0.6 cm and is distorted by sutures. There is no obvious ovarian tissue on the left side (patient underwent left salpingo-oophorectomy in       ).\nPieces of fresh tumor are saved for         study. The specimen is representatively submitted in 22 cassettes.\n\nSummary of sections:\n1- anterior cervix\n2- anterior LUS\n3-4 anterior full thickness section of the uterus\n5- posterior cervix\n6- posterior LUS\n7-8 posterior full thickness section of the uterus\n9- tumor to anterior surface of uterus\n10- tumor to anterior surface of uterus (piece cut in half to fit in one cassette)\n11- hemorrhagic area of tumor\n12- tumor and endometrial cavity\n13- tumor and anterior myometrium\n14-16 possible extension of tumor to posterior fundic uterine wall\n17-18 large posterior nodule\n19-20 nodules on the surface of the uterus\n right tube and ovary\n left adnexa\n\nE. The specimen is received in formalin with proper patient identification, labeled \"pelvic sidewall\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 1.0 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nF. The specimen is received in formalin with proper patient identification, labeled \"cul-de-sac\" and consists of 4 pieces of soft tan tissue measuring 0.8 x 0.6 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nG. The specimen is received in formalin with proper patient identification, labeled \"bladder peritoneum\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 0.9 x 0.4 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nH. The specimen is received in formalin with proper patient identification, labeled \"left pelvic nodes\" and consists of a piece of fibroadipose tissue measuring 6.5 x 4.0 x 1.5 cm. Multiple pink-tan firm lymph nodes are identified ranging from 0.4 to 1.6 cm in greatest\n\nPrinted by: \nPrinted on: \nPage 4 of 6\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9871682457242639,
+          "mean_log_probability": -0.022037814471243047,
+          "perplexity": 1.0222824408095095,
+          "min_probability": 0.12447430125580926
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 540,
+          "total_tokens": 3012
+        },
+        "composite_score": 0.9827499028633147,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 12.546190977096558,
+          "chars": 2114,
+          "words": 347,
+          "text": "Surgical Pathology\n* Final Report *\n\nlumen. The right ovary measures 2.6 x 2.4 x 2.0 cm and has an unremarkable granular white-tan appearance both on the external and internal aspects. The left fallopian tube measures 4.5 x 0.6 cm and is distorted by sutures. There is no obvious ovarian tissue on the left side (patient underwent left salpingo-oophorectomy in       ).\nPieces of fresh tumor are saved for         study. The specimen is representatively submitted in 22 cassettes.\n\nSummary of sections:\n1- anterior cervix\n2- anterior LUS\n3-4 anterior full thickness section of the uterus\n5- posterior cervix\n6- posterior LUS\n7-8 posterior full thickness section of the uterus\n9- tumor to anterior surface of uterus\n10- tumor to anterior surface of uterus (piece cut in half to fit in one cassette)\n11- hemorrhagic area of tumor\n12- tumor and endometrial cavity\n13- tumor and anterior myometrium\n14-16 possible extension of tumor to posterior fundic uterine wall\n17-18 large posterior nodule\n19-20 nodules on the surface of the uterus\n right tube and ovary\n left adnexa\n\nE. The specimen is received in formalin with proper patient identification, labeled \"pelvic sidewall\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 1.0 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nF. The specimen is received in formalin with proper patient identification, labeled \"cul-de-sac\" and consists of 4 pieces of soft tan tissue measuring 0.8 x 0.6 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nG. The specimen is received in formalin with proper patient identification, labeled \"bladder peritoneum\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 0.9 x 0.4 cm in aggregate. The specimen is entirely submitted in one cassette.\n\nH. The specimen is received in formalin with proper patient identification, labeled \"left pelvic nodes\" and consists of a piece of fibroadipose tissue measuring 6.5 x 4.0 x 1.5 cm. Multiple pink-tan firm lymph nodes are identified ranging from 0.4 to 1.6 cm in greatest\n\nPrinted by: \nPrinted on: \nPage 4 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9871682457242639,
+            "mean_log_probability": -0.022037814471243047,
+            "perplexity": 1.0222824408095095,
+            "min_probability": 0.12447430125580926
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 540,
+            "total_tokens": 3012
+          },
+          "composite_score": 0.9827499028633147,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 12.779188871383667,
+          "chars": 2113,
+          "words": 347,
+          "text": "Surgical Pathology\n* Final Report *\n\nlumen. The right ovary measures 2.6 x 2.4 x 2.0 cm and has an\nunremarkable granular white-tan appearance both on the external and\ninternal aspects. The left fallopian tube measures 4.5 x 0.6 cm and\nis distorted by sutures. There is no obvious ovarian tissue on the\nleft side (patient underwent left salpingo-oophorectomy in      ).\nPieces of fresh tumor are saved for         study. The specimen is\nrepresentatively submitted in 22 cassettes.\n\nSummary of sections:\n1- anterior cervix\n2- anterior LUS\n3-4 anterior full thickness section of the uterus\n5- posterior cervix\n6- posterior LUS\n7-8 posterior full thickness section of the uterus\n9- tumor to anterior surface of uterus\n10- tumor to anterior surface of uterus (piece cut in half to fit in\none cassette)\n11- hemorrhagic area of tumor\n12- tumor and endometrial cavity\n13- tumor and anterior myometrium\n14-16 possible extension of tumor to posterior fundic uterine wall\n17-18 large posterior nodule\n19-20 nodules on the surface of the uterus\n right tube and ovary\n left adnexa\n\nE. The specimen is received in formalin with proper patient\nidentification, labeled \"pelvic sidewall\" and consists of 4 pieces of\nsoft tan tissue measuring 1.2 x 1.0 x 0.3 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nF. The specimen is received in formalin with proper patient\nidentification, labeled \"cul-de-sac\" and consists of 4 pieces of soft\ntan tissue measuring 0.8 x 0.6 x 0.3 cm in aggregate. The specimen is\nentirely submitted in one cassette.\n\nG. The specimen is received in formalin with proper patient\nidentification, labeled \"bladder peritoneum\" and consists of 4 pieces\nof soft tan tissue measuring 1.2 x 0.9 x 0.4 cm in aggregate. The\nspecimen is entirely submitted in one cassette.\n\nH. The specimen is received in formalin with proper patient\nidentification, labeled \"left pelvic nodes\" and consists of a piece of\nfibroadipose tissue measuring 6.5 x 4.0 x 1.5 cm. Multiple pink-tan\nfirm lymph nodes are identified ranging from 0.4 to 1.6 cm in greatest\n\nPrinted by: \nPrinted on: \nPage 4 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9883075876913375,
+            "mean_log_probability": -0.02001767256637168,
+            "perplexity": 1.0202193697619653,
+            "min_probability": 0.12652036444703893
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 566,
+            "total_tokens": 3038
+          },
+          "composite_score": 0.9350851298368534
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 14.078365325927734,
+          "chars": 2164,
+          "words": 347,
+          "text": "Surgical Pathology  \n* Final Report *\n\nlumen.  The right ovary measures 2.6 x 2.4 x 2.0 cm and has an unremarkable granular white-tan appearance both on the external and internal aspects.  The left fallopian tube measures 4.5 x 0.6 cm and is distorted by sutures.  There is no obvious ovarian tissue on the left side (patient underwent left salpingo-oophorectomy in       ). Pieces of fresh tumor are saved for           study.  The specimen is representatively submitted in 22 cassettes.\n\nSummary of sections:  \n1- anterior cervix  \n2- anterior LUS  \n3-4 anterior full thickness section of the uterus  \n5- posterior cervix  \n6- posterior LUS  \n7-8 posterior full thickness section of the uterus  \n9- tumor to anterior surface of uterus  \n10- tumor to anterior surface of uterus (piece cut in half to fit in one cassette)  \n11- hemorrhagic area of tumor  \n12- tumor and endometrial cavity  \n13- tumor and anterior myometrium  \n14-16 possible extension of tumor to posterior fundic uterine wall  \n17-18 large posterior nodule  \n19-20 nodules on the surface of the uterus  \nright tube and ovary  \nleft adnexa\n\nE.  The specimen is received in formalin with proper patient identification, labeled \"pelvic sidewall\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 1.0 x 0.3 cm in aggregate.  The specimen is entirely submitted in one cassette.\n\nF.  The specimen is received in formalin with proper patient identification, labeled \"cul-de-sac\" and consists of 4 pieces of soft tan tissue measuring 0.8 x 0.6 x 0.3 cm in aggregate.  The specimen is entirely submitted in one cassette.\n\nG.  The specimen is received in formalin with proper patient identification, labeled \"bladder peritoneum\" and consists of 4 pieces of soft tan tissue measuring 1.2 x 0.9 x 0.4 cm in aggregate.  The specimen is entirely submitted in one cassette.\n\nH.  The specimen is received in formalin with proper patient identification, labeled \"left pelvic nodes\" and consists of a piece of fibroadipose tissue measuring 6.5 x 4.0 x 1.5 cm.  Multiple pink-tan firm lymph nodes are identified ranging from 0.4 to 1.6 cm in greatest\n\nPrinted by:  \nPrinted on:  \nPage 4 of 6  \n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9841457884912741,
+            "mean_log_probability": -0.026659061482820975,
+            "perplexity": 1.0270175932115728,
+            "min_probability": 0.12547057626126037
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 554,
+            "total_tokens": 3026
+          },
+          "composite_score": 0.9302652238829113
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.615051984786987,
+        "chars": 1667,
+        "words": 252,
+        "text": "Surgical Pathology\n* Final Report *\n\ndimension. The largest lymph node is bisected and is unremarkable.\nThe lymph nodes are entirely submitted in 4 cassettes.\nSummary of sections:\n1-2 possible lymph nodes\n2-largest lymph node bisected\n3-2 possible lymph nodes\n4-one possible lymph node\n\nI. Specimen is received in formalin with proper patient\nidentification labeled \"left para-aortic nodes\" and consists of 2\npieces of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.7 cm. The specimen is entirely submitted in 2\ncassettes.\n\nJ. Specimen is received in formalin with proper patient\nidentification labeled \"right pelvic nodes\" and consists of one piece\nof fibroadipose tissue measuring 6 x 4 x 3 cm. The tissue contains no\nobvious lymph nodes. The fibrous tissue is entirely submitted 5\ncassettes.\n\nK. Specimen is received in formalin with proper patient\nidentification labeled \"right para-aortic nodes\" and consists of one\npiece of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.9 centimeters. Specimen is entirely submitted in 2\ncassettes.\n\nL. The specimen is received in formalin with proper patient\nidentification labeled \"Appendix\" and consists of a vermiform appendix\nmeasuring 3.2 cm long and 0.3 cm in average diameter with attached\nmesoappendix measuring 3.0 x 1.9 x 1.6 cm. The surface of the appendix\nshows unremarkable serosa. Serial sectioning reveals no lesions or\nsigns of inflammation. Representative sections are submitted in one\ncassette.\n\nReceive Date/Time:\nEncounter Number:\nMedical Record Number:\n\nElectronically Signed Out By:\nM.D. on\n\nPrinted by:\nPrinted on:\n\nPage 5 of 6\n(Continued)",
+        "confidence": {
+          "mean_probability": 0.9872473733825231,
+          "mean_log_probability": -0.01662223076923077,
+          "perplexity": 1.016761148688304,
+          "min_probability": 0.2172583675093947
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 417,
+          "total_tokens": 2889
+        },
+        "composite_score": 0.9536196401446753,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.615051984786987,
+          "chars": 1667,
+          "words": 252,
+          "text": "Surgical Pathology\n* Final Report *\n\ndimension. The largest lymph node is bisected and is unremarkable.\nThe lymph nodes are entirely submitted in 4 cassettes.\nSummary of sections:\n1-2 possible lymph nodes\n2-largest lymph node bisected\n3-2 possible lymph nodes\n4-one possible lymph node\n\nI. Specimen is received in formalin with proper patient\nidentification labeled \"left para-aortic nodes\" and consists of 2\npieces of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.7 cm. The specimen is entirely submitted in 2\ncassettes.\n\nJ. Specimen is received in formalin with proper patient\nidentification labeled \"right pelvic nodes\" and consists of one piece\nof fibroadipose tissue measuring 6 x 4 x 3 cm. The tissue contains no\nobvious lymph nodes. The fibrous tissue is entirely submitted 5\ncassettes.\n\nK. Specimen is received in formalin with proper patient\nidentification labeled \"right para-aortic nodes\" and consists of one\npiece of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.9 centimeters. Specimen is entirely submitted in 2\ncassettes.\n\nL. The specimen is received in formalin with proper patient\nidentification labeled \"Appendix\" and consists of a vermiform appendix\nmeasuring 3.2 cm long and 0.3 cm in average diameter with attached\nmesoappendix measuring 3.0 x 1.9 x 1.6 cm. The surface of the appendix\nshows unremarkable serosa. Serial sectioning reveals no lesions or\nsigns of inflammation. Representative sections are submitted in one\ncassette.\n\nReceive Date/Time:\nEncounter Number:\nMedical Record Number:\n\nElectronically Signed Out By:\nM.D. on\n\nPrinted by:\nPrinted on:\n\nPage 5 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9872473733825231,
+            "mean_log_probability": -0.01662223076923077,
+            "perplexity": 1.016761148688304,
+            "min_probability": 0.2172583675093947
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 417,
+            "total_tokens": 2889
+          },
+          "composite_score": 0.9536196401446753,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 10.524894714355469,
+          "chars": 1667,
+          "words": 252,
+          "text": "Surgical Pathology\n* Final Report *\n\ndimension. The largest lymph node is bisected and is unremarkable.\nThe lymph nodes are entirely submitted in 4 cassettes.\nSummary of sections:\n1-2 possible lymph nodes\n2-largest lymph node bisected\n3-2 possible lymph nodes\n4-one possible lymph node\n\nI. Specimen is received in formalin with proper patient\nidentification labeled \"left para-aortic nodes\" and consists of 2\npieces of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.7 cm. The specimen is entirely submitted in 2\ncassettes.\n\nJ. Specimen is received in formalin with proper patient\nidentification labeled \"right pelvic nodes\" and consists of one piece\nof fibroadipose tissue measuring 6 x 4 x 3 cm. The tissue contains no\nobvious lymph nodes. The fibrous tissue is entirely submitted 5\ncassettes.\n\nK. Specimen is received in formalin with proper patient\nidentification labeled \"right para-aortic nodes\" and consists of one\npiece of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.9 centimeters. Specimen is entirely submitted in 2\ncassettes.\n\nL. The specimen is received in formalin with proper patient\nidentification labeled \"Appendix\" and consists of a vermiform appendix\nmeasuring 3.2 cm long and 0.3 cm in average diameter with attached\nmesoappendix measuring 3.0 x 1.9 x 1.6 cm. The surface of the appendix\nshows unremarkable serosa. Serial sectioning reveals no lesions or\nsigns of inflammation. Representative sections are submitted in one\ncassette.\n\nReceive Date/Time:\nEncounter Number:\nMedical Record Number:\n\nElectronically Signed Out By:\nM.D. on\n\nPrinted by:\nPrinted on:\n\nPage 5 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9877915969359241,
+            "mean_log_probability": -0.015939151442307693,
+            "perplexity": 1.016066857322252,
+            "min_probability": 0.19431125468688293
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 417,
+            "total_tokens": 2889
+          },
+          "composite_score": 0.9064412985864299
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 9.120202541351318,
+          "chars": 1667,
+          "words": 252,
+          "text": "Surgical Pathology\n* Final Report *\n\ndimension. The largest lymph node is bisected and is unremarkable.\nThe lymph nodes are entirely submitted in 4 cassettes.\nSummary of sections:\n1-2 possible lymph nodes\n2-largest lymph node bisected\n3-2 possible lymph nodes\n4-one possible lymph node\n\nI. Specimen is received in formalin with proper patient\nidentification labeled \"left para-aortic nodes\" and consists of 2\npieces of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.7 cm. The specimen is entirely submitted in 2\ncassettes.\n\nJ. Specimen is received in formalin with proper patient\nidentification labeled \"right pelvic nodes\" and consists of one piece\nof fibroadipose tissue measuring 6 x 4 x 3 cm. The tissue contains no\nobvious lymph nodes. The fibrous tissue is entirely submitted 5\ncassettes.\n\nK. Specimen is received in formalin with proper patient\nidentification labeled \"right para-aortic nodes\" and consists of one\npiece of fibroadipose tissue containing multiple lymph nodes ranging\nin size from 0.4-0.9 centimeters. Specimen is entirely submitted in 2\ncassettes.\n\nL. The specimen is received in formalin with proper patient\nidentification labeled \"Appendix\" and consists of a vermiform appendix\nmeasuring 3.2 cm long and 0.3 cm in average diameter with attached\nmesoappendix measuring 3.0 x 1.9 x 1.6 cm. The surface of the appendix\nshows unremarkable serosa. Serial sectioning reveals no lesions or\nsigns of inflammation. Representative sections are submitted in one\ncassette.\n\nReceive Date/Time:\nEncounter Number:\nMedical Record Number:\n\nElectronically Signed Out By:\nM.D. on\n\nPrinted by:\nPrinted on:\n\nPage 5 of 6\n(Continued)",
+          "confidence": {
+            "mean_probability": 0.9880244218587636,
+            "mean_log_probability": -0.015431742788461541,
+            "perplexity": 1.0155514269839263,
+            "min_probability": 0.21312466559527815
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 417,
+            "total_tokens": 2889
+          },
+          "composite_score": 0.9068151104062157
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

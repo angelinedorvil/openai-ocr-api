@@ -1,0 +1,309 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A0IU\TCGA-AX-A0IU.pdf
+Processing Date: 2026-03-08 12:18:59
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+UUID:454539FB-7B1B-43DF-87D1-E7E47C1776E7
+TCGA-AX-A0IU-01A-PR                      Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+```
+SPEC #:                      E------, R-----------------       (Continued) Page: 2
+
+IMPRESSION: (continued)
+        Benign fibroadipose tissue, negative for malignancy.
+
+ENDOMETRIAL CARCINOMA CHECKLIST
+
+MACROSCOPIC
+
+SPECIMEN TYPE
+        hysterectomy
+
+TUMOR SITE
+        Specify location(s), if known: Anterior and posterior cavity
+
+TUMOR SIZE
+        Greatest dimension:  6 x 5.2 x 1.4 cm
+
+OTHER ORGANS PRESENT
+        Right ovary
+        Left ovary
+        Right fallopian tube
+        Left fallopian tube
+        Omentum
+
+MICROSCOPIC
+
+HISTOLOGIC TYPE
+        Serous adenocarcinoma
+
+HISTOLOGIC GRADE
+        Not applicable
+
+MYOMETRIAL INVASION
+        Invasion present
+        Maximal depth of myometrial invasion: 1.3 cm
+        Thickness of myometrium in area of maximal tumor invasion: 1.5 cm
+        The % of myometrial involvement:  83%
+
+EXTENT OF INVASION
+
+PRIMARY TUMOR (pT)
+TNM (FIGO)
+pT1 (T): Tumor confined to corpus uteri
+        pT1c (TC): Tumor invades one-half or more of the myometrium
+
+REGIONAL LYMPH NODES (pN)
+
+                        ** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 3
+================================================================================
+SPEC #:                      (Continued) Page: 3
+
+
+IMPRESSION: (continued)
+TNM (FIGO)
+pN1 (IIIC): Regional lymph node metastasis
+        Number examined: 13
+        Number involved: 2
+
+DISTANT METASTASIS (pM)
+TNM (FIGO)
+pMX: Cannot be assessed
+
+MARGINS
+        Uninvolved by invasive carcinoma
+        Distance of invasive carcinoma from closest margin: 2 mm
+        (Specify margin[s]): Anterior uterine serosa
+
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)
+        Present
+
+ADDITIONAL PATHOLOGIC FINDINGS
+        None identified
+
+Pathologic TNM (AJCC 6th Edition): pT1c N1 MX
+
+        Dictated by:
+        Entered: ,
+
+
+SPECIAL STAINS/PROCEDURES:
+Immunohistochemical stains are performed with appropriate positive and negative controls on section 1G:
+
+        p53 (1G and 1H):
+                Negative.
+        p16:
+                Partially positive.
+        ER:
+                Partially weakly positive (<50%).
+        PR:
+                Partially positive (about 50%).
+        CEA poly:
+                Mostly negative.
+        Vimentin:
+                Negative.
+        CD117:
+                Negative.
+
+                ** CONTINUED ON NEXT PAGE **
+
+================================================================================
+PAGE 4
+================================================================================
+```
+(Continued) Page: 4
+SPSC #:
+
+SPECIAL STAINS/PROCEDURES: (continued)
+Immunohistochemical stains are performed with appropriate positive and negative controls on
+section 1B:
+
+CD10:
+Positive in stroma with tumor involvement.
+
+Mucicarmine is performed with appropriate positive control on section 1G:
+Negative.
+
+Dictated by:
+
+GROSS DESCRIPTION:
+1) Received in fixative, labeled with the patient's name and unit number and "uterus,
+cervix, bilateral tubes and ovaries", is a 232 gram specimen: including a previously
+opened uterus (10.5 x 7.2 x 5.5 cm), left fallopian tube (5.' cm in length, 04-0.6 cm
+in diameter), left ovary (2.5 x 2.2 x 1.1 cm), right fallopian tube (6.2 cm in length,
+0.5-0.7 cm in diameter), right ovary (3.1 x 2.2 x 1.4 cm). The external surface of
+the uterus is dull and covered by multiple fine adhesions. There is an area (1.5 x
+1.0 cm) in the lower pole of the left ovary which is ragged and probably represents a
+resection margin (inked black). There is no visible gross lesion on the external
+surface of the specimen. The cervix measures 2.2 x 2.0 cm and is covered by red-tan
+slightly hemorrhagic smooth mucosa. The external os is slit-like and measures 0.4 x
+0.2 cm. The endocervical canal is 2.7 cm in length and has pink-tan herringbone
+mucosa. The endometrial cavity measures 5.5 cm in length x 3.7 cm from cornu to
+cornu. There is an extensive exophytic papillary growth involving almost the entire
+endometrium sparing only the lower uterine segment, 0.3 cm on the anterior surface and
+1.1 cm from the posterior surface. The uninvolved endometrium has pink-tan appearance
+and measures 0.2 to 0.4 cm in thickness. The tumor mass is white-tan, fragile and
+papillary. The tumor measures 6.2 cm (combined on anterior and posterior surface) x
+5.2 cm x 1.4 cm (maximum thickness). The central portion of the tumor is necrotic.
+Grossly, the tumor invades myometrium with the maximum extent of the anterior uterine
+wall, 1.4 cm of muscle invasion with 2.8 cm wall thickness. There is a partially
+calcified leiomyoma (4.5 cm in diameter) located within the myometrium of the
+posterior wall with a focal area of hemorrhage. Both fallopian tubes have previously
+removed central portions, consistent with a history of bilateral tubal ligation.
+There is a paratubal cyst (0.4 cm in diameter) with smooth internal lining and filled
+with yellow fluid, which is located in the distal portion of the right fallopian tube.
+Otherwise, the fallopian tubes are unremarkable. The left ovary is composed of
+sclerotic white-yellow tissue with multiple corpora albicantia. The right ovary has
+smooth and glistening pink-tan surface with white-yellow sclerotic parenchyma and
+multiple corpora albicantia. The specimen is serially sectioned and submitted as
+follows:
+
+Ink Code: Anterior surface - blue, posterior surface - black, lower uterine segment -
+
+** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 5
+================================================================================
+SPBC #:		(Continued) Page: 5
+
+GROSS DESCRIPTION: (continued)
+	green.
+
+	CASSETTE SUMMARY:
+	Cassette 1A:	Anterior cervix, 12:00.
+	Cassette 1B:	Anterior cervix, endocervical canal and lower uterine segment.
+	Cassette 1C:	Posterior cervix, 6:00.
+	Cassette 1D:	Posterior cervix, endocervical canal and lower uterine segment.
+	Cassette 1E:	Anterior uterus, midportion, maximum tumor invasion.
+	Cassette 1G:	Anterior uterus, upper portion, extensive necrosis.
+	Cassette 1H:	Posterior uterus, upper portion, necrosis.
+	Cassette 1J:	Posterior uterus, lower portion.
+	Cassette 1K,1L:	Leiomyoma with hemorrhagic areas.
+	Cassette 1M:	Leiomyoma, central portion.
+	Cassette 1N:	Left fallopian tube distal and proximal tubal ligation.
+	Cassette 1P:	Left ovary.
+	Cassette 1Q:	Right fallopian tube with paratubal cyst.
+	Cassette 1R:	Right ovary.
+
+2)	Received in formalin, labeled "right pelvic lymph node" and with the patient's name,
+	is an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 6.0 x
+	5.1 x 2.2 cm. The specimen is dissected for lymph nodes, there are three pink-tan
+	ovoid lymph nodes identified, ranging from 2.0 x 1.1 x 1.0 cm to 4.8 x 1.5 x 0.8 cm.
+	All lymph nodes identified are submitted as follows:
+
+	CASSETTE SUMMARY:
+	Cassette 2A:	One lymph node, bivalved.
+	Cassette 2B,2C:	One large lymph node, trisected.
+	Cassette 2D,2E:	One large lymph node, bivalved and bisected.
+
+3)	Received in formalin, labeled "right pelvic sidewall" and with the patient's name, is
+	a firm deep purple ovoid nodule, 0.7 x 0.5 x 0.5 cm, with an attached pink-tan to pale
+	tan stalk, 0.7 x 0.2 x 0.2 cm. The specimen is bisected and entirely submitted in one
+	cassette.
+
+4)	Received in formalin, labeled "left pelvic lymph nodes" and with the patient's name,
+	is an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 5.0 x
+	4.5 x 2.0 cm. The specimen is dissected for lymph nodes. There are four pink-tan to
+	yellow-tan ovoid lymph nodes identified, ranging from 1.8 x 1.0 x 0.7 cm to 2.7 x 2.3
+	x 0.8 cm. All lymph nodes identified are submitted as follows:
+
+	CASSETTE SUMMARY:
+	Cassette 4A,4B:	One lymph node, bivalved.
+	Cassette 4C,4D:	One lymph node, bivalved.
+	Cassette 4E:	One lymph node, bivalved.
+	Cassette 4G:	One lymph node, bivalved.
+
+			** CONTINUED ON NEXT PAGE **
+
+================================================================================
+PAGE 6
+================================================================================
+```
+SPEC #:                         (Continued) Page: 6
+_____________________________________________________________________________________
+
+GROSS DESCRIPTION: (continued)
+5) Received in formalin, labeled "para-aortic lymph nodes" and with the patient's name,
+   is one irregular unoriented portion of yellow-tan lobulated adipose tissue, 5.5 x 2.5
+   x 1.5 cm. The specimen is dissected for lymph nodes, there are three pink-tan ovoid
+   lymph nodes identified, ranging from 1.5 x 0.8 x 0.5 cm to 3.0 x 1.5 x 0.8 cm. All
+   lymph nodes identified are submitted as follows:
+
+   CASSETTE SUMMARY:
+   Cassette 5A,5B:      One lymph node, bivalved.
+   Cassette 5C:         One lymph node, bivalved.
+   Cassette 5D:         One lymph node, bivalved.
+
+6) Received in formalin, labeled "right para-aortic lymph node" and with the patient's
+   name, is an irregular portion of yellow-tan lobulated adipose tissue, 3.5 x 2.3 x 1.3
+   cm. The specimen is dissected for lymph nodes, there are three pink-tan ovoid lymph
+   nodes identified, ranging from 1.8 x 1.1 x 0.3 cm to 2.8 x 1.0 x 0.8 cm. All lymph
+   nodes identified are submitted as follows:
+
+   CASSETTE SUMMARY:
+   Cassette 6A:         One lymph node, bivalved.
+   Cassette 6B:         One lymph node, bivalved.
+   Cassette 6C:         One lymph node.
+
+7) Received in formalin, labeled "omentum" and with the patient's name, is an irregular
+   unoriented portion of yellow-tan lobulated adipose tissue, 19.2 x 8.5 x 3.3 cm. The
+   specimen is serially sectioned at close intervals, the cut surface is a homogeneous
+   golden yellow and is lobulated. There are no obvious masses or lesions identified.
+   The specimen is representatively sampled and submitted in three cassettes.
+
+Dictated by:          /
+Entered:              -
+
+COPIES TO:
+   Does Not Know
+
+
+Undefined Provider
+
+_____________________________________________________________________________________
+
+                             ** CONTINUED ON NEXT PAGE **
+```
+
+================================================================================
+PAGE 7
+================================================================================
+```
+(Continued) Page: 7
+SPEC #:
+
+CPT Codes:
+MUCICARMINE-                  , VIMENTIN-                      ER(SP1)-                  '
+PR(1E2)-{                      CEA-                           , LYMPH NODE, REGIONAL RESECT/  , 
+SOFT TISSUE BIOPSY (1)/       UTERUS W/WO ADNEXAE,TUMOR-883
+IHC P53-                      IHC                            /, IHC CD10                    OMENTUM -                   ,
+IHC P16-
+
+ICD9 Codes:
+
+Resident Physician:
+                             I have personally reviewed the material
+                             (specimen/slide) and approve this final report.
+
+Electronically Signed by: _____________________________________________
+
+
+                      ** END OF REPORT **
+```

@@ -1,0 +1,281 @@
+{
+  "pdf": "reports\\TCGA-AX-A0IW\\TCGA-AX-A0IW.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 3,
+        "temperature": 0.3,
+        "time": 160.16743993759155,
+        "chars": 2119,
+        "words": 11,
+        "text": "DOB: \n\nSurgical Pathology Report  \n00:00 Final  \n\nUUID: DE971C2D-31E8-42AC-A943-29E76FCD8F68  \nTCGA-AX-A0IW-01A-PR Redacted  \n█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█",
+        "confidence": {
+          "mean_probability": 0.9955855670367756,
+          "mean_log_probability": -0.00664947998046875,
+          "perplexity": 1.006671636855815,
+          "min_probability": 0.1589020983581861
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 2048,
+          "total_tokens": 4520
+        },
+        "composite_score": 0.9449797770866037,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 47.9% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 47.9% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 177.80324912071228,
+          "chars": 9109,
+          "words": 40,
+          "text": "```\nDOB: \n\n                                                                                      Criteria\n                                                                                      Diagnosis Discrepancy          Yes      No\n                                                                                      Primary Tumor Site Discrepancy\n                                                                                      HIPAA Discrepancy\n                                                                                      Prior Malignancy History\n                                                                                      Dual/Synchronous Primar\n                                                                                      Case is (circle): QUALIFIED DISQUALIFIED\n                                                                                      Reviewer Initials  RBS Date Reviewed: 10/29/11\n                                                                                                                               10/29/11\n\n                                    Surgical Pathology Report\n                                               00:00  Final\n\n                                                                                      UUID: DE971C2D-31E8-42AC-A943-29E76FCD8F68\n                                                                                      TCGA-AX-A0IW-01A-PR                             Redacted\n                                                                                      ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9784458003661125,
+            "mean_log_probability": -0.0330827763671875,
+            "perplexity": 1.0336360963412528,
+            "min_probability": 0.031725040144259385
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.6820669212676522
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 145.38855981826782,
+          "chars": 8090,
+          "words": 11,
+          "text": "DOB: \n\nSurgical Pathology Report\n00:00 Final\n\nUUID: DE971C2D-31E8-42AC-A943-29E76FCD8F68\nTCGA-AX-A0IW-01A-PR Redacted\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9891303161565324,
+            "mean_log_probability": -0.012554697265624998,
+            "perplexity": 1.0126338383279034,
+            "min_probability": 0.09655070193144166
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9405767363011187
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 160.16743993759155,
+          "chars": 2119,
+          "words": 11,
+          "text": "DOB: \n\nSurgical Pathology Report  \n00:00 Final  \n\nUUID: DE971C2D-31E8-42AC-A943-29E76FCD8F68  \nTCGA-AX-A0IW-01A-PR Redacted  \n█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█║█",
+          "confidence": {
+            "mean_probability": 0.9955855670367756,
+            "mean_log_probability": -0.00664947998046875,
+            "perplexity": 1.006671636855815,
+            "min_probability": 0.1589020983581861
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.9449797770866037,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 47.9% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 47.9% - results inconsistent"
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 36.61050009727478,
+        "chars": 2749,
+        "words": 408,
+        "text": "DOB: ___________________________________________\n\nSurgical Pathology Report\nFinal\n\n__________________________ SURGICAL PATHOLOGY REPORT\n\nLYMPH NODES, LEFT COMMON PERIAORTIC, DISSECTION\n- FOUR LYMPH ODES WITH NO EVIDENCE OF MALIGNANCY (0/4)\n\nOMENTUM, OMENTECTOMY\n- NO EVIDENCE OF MALIGNANCY\n\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n\n***Report Electronically Reviewed and Signed Out by .  -\n\n\n__________________________________________________________________________________________\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Called to pick up 'uterus, BSO, and\ncervix,' consisting of a 107 gram uterus (9.2 x 6.2 x 3.3 cm) with attached bilateral fallopian tubes (right 5.7 x 0.7 x 0.6\ncm; left 6 3 x 1.5 x 1.5 cm), and ovaries (right 3 x 1.5 x 0.8 cm; left 3 x 1.4 x 0.7 cm). The uterus is bivalved to show a\npink-tan polypoid exophytic mass occupying the entire endometrial cavity (tumor measures 4.3 x 4.2 cm on the\nposterior half, and 5.0 x 4.2 cm on the anterior half). The specimen is shown to the surgeon. Tissue is taken for\nand tumor bank. Rest for permanents, * by -\n\nMicroscopic Description and Comment:\nThe serous carcinoma in the left fallopian tube exhibits predominantly intraluminal growth, with muscular wall invasion\nidentified. While a second primary arising in the tube is in the differential diagnosis, the consensus of the\nis that this represents a metastasis from the endometrial primary.\n\nHistory:\nThe patient is a ______ year old woman with no further history provided. Operative procedure: Exploratory laparotomy,\nabdominal hysterectomy, and bilateral salpingo-oophorectomy.\n\nSpecimen(s) Received:\nA: UTERUS, BILATERAL TUBES AND OVARIES, CERVIX\nB: LYMPH NODE, LEFT EXTERNAL ILIAC\nC: LYMPH NODE, LEFT OB TURATOR\nD: LYMPH NODE, RIGHT EXTERNAL ILIAC\nE: LYMPH NODE, RIGHT OB TURATOR\nF: LYMPH NODE, RIGHT COMMON/PERIAORTIC\nG: LYMPH NODE, LEFT COMMON/PERIAORTIC\nH: OMENTUM\n\nGross Description:\nThe specimens are received in eight formalin-filled containers, each labeled *\nlabeled \"uterus, BSO, and cervix.\" It consists of a previously described 107 gram uterus measuring 9.2 cm from\nfundus to cervix, 6.2 cm from cornu to cornu, and 3.3 cm in the anterior/posterior plane. Both right and left ovaries and\nfallopian tubes are present. The right ovary shows a tan-yellow, cerebriform external surface, and measures 3.0 x 1.5\nx 0.8 cm. The right fallopian tube is grossly unremarkable and measures 5.7 cm in length and up to 0.7 cm in\n\nPage 2 of 4\n\nPage: 2 of 4\n_________________________________________ ___________________________________________",
+        "confidence": {
+          "mean_probability": 0.9654808903242805,
+          "mean_log_probability": -0.05121200662251656,
+          "perplexity": 1.0525460163565545,
+          "min_probability": 0.1667636063856763
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 756,
+          "total_tokens": 3228
+        },
+        "composite_score": 0.9610263153009009,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 36.61050009727478,
+          "chars": 2749,
+          "words": 408,
+          "text": "DOB: ___________________________________________\n\nSurgical Pathology Report\nFinal\n\n__________________________ SURGICAL PATHOLOGY REPORT\n\nLYMPH NODES, LEFT COMMON PERIAORTIC, DISSECTION\n- FOUR LYMPH ODES WITH NO EVIDENCE OF MALIGNANCY (0/4)\n\nOMENTUM, OMENTECTOMY\n- NO EVIDENCE OF MALIGNANCY\n\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material indicated in the diagnosis).\n\n***Report Electronically Reviewed and Signed Out by .  -\n\n\n__________________________________________________________________________________________\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Called to pick up 'uterus, BSO, and\ncervix,' consisting of a 107 gram uterus (9.2 x 6.2 x 3.3 cm) with attached bilateral fallopian tubes (right 5.7 x 0.7 x 0.6\ncm; left 6 3 x 1.5 x 1.5 cm), and ovaries (right 3 x 1.5 x 0.8 cm; left 3 x 1.4 x 0.7 cm). The uterus is bivalved to show a\npink-tan polypoid exophytic mass occupying the entire endometrial cavity (tumor measures 4.3 x 4.2 cm on the\nposterior half, and 5.0 x 4.2 cm on the anterior half). The specimen is shown to the surgeon. Tissue is taken for\nand tumor bank. Rest for permanents, * by -\n\nMicroscopic Description and Comment:\nThe serous carcinoma in the left fallopian tube exhibits predominantly intraluminal growth, with muscular wall invasion\nidentified. While a second primary arising in the tube is in the differential diagnosis, the consensus of the\nis that this represents a metastasis from the endometrial primary.\n\nHistory:\nThe patient is a ______ year old woman with no further history provided. Operative procedure: Exploratory laparotomy,\nabdominal hysterectomy, and bilateral salpingo-oophorectomy.\n\nSpecimen(s) Received:\nA: UTERUS, BILATERAL TUBES AND OVARIES, CERVIX\nB: LYMPH NODE, LEFT EXTERNAL ILIAC\nC: LYMPH NODE, LEFT OB TURATOR\nD: LYMPH NODE, RIGHT EXTERNAL ILIAC\nE: LYMPH NODE, RIGHT OB TURATOR\nF: LYMPH NODE, RIGHT COMMON/PERIAORTIC\nG: LYMPH NODE, LEFT COMMON/PERIAORTIC\nH: OMENTUM\n\nGross Description:\nThe specimens are received in eight formalin-filled containers, each labeled *\nlabeled \"uterus, BSO, and cervix.\" It consists of a previously described 107 gram uterus measuring 9.2 cm from\nfundus to cervix, 6.2 cm from cornu to cornu, and 3.3 cm in the anterior/posterior plane. Both right and left ovaries and\nfallopian tubes are present. The right ovary shows a tan-yellow, cerebriform external surface, and measures 3.0 x 1.5\nx 0.8 cm. The right fallopian tube is grossly unremarkable and measures 5.7 cm in length and up to 0.7 cm in\n\nPage 2 of 4\n\nPage: 2 of 4\n_________________________________________ ___________________________________________",
+          "confidence": {
+            "mean_probability": 0.9654808903242805,
+            "mean_log_probability": -0.05121200662251656,
+            "perplexity": 1.0525460163565545,
+            "min_probability": 0.1667636063856763
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 756,
+            "total_tokens": 3228
+          },
+          "composite_score": 0.9610263153009009,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 21.166056632995605,
+          "chars": 2492,
+          "words": 402,
+          "text": "DOB:\n\nSurgical Pathology Report\nFinal\n\nSURGICAL PATHOLOGY REPORT\n\nLYMPH NODES, LEFT COMMON PERIAORTIC, DISSECTION\n- FOUR LYMPH ODES WITH NO EVIDENCE OF MALIGNANCY (0/4)\n\nOMENTUM, OMENTECTOMY\n- NO EVIDENCE OF MALIGNANCY\n\n\nBy this signature, I attest that the above diagnosis is based upon my personal\nexamination of the slides(and/or other material Indicated in the diagnosis).\n\n***Report Electronically Reviewed and Signed Out by . -\n\n\nIntraoperative Consultation:\nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Called to pick up 'uterus, BSO, and\ncervix,' consisting of a 107 gram uterus (9.2 x 6.2 x 3.3 cm) with attached bilateral fallopian tubes (right 5.7 x 0.7 x 0.6\ncm; left 6 3 x 1.5 x 1.5 cm), and ovaries (right 3 x 1.5 x 0.8 cm; left 3 x 1.4 x 0.7 cm). The uterus is bivalved to show a\npink-tan polypoid exophytic mass occupying the entire endometrial cavity (tumor measures 4.3 x 4.2 cm on the\nposterior half, and 5.0 x 4.2 cm on the anterior half). The specimen is shown to the surgeon. Tissue is taken for\nand tumor bank. Rest for permanents, * by -\n\nMicroscopic Description and Comment:\nThe serous carcinoma in the left fallopian tube exhibits predominantly intraluminal growth, with muscular wall invasion\nidentified. While a second primary arising in the tube is in the differential diagnosis, the consensus of the\nis that this represents a metastasis from the endometrial primary.\n\nHistory:\nThe patient is a year old woman with no further history provided. Operative procedure: Exploratory laparotomy,\nabdominal hysterectomy, and bilateral salpingo-oophorectomy.\n\nSpecimen(s) Received:\nA: UTERUS, BILATERAL TUBES AND OVARIES, CERVIX\nB: LYMPH NODE, LEFT EXTERNAL ILIAC\nC: LYMPH NODE, LEFT OB TURATOR\nD: LYMPH NODE, RIGHT EXTERNAL ILIAC\nE: LYMPH NODE, RIGHT OB TURATOR\nF: LYMPH NODE, RIGHT COMMON/PERIAORTIC\nG: LYMPH NODE, LEFT COMMON/PERIAORTIC\nH: OMENTUM\n\nGross Description:\nThe specimens are received in eight formalin-filled containers, each labeled *\nlabeled \"uterus, BSO, and cervix.\" It consists of a previously described 107 gram uterus measuring 9.2 cm from\nfundus to cervix, 6.2 cm from cornu to cornu, and 3.3 cm in the anterior/posterior plane. Both right and left ovaries and\nfallopian tubes are present. The right ovary shows a tan-yellow, cerebriform external surface, and measures 3.0 x 1.5\nx 0.8 cm. The right fallopian tube is grossly unremarkable and measures 5.7 cm in length and up to 0.7 cm in\n\nPage 2 of 4\n\nPage: 2 of 4",
+          "confidence": {
+            "mean_probability": 0.9787844726221506,
+            "mean_log_probability": -0.027845633649932155,
+            "perplexity": 1.0282369469853698,
+            "min_probability": 0.22990640216340977
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 738,
+            "total_tokens": 3210
+          },
+          "composite_score": 0.9294106421420516
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 21.247610092163086,
+          "chars": 2787,
+          "words": 408,
+          "text": "DOB: ___________________________\n\nSurgical Pathology Report  \nFinal  \n\n_____________________________ SURGICAL PATHOLOGY REPORT  \n\nLYMPH NODES, LEFT COMMON PERIAORTIC, DISSECTION  \n- FOUR LYMPH ODES WITH NO EVIDENCE OF MALIGNANCY (0/4)  \n\nOMENTUM, OMENTECTOMY  \n- NO EVIDENCE OF MALIGNANCY  \n\nBy this signature, I attest that the above diagnosis is based upon my personal  \nexamination of the slides(and/or other material indicated in the diagnosis).  \n\n***Report Electronically Reviewed and Signed Out by . .  \n\n__________________________________________________________________________________________  \n\nIntraoperative Consultation:  \nAn intraoperative non-microscopic consultation was obtained and interpreted as: \"Called to pick up 'uterus, BSO, and  \ncervix,' consisting of a 107 gram uterus (9.2 x 6.2 x 3.3 cm) with attached bilateral fallopian tubes (right 5.7 x 0.7 x 0.6  \ncm; left 6 3 x 1.5 x 1.5 cm), and ovaries (right 3 x 1.5 x 0.8 cm; left 3 x 1.4 x 0.7 cm). The uterus is bivalved to show a  \npink-tan polypoid exophytic mass occupying the entire endometrial cavity (tumor measures 4.3 x 4.2 cm on the  \nposterior half, and 5.0 x 4.2 cm on the anterior half). The specimen is shown to the surgeon. Tissue is taken for  \nand tumor bank. Rest for permanents, * by -  \n\nMicroscopic Description and Comment:  \nThe serous carcinoma in the left fallopian tube exhibits predominantly intraluminal growth, with muscular wall invasion  \nidentified. While a second primary arising in the tube is in the differential diagnosis, the consensus of the  \nis that this represents a metastasis from the endometrial primary.  \n\nHistory:  \nThe patient is a ______ year old woman with no further history provided. Operative procedure: Exploratory laparotomy,  \nabdominal hysterectomy, and bilateral salpingo-oophorectomy.  \n\nSpecimen(s) Received:  \nA: UTERUS, BILATERAL TUBES AND OVARIES, CERVIX  \nB: LYMPH NODE, LEFT EXTERNAL ILIAC  \nC: LYMPH NODE, LEFT OB TURATOR  \nD: LYMPH NODE, RIGHT EXTERNAL ILIAC  \nE: LYMPH NODE, RIGHT OB TURATOR  \nF: LYMPH NODE, RIGHT COMMON/PERIAORTIC  \nG: LYMPH NODE, LEFT COMMON/PERIAORTIC  \nH: OMENTUM  \n\nGross Description:  \nThe specimens are received in eight formalin-filled containers, each labeled *  \nlabeled \"uterus, BSO, and cervix.\" It consists of a previously described 107 gram uterus measuring 9.2 cm from  \nfundus to cervix, 6.2 cm from cornu to cornu, and 3.3 cm in the anterior/posterior plane. Both right and left ovaries and  \nfallopian tubes are present. The right ovary shows a tan-yellow, cerebriform external surface, and measures 3.0 x 1.5  \nx 0.8 cm. The right fallopian tube is grossly unremarkable and measures 5.7 cm in length and up to 0.7 cm in  \n\nPage 2 of 4  \n\nPage: 2 of 4  \n__________________________  \n__________________________",
+          "confidence": {
+            "mean_probability": 0.9691450330400854,
+            "mean_log_probability": -0.044785026041666655,
+            "perplexity": 1.0458030153278761,
+            "min_probability": 0.17096148188278648
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 769,
+            "total_tokens": 3241
+          },
+          "composite_score": 0.917422370206989
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 38.16225981712341,
+        "chars": 3523,
+        "words": 590,
+        "text": "Surgical Pathology Report  \nFinal  \n\nSURGICAL PATHOLOGY REPORT  \ndiameter. The left ovary shows a similar tan-yellow cerebriform external surface, and measures 3.0 x 1.4 x 0.7 cm.  \nThe left fallopian tube measures 6.3 cm in length. The distal third of the left fallopian tube is enlarged up to 1.5 cm in  \ndimension. The serosal surface of the uterus is intact and shows no gross involvement by tumor. The uterus has been  \npreviously bivalved to show a fungating lesion, virtually filling the endometrial cavity and grossly extending to the  \nsuperior aspect of the lower uterine segment. Tumor does not extend to the endocervix. Both the anterior and  \nposterior uterine corpus are sectioned. This shows tumor infiltration 3 mm into an 11 mm myometrium in the fundic  \naspect of the endomyometrium. Labeled A1 - posterior cervix and lower uterine segment; A2 - anterior cervix and  \nlower uterine segment; A3 to A5 - tumor in anterior endomyometrium; A6, A7 - tumor in posterior endomyometrium; A8  \n- tumor in fundus; A9 - right fallopian tube and ovary; A10 - left ovary and non-tumor fallopian tube; A11, A12 - sections  \nof fallopian tube tumor. Jar 2.  \n\nThe second container is labeled \"left external iliac.\" It contains portions of fibrofatty tissue measuring 3.5 x 3.0 x 1.0  \ncm. From this, five potential lymph nodes are dissected. Labeled B1 - one lymph node bisected; B2 - four lymph  \nnodes. Jar 1.  \n\nThe third container is labeled \"left obturator.\" It holds a portion of fibrofatty tissue measuring 3.d x 2.5 x 1.3 cm. From  \nthis, one large and one small lymph node are dissected. Labeled C1 - small lymph node; C2 - one lymph node,  \nbisected. Jar 0.  \n\nThe fourth container is labeled \"right external iliac.\" It holds a portion of fibrofatty tissue measuring 4.0 x 3.5 x 1.3 cm.  \nFrom this, eight potential lymph nodes are dissected. Labeled D1 - one lymph node bisected; D2 - four lymph nodes;  \nD3 - one lymph node bisected; D4 - two lymph nodes. Jar 1.  \n\nThe fifth container is labeled \"right obturator.\" It holds a portion of fibrofatty tissue measuring 4.5 x 2.8 x 1.8 cm. From  \nthis, eight potential lymph nodes are dissected. Labeled E1 - four lymph nodes; E2 - two lymph nodes; E3 - two lymph  \nnodes. Jar 1.  \n\nThe sixth container is labeled \"right common periaortic lymph nodes.\" It consists of a portion of fibrofatty tissue  \nmeasuring 5.0 x 3.0 x 1.8 cm. From this, five potential lymph nodes are dissected. Labeled F1 - one lymph node,  \nbisected; F2 - two lymph nodes; F3 - two lymph nodes. Jar 0.  \n\nThe seventh container is labeled \"left common periaortic.\" It consists of two portions of fibrofatty tissue measuring 3.0  \nx 2.3 x 1.1 cm in aggregate. From this, four potential lymph nodes are dissected. Labeled G1 - three lymph nodes; G2  \n- one lymph node bisected. Jar 0.  \n\nThe eighth container is labeled \"omentum.\" It holds a portion of omentum measuring 20.0 x 7.5 x 1.0 cm. Sectioned to  \nshow no gross evidence of tumor. Labeled H1 to H5. Jar 2.  \n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, serous papillary type  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 11 mm  \n\nLOWER UTERINE SEGMENT INVOLVEMENT  \n(does not change the stage)  \nThe lower uterine segment is involved by tumor  \n\nENDOCERVICAL INVOLVEMENT  \n\nPage 3 of 4  \n\nPage: 3 of 4",
+        "confidence": {
+          "mean_probability": 0.9965420300407708,
+          "mean_log_probability": -0.0038174211576846306,
+          "perplexity": 1.003824716790379,
+          "min_probability": 0.6807215094579989
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 1003,
+          "total_tokens": 3475
+        },
+        "composite_score": 0.9969576769024135,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 38.16225981712341,
+          "chars": 3523,
+          "words": 590,
+          "text": "Surgical Pathology Report  \nFinal  \n\nSURGICAL PATHOLOGY REPORT  \ndiameter. The left ovary shows a similar tan-yellow cerebriform external surface, and measures 3.0 x 1.4 x 0.7 cm.  \nThe left fallopian tube measures 6.3 cm in length. The distal third of the left fallopian tube is enlarged up to 1.5 cm in  \ndimension. The serosal surface of the uterus is intact and shows no gross involvement by tumor. The uterus has been  \npreviously bivalved to show a fungating lesion, virtually filling the endometrial cavity and grossly extending to the  \nsuperior aspect of the lower uterine segment. Tumor does not extend to the endocervix. Both the anterior and  \nposterior uterine corpus are sectioned. This shows tumor infiltration 3 mm into an 11 mm myometrium in the fundic  \naspect of the endomyometrium. Labeled A1 - posterior cervix and lower uterine segment; A2 - anterior cervix and  \nlower uterine segment; A3 to A5 - tumor in anterior endomyometrium; A6, A7 - tumor in posterior endomyometrium; A8  \n- tumor in fundus; A9 - right fallopian tube and ovary; A10 - left ovary and non-tumor fallopian tube; A11, A12 - sections  \nof fallopian tube tumor. Jar 2.  \n\nThe second container is labeled \"left external iliac.\" It contains portions of fibrofatty tissue measuring 3.5 x 3.0 x 1.0  \ncm. From this, five potential lymph nodes are dissected. Labeled B1 - one lymph node bisected; B2 - four lymph  \nnodes. Jar 1.  \n\nThe third container is labeled \"left obturator.\" It holds a portion of fibrofatty tissue measuring 3.d x 2.5 x 1.3 cm. From  \nthis, one large and one small lymph node are dissected. Labeled C1 - small lymph node; C2 - one lymph node,  \nbisected. Jar 0.  \n\nThe fourth container is labeled \"right external iliac.\" It holds a portion of fibrofatty tissue measuring 4.0 x 3.5 x 1.3 cm.  \nFrom this, eight potential lymph nodes are dissected. Labeled D1 - one lymph node bisected; D2 - four lymph nodes;  \nD3 - one lymph node bisected; D4 - two lymph nodes. Jar 1.  \n\nThe fifth container is labeled \"right obturator.\" It holds a portion of fibrofatty tissue measuring 4.5 x 2.8 x 1.8 cm. From  \nthis, eight potential lymph nodes are dissected. Labeled E1 - four lymph nodes; E2 - two lymph nodes; E3 - two lymph  \nnodes. Jar 1.  \n\nThe sixth container is labeled \"right common periaortic lymph nodes.\" It consists of a portion of fibrofatty tissue  \nmeasuring 5.0 x 3.0 x 1.8 cm. From this, five potential lymph nodes are dissected. Labeled F1 - one lymph node,  \nbisected; F2 - two lymph nodes; F3 - two lymph nodes. Jar 0.  \n\nThe seventh container is labeled \"left common periaortic.\" It consists of two portions of fibrofatty tissue measuring 3.0  \nx 2.3 x 1.1 cm in aggregate. From this, four potential lymph nodes are dissected. Labeled G1 - three lymph nodes; G2  \n- one lymph node bisected. Jar 0.  \n\nThe eighth container is labeled \"omentum.\" It holds a portion of omentum measuring 20.0 x 7.5 x 1.0 cm. Sectioned to  \nshow no gross evidence of tumor. Labeled H1 to H5. Jar 2.  \n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, serous papillary type  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 11 mm  \n\nLOWER UTERINE SEGMENT INVOLVEMENT  \n(does not change the stage)  \nThe lower uterine segment is involved by tumor  \n\nENDOCERVICAL INVOLVEMENT  \n\nPage 3 of 4  \n\nPage: 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9965420300407708,
+            "mean_log_probability": -0.0038174211576846306,
+            "perplexity": 1.003824716790379,
+            "min_probability": 0.6807215094579989
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1003,
+            "total_tokens": 3475
+          },
+          "composite_score": 0.9969576769024135,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 45.15526342391968,
+          "chars": 3523,
+          "words": 590,
+          "text": "Surgical Pathology Report  \nFinal  \n\nSURGICAL PATHOLOGY REPORT  \ndiameter. The left ovary shows a similar tan-yellow cerebriform external surface, and measures 3.0 x 1.4 x 0.7 cm.  \nThe left fallopian tube measures 6.3 cm in length. The distal third of the left fallopian tube is enlarged up to 1.5 cm in  \ndimension. The serosal surface of the uterus is intact and shows no gross involvement by tumor. The uterus has been  \npreviously bivalved to show a fungating lesion, virtually filling the endometrial cavity and grossly extending to the  \nsuperior aspect of the lower uterine segment. Tumor does not extend to the endocervix. Both the anterior and  \nposterior uterine corpus are sectioned. This shows tumor infiltration 3 mm into an 11 mm myometrium in the fundic  \naspect of the endomyometrium. Labeled A1 - posterior cervix and lower uterine segment; A2 - anterior cervix and  \nlower uterine segment; A3 to A5 - tumor in anterior endomyometrium; A6, A7 - tumor in posterior endomyometrium; A8  \n- tumor in fundus; A9 - right fallopian tube and ovary; A10 - left ovary and non-tumor fallopian tube; A11, A12 - sections  \nof fallopian tube tumor. Jar 2.  \n\nThe second container is labeled \"left external iliac.\" It contains portions of fibrofatty tissue measuring 3.5 x 3.0 x 1.0  \ncm. From this, five potential lymph nodes are dissected. Labeled B1 - one lymph node bisected; B2 - four lymph  \nnodes. Jar 1.  \n\nThe third container is labeled \"left obturator.\" It holds a portion of fibrofatty tissue measuring 3.d x 2.5 x 1.3 cm. From  \nthis, one large and one small lymph node are dissected. Labeled C1 - small lymph node; C2 - one lymph node,  \nbisected. Jar 0.  \n\nThe fourth container is labeled \"right external iliac.\" It holds a portion of fibrofatty tissue measuring 4.0 x 3.5 x 1.3 cm.  \nFrom this, eight potential lymph nodes are dissected. Labeled D1 - one lymph node bisected; D2 - four lymph nodes;  \nD3 - one lymph node bisected; D4 - two lymph nodes. Jar 1.  \n\nThe fifth container is labeled \"right obturator.\" It holds a portion of fibrofatty tissue measuring 4.5 x 2.8 x 1.8 cm. From  \nthis, eight potential lymph nodes are dissected. Labeled E1 - four lymph nodes; E2 - two lymph nodes; E3 - two lymph  \nnodes. Jar 1.  \n\nThe sixth container is labeled \"right common periaortic lymph nodes.\" It consists of a portion of fibrofatty tissue  \nmeasuring 5.0 x 3.0 x 1.8 cm. From this, five potential lymph nodes are dissected. Labeled F1 - one lymph node,  \nbisected; F2 - two lymph nodes; F3 - two lymph nodes. Jar 0.  \n\nThe seventh container is labeled \"left common periaortic.\" It consists of two portions of fibrofatty tissue measuring 3.0  \nx 2.3 x 1.1 cm in aggregate. From this, four potential lymph nodes are dissected. Labeled G1 - three lymph nodes; G2  \n- one lymph node bisected. Jar 0.  \n\nThe eighth container is labeled \"omentum.\" It holds a portion of omentum measuring 20.0 x 7.5 x 1.0 cm. Sectioned to  \nshow no gross evidence of tumor. Labeled H1 to H5. Jar 2.  \n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, serous papillary type  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 11 mm  \n\nLOWER UTERINE SEGMENT INVOLVEMENT  \n(does not change the stage)  \nThe lower uterine segment is involved by tumor  \n\nENDOCERVICAL INVOLVEMENT  \n\nPage 3 of 4  \n\nPage: 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9964629706864713,
+            "mean_log_probability": -0.003930220558882235,
+            "perplexity": 1.0039379540037652,
+            "min_probability": 0.6575950254327495
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1003,
+            "total_tokens": 3475
+          },
+          "composite_score": 0.9470247258588474
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 40.024640798568726,
+          "chars": 3523,
+          "words": 590,
+          "text": "Surgical Pathology Report  \nFinal  \n\nSURGICAL PATHOLOGY REPORT  \ndiameter. The left ovary shows a similar tan-yellow cerebriform external surface, and measures 3.0 x 1.4 x 0.7 cm.  \nThe left fallopian tube measures 6.3 cm in length. The distal third of the left fallopian tube is enlarged up to 1.5 cm in  \ndimension. The serosal surface of the uterus is intact and shows no gross involvement by tumor. The uterus has been  \npreviously bivalved to show a fungating lesion, virtually filling the endometrial cavity and grossly extending to the  \nsuperior aspect of the lower uterine segment. Tumor does not extend to the endocervix. Both the anterior and  \nposterior uterine corpus are sectioned. This shows tumor infiltration 3 mm into an 11 mm myometrium in the fundic  \naspect of the endomyometrium. Labeled A1 - posterior cervix and lower uterine segment; A2 - anterior cervix and  \nlower uterine segment; A3 to A5 - tumor in anterior endomyometrium; A6, A7 - tumor in posterior endomyometrium; A8  \n- tumor in fundus; A9 - right fallopian tube and ovary; A10 - left ovary and non-tumor fallopian tube; A11, A12 - sections  \nof fallopian tube tumor. Jar 2.  \n\nThe second container is labeled \"left external iliac.\" It contains portions of fibrofatty tissue measuring 3.5 x 3.0 x 1.0  \ncm. From this, five potential lymph nodes are dissected. Labeled B1 - one lymph node bisected; B2 - four lymph  \nnodes. Jar 1.  \n\nThe third container is labeled \"left obturator.\" It holds a portion of fibrofatty tissue measuring 3.d x 2.5 x 1.3 cm. From  \nthis, one large and one small lymph node are dissected. Labeled C1 - small lymph node; C2 - one lymph node,  \nbisected. Jar 0.  \n\nThe fourth container is labeled \"right external iliac.\" It holds a portion of fibrofatty tissue measuring 4.0 x 3.5 x 1.3 cm.  \nFrom this, eight potential lymph nodes are dissected. Labeled D1 - one lymph node bisected; D2 - four lymph nodes;  \nD3 - one lymph node bisected; D4 - two lymph nodes. Jar 1.  \n\nThe fifth container is labeled \"right obturator.\" It holds a portion of fibrofatty tissue measuring 4.5 x 2.8 x 1.8 cm. From  \nthis, eight potential lymph nodes are dissected. Labeled E1 - four lymph nodes; E2 - two lymph nodes; E3 - two lymph  \nnodes. Jar 1.  \n\nThe sixth container is labeled \"right common periaortic lymph nodes.\" It consists of a portion of fibrofatty tissue  \nmeasuring 5.0 x 3.0 x 1.8 cm. From this, five potential lymph nodes are dissected. Labeled F1 - one lymph node,  \nbisected; F2 - two lymph nodes; F3 - two lymph nodes. Jar 0.  \n\nThe seventh container is labeled \"left common periaortic.\" It consists of two portions of fibrofatty tissue measuring 3.0  \nx 2.3 x 1.1 cm in aggregate. From this, four potential lymph nodes are dissected. Labeled G1 - three lymph nodes; G2  \n- one lymph node bisected. Jar 0.  \n\nThe eighth container is labeled \"omentum.\" It holds a portion of omentum measuring 20.0 x 7.5 x 1.0 cm. Sectioned to  \nshow no gross evidence of tumor. Labeled H1 to H5. Jar 2.  \n\nSYNOPTIC REPORTING FORM FOR MALIGNANT ENDOMETRIAL TUMORS  \n\nHISTOPATHOLOGIC TYPE  \nThe histologic diagnosis is adenocarcinoma, serous papillary type  \n\nTUMOR INVASION  \nInvasive tumor is present with superficial invasion into the luminal 1/3 of the myometrium  \n\nTUMOR SIZE  \nThe tumor invades to a depth of 3 mm  \nThe myometrial thickness is 11 mm  \n\nLOWER UTERINE SEGMENT INVOLVEMENT  \n(does not change the stage)  \nThe lower uterine segment is involved by tumor  \n\nENDOCERVICAL INVOLVEMENT  \n\nPage 3 of 4  \n\nPage: 3 of 4",
+          "confidence": {
+            "mean_probability": 0.9961509577132308,
+            "mean_log_probability": -0.004288753493013972,
+            "perplexity": 1.004297963357849,
+            "min_probability": 0.6581035429040905
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 1003,
+            "total_tokens": 3475
+          },
+          "composite_score": 0.946754466637853
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

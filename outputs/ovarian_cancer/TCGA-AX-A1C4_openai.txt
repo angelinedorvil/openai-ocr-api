@@ -1,0 +1,300 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1C4\TCGA-AX-A1C4.pdf
+Processing Date: 2026-03-08 12:56:59
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Surgical Pathology
+
+***Not Official Copy***: Surgical Pathology
+Flowsheet Date:
+Result status: Final
+Result title: Surgical Pathology
+Performed by: PATHOLOGY -STAFF,
+Verified by: PATHOLOGY -STAFF,
+Encounter info:
+
+* Final Report *
+
+Surgical Pathology
+
+CASE NUMBER:
+
+FINAL DIAGNOSIS:
+A. Abdomen, anterior, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+Colic gutter, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+C. Omentum, omentectomy:
+- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.
+- No evidence of malignancy.
+D. Uterus, cervix, fallopian tubes and ovaries
+
+MACROSCOPIC
+- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy
+- Tumor Site: Endometrium at cornu/fundus of right side of the uterus
+- Tumor Size: 3.5 cm largest dimension.
+- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.
+
+MICROSCOPIC
+- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized
+- Histologic Grade: G2
+
+Printed by:
+Printed on:
+
+Page 1 of 6
+(Continued)
+
+================================================================================
+PAGE 2
+================================================================================
+Surgical Pathology
+
+***Not Official Copy***: Surgical Pathology
+Flowsheet Date:
+Result status:	Final
+Result title:	Surgical Pathology
+Performed by:	PATHOLOGY -STAFF,
+Verified by:	PATHOLOGY -STAFF,
+Encounter info:
+
+* Final Report *
+
+Surgical Pathology
+
+CASE NUMBER:
+
+FINAL DIAGNOSIS:
+A.  Abdomen, anterior, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+b. Colic gutter, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+C. Omentum, omentectomy:
+- Benign fibroadipose tissue with focal fat necrosis and multinucleated giant cells.
+- No evidence of malignancy.
+D. Uterus, cervix, fallopian tubes and ovaries
+
+MACROSCOPIC
+- Specimen Type: Total hysterectomy and bilateral salpingo-oophorectomy
+- Tumor Site: Endometrium at cornu/fundus of right side of the uterus
+- Tumor Size: 3.5 cm largest dimension.
+- Other Organs Present: Right ovary, Right fallopian tube, Left fallopian tube.
+
+MICROSCOPIC
+- Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized
+- Histologic Grade: G2
+
+Printed by:
+inted on:		Page 1 of 6
+(Continued)
+
+================================================================================
+PAGE 3
+================================================================================
+- Surgical Pathology
+* Final Report *
+
+- Myometrial Invasion: Present, less than 50% of myometrial wall involved.
+  - Deepest myometrial invasion: 0.3 cm (D13).
+  - Myometrial thickness in the area of deepest invasion: 1.9 cm.
+
+PATHOLOGIC STAGING
+- Primary Tumor (pT): pT1b
+- Regional Lymph Nodes (pN): pN0 (0/21)
+- Distant Metastasis (pM): pMX
+
+- Margins: Uninvolved by carcinoma
+- Venous/Lymphatic (large/small vessel) Invasion: Absent
+- Additional Pathologic Findings:
+  - Cervix with squamous metaplasia and nabothian cysts.
+  - Adenomyosis.
+  - Numerous leiomyomata (largest one is 10 cm), some are hyalinized and partially calcified.
+  - Right ovary with benign Brenner's tumor (2 cm).
+  - Left ovary is surgically absent.
+  - Right and left fallopian tubes are negative for tumor.
+
+E. Pelvic sidewall, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+
+Cul-de-sac, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+
+G. Bladder peritoneum, biopsy:
+- Fibroadipose tissue with no evidence of malignancy.
+
+H. Lymph nodes, left pelvic, excision:
+- Five benign lymph nodes negative for malignancy (0/5).
+
+I. Lymph nodes, left para-aortic, excision:
+- Four benign lymph nodes negative for malignancy (0/4).
+
+J. Lymph nodes, right pelvic, excision:
+- Eight benign lymph nodes negative for malignancy (0/8).
+
+K. Lymph nodes, right para-aortic, excision:
+- Four benign lymph nodes negative for malignancy (0/4).
+
+L. Appendix, appendectomy:
+- Negative for malignancy.
+
+I attest that the above diagnosis is based upon my personal
+
+Printed by:
+Printed on: 
+
+Page 2 of 6
+(Continued)
+
+================================================================================
+PAGE 4
+================================================================================
+Surgical Pathology
+* Final Report *
+
+examination of the slides (and/or other material) and that I have
+reviewed and approved this report.
+
+CLINICAL HISTORY:
+Endometrial adenocarcinoma
+
+GROSS DESCRIPTION:
+A. The specimen is received in formalin with proper patient
+identification, labeled "anterior abdomen" and consists of three
+pieces of soft tan tissue measuring 1.6 x 1.0 x 0.4 cm in aggregate.
+The specimen is entirely submitted in one cassette.
+
+B. The specimen is received in formalin with proper patient
+identification, labeled "colic gutter is" and consists of four pieces
+of soft tan tissue measuring 0.9 x 0.8 x 0.3 cm in aggregate. The
+specimen is entirely submitted in one cassette.
+
+C. Specimen is received in formalin with proper patient
+identification labeled "omentum" and consists of an omentectomy
+specimen measuring 15 x 10 x 1.8 cm. The specimen is sectioned to
+reveal unremarkable fibroadipose tissue. No nodules or mass lesions
+are identified. The specimen is representatively submitted in four
+ssettes.
+Specimen is received fresh with proper patient identification
+labeled "Uterus, cervix, tubes, and ovaries". The specimen weighs
+1990 grams and measures 19 x 17 x 16 cm. The external surface of the
+uterus is distorted by multiple firm fibroid nodules. The ectocervix
+measures 2.9 cm in diameter with 0.8 cm patent The ectocervical
+mucosa is smooth, glistening and unremarkable. The endocervical canal
+measures 3.5 cm in length and 0.4 cm in diameter with a smooth
+glistening mucosa. The endometrial cavity measures 4.5 cm in length
+and 2.9 cm in width. The cavity is distorted by multiple nodules.
+There is a mass extending from the endometrium into the myometrial
+wall. The tumor measures 3.5 x 3.0 x 3.0 cm (with 3.0 cm representing
+depth from endometrial surface to tumor base). It is friable and has
+a white-tan cut surface with hemorrhagic areas. It extends from the
+anterior aspect of the endometrial cavity in the fundic/cornu region
+to within 1.6 cm of the peritoneum over the anterior portion of the
+uterus. The mass extends to within 2.1 cm of the anterior peritoneal
+surface of the uterus Sectioning through the myometrium
+reveals numerous tan-white whorled, well circumscribed nodules without
+areas of hemorrhage, necrosis, or degeneration. The largest of these
+nodules measures 10 cm in greatest dimension. The right fallopian
+tube measures 7.2 x 0.6 cm with an unremarkable serosa and a pinpoint
+
+Printed by:
+Pinted on:                                                                 Page 3 of 6
+                                                                                 (Continued)
+
+================================================================================
+PAGE 5
+================================================================================
+Surgical Pathology
+* Final Report *
+
+lumen. The right ovary measures 2.6 x 2.4 x 2.0 cm and has an unremarkable granular white-tan appearance both on the external and internal aspects. The left fallopian tube measures 4.5 x 0.6 cm and is distorted by sutures. There is no obvious ovarian tissue on the left side (patient underwent left salpingo-oophorectomy in       ).
+Pieces of fresh tumor are saved for         study. The specimen is representatively submitted in 22 cassettes.
+
+Summary of sections:
+1- anterior cervix
+2- anterior LUS
+3-4 anterior full thickness section of the uterus
+5- posterior cervix
+6- posterior LUS
+7-8 posterior full thickness section of the uterus
+9- tumor to anterior surface of uterus
+10- tumor to anterior surface of uterus (piece cut in half to fit in one cassette)
+11- hemorrhagic area of tumor
+12- tumor and endometrial cavity
+13- tumor and anterior myometrium
+14-16 possible extension of tumor to posterior fundic uterine wall
+17-18 large posterior nodule
+19-20 nodules on the surface of the uterus
+ right tube and ovary
+ left adnexa
+
+E. The specimen is received in formalin with proper patient identification, labeled "pelvic sidewall" and consists of 4 pieces of soft tan tissue measuring 1.2 x 1.0 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.
+
+F. The specimen is received in formalin with proper patient identification, labeled "cul-de-sac" and consists of 4 pieces of soft tan tissue measuring 0.8 x 0.6 x 0.3 cm in aggregate. The specimen is entirely submitted in one cassette.
+
+G. The specimen is received in formalin with proper patient identification, labeled "bladder peritoneum" and consists of 4 pieces of soft tan tissue measuring 1.2 x 0.9 x 0.4 cm in aggregate. The specimen is entirely submitted in one cassette.
+
+H. The specimen is received in formalin with proper patient identification, labeled "left pelvic nodes" and consists of a piece of fibroadipose tissue measuring 6.5 x 4.0 x 1.5 cm. Multiple pink-tan firm lymph nodes are identified ranging from 0.4 to 1.6 cm in greatest
+
+Printed by: 
+Printed on: 
+Page 4 of 6
+(Continued)
+
+================================================================================
+PAGE 6
+================================================================================
+Surgical Pathology
+* Final Report *
+
+dimension. The largest lymph node is bisected and is unremarkable.
+The lymph nodes are entirely submitted in 4 cassettes.
+Summary of sections:
+1-2 possible lymph nodes
+2-largest lymph node bisected
+3-2 possible lymph nodes
+4-one possible lymph node
+
+I. Specimen is received in formalin with proper patient
+identification labeled "left para-aortic nodes" and consists of 2
+pieces of fibroadipose tissue containing multiple lymph nodes ranging
+in size from 0.4-0.7 cm. The specimen is entirely submitted in 2
+cassettes.
+
+J. Specimen is received in formalin with proper patient
+identification labeled "right pelvic nodes" and consists of one piece
+of fibroadipose tissue measuring 6 x 4 x 3 cm. The tissue contains no
+obvious lymph nodes. The fibrous tissue is entirely submitted 5
+cassettes.
+
+K. Specimen is received in formalin with proper patient
+identification labeled "right para-aortic nodes" and consists of one
+piece of fibroadipose tissue containing multiple lymph nodes ranging
+in size from 0.4-0.9 centimeters. Specimen is entirely submitted in 2
+cassettes.
+
+L. The specimen is received in formalin with proper patient
+identification labeled "Appendix" and consists of a vermiform appendix
+measuring 3.2 cm long and 0.3 cm in average diameter with attached
+mesoappendix measuring 3.0 x 1.9 x 1.6 cm. The surface of the appendix
+shows unremarkable serosa. Serial sectioning reveals no lesions or
+signs of inflammation. Representative sections are submitted in one
+cassette.
+
+Receive Date/Time:
+Encounter Number:
+Medical Record Number:
+
+Electronically Signed Out By:
+M.D. on
+
+Printed by:
+Printed on:
+
+Page 5 of 6
+(Continued)

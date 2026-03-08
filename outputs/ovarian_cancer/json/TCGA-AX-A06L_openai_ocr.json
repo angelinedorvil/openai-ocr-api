@@ -1,0 +1,551 @@
+{
+  "pdf": "reports\\TCGA-AX-A06L\\TCGA-AX-A06L.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 19.94155216217041,
+        "chars": 1851,
+        "words": 252,
+        "text": "RUN DATE:  \nRUN TIME:  \nBY:  \nSpecimen Inquiry  \nENT:  \nREG DR:  \nACCT #:  \nAGE/SX: F  \nSTATUS: DIS IN  \nLOC:  \nRM/BED:  \nTLOC:  \nU#:  \nREG:  \nDIS:  \nSPEC #:  \nSTATUS: SOUT  \nObtained:  \nReceived:  \nSubm Dr:  \nCLINICAL HISTORY:  \nHX OF ATYPICAL ENDOMETRIAL HYPERPLASIA. R/O CA; IF CA= GRADE?. DEPTH OF INVASION?. CERVICAL INVOLVEMENT?  \nSPECIMEN/PROCEDURE:  \n1. UTERUS - WITH TUBES,OVARIES  \n2. LYMPH NODE - RIGHT PELVIC  \n3. LYMPH NODE - RIGHT PARA-AORTIC  \n4. LYMPH NODE - LEFT COMMON ILIAC  \n5. LYMPH NODE - LEFT PELVIC  \n6. LYMPH NODE - LEFT PARA-AORTIC  \n7. LYMPH NODE - RIGHT COMMON ILIAC  \nICD-0-3  \nCriteria  \nDiagnosis Discrepancy  \nPrimary Tumor Site Discrepancy  \nHIPAA Discrepancy  \nPrior Malignancy History  \nOral/Synchronous Pri  \nCase is (circle):  \nReviewer Initials  \nDate Reviewed:  \nYes  \nNo  \nIMPRESSION:  \nadenocarcinoma, endometrioid, NOS 8380/3  \nS.th: endometrium C54.1  ml 10/30/11  \n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY WITH BILATERAL SALPINGO-OOPHORECTOMY:  \nENDOMYOMETRIUM:  \n. Adenocarcinoma of endometrium, endometrioid type: FIGO grade 1, nuclear grade 2 (See Checklist).  \n. Carcinoma invades the inner half of the myometrium.  \n. Lymphovascular invasion is not identified.  \n. Leiomyoma (5.5 cm), posterior corpus.  \nCERVIX:  \n. Benign ectocervical and endocervical glandular components with squamous metaplasia and mild chronic cervicitis.  \n. No evidence of dysplasia or malignancy.  \nUTERINE SEROSA:  \n. No evidence of malignancy.  \nOVARIES, BILATERAL:  \n. Atrophic physiologic changes; no evidence of malignancy.  \nFALLOPIAN TUBES, BILATERAL:  \n. Paratubal cyst (left); no evidence of malignancy.  \n2) LYMPH NODES, RIGHT PELVIC, REGIONAL DISSECTION:  \nTen benign lymph nodes (0/10).  \n3) LYMPH NODE, RIGHT PARA-AORTIC, BIOPSY:  \nOne benign lymph node (0/1).  \n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9724967992891405,
+          "mean_log_probability": -0.03405589763779528,
+          "perplexity": 1.034642439180067,
+          "min_probability": 0.2792195190220832
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 636,
+          "total_tokens": 3108
+        },
+        "composite_score": 0.9587525673588109,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 49.7% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.7% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 19.94155216217041,
+          "chars": 1851,
+          "words": 252,
+          "text": "RUN DATE:  \nRUN TIME:  \nBY:  \nSpecimen Inquiry  \nENT:  \nREG DR:  \nACCT #:  \nAGE/SX: F  \nSTATUS: DIS IN  \nLOC:  \nRM/BED:  \nTLOC:  \nU#:  \nREG:  \nDIS:  \nSPEC #:  \nSTATUS: SOUT  \nObtained:  \nReceived:  \nSubm Dr:  \nCLINICAL HISTORY:  \nHX OF ATYPICAL ENDOMETRIAL HYPERPLASIA. R/O CA; IF CA= GRADE?. DEPTH OF INVASION?. CERVICAL INVOLVEMENT?  \nSPECIMEN/PROCEDURE:  \n1. UTERUS - WITH TUBES,OVARIES  \n2. LYMPH NODE - RIGHT PELVIC  \n3. LYMPH NODE - RIGHT PARA-AORTIC  \n4. LYMPH NODE - LEFT COMMON ILIAC  \n5. LYMPH NODE - LEFT PELVIC  \n6. LYMPH NODE - LEFT PARA-AORTIC  \n7. LYMPH NODE - RIGHT COMMON ILIAC  \nICD-0-3  \nCriteria  \nDiagnosis Discrepancy  \nPrimary Tumor Site Discrepancy  \nHIPAA Discrepancy  \nPrior Malignancy History  \nOral/Synchronous Pri  \nCase is (circle):  \nReviewer Initials  \nDate Reviewed:  \nYes  \nNo  \nIMPRESSION:  \nadenocarcinoma, endometrioid, NOS 8380/3  \nS.th: endometrium C54.1  ml 10/30/11  \n1) UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES; HYSTERECTOMY WITH BILATERAL SALPINGO-OOPHORECTOMY:  \nENDOMYOMETRIUM:  \n. Adenocarcinoma of endometrium, endometrioid type: FIGO grade 1, nuclear grade 2 (See Checklist).  \n. Carcinoma invades the inner half of the myometrium.  \n. Lymphovascular invasion is not identified.  \n. Leiomyoma (5.5 cm), posterior corpus.  \nCERVIX:  \n. Benign ectocervical and endocervical glandular components with squamous metaplasia and mild chronic cervicitis.  \n. No evidence of dysplasia or malignancy.  \nUTERINE SEROSA:  \n. No evidence of malignancy.  \nOVARIES, BILATERAL:  \n. Atrophic physiologic changes; no evidence of malignancy.  \nFALLOPIAN TUBES, BILATERAL:  \n. Paratubal cyst (left); no evidence of malignancy.  \n2) LYMPH NODES, RIGHT PELVIC, REGIONAL DISSECTION:  \nTen benign lymph nodes (0/10).  \n3) LYMPH NODE, RIGHT PARA-AORTIC, BIOPSY:  \nOne benign lymph node (0/1).  \n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9724967992891405,
+            "mean_log_probability": -0.03405589763779528,
+            "perplexity": 1.034642439180067,
+            "min_probability": 0.2792195190220832
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 636,
+            "total_tokens": 3108
+          },
+          "composite_score": 0.9587525673588109,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 49.7% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 49.7% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 143.92640614509583,
+          "chars": 8399,
+          "words": 9,
+          "text": "RUN DATE:  \nRUN TIME:  \nBY:  \n                                                                                      UUID:926937F8-6057-4D39-8838-011580ACFE1A\n                                                                                      TCGA-AX-A06L-01A-PR\n                                                                                      Redacted\n                                                                                      ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.988341434831425,
+            "mean_log_probability": -0.01432651220703125,
+            "perplexity": 1.0144296285269818,
+            "min_probability": 0.06147793186675178
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.939265636709374
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 140.8817069530487,
+          "chars": 8471,
+          "words": 9,
+          "text": "RUN DATE:  \nRUN TIME:  \nBY:  \n                                                                                                         UUID:926937F8-6057-4D39-8B38-011580ACFE1A\n                                                                                                         TCGA-AX-A06L-01A-PR\n                                                                                                         Redacted\n                                                                                                         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9900715555612211,
+            "mean_log_probability": -0.0134409453125,
+            "perplexity": 1.0135316808861616,
+            "min_probability": 0.02675312473336294
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.6579442530032718
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 9.833733558654785,
+        "chars": 1229,
+        "words": 147,
+        "text": "```\nSPEC #:\n                                                                                   (Continued) Page: 2\n\nPRESSION: (continued)\n4) LYMPH NODE. LEFT COMMON ILIAC. BIOPSY:\n    One benign lymph node (0/1).\n5) LYMPH NODES, LEFT PELVIC. REGIONAL DISSECTION:\n    Seven benign lymph nodes (0/7).\n6) LYMPH NODES, LEFT PARA-AORTIC, REGIONAL DISSECTION:\n    Three benign lymph nodes (0/3).\n7) LYMPH NODES, RIGHT COMMON ILIAC, REGIONAL DISSECTION:\n    Three benign lymph nodes (0/3).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n    Hysterectomy with bilateral salpingo-oophorectomy\n\nTUMOR SITE\nSpecify location(s), if known:\n    Anterior uterine wall\n\nTUMOR SIZE\n    Greatest dimension: 6.0 cm\n    Additional dimensions: 3.5 x 1.4 cm\n\nOTHER ORGANS PRESENT\n    Right ovary\n    Left ovary\n    Right fallopian tube\n    Left fallopian tube\n\nMICROSCOPIC\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1: 5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n        Maximal depth of myometrial invasion: 8.0 mm\n        Thickness of myometrium in area of maximal tumor invasion: 18.0 mm\n\n                    ** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9705751589190348,
+          "mean_log_probability": -0.045885089635854345,
+          "perplexity": 1.046954098167812,
+          "min_probability": 0.08423523309069478
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 358,
+          "total_tokens": 2830
+        },
+        "composite_score": 0.8878023854795902,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 9.833733558654785,
+          "chars": 1229,
+          "words": 147,
+          "text": "```\nSPEC #:\n                                                                                   (Continued) Page: 2\n\nPRESSION: (continued)\n4) LYMPH NODE. LEFT COMMON ILIAC. BIOPSY:\n    One benign lymph node (0/1).\n5) LYMPH NODES, LEFT PELVIC. REGIONAL DISSECTION:\n    Seven benign lymph nodes (0/7).\n6) LYMPH NODES, LEFT PARA-AORTIC, REGIONAL DISSECTION:\n    Three benign lymph nodes (0/3).\n7) LYMPH NODES, RIGHT COMMON ILIAC, REGIONAL DISSECTION:\n    Three benign lymph nodes (0/3).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n    Hysterectomy with bilateral salpingo-oophorectomy\n\nTUMOR SITE\nSpecify location(s), if known:\n    Anterior uterine wall\n\nTUMOR SIZE\n    Greatest dimension: 6.0 cm\n    Additional dimensions: 3.5 x 1.4 cm\n\nOTHER ORGANS PRESENT\n    Right ovary\n    Left ovary\n    Right fallopian tube\n    Left fallopian tube\n\nMICROSCOPIC\n\nHISTOLOGIC TYPE\n    Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n    G1: 5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n    Invasion present\n        Maximal depth of myometrial invasion: 8.0 mm\n        Thickness of myometrium in area of maximal tumor invasion: 18.0 mm\n\n                    ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9705751589190348,
+            "mean_log_probability": -0.045885089635854345,
+            "perplexity": 1.046954098167812,
+            "min_probability": 0.08423523309069478
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 358,
+            "total_tokens": 2830
+          },
+          "composite_score": 0.8878023854795902,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 9.956734657287598,
+          "chars": 1251,
+          "words": 145,
+          "text": "SPEC #:\n                                                                                               (Continued) Page: 2\n\nPRESSION: (continued)\n4) LYMPH NODE. LEFT COMMON ILIAC. BIOPSY:\n     One benign lymph node (0/1).\n5) LYMPH NODES, LEFT PELVIC. REGIONAL DISSECTION:\n     Seven benign lymph nodes (0/7).\n6) LYMPH NODES, LEFT PARA-AORTIC, REGIONAL DISSECTION:\n     Three benign lymph nodes (0/3).\n7) LYMPH NODES, RIGHT COMMON ILIAC, REGIONAL DISSECTION:\n     Three benign lymph nodes (0/3).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n     Hysterectomy with bilateral salpingo-oophorectomy\n\nTUMOR SITE\nSpecify location(s), if known:\n     Anterior uterine wall\n\nTUMOR SIZE\n     Greatest dimension: 6.0 cm\n     Additional dimensions: 3.5 x 1.4 cm\n\nOTHER ORGANS PRESENT\n     Right ovary\n     Left ovary\n     Right fallopian tube\n     Left fallopian tube\n\nMICROSCOPIC\n\nHISTOLOGIC TYPE\n     Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n     G1: 5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n     Invasion present\n          Maximal depth of myometrial invasion: 8.0 mm\n          Thickness of myometrium in area of maximal tumor invasion: 18.0 mm\n\n                   ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9676627175476054,
+            "mean_log_probability": -0.05346771468926554,
+            "perplexity": 1.0549229327031073,
+            "min_probability": 0.028987342783835454
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 355,
+            "total_tokens": 2827
+          },
+          "composite_score": 0.5881903647795632
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 8.08081579208374,
+          "chars": 1245,
+          "words": 145,
+          "text": "SPEC #:\n                                                                                         (Continued) Page: 2\n\nPRESSION: (continued)\n4) LYMPH NODE. LEFT COMMON ILIAC. BIOPSY:\n     One benign lymph node (0/1).\n5) LYMPH NODES, LEFT PELVIC. REGIONAL DISSECTION:\n     Seven benign lymph nodes (0/7).\n6) LYMPH NODES, LEFT PARA-AORTIC, REGIONAL DISSECTION:\n     Three benign lymph nodes (0/3).\n7) LYMPH NODES. RIGHT COMMON ILIAC, REGIONAL DISSECTION:\n     Three benign lymph nodes (0/3).\n\nENDOMETRIAL CARCINOMA CHECKLIST:\n\nMACROSCOPIC\n\nSPECIMEN TYPE\n     Hysterectomy with bilateral salpingo-oophorectomy\n\nTUMOR SITE\nSpecify location(s). if known:\n     Anterior uterine wall\n\nTUMOR SIZE\n     Greatest dimension: 6.0 cm\n     Additional dimensions: 3.5 x 1.4 cm\n\nOTHER ORGANS PRESENT\n     Right ovary\n     Left ovary\n     Right fallopian tube\n     Left fallopian tube\n\nMICROSCOPIC\n\nHISTOLOGIC TYPE\n     Endometrioid adenocarcinoma, not otherwise characterized\n\nHISTOLOGIC GRADE\n     G1: 5% or less nonsquamous solid growth\n\nMYOMETRIAL INVASION\n     Invasion present\n          Maximal depth of myometrial invasion: 8.0 mm\n          Thickness of myometrium in area of maximal tumor invasion: 18.0 mm\n\n                   ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9660550555806674,
+            "mean_log_probability": -0.053464019774011294,
+            "perplexity": 1.0549190348594724,
+            "min_probability": 0.0645816476926659
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 355,
+            "total_tokens": 2827
+          },
+          "composite_score": 0.8397044800149273
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 6.821787118911743,
+        "chars": 1079,
+        "words": 134,
+        "text": "SPEC #:                                                                                   (Continued) Page: 3\n\nPRESSION: (continued)\nThe % of myometrial involvement: 44%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (PT)\nTNM (FIGO)\npT1 (1): Tumor confined to corpus uteri\npT1b (IB): Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\npN0: No regional lymph node metastasis\n        Number examined: 25\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\npMX: Cannot be assessed\n\nMARGINS\nUninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin: 10 mm from uterine serosal surface\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\nAbsent\n\nADDITIONAL PATHOLOGIC FINDINGS\nComplex endometrial hyperplasia with atypia\nEndometrial atrophy\nLeiomyoma\nPathologic TNM: pT1b N0 MX\n\nDictated by:\nEntered:\n\nCOMMENT:\nRepresentative sections reviewed at\n        Entered:\n\nSPECIAL STAINS/PROCEDURES:\nFROZEN SECTION SUMMARY:\n        One initial frozen section (1AF).\n        One additional frozen section (1BF).\n\nDictated by:\n\n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9589207559383035,
+          "mean_log_probability": -0.06356966445182725,
+          "perplexity": 1.065633720004647,
+          "min_probability": 0.08433291832350441
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 302,
+          "total_tokens": 2774
+        },
+        "composite_score": 0.8600839205637053,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 6.821787118911743,
+          "chars": 1079,
+          "words": 134,
+          "text": "SPEC #:                                                                                   (Continued) Page: 3\n\nPRESSION: (continued)\nThe % of myometrial involvement: 44%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (PT)\nTNM (FIGO)\npT1 (1): Tumor confined to corpus uteri\npT1b (IB): Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\npN0: No regional lymph node metastasis\n        Number examined: 25\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\npMX: Cannot be assessed\n\nMARGINS\nUninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin: 10 mm from uterine serosal surface\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\nAbsent\n\nADDITIONAL PATHOLOGIC FINDINGS\nComplex endometrial hyperplasia with atypia\nEndometrial atrophy\nLeiomyoma\nPathologic TNM: pT1b N0 MX\n\nDictated by:\nEntered:\n\nCOMMENT:\nRepresentative sections reviewed at\n        Entered:\n\nSPECIAL STAINS/PROCEDURES:\nFROZEN SECTION SUMMARY:\n        One initial frozen section (1AF).\n        One additional frozen section (1BF).\n\nDictated by:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9589207559383035,
+            "mean_log_probability": -0.06356966445182725,
+            "perplexity": 1.065633720004647,
+            "min_probability": 0.08433291832350441
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 302,
+            "total_tokens": 2774
+          },
+          "composite_score": 0.8600839205637053,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 6.575843095779419,
+          "chars": 1053,
+          "words": 134,
+          "text": "SPEC #:                                                                                         (Continued) Page: 3\n\nPRESSION: (continued)\nThe % of myometrial involvement: 44%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (pT)\nTNM (FIGO)\npT1 (1): Tumor confined to corpus uteri\npT1b (IB): Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\npN0: No regional lymph node metastasis\nNumber examined: 25\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\npMX: Cannot be assessed\n\nMARGINS\nUninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin: 10 mm from uterine serosal surface\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\nAbsent\n\nADDITIONAL PATHOLOGIC FINDINGS\nComplex endometrial hyperplasia with atypia\nEndometrial atrophy\nLeiomyoma\nPathologic TNM: pT1b N0 MX\n\nDictated by:\nEntered:\n\nCOMMENT:\nRepresentative sections reviewed at\nEntered:\n\nSPECIAL STAINS/PROCEDURES:\nFROZEN SECTION SUMMARY:\nOne initial frozen section (1AF).\nOne additional frozen section (1BF).\n\nDictated by:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9672764392266981,
+            "mean_log_probability": -0.05336413804713805,
+            "perplexity": 1.0548136729865096,
+            "min_probability": 0.07233045554452268
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 298,
+            "total_tokens": 2770
+          },
+          "composite_score": 0.821532887149439
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 24.749788999557495,
+          "chars": 1061,
+          "words": 134,
+          "text": "SPEC #:                                                                 (Continued) Page: 3\n\nPRESSION: (continued)\nThe % of myometrial involvement: 44%\n\nEXTENT OF INVASION\n\nPRIMARY TUMOR (PT)\nTNM (FIGO)\npT1 (1): Tumor confined to corpus uteri\npT1b (IB): Tumor invades less than one-half of the myometrium\n\nREGIONAL LYMPH NODES (pN)\nTNM (FIGO)\npNO: No regional lymph node metastasis\n        Number examined: 25\n\nDISTANT METASTASIS (pM)\nTNM (FIGO)\npMX: Cannot be assessed\n\nMARGINS\nUninvolved by invasive carcinoma\nDistance of invasive carcinoma from closest margin: 10 mm from uterine serosal surface\n\nVENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)\nAbsent\n\nADDITIONAL PATHOLOGIC FINDINGS\nComplex endometrial hyperplasia with atypia\nEndometrial atrophy\nLeiomyoma\nPathologic TNM: pT1b N0 MX\n\nDictated by:\nEntered:\n\nCOMMENT:\nRepresentative sections reviewed at\n        Entered:\n\nSPECIAL STAINS/PROCEDURES:\nFROZEN SECTION SUMMARY:\n        One initial frozen section (1AF).\n        One additional frozen section (1BF).\n\nDictated by:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9604807048235265,
+            "mean_log_probability": -0.06181547491638796,
+            "perplexity": 1.063766035099995,
+            "min_probability": 0.04642533294937975
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 300,
+            "total_tokens": 2772
+          },
+          "composite_score": 0.5715851745367805
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 4,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 24.382466793060303,
+        "chars": 2885,
+        "words": 475,
+        "text": "SPEC #:                                                                                      (Continued) Page: 4\n\nGROSS DESCRIPTION:\n1) Received fresh labeled with the patient's name and \"uterus. tubes. and ovaries. is a 250 gram hysterectomy specimen including an unopened uterus (11.2 cm from fundus to cervix, 6.0 cm from cornu to cornu, 9.0 cm from anterior to posterior), right fallopian tube (5.0 cm in length x 0.5 cm in diameter), right ovary (1.7 x 1.2 x 0.4 cm), left fallopian tube (4.0 cm in length x 0.5 cm in diameter), and left ovary (2.0 x 1.4 x 0.5 cm). The serosal surface of the uterus is pink to tan, smooth and glistening. The ectocervix (1.5 x 1.5 cm) covered with pink to tan mucosa. The external os is 1.2 x 0.2 cm. The endocervical canal is 3.5 cm in length with a herringbone appearance. There is a 6.0 x 3.5 x 1.4 cm pink to tan friable mass on the anterior wall of the uterus. The cut surface shows tumor invading into the inner half of the myometrium. There is a 5.5 x 5.0 x 4.5 cm intramural fibroid in the posterior wall of the uterus. The cut surface of the fibroid is white to tan with whorled appearance. The tumor mass and fibroid distort the uterine cavity and the size of the uterine cavity is unable to be determined. The endometrium overlying the fibroid appears thin but is focally thickened to 0.2 cm. The myometrium is approximately 1.5 cm in thickness. The cut surface of the bilateral fallopian tubes is pink to tan and unremarkable. The cervix and ectocervical margin appear uninvolved by tumor. The cut surface of the bilateral ovaries is pink to yellow and unremarkable. Two representative sections of tumor mass are submitted in cassettes 1AF and 1BF for frozen section.\n\nFROZEN SECTION DIAGNOSIS: Endometrioid adenocarcinoma, well-differentiated with invasion of inner half of myometrium.\nM.D./ , M.D. , M.D.\n(Reported at\n\nA small portion of the right fallopian tube and tumor mass are requested by GYN/Oncology for research. The anterior surface of the uterus is inked in black.\n\nCASSETTE SUMMARY:\nCassette 1C: Representative sections of right fallopian tube and right ovary.\nCassette 1D: Representative sections of left fallopian tube and ovary.\nCassette 1E: Cervix at 12 o'clock.\nCassette 1G: Lower uterine segment, anterior.\nCassette 1H: Cervix at 6 o'clock.\nCassette 1J: Lower uterine segment, posterior.\nCassette 1K: Section of endomyometrium from the posterior wall.\nCassettes 1L-1Q: Representative sections of the fibroid on the posterior wall.\nCassettes 1R-1Y: Sections of tumor with full thickness of endomyometrium from anterior wall.\n\n2) Received in formalin labeled \"right pelvic lymph nodes\" and with the patient's name, are tan irregular tan to pale tan ovoid lymph nodes identified, ranging from 1.0 x 0.6 x 0.3 cm to 2.7 x 1.5 x 1.3 cm. All lymph nodes identified are submitted as follows:\n\n** CONTINUED ON NEXT PAGE **",
+        "confidence": {
+          "mean_probability": 0.9866327697263538,
+          "mean_log_probability": -0.021257709798994974,
+          "perplexity": 1.0214852644819932,
+          "min_probability": 0.05984855445909973
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 797,
+          "total_tokens": 3269
+        },
+        "composite_score": 0.9833478193838623,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 24.382466793060303,
+          "chars": 2885,
+          "words": 475,
+          "text": "SPEC #:                                                                                      (Continued) Page: 4\n\nGROSS DESCRIPTION:\n1) Received fresh labeled with the patient's name and \"uterus. tubes. and ovaries. is a 250 gram hysterectomy specimen including an unopened uterus (11.2 cm from fundus to cervix, 6.0 cm from cornu to cornu, 9.0 cm from anterior to posterior), right fallopian tube (5.0 cm in length x 0.5 cm in diameter), right ovary (1.7 x 1.2 x 0.4 cm), left fallopian tube (4.0 cm in length x 0.5 cm in diameter), and left ovary (2.0 x 1.4 x 0.5 cm). The serosal surface of the uterus is pink to tan, smooth and glistening. The ectocervix (1.5 x 1.5 cm) covered with pink to tan mucosa. The external os is 1.2 x 0.2 cm. The endocervical canal is 3.5 cm in length with a herringbone appearance. There is a 6.0 x 3.5 x 1.4 cm pink to tan friable mass on the anterior wall of the uterus. The cut surface shows tumor invading into the inner half of the myometrium. There is a 5.5 x 5.0 x 4.5 cm intramural fibroid in the posterior wall of the uterus. The cut surface of the fibroid is white to tan with whorled appearance. The tumor mass and fibroid distort the uterine cavity and the size of the uterine cavity is unable to be determined. The endometrium overlying the fibroid appears thin but is focally thickened to 0.2 cm. The myometrium is approximately 1.5 cm in thickness. The cut surface of the bilateral fallopian tubes is pink to tan and unremarkable. The cervix and ectocervical margin appear uninvolved by tumor. The cut surface of the bilateral ovaries is pink to yellow and unremarkable. Two representative sections of tumor mass are submitted in cassettes 1AF and 1BF for frozen section.\n\nFROZEN SECTION DIAGNOSIS: Endometrioid adenocarcinoma, well-differentiated with invasion of inner half of myometrium.\nM.D./ , M.D. , M.D.\n(Reported at\n\nA small portion of the right fallopian tube and tumor mass are requested by GYN/Oncology for research. The anterior surface of the uterus is inked in black.\n\nCASSETTE SUMMARY:\nCassette 1C: Representative sections of right fallopian tube and right ovary.\nCassette 1D: Representative sections of left fallopian tube and ovary.\nCassette 1E: Cervix at 12 o'clock.\nCassette 1G: Lower uterine segment, anterior.\nCassette 1H: Cervix at 6 o'clock.\nCassette 1J: Lower uterine segment, posterior.\nCassette 1K: Section of endomyometrium from the posterior wall.\nCassettes 1L-1Q: Representative sections of the fibroid on the posterior wall.\nCassettes 1R-1Y: Sections of tumor with full thickness of endomyometrium from anterior wall.\n\n2) Received in formalin labeled \"right pelvic lymph nodes\" and with the patient's name, are tan irregular tan to pale tan ovoid lymph nodes identified, ranging from 1.0 x 0.6 x 0.3 cm to 2.7 x 1.5 x 1.3 cm. All lymph nodes identified are submitted as follows:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9866327697263538,
+            "mean_log_probability": -0.021257709798994974,
+            "perplexity": 1.0214852644819932,
+            "min_probability": 0.05984855445909973
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 797,
+            "total_tokens": 3269
+          },
+          "composite_score": 0.9833478193838623,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 26.314741134643555,
+          "chars": 3064,
+          "words": 475,
+          "text": "SPEC #:\n                                                                                           (Continued) Page: 4\n\nGROSS DESCRIPTION:\n1) Received fresh labeled with the patient's name and \"uterus. tubes. and ovaries. is a\n    250 gram hysterectomy specimen including an unopened uterus (11.2 cm from fundus to\n    cervix, 6.0 cm from cornu to cornu, 9.0 cm from anterior to posterior), right\n    fallopian tube (5.0 cm in length x 0.5 cm in diameter), right ovary (1.7 x 1.2 x 0.4\n    cm), left fallopian tube (4.0 cm in length x 0.5 cm in diameter), and left ovary (2.0\n    x 1.4 x 0.5 cm). The serosal surface of the uterus is pink to tan, smooth and\n    glistening. The ectocervix (1.5 x 1.5 cm) covered with pink to tan mucosa. The\n    external os is 1.2 x 0.2 cm. The endocervical canal is 3.5 cm in length with a\n    herringbone appearance. There is a 6.0 x 3.5 x 1.4 cm pink to tan friable mass on the\n    anterior wall of the uterus. The cut surface shows tumor invading into the inner half\n    of the myometrium. There is a 5.5 x 5.0 x 4.5 cm intramural fibroid in the posterior\n    wall of the uterus. The cut surface of the fibroid is white to tan with whorled\n    appearance. The tumor mass and fibroid distort the uterine cavity and the size of the\n    uterine cavity is unable to be determined. The endometrium overlying the fibroid\n    appears thin but is focally thickened to 0.2 cm. The myometrium is approximately 1.5\n    cm in thickness. The cut surface of the bilateral fallopian tubes is pink to tan and\n    unremarkable. The cervix and ectocervical margin appear uninvolved by tumor. The\n    cut surface of the bilateral ovaries is pink to yellow and unremarkable. Two\n    representative sections of tumor mass are submitted in cassettes 1AF and 1BF for\n    frozen section.\n\nFROZEN SECTION DIAGNOSIS: Endometrioid adenocarcinoma, well-differentiated with\ninvasion of inner half of myometrium.\n                     M.D./                     , M.D.                     , M.D.\n(Reported at\n\nA small portion of the right fallopian tube and tumor mass are requested by\nGYN/Oncology for research. The anterior surface of the uterus is inked in black.\n\nCASSETTE SUMMARY:\nCassette 1C: Representative sections of right fallopian tube and right ovary.\nCassette 1D: Representative sections of left fallopian tube and ovary.\nCassette 1E: Cervix at 12 o'clock.\nCassette 1G: Lower uterine segment, anterior.\nCassette 1H: Cervix at 6 o'clock.\nCassette 1J: Lower uterine segment, posterior.\nCassette 1K: Section of endomyometrium from the posterior wall.\nCassettes 1L-1Q: Representative sections of the fibroid on the posterior wall.\nCassettes 1R-1Y: Sections of tumor with full thickness of endomyometrium from\n                    anterior wall.\n\n2) Received in formalin labeled \"right pelvic lymph nodes\" and with the patient's name,\nare tan irregular tan to pale tan ovoid lymph nodes identified, ranging from 1.0 x 0.6\nx 0.3 cm to 2.7 x 1.5 x 1.3 cm. All lymph nodes identified are submitted as follows:\n\n                ** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.979662819477107,
+            "mean_log_probability": -0.03821448165680474,
+            "perplexity": 1.0389540455680635,
+            "min_probability": 0.027311675342275205
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 846,
+            "total_tokens": 3318
+          },
+          "composite_score": 0.6454182039447408
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.545565605163574,
+          "chars": 2800,
+          "words": 475,
+          "text": "SPEC #:\n(Continued) Page: 4\n\nGROSS DESCRIPTION:\n1) Received fresh labeled with the patient's name and \"uterus. tubes. and ovaries, is a 250 gram hysterectomy specimen including an unopened uterus (11.2 cm from fundus to cervix, 6.0 cm from cornu to cornu, 9.0 cm from anterior to posterior), right fallopian tube (5.0 cm in length x 0.5 cm in diameter), right ovary (1.7 x 1.2 x 0.4 cm), left fallopian tube (4.0 cm in length x 0.5 cm in diameter), and left ovary (2.0 x 1.4 x 0.5 cm). The serosal surface of the uterus is pink to tan, smooth and glistening. The ectocervix (1.5 x 1.5 cm) covered with pink to tan mucosa. The external os is 1.2 x 0.2 cm. The endocervical canal is 3.5 cm in length with a herringbone appearance. There is a 6.0 x 3.5 x 1.4 cm pink to tan friable mass on the anterior wall of the uterus. The cut surface shows tumor invading into the inner half of the myometrium. There is a 5.5 x 5.0 x 4.5 cm intramural fibroid in the posterior wall of the uterus. The cut surface of the fibroid is white to tan with whorled appearance. The tumor mass and fibroid distort the uterine cavity and the size of the uterine cavity is unable to be determined. The endometrium overlying the fibroid appears thin but is focally thickened to 0.2 cm. The myometrium is approximately 1.5 cm in thickness. The cut surface of the bilateral fallopian tubes is pink to tan and unremarkable. The cervix and ectocervical margin appear uninvolved by tumor. The cut surface of the bilateral ovaries is pink to yellow and unremarkable. Two representative sections of tumor mass are submitted in cassettes 1AF and 1BF for frozen section.\n\nFROZEN SECTION DIAGNOSIS: Endometrioid adenocarcinoma, well-differentiated with invasion of inner half of myometrium.\nM.D./ , M.D. , M.D.\n(Reported at\n\nA small portion of the right fallopian tube and tumor mass are requested by GYN/Oncology for research. The anterior surface of the uterus is inked in black.\n\nCASSETTE SUMMARY:\nCassette 1C: Representative sections of right fallopian tube and right ovary.\nCassette 1D: Representative sections of left fallopian tube and ovary.\nCassette 1E: Cervix at 12 o'clock.\nCassette 1G: Lower uterine segment, anterior.\nCassette 1H: Cervix at 6 o'clock.\nCassette 1J: Lower uterine segment, posterior.\nCassette 1K: Section of endomyometrium from the posterior wall.\nCassettes 1L-1Q: Representative sections of the fibroid on the posterior wall.\nCassettes 1R-1Y: Sections of tumor with full thickness of endomyometrium from anterior wall.\n\n2) Received in formalin labeled \"right pelvic lymph nodes\" and with the patient's name, are ten irregular tan to pale tan ovoid lymph nodes identified, ranging from 1.0 x 0.6 x 0.3 cm to 2.7 x 1.5 x 1.3 cm. All lymph nodes identified are submitted as follows:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9898421288225824,
+            "mean_log_probability": -0.013634271698113206,
+            "perplexity": 1.013727642244372,
+            "min_probability": 0.16527789659577885
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 796,
+            "total_tokens": 3268
+          },
+          "composite_score": 0.9397773321405097
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 5,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 24.287472248077393,
+        "chars": 2477,
+        "words": 382,
+        "text": "```\nSPEC #:\n                                                                                     (Continued) Page: 5\n\nOSS DESCRIPTION: (continued)\nCASSETTE SUMMARY:\nCassette 2A:       Two lymph nodes, bivalved. One inked blue.\nCassette 2B:       Two lymph nodes, bivalved. one inked blue.\nCassette 2C:       Two lymph nodes, bivalved. one inked blue.\nCassette 2D:       One lymph node, bivalved.\nCassette 2E:       One lymph node, bivalved.\nCassettes 2G-2J:   One large lymph node serially sectioned.\nCassette 2K:       One lymph node.\n\n3)  Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\nname, is one irregular portion of yellow-tan lobulated adipose tissue. 1.5 x 0.8 x 0.4\ncm. The specimen is dissected for lymph nodes, there is one pale tan ovoid lymph node\nidentified, 1.1 x 0.7 x 0.4 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 3:        One lymph node, bivalved.\n\n4)  Received in formalin, labeled \"left common iliac lymph nodes\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.5 x 1.5 x 0.6 cm. Specimen is dissected for lymph nodes, there is one tan ovoid\nlymph node identified, 1.1 x 0.6 x 0.4 cm. All lymph nodes identified are submitted\nas follows:\n\nCASSETTE SUMMARY:\nCassette 4:        One lymph node, bivalved.\n\n5)  Received in formalin, labeled \"left pelvic lymph nodes\" and with the patient's name,\nis an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 7.0 x\n5.5 x 2.0 cm. The specimen is dissected for lymph nodes, there are seven tan to\nyellow-tan ovoid lymph nodes identified, ranging from 1.8 x 0.4 x 0.3 cm to 3.0 x 3.0\nx 2.0 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 5A:       Three lymph nodes.\nCassette 5B:       One lymph node, bivalved.\nCassette 5C:       One lymph node, bivalved.\nCassette 5D:       One lymph node, bivalved.\nCassettes 5E-5N:   One large lymph node, serially sectioned.\n\n6)  Received in formalin, labeled \"left para-aortic lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.3 x 2.0 x 1.1 cm. Specimen is dissected for lymph nodes, there are three tan to\nyellow-tan ovoid lymph nodes identified, ranging from 0.5 x 0.4 x 0.2 cm to 1.3 x 0.8\nx 0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\n\n/\n\n\n** CONTINUED ON NEXT PAGE **\n```",
+        "confidence": {
+          "mean_probability": 0.9779614939182908,
+          "mean_log_probability": -0.034197450684931505,
+          "perplexity": 1.034788906336221,
+          "min_probability": 0.09675986388202822
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 731,
+          "total_tokens": 3203
+        },
+        "composite_score": 0.9735466757050826,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 24.287472248077393,
+          "chars": 2477,
+          "words": 382,
+          "text": "```\nSPEC #:\n                                                                                     (Continued) Page: 5\n\nOSS DESCRIPTION: (continued)\nCASSETTE SUMMARY:\nCassette 2A:       Two lymph nodes, bivalved. One inked blue.\nCassette 2B:       Two lymph nodes, bivalved. one inked blue.\nCassette 2C:       Two lymph nodes, bivalved. one inked blue.\nCassette 2D:       One lymph node, bivalved.\nCassette 2E:       One lymph node, bivalved.\nCassettes 2G-2J:   One large lymph node serially sectioned.\nCassette 2K:       One lymph node.\n\n3)  Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\nname, is one irregular portion of yellow-tan lobulated adipose tissue. 1.5 x 0.8 x 0.4\ncm. The specimen is dissected for lymph nodes, there is one pale tan ovoid lymph node\nidentified, 1.1 x 0.7 x 0.4 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 3:        One lymph node, bivalved.\n\n4)  Received in formalin, labeled \"left common iliac lymph nodes\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.5 x 1.5 x 0.6 cm. Specimen is dissected for lymph nodes, there is one tan ovoid\nlymph node identified, 1.1 x 0.6 x 0.4 cm. All lymph nodes identified are submitted\nas follows:\n\nCASSETTE SUMMARY:\nCassette 4:        One lymph node, bivalved.\n\n5)  Received in formalin, labeled \"left pelvic lymph nodes\" and with the patient's name,\nis an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 7.0 x\n5.5 x 2.0 cm. The specimen is dissected for lymph nodes, there are seven tan to\nyellow-tan ovoid lymph nodes identified, ranging from 1.8 x 0.4 x 0.3 cm to 3.0 x 3.0\nx 2.0 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 5A:       Three lymph nodes.\nCassette 5B:       One lymph node, bivalved.\nCassette 5C:       One lymph node, bivalved.\nCassette 5D:       One lymph node, bivalved.\nCassettes 5E-5N:   One large lymph node, serially sectioned.\n\n6)  Received in formalin, labeled \"left para-aortic lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.3 x 2.0 x 1.1 cm. Specimen is dissected for lymph nodes, there are three tan to\nyellow-tan ovoid lymph nodes identified, ranging from 0.5 x 0.4 x 0.2 cm to 1.3 x 0.8\nx 0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\n\n/\n\n\n** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.9779614939182908,
+            "mean_log_probability": -0.034197450684931505,
+            "perplexity": 1.034788906336221,
+            "min_probability": 0.09675986388202822
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 731,
+            "total_tokens": 3203
+          },
+          "composite_score": 0.9735466757050826,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 212.29788780212402,
+          "chars": 2737,
+          "words": 382,
+          "text": "```\nSPEC #:\n                                                                                       (Continued) Page: 5\n\nOSS DESCRIPTION: (continued)\n     CASSETTE SUMMARY:\n     Cassette 2A:          Two lymph nodes, bivalved. one inked blue.\n     Cassette 2B:          Two lymph nodes. bivalved. one inked blue.\n     Cassette 2C:          Two lymph nodes. bivalved. one inked blue.\n     Cassette 2D:          One lymph node, bivalved.\n     Cassette 2E:          One lymph node, bivalved.\n     Cassettes 2G-2J:      One large lymph node serially sectioned.\n     Cassette 2K:          One lymph node.\n\n3)   Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\n     name, is one irregular portion of yellow-tan lobulated adipose tissue. 1.5 x 0.8 x 0.4\n     cm. The specimen is dissected for lymph nodes, there is one pale tan ovoid lymph node\n     identified, 1.1 x 0.7 x 0.4 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 3:           One lymph node, bivalved.\n\n4)   Received in formalin, labeled \"left common iliac lymph nodes\" and with the patient's\n     name, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n     2.5 x 1.5 x 0.6 cm. Specimen is dissected for lymph nodes, there is one tan ovoid\n     lymph node identified. 1.1 x 0.6 x 0.4 cm. All lymph nodes identified are submitted\n     as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 4:            One lymph node, bivalved.\n\n5)   Received in formalin, labeled \"left pelvic lymph nodes\" and with the patient's name,\n     is an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 7.0 x\n     5.5 x 2.0 cm. The specimen is dissected for lymph nodes, there are seven tan to\n     yellow-tan ovoid lymph nodes identified, ranging from 1.8 x 0.4 x 0.3 cm to 3.0 x 3.0\n     x 2.0 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n     Cassette 5A:          Three lymph nodes.\n     Cassette 5B:          One lymph node, bivalved.\n     Cassette 5C:          One lymph node, bivalved.\n     Cassette 5D:          One lymph node, bivalved.\n     Cassettes 5E-5N:      One large lymph node, serially sectioned.\n\n6)   Received in formalin, labeled \"left para-aortic lymph node\" and with the patient's\n     name, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n     2.3 x 2.0 x 1.1 cm. Specimen is dissected for lymph nodes, there are three tan to\n     yellow-tan ovoid lymph nodes identified, ranging from 0.5 x 0.4 x 0.2 cm to 1.3 x 0.8\n     x 0.5 cm. All lymph nodes identified are submitted as follows:\n\n     CASSETTE SUMMARY:\n\n                                      /\n     ** CONTINUED ON NEXT PAGE **\n```",
+          "confidence": {
+            "mean_probability": 0.978731606361423,
+            "mean_log_probability": -0.034669208604954364,
+            "perplexity": 1.035277191365446,
+            "min_probability": 0.04382762292475016
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 768,
+            "total_tokens": 3240
+          },
+          "composite_score": 0.6471739945245845
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 23.199965000152588,
+          "chars": 2386,
+          "words": 379,
+          "text": "SPEC #:\n(Continued) Page: 5\n\nOSS DESCRIPTION: (continued)\nCASSETTE SUMMARY:\nCassette 2A:        Two lymph nodes, bivalved. One inked blue.\nCassette 2B:        Two lymph nodes. bivalved. one inked blue.\nCassette 2C:        Two lymph nodes. bivalved. one inked blue.\nCassette 2D:        One lymph node, bivalved.\nCassette 2E:        One lymph node, bivalved.\nCassettes 2G-2J: One large lymph node serially sectioned.\nCassette 2K:        One lymph node.\n\n3) Received in formalin labeled \"right para-aortic lymph node\" and with the patient's\nname, is one irregular portion of yellow-tan lobulated adipose tissue. 1.5 x 0.8 x 0.4\ncm. The specimen is dissected for lymph nodes, there is one pale tan ovoid lymph node\nidentified, 1.1 x 0.7 x 0.4 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 3:          One lymph node, bivalved.\n\n4) Received in formalin, labeled \"left common iliac lymph nodes\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.5 x 1.5 x 0.6 cm. Specimen is dissected for lymph nodes, there is one tan ovoid\nlymph node identified. 1.1 x 0.6 x 0.4 cm. All lymph nodes identified are submitted\nas follows:\n\nCASSETTE SUMMARY:\nCassette 4:          One lymph node, bivalved.\n\n5) Received in formalin, labeled \"left pelvic lymph nodes\" and with the patient's name,\nis an aggregate of irregular portions of yellow-tan lobulated adipose tissue, 7.0 x\n5.5 x 2.0 cm. The specimen is dissected for lymph nodes, there are seven tan to\nyellow-tan ovoid lymph nodes identified, ranging from 1.8 x 0.4 x 0.3 cm to 3.0 x 3.0\nx 2.0 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 5A:        Three lymph nodes.\nCassette 5B:        One lymph node, bivalved.\nCassette 5C:        One lymph node, bivalved.\nCassette 5D:        One lymph node, bivalved.\nCassettes 5E-5N: One large lymph node, serially sectioned.\n\n6) Received in formalin, labeled \"left para-aortic lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n2.3 x 2.0 x 1.1 cm. Specimen is dissected for lymph nodes, there are three tan to\nyellow-tan ovoid lymph nodes identified, ranging from 0.5 x 0.4 x 0.2 cm to 1.3 x 0.8\nx 0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\n\n** CONTINUED ON NEXT PAGE **",
+          "confidence": {
+            "mean_probability": 0.9807103790706105,
+            "mean_log_probability": -0.027584224546722453,
+            "perplexity": 1.0279681916162517,
+            "min_probability": 0.08885121941966208
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 718,
+            "total_tokens": 3190
+          },
+          "composite_score": 0.9295987422201265
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 6,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 7.852761745452881,
+        "chars": 1295,
+        "words": 168,
+        "text": "SPEC #:                                                                                   ontinued) Page: 6\n\nOSS DESCRIPTION: (continued)\nCassette 6A:          One lymph node.\nCassette 6B:          One lymph node, bivalved.\nCassette 6C:          One lymph node, bivalved.\n\n7) Received in formalin, labeled \"right common iliac lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n1.7 x 1.5 x 0.8 cm. The specimen is dissected for lymph nodes, there are thr~e tan\novoid lymph nodes identified, 0.4 x 0.4 x 0.3 cm, 0.7 x 0.5 x 0.3 cm, and 1.0 x 0.7 x\n0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 7A:          Two lymph nodes.\nCassette 7B:          One lymph node, bivalved.\n(Specimens 2-7 dictated by\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\nUndefined Provider\n\nCPT Codes:\nFS INITIAL-           FS ADDITIONAL-                  LYMPH NODE BIOPSY (M)\nLYMPH NODE, REGIONAL RESECT,           UTERUS w/WO ADNEXAE.TUMOR-\n\nICD9 Codes:\n\n\nResident Physician:\n\n                         I have personally reviewed the material\n                         (specimen/slide) and approve this final report.\n\nElectr~nically Signed by: _____________________________\n\n\n** END OF REPORT **",
+        "confidence": {
+          "mean_probability": 0.934545956247388,
+          "mean_log_probability": -0.11525884240687678,
+          "perplexity": 1.1221638635783924,
+          "min_probability": 0.06571513596764086
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 350,
+          "total_tokens": 2822
+        },
+        "composite_score": 0.8468222659893858,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 7.852761745452881,
+          "chars": 1295,
+          "words": 168,
+          "text": "SPEC #:                                                                                   ontinued) Page: 6\n\nOSS DESCRIPTION: (continued)\nCassette 6A:          One lymph node.\nCassette 6B:          One lymph node, bivalved.\nCassette 6C:          One lymph node, bivalved.\n\n7) Received in formalin, labeled \"right common iliac lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n1.7 x 1.5 x 0.8 cm. The specimen is dissected for lymph nodes, there are thr~e tan\novoid lymph nodes identified, 0.4 x 0.4 x 0.3 cm, 0.7 x 0.5 x 0.3 cm, and 1.0 x 0.7 x\n0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 7A:          Two lymph nodes.\nCassette 7B:          One lymph node, bivalved.\n(Specimens 2-7 dictated by\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\nUndefined Provider\n\nCPT Codes:\nFS INITIAL-           FS ADDITIONAL-                  LYMPH NODE BIOPSY (M)\nLYMPH NODE, REGIONAL RESECT,           UTERUS w/WO ADNEXAE.TUMOR-\n\nICD9 Codes:\n\n\nResident Physician:\n\n                         I have personally reviewed the material\n                         (specimen/slide) and approve this final report.\n\nElectr~nically Signed by: _____________________________\n\n\n** END OF REPORT **",
+          "confidence": {
+            "mean_probability": 0.934545956247388,
+            "mean_log_probability": -0.11525884240687678,
+            "perplexity": 1.1221638635783924,
+            "min_probability": 0.06571513596764086
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 350,
+            "total_tokens": 2822
+          },
+          "composite_score": 0.8468222659893858,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 8.3114333152771,
+          "chars": 1314,
+          "words": 169,
+          "text": "SPEC #:                                                                                      ontinued) Page: 6\n\nOSS DESCRIPTION: (continued)\nCassette 6A:          One lymph node.\nCassette 6B:          One lymph node, bivalved.\nCassette 6C:          One lymph node, bivalved.\n\n7) Received in formalin, labeled \"right common iliac lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n1.7 x 1.5 x 0.8 cm. The specimen is dissected for lymph nodes, there are thr~e tan\novoid lymph nodes identified, 0.4 x 0.4 x 0.3 cm, 0.7 x 0.5 x 0.3 cm, and 1.0 x 0.7 x\n0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 7A:          Two lymph nodes.\nCassette 7B:          One lymph node, bivalved.\n(Specimens 2-7 dictated by\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\nUndefined Provider\n\nCPT Codes:\nFS INITIAL-          . FS ADDITIONAL-                 LYMPH NODE BIOPSY (M)\nLYMPH NODE, REGIONAL RESECT,          UTERUS w/WO ADNEXAE.TUMOR-\n\nICD9 Codes:\n\nResident Physician:\n\n                           I have personally reviewed the material\n                           (specimen/slide) and approve this final report.\n\nElectr~nically Signed by: ____________________________________________\n\n** END OF REPORT **",
+          "confidence": {
+            "mean_probability": 0.9330537312290634,
+            "mean_log_probability": -0.11903474498567336,
+            "perplexity": 1.1264090546749195,
+            "min_probability": 0.05619716321263419
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 350,
+            "total_tokens": 2822
+          },
+          "composite_score": 0.8039867495160571
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 7.061444997787476,
+          "chars": 1305,
+          "words": 168,
+          "text": "SPEC #:                                                                                   ontinued) Page: 6\n\nOSS DESCRIPTION: (continued)\nCassette 6A:          One lymph node.\nCassette 6B:          One lymph node, bivalved.\nCassette 6C:          One lymph node, bivalved.\n\n7) Received in formalin, labeled \"right common iliac lymph node\" and with the patient's\nname, is an aggregate of irregular portions of yellow-tan lobulated adipose tissue,\n1.7 x 1.5 x 0.8 cm. The specimen is dissected for lymph nodes, there are thr~e tan\novoid lymph nodes identified, 0.4 x 0.4 x 0.3 cm, 0.7 x 0.5 x 0.3 cm, and 1.0 x 0.7 x\n0.5 cm. All lymph nodes identified are submitted as follows:\n\nCASSETTE SUMMARY:\nCassette 7A:          Two lymph nodes.\nCassette 7B:          One lymph node, bivalved.\n(Specimens 2-7 dictated by\n\nDictated by:\nEntered:\n\nCOPIES TO:\n\n\nNo PCP/Family Physician\n\nUndefined Provider\n\nCPT Codes:\nFS INITIAL-        FS ADDITIONAL-                 LYMPH NODE BIOPSY (M)\nLYMPH NODE, REGIONAL RESECT,        UTERUS w/wo ADNEXAE.TUMOR-\n\nICD9 Codes:\n\n\nResident Physician:\n\n                           I have personally reviewed the material\n                           (specimen/slide) and approve this final report.\n\nElectr~nically Signed by: ___________________________________________\n\n** END OF REPORT **",
+          "confidence": {
+            "mean_probability": 0.9324412592485758,
+            "mean_log_probability": -0.11995177586206897,
+            "perplexity": 1.1274424803267022,
+            "min_probability": 0.05145611348250665
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 349,
+            "total_tokens": 2821
+          },
+          "composite_score": 0.8025756472600121
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

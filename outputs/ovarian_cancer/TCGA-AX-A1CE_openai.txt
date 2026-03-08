@@ -1,0 +1,231 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-AX-A1CE\TCGA-AX-A1CE.pdf
+Processing Date: 2026-03-08 13:52:10
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+```
+ICD-0-3
+Adenocarcinoma, endometrioid, nos 8380/3
+Site Code: Endometrium C54.1
+1/5/11
+lw
+
+Name:
+UUID:79482353-F9A0-4A36-9783-F270241B2850
+TCGA-AX-A1CE-01A-PR Redacted
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+================================================================================
+PAGE 2
+================================================================================
+Name.
+
+DOB:  
+AGE  
+Attending Physician:  
+Ordering Provider:  
+Copy to:  
+
+FIN:  
+MRN:  
+Visit:  
+SEX: Female  
+
+Consulting:  
+
+**Surgical Pathology Final**
+
+Collected Date:  
+Received Date:  
+Verified Date:  
+
+CORRECTED REPORT FOR:  
+This report was corrected to add the following statement to the first paragraph within the gross description:  
+
+"The separate tissue within the container was discussed with , who states that it originated from within the uterus. No tissue was seen outside of the uterus at the time of operation. "  
+e report otherwise remains unchanged.  
+
+Diagnosis  
+Part A, uterus, bilateral fallopian tubes and ovaries, radical hysterectomy, bilateral salpingo-oophorectomy:  
+Poorly-differentiated endometrioid adenocarcinoma with the following features:  
+- Neoplasm measures 8.5 cm in maximum dimension and is present within the endometrial cavity.  
+- Neoplasm invades less than 50% of the myometrium.  
+- No involvement of the endocervix/ectocervix is identified.  
+- Angiolymphatic invasion is present.  
+- Bilateral fallopian tubes and ovaries with no evidence of carcinoma.  
+- Margins negative for carcinoma.  
+Please see Comment and Synoptic data.  
+
+Parts B-E, lymph nodes, right paraaortic (3), left paraaortic (2), right pelvic (7), left pelvic (5), dissection:  
+Seventeen total lymph nodes with no evidence of carcinoma.  
+
+Comment  
+Sections of the endometrial mass demonstrate cords, sheets and nests of malignant epithelial cells with pleomorphic, irregular to ovoid vesicular nuclei, conspicuous nucleoli and variable amounts of eosinophilic to focally clear cytoplasm. Focal squamoid regions are seen along with a focal region of anastomosing glands  
+
+Page 1 of 5
+
+================================================================================
+PAGE 3
+================================================================================
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+(A7). Focal admixed coagulative necrosis is also present. The findings are consistent with poorly-differentiated endometrioid adenocarcinoma. The neoplasm invades less than 50% of the myometrial thickness (8 mm of a 22mm thick myometrium, A6). Angiolymphatic invasion is present both within the myometrium and in a section taken of the right parametrium (A12).
+
+has co-reviewed selected slides (A5-A7, A10-A11) and agrees with the diagnosis of poorly differentiated endometrioid adenocarcinoma.
+
+A: Endometrium, Hysterectomy, Macroscopic
+SPECIMEN TYPE:
+Radical hysterectomy (includes parametria)
+*TUMOR SITE:
+*Specify location(s), if known: Anterior and posterior endometrium
+TUMOR SIZE:
+Greatest dimension: 8.5 cm
+OTHER ORGANS PRESENT:
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+
+A: Endometrium, Hysterectomy, Microscopic
+HISTOLOGIC TYPE:
+Endometrioid adenocarcinoma, not otherwise characterized
+HISTOLOGIC GRADE:
+G3: More than 50% nonsquamous solid growth
+MYOMETRIAL INVASION:
+Specify depth of invasion: 8 mm
+Specify myometrial thickness: 22 mm
+PRIMARY TUMOR (pT):
+pT1b [IB]: Tumor confined to corpus uteri: Tumor invades less than one-half of the myometrium
+REGIONAL LYMPH NODES (pN):
+pN0: No regional lymph node metastasis
+Number examined: 17
+Number involved 0
+DISTANT METASTASIS (pM):
+pMX: Cannot be assessed
+MARGINS:
+Uninvolved by invasive carcinoma
+*Distance of invasive carcinoma from closest margin: 22 mm
+
+FIN: MRN: Page 2 of 3
+
+================================================================================
+PAGE 4
+================================================================================
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+*Specify margin: Anterior parametrial margin
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L):
+*Present
+
+
+MD
+MD
+(Electronic Signature)
+
+Clinical History
+See Previous Reports:
+
+dometrial adenocarcinoma.
+
+Specimen
+A) Uterus, cervix, bilateral ovaries/fallopian tubes. B) Right paraaortic lymph node. C) Left paraaortic lymph node. D) Right pelvic lymph node dissection. E) Left pelvic lymph node dissection.
+
+Gross Description
+The specimen is received fresh in 5 containers designated with the patient's name
+
+Part A is designated "uterus, cervix, R/L tubes/ovaries, other tissue consistent with tumor". The specimen consists of a total hysterectomy specimen to include a uterus with attached cervix and attached bilateral adnexa. Separate in the container are fragments of tan-gray friable soft tissue, approximately 6.5 x 6.5 x 3.4 cm in aggregate dimension. The separate tissue within the container was discussed with who states that it originated from within the uterus. No tissue was seen outside of the uterus at the time of operation.
+
+The left fallopian tube with fimbriae is 3.5 cm in length and 1.0 cm in diameter. The ovary is tan-pink, 1.5 cm in greatest dimension. Bivalving reveals a normal ovarian architecture. The right fallopian tube with fimbriae is 3 cm in length and 0.7 cm in diameter. The ovary is tan-pink, 1.2 cm in greatest dimension. Serially sectioning reveals a normal ovarian architecture.
+
+FIN: MRN:
+Page 3 of 5
+
+================================================================================
+PAGE 5
+================================================================================
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+The uterus/cervix is 166 g, 8.5 x 7.2 x 4.3 cm. The serosa contains a small amount of fibrous and hemorrhagic adhesions. The cervix is tan-pink, slightly hemorrhagic, 2.2 x 2.0 x 0.7 cm with an oval, patent os. The paracervical/parametrial margin is inked black. Upon bivalving, the endocervical canal is 1.0 cm, and the endometrial cavity is approximately 4.5 cm from cornu to cornu. Within the endometrium is a large tan-gray fungating mass involving 80% of the anterior endometrium and approximately 10% of the posterior endometrium. The mass is approximately 8.5 x 4.5 x 2.5 cm, extends to the lower uterine cavity, but does not appear to involve the lower uterine cavity or cervix. It is approximately 3.2 cm from the squamocolumnar junction and 2.2 cm to the anterior parametrial margin. Sectioning the anterior endometrium/myometrium, the mass extends into the myometrium approximately 0.6 cm, involving approximately 25% of the myometrium and is approximately 0.8 cm from the serosa. Sectioning the posterior endometrium/myometrium, the endometrium involves approximately 25% of the myometrium on the posterior side as well. The specimen is submitted as per code of sections.
+
+CODE OF SECTIONS:
+A1 Representative portions of loose tissue from container
+A2 Left fallopian tube and ovary
+A3 Right fallopian tube and ovary
+A4 Cervix
+A5-A7 Anterior endometrium/myometrium, serosal surface, mass deepest invasion
+A8 Left parametrial margin
+A9 Posterior cervix
+A10-A11 Posterior endometrium/myometrium mass, deepest invasion
+A12 Right parametrial margin
+
+Tissue was taken as per the ______ and ______ protocol.
+
+Part B is designated "right paraaortic LN". The specimen consists of lobulated adipose tissue, 3.0 x 2.7 x 1.4 cm in aggregate dimension. Sectioning reveals 3 lymph node candidates ranging from 1.0 cm to 1.5 cm. Each lymph node is bisected and submitted in separate cassettes B1-B3.
+
+Part C is designated "left paraaortic". The specimen consists of lobulated adipose tissue, 2.2 x 1.2 x 0.7 cm. Sectioning reveals 2 lymph node candidates ranging from 1.2 cm to 1.9 cm. Each is bisected and submitted in separate cassettes C1-C2.
+
+Part D is designated "right pelvic LN". The specimen consists of lobulated adipose tissue, 3.5 x 3.0 x 1.8 cm in aggregate dimension. Sectioning reveals 8 lymph node candidates ranging from 0.3 cm to 2.5 x 1.5 x 1.0 cm. The specimen is submitted as per code of sections.
+
+CODE OF SECTIONS:
+D1 Four lymph nodes, intact
+
+FIN: ______
+MRN: ______
+
+Page 4 of 5
+
+================================================================================
+PAGE 6
+================================================================================
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials  RB  Date Reviewed: 1/25/10
+
+Surgical Pathology Final
+
+Collected Date:
+Received Date:
+Verified Date:
+
+D2	Single lymph node, bisected
+D3	Single lymph node, bisected
+D4	Single lymph node, bisected
+D5-D6	Largest lymph node, bisected
+
+Part E is designated "left pelvic LN". The specimen consists of lobulated adipose tissue, 4.2 x 3.5 x 1.5 cm in aggregate dimension. Sectioning reveals 5 lymph node candidates ranging from 1.0 cm to 2.0 x 2.0 x 0.7 cm. The specimen is submitted as per code of sections.
+
+CODE OF SECTIONS:
+E1	Single lymph node, bisected
+E2-E3	Single lymph node, bisected
+E4	Single lymph node, bisected
+E5	Single lymph node, bisected
+E6-E7	Largest lymph node, bisected
+
+Microscopic Description
+Thirty-two H&E stained slides prepared from 30 paraffin blocks are examined.
+
+FIN:				MRN:
+							Page 5 of 5
