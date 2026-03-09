@@ -1,0 +1,134 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11M\TCGA-B5-A11M.pdf
+Processing Date: 2026-03-08 19:03:43
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICS-0-3
+Adenocarcinoma, endometrioid, NOS 8380/3
+Str: endometrium C54.1 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Hyperplasia, endometrial.
+
+GROSS EXAMINATION:
+A. "Uterus and cervix (AF1)", received is a 256 gram, 12.5 x 8.5 x 5.5 cm
+uterus (cervix 3.6 cm diameter; cervical os 0.8 cm diameter) which is bivalved
+to reveal a 6.5 x 5 cm uterine cavity lined by diffusely thickened, shaggy
+endometrium (up to 1.6 cm thick anteriorly and 1.4 cm thick posteriorly) that
+extends into both anterior and posterior lower uterine segments and does not
+grossly invade the myometrium. A 2.5 x 2 cm area of posterior endometrium
+features flattening and white fibrous scarring (1.6 cm from the lower uterine
+segment). Representative anterior endomyometrium is frozen as AF1. The
+myometrium (3.1 cm maximal thickness) is diffusely trabeculated. Attached to
+the posterior cervix is a 3.2 x 1.6 x 0.2 cm flap of unremarkable vaginal
+epithelium. The uterine serosal surface is unremarkable, and the ectocervix
+exhibits multiple pink wart-like nodules (0.1 to 0.2 cm in greatest
+dimension), more numerous on the anterior cervix.
+
+BLOCK SUMMARY:
+A1- frozen section remnant AF1, representative anterior endomyometrium
+A2- tangential posterior vaginal flap margin
+A3- anterior cervix
+A4- posterior cervix
+A5- anterior lower uterine segment
+A6- posterior lower uterine segment (disrupted during sectioning)
+A7-8- anterior endomyometrium, full thickness, bisected
+A9-10- additional anterior endometrium
+A11-12- posterior endomyometrium, full thickness, bisected
+A13-14- additional posterior endometrium
+
+B. "Right tube and ovary", received is a 44 gram salpingo-oophorectomy
+specimen (fallopian tube 4.5 cm long x 0.6 cm diameter; ovarian cyst 4.8 x 4.3
+x 3.8 cm) exhibiting a predominantly smooth walled ovarian cyst with rare
+scattered tan nodules (up to 0.2 cm in greatest dimension) which is opened to
+reveal a unilocular serous fluid-filled cyst with a smooth inner lining
+exhibiting foci of hemorrhage but no excrescence (wall thickness 0.1 to 0.2
+cm). The cyst eminates from the ovarian serosa (ovary 2.4 x 1.6 x 0.9 cm),
+and the ovary is sectioned to reveal unremarkable ovarian stroma. The
+fallopian tube has a unremarkable serosal surface with an adjacent 0.6 x 0.6 x
+0.5 cm serous fluid-filled paratubal cyst. Sectioning reveals an unremarkable
+patent lumen.
+UUID:3C00B510-8D9C-4DD4-9E7C-FC058230BE97
+TCGA-B5-A11M-01A-PR Redacted
+BLOCK SUMMARY:
+B1- cyst wall
+B2- ovary
+B3- fallopian tube
+
+C. "Left tube and ovary", received is a 14 gram salpingo-oophorectomy specimen
+(ovary 3.1 x 2.1 x 1.8 cm; fallopian tube 4.8 cm long x 0.5 cm diameter). The
+ovary has a roughened pink-tan cerebriform serosal surface and is sectioned to
+reveal several cortical serous fluid-filled cyst up to 0.4 cm in greatest
+dimension. The fallopian tube has an unremarkable serosal surface and is
+sectioned to reveal an unremarkable patent lumen. Two paratubal serous
+fluid-filled cyst (up to 0.7 cm in greatest dimension) are noted. Ovary
+submitted in block C1, fallopian tube in block C2.
+
+D. "Posterior vagina", received is a 1.7 x 1.2 x 0.5 cm piece of pink-tan
+tissue with a smooth epithelial lining on one surface bearing blue ink from a
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 2
+
+marking pen.  The deep margin of the specimen is inked blue, and the specimen
+is serially sectioned and submitted in blocks D1-2.
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus and cervix":
+      AF1 (anterior endomyometrium)- 1 mm myometrial invasion in a
+               2.5 cm thick wall (Dr.               ).
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY & OOPHORECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1B  pNX  pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer.  Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings.  Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 256 GRAMS
+      ENDOMETRIUM:
+            TUMOR SITE: CORPUS
+            HISTOLOGIC TYPE: ENDOMETR7OID ADENOCARCINOMA.
+            FIGO GRADE: 1
+            TUMOR SIZE: DIFFUSE
+            MAXIMUM DEPTH OF MYOMETRIAL INVASION:  0.1 CM, IN A 2.5 THICK WALL.
+            LYMPHATIC/VASCULAR INVASION: NONE
+            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL
+                                                                 NEOPLASIA (EIN)
+      REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.
+      CERVIX: NO PATHOLOGIC DIAGNOSIS.
+      SEROSA: NO PATHOLOGIC DIAGNOSIS.
+      SPECIMEN MARGINS: NOT INVOLVED
+
+B. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+
+C. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.
+
+D. POSTERIOR VAGINA: NO PATHOLOGIC DIAGNOSIS.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+[Redacted]

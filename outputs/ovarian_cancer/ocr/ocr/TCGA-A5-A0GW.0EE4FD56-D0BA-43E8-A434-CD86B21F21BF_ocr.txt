@@ -1,0 +1,272 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-0-3
+Adenocarcinoma, endometrioid, NOS
+8380/3
+11/23/10
+Site: Endometrium 0.54.
+
+UUID:0EE4FD56-D0BA-43E8-A434-CD86B21F21BF
+TCGA-A5-A0GW-01A-PR Redacted
+
+Acct#: GYNS Adm:
+Ord #= *ASAP*/RESULTED Collect D/T=
+SURGICAL PATHOLOGY
+Modifiers:
+SURGICAL PATHOLOGY:
+CoPath Specimen
+
+Source:
+A: Uterus \T\ Cervix
+B: Left Pelvic lymph node
+C: Left Peri-aortic lymph node
+D: Right Pelvic lymph node
+E: Right Peri-aortic lymph node
+
+Final Diagnosis
+A. Uterus and cervix (hysterectomy, 85 gm):
+- Polypoid adenocarcinoma, endometrioid type, FIGO grade 2-3,
+1.6 X 1.5 X 1.0 cm
+- Tumor shows superficial myometrial invasion involving 7% of
+myometrial wall thickness (0.1 cm /1.4 cm).
+- Tumor does not involve lower uterine segment or cervix.
+- Highly suspicious for lymphovascular invasion.
+- Left and right parametrial margins are negative for
+malignancy.
+- Background complex hyperplasia with atypia identified in lower
+uterine segment.
+- Unremarkable ectocervix and endocervix.
+- Follicular cyst of right ovary.
+- Hemorrhagic corpus luteum cyst of left ovary.
+- Unremarkable right and left fallopian tubes.
+
+B. Left pelvic lymph node (excision):
+- Four lymph nodes negative for malignancy (0/4).
+
+C. Left periaortic lymph node (excision):
+- Three lymph nodes negative for malignancy (0/3).
+
+D. Right pelvic lymph node (excision):
+- Fibroadipose tissue, no lymph nodes identified
+
+E. Right periaortic lymph node (excision):
+- Two lymph nodes negative for malignancy (0/2).
+
+***Electronically Signed Out
+
+===================================== PAGE 2 =====================================
+Page 2
+
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+Printed
+
+Nam
+Loc
+---------------------------
+SURGICAL PATHOLOGY
+(Continued)
+
+Acct#: [blacked out] GYNS Adm:
+
+Clinical History
+year-old female with endometrial cancer.
+
+Pre Operative Diagnosis
+Endometrial cancer.
+
+Operation Performed
+LSC hysterectomy; BSO + BPPALND.
+
+Gross Description
+The specimen is received in 5 parts.
+
+Part A is labeled "uterus and cervix" and consists of a uterus
+and cervix with attached adnexa, previously opened, laterally on
+the right side. The specimen weighs 85 grams and measures
+10.5 X 7.5 X 4.5 cm in aggregate. The left fallopian tube
+measures 3.4 cm in length by 0.5 cm in diameter. The left ovary
+measures 2.6 X 2.4 X 1.5 cm and is tan-white with multiple, <
+0.5 cm serous cysts. The right fallopian tube measures 3.2 cm
+in length by 0.4 cm in diameter. The right ovary measures 3.0 X
+2.2 X 1.8 cm and is tan-white with multiple subcentimeter cystic
+lesions. The uterus measures 5.5 cm in width, 7.3 cm in length,
+and 3.5 cm anterior to posterior. The cervix measures 2.6 cm in
+diameter. The endometrial cavity contains a 1.6 X 1.5 X 1.0 cm,
+soft, partially necrotic lesion in the anterior half. The
+endometrial cavity measures 2.0 X 5.0 X 0.6 cm. The myometrium
+measures 1.3 cm in thickness and the endometrium measures 0.2 cm
+in thickness. The tumor is located 1.2 cm from the anterior
+margin and 1.2 cm from the posterior margin. The specimen is
+inked as follows: anterior=red, posterior=black, right
+parametrium=orange, left parametrium=green. Representative
+sections are submitted as follows:
+
+Cassette Summary:
+A1 and A2 right ovary and fallopian tube, representative,
+A3 left ovary and fallopian tube, representative,
+A4 left parametrial margin,
+A5 right parametrial margin,
+A6 anterior cervix,
+A7 posterior cervix,
+A8 anterior lower uterine segment,
+A9 posterior lower uterine segment.
+
+===================================== PAGE 3 =====================================
+Page 3
+
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+Printed
+
+Name
+LOC:
+
+Surgical Pathology
+(Continued)
+
+Acct#:          Adm:
+
+A11 thru A13 tumor and anterior endomyometrium,
+A14 posterior endomyometrium and margin.
+
+Part B is labeled "left pelvic lymph node" and consists of
+multiple fragments of fibroadipose tissue, measuring 1.2 X 1.0 X
+0.3 cm in aggregate. The specimen is entirely submitted in
+cassettes B1 and B2.
+
+Part C is labeled "left periaortic lymph node" and consists of
+multiple fragments of fibroadipose tissue, measuring 1.1 X 1.1 X
+0.2 cm in aggregate. The specimen is entirely submitted in
+cassette C.
+
+Part D is labeled "right pelvic lymph node" and consists of
+multiple fragments of fibroadipose tissue, measuring 1.1 X 1.0 X
+0.2 cm in aggregate. The specimen is entirely submitted in
+cassette D.
+
+Part E is labeled "right periaortic lymph node" and consists of
+multiple fragments of fibroadipose tissue, measuring 1.0 X 1.0 X
+0.2 cm in aggregate. The specimen is entirely submitted in
+cassette E.
+
+Microscopic Description
+A microscopic examination was performed.
+
+===================================== PAGE 4 =====================================
+FINAL REPORT
+
+Admit Date:
+Discharge Date:
+
+Chief Complaint: vaginal cuff abscess/dehissance
+Age:
+LMP:
+HPI: y/o G0 s/p laparoscopic hysterectomy, BSO, for Stage IB, G 2-3 Endometrial adenoca. Patient reports occasional vaginal spotting. Her pain is well controlled on PO pain medications. She denies N/V/CP/SOB/F/C. On post-op exam in clinic today patient noted to have opening at vaginal cuff draining copious amounts of purulent material. Of note, the patient has a h/o DM and reports that she has not been checking her BS at home
+
+Past Medical History: DM, CHTN, Hypercholesterolemia
+
+Past Surgical History:
+    : TLH, BSO, BPPALND
+
+Past OB/GYN History:
+1) G:0 P:0
+2) OB History: n/a
+3) Pap/STD History: no h/o abnormal Pap or STI
+4) Menstrual: as above
+5) Last Pap: as per HPI
+6) Last Mammo: in     benign
+7) BCM: none
+
+Social History:
+
+Family History: no cancer
+
+Medications:
+
+Allergies: NKDA
+
+ROS:
+1) HEENT: negative
+2) Cardiac: negative
+3) Respiratory: negative
+4) GI, Liver: negative
+5) GU: see HPI / GYN Hx
+
+===================================== PAGE 5 =====================================
+Page 2
+
+Loc/SVC=/GYNS
+FINAL REPORT
+
+Admit Date:
+Discharge Date:
+
+==================================================
+6) Neuro: negative
+7) Skin: negative
+8) Bleeding Tendencies: negative
+9) Other: negative
+
+Physical Examination:
+
+1) HEENT: WNL
+2) Breast: ND
+3) Chest/Lungs: RRR. CTA bilaterally
+4) Abdomen: soft. NT. ND. no masses. +BS. Steri-strips c/d/i.
+5) Extremities: no edema
+6) Neuro: nonfocal
+7) Skin: WNL
+8) LN: no LAD
+9) Pelvic:
+10) Vulva: WNL
+11) Vagina: cuff open. copious amounts of purulent discharge. Cultures sent
+
+Labs: ordered
+
+Imaging: CT Abd/Pelvis ordered
+
+Assessment and Plan:
+y/o G0    s/p TLH, BSO, PPALND for Stage Ib endometrial adenoCA,
+admitted to gyn service for cuff abscess/dehissence
+- UA, UCx, cultures of vaginal cuff sent from clinic today
+- Will order CT abdomen / pelvis with PO and IV contrast
+- CBC with dif
+- blood cultures x2; will start on IV Levaquin/Flagyl once blood cultrues drawn
+- DM: will start on diabetic diet with qAC accucheck
+- HTN: will re-start home meds of Atenolol and Benazepril
+- DVT PPx: patient to complete 2week outpatient course of prophylactic
+
+===================================== PAGE 6 =====================================
+Page 3
+
+LOC/Svc=/GYNS
+FINAL REPORT
+
+==============================
+Lovenox during this admission
+
+    R1/           R4
+DW Onc Fellow
+PLEASE SEE ATTENDING ADDENDUM
+DISCUSSED WITH DOCTOR:
+
+==============================
+Admit Date=
+Discharge Date=
+
+==============================
+
+Criteria             Yes   No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is (circle):     QUALIFIED / DISQUALIFIED
+Reviewer Initials      Date Reviewed:
+
+==============================
+Dictated By=            (MD)
+Text Status=FINAL
+Elec Signed By= (Electronic Signature)
+(MD)

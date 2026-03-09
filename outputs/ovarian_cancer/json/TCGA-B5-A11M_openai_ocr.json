@@ -1,0 +1,191 @@
+{
+  "pdf": "reports\\TCGA-B5-A11M\\TCGA-B5-A11M.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 33.95648789405823,
+        "chars": 3202,
+        "words": 491,
+        "text": "ICS-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nStr: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nHyperplasia, endometrial.\n\nGROSS EXAMINATION:\nA. \"Uterus and cervix (AF1)\", received is a 256 gram, 12.5 x 8.5 x 5.5 cm\nuterus (cervix 3.6 cm diameter; cervical os 0.8 cm diameter) which is bivalved\nto reveal a 6.5 x 5 cm uterine cavity lined by diffusely thickened, shaggy\nendometrium (up to 1.6 cm thick anteriorly and 1.4 cm thick posteriorly) that\nextends into both anterior and posterior lower uterine segments and does not\ngrossly invade the myometrium. A 2.5 x 2 cm area of posterior endometrium\nfeatures flattening and white fibrous scarring (1.6 cm from the lower uterine\nsegment). Representative anterior endomyometrium is frozen as AF1. The\nmyometrium (3.1 cm maximal thickness) is diffusely trabeculated. Attached to\nthe posterior cervix is a 3.2 x 1.6 x 0.2 cm flap of unremarkable vaginal\nepithelium. The uterine serosal surface is unremarkable, and the ectocervix\nexhibits multiple pink wart-like nodules (0.1 to 0.2 cm in greatest\ndimension), more numerous on the anterior cervix.\n\nBLOCK SUMMARY:\nA1- frozen section remnant AF1, representative anterior endomyometrium\nA2- tangential posterior vaginal flap margin\nA3- anterior cervix\nA4- posterior cervix\nA5- anterior lower uterine segment\nA6- posterior lower uterine segment (disrupted during sectioning)\nA7-8- anterior endomyometrium, full thickness, bisected\nA9-10- additional anterior endometrium\nA11-12- posterior endomyometrium, full thickness, bisected\nA13-14- additional posterior endometrium\n\nB. \"Right tube and ovary\", received is a 44 gram salpingo-oophorectomy\nspecimen (fallopian tube 4.5 cm long x 0.6 cm diameter; ovarian cyst 4.8 x 4.3\nx 3.8 cm) exhibiting a predominantly smooth walled ovarian cyst with rare\nscattered tan nodules (up to 0.2 cm in greatest dimension) which is opened to\nreveal a unilocular serous fluid-filled cyst with a smooth inner lining\nexhibiting foci of hemorrhage but no excrescence (wall thickness 0.1 to 0.2\ncm). The cyst eminates from the ovarian serosa (ovary 2.4 x 1.6 x 0.9 cm),\nand the ovary is sectioned to reveal unremarkable ovarian stroma. The\nfallopian tube has a unremarkable serosal surface with an adjacent 0.6 x 0.6 x\n0.5 cm serous fluid-filled paratubal cyst. Sectioning reveals an unremarkable\npatent lumen.\nUUID:3C00B510-8D9C-4DD4-9E7C-FC058230BE97\nTCGA-B5-A11M-01A-PR Redacted\nBLOCK SUMMARY:\nB1- cyst wall\nB2- ovary\nB3- fallopian tube\n\nC. \"Left tube and ovary\", received is a 14 gram salpingo-oophorectomy specimen\n(ovary 3.1 x 2.1 x 1.8 cm; fallopian tube 4.8 cm long x 0.5 cm diameter). The\novary has a roughened pink-tan cerebriform serosal surface and is sectioned to\nreveal several cortical serous fluid-filled cyst up to 0.4 cm in greatest\ndimension. The fallopian tube has an unremarkable serosal surface and is\nsectioned to reveal an unremarkable patent lumen. Two paratubal serous\nfluid-filled cyst (up to 0.7 cm in greatest dimension) are noted. Ovary\nsubmitted in block C1, fallopian tube in block C2.\n\nD. \"Posterior vagina\", received is a 1.7 x 1.2 x 0.5 cm piece of pink-tan\ntissue with a smooth epithelial lining on one surface bearing blue ink from a",
+        "confidence": {
+          "mean_probability": 0.9930294985417559,
+          "mean_log_probability": -0.009867633901705116,
+          "perplexity": 1.009916479532514,
+          "min_probability": 0.08051586767555324
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 998,
+          "total_tokens": 3470
+        },
+        "composite_score": 0.9921830278975627,
+        "quality_warning": true,
+        "quality_warnings": [
+          "High variance between attempts: 44.7% - results inconsistent"
+        ],
+        "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 44.7% - results inconsistent"
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 33.95648789405823,
+          "chars": 3202,
+          "words": 491,
+          "text": "ICS-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nStr: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nHyperplasia, endometrial.\n\nGROSS EXAMINATION:\nA. \"Uterus and cervix (AF1)\", received is a 256 gram, 12.5 x 8.5 x 5.5 cm\nuterus (cervix 3.6 cm diameter; cervical os 0.8 cm diameter) which is bivalved\nto reveal a 6.5 x 5 cm uterine cavity lined by diffusely thickened, shaggy\nendometrium (up to 1.6 cm thick anteriorly and 1.4 cm thick posteriorly) that\nextends into both anterior and posterior lower uterine segments and does not\ngrossly invade the myometrium. A 2.5 x 2 cm area of posterior endometrium\nfeatures flattening and white fibrous scarring (1.6 cm from the lower uterine\nsegment). Representative anterior endomyometrium is frozen as AF1. The\nmyometrium (3.1 cm maximal thickness) is diffusely trabeculated. Attached to\nthe posterior cervix is a 3.2 x 1.6 x 0.2 cm flap of unremarkable vaginal\nepithelium. The uterine serosal surface is unremarkable, and the ectocervix\nexhibits multiple pink wart-like nodules (0.1 to 0.2 cm in greatest\ndimension), more numerous on the anterior cervix.\n\nBLOCK SUMMARY:\nA1- frozen section remnant AF1, representative anterior endomyometrium\nA2- tangential posterior vaginal flap margin\nA3- anterior cervix\nA4- posterior cervix\nA5- anterior lower uterine segment\nA6- posterior lower uterine segment (disrupted during sectioning)\nA7-8- anterior endomyometrium, full thickness, bisected\nA9-10- additional anterior endometrium\nA11-12- posterior endomyometrium, full thickness, bisected\nA13-14- additional posterior endometrium\n\nB. \"Right tube and ovary\", received is a 44 gram salpingo-oophorectomy\nspecimen (fallopian tube 4.5 cm long x 0.6 cm diameter; ovarian cyst 4.8 x 4.3\nx 3.8 cm) exhibiting a predominantly smooth walled ovarian cyst with rare\nscattered tan nodules (up to 0.2 cm in greatest dimension) which is opened to\nreveal a unilocular serous fluid-filled cyst with a smooth inner lining\nexhibiting foci of hemorrhage but no excrescence (wall thickness 0.1 to 0.2\ncm). The cyst eminates from the ovarian serosa (ovary 2.4 x 1.6 x 0.9 cm),\nand the ovary is sectioned to reveal unremarkable ovarian stroma. The\nfallopian tube has a unremarkable serosal surface with an adjacent 0.6 x 0.6 x\n0.5 cm serous fluid-filled paratubal cyst. Sectioning reveals an unremarkable\npatent lumen.\nUUID:3C00B510-8D9C-4DD4-9E7C-FC058230BE97\nTCGA-B5-A11M-01A-PR Redacted\nBLOCK SUMMARY:\nB1- cyst wall\nB2- ovary\nB3- fallopian tube\n\nC. \"Left tube and ovary\", received is a 14 gram salpingo-oophorectomy specimen\n(ovary 3.1 x 2.1 x 1.8 cm; fallopian tube 4.8 cm long x 0.5 cm diameter). The\novary has a roughened pink-tan cerebriform serosal surface and is sectioned to\nreveal several cortical serous fluid-filled cyst up to 0.4 cm in greatest\ndimension. The fallopian tube has an unremarkable serosal surface and is\nsectioned to reveal an unremarkable patent lumen. Two paratubal serous\nfluid-filled cyst (up to 0.7 cm in greatest dimension) are noted. Ovary\nsubmitted in block C1, fallopian tube in block C2.\n\nD. \"Posterior vagina\", received is a 1.7 x 1.2 x 0.5 cm piece of pink-tan\ntissue with a smooth epithelial lining on one surface bearing blue ink from a",
+          "confidence": {
+            "mean_probability": 0.9930294985417559,
+            "mean_log_probability": -0.009867633901705116,
+            "perplexity": 1.009916479532514,
+            "min_probability": 0.08051586767555324
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 998,
+            "total_tokens": 3470
+          },
+          "composite_score": 0.9921830278975627,
+          "quality_warning": true,
+          "quality_warnings": [
+            "High variance between attempts: 44.7% - results inconsistent"
+          ],
+          "warning_message": "QUALITY ALERT - Manual review recommended:\n  - High variance between attempts: 44.7% - results inconsistent"
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 42.74443030357361,
+          "chars": 3202,
+          "words": 491,
+          "text": "ICS-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nStr: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nHyperplasia, endometrial.\n\nGROSS EXAMINATION:\nA. \"Uterus and cervix (AF1)\", received is a 256 gram, 12.5 x 8.5 x 5.5 cm\nuterus (cervix 3.6 cm diameter; cervical os 0.8 cm diameter) which is bivalved\nto reveal a 6.5 x 5 cm uterine cavity lined by diffusely thickened, shaggy\nendometrium (up to 1.6 cm thick anteriorly and 1.4 cm thick posteriorly) that\nextends into both anterior and posterior lower uterine segments and does not\ngrossly invade the myometrium. A 2.5 x 2 cm area of posterior endometrium\nfeatures flattening and white fibrous scarring (1.6 cm from the lower uterine\nsegment). Representative anterior endomyometrium is frozen as AF1. The\nmyometrium (3.1 cm maximal thickness) is diffusely trabeculated. Attached to\nthe posterior cervix is a 3.2 x 1.6 x 0.2 cm flap of unremarkable vaginal\nepithelium. The uterine serosal surface is unremarkable, and the ectocervix\nexhibits multiple pink wart-like nodules (0.1 to 0.2 cm in greatest\ndimension), more numerous on the anterior cervix.\n\nBLOCK SUMMARY:\nA1- frozen section remnant AF1, representative anterior endomyometrium\nA2- tangential posterior vaginal flap margin\nA3- anterior cervix\nA4- posterior cervix\nA5- anterior lower uterine segment\nA6- posterior lower uterine segment (disrupted during sectioning)\nA7-8- anterior endomyometrium, full thickness, bisected\nA9-10- additional anterior endometrium\nA11-12- posterior endomyometrium, full thickness, bisected\nA13-14- additional posterior endometrium\n\nB. \"Right tube and ovary\", received is a 44 gram salpingo-oophorectomy\nspecimen (fallopian tube 4.5 cm long x 0.6 cm diameter; ovarian cyst 4.8 x 4.3\nx 3.8 cm) exhibiting a predominantly smooth walled ovarian cyst with rare\nscattered tan nodules (up to 0.2 cm in greatest dimension) which is opened to\nreveal a unilocular serous fluid-filled cyst with a smooth inner lining\nexhibiting foci of hemorrhage but no excrescence (wall thickness 0.1 to 0.2\ncm). The cyst eminates from the ovarian serosa (ovary 2.4 x 1.6 x 0.9 cm),\nand the ovary is sectioned to reveal unremarkable ovarian stroma. The\nfallopian tube has a unremarkable serosal surface with an adjacent 0.6 x 0.6 x\n0.5 cm serous fluid-filled paratubal cyst. Sectioning reveals an unremarkable\npatent lumen.\nUUID:3C00B510-8D9C-4DD4-9E7C-FC058230BE97\nTCGA-B5-A11M-01A-PR Redacted\nBLOCK SUMMARY:\nB1- cyst wall\nB2- ovary\nB3- fallopian tube\n\nC. \"Left tube and ovary\", received is a 14 gram salpingo-oophorectomy specimen\n(ovary 3.1 x 2.1 x 1.8 cm; fallopian tube 4.8 cm long x 0.5 cm diameter). The\novary has a roughened pink-tan cerebriform serosal surface and is sectioned to\nreveal several cortical serous fluid-filled cyst up to 0.4 cm in greatest\ndimension. The fallopian tube has an unremarkable serosal surface and is\nsectioned to reveal an unremarkable patent lumen. Two paratubal serous\nfluid-filled cyst (up to 0.7 cm in greatest dimension) are noted. Ovary\nsubmitted in block C1, fallopian tube in block C2.\n\nD. \"Posterior vagina\", received is a 1.7 x 1.2 x 0.5 cm piece of pink-tan\ntissue with a smooth epithelial lining on one surface bearing blue ink from a",
+          "confidence": {
+            "mean_probability": 0.9927114210857093,
+            "mean_log_probability": -0.010280069207622868,
+            "perplexity": 1.010333090651363,
+            "min_probability": 0.08700801831797686
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 998,
+            "total_tokens": 3470
+          },
+          "composite_score": 0.942266646808225
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 166.98786425590515,
+          "chars": 7643,
+          "words": 360,
+          "text": "ICS-0-3\nAdenocarcinoma, endometriod, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nHyperplasia, endometrial.\n\nGROSS EXAMINATION:\nA. \"Uterus and cervix (AF1)\", received is a 256 gram, 12.5 x 8.5 x 5.5 cm\nuterus (cervix 3.6 cm diameter; cervical os 0.8 cm diameter) which is bivalved\nto reveal a 6.5 x 5 cm uterine cavity lined by diffusely thickened, shaggy\nendometrium (up to 1.6 cm thick anteriorly and 1.4 cm thick posteriorly) that\nextends into both anterior and posterior lower uterine segments and does not\ngrossly invade the myometrium. A 2.5 x 2 cm area of posterior endometrium\nfeatures flattening and white fibrous scarring (1.6 cm from the lower uterine\nsegment). Representative anterior endomyometrium is frozen as AF1. The\nmyometrium (3.1 cm maximal thickness) is diffusely trabeculated. Attached to\nthe posterior cervix is a 3.2 x 1.6 x 0.2 cm flap of unremarkable vaginal\nepithelium. The uterine serosal surface is unremarkable, and the ectocervix\nexhibits multiple pink wart-like nodules (0.1 to 0.2 cm in greatest\ndimension), more numerous on the anterior cervix.\n\nBLOCK SUMMARY:\nA1- frozen section remnant AF1, representative anterior endomyometrium\nA2- tangential posterior vaginal flap margin\nA3- anterior cervix\nA4- posterior cervix\nA5- anterior lower uterine segment\nA6- posterior lower uterine segment (disrupted during sectioning)\nA7-8- anterior endomyometrium, full thickness, bisected\nA9-10- additional anterior endometrium\nA11-12- posterior endomyometrium, full thickness, bisected\nA13-14- additional posterior endometrium\n\nB. \"Right tube and ovary\", received is a 44 gram salpingo-oophorectomy\nspecimen (fallopian tube 4.5 cm long x 0.6 cm diameter; ovarian cyst 4.8 x 4.3\nx 3.8 cm) exhibiting a predominantly smooth walled ovarian cyst with rare\nscattered tan nodules (up to 0.2 cm in greatest dimension) which is opened to\nreveal a unilocular serous fluid-filled cyst with a smooth inner lining\nexhibiting foci of hemorrhage but no excrescence (wall thickness 0.1 to 0.2\ncm). The cyst eminates from the ovarian serosa (ovary 2.4 x 1.6 x 0.9 cm),\nand the ovary is sectioned to reveal unremarkable ovarian stroma. The\nfallopian tube has a unremarkable serosal surface with an adjacent 0.6 x 0.6 x\n0.5 cm serous fluid-filled paratubal cyst. Sectioning reveals an unremarkable\npatent lumen.\n                                  UUID:3C00B510-8D9C-4DD4-9E7C-FC058230BE97\n                                  TCGA-B5-A11M-01A-PR Redacted\nBLOCK SUMMARY: ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+          "confidence": {
+            "mean_probability": 0.9891417296822913,
+            "mean_log_probability": -0.0137685810546875,
+            "perplexity": 1.0138638044954709,
+            "min_probability": 0.039542390709688305
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 2048,
+            "total_tokens": 4520
+          },
+          "composite_score": 0.3946647590438402
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 17.56434917449951,
+        "chars": 2122,
+        "words": 266,
+        "text": "Page 2 of 2\n\nmarking pen.  The deep margin of the specimen is inked blue, and the specimen\nis serially sectioned and submitted in blocks D1-2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus and cervix\":\n      AF1 (anterior endomyometrium)- 1 mm myometrial invasion in a\n               2.5 cm thick wall (Dr.               ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY & OOPHORECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B  pNX  pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer.  Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings.  Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 256 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETR7OID ADENOCARCINOMA.\n            FIGO GRADE: 1\n            TUMOR SIZE: DIFFUSE\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION:  0.1 CM, IN A 2.5 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NONE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\n                                                                 NEOPLASIA (EIN)\n      REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nB. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nC. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nD. POSTERIOR VAGINA: NO PATHOLOGIC DIAGNOSIS.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]",
+        "confidence": {
+          "mean_probability": 0.9749239433699142,
+          "mean_log_probability": -0.04230776570458404,
+          "perplexity": 1.0432154953012314,
+          "min_probability": 0.07977724225290353
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 590,
+          "total_tokens": 3062
+        },
+        "composite_score": 0.9675276212292367,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 17.56434917449951,
+          "chars": 2122,
+          "words": 266,
+          "text": "Page 2 of 2\n\nmarking pen.  The deep margin of the specimen is inked blue, and the specimen\nis serially sectioned and submitted in blocks D1-2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus and cervix\":\n      AF1 (anterior endomyometrium)- 1 mm myometrial invasion in a\n               2.5 cm thick wall (Dr.               ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY & OOPHORECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B  pNX  pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer.  Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings.  Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 256 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETR7OID ADENOCARCINOMA.\n            FIGO GRADE: 1\n            TUMOR SIZE: DIFFUSE\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION:  0.1 CM, IN A 2.5 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NONE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\n                                                                 NEOPLASIA (EIN)\n      REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nB. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nC. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nD. POSTERIOR VAGINA: NO PATHOLOGIC DIAGNOSIS.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted]",
+          "confidence": {
+            "mean_probability": 0.9749239433699142,
+            "mean_log_probability": -0.04230776570458404,
+            "perplexity": 1.0432154953012314,
+            "min_probability": 0.07977724225290353
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 590,
+            "total_tokens": 3062
+          },
+          "composite_score": 0.9675276212292367,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 14.702497482299805,
+          "chars": 2155,
+          "words": 270,
+          "text": "Page 2 of 2\n\nmarking pen.  The deep margin of the specimen is inked blue, and the specimen\nis serially sectioned and submitted in blocks D1-2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus and cervix\":\n      AF1 (anterior endomyometrium)- 1 mm myometrial invasion in a\n                    2.5 cm thick wall (Dr.          ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY & OOPHORECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer.  Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings.  Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 256 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETR OID ADENOCARCINOMA.\n            FIGO GRADE: 1\n            TUMOR SIZE: DIFFUSE\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.1 CM, IN A 2.5 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NONE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\n                                                                 NEOPLASIA (EIN)\n      REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nB. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nC. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nD. POSTERIOR VAGINA: NO PATHOLOGIC DIAGNOSIS.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[REDACTED]\n\n[REDACTED]\n\n[REDACTED]\n\n[REDACTED]",
+          "confidence": {
+            "mean_probability": 0.9754762362907395,
+            "mean_log_probability": -0.04178516336633663,
+            "perplexity": 1.042670450877241,
+            "min_probability": 0.05323650147258956
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 607,
+            "total_tokens": 3079
+          },
+          "composite_score": 0.919517012456004
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 17.2142117023468,
+          "chars": 2150,
+          "words": 266,
+          "text": "Page 2 of 2\n\nmarking pen.  The deep margin of the specimen is inked blue, and the specimen\nis serially sectioned and submitted in blocks D1-2.\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus and cervix\":\n    AFI (anterior endomyometrium)- 1 mm myometrial invasion in a\n        2.5 cm thick wall (Dr.           ).\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY & OOPHORECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1B pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer.  Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings.  Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 256 GRAMS\n        ENDOMETRIUM:\n                TUMOR SITE: CORPUS\n                HISTOLOGIC TYPE: ENDOMETR OID ADENOCARCINOMA.\n                FIGO GRADE: 1\n                TUMOR SIZE: DIFFUSE\n                MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.1 CM, IN A 2.5 THICK WALL.\n                LYMPHATIC/VASCULAR INVASION: NONE\n                ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIAL INTRAEPITHELIAL\n                                                                 NEOPLASIA (EIN)\n        REMAINING MYOMETRIUM: NO PATHOLOGIC DIAGNOSIS.\n        CERVIX: NO PATHOLOGIC DIAGNOSIS.\n        SEROSA: NO PATHOLOGIC DIAGNOSIS.\n        SPECIMEN MARGINS: NOT INVOLVED\n\nB. RIGHT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nC. LEFT OVARY AND FALLOPIAN TUBE: NO PATHOLOGIC DIAGNOSIS.\n\nD. POSTERIOR VAGINA: NO PATHOLOGIC DIAGNOSIS.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "confidence": {
+            "mean_probability": 0.9781387934952409,
+            "mean_log_probability": -0.03681275814751287,
+            "perplexity": 1.0374987394639923,
+            "min_probability": 0.06646797674572029
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 584,
+            "total_tokens": 3056
+          },
+          "composite_score": 0.9230156713714653
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

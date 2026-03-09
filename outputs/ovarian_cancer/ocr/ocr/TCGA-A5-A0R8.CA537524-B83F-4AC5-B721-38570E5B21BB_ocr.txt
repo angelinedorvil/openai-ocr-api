@@ -1,0 +1,194 @@
+
+
+===================================== PAGE 1 =====================================
+ICD - 0 - 3
+Adenocarcinoma, endometrioid, NOS
+Site: Endometrium c.54.1   8380/3      1w     1/22/10
+
+UUID: CAS37524-BB3F-4AC5-B721-38570E5B21BB
+TCGA-A5-AOR8-01A-PR    Redacted
+
+Surgical Pathology Report
+
+DIAGNOSIS:
+
+SYNOPTIC REPORT:
+Applies To:
+A : UTERUS, CERVIX, BILATERAL TUBES AND OVARIES
+B : RIGHT PELVIC LYMPH NODE
+C : RIGHT COMMON ILIAC
+D : LEFT PELVIC LYMPH NODE
+E : LEFT COMMON ILIAC
+
+Microscopic
+Histologic Type: Endometrioid adenocarcinoma, not otherwise characterized
+Histologic Grade: FIGO grade 2
+Tumor Size: Dimensions: 3.8 x 3.5 x 3.5cm
+Myometrial Invasion: Invasion present
+Depth of invasion: 0.12cm
+Myometrial thickness: 0.21cm
+Greater than 50% myometrial invasion
+Involvement of Cervix: No involvement
+Margins: Uninvolved by invasive carcinoma
+Lymphovascular Invasion: Present
+
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+Primary Tumor (pT): pT1b [IB]: Tumor invades greater than or equal to one-half of the myometrium
+Regional Lymph Nodes (pN):
+Number of pelvic lymph nodes examined: 9
+Number of pelvic lymph nodes involved: 0
+Number of para-aortic lymph nodes examined: 0
+Number of para-aortic lymph nodes involved: 0
+
+A. UTERUS, CERVIX, BILATERAL TUBES AND OVARIES:
+
+Page 1 of 4
+
+===================================== PAGE 2 =====================================
+- Endometrial adenocarcinoma, endometrioid type, low-grade II, invasive, depth 12.0 mm, myometrial thickness 21.0 mm
+- Focal vascular invasion positive
+- The tumor size is 3.9 x 3.5 cm
+- Leiomyomas
+- Cervix: endocervical polyp and squamous metaplasia, no tumor present
+- Parametria: no tumor present
+- Ovaries: no pathologic diagnosis
+- Fallopian tubes: focal epithelial hyperplasia
+- There is no atypia
+
+B. RIGHT LYMPH NODE:
+- One lymph node, no tumor present
+
+C. RIGHT COMMON ILIAC:
+- Fibroadipose tissue, no lymph node identified, no tumor present
+
+D. LEFT PELVIC LYMPH NODE:
+- Lymph nodes, probably six, no tumor present
+
+E. LEFT COMMON ILIAC:
+- Two lymph nodes, no tumor present
+
+HISTORY:
+Preop diagnosis: Uterine cancer
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+GROSS:
+A. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIIES
+Labeled with the patient's name, labeled "uterus, cervix, bilateral fallopian tubes and ovaries", and received fresh in the Operating Room for gross and frozen section evaluation and subsequently fixed in formalin is an opened 100 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 7.0 x 4.9 x 4.8 cm. The cervical portion of the uterus is about 2.5 cm long and up to 2.4 cm in width. The endometrial cavity is 4.1 cm long and up to 3.6 cm in width. The endometrial mucosa ranges from 0.1 to 0.4 cm in thickness. The muscular uterine wall ranges from 0.9 to 2.0 cm in thickness. There are parametrial soft tissues attached to the uterus, those on the right side are up to 0.7 cm in width and those on the left side are up to 0.9 cm in width. The right ovary is 1.9 x 0.9 x 0.7 cm. The fimbriated right fallopian tube is 7.5 cm long, ranges from 0.3 to 0.5 cm in diameter and has a maximum luminal diameter of 0.1 cm. The left ovary is 1.5 x 0.9 x 0.7 cm. The fimbriated left fallopian tube is 6.8 cm long, ranges from 0.3 to 0.5 cm in diameter and has a maximum luminal diameter of 0.1 cm.
+
+There is a soft yellow-tan friable endometrial tumor that involves a 3.8 x 3.5 cm area of the mucosa in the anterior uterine corpus, lower uterine segment, and fundus. Myometrial invasion by semi-firm tan-yellow tumor is present and involves approximately 55% of the uterine wall thickness (involves up to 1.5 cm of the wall, in an area where the maximum wall thickness is 2.5 cm). The uterine serosa is uninvolved by tumor. The cervix, vaginal cuff and parametria appear grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tubes. Within the myometrium of the posterior uterine corpus, there are two ill-defined areas of soft tan-yellow tissue. One of these areas measures 1.8 x 1.0 cm, is submucosal and extends 0.8 cm into the myometrium. The other lesion measures 0.7 x 0.6 cm, and is intramural, and extends up to 1.0 cm into the myometrium.
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 4
+
+===================================== PAGE 3 =====================================
+About seven well-circumscribed uterine leiomyomas ranging from 0.2 to 2.0 cm in diameter are also present. Most are intramural, one is submucosal, and one is subserosal. The leiomyomas are each composed of firm solid tan-white whorled tissue without grossly evident areas of necrosis or hemorrhage. The anterior cervix is remarkable for a 0.8 x 0.4 x 0.2 cm possible polypoid area.
+
+Both ovaries are atrophic. The left fallopian tube is unremarkable. The right fallopian tube shows two paratubal cysts measuring 0.2 to 0.5 cm in greatest dimension, each lined by tan smooth tissue and each filled with clear fluid.
+
+Ink key: Blue - anterior and posterior resection margins.
+
+Representative sections are submitted (including the endometrial tumor in its entirety).
+
+Slide key:
+A1. Frozen section remnant (FSA) - 1
+A2. Anterior cervix with possible endocervical polyp - 1
+A3. Posterior cervix - 1
+A4. Left parametrial tissue - multiple
+A5. Right parametrial tissue - multiple
+A6. Tumor with deepest point of invasion, anterior uterine corpus (bisected) - 2
+A7. Tumor, anterior uterine corpus (bisected) - 2
+A8. Tumor, anterior uterine corpus - 2
+A9, A10. Tumor, anterior uterine corpus - 1 each
+A11. Tumor, anterior uterine corpus - 4
+A12. Tumor, anterior uterine corpus - 4
+A13, A14. Anterior fundus with tumor, anterior fundus - 1 each
+A15. Tumor, fundus - 4
+A16. Two leiomyomas in anterior uterine corpus - 2
+A17. Tumor, anterior lower uterine segment - 2
+A18. Posterior uterine corpus with soft tan-yellow area within myometrium and additional leiomyoma - 1
+A19. Thickened endometrial mucosa of posterior uterine fundus - 2
+A20. Second soft tan-yellow areas within myometrium, superior posterior uterine fundus - 1
+A21. Posterior uterine corpus with submucosal leiomyoma - 1
+A22. Left ovary - 1
+A23. Left fallopian tube, proximal, mid, distal, fimbriated - 4
+A24. Right ovary - 1
+A25. Right fallopian tube, proximal, mid, distal, fimbriated; paratubal cyst - 5
+
+B. RIGHT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "right pelvic lymph node", and received in formalin are four tan-yellow fibrofatty portions of tissue measuring 0.6 to 2.0 cm in greatest dimension and aggregating to 3.5 x 2.0 x 0.7 cm. One possible lymph node measuring 1.5 cm in greatest dimension is identified. Sectioning reveals a tan-yellow cut surface with partial fatty replacement. No obvious tumor involvement is seen.
+
+Lymph node entirely submitted.
+
+Slide key:
+B1. One lymph node (bisected) - 2
+
+C. RIGHT COMMON ILIAC
+Labeled with the patient's name, labeled "right common iliac", and received in formalin are multiple portions of tan-yellow fibrofatty tissue measuring 0.3 to 1.5 cm in greatest dimension, and aggregating to 1.7 x 1.3 x 0.8 cm.
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 4
+
+===================================== PAGE 4 =====================================
+Two possible lymph nodes measuring 0.3 and 0.4 cm in greatest dimension are identified. No obvious tumor involvement is identified.
+
+The entire tissue has been submitted.
+
+Slide key:
+C1. Two possible lymph nodes - 2
+C2, C3. Remainder of specimen - multiple each
+
+D. LEFT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "left pelvic lymph node", and received in formalin are multiple portions of tan-yellow fibrofatty tissue measuring 0.2 to 1.5 cm in greatest dimension and aggregating to 4.0 x 3.3 x 0.8 cm.
+
+Sectioning reveals fragmented portions of a lymph node, consisting of six fragments which aggregate to 2.0 x 2.0 x 0.7 cm. Due to extensive fragmentation, the exact number of lymph nodes cannot be determined. No obvious tumor involvement is seen.
+
+Fragments of lymph node entirely submitted.
+
+Slide key:
+D1. Fragments of lymph node - multiple
+
+E. LEFT COMMON ILIAC
+Labeled with the patient's name, labeled "left common iliac", and received in formalin are four portions of tan-yellow fibrofatty tissue measuring 0.4 to 1.6 cm in greatest dimension and aggregating to 2.1 x 1.5 x 0.7 cm.
+
+Two possible lymph nodes measuring 0.3 and 0.4 cm in greatest dimension are identified.
+
+Lymph nodes entirely submitted.
+
+Slide key:
+E1. Two possible lymph nodes - 2
+
+Gross dictated by
+.)
+
+INTRAOPERATIVE CONSULTATION:
+OPERATIVE CALL
+OPERATIVE CONSULT (GROSS):
+(SPECIMEN A):
+- Consistent with endometrial carcinoma, grossly invading into outer half of myometrium
+
+OPERATIVE CONSULT (FROZEN):
+FSA (SPECIMEN A):
+- Invasive endometrial adenocarcinoma
+
+I have personally examined the specimen interpreted the results, reviewed the report and signed it electronically.
+
+Surgical Pathology Report
+
+If this report includes immunohistochemical test results, please note the following: Numerous immunohistochemical tests were developed and their performance characteristics determined by e. Those immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+Page 4 of 4
+
+riteria
+agnosis Discrepancy Yes No
+imary Tumor Site Discrepancy
+ITAA Discrepancy
+rior Malignancy / History
+ual Synchronicity Primary Noted
+ase is [circle]:
+QUALIFIED DISQUALIFIED
+reviewer initials
+JN
+date Reviewed
+7/14/10

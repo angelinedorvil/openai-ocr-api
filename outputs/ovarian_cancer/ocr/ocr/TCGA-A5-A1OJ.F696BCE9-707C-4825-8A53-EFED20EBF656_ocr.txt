@@ -1,0 +1,335 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-0-3
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: Endometrium C54.1 3/6/11 JW
+
+SURGICAL PATHOLOGY REPORT
+********** Addendum - Please See End of Report **********
+Reason for Addendum #1: Additional sections or studies
+
+DIAGNOSIS:
+A. FALLOPIAN TUBE, LEFT SALPINGECTOMY:
+- Chronic and minimal acute salpingitis, lymphovascular ectasia, stromal edema,
+and adhesions
+- No evidence of metastatic carcinoma
+
+B. FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:
+- Chronic and minimal acute salpingitis, vascular ectasia, and soft tissue at
+fimbriated end
+- Paratubal Walthard rest
+- Paratubal cyst lined by benign serous epithelium (hydatid of Morgagni) with an
+associated adhesion
+- No evidence of metastatic carcinoma
+
+C. UTERUS, TOTAL ABDOMINAL HISTERECTOMY:
+- Primary uterine adenocarcinoma, endometrioid type, with associated squamous,
+eosinophilic and secretory-like changes (latter consistent with exogenous
+progestin effect), FIGO grade II (see comment)
+- There is extensive (diffuse) involvement of uterine fundus, anterior and
+posterior uterine corpus and portions of posterior lower uterine segment and
+anterior lower uterine segments by carcinoma
+- The tumor is exophytic/polypoid in some areas
+- Superficial myometrial invasion by carcinoma, involving less than 10% of the
+of the uterine wall thickness is present
+- There is secondary involvement of adenomyosis deeper in the uterine wall,
+within the outer half of wall about 0.85 cm from the serosa
+- No lymphatic or blood vessel invasion by carcinoma identified
+- Cervix and vaginal cuff are free of tumor
+- Bilateral parametrial soft tissues are free of tumor
+- Minimal residual non-neoplastic endometrium (mostly scattered single glands
+intervening between aggregates of tumor with some inactive glands, some
+glands showing secretory-like changes, cystic glandular dilatation, and stromal
+decidualization consistent with exogenous progestin effect
+- Benign endometrial polyp, lower uterine segment
+- Cervix with chronic and mild acute inflammation, extensive microglandular
+endocervical hyperplasia, reserve cell hyperplasia, squamous metaplasia, and
+nabothian cysts
+
+D. LYMPH NODES, LEFT PELVIC, EXCISION:
+Patient Case(s)
+
+UUID:F696BCE9-787C-4825-BA53-EFED20EBF656
+TCGA-A5-A10J-01A-PR Redacted.
+
+PATIENT NOTIFIED OF RESULTS
+DR _______________ NURSE _______________ DATE _______________
+
+===================================== PAGE 2 =====================================
+- Seventeen reactive lymph nodes
+- No evidence of metastatic carcinoma (0/17)
+
+E. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:
+- Six reactive lymph nodes
+- No evidence of metastatic carcinoma in routinely stained sections (0/6)
+
+F. LYMPH NODE, LEFT OBTURATOR, EXCISION:
+- One reactive lymph node
+- No evidence of metastatic carcinoma in routinely stained sections (0/1)
+
+G. LYMPH NODES, RIGHT PELVIC, EXCISION:
+- Five reactive lymph nodes
+- No evidence of metastatic carcinoma in routinely stained sections (0/5)
+
+H. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:
+- Two reactive lymph nodes
+- No evidence of metastatic carcinoma in routinely stained sections (0/2)
+
+COMMENT: The preliminary pathologic findings were conveyed to Dr. via campus e-mail on . The case was subsequently discussed with Dr. Results of an immunohistochemical panel to test for potential microsatellite instability will be reported in an addendum.
+
+SYNOPTIC REPORT:
+Applies To:
+A : LEFT FALLOPIAN TUBE
+B : RIGHT FALLOPIAN TUBE
+C : UTERUS
+D : LEFT PELVIC LYMHP NODES
+E : LEFT COMMON IliAc LYMPH NODES
+F : LEFT OBTURATOR LYMPH NODE
+G : RIGHT PELVIC LYMPH NODES
+H : RIGHT COMMON ILIAC LYMPH NODES
+
+Macroscopic
+Specimen Type:		Uterus
+					Right fallopian tube
+					Left fallopian tube
+					Vaginal cuff
+Other Organs Present:	None
+Procedure:			Total abdominal hysterectomy and bilateral salpingectomy
+Specimen Integrity:	Intact hysterectomy specimen
+Lymph Node Sampling:	Pelvic lymph nodes
+					Para-aortic lymph nodes
+					Common iliac lymph nodes
+					One left obturator lymph node
+
+Microscopic
+Histologic Type:	Endometrioid adenocarcinoma, variant
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 7
+
+===================================== PAGE 3 =====================================
+Variant: Endometrioid adenocarcinoma with associated
+squamous, eosinophilic and secretory-like changes
+FIGO grade II
+Histologic Grade:
+Tumor Site:
+Corpus
+Fundus
+Lower uterine segment
+Tumor Size:
+Greatest dimension: 8.5cm
+Myometrial Invasion:
+Less than 50% myometrial invasion
+Involvement of Cervix:
+No involvement
+Extent of Involvement
+of Other Organs:
+None
+Margins:
+Surgical margins of hysterectomy specimen are free of
+tumor.
+Lymphovascular Invasion:
+Not identified
+
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+Primary Tumor (pT):
+pT1a [IA]: Tumor limited to endometrium or invades less
+than one-half of the myometrium
+Regional Lymph Nodes (pN):
+pNO: No regional lymph node metastasis
+Comment(s): In addition to the pelvic, and common iliac
+lymph nodes, one left obturator lymph node was
+examined and found to be negative for metastatic
+tumor.
+
+Number of pelvic lymph
+nodes examined:
+23
+Number of pelvic lymph
+nodes involved:
+0
+Number of para-aortic
+lymph nodes examined:
+0
+Number of para-aortic
+lymph nodes involved:
+0
+Number of common iliac
+lymph nodes examined:
+8
+Number of common iliac
+lymph nodes involved:
+0
+
+HISTORY:
+Endometrial adenocarcinoma
+MICROSCOPIC FINDINGS:
+See diagnosis.
+SPECIAL STUDIES:
+H&E-stained step sections (C3 x2, C4 x2, C5 x2)
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 7
+
+===================================== PAGE 4 =====================================
+IMMUNOHISTOCHEMISTRY:
+
+Study Antibody Block Result
+Keratin AE1/AE3 D1, D2, D3, D4 No "occult" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes.
+Keratin AE1/AE3 E1 No "occult" keratin-positive metastatic tumor cells are identified in the left common iliac lymph nodes.
+Keratin AE1/AE3 F1 No "occult" keratin-positive metastatic tumor cells are identified in the left obturator lymph node.
+Keratin AE1/AE3 G1, G2, G3 No "occult" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes.
+Keratin AE1/AE3 H1 No "occult" keratin-positive metastatic tumor cells are identified in the right common iliac lymph nodes.
+
+GROSS:
+A. LEFT FALLOPIAN TUBE
+Labeled with the patient's name, labeled "left fallopian tube", and received in formalin is a fimbriated portion of fallopian tube measuring 8.0 cm in length and ranging from 0.4 to 0.7 cm in greatest diameter. The patent lumen measures up to 0.4 cm in diameter.
+No tumor is identified.
+Representative sections are submitted.
+Slide key:
+A1. Proximal, mid, distal and fimbriated end of fallopian tube - 4
+
+B. RIGHT FALLOPIAN TUBE
+Labeled with the patient's name, labeled "right fallopian tube", and received in formalin is a fimbriated fallopian tube measuring 7.5 cm in length and ranging from 0.4 to 0.6 cm in maximum diameter. The patent lumen measures up to 0.3 cm in diameter.
+No tumor is identified.
+There is about a 1.0 cm diameter translucent paratubal cyst containing clear pale yellow fluid. There is an adhesion that is about 0.9 cm long x less than 0.1 cm in diameter attached to the paratubal cyst.
+Representative sections are submitted.
+Slide key:
+B1. Proximal, mid, distal and fimbriated end of fallopian tube; paratubal cyst - 5
+
+C. UTERUS, CERVIX (GROSS AND FROZEN SECTION)
+Labeled with the patient's name, labeled "uterus, cervix", and received fresh for intraoperative frozen section and subsequently fixed in formalin is an intact 300 gram total hysterectomy specimen. The uterus is about 11.0 x 8.0 x 5.0 cm in greatest overall dimensions. The cervical portion of the uterine alone is about 5.0 cm in length and up to 2.0 cm in diameter. Attached to the cervix, there is about a 0.5 cm long cuff of vaginal mucosa. The endometrial cavity is 8.5 cm in length and up to 5.0 cm in width. The endometrial mucosa ranges from about 0.2 to 0.8 cm in thickness. The muscular uterine wall ranges from about 1.5 to 3.3 cm in thickness. There are small amounts of parametrial tissues attached bilaterally; those on the left side are up to 0.5 cm in width and those on the right side are up to 1.0 cm in width.
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 7
+
+===================================== PAGE 5 =====================================
+Almost the entire endometrial cavity is coated by soft tan friable endometrial tumor. The tumor involves the uterine fundus, anterior and posterior lower uterine segments and also involves portions of the anterior and posterior lower uterine segments. The tumor is exophytic for the most part, polypoid in some areas, and up to 0.8 cm in thickness. Cut sections of the uterus show no grossly evident invasive tumor. The cervix and vaginal cuff appear to be grossly free of tumor. The parametrial tissues appear to be grossly free of tumor.
+
+There is a broad-based sessile endometrial polyp, about 1.1 cm in diameter and 0.4 cm in thickness in the anterior lower uterine segment. The myometrium is focally trabeculated and shows some minute to tiny cystic spaces. No other gross pathologic lesions are seen.
+
+Ink key: anterior uterine serosa and surgical margin - blue; posterior uterine serosa and posterior surgical margin - black.
+
+Representative sections are submitted.
+
+Slide key:
+C1. Remnant of FSC - 1
+C2. Anterior cervix - 1
+C3. Anterior lower uterine segment with polyp and tumor - 1
+C4. Posterior cervix - 1
+C5. Posterior lower uterine segment with tumor and adjacent upper endocervix - 1
+C6. Anterior uterine corpus with tumor - 1
+C7, C8. Posterior uterine corpus with tumor - 1 each
+C9. Left parametrial tissues - 2
+C10. Right parametrial tissues – 2
+C11. Anterior uterine fundus -1
+C12,13. Posterior uterine fundus – 1 each
+
+D. LEFT PELVIC LYMPH NODE
+Labeled with the patient’s name, labeled “left pelvic lymph node”, and received in formalin is about a 4.0 x 3.5 x 1.0 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.2 to 1.2 cm in maximum dimensions.
+
+No gross tumor is seen.
+
+Entirely submitted.
+
+Slide key:
+D1. Two lymph nodes, each sectioned (bisected) - 2
+D2. Three lymph nodes, two of which are bisected - 4
+D3. Four lymph nodes - multiple
+D4. Multiple lymph nodes - multiple
+
+E. LEFT COMMON Iliac
+Labeled with the patient’s name, labeled “left common iliac”, and received in formalin is a 3.0 x 3.0 x 1.0 cm aggregate of soft yellow fatty tissue within which there are embedded several soft tan lymph nodes. The lymph nodes range from about 0.2 to 1.0 cm in maximum dimension.
+
+No gross tumor is seen.
+
+Entirely submitted.
+
+Slide key:
+
+SURGICAL PATHOLOGY REPORT
+Page 5 of 7
+
+===================================== PAGE 6 =====================================
+E1. Multiple lymph nodes and perinodal fat - multiple
+
+F. OBTURATOR LEFT
+Labeled with the patient’s name, labeled “obturator left”, and received in formalin is about a 1.8 x 1.2 x 0.8 cm portion of soft yellow fatty tissue within which there is embedded a single 0.6 cm diameter soft tan lymph node.
+
+No gross tumor is seen.
+
+Entirely submitted.
+
+Slide key:
+F1. One lymph node and fat - 2
+
+G. RIGHT PELVIC LYMPH NODE
+Labeled with the patient’s name, labeled “right pelvic lymph node”, and received in formalin is a 6.5 x 2.0 x 1.0 cm aggregate of soft yellow fatty tissue, within which there are embedded multiple soft to semisoft tan lymph nodes. The lymph nodes range from about 0.3 to 2.0 cm in maximum dimensions.
+
+No gross tumor is seen.
+
+Entirely submitted.
+G1. Three lymph nodes, two of which are bisected - 4
+G2. Largest lymph node, bisected - 2
+G3. One lymph node and fat - multiple
+
+H. RIGHT COMMON IliAC
+Labeled with the patient’s name, labeled “right common iliac”, and received in formalin is about a 3.5 x 2.0 x 0.8 cm aggregate of soft yellow fatty tissue. Dissection of the fat reveals two soft tan lymph nodes, about 0.4 and 0.6 cm in maximum dimensions.
+
+No gross tumor is seen.
+
+Entirely embedded.
+
+Slide key:
+H1. Two bisected lymph nodes - 4
+H2. Fat - multiple
+
+Gross dictated by
+
+INTRAOPERATIVE CONSULTATION:
+L
+OPERATIVE CONSULT (FROZEN):
+C. UTERUS, CERVIX:
+- Endometrial adenocarcinoma
+- No obvious high-grade features noted on representative sections
+- No definitive myometrial invasion identified on representative sections
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+
+SURGICAL PATHOLOGY REPORT
+Page 6 of 7
+
+===================================== PAGE 7 =====================================
+Electronically signed
+
+ADDENDUM:
+
+RESULTS OF IMMUNOHISTOCHEMICAL STAINS FOR EVALUATION FOR POTENTIAL
+MICROSATELLITE INSTABILITY:
+
+Study / Antibody   Block   Result
+MLH-1              C12     No specific staining of the tumor cells is identified, i.e. there is loss of
+                          the normal pattern of staining for this mismatch repair protein.
+MSH-2              C12     There is retention of the normal pattern of staining for MSH-2 by the
+                          tumor cells.
+MSH-6              C12     Some of the neoplastic cells exhibit positive staining.
+PMS2               C12     There is retention of the normal pattern of staining for PMS2.
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+
+Criteria         Yes    No
+Diagnosis Discrepancy       /
+Primary Tumor Site Discrepancy      /
+HIPAA Discrepancy            /
+Prior Malignancy History        /
+Dual/Synchronous Primary Noted  /
+Case is (circle):    QUALIFIED / DQQUALIFIED
+Reviewer Initials    MA     Date Reviewed: 3/14/11
+
+SURGICAL PATHOLOGY REPORT
+If this report includes immunohistochemical test results, please note the following: Numerous immunohistochemical tests were developed and their
+performance characteristics determined by
+immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+Page 7 of 7

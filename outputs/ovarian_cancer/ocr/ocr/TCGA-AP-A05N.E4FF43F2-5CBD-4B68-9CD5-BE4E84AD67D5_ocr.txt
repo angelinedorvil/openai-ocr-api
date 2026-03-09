@@ -1,0 +1,80 @@
+
+
+===================================== PAGE 1 =====================================
+UID:E4FF43F2-5CBD-4B68-9CD5-BE4EB4AD67D5
+TCGA-AP-A05N-01A-PR Redacted
+
+Specimens Submitted:
+1: Uterus, cervix, bilateral tubes and ovaries, hysterectomy and bilateral
+salpingo-oophorectomy
+2: Sentinel lymph node, right hypogastric, excision
+3: Sentinel lymph nodes, left hypogastric, excision
+
+DIAGNOSIS:
+1. Uterus, cervix, bilateral tubes and ovaries, hysterectomy and bilateral
+salpingo-oophorectomy:
+Tumor Type:
+Adenocarcinoma, endometrioid type
+with squamous differentiation
+Architectural Grade (For Endometrioid Types only):
+I (<6% solid growth)
+Nuclear Grade (For Endometrioid Types only):
+Grade 2
+FIGO Grade (For Endometrioid Types only):
+Grade 1
+Myometrial Invasion:
+(=<50%)
+see note
+Endocervical Invasion:
+Not identified
+Lymphovascular invasion:
+Suspicious for lymphovascular invasion
+Endometrium:
+Exhibits complex hyperplasia with atypia
+Myometrium:
+Exhibits adenomyosis
+Exhibits multiple leiomyomata
+Adnexa:
+Unremarkable
+
+Note: A large portion of the tumor is exophytic. Myometrial invasion is
+identified and does not exceed more than 4-5 mm (out of a 22 mm myometrial
+wall), however, due to the marked irregularity of the endomyometrial
+
+** Continued on next page **
+
+Criteria                      Yes     No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+DualSynchrous Primary Noted     DISQUALIFIED   CISQUA/IRIT-D
+Case I. (c:::le):        WJA   Date Reviewed: 5/4/11
+Reviewer Initials         JW-S   /   t   i   l   i   .   i   /
+
+===================================== PAGE 2 =====================================
+TSS Name/#:
+
+------------------------------------------------------------------------------------------------------------------ Page 2 of 4
+junction and the involvement of adenomyosis, the exact depth of invasion
+cannot be determined with certainty.
+
+2. Sentinel lymph node, right hypogastric, excision:
+Lymph Nodes:
+Number of nodes examined:1
+Number of metastatic nodes:0
+Additional H/E stained sections and immunohistochemical stains for
+cytokeratins (AE1:AE3) show no evidence of metastatic tumor.
+------------------------------------------------------------------------------------------------------------------
+
+3. Sentinel lymph nodes, left hypogastric, excision:
+Lymph Nodes:
+Number of nodes examined:1
+Number of metastatic nodes:0
+Additional H/E stained sections and immunohistochemical stains for
+cytokeratins (AE1:AE3) show no evidence of metastatic tumor.
+------------------------------------------------------------------------------------------------------------------
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.

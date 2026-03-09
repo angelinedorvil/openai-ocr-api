@@ -1,0 +1,169 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-0-3
+Adeno carcinoma, Endometrioid, NOS
+Site: Endometrium LSH
+8380/3    11/23/10
+
+
+UUID: 0E6417D3-6E9S-4EEF-AE93-40D69D4F6525
+TCGA-A5-A0GV-01A-PR   Redacted
+
+
+Ordering MD:
+Copies To:
+
+
+Location:                     Date of Procedure:
+                            Date Received:
+
+
+
+SURGICAL PATHOLOGY REPORT
+
+
+
+DIAGNOSIS:
+A. UTERUS, FALLOPIAN TUBES, AND OVARIES:
+    - Primary uterine adenocarcinoma, endometrioid type with associated squamous changes,
+      FIGO grade I, nuclear grade 2 (see comment)
+    - Tumor extensively involves the mucosa of the uterine fundus and uterine corpus
+    - Carcinoma also extends into lower uterine segment
+    - Myometrial invasion by tumor is present superficially (less than 50% of wall is involved)
+    - Dislodged fragments of tumor are present within some endothelial-lined spaces, including veins; an iatrogenic process is favored over true lymphovascular invasion by tumor
+    - Cervix, including surgical margin is negative for tumor
+    - No involvement of parametrial tissues by tumor
+    - No evidence of metastatic carcinoma involving ovaries or fallopian tubes
+    - Other findings include:
+        - Foci of endometrial glandular hyperplasia, simple and complex types with varying degrees with associated atypia
+        - Some inactive/weakly proliferative endometrium
+        - Tiny benign endometrial and endocervical polyps and a small mixed endometrial-endocervical polyp
+        - Several small uterine leiomyomas, some with associated hyalinization
+        - Adenomyosis
+        - Cervix also shows focal changes suggestive of prior curettage, acute and chronic inflammation, squamous metaplasia, reactive epithelial changes, cystic endocervical tunnel clusters and nabothian cysts
+        - Right ovary with atrophic changes and benign surface micropapillary epithelial and stromal proliferation
+        - Left ovary with atrophic changes and cystic epithelial inclusions
+        - Both fallopian tubes show mild epithelial hyperplasia without significant atypia
+
+B. LYMPH NODES, RIGHT PELVIC, EXCISION:
+    - Two reactive lymph nodes without evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/2)
+
+C. LYMPH NODES, LEFT PELVIC, EXCISION:
+    - Nineteen reactive lymph nodes
+
+
+Patient Case(s)             Page 1 of 4
+
+PATIENT NOTIFIED OF RESULTS
+DR:                          NURSE:                 DATE:
+
+===================================== PAGE 2 =====================================
+'ATH #: 
+
+- No evidence of metastatic carcinoma in routinely stained sections or in sections stained for keratin (0/19)
+
+COMMENT: Pathologic tumor stage is assigned as follows: pT1b, N0. The preliminary pathologic findings were conveyed to Dr. via campus e-mail or
+
+HISTORY: Uterine cancer
+
+MICROSCOPIC:
+See diagnosis.
+
+SPECIAL STUDIES: H&E-stained step sections (A3 x2, A4 x2, A7 x2, A11 x1, A12 x1, A13 x1)
+
+IMMUNOSTAINS:
+Keratin AE1/AE3 (B1): No “occult” keratin-positive metastatic tumor cells identified.
+Keratin AE1/AE3 (C1, C2, C3): No “occult” keratin-positive metastatic tumor cells identified.
+
+GROSS:
+A. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES
+Labeled with the patient's name, labeled "uterus, cervix, bilateral tubes and ovaries", and received fresh in the Operating Room for frozen section and subsequently fixed in formalin, is a 68 gram total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 6.5 x 5.5 x 3.0 cm in greatest overall dimensions. The cervix is 2.8 cm long and up to 3.0 cm in diameter. The endometrial cavity is about 4.5 cm long and up to 3.7 cm in width. The uninvolved endometrium has a maximum thickness of 0.2 cm. The muscular uterine wall ranges from about 1.1 to 1.4 cm in thickness. The fimbriated right fallopian tube is 4.3 cm long and ranges from 0.2 to 0.4 cm in diameter with a maximum luminal diameter of 0.1 cm. The right ovary is 2.6 x 1.1 x 0.7 cm. The fimbriated left fallopian tube is 5.2 cm long and ranges from 0.2 to 0.3 cm in diameter with a maximum luminal diameter of less than 0.1 cm. The left ovary is about 2.1 x 1.4 x 0.5 cm.
+
+In the anterior uterine fundus, there is a soft friable exophytic/polypoid tumor mass that is about 2.3 x 0.8 x 0.2 cm. Cut sections in the vicinity of the polypoid lesion reveal superficial involvement of the underlying myometrium by tumor. Much of the rest of the mucosa of the adjacent uterine corpus and lower uterine segment shows irregular slightly shaggy pale tan and focally friable endometrium that may also be involved by tumor. Also received in the same container is a separate 2.5 x 1.5 x 0.5 cm aggregate of similar-appearing soft friable tan tumor. The cervix appears grossly free of tumor. Attached to the uterus there is a small amount of parametrial soft tissue, bilaterally that also appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tube.
+
+Within the uterus there are three well-circumscribed intramural leiomyomas, ranging from about 0.8 to 1.0 cm in maximum dimension. Each of the leiomyomas are composed of firm solid tan-white tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for several mucus-filled cysts ranging from less than 0.1 to about 0.3 cm in diameter. Both ovaries are atrophic and show no gross pathologic lesions. The fallopian tubes are also grossly unremarkable.
+
+Ink key: anterior aspect of uterus - blue; posterior aspect of uterus - black.
+
+The entire lesion and anterior aspect of the fundus are submitted. Representative sections of the remaining tissue are submitted.
+
+Slide key:
+A1. Remnant of frozen section A1 (uterine tumor) - 1
+A2. Remnant of frozen section A2 (left ovary) - 1
+A3, A4. Anterior cervix and lower uterine segment - 1 each
+A5, A6. Posterior cervix and lower uterine segment - 1 each
+A7. Anterior uterine fundus with friable polypoid tumor - 1
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 4
+
+===================================== PAGE 3 =====================================
+A8. Anterior uterine fundus with leiomyoma and mucosal tumor - 1
+A9. Posterior uterine fundus - 2
+A10. Two leiomyomas - 2
+A11. Right parametrial tissues - 2
+A12. Left parametrial tissues - multiple
+A13. Right ovary - 1
+A14. Right ovary - 2
+A15. Right fallopian tube (proximal, mid and distal segments) - 3
+A16. Left ovary - 2
+A17. Left fallopian tube (proximal, mid and distal segments) - 3
+A18. Separate portion of tumor - multiple
+A19. Posterior lower uterine segment – 1
+
+ADDITIONAL REPRESENTATIVE SECTIONS (submitted or
+A20. Anterior uterine fundus adjacent to friable polypoid tumor – 2
+A21-23. Anterior uterine fundus - 2,1,1, respectively
+
+B. RIGHT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "right pelvic lymph node", and received in formalin is a 4.0 x 3.2 x 0.8 cm aggregate of yellow fatty tissue within which there are embedded two semisoft tan lymph nodes. The lymph nodes are about 0.5 and 1.2 cm in maximum dimension.
+
+The lymph nodes are each entirely embedded along with some of the perinodal fat.
+
+Slide key:
+B1. Two bisected lymph nodes (one inked blue) - 4
+
+C. LEFT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "left pelvic lymph node", and received in formalin is about a 4.8 x 3.4 x 1.0 cm aggregate of multiple fragments of soft yellow fatty tissue, within which are embedded numerous semisoft tan lymph nodes. The lymph nodes range from about 0.1 to 1.5 cm in maximum dimension. The lymph nodes are each entirely embedded with some of the perinodal fat.
+
+Slide key:
+C1. Multiple lymph nodes, largest bisected and inked blue - 4
+C2. Four lymph nodes - 4
+C3. Multiple lymph nodes - 4
+
+Gross dictated by
+
+OPERATIVE CALL
+OPERATIVE CONSULT (FROZEN):
+A. FS A1 (SECTION FROM TUMOR):
+- Endometrioid adenocarcinoma, FICO grade I
+- Possible superficial invasion, defer to permanent
+- No deep myometrial invasion seen
+FS A2 (OVARY - LEFT ):
+-
+
+SURGICAL PATHOLOGY REPORT Page 3 of 4
+
+===================================== PAGE 4 =====================================
+TH #:
+
+If this report includes immunohistochemical test results, please note the following:
+Numerous immunohistochemical tests were developed and their performance characteristics determined by
+Those immunohistochemical tests have not been cleared or approved by the
+U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+i.D. Electronically signed
+
+Surgical Pathology Report
+Page 4 of 4
+
+Criteria                      Y-s          No
+Diagnosis Discrepancy         ✓           ✓
+Primary Tumor Site Discrepancy     ✓           ✓
+IPAA Discrepancy              ✓           ✓
+Prior Malignancy History       ✓           ✓
+Local/Synchronous Malignant History: Qualified / Not Qualified
+Case Is (circle):        [X] QUALIFIED   [ ] NOT QUALIFIED
+Pathologist Initials:      [X] HFD        Date Reviewed: [ ]

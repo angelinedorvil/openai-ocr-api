@@ -1,0 +1,152 @@
+
+
+===================================== PAGE 1 =====================================
+(AS-C-3
+Adenocarcinoma, Endometrioid,
+Site: endometrium c54.1      8380/3     W     11/23/16
+
+UUID:AE5229ED-8906-4D55-9B11-4E8E214D6446
+TCGA-A5-A0GX-01A-PR    Redacted
+
+Ordering M.D.:
+Copies To:
+
+Age/Sex:   Assistant:
+Location    Date of Procedu:
+            Date Received:
+
+SURGICAL PATHOLOGY REPORT
+
+SPECIMEN(S) SUBMITTED: A. UTERUS AND CERVIX FS1, B. VAGINAL MARGINS
+DIAGNOSIS:
+A. UTERUS, FALLOPIAN TUBES AND OVARIES, TOTAL ABDOMINAL HYSERECTOMY
+AND BILATERAL SALPINGO-OOPHORECTOMY:
+- Primary uterine adenocarcinoma, endometrioid type with associated squamous changes
+and focal secretory changes, FIGO grade II, nuclear grade 2 (see comment)
+- The endometrium of the uterine fundus, anterior uterine corpus, posterior uterine
+corpus and anterior and posterior lower uterine segments shows extensive
+involvement by adenocarcinoma
+- An endometrial polyp is also partially replaced by adenocarcinoma
+- Endometrial-myometrial interface is irregular and undulating in many areas; there
+is minimal superficial invasion of the myometrium in the uterine corpus
+by adenocarcinoma (involving less than 10% of the myometrium)
+- In the posterior lower uterine segment myometrial invasion by tumor is also present
+and relatively superficial involving no more than 20% of the uterine wall thickness
+- Secondary involvement of adenomyosis and an adenomyoma by carcinoma
+- No unequivocal lymphatic or blood vessel invasion by carcinoma identified
+- Tumor extends to the lower uterine segment-endocervical junction, anteriorly
+and posteriorly
+- No invasion of endocervix by tumor is evident
+- Ectocervix and vaginal cuff are free of tumor
+- Parametrial tissues are free of tumor
+- No evidence of metastatic carcinoma involving ovaries
+- Right fallopian tube with adenocarcinoma, endometrioid-type, uncertain whether
+this represents a secondary primary neoplasm or extension of tumor from uterus;
+carcinoma involves the mucosa of fallopian tube in the proximal and middle
+segments, is present in the lumen of the fallopian tube, and some free-floating
+aggregates of tumor at the fimbriated end appear to be "walled off" by an
+inflamed, hemorrhagic adhesion, but others appear to be "floating" outside the
+fallopian tube adjacent to the fimbria
+- Uninvolved endometrium ranges from inactive/weakly proliferative to hyperplastic, both
+areas of simple and complex endometrial glandular hyperplasia are present and show
+varying degrees of cellular atypia
+- Adenomyosis with and without involvement by adenocarcinoma
+- Uterine serosal adhesions
+
+Patient Case(s)
+
+Page 1 of 4
+
+===================================== PAGE 2 =====================================
+"H #:
+- Surface mucosal defects, secondary inflammatory changes, hemorrhages and reactive changes in the endocervix and lower uterine segment consistent with prior curettage
+- Cervix also shows chronic and mild acute inflammation, focal (incomplete) atrophic squamous changes, reserve cell hyperplasia, microglandular endocervical hyperplasia, squamous metaplasia, parakeratosis, foci of microglandular endocervical hyperplasia and some cystically dilated glands
+- Vaginal cuff mucosa with chronic inflammation
+- Calcification adjacent to uterus
+- Right ovary with senescent changes, relative cortical stromal hyperplasia with associated hyperthecosis, cystic epithelial inclusions, and serosal adhesions
+- Left ovary with senescent changes and relative cortical stromal hyperplasia with associated hyperthecosis
+- Left fallopian tube with foci of epithelial hyperplasia without significant cellular atypia, calcifications, including psammoma body, mucosal endometriosis, subserosal endosalpingiosis, and serosal adhesions
+- Left paratubal cystic Walthard rests
+- In addition to adenocarcinoma, right fallopian tube shows foci of epithelial hyperplasia with and without associated cellular atypia, chronic inflammation, salpingitis isthmica nodosa, subserosal endometriosis, calcification, chronic inflammation, adhesions, and partial walling off of fimbriated end by adhesions and inflammatory process
+- Right paratubal cystic Walthard rests, endosalpingiosis, Wolffian duct remnants and mesothelial cysts
+
+B. VAGINA, DESIGNATED "VAGINAL MARGINS", EXCISION:
+- Chronic and minimal acute inflammation with associated reactive squamous changes
+- Thermal/cautery artifacts
+- No evidence of metastatic carcinoma
+
+COMMENT: It is uncertain whether the endometrioid carcinoma involving the right fallopian tube represents a second primary neoplasm or secondary involvement by tumor for the uterus. It is noteworthy that both fallopian tubes show foci of epithelial hyperplasia and that there is mucosal endometriosis involving the contralateral (left) fallopian tube. Preliminary findings were discussed with Dr. The case was presented at Conference on :
+
+HISTORY: Endometrial cancer
+
+MICROSCOPIC:
+See diagnosis.
+
+SPECIAL STUDIES: H&E-stained step sections (A3x1, A4x1, A5x1, A8x2, A9x1, A10x1, A11x2, A12x2, A15x2, A16x1, A17x1, A20x1, A22x1, A25x2, A26x2)
+
+IMMUNOSTAINS: None
+
+SURGICAL PATHOLOGY REPORT Page 2 of 4"
+
+===================================== PAGE 3 =====================================
+ATH #:
+GROSS:
+A. UTERUS AND CERVIX (FS 1)
+Labeled with the patient's name, labeled "uterus and cervix (FS 1)", and received fresh in the Operating Room for intraoperative frozen section, is a 200 gram supravaginal hysterectomy and bilateral salpingo-oophorectomy specimen. The cervix has been amputated or severed from the uterus and is received separately in the same specimen container. The uterus is symmetric. The uterus is about 7.5 cm from fundus to the resection margin at the level of the lower uterine segment or uppermost endocervix, 8.0 cm from cornu to cornu and up to 6.0 cm from the anterior surface to the posterior surface. Attached to the uterus, there are bilateral parametrial soft tissues that measure up to 1.0 cm in width and appear grossly free of tumor. The serosal surface of the uterus is tan-pink and relatively smooth except for procedure-related artifacts. The uterus was previously incised on both sides at the time of intraoperative consultation. The endometrial cavity is about 6.5 cm long and up to 3.5 cm in width. Within the uterus, there is an exophytic friable and focally necrotic tan to red-tan tumor mass that measures about 5.5 x 3.5 cm in area and involves the mucosa extensively of the posterior uterus extending from the posterior fundus to the corpus to the lower uterine segment and also involves the anterior fundic region of the uterus, corpus and upper anterior lower uterine segment. There is very little uninvolved endometrial mucosa that is tan-pink and has a maximum thickness of about 0.2 cm. Upon sectioning the uterus, there is slight induration in a few foci of the superficial myometrium suggestive of possible superficial myometrial invasion. The uninvolved muscular uterine wall has a maximum thickness of about 3.5 cm. The uninvolved myometrium is tan and firm. Upon further sectioning the uterine wall, there is an apparent single intramural fairly well-circumscribed myoma that is about 1.5 cm in maximum dimension. The myoma is composed partially of tan semifirm solid tissue but shows intervening cystic spaces and softer tan tissue. No areas of hemorrhage or necrosis are seen in this lesion. The margin of the supracervical hysterectomy specimen is shaggy and ragged. The separate trachelectomy specimen, which includes the entire cervix and possibly a portion of the lower uterine segment, is about 5.5 cm in total length and has a maximum diameter of 3.5 cm in the ectocervical region. The superior margin of the trachelectomy specimen is also ragged and focally hemorrhagic. Attached to the ectocervix, there is a cuff of grossly unremarkable pink-tan vaginal mucosa that measures up to about 0.7 cm in length and appears grossly free of tumor. There are also scanty attached paracervical soft tissues that appear to be tumor free. The mucosa lining the ectocervix is tan to pink-tan and smooth. The external cervical os is ovoid, about 0.7 x 0.5 cm in area and patent. The cervix is incised on both sides. The cervical transformation zone is distinct. The mucosa lining the upper endocervical canal (and possibly lowermost aspect of the lower uterine segment) is defective/ulcerated, and tan-red. Elsewhere, the endocervical mucosa is tan and rugose. The wall in the upper endocervix/lower uterine segment appears thin with a maximum thickness of about 0.4 cm. No gross tumor is seen in the trachelectomy portion of the specimen, (i.e., ectocervix or endocervix). The right ovary is about 3.0 x 2.0 x 1.5 cm. The serosal surface of the right ovary is tan-yellow, lobulated and generally smooth except for a few adhesions. Cut sections of the right ovary reveal relatively abundant yellow-tan cortical stroma and a few corpora albicantia, but no gross evidence of tumor. The right fallopian tube has fimbria at one end, is about 8.0 cm long, and ranges from 0.4 to 0.8 cm in diameter. There are adhesions involving the serosal surface of the right fallopian tube and also in involving the fimbriated end of the fallopian tube. The fimbriated end is rather irregular. At the fimbriated end, there is also a 0.5 cm cyst or pseudocystic lesion that is thin-walled and contains yellow fluid. Elsewhere, the serosal surface of the right fallopian tube is pink-red and relatively smooth. Cross sections of the right fallopian tube reveal a luminal diameter aggregate of soft friable tan tissue, possibly representing tumor, which partially obstructs the lumen. The left ovary is atrophic, about 2.0 x 2.0 x 1.0 cm. The left ovary has a tan-yellow undulated serosal surface. Cut sections of the left ovary reveal a peripheral rim of yellow-tan cortical stroma which is relatively abundant, a few corpora albicantia, and no gross evidence of tumor. The left fallopian tube has fimbria at one end, is about 4.5 cm long, and up to 0.5 cm in diameter. The serosa of the left fallopian tube is pink-tan and shows a few adhesions and a few minute to tiny translucent paratubal cysts, the largest of which is about 0.2 cm in diameter. Cross sections of the left fallopian tube reveal a patent lumen that ranges from pinpoint to about 0.2 cm in diameter. The left fallopian tube appears grossly free of tumor. A representative portion of the uterine tumor was frozen and sectioned for intraoperative diagnosis (FS1). Frozen section interpretation of the uterine tumor was rendered by Dr. The frozen section remnant and the rest of the specimen are subsequently fixed in formalin. Representative sections are submitted.
+
+A1. Remnant of frozen section #1 - 2
+A2. Anterior cervix - 1
+A3. Anterior endocervix to margin - 1
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 4
+
+===================================== PAGE 4 =====================================
+PATH #:
+A4. Posterior cervix - 1
+A5. Posterior endocervix to resection margin - 1
+A6. Anterior uterine fundus - 1
+A7. Anterior uterine corpus - 1
+A8. Anterior lower uterine segment to supracervical resection margin - 1
+A9. Posterior uterine fundus - 1
+A10. Posterior uterine corpus - 1
+A11. Posterior lower uterine segment to supracervical resection margin - 1
+A12. Single intramural leiomyoma - 1
+A13. Entire anterior vaginal cuff - Multiple
+A14. Right ovary - 1
+A15. Right fallopian tube, proximal, mid and distal segments - 3
+A16. Left ovary - 1
+A17. Left fallopian tube, proximal, mid and distal segments - 3
+A18. Right parametrial tissues - Multiple
+A19. Left parametrial tissues - Multiple
+Additional sections (fallopian tubes now each entirely embedded):
+A20. Distal right fallopian tube - 3
+A21. Distal right fallopian tube - 3
+A22. Mid-portion of right fallopian tube - 4
+A23. Mid-portion of right fallopian tube - 3
+A24. Proximal right fallopian tube - 5
+A25. Proximal right fallopian tube - 4
+A26. Distal left fallopian tube - 4
+A27. Mid-portion of left fallopian tube and adjacent ovary - 5
+A28. Proximal left fallopian tube - 3
+B. VAGINAL MARGINS
+Labeled with the patient's name, labeled "vaginal margins", and received in formalin is a 1.8 x 0.5 x 0.5 cm portion
+of pink-tan vaginal tissue that is lined focally wrinkled otherwise smooth mucosa and has underlying semisoft
+stroma. No gross tumor is seen. The entire specimen is embedded.
+B1.     7
+Gross dictated by
+OPERATIVE CALL
+OPERATIVE CONSULT (FROZEN):
+ENDOMETRIUM OF UTERUS:
+    Adenocarcinoma, favor FIGO grade 2
+    , M.D.)
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+   , M.D. Electronically signe.
+Surgical Pathology Report      Page 4 of 4
+Criteria                  Yes    Nc
+Diagnostic Discrepancy
+Primary Tumor Site Discrepancy
+TIP-A Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary/Noticed
+Case is Intra-Lap.

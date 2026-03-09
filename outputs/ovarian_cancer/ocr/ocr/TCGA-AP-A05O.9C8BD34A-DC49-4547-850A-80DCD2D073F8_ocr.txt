@@ -1,0 +1,149 @@
+
+
+===================================== PAGE 1 =====================================
+UID: 9C8BD34A-DC49-4547-850A-80DCCD20073F8
+TCGA-AP-A050-01A-PR
+Redacted
+
+Specimens Submitted:
+1: UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES; TOTAL HYSTERECTOMY
+AND BILATERAL SALPINGO-OOPHORECTOMY
+2: LYMPH NODES, LEFT OBTURATOR SENTINEL; EXCISION
+3: LYMPH NODES, RIGHT EXTERNAL IliAC; EXCISION
+4: LYMPH NODES, RIGHT OBTURATOR; EXCISION
+5: LYMPH NODES, RIGHT HYPogastric; EXCISION
+6: LYMPH NODES, RIGHT COMMON ILIAC; EXCISION
+7: LYMPH NODES, LEFT EXTERNAL IliAC; EXCISION
+8: LYMPH NODES, LEFT OBTURATOR; EXCISION
+9: LYMPH NODES, LEFT HYPogastric; EXCISION
+10: LYMPH NODES, LEFT COMMON ILIAC; EXCISION
+11: HERNIA SAC; EXCISION
+
+ICB-0-3
+Adenocarcinoma, endometrioid, Nos 8380/3
+Site: Endometrium CS4.1
+5/21/11
+
+DIAGNOSIS:
+1. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES; TOTAL
+HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:
+Tumor Type:
+Adenocarcinoma, endometrioid type
+Architectural Grade (For Endometrioid Types only):
+III (>50% solid growth)
+Nuclear Grade (For Endometrioid Types only):
+Grade 2
+FIGO Grade (For Endometrioid Types only):
+Grade 3
+Myometrial Invasion:
+(>50%)
+The precise depth of invasion is difficult to determine due to
+distortion. However, grossly the tumor involves approximatley 80% of the
+myometrial thickness.
+Endocervical Invasion:
+Not identified
+Lymphovascular invasion:
+Identified
+Endometrium:
+Exhibits atrophy
+Myometrium:
+
+** Continued on next page **
+
+Criteria                 Yes       No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neoplasm
+Case Is [circle]:   QUALIFIED / DISQUALIFIED
+Reviewer Init als:    Date Reviewed:     3/21/11
+
+===================================== PAGE 2 =====================================
+TSS Name/#:
+
+----------------------------------------------------------------------- Page 2 of 7
+
+Exhibits adenomyosis
+Exhibits one leiomyoma
+
+Adnexa:
+Unremarkable
+Left fallopian tube exhibits: adhesions and foreign body giant cell
+reaction
+
+-----------------------------------------------------------------------
+
+2. LYMPH NODES, LEFT OBTURATOR SENTINEL; EXCISION:
+Lymph Nodes:
+Number of nodes examined: 1
+Number of metastatic nodes: 0
+Comment: Deeper levels and CK AE1:AE3 are negative for metastasis
+
+-----------------------------------------------------------------------
+
+3. LYMPH NODES, RIGHT EXTERNAL Iliac; EXCISION:
+Lymph Nodes:
+Number of nodes examined: 5
+Number of metastatic nodes: 0
+
+-----------------------------------------------------------------------
+
+4. LYMPH NODES, RIGHT OBTURATOR; EXCISION:
+Lymph Nodes:
+Number of nodes examined: 6
+Number of metastatic nodes: 0
+
+-----------------------------------------------------------------------
+
+5. LYMPH NODES, RIGHT HYPOGASTRIC; EXCISION:
+Lymph Nodes:
+Not identified
+Benign adipose tissue only
+Comment: Tissue is entirely submitted.
+
+-----------------------------------------------------------------------
+
+6. LYMPH NODES, RIGHT COMMON ILIAC; EXCISION:
+Lymph Nodes:
+Number of nodes examined: 1
+Number of metastatic nodes: 0
+
+-----------------------------------------------------------------------
+
+7. LYMPH NODES, LEFT EXTERNAL Iliac; EXCISION:
+Lymph Nodes:
+Number of nodes examined: 4
+Number of metastatic nodes: 0
+
+-----------------------------------------------------------------------
+
+8. LYMPH NODES, LEFT OBTURATOR; EXCISION:
+Lymph Nodes:
+
+** Continued on next page **
+
+===================================== PAGE 3 =====================================
+TSS Name/#
+
+
+Number of nodes examined:3
+Number of metastatic nodes:0
+Page 3 of 7
+
+9. LYMPH NODES, LEFT HYPOGASTRIC; EXCISION:
+Lymph Nodes:
+Not identified
+Benign adipose tissue only.
+
+10. LYMPH NODES, LEFT COMMON ILIAC; EXCISION:
+Lymph Nodes:
+Number of nodes examined:3
+Number of metastatic nodes:0
+
+11. HERNIA SAC, EXCISION:
+- Benign fibroadipose tissue consistent with hernia sac.
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.

@@ -1,0 +1,121 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11O\TCGA-B5-A11O.pdf
+Processing Date: 2026-03-08 19:11:15
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+Page 1 of 3
+
+ICD-0-3
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: endometrium C541 2/25/11
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neocorpus uteri-182.0.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries (AF1-2)". Received fresh is a 99 gram uterus (9 x 6 x 3 cm ) with attached left ovary (1.9 x 1.8 x 0.8 cm), left fimbriated fallopian tube (3.6 cm long x 0.4 cm in diameter, right ovary (2.6 x 1.5 x 1.2 cm) and right fimbriated fallopian tube (3.2 cm long x 0.5 cm in diameter). The endometrial cavity is 2.7 cm from cornu to cornu and expands 4.8 cm and contains an ill-defined fundal soft gray-tan endometrial mass (1.3 x 1 x 0.7 cm) that slightly traces into the anterior and posterior endometrium, 4.5 cm and 3.1 cm from the anterior and posterior lower uterine segments respectively. The mass penetrates 0.2 cm into a 1.5 cm thick trabeculated myometrium that contains a single white whorled intramural nodule (1 x 1 x 0.9 cm). The mass was partially frozen as representative AF1. The remainder of the endometrium is red-tan and diffusely coarse (0.1 cm thick) with a second soft gray-tan mass (1.6 x 1.3 x 0.2 cm) that is 1.1 cm from the lower uterine segment. The second mass extends 0.2 cm into the underlying myometrium. The uterine serosa is pink-tan, smooth and glistening. The exocervix is red-white and smooth with diffuse erythema surrounding a 1 cm cervical-os-that-leads-into-a-2.5-cm-trabeculated endocervical canal. The left and right ovary are grossly unremarkable. The left and right fimbriated fallopian tubes are both discontinuous and grossly unremarkable.
+
+BLOCK SUMMARY:
+A1- frozen section remnant from AF1
+A2- anterior endomyometrium full thickness with mass
+A3- posterior endomyometrium full thickness with mass
+A4- anterior endomyometrium full thickness with second mass
+A5- perpendicular section of anterior lower uterine segment with second mas
+A6- perpendicular section of posterior lower uterine segment
+A7- intramural nodule
+A8- anterior cervix
+A9- posterior cervix
+A10- left tube and ovary
+A11- right tube and ovary
+A12- remnant from AF2 which is the deep tissue to from AF1 which was not frozen due to "chucking out" during frozen section.
+
+B. "Left pelvic lymph node". Received unfixed and placed in formalin is a 9.3 x 5.8 x 2.4 cm aggregate of adipose tissue that has eight lymph node candidates ranging from 0.6 x 0.5 x 0.5 cm up to 2.1 x 1.7 x 1.6 cm. Each lymph node has a fatty cut surface.
+
+BLOCK SUMMARY:
+B1- two lymph node candidates, one is inked black and bisected
+B2- one lymph node candidate bisected
+B3- one lymph node candidate bisected
+B4- one lymph node candidate bisected
+B5- one lymph node candidate bisected
+B6- one lymph node candidate bisected
+B7-8- one lymph node candidate serially sectioned
+
+C. "Right pelvic lymph nodes". Received unfixed and placed in formalin is a 7.3 x 5.2 x 1.8 cm aggregate of adipose tissue that has eleven lymph node candidates ranging from 1 x 0.8 x 0.4 cm up to 2.1 x 1.2 x 0.5 cm. Each lymph
+
+UUID: 078AA8A2-E812-4603-9084-8414937888E1
+TCGA-B5-A110-01A-PR Redacted
+[barcode]
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+BLOCK SUMMARY:
+C1- three lymph node candidates
+C2- one lymph node candidate
+C3- one lymph node candidate
+C4- one lymph node candidate
+C5- two lymph node candidates, each bisected and one inked black
+C6- one lymph node candidate bisected
+C7- one lymph node candidate bisected
+C8- one lymph node candidate bisected
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, bilateral tubes and ovaries":
+    AF1 (mass at fundus): adenocarcinoma with mucinous features,
+                FIGO grade 1, ?2 at most
+    AF2 not frozen
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1B pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 99 GRAMS
+    ENDOMETRIUM:
+        TUMOR SITE: FUNDUS
+        HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+        FIGO GRADE: 1
+        TUMOR SIZE: 1.3 X 1 X 0.7 CM.
+        MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.5 THICK WALL.
+        LYMPHATIC/VASCULAR INVASION: NEGATIVE
+        ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC
+    REMAINING MYOMETRIUM: LEIOMYOMA, SMALL
+    CERVIX: NO PATHOLOGIC DIAGNOSIS.
+    SEROSA: NO PATHOLOGIC DIAGNOSIS.
+    SPECIMEN MARGINS: NOT INVOLVED
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR:
+A. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.
+B. LEFT PELVIC LYMPH NODES: NO TUMOR IN 7 LYMPH NODES (0/7).
+C. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 11 LYMPH NODES (0/11).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+CI ADDENDUM 1:
+Please see Image Cytometry Report or results of supplementary
+tests.

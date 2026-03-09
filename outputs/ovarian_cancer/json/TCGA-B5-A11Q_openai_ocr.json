@@ -1,0 +1,185 @@
+{
+  "pdf": "reports\\TCGA-B5-A11Q\\TCGA-B5-A11Q.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 24.213406562805176,
+        "chars": 2676,
+        "words": 432,
+        "text": "ICD-O = 3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri 182.0 (FIGO I endometrioid adenocarcinoma-per surgeon).\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1-4). Received fresh for frozen section is a detached left adnexa (AF1&2 frozen section; remnant in A1&2). Also received is a 83 gram, 4.3 x 4 x 3.8 cm supracervical hysterectomy specimen opened to demonstrate an endometrial cavity (4 x 3.2 cm) totally effaced by an exophytic 6 x 6 cm exophytic brown mass (AF3). The tumor is maximally 2 cm thick, 0.1 cm of which invades into a 1.7 cm myometrium. No uninvolved endometrium is grossly noted. The myometrium contains a well-circumscribed, whorled, 3 x 3 x 2.7 cm intramural nodule. No additional lesions are noted. The attached presumed right adnexa consists of a 4.2 cm long fimbriated fallopian tube with attached mesentery and an attached 4 x 3.5 x 2 cm ovary. The surface of the ovary is lobulated, white-tan, and upon sectioning demonstrates a cut surface effaced by a mucinous brown-tan mass that does not extend to the surface. The unattached 24 gram left adnexa consists of a 3 cm long, 0.5 cm in diameter fimbriated fallopian tube with an attached 7 x 3 x 1.7 cm lobulated, white ovary. Also received is an amputated 5 x 2.5 x 2.2 cm cervix (14 gram) demonstrates a smooth, glistening exocervix and an unremarkable endocervical canal (AF4)\n\nADDITIONAL BLOCK SUMMARY:\nA5-7- anterior endomyometrium with tumor\nA8-9- posterior endomyometrium with tumor\nA10- intramural nodule\nA11-12- right attached adnexa\nA13-14- cervix and endocervical canal\nA15-16- left unattached adnexa\n\nB. \"Left pelvic lymph nodes\", received fresh and placed in formalin is a 6 x 6 x 2.5 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.3 to 3.8 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nB1- two lymph node candidates\nB2- one lymph node candidate, bisected\nB3-7- largest lymph node candidate, sectioned\nB8- remainder of fat\n\nC. \"Left gutter peritoneum\", received fresh and placed in formalin is a 3 x 1.5 x 1 cm fragment of red-brown fibromembranous tissue. The specimen is sectioned and submitted entirely in blocks C1-2.\n\nD. \"Right pelvic lymph node\", received fresh and placed in formalin is a 6 x 4 x 2 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.2 to 3.7 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nD1- two lymph node candidates\nD2- one lymph node candidate, bisected\nD3-6- largest lymph node candidate, sectioned\nD7- fat",
+        "confidence": {
+          "mean_probability": 0.992887267854012,
+          "mean_log_probability": -0.008859859627329192,
+          "perplexity": 1.0088992243530674,
+          "min_probability": 0.4597327208497868
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 806,
+          "total_tokens": 3278
+        },
+        "composite_score": 0.992974358495657,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 24.213406562805176,
+          "chars": 2676,
+          "words": 432,
+          "text": "ICD-O = 3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri 182.0 (FIGO I endometrioid adenocarcinoma-per surgeon).\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1-4). Received fresh for frozen section is a detached left adnexa (AF1&2 frozen section; remnant in A1&2). Also received is a 83 gram, 4.3 x 4 x 3.8 cm supracervical hysterectomy specimen opened to demonstrate an endometrial cavity (4 x 3.2 cm) totally effaced by an exophytic 6 x 6 cm exophytic brown mass (AF3). The tumor is maximally 2 cm thick, 0.1 cm of which invades into a 1.7 cm myometrium. No uninvolved endometrium is grossly noted. The myometrium contains a well-circumscribed, whorled, 3 x 3 x 2.7 cm intramural nodule. No additional lesions are noted. The attached presumed right adnexa consists of a 4.2 cm long fimbriated fallopian tube with attached mesentery and an attached 4 x 3.5 x 2 cm ovary. The surface of the ovary is lobulated, white-tan, and upon sectioning demonstrates a cut surface effaced by a mucinous brown-tan mass that does not extend to the surface. The unattached 24 gram left adnexa consists of a 3 cm long, 0.5 cm in diameter fimbriated fallopian tube with an attached 7 x 3 x 1.7 cm lobulated, white ovary. Also received is an amputated 5 x 2.5 x 2.2 cm cervix (14 gram) demonstrates a smooth, glistening exocervix and an unremarkable endocervical canal (AF4)\n\nADDITIONAL BLOCK SUMMARY:\nA5-7- anterior endomyometrium with tumor\nA8-9- posterior endomyometrium with tumor\nA10- intramural nodule\nA11-12- right attached adnexa\nA13-14- cervix and endocervical canal\nA15-16- left unattached adnexa\n\nB. \"Left pelvic lymph nodes\", received fresh and placed in formalin is a 6 x 6 x 2.5 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.3 to 3.8 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nB1- two lymph node candidates\nB2- one lymph node candidate, bisected\nB3-7- largest lymph node candidate, sectioned\nB8- remainder of fat\n\nC. \"Left gutter peritoneum\", received fresh and placed in formalin is a 3 x 1.5 x 1 cm fragment of red-brown fibromembranous tissue. The specimen is sectioned and submitted entirely in blocks C1-2.\n\nD. \"Right pelvic lymph node\", received fresh and placed in formalin is a 6 x 4 x 2 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.2 to 3.7 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nD1- two lymph node candidates\nD2- one lymph node candidate, bisected\nD3-6- largest lymph node candidate, sectioned\nD7- fat",
+          "confidence": {
+            "mean_probability": 0.992887267854012,
+            "mean_log_probability": -0.008859859627329192,
+            "perplexity": 1.0088992243530674,
+            "min_probability": 0.4597327208497868
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 806,
+            "total_tokens": 3278
+          },
+          "composite_score": 0.992974358495657,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 39.26191258430481,
+          "chars": 2996,
+          "words": 467,
+          "text": "ICD-O = 3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11\n\nCriteria\nDiagnosis Discrepancy  Yes  No\nPrimary Tumor Site Discrepancy  X\nHIPAA Discrepancy  X\nPric- Malignancy History  X\nDual/Synchronous Primary Noted  X\nCase is circled:  QUALIFIED  DISQUALIFIED\nReview Initials  KAA  Date Reviewed:  3/11/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri 182.0 (FIGO I endometrioid adenocarcinoma-per surgeon).\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1-4). Received fresh for frozen section is a detached left adnexa (AF1&2 frozen section; remnant in A1&2). Also received is a 83 gram, 4.3 x 4 x 3.8 cm supracervical hysterectomy specimen opened to demonstrate an endometrial cavity (4 x 3.2 cm) totally effaced by an exophytic 6 x 6 cm exophytic brown mass (AF3). The tumor is maximally 2 cm thick, 0.1 cm of which invades into a 1.7 cm myometrium. No uninvolved endometrium is grossly noted. The myometrium contains a well-circumscribed, whorled, 3 x 3 x 2.7 cm intramural nodule. No additional lesions are noted. The attached presumed right adnexa consists of a 4.2 cm long fimbriated fallopian tube with attached mesentery and an attached 4 x 3.5 x 2 cm ovary. The surface of the ovary is lobulated, white-tan, and upon sectioning demonstrates a cut surface effaced by a mucinous brown-tan mass that does not extend to the surface. The unattached 24 gram left adnexa consists of a 3 cm long, 0.5 cm in diameter fimbriated fallopian tube with an attached 7 x 3 x 1.7 cm lobulated, white ovary. Also received is an amputated 5 x 2.5 x 2.2 cm cervix (14 gram) demonstrates a smooth, glistening exocervix and an unremarkable endocervical canal (AF4)\n\nADDITIONAL BLOCK SUMMARY:  UUID:5117F490-9CE1-465F-BDF7-7B545B314703\nA5-7- anterior endomyometrium with tumor  TCGA-B5-A11Q-01A-PR  Redacted\nA8-9- posterior endomyometrium with tumor\nA10- intramural nodule\nA11-12- right attached adnexa\nA13-14- cervix and endocervical canal\nA15-16- left unattached adnexa\n\nB. \"Left pelvic lymph nodes\", received fresh and placed in formalin is a 6 x 6 x 2.5 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.3 to 3.8 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nB1- two lymph node candidates\nB2- one lymph node candidate, bisected\nB3-7- largest lymph node candidate, sectioned\nB8- remainder of fat\n\nC. \"Left gutter peritoneum\", received fresh and placed in formalin is a 3 x 1.5 x 1 cm fragment of red-brown fibromembranous tissue. The specimen is sectioned and submitted entirely in blocks C1-2.\n\nD. \"Right pelvic lymph node\", received fresh and placed in formalin is a 6 x 4 x 2 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node candidates from 0.2 to 3.7 cm in greatest dimension are identified and submitted as follows:\n\nBLOCK SUMMARY:\nD1- two lymph node candidates\nD2- one lymph node candidate, bisected\nD3-6- largest lymph node candidate, sectioned\nD7- fat",
+          "confidence": {
+            "mean_probability": 0.9781175230917125,
+            "mean_log_probability": -0.030869960086299893,
+            "perplexity": 1.031351378321642,
+            "min_probability": 0.14099483788765624
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 928,
+            "total_tokens": 3400
+          },
+          "composite_score": 0.9272413877851052
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 27.631370544433594,
+          "chars": 2678,
+          "words": 433,
+          "text": "ICD-O = 3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1 2/25/11 M\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri 182.0 (FIGO I endometrioid adenocarcinoma-per\nsurgeon).\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1-4). Received fresh for\nfrozen section is a detached left adnexa (AF1&2 frozen section; remnant in\nA1&2). Also received is a 83 gram, 4.3 x 4 x 3.8 cm supracervical\nhysterectomy specimen opened to demonstrate an endometrial cavity (4 x 3.2 cm)\ntotally effaced by an exophytic 6 x 6 cm exophytic brown mass (AF3). The\ntumor is maximally 2 cm thick, 0.1 cm of which invades into a 1.7 cm\nmyometrium. No uninvolved endometrium is grossly noted. The myometrium\ncontains a well-circumscribed, whorled, 3 x 3 x 2.7 cm intramural nodule. No\nadditional lesions are noted. The attached presumed right adnexa consists of a\n4.2 cm long fimbriated fallopian tube with attached mesentery and an attached\n4 x 3.5 x 2 cm ovary. The surface of the ovary is lobulated, white-tan, and\nupon sectioning demonstrates a cut surface effaced by a mucinous brown-tan\nmass that does not extend to the surface. The unattached 24 gram left adnexa\nconsists of a 3 cm long, 0.5 cm in diameter fimbriated fallopian tube with an\nattached 7 x 3 x 1.7 cm lobulated, white ovary. Also received is an amputated\n5 x 2.5 x 2.2 cm cervix (14 gram) demonstrates a smooth, glistening exocervix\nand an unremarkable endocervical canal (AF4)\n\nADDITIONAL BLOCK SUMMARY:\nA5-7- anterior endomyometrium with tumor\nA8-9- posterior endomyometrium with tumor\nA10- intramural nodule\nA11-12- right attached adnexa\nA13-14- cervix and endocervical canal\nA15-16- left unattached adnexa\n\nB. \"Left pelvic lymph nodes\", received fresh and placed in formalin is a 6 x 6\nx 2.5 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node\ncandidates from 0.3 to 3.8 cm in greatest dimension are identified and\nsubmitted as follows:\n\nBLOCK SUMMARY:\nB1- two lymph node candidates\nB2- one lymph node candidate, bisected\nB3-7- largest lymph node candidate, sectioned\nB8- remainder of fat\n\nC. \"Left gutter peritoneum\", received fresh and placed in formalin is a 3 x\n1.5 x 1 cm fragment of red-brown fibromembranous tissue. The specimen is\nsectioned and submitted entirely in blocks C1-2.\n\nD. \"Right pelvic lymph node\", received fresh and placed in formalin is a 6 x 4\nx 2 cm aggregate of yellow-tan fibroadipose tissue. Four lymph node\ncandidates from 0.2 to 3.7 cm in greatest dimension are identified and\nsubmitted as follows:\n\nBLOCK SUMMARY:\nD1- two lymph node candidates\nD2- one lymph node candidate, bisected\nD3-6- largest lymph node candidate, sectioned\nD7- fat",
+          "confidence": {
+            "mean_probability": 0.9917514952899,
+            "mean_log_probability": -0.010978835928143714,
+            "perplexity": 1.0110393245093732,
+            "min_probability": 0.18954799779767642
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 836,
+            "total_tokens": 3308
+          },
+          "composite_score": 0.9417466963611271
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 23.30794596672058,
+        "chars": 2476,
+        "words": 319,
+        "text": "Page 2 of 3\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\n      AF1 unattached ovary- mucinous adenocarcinoma (Dr.\n      AF2 attached ovary- mucinous adenocarcinoma (Dr.\n      AF3 endomyometrium- 1.7 cm thick myometrium)-\n                  endometrioid adenocarcinoma, FIGO grade I,\n                  invasion <1 mm in 1.7 cm thick wall (Dr.\n      AF4 (cervix, endocervix- black, ectocervix-green)-\n                  endocervical surface extension of carcinoma (Dr.     ).\nNote: Unclear whether ovarian and uterine lesions separate (Dr. ;\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 83 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.  ✓\n            FIGO GRADE: 1\n            TUMOR SIZE: 6 X 6 CM.\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.7 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NEGATIVE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE FOUND\n      REMAINING MYOMETRIUM: LEIOMYOMA\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS DISCLOSE METASTATIC/IMPLANTED TUMOR\nA. OVARIES, BILATERAL\nA. LEFT FALLOPIAN TUBE\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. RIGHT FALLOPIAN TUBE\nB. LEFT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\nC. LEFT GUTTER PERITONEUM: ADHESIONS.\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted signature and information]",
+        "confidence": {
+          "mean_probability": 0.9812405409918973,
+          "mean_log_probability": -0.029427477366255145,
+          "perplexity": 1.029864744259868,
+          "min_probability": 0.07892036286139804
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 730,
+          "total_tokens": 3202
+        },
+        "composite_score": 0.9771309952273324,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 23.30794596672058,
+          "chars": 2476,
+          "words": 319,
+          "text": "Page 2 of 3\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\n      AF1 unattached ovary- mucinous adenocarcinoma (Dr.\n      AF2 attached ovary- mucinous adenocarcinoma (Dr.\n      AF3 endomyometrium- 1.7 cm thick myometrium)-\n                  endometrioid adenocarcinoma, FIGO grade I,\n                  invasion <1 mm in 1.7 cm thick wall (Dr.\n      AF4 (cervix, endocervix- black, ectocervix-green)-\n                  endocervical surface extension of carcinoma (Dr.     ).\nNote: Unclear whether ovarian and uterine lesions separate (Dr. ;\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 83 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.  ✓\n            FIGO GRADE: 1\n            TUMOR SIZE: 6 X 6 CM.\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.7 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NEGATIVE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE FOUND\n      REMAINING MYOMETRIUM: LEIOMYOMA\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS DISCLOSE METASTATIC/IMPLANTED TUMOR\nA. OVARIES, BILATERAL\nA. LEFT FALLOPIAN TUBE\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. RIGHT FALLOPIAN TUBE\nB. LEFT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\nC. LEFT GUTTER PERITONEUM: ADHESIONS.\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Redacted signature and information]",
+          "confidence": {
+            "mean_probability": 0.9812405409918973,
+            "mean_log_probability": -0.029427477366255145,
+            "perplexity": 1.029864744259868,
+            "min_probability": 0.07892036286139804
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 730,
+            "total_tokens": 3202
+          },
+          "composite_score": 0.9771309952273324,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 20.445770025253296,
+          "chars": 2502,
+          "words": 320,
+          "text": "Page 2 of 3\n\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\n      AF1 unattached ovary- mucinous adenocarcinoma (Dr.\n      AF2 attached ovary- mucinous adenocarcinoma (Dr.\n      AF3 endomyometrium- 1.7 cm thick myometrium)-\n                    endometrioid adenocarcinoma, FIGO grade I,\n                    invasion <1 mm in 1.7 cm thick wall (Dr.\n      AF4 (cervix, endocervix- black, ectocervix-green)-\n                    endocervical surface extension of carcinoma (Dr.     ).\n      Note: Unclear whether ovarian and uterine lesions separate (Dr. ;\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 83 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.  ✓\n            FIGO GRADE: 1\n            TUMOR SIZE:  6 X 6 CM.\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.7 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NEGATIVE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE FOUND\n      REMAINING MYOMETRIUM: LEIOMYOMA\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS DISCLOSE METASTATIC/IMPLANTED TUMOR\nA. OVARIES, BILATERAL\nA. LEFT FALLOPIAN TUBE\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. RIGHT FALLOPIAN TUBE\nB. LEFT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\nC. LEFT GUTTER PERITONEUM: ADHESIONS.\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[Signature and identifying information redacted]",
+          "confidence": {
+            "mean_probability": 0.9807023323718894,
+            "mean_log_probability": -0.03018096174863388,
+            "perplexity": 1.0306410236811134,
+            "min_probability": 0.0700334705847449
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 733,
+            "total_tokens": 3205
+          },
+          "composite_score": 0.9277344643507801
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 22.75911521911621,
+          "chars": 2444,
+          "words": 315,
+          "text": "Page 2 of 3\n\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\":\n      AF1 unattached ovary- mucinous adenocarcinoma (Dr.\n      AF2 attached ovary- mucinous adenocarcinoma (Dr.\n      AF3 endomyometrium- 1.7 cm thick myometrium)-\n                    endometrioid adenocarcinoma, FIGO grade I,\n                    invasion <1 mm in 1.7 cm thick wall (Dr.\n      AF4 (cervix, endocervix- black, ectocervix-green)-\n                    endocervical surface extension of carcinoma (Dr.   ).\nNote: Unclear whether ovarian and uterine lesions separate (Dr. ;\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT3a pNX pMX\n\nNOTE: Information on pathology stage and the operative procedure is\ntransmitted to this Institution's Cancer Registry as required for\naccreditation by the Commission on Cancer. Pathology stage is based solely\nupon the current tissue specimen being evaluated, and does not incorporate\ninformation on any specimens submitted separately to our Cytology section,\npast pathology information, imaging studies, or clinical or operative\nfindings. Pathology stage is only a component to be considered in determining\nthe clinical stage, and should not be confused with nor substituted for it.\nThe exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. UTERUS: 83 GRAMS\n      ENDOMETRIUM:\n            TUMOR SITE: CORPUS\n            HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.  ✓\n            FIGO GRADE: 1\n            TUMOR SIZE: 6 X 6 CM.\n            MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1.7 THICK WALL.\n            LYMPHATIC/VASCULAR INVASION: NEGATIVE\n            ADJACENT NON-NEOPLASTIC ENDOMETRIUM: NONE FOUND\n      REMAINING MYOMETRIUM: LEIOMYOMA\n      CERVIX: NO PATHOLOGIC DIAGNOSIS.\n      SEROSA: NO PATHOLOGIC DIAGNOSIS.\n      SPECIMEN MARGINS: NOT INVOLVED\n\nTHE FOLLOWING SPECIMENS DISCLOSE METASTATIC/IMPLANTED TUMOR\nA. OVARIES, BILATERAL\nA. LEFT FALLOPIAN TUBE\n\nTHE FOLLOWING SPECIMENS ARE FREE OF TUMOR:\nA. RIGHT FALLOPIAN TUBE\nB. LEFT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\nC. LEFT GUTTER PERITONEUM: ADHESIONS.\nD. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n",
+          "confidence": {
+            "mean_probability": 0.9841459678969734,
+            "mean_log_probability": -0.025904095567867033,
+            "perplexity": 1.0262425225474208,
+            "min_probability": 0.0722594619007621
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 723,
+            "total_tokens": 3195
+          },
+          "composite_score": 0.9308099872915688
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}

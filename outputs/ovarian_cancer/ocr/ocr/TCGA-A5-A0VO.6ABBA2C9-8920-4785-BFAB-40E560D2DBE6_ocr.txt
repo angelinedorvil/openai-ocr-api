@@ -1,0 +1,276 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-0-3
+Adenocarcinoma, Endometrioid,
+NOS
+8380/3  12/1/10  W
+it: Endometrium
+C54.1
+UUID:6ABBA2C9-8920-4785-BFAB-40E560D2DBE6
+TCGA-A5-A0VO-01A-PR      Redacted
+Criteria             Yes   No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):    QUALIFIED / DISQUALIFIED
+Reviewer Initials:  JA     Date Reviewed:  10/10/10
+
+SURGICAL PATHOLOGY REPORT
+
+SYNOPTIC REPORT:
+Applies To:
+A : UTERUS, CERVIX, TUBES AND OVARIES
+B : FIBROID
+C : RIGHT SIDEWALL
+D : RIGHT PELVIC LYMPH NODE
+E : RIGHT OBTURATOR LYMPH NODE
+F : COMMON RIGHT LYMPH NODE
+G : RIGHT PARAAORTIC LYMPH NODE
+H : LEFT PELVIC LYMPH NODE
+I : LEFT OBTURATOR LYMPH NODE
+J : LEFT PA LYMPH NODE
+K : OMENTUM BIOPSY
+
+Macroscopic
+Specimen Type:                 Uterus
+                               Right ovary
+                               Left ovary
+                               Right fallopian tube
+                               Left fallopian tube
+                               Parametrium
+                               Omentum
+                               Peritoneum
+
+Procedure:                     Laparoscopic-assisted vaginal hysterectomy and
+                               bilateral salpingo-oophorectomy
+
+Lymph Node Sampling:          Pelvic lymph nodes
+                               Para-aortic lymph nodes
+                               Obturator lymph nodes; "common" lymph node
+
+Microscopic
+Histologic Type:              Endometrioid adenocarcinoma, variant
+                               Variant: Papillary
+
+Histologic Grade:             FIGO grade II
+
+Tumor Size:                   Dimensions: 4 x 3 x 3cm
+
+Myometrial Invasion:          Invasion present
+                               Depth of invasion: 0.7cm
+                               Myometrial thickness: 1.1cm
+                               Greater than 50% myometrial invasion
+
+Involvement of Cervix:        No involvement
+
+
+Patient Case(s):
+Copy For: !
+Page 1 of p
+PATIENT NOTIFIED OF RESULTS
+DR: ...    NURSE:       DATE:
+
+===================================== PAGE 2 =====================================
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+
+Primary Tumor (pT): pT1b [IB]: Tumor invades greater than or equal to one-half of the myometrium
+
+Regional Lymph Nodes (pN): pNO: No regional lymph node metastasis
+
+Comment(s): In addition to pelvic and para-aortic lymph nodes, 4 right and 3 left obturator lymph nodes are negative for tumor (0/7). One lymph node labeled "Common Rt" is negative for tumor (0/1). One lymph node identified in the omental biopsy is negative for tumor (0/1)
+
+Number of pelvic lymph nodes examined: 5
+Number of pelvic lymph nodes involved: 0
+Number of para-aortic lymph nodes examined: 4
+Number of para-aortic lymph nodes involved: 0
+
+DIAGNOSIS:
+
+A. UTERUS, FALLOPIAN TUBES AND OVARIES, ROBOTIC-ASSISTED LAPAROSCOPIC-VAGINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:
+    - Uterus:
+        - Endometrial adenocarcinoma, papillary endometrioid type, FIGO grade II
+        - Tumor size: 4.0 x 3.0 x 3.0 cm
+        - Depth of myometrial invasion: 0.7 cm
+        - Depth of myometrial thickness: 1.1 cm
+        - Carcinoma involves the lower uterine segment
+        - Carcinoma does not involve the cervix
+        - Vascular invasion is present
+    - Myometrium:
+        - Leiomyomas
+    - Cervix:
+        - No pathologic diagnosis
+    - Right fallopian tube and ovary:
+        - No pathologic diagnosis
+    - Left fallopian tube and ovary:
+        - Ovary with endometriosis
+        - Fallopian tube with endometriosis and xanthomatous salpingitis
+
+B. UTERUS, MYOMETCTOMY:
+    - Partially calcified leiomyoma
+
+C. PELVIS, RIGHT SIDEWALL BIOPSY:
+    - Fibrovascular tissue, no tumor present
+
+D. LYMPH NODE, RIGHT PELVIC, EXCISION:
+    - One lymph node, no tumor present (0/1)
+
+SURGICAL PATHOLOGY REPORT
+
+Page 2 of 6
+
+===================================== PAGE 3 =====================================
+E. LYMPH NODE, RIGHT OBTURATOR, EXCISION:
+- Four lymph nodes, no tumor present (0/4)
+
+F. LYMPH NODE, COMMON RIGHT, EXCISION:
+- One lymph node, no tumor present (0/1)
+
+G. LYMPH NODE, RIGHT PERIAORTIC, EXCISION:
+- Two lymph nodes, no tumor present (0/2)
+
+H. LYMPH NODE, LEFT PELVIC, EXCISION:
+- Four lymph nodes, no tumor present (0/4)
+
+I. LYMPH NODE, LEFT OBTURATOR, EXCISION:
+- Three lymph nodes, no tumor present (0/3)
+
+J. LYMPH NODES, "LEFT PA", EXCISION:
+- Two lymph nodes, no tumor present (0/2)
+
+K. OMENTUM, BIOPSY:
+- Adipose tissue, no tumor present
+- One lymph node, no tumor present (0/1)
+
+HISTORY:
+Endometrial cancer
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+SPECIAL STUDIES:
+Decalcification (B1)
+HE step sections x 3 (F1)
+
+GROSS:
+A. UTERUS, CERVIX TUBE AND OVARY BILATERAL
+Labeled with the patient's name, labeled "uterus, cervix tubes and ovaries", and received fresh in the Operating Room for gross consultation and subsequently fixed in formalin is a 160 gram, supravaginal hysterectomy, bilateral salpingo-oophorectomy and cervicectomy specimen. The uterus is 4.6 x 4.0 x 4.5 cm. The cervix is received detached and measures 3.4 x 3.0 x 2.7 cm. The endometrial cavity is 3.1 cm long and up to 2.4 cm in width. The endometrial mucosa is about 0.2 cm in thickness. The muscular uterine wall measures 1.3 cm. There are parametrial soft tissues attached to the uterus, those on the right side are 1.0 cm in width and those on the left side are 1.1 cm in width. The right ovary is 2.1 x 1.4 x 1.0 cm. The right fallopian tube is 2.5 cm in length and ranges 0.4 cm in diameter. The left ovary is 2.5 cm x 1.0 cm x 1.0 cm. The left fallopian tube is 2.3 cm in length with a diameter of 0.4 cm. The portion of the left fallopian tube is dilated to a diameter of 1.5 cm.
+
+Within the endometrial cavity is a 4.0 x 3.0 x 3.0 cm polypoid, friable yellow-tan mass diffusely that occupies the endometrium, extends into the anterior lower uterine segment, and is 0.9 cm from that margin. Myometrial invasion by firm tan-white tumor is present and involves approximately 50% of the uterine wall thickness (involves up to 0.8 cm of the wall where the maximum thickness is 1.2 cm). The uterine serosa appears uninvolved by tumor. The cervix, vaginal cuff, and parametria appear grossly free of tumor. No metastatic tumor is seen in ovaries or fallopian tubes.
+
+Multiple subserosal and intramural leiomyomas are present. Approximately seven leiomyomas are identified ranging from 0.3 to 5.4 cm in greatest dimension. Cut sections of the leiomyomas reveal firm solid tan-white whorled tissue without gross evidence of necrosis or hemorrhage. The cervix is grossly
+
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 6
+
+===================================== PAGE 4 =====================================
+unremarkable. The left ovary and fallopian tube display tuboovarian adhesions. The ovaries are otherwise grossly unremarkable. No other lesions are identified.
+
+Ink key: Anterior uterine serosa and entire cervical resection surface - blue; posterior uterine serosa - black.
+
+Representative sections submitted.
+
+Slide key:
+A1. Cervix - 1
+A2. Opposite cervix - 1
+A3. Anterior lower uterine segment with tumor - 1
+A4. Posterior lower uterine segment with tumor - 1
+A5. Anterior uterine corpus - 1
+A6. Anterior fundus - 2
+A7. Posterior uterine corpus - 1
+A8. Posterior uterine fundus - 1
+A9. Right ovary - 1
+A10. Right fallopian tube - 3
+A11. Left ovary - 1
+A12. Left ovary and fallopian tube - 3
+A13. Two subserosal leiomyomas - 2
+A14. Two intramural leiomyomas - 2
+A15. Largest leiomyoma - 2
+
+B. FIBROID
+Labeled with the patient's name, labeled "fibroid", and received fresh in the Operating Room for gross consultation and subsequently fixed in formalin is a 200 gram, 9.5 x 6.0 x 5.0 cm myomectomy specimen. External surface is pink-tan smooth and glistening with focal areas of cautery artifact. Cut section of the leiomyoma reveals a 2.0 x 2.0 x 1.5 cm area of calcification at the periphery. Multiple sections through the leiomyoma reveal multifocal areas of calcification throughout. The remaining tissue reveals whitish solid fibrous whorled tissue with no areas of necrosis or hemorrhage identified. Representative sections submitted.
+B1. Calcified areas - 2
+B2-B6. Representative sections - 2 each
+
+C. RIGHT SIDEWALL
+Labeled with the patient's name, labeled "right sidewall", and received in formalin is a 3.0 x 1.0 x 0.3 cm portion of pink-tan soft tissue. Cut section of the specimen reveals a lumen approximately 0.2 cm in diameter. Entirely submitted.
+C1. 5
+
+D. RIGHT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "right pelvic lymph node", and received in formalin is a 6.0 x 2.4 x 0.2 cm portion of adipose tissue. Within the fat is one lymph node measuring 2.0 x 1.0 x 1.2 cm. Cut section of the lymph node reveals gray-tan homogeneous tissue. There is another possible lymph node measuring 0.3 x 0.2 x 0.1 cm. The lymph nodes are entirely submitted. Representative sections submitted.
+D1, D2. One lymph node bisected - 2 each
+D3. One possible lymph node - 2
+
+E. RIGHT OBTURATOR LN
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 6
+
+===================================== PAGE 5 =====================================
+Labeled with the patient's name, labeled "right obturator LN", and received in formalin is a 4.0 x 2.5 x 0.4 cm portion of adipose tissue containing two lymph nodes measuring 1.2 x 0.5 x 0.4 cm and 2.0 x 0.5 x 0.3 cm. Lymph nodes are entirely submitted. Representative sections submitted.
+
+E1. Two lymph nodes - 2
+E2. Additional tissue - multiple
+
+F. COMMON RIGHT LN
+Labeled with the patient’s name, labeled “common right LN”, and received in formalin is a 3.0 x 1.8 x 0.5 cm portion of adipose tissue containing a 1.5 x 1.4 x 0.3 cm gray-tan semi-firm lymph node. Lymph node is entirely embedded.
+F1. 1
+
+G. RIGHT PERIAORTIC LN
+Labeled with the patient’s name, labeled “right periaortic LN”, and received in formalin are two portions of adipose tissue measuring 2.0 x 1.5 x 0.4 cm and 1.5 x 0.6 x 0.3 cm. Within the larger fragment is a 1.0 x 0.6 x 0.3 cm gray-tan firm lymph node. Entirely submitted.
+G1. One lymph node - 2
+
+H. LEFT PELVIC LN
+Labeled with the patient’s name, labeled “left pelvic LN”, and received in formalin is a 3.8 x 3.0 x 1.0 cm aggregate of multiple fibroadipose tissue fragments. Within the tissue are four possible lymph nodes ranging from 0.3 to 1.0 cm in greatest dimension. Lymph nodes are entirely embedded.
+H1. Three possible lymph nodes - 3
+H2. One possible lymph node - 1
+
+I. LEFT OBTURATOR LN
+Labeled with the patient’s name, labeled “left obturator LN”, and received in formalin is a 3.0 x 1.7 x 0.4 cm portion of adipose tissue containing two lymph nodes measuring 0.6 x 0.4 x 0.3 cm and 0.9 x 0.3 x 0.3 cm. Lymph nodes entirely submitted.
+I1. Two lymph nodes - 2
+
+J. LEFT PA LYMPH NODES
+Labeled with the patient’s name, labeled “left PA lymph node”, and received in formalin are two probable lymph nodes measuring 0.8 x 0.4 x 0.3 cm and 0.5 x 0.4 x 0.3 cm. Lymph nodes are entirely embedded.
+J1. 2
+
+K. OMEN TUM BIOPSY
+Labeled with the patient’s name, labeled “omentum biopsy”, and received in formalin is a 4.0 x 2.5 x 1.0 cm portion of yellow omental tissue. Within the omentum is a 0.9 x 0.5 x 0.5 cm somewhat firm nodular area. No other lesions are identified. Representative sections are submitted.
+K1. Multiple
+
+Gross dictated by
+
+INTRAOPERATIVE CONSULTATION:
+OPERATIVE CALL
+OPERATIVE CONSULT (GROSS):
+
+A. UTERUS, FALLOPIAN TUBES AND OVARTIES, LAPAROSCOPIC-ASSISTED SUPRACERVICAL HYSTERECTOMY AND CERVIX, CERVI CE CTOMY:
+
+- Primary uterine carcinoma, extensively involving endometrium and extending into lower uterine segment
+- Greater than 50% myometrial invasion
+- Separate cervix, ovaries and fallopian tubes appear grossly free of tumor
+
+SURGICAL PATHOLOGY REPORT
+
+Page 5 of 6
+
+===================================== PAGE 6 =====================================
+- Leiomyoma
+- Left tubo-ovarian adhesions and left hematosalpinx also noted
+- NOTE: Small portions of tumor in benign ovaries and fallopian tubes released for research
+
+B. UTERUS, MYOMECTOMY:
+Large leiomyoma partially calcified
+M.D.)
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+— Electronically signed
+
+SURGICAL PATHOLOGY REPORT
+If this report includes Immunohistochemical test results, please note the following: Numerous immunohistochemical tests were developed and their performance characteristics determined by:
+Those
+immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+Page 6 of 6

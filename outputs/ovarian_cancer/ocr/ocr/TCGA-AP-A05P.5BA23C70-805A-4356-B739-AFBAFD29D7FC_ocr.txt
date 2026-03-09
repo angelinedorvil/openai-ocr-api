@@ -1,0 +1,78 @@
+
+
+===================================== PAGE 1 =====================================
+UID: 5BA23C78-805A-4356-B739-AFBAFD29D7FC
+TCGA-AP-A05P-01A-PR Redacted
+
+
+Specimens Submitted:
+1: UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES, TOTAL HYSTERECTOMY
+AND BILATERAL SALPINGO-OOPHORECTOMY
+2: Sentinel lymph node, right external iliac; excision
+3: Lymph nodes, left obturator; excision
+4: Lymph nodes, left external iliac; excision
+5: Lymph nodes, left common iliac; excision
+
+
+DIAGNOSIS:
+1. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES, TOTAL
+HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY:
+Tumor Type:
+Adenocarcinoma, endometrioid type
+Architectural Grade (For Endometrioid Types only):
+I (<6% solid growth)
+Nuclear Grade (For Endometrioid Types only):
+Grade 1
+FIGO Grade (For Endometrioid Types only):
+Grade 1
+Myometrial Invasion:
+Not identified
+Endocervical Invasion:
+Not identified
+Lymphovascular invasion:
+Not identified
+Endometrium:
+Exhibits complex hyperplasia with atypia
+Myometrium:
+Unremarkable
+Adnexa:
+Unremarkable
+Comment:
+Benign endocervical polyp is noted
+-------------------------------------------------
+2. SENTINEL LYMPH NODE, RIGHT EXTERNAL ILIAC; EXCISION:
+- ONE BENIGN LYMPH NODE (0/1)
+- MULTIPLE LEVELS AND CYTOKERATIN IMMUNOSTAINED SLIDES WERE EXAMINED.
+
+**Continued on next page**
+
+ICD-0-3
+idenocarcinoma, indometrioid, Nos 8380/3
+Site: Indometrium CS4.1 Mrs 5/2/11
+
+Criteria                 Yes   No
+Diagnosis Discrepancy           x
+Primary Tumor Site Discrepancy  x
+HIPAA Discrepancy               x
+Prior Malignancy History        x
+Dual/Synchronous Primary Neoplasms            QUALIFIED / UNQUALIFIED
+Case Is (circle):              X
+Reviewer Initials:             JMK     Date Review.c.: 5/2/11
+
+===================================== PAGE 2 =====================================
+TSS Name
+
+--------------------------------------------------------------------------- Page 2 of 4
+
+3. LYMPH NODES, LEFT OBTURATOR; EXCISION:
+   -ONE BENIGN LYMPH NODE (0/1)
+
+4. LYMPH NODES, LEFT EXTERNAL IliAC; EXCISION:
+   -BENIGN FIBROADIPose TISSUE (TISSUE ENTIRELY SUBMITTED)
+
+5. LYMPH NODES, LEFT COMMON ILIAC; EXCISION:
+   -TWO BENIGN LYMPH NODES (0/2)
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.

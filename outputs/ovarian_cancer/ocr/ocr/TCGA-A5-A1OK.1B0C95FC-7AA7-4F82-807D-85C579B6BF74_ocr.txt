@@ -1,0 +1,514 @@
+
+
+===================================== PAGE 1 =====================================
+i08-0-3
+adenocarcinoma, endometrioid, nos 8380/3
+Site: Endometrium C54.1 31c111 hw
+
+Accession Number:
+Orderina
+Copies To:
+
+SURGICAL PATHOLOGY REPORT
+********* AMENDED REPORT *********
+Reason for Amendment/Correction #1: Additional pathology information
+Reason for Amendment/Correction #2: Typographical errors
+
+DIAGNOSIS:
+
+A. OMENTUM, #1, #2, AND #3, PARTIAL OMENTECTOMY:
+    - Hemorrhages, serosal adhesions, chronic inflammation and/or reactive mesothelial changes
+    - No evidence of metastatic carcinoma
+
+D. UTERUS, RIGHT CORNUA, EXCISION:
+    - Accumulation of fibrin and blood consistent with organizing hematoma
+    - Reactive mesothelial proliferation
+    - No evidence of carcinoma
+
+E. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:
+    - Ovary with atrophic changes
+    - Fallopian tube with epithelial hyperplasia without significant atypia and focal transitional epithelial metaplasia
+    - Paratubal serous cyst (hydatid of Morgangi) with associated bloody contents and cystic Walthard rests
+    - No evidence of metastatic carcinoma
+
+F. FALLOPIAN TUBE AND OVARY, RIGHT, SALPINGO-OOPHORECTOMY:
+    - Ovary with atrophic changes, a cystic epithelial inclusion, and benign surface micropapillary epithelial and stromal proliferations
+    - Fallopian tube with epithelial hyperplasia without significant atypia
+    - No evidence of metastatic carcinoma
+
+G. UTERUS, TOTAL ABDOMINAL HISTERECTOMY:
+    - Primary uterine adenocarcinoma, endometrioid type with associated squamous changes, FIGO grade 3:
+        - Tumor involves the endometrium of the uterine fundus, anterior and posterior uterine corpus, and lower uterine segment
+        - Myometrial invasion by carcinoma is present and involves the full-thickness of the uterine wall
+        - Tumor focally penetrates the uterine serosa
+        - Lymphovascular invasion by carcinoma is present
+        - Perineural invasion by carcinoma is also present
+        - Carcinoma focally involves the intrauterine segment of one of the fallopian tubes (laterality uncertain) [see second comment]
+
+Patient Case(s): 
+Copy For  
+Page 1 of 10  
+
+UUID:1B0C95FC-7AA7-4F82-B07D-85C579B6BF74
+TCGA-A5-A1OK-01A-PR Redacted
+
+===================================== PAGE 2 =====================================
+PATIEN'
+
+- The uterine adenocarcinoma does not extend into the cervix
+- Vaginal cuff and parametrial soft tissues are free of tumor
+- Two foci of microinvasive cervical squamous cell carcinoma, extensive cervical intraepithelial neoplasia (CIN) III (severe dysplasia and squamous cell carcinoma in-situ [SCIS]) involving surface epithelium and endocervical glands, and focal CIN II (see comment):
+    - Microinvasive carcinoma is present in 1 of 4 quadrants of cervix
+    - Maximum depth of microinvasion is about 0.15 cm (1.5 mm); maximum horizontal extent of microinvasive tumor is less than 0.1 cm (1mm) [see comment #3]
+    - No evidence of microinvasive carcinoma at surgical margins
+    - No lymphatic or blood vessel invasion by squamous carcinoma identified in the cervix
+    - CIN III/SCIS is present in all four quadrants
+- Koilocytic cervical squamous atypia consistent with human papilloma virus (HPV) infection
+- Cervix also shows focal mucosal erosion/necrosis, reactive changes consistent with prior biopsy site, chronic and mild acute inflammation, squamous metaplasia, endocervical nabothian cysts, recent subepithelial hemorrhages, and focal endometriosis in outermost wall
+- Focal complex endometrial hyperplasia with atypia
+- Necrosis, hemorrhage, and other changes in endometrium and superficial myometrium consistent with prior endometrial curettage
+- Small uterine leiomyoma
+- Subserosal endometriosis, lower uterine segment
+- Vaginal cuff with chronic inflammation
+
+H. LYMPH NODE, LEFT PELVIC, EXCISION:
+    - Nine reactive lymph nodes
+    - No evidence of metastatic carcinoma (0/9)
+
+I. LYMPH NODE, LEFT COMMON, EXCISION:
+    - Four reactive lymph nodes
+    - No evidence of metastatic carcinoma (0/4)
+
+J. LYMPH NODE, LEFT “PA”, EXCISION:
+    - One reactive lymph node
+    - No evidence of metastatic carcinoma (0/1)
+
+K. LYMPH NODE, RIGHT PELVIC, EXCISION:
+    - Four reactive lymph nodes
+    - No evidence of metastatic carcinoma (0/4)
+
+L. LYMPH NODE, RIGHT “PA”, EXCISION:
+    - Two reactive lymph nodes
+    - No evidence of metastatic carcinoma (0/2)
+
+COMMENT: The pathologic findings were conveyed to Dr. on
+
+COMMENT #2 WITH EXPLANATION OF THE CORRECTION: The involvement of an intrauterine segment of one of the fallopian tubes was stated in the corresponding
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 10
+
+===================================== PAGE 3 =====================================
+PATIENT:
+original synoptic report and conveyed to Dr.
+but was not listed (typed into) in the
+original non-synoptic section of the diagnosis for specimen G.
+
+COMMENT #3 WITH EXPLANATION OF A SECOND CORRECTION: A typographical error
+was corrected. (15 mm was changed to 1.5 mm).
+
+SYNOPTIC REPORT:
+Applies To:
+A : OMENTUM 1
+B : OMENTUM 2
+C : OMENTUM 3
+D : RIGHT CORNUA OF UTERUS
+E : LEFT TUBE AND OVARY
+F : RIGHT TUBE AND OVARY
+G : UTERUS AND CERVIX FS
+H : LEFT PELVIC LYMPH NODES
+I : LEFT COMMON IliAC LYMPH NODES
+J : LEFT PARA-AORTIC LYMPH NODE
+K : RIGHT PELVIC LYMPH NODES
+L : RIGHT PARA-AORTIC LYMPH NODES
+
+Macroscopic
+Specimen Type:	Uterus
+			Right ovary
+			Left ovary
+			Right fallopian tube
+			Left fallopian tube
+			Parametrium
+			Vaginal cuff
+			Omentum
+Procedure:	Total abdominal hysterectomy and bilateral salpingo-
+			oophorectomy
+Specimen Integrity:	Intact hysterectomy specimen
+Lymph Node Sampling:	Pelvic lymph nodes
+			Para-aortic lymph nodes
+			Common iliac lymph nodes
+
+Microscopic
+Histologic Type:	Endometrioid adenocarcinoma wiht associated
+			squamous changes
+Histologic Grade:	FIGO grade III
+Tumor Site:	Corpus
+			Fundus
+Tumor Size:	Lower uterine segment
+			Greatest dimension: 4.2cm
+Myometrial Invasion:	Tumor extends through the entire uterine wall to serosal
+			surface
+Involvement of Cervix:	No involvement
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 10
+
+===================================== PAGE 4 =====================================
+PATIENT:
+
+Extent of Involvement
+of Other Organs:
+None
+Intrauterine portion of one fallopian tube (laterality
+uncertain) is present.
+
+Margins:
+Involved by invasive carcinoma
+Margin(s) involved: Uterine serosa is focally involved by
+tumor. Parametrial margins and vaginal cuff margins
+are free of tumor.
+
+Lymphovascular Invasion:
+Present
+
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+
+Primary Tumor (pT):
+pT3a [III A]: Tumor involves serosa and/or adnexa (direct
+extension or metastasis)
+
+Regional Lymph Nodes (pN):
+pNO: No regional lymph node metastasis
+Comment(s): In addition to the pelvic and para-aortic
+lymph nodes, 4 left common iliac lymph nodes are
+free of tumor.
+
+Number of pelvic lymph
+nodes examined:          13
+Number of pelvic lymph
+nodes involved:          0
+Number of para-aortic
+lymph nodes examined:   3
+Number of para-aortic
+lymph nodes involved:   0
+Number of common iliac
+lymph nodes examined:   4
+Number of common iliac
+lymph nodes involved:   0
+
+
+SYNOPTIC REPORT:
+
+Applies To:
+A : OMEN TUM 1
+B : OMEN TUM 2
+C : OMEN TUM 3
+D : RIGHT CORNUA OF UTERUS
+E : LEFT TUBE AND OVARY
+F : RIGHT TUBE AND OVARY
+G : UTERUS AND CERVIX FS
+H : LEFT PELVIC LYMPH NODES
+I : LEFT COMMON ILIAC LYMPH NODES
+J : LEFT PARA-AORTIC LYMPH NODE
+K : RIGHT PELVIC LYMPH NODES
+L : RIGHT PARA-AORTIC LYMPH NODES
+
+
+Macroscopic
+
+Specimen Type:         Entire uterus
+Procedure:              Hysterectomy
+Other Organs Present:   Right ovary
+
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 10
+
+===================================== PAGE 5 =====================================
+PATIENT:
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Vaginal cuff
+Pelvic lymph nodes
+Para-aortic lymph nodes
+Common iliac lymph nodes
+
+Lymph Node Sampling:
+
+Microscopic
+Histologic Type: Squamous cell carcinoma
+Histologic Grade: G2: Moderately differentiated
+Tumor Site: 3 to 6 o'clock quadrant
+Tumor Size: Greatest dimension: 0.15cm
+Lymphovascular Invasion: Not identified
+Margins: Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: Greater than 1.5 cm
+
+Pathologic Staging (pTNM) (AJCC 7th Edition, 2010) [FIGO]
+Primary Tumor (pT): pT1a [IA]: Invasive carcinoma diagnosed by microscopy only. All macroscopically visible lesions (even with superficial invasion) are pT1b/1B.
+Regional Lymph Nodes (pN):
+Number of lymph nodes identified: 20
+Number of lymph nodes involved: 0
+
+HISTORY:
+Uterine cancer
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+SPECIAL STUDIES:
+HE step sections x 1 (G8, G18, G21)
+HE step sections x 2 (G27)
+
+IMMUNOHISTOCHEMISTRY:
+Study / Antibody Block Result
+Calretinin D1 The mesothelial cells exhibit positive staining.
+Keratin AE1/AE3 H1-H6 No "occult" keratin- positive metastatic tumor cells are identified in nine lymph nodes (0/9).
+Keratin AE1/AE3 I1-I2 No "occult" keratin- positive metastatic tumor cells are identified in four lymph nodes (0/4).
+Keratin AE1/AE3 J1 No "occult" keratin- positive metastatic tumor cells are identified in one lymph node (0/1).
+Keratin AE1/AE3 K1-K4 No "occult" keratin- positive metastatic tumor cells are identified in four lymph nodes (0/4).
+Keratin AE1/AE3 L1-L4 No "occult" keratin- positive metastatic tumor cells are identified in two lymph nodes (0/2).
+
+*These IHC studies were interpreted in conjunction with appropriate positive and negative controls which demonstrated the expected reactivity.
+
+SURGICAL PATHOLOGY REPORT
+Page 5 of 10
+
+===================================== PAGE 6 =====================================
+PATIENT:
+GROSS:
+A. OMEN TUM #1
+Labeled with the patient's name, labeled "omentum #1", and received in formalin is a 12.8 x 7.5 x 1.8 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.
+
+No gross tumor is identified.
+
+Representative sections.
+
+Slide key:
+A1-A3. 1 each
+
+B. OMENTUM #2
+Labeled with the patient's name, labeled "omentum #2", and received in formalin is a 14.0 x 9.0 x 2.0 cm partial omentectomy specimen composed of soft lobulated yellow fatty tissue.
+
+No gross tumor is identified.
+
+Representative sections.
+
+Slide key:
+B1-B3. 1 each
+
+C. OMENTUM #3
+Labeled with the patient's name, labeled "omentum #3", and received in formalin is an 18.0 x 10.5 x 2.5 cm partial omentectomy specimen composed of soft lobulated fatty tissue.
+
+No gross tumor is identified.
+
+Representative sections.
+
+Slide key:
+C1-C3. 1 each
+
+D. RIGHT CORNUA OF UTERUS (FROZEN)
+Labeled with the patient's name, labeled "right cornea of uterus", received fresh for intraoperative frozen section consultation, and subsequently fixed in formalin is a 1.0 x 1.0 x 0.2 cm portion of tan-brown blood clot.
+
+No gross tumor is identified.
+
+Entirely submitted.
+D1. Remnant of FSD - 1
+
+E. LEFT TUBE AND OVARY
+Labeled with the patient's name, labeled 'left tube and ovary", and received in formalin is a salpingo-oophorectomy specimen. The ovary is 2.5 x 1.5 x 0.7 cm. The fimbriated fallopian tube is 4.2 cm in length, ranges from 0.3 to 0.5 cm in diameter, and has a pinpoint lumen.
+
+No gross tumor is identified.
+
+The ovary is atrophic and otherwise unremarkable. The fallopian tube is notable for a 0.5 x 0.5 x 0.3 cm hemorrhagic paratubal.
+
+SURGICAL PATHOLOGY REPORT
+Page 6 of 10
+
+===================================== PAGE 7 =====================================
+PATIENT:
+
+Representative sections.
+
+Slide key:
+E1. Ovary, fallopian tube, fimbria, and hemorrhagic paratubal cyst - 3
+
+F. RIGHT TUBE AND OVARY
+Labeled with the patient's name, labeled "right tube and ovary", and received in formalin is a salpingo-
+oophorectomy specimen. The ovary is 2.6 x 1.5 x 1.2 cm. The fimbriated fallopian tube is 5.5 cm in
+length, ranges from 0.3-0.5 cm in diameter, and has a pinpoint lumen.
+
+No gross tumor is identified.
+
+The ovary is atrophic and otherwise grossly unremarkable. The fallopian tube is grossly unremarkable.
+
+Representative sections.
+
+Slide key:
+F1. Ovary, fallopian tube, and fimbria - 3
+
+G. UTERUS AND CERVIX - (FROZEN)
+Labeled with the patient's name, labeled received fresh for intraoperative frozen
+section consultation, and subsequently fixed in formalin is a 96.6 gram total abdominal hysterectomy
+specimen without adnexa. The uterus is about 9.0 x 5.5 x 3.5 cm. The cervical portion of the uterus is
+about 3.8 x 3.0 x 3.0 cm. The endometrial cavity is approximately 4.0 cm wide and 3.5 cm in length. The
+muscular uterine wall ranges from 1.2 to 1.5 cm. The right parametrial tissue is 2.0 x 1.2 x 0.5 cm, the left
+parametrial tissue is 1.3 x 1.0 x 0.5 cm, and a small portion of anterior paracervical tissue is 1.3 x 1.0 x
+0.5 cm. The anterior vaginal cuff is 3.5 cm x 1.3 x 0.3 cm. The rim of posterior vaginal cuff is 0.8 x 0.2 x
+0.2 cm. The cervical os is approximately 0.3 cm.
+
+There is a tan soft to firm uterine tumor that involves a 4.2 x 4.0 cm area of the endometrium in the
+fundus and uterine corpus (posterior > anterior) and extends into the lower uterine segment, but not into
+the cervix. Myometrial invasion is present, up to 1.5 cm into a 1.5 cm wall. The tumor focally penetrates
+the uterine serosa and abuts the uterine serosa elsewhere. The parametrial tissues and vaginal cuff are
+grossly free of tumor.
+
+The endocervical mucosa in the transformation zone appears irregular, fibrotic, and ulcerated. No distinct
+mass or invasive tumor is seen. The ectocervical mucosa shows patchy areas of erosion and/or defects,
+including a 0.7 x 0.6 cm oval lesion in the 6:00-9:00 quadrant. No invasive tumor is evident on gross
+inspection of the cervix. The cervix also shows several mucus-filled cysts, the largest of which is about
+0.3 cm in diameter. The vaginal cuff is grossly unremarkable. There is very little grossly uninvolved
+endometrium, that is up to 0.1 cm in thickness. There are foci of hemorrhage in the endometrium and
+superficial myometrium. There is a 0.3 cm diameter leiomyoma composed of firm tan solid tissue in the
+lower uterine segment. No areas of necrosis or hemorrhage are seen in the leiomyoma. A few uterine
+serosal adhesions are also present.
+
+Gross photographs are obtained.
+
+Ink key: Anterior uterus - yellow; posterior uterus - black.
+
+Representative sections.
+
+SURGICAL PATHOLOGY REPORT
+
+Page 7 of 10
+
+===================================== PAGE 8 =====================================
+PATIENT:
+
+Slide key:
+G1. Remnant of frozen section G1 (FSG1) - 1
+G2. Remnant of frozen section G2 (FSG2) - 1
+G3. Anterior paracervical tissues - 1
+G4. Left parametrial tissue - 2
+G5, G6. Right parametrial tissue - 2 each
+G7. Anterior vaginal cuff, en face margin - 1
+G8. Posterior vaginal cuff margin - 1
+G9-G11. Cervix, 12:00-3:00 - 1 each
+G12-G14. Cervix, 3:00-6:00 - 1 each
+G15. Cervix - 6:00-9:00, including oval ulceration – 1
+G16-G17. Cervix, 6:00-9:00 – 1 each
+G18-G20. Cervix, 9:00-12:00 - 1 each
+G21. Anterior lower uterine segment and upper endocervix - 1
+G22. Posterior lower uterine segment - 1
+G23. Anterior lower uterine segment with leiomyoma - 1
+G24. Posterior lower uterine corpus - 1
+G25-G28. Uterine tumor; deepest tumor with adjacent serosa - 1 each
+G29. Tumor with adjacent grossly uninvolved mucosa - 1
+
+H. LEFT PELVIC LYMPH NODE
+Labeled with the patient’s name, labeled "left pelvic lymph node", and received in formalin is a 4.2 x 3.0 x
+1.5 cm aggregate of soft yellow adipose tissue within which there are embedded multiple soft tan lymph
+nodes ranging from about 0.1 to 1.2 cm in maximum dimension.
+
+No gross tumor is identified.
+
+Entirely submitted.
+
+Slide key:
+H1. One lymph node, “bisected”, and perinodal fat - 2
+H2. Two tiny lymph nodes and fat – 1
+H3. Two lymph nodes and fat – 3
+H4. One lymph node and fat – 2
+H5. Two small lymph nodes and fat – 2
+H6. Two small lymph nodes.
+
+I. LEFT COMMON LYMPH NODE
+Labeled with the patient’s name, labeled "left common lymph node", and received in formalin is a 3.2 x
+2.0 x 0.5 cm soft yellow adipose tissue within which there are four soft tan lymph nodes ranging from
+about 0.1 to 1.0 cm in maximum dimension.
+
+No gross tumor is identified.
+
+Entirely submitted.
+
+Slide key:
+I1. One lymph node, bisected - 2
+I2. Three small lymph nodes and fat - 2
+
+SUGICAL PATHOLOGY REPORT
+Page 8 of 10
+
+===================================== PAGE 9 =====================================
+PATIENT:
+Labeled with the patient's name, labeled "left PA", and received in formalin are three portions of yellow fatty tissue ranging from 0.8 x 0.5 x 0.4 cm to 1.7 x 0.8 x 0.4 cm. A single 0.5 cm soft tan lymph node is identified in one of the tissue fragments..
+No gross tumor is identified.
+Entirely submitted.
+
+Slide key:
+J1. One lymph node and fat - 3
+
+K. RIGHT PELVIC LYMPH NODE
+Labeled with the patient’s name, labeled “right pelvic lymph node”, and received in formalin are three portions of soft yellow fatty tissue ranging from 1.3 x 1.0 x 0.6 cm to 4.5 x 1.8 x 0.5 cm. Dissection of the fat reveals four soft tan lymph nodes ranging from about 0.2 and 0.9 cm in maximum dimension.
+No gross tumor is identified.
+Entirely submitted.
+
+Slide key:
+K1. Two lymph nodes and perinodal fat – 2
+K2. Smallest lymph node and fat - 2
+K3. One lymph node and fat – 1
+K4. Fat – 1
+
+L. RIGHT PA
+Labeled with the patient’s name, labeled “right PA”, and received in formalin is a 4.0 x 2.2 x 1.0 cm portion of soft yellow fatty tissue within which there are two nodes. The larger lymph node is 4.0 x 1.5 x 1.0 cm and the smaller is about 0.2 cm in diameter.
+No gross tumor is identified. The larger lymph node is partially replaced by fat.
+
+Slide key:
+L1, L2. One half of largest lymph node, bisected - 1 each
+L3. Other half of largest lymph node, bisected - 2
+L4. Second lymph node - 1
+
+Gross dictated by
+
+INTRAOPERATIVE CONSULTATION:
+OPERATIVE CALL
+OPERATIVE CONSULT (FROZEN):
+
+FSD:
+- No tumor seen, benign epithelial lesion
+
+G. FROZEN:
+- Infiltrating carcinoma to serosa
+
+FSG1 (ENDOMETRIUM TO SEROSA):
+
+SURGICAL PATHOLOGY REPORT
+Page 9 of 10
+
+===================================== PAGE 10 =====================================
+PATIENT:
+FSG2 (SEROSAL TUMOR):
+Tissue given for research
+M.D.,
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+Electronically signed
+Electronically signed
+Electronically signed
+
+SURGICAL PATHOLOGY REPORT
+If this report includes immunohistochemical test results please note the following: Numerous immunohistochemical tests were developed and their
+performance characteristics determined by
+immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and approval is not required.
+
+Page 10 of 10
+
+Criteria                 Yes   No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is [Circle]:     QUALIFIED / DISQUALIFIED
+Reviewer Initials    Date Reviewed:  3/14/11

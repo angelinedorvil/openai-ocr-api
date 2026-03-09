@@ -1,0 +1,202 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-O-3
+Endometrioid carcinoma, endometrioid, NOS
+Site: Endometrium C54.1 838012 Luw 11/23/10
+UUID: EB6EA309-9CE1-468A-A94B-907874BDE9DE
+TCGA-A5-AORA-01A-PR Redacted
+
+
+SURGICAL PATHOLOGY REPORT
+
+
+DIAGNOSIS:
+
+
+SYNOPTIC REPORT:
+Applies To:
+A : UTERUS, CERVIX, TUBES, OVARYS
+B : RIGHT PELVIC LYMPH NODES
+C : LEFT PELVIC LYMPH NODES
+
+
+Specimen Type:		Macroscopic
+Uterus
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Parametrium
+Bilateral pelvic lymph nodes
+Other Organs Present:	None
+Lymph Node Sampling:	Pelvic lymph nodes
+
+Microscopic
+Histologic Type:	Endometrioid adenocarcinoma, not otherwise characterized
+Histologic Grade:	G2: 6% to 50% nonsquamous solid growth
+Tumor Site:	Corpus
+Fundus
+Tumor Size:	Greatest dimension: 5cm
+Myometrial Invasion:	Greater than 50% myometrial invasion
+Involvement of Cervix:	No involvement
+Extent of Involvement of Other Organs:	None
+Margins:	Uninvolved by invasive carcinoma
+Lymphovascular Invasion:	Present
+
+Pathologic Staging (pTNM [FIGO]) AJCC 6th Edition 2002
+Primary Tumor (pT):	pT1c [IC]: Tumor invades one-half or more of the myometrium
+Regional Lymph Nodes (pN):	pN0: No regional lymph node metastasis
+
+
+Copy For :
+Page 1 of 5
+PATIENT NOTIFIED OF RESULTS
+DR _______________	NURSE ________________	DATF _________________
+
+===================================== PAGE 2 =====================================
+Number of lymph nodes examined: 6
+Number of lymph nodes involved: 0
+
+Additional Pathologic Findings
+None identified
+
+A. UTERUS, FALLOPIAN TUBES, AND OVARIES, LAPAROSCOPIC -ASSISTED) VAGINAL Hysterecomy AND BILATERAL SALPINGO-OOPHORECTOMY:
+- Primary uterine adenocarcinoma, endometrioid type with associated squamoid and focal mucinous changes, grade II (see comment)
+- Tumor is about 5.0 x 4.0 x 3.4 cm in greatest overall dimensions and extensively involves the endometrium of the uterine corpus posteriorly and anteriorly and also involves the uterine fundus
+- Myometrial invasion is present and involves greater than 50% of the uterine wall thickness (about 75-80%)
+- Myoinvasion with so-called MELF (microcystic, elongated and fragmented) pattern is present
+- Lymphatic invasion by carcinoma is present in the uterus
+- Tumor is also present in veins within the uterus; presence of some tumor aggregates in deep veins may be iatrogenic/represent dissection strays
+- Cervix including surgical margin is free of tumor
+- No extension of tumor into parametria
+- No evidence of metastatic carcinoma involving ovaries or fallopian tubes
+
+Other findings include:
+- Some non-neoplastic inactive/weakly proliferative endometrium
+- Several small uterine leiomyomas
+- Detached (free-floating) aggregates of tumor in endocervical canal
+- Cervix shows focal changes consistent with prior curettage, atrophic squamous changes, subepithelial hemorrhages, chronic and mild acute inflammation, squamous metaplasia, cystic endocervical tunnel clusters and nabothian cysts
+- Right ovary with senescent changes, cortical stromal hyperplasia with associated hyperthecosis, hyperplasia of rete elements, cystic epithelial and cystic mesothelial inclusions, serosal adhesions, focal paraovarian endosalpingiosis, and fragments of tumor within hilar veins, latter appear to represent dissections strays rather than true venous invasion
+- Right fallopian tube with chronic inflammation, including chronic follicular salpingitis, and mild segmental luminal dilatation
+- Left ovary with senescent changes, diffuse stromal hyperplasia with associated hyperthecosis
+- Left fallopian tube with chronic inflammation, foci of epithelial hyperplasia without significant cellular atypia, and peri- and paratubal endosalpingiosis
+
+B. LYMPH NODES, RIGHT PELVIC, EXCISION:
+- Four lymph nodes without evidence of metastatic carcinoma in routinely stained sections (0/4)
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 5
+
+===================================== PAGE 3 =====================================
+C. LYMPH NODES, LEFT PELVIC, EXCISION:
+- Two lymph nodes without evidence of metastatic carcinoma in routinely stained sections (0/2)
+
+COMMENT: Preliminary pathologic findings were conveyed to Dr.
+The case was discussed at conference on :
+
+HISTORY:
+Endometrial cancer
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+SPECIAL STUDIES:
+H&E-stained step sections (A1 x2, A2 x2, A3 x1, A4 x1, A5 x1, A8 x1, A12 x2, A13 x1)
+
+IMMUNOHISTOCHEMISTRY:
+| Keratin AE1/AE3 | B1, B2, B3 | No "occult" keratin-positive metastatic tumor cells are identified in the right pelvic lymph nodes (0/4). Dissection strands of tumor are present adjacent to two of the lymph nodes. |
+| --- | --- | --- |
+| Keratin AE1/AE3 | C1, C2 | No "occult" keratin-positive metastatic tumor cells are identified in the left pelvic lymph nodes (0/2). Dissection strands of tumor are present adjacent to one of the lymph nodes. |
+
+GROSS:
+A. UTERUS, CERVIX, TUBES AND OVARIES
+Labeled with the patient's name, labeled "uterus, cervix, tubes and ovaries", and received fresh in the Operating Room for intraoperative frozen section, and subsequently fixed in formalin, is a 200 gram, total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 9.5 x 6.5 x 6.5 cm in greatest overall dimensions. The cervical portion of the uterus is about 2.5 cm in length and up to 2.7 cm in diameter. The external cervical os is 0.3 cm in diameter. The endocervical canal is about 2.5 cm long and up to 0.2 cm in width. The endometrial cavity is about 6 cm in length x 4.5 cm in diameter. The muscular uterine wall is about 2.5 cm in maximum thickness. The endometrial mucosa ranges from about 0.2 to 1.0 cm in thickness. The right ovary is 2.5 x 2.0 x 1.5 cm. The fimbriated right fallopian tube is 6.5 cm long and up to 0.5 cm in diameter. The left ovary is 2.3 x 1.7 x 1.5 cm. The fimbriated left fallopian tube is about 4.5 cm long and up to 0.6 cm in diameter.
+
+The endometrial cavity is largely occupied by a soft tan friable exophytic focally papillated tumor that is about 5.0 x 4.0 cm in area. The tumor replaces the endometrium of the anterior and posterior uterine corpus and uterine fundus. Cut sections reveal induration of the underlying myometrium which appears to be infiltrated by firm tan-white tumor. The grossly evident invasive tumor involves about 75% of the uterine wall thickness. There is no serosal surface involvement or parametrial extension of tumor on gross inspection of the specimen. The cervix appears grossly free of tumor. No metastatic tumor is seen in the ovaries or fallopian tubes.
+
+SURGICAL PATHOLOGY REPORT
+Page 3 of 5
+
+===================================== PAGE 4 =====================================
+There is a small amount of uninvolved endometrium in the lower uterine segment. No normal appearing endometrium is seen in the uterine corpus or fundus. Within the uterus, there are also several tiny to small circumscribed intramural leiomyomas ranging from about 0.2 to 0.3 cm in diameter. Each of the leiomyomas is composed of firm solid tan tissue without grossly evident areas of hemorrhage or necrosis. The cervix is remarkable only for a few mucus-filled cysts ranging from about 0.1 to 0.7 cm in diameter. Both ovaries are atrophic. The left ovary shows relatively abundant yellow-tan cortical stroma which is focally vaguely nodular. The left fallopian tube is grossly unremarkable. The right fallopian tube shows mild segmental luminal dilatation with a maximum luminal diameter of about 0.6 cm.
+
+Ink key: Uterine serosal surface – black; parametrial margins – blue.
+
+Representative sections are submitted.
+
+Slide key:
+A1. Anterior cervix - 1
+A2. Posterior cervix - 1
+A3. Anterior upper endocervix - 1
+A4. Posterior upper endocervix - 1
+A5, A6. Tumor in anterior uterine corpus, bisected - 1 each
+A7, A8. Tumor in anterior uterine corpus, bisected - 1 each
+A9, A10. Tumor in posterior uterine corpus, bisected - 1 each
+A11. Tumor to parametrium - 1
+A12. Right ovary and fallopian tube - 3
+A13. Left ovary and fallopian tube - 3
+A14. Tumor in relation to right parametrial margin - 1
+A15. Tumor in relation to left parametrial margin - 1
+A16, A17. Anterior uterine corpus, bisected - 1 each
+A18. Anterior uterine fundus - 1
+A19. Posterior uterine fundus - 1
+A20. Right fallopian tube and ovary - 2
+A21. Left fallopian tube - 1
+A22. Remnant of frozen section A - 1
+
+B. RIGHT PELVIC LYMPH NODES
+Labeled with the patient's name, labeled "right pelvic lymph nodes", and received in formalin is a 4.0 x 3.5 x 1.2 cm aggregate of several fragments of soft yellow adipose tissue within which there are embedded four soft tan lymph nodes ranging from about 0.3 to 1.3 cm in maximum dimension.
+
+No metastatic tumor is evident on gross inspection of the specimen.
+
+The lymph nodes are each entirely embedded along with some of the perinodal fat.
+
+Slide key:
+B1. One lymph node – 1
+B2. One lymph node, trisected – 3
+B3. Two lymph nodes – 2
+
+C. LEFT PELVIC LYMPH NODES
+Labeled with the patient's name, labeled "left pelvic lymph nodes", and received in formalin is about a 4.0 x 4.0 x 1.5 cm aggregate of multiple fragments of soft yellow fatty tissue within which there are embedded two soft tan lymph nodes. The lymph nodes are about 0.5 and 0.7 cm in maximum dimensions.
+
+No metastatic tumor is evident on gross examination of the lymph nodes. The lymph nodes are each entirely embedded along with some of the perinodal fat.
+
+SURGICAL PATHOLOGY REPORT
+
+Page 4 of 5
+
+===================================== PAGE 5 =====================================
+Slide key:
+C1. One lymph node – 1
+C2. One lymph node – 1
+
+INTRAOPERATIVE CONSULTATION:
+OPERATIVE CALL
+OPERATIVE CONSULT (FROZEN):
+
+A. UTERUS (FS A):
+- Endometrial adenocarcinoma, greater than 50% invasion into myometrium
+- Portions of bilateral ovaries taken for research
+- Portion of endometrial cancer taken for research
+( , M.D.)
+
+I have personally examined the specimen, interpreted the results, reviewed the report and signed it electronically.
+M.D. Electronically signed
+
+Surgical Pathology Report
+
+If this report includes immunohistochemical test results, please note the following: Numerous immunohistochemical tests were developed and their performance characteristics determined by
+immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+
+Page 5 of 5
+
+Criteria           Yes      No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy/History
+Juris/Synchronous Primary Noted
+Case is (circle): QUALIFIED DISQUALIFIED
+Reviewer Initials   Date Reviewed:
+

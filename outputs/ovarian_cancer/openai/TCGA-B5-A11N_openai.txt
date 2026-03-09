@@ -1,0 +1,143 @@
+================================================================================
+OPENAI API OCR OUTPUT
+================================================================================
+Source PDF: reports\TCGA-B5-A11N\TCGA-B5-A11N.pdf
+Processing Date: 2026-03-08 19:08:36
+================================================================================
+
+
+================================================================================
+PAGE 1
+================================================================================
+ICD-0-3
+adenocarcinoma, endometrioid, NOS 8380/3
+Site: Endometrium C54.1 2/25/11
+
+Page 1 of 3
+
+Surg Path
+
+CLINICAL HISTORY:
+Malignant neoplasm corporis uteri.
+
+GROSS EXAMINATION:
+A. "Uterus, cervix, bilateral tubes and ovaries". Received fresh is a 116 gm,
+9.5 x 6.4 x 4.1 cm uterus with bilateral attached adnexa. The opened specimen
+discloses an exophytic 6 x 4.5 cm white-tan tumor in the anterior endometrial
+cavity, extending from the fundus to the lower uterine segment. The tumor is
+1.2 cm thick and penetrates 0.1 cm into the underlying 2.1 cm thick
+myometrium. The remainder of the endometrial cavity (6.5 x 4 cm) is lined by a
+thin 0.1 cm endometrium overlying a focally trabeculated myometrium. The
+endocervical canal is trabeculated yellow-tan with no apparent gross lesions
+and the exocervix is smooth and glistening with a patent 0.9 os. A
+representative section of the mass has been frozen as AF1 and AF2 and the
+frozen section remnants are submitted in blocks A1 and A2. Additional
+representative sections submitted as follows:
+
+BLOCK SUMMARY:
+A3- anterior cervix
+A4- anterior endocervical canal
+A5- posterior cervix
+A6- posterior endocervical canal
+A7-A11 tumor and wall (block A7-A10 are two slides, bisected)
+A12- uninvolved posterior endomyometrium
+
+The left adnexa is composed of a discontinuous 2.5 cm long, 0.5 cm in diameter
+fimbriated fallopian tube with attached mesentery and an attached 4 x 1.5 x 1
+cm white-tan ovary. Sectioning demonstrates a grossly unremarkable cut
+surface and representative sections are submitted in A13.
+
+The right adnexa is composed of a discontinuous 2.1 cm long, 0.5 cm in
+diameter fimbriated fallopian tube with an attached 3 x 2 x 1.7 cm white-tan
+ovary. Sectioning demonstrates a grossly unremarkable cut surface and
+representative cross sections are submitted in block A14.
+
+B. "Left pelvic nodes", received fresh and placed in formalin is a 10 x 8.5 x
+2 cm aggregate of yellow-tan fibroadipose tissue dissected for apparent lymph
+node candidates. Twenty-three lymph node candidates are identified from 0.3
+to 2.2 cm in greatest dimension and are submitted as follows:
+
+B1- four lymph node candidates
+B2- four lymph node candidates
+B3- three lymph node candidates
+B4- two lymph node candidates
+B5- two lymph node candidates
+B6- one lymph node candidate, bisected
+B7- one lymph node candidate, bisected
+B8- two lymph node candidates
+B9- one lymph node candidate, bisected
+B10- one lymph node candidate
+B11- one lymph node candidate, bisected
+B12-B13 largest lymph node candidate, bisected
+
+C. "Right pelvic nodes", received fresh and placed in formalin is a 12 x 9 x 5
+cm aggregate of pink-tan fibrofatty tissue dissected for apparent lymph node
+candidates. Twenty lymph node candidates are identified from 0.4 to 4 cm in
+greatest dimension and are submitted as follows:
+
+================================================================================
+PAGE 2
+================================================================================
+Page 2 of 3
+
+C1-		four lymph node candidates
+C2-		two lymph node candidates
+C3-		three lymph node candidates
+C4-		two lymph node candidates
+C5-		two lymph node candidates
+C6-		one lymph node candidate, bisected
+C7-		one lymph node candidate, bisected
+C8-		one lymph node candidate, bisected
+C9-		one lymph node candidate, bisected
+C10-C11	one lymph node candidate, bisected
+C12-C13	one lymph node candidate, bisected
+C14-C17	largest lymph node candidate, sectioned
+
+INTRA OPERATIVE CONSULTATION:
+A. "Uterus, cervix, bilateral tubes and ovaries:
+	AFI-2 (0.1 cm into a 2.1 cm) thick myometrium full-thickness, bisected-low
+	grade adenocarcinoma superficially invasive into myometrium (less than one
+	fourth). Can not completely exclude a serous adenocarcinoma
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPHADENECTOMY
+
+PATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX
+
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 116 GRAMS
+	ENDOMETRIUM:
+		TUMOR SITE: ANTERIOR WALL
+		HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+		FIGO GRADE: 1
+		TUMOR SIZE: 6 X 4.5 X 1.3 CM.
+		MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.1 CM, IN A 2.1 THICK WALL.
+		LYMPHATIC/VASCULAR INVASION: NEGATIVE
+		ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ATROPHIC
+	REMAINING MYOMETRIUM: ADENOMYOSIS
+	CERVIX: NO PATHOLOGIC DIAGNOSIS.
+	SEROSA: NO PATHOLOGIC DIAGNOSIS.
+	SPECIMEN MARGINS: NOT INVOLVED
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR:
+A. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.
+B. LEFT PELVIC LYMPH NODES: NO TUMOR IN 24 LYMPH NODES (0/24).
+C. RIGHT PELVIC LYMPH NODES: NO TUMOR IN 22 LYMPH NODES (0/22).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+CI ADDENDUM 1:

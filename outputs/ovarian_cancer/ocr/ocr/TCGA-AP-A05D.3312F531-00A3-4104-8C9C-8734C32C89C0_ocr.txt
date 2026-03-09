@@ -1,0 +1,108 @@
+
+
+===================================== PAGE 1 =====================================
+UUID: 3312F531-00A3-4104-8C9C-8734C32C89C0
+TCGA-AP-A05D-01A-PR   Redacted
+
+Specimens Submitted:
+1: SP: Uterus, cervix, bilateral fallopian tubes
+2: SP: Right external iliac lymph nodes
+3: SP: Right hypogastric lymph nodes
+4: SP: Right obturator lymph nodes
+5: SP: Right para-aortic lymph nodes
+6: SP: Left external iliac lymph nodes
+7: SP: Left obturator lymph nodes
+8: SP: Left para-aortic lymph nodes
+9: SP: Left abdominal wall lipoma
+
+DIAGNOSIS:
+
+1. UTERUS, CERVIX, AND FALLOPIAN TUBES; Hysterectomy and Bilateral Salpingectomy:
+    - ADENOCARCINOMA OF ENDOMETRIUM, PAPILLARY SEROUS TYPE.
+    - THE TUMOR INVADES TO > HALF OF MYOMETRIUM.
+    - THE MAXIMAL THICKNESS OF MYOMETRIAL INVASION IS 11 MM.
+    - THE THICKNESS OF THE MYOMETRIUM IN THE AREA OF MAXIMAL TUMOR INVASION IS 15 MM.
+    - NO ENDOCERVICAL INVASION IS IDENTIFIED.
+    - NO VASCULAR INVASION IS IDENTIFIED.
+    - THE ENDOMETRIUM SHOWS THE FOLLOWING ABNORMALITY: ATROPHY.
+    - THE MYOMETRIUM IS UNREMARKABLE.
+    - ALL ADNEXAE ARE UNREMARKABLE.
+
+2. LYMPH NODES, RIGHT EXTERNAL ILIAC; EXCISION:
+    - RIGHT BENIGN LYMPH NODES (0/8).
+
+3. LYMPH NODES, RIGHT HYPOGASTRIC; EXCISION:
+    - TWO BENIGN LYMPH NODES (0/2).
+
+4. LYMPH NODES, RIGHT OBTURATOR; EXCISION:
+    - FIVE BENIGN LYMPH NODES (0/5).
+
+5. LYMPH NODES, RIGHT PARA-AORTIC; EXCISION:
+
+**Continued on next page**
+
+Criteria
+Diagnosis Discrepancy                 Yes     No
+Primary Tumor Site Discrepancy        Yes     No
+PDR A Discrepancy                    Yes     No
+Prior Malignancy History             Yes     No
+Dual/Synchronous Primary Noted       Yes     No
+Case Is (circle): QUALIFIED / DISQUALIFIED
+Reviewer Initials                     16      Date Reviewed: 5/2/21
+
+ICD-0-3
+adenocarcinoma, serous, NOS 8441/3
+Site: endometrium C54.1    1st July
+
+(Handwritten notes partially legible in margins)
+
+The following lines appear handwritten on the right margin near the top:
+"ICD-0-3", "adenocarcinoma, serous, NOS 8441/3", "Site: endometrium C54.1", "1st July"
+
+Near the bottom right corner, there appears to be:
+"Hx or Enroll of Prior Malig",
+"...ck-omf..."
+
+And below that a table-like grid (likely part of a form):
+| Criteria                         | Yes | No |
+|----------------------------------|-----|----|
+| Diagnosis Discrepancy           | Y   |    |
+| Primary Tumor Site Discrepancy  | Y   |    |
+| PDR A Discrepancy               | Y   |    |
+| Prior Malignancy History        | Y   |    |
+| Dual/Synchronous Primary Noted  |     |    |
+| Case Is (circle): QUALIFIED     |     |    |
+| Reviewer Initials               | 16  |    |
+| Date Reviewed                   | 5/2/21 |
+
+(Note: The above table is an interpretation based on visible handwriting and layout.)
+
+--- 
+
+There are three small circular marks visible on the left side of the page — one near the top, middle, and bottom sections — which likely indicate physical holes punched through the document for filing purposes.
+
+Note: Some portions of the image are redacted (blackened out), particularly a barcode region at the very top and some handwritten annotations at the bottom right. All text within these blacked-out areas has been omitted per your instructions. Additionally, the text “**Continued on next page**” clearly indicates that additional content follows on a subsequent page, but since only this page is provided, we stop here.
+
+===================================== PAGE 2 =====================================
+TSS Name/#:
+Page 2 of 5
+- FOUR BENIGN LYMPH NODES (0/4).
+6.
+LYMPH NODES, LEFT EXTERNAL ILIAC; EXCISION:
+- ONE OUT OF NINE (1/9) LYMPH NODES POSITIVE FOR METASTATIC
+CARCINOMA.
+7.
+LYMPH NODES, LEFT OBTURATOR; EXCISION:
+- FIVE BENIGN LYMPH NODES (0/5).
+8.
+LYMPH NODES, LEFT PARA-AORTIC; EXCISION:
+- ONE OUT OF FOUR (1/4) LYMPH NODES POSITIVE FOR METASTATIC
+CARCINOMA.
+9.
+SOFT TISSUE, ABDOMINAL WALL, LEFT; EXCISION:
+- LIPOMA.
+- BENIGN SKIN.
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.

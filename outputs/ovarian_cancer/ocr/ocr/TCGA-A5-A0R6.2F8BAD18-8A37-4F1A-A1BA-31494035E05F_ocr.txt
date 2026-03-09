@@ -1,0 +1,153 @@
+
+
+===================================== PAGE 1 =====================================
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+Printed
+
+UUID: 2F8BAD19-BA37-4F1A-A18A-31494035E05F
+TCGA-A5-AQR6-01A-PR   Redacted
+
+ICS . 0 - 3
+Cáncer endometrial, SEROM. NOS
+8441/3    w
+11/22/10
+Site Endometrium C54.1
+
+
+SURGICAL
+PATHOLOGY
+Modifiers:
+
+Source:
+A: Uterus, Cervix, bilateral tubes \T\ ovaries, ( f/s )
+B: Omental biopsy
+C: Left Pelvic lymph node
+D:  Left Peri-aortic lymph node
+E: Right Pelvic lymph node
+F: Right Peri-aortic lymph node
+
+Final Diagnosis
+A. Uterus, bilateral ovaries and fallopian tubes, (Hysterectomy
+and bilateral salpingooophorectomy) :
+Uterus:
+Serous adenocarcinoma of endometrium
+-Myometrial invasion: > 50% (1.4 cm invasion out of 1.7 cm
+full thickness)
+-Size: 4.4 cm (including a 3 cm endometrial
+polyp)
+-The tumor involves the lower uterine segment.
+-Cervix and parametrium: negative for malignancy.
+-Consistent with lymphovascular invasion
+Ovaries and fallopian tubes: negative for malignancy.
+
+B. Omentum (biopsy):
+-Negative for malignancy.
+
+C. Left pelvic lymph node (biopsy):
+-Seven out of seven lymph nodes are negative for malignancy
+(0/7).
+
+D. Left periaortic lymph node (biopsy):
+-Negative for malignancy in adipose tissue
+-No lymphoid tissue identified.
+
+E. Right pelvic lymph node (biopsy):
+-One out of ten lymph nodes is positive for metastatic
+adenocarcinoma (1/10).
+
+F. Right periaorttic lymph node (biopsy):
+-Three out of three lymph nodes are negative for metastatic
+adenocarcinoma nodes (0/3).
+
+===================================== PAGE 2 =====================================
+Page 2
+
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+Printed
+
+pTNM: pT1bN1Mx
+Comment: previous case has been reviewed
+
+***Electronically Signed Out
+
+Clinical History -year-old female with uterine papillary serous carcinoma on EMB.
+
+Operation Performed
+EUA, TAH, BSO, PPALND.
+
+Intraoperative Diagnosis
+Frozen Section
+
+Uterus, cervix and bilateral adnexa: ~ -Papillary serous carcinoma with myometrial invasion. ~
+
+M.D.
+
+Gross Description Specimen A is received fresh in a container for intraoperative consultation and labeled as "uterus, cervix and bilateral tubes and ovaries" consists of a 50 gram uterus and an attached bilateral adnexa, measuring 7.5 cm from fundus to ectocervix, 5 cm from cornu to cornu and 3 cm from anterior to posterior. The
+
+2.5 x 2.5 cm, smooth, glistening, pink-tan ectocervix surrounds an up to 1 cm, centrally located, patent, external os. The specimen is grossly unremarkable and inked as follows:
+
+Green = anterior
+Black = posterior
+Red = right parametrium
+Blue = left parametrium
+The right and left adnexa are comprised of right and left ovary equally measuring 2.5 x 1.5 x 0.9 cm, which upon sectioning reveals hemorrhagic, reddish-pink, cut surfaces. The right and left fallopian tubes with fimbriated ends measure 5 and 5.5 cm in length, respectively, and up to 0.7 cm in rliameter each. Mid
+
+===================================== PAGE 3 =====================================
+RESULTS FOR SELECTED GRID CELL. SUMMARY
+Printed
+
+Page 3
+
+portion of the fallopian tubes show defects, grossly suggestive of a previous tubal ligation procedure.
+
+When opened, the 0.5 x 0.7 cm endocervical canal is lined by an up to 0.1 cm, grossly unremarkable cervical mucosa. The 4 x 8 cm endocervical canal contains an up to 3 cm, pedunculated mass arising from left upper posterior wall. The endometrium is otherwise up to 0.1 cm in thickness. Serial sectioning of the myometrium shows an up to 1.5 cm thick myometrium with homogeneous, pale yellow-pink, cut surfaces. A piece of tumor, as well as a piece of cervix was submitted for tumor tissue bank. Representative sections of the uterine wall adjacent to the polypoid mass submitted for frozen section. Representative sections are submitted as follows:
+
+A1 = frozen section control
+A2 = cervix, anterior, A3 = lower uterine segment, anterior
+A4 = uterine wall, anterior
+A5 = cervix, posterior
+A6 = lower uterine segment, posterior
+A7 = uterine wall, posterior
+A8-9 = uterine polyp, in total
+A10-14 = uterine wall, posterior, adjacent to the overlying polyp, in total
+A15 = adnexa with entire fimbriated ends, right
+A16.= adnexa with entire fimbriated ends, left
+Specimen B labeled as "omentum biopsy" consists of a 9 x 6 x 1.5 cm, flat, lobulated, yellow-tan adipose tissue, grossly consistent with a portion of omentum. Serial sections reveal lobulated yellow-tan adipose tissue, with no masses grossly identified. Representative sections of different areas are submitted in cassettes B1-B3 .
+
+Specimen C labeled as "left pelvic lymph node" consists of a 4 x 4 x 1 cm aggregate of lobulated, yellow-tan, adipose tissue containing multiple possible lymph nodes. Totally submitted as follows:
+
+C1 = possible lymph nodes, each piece represents one possible lymph node
+C2 = one possible lymph node, bisected
+
+===================================== PAGE 4 =====================================
+Page 4
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+Printed
+
+Specimen D labeled as "left periaortic lymph node" consists of a
+1.5 x 1.5 x 0.5 cm aggregate of lobulated, yellow-tan, adipose tissue with no lymph nodes grossly
+identified. The entire specimen is submitted in cassette D.
+
+Specimen E labeled as "left pelvic lymph node" consists of a 5 x 5 x 1.5 cm aggregate of multiple,
+irregular pieces of lobulated, yellow-tan, adipose tissue containing multiple, possible lymph nodes.
+Totally submitted as follows:
+
+E1 = multiple possible lymph nodes, each piece represents one
+lymph node
+E2 = multiple possible lymph nodes, each piece represents one
+lymph node
+E3 = one possible lymph node, bisected
+E4 = one possible lymph node, bisected
+Specimen F labeled as "right periaortic lymph node" consists of a 1.5 x 1.5 x 0.4 cm aggregate of
+lobulated, yellow-tan, adipose tissue, which is totally submitted in cassette F.
+
+Microscopic Description
+Performed.
+
+riteria
+Diagnosis Discrepancy
+Yes   No
+Primary Tumor Site Discrepancy
+IPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Lesions Noted

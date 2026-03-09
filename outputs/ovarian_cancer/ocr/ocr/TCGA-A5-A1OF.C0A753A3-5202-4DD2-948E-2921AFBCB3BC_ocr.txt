@@ -1,0 +1,220 @@
+
+
+===================================== PAGE 1 =====================================
+View Detail
+Page 1 of 4
+
+surg path rept
+
+ICD-0-3
+Adenocarcinoma, Serous,NOS
+Site: Endometrium C54.1   8441(3
+3/6/11 /w
+
+Ord #=
+Ord Clin=
+Resulted by= SYS,SYSYTEM
+Item Comment:
+Item Custom Questions:
+How Many Part Types: 6
+SURGICAL PATHOLOGY
+Modifiers:
+SURGICAL PATHOLOGY:
+CoPath Specimen
+
+Source:
+A: Uterus, Cervix, bilateral tubes \T\ ovaries, ( Frozen section )
+B: Omentum, ( Permanent )
+C: Right Pelvic lymph node
+D: Left Pelvic lymph node
+E: Left Para-aortic lymph node
+F: Right Para-aortic lymph node
+
+Final Diagnosis
+A. Uterus, cervix, bilateral tubes and ovaries (F/S, TAH, BSO):
+Histologic Type: Endometrioid adenocarcinoma, FIGO Grade III
+(70%); Serous adenocarcinoma
+(30%).
+Histologic Grade (for Endometrioid carcinoma): FIGO grade 3
+For serous carcinomas: G3: Poorly differentiated
+Tumor Site: fundus/endometrium
+Tumor Size: 2.5 cm
+Myometrial Invasion: Present
+Depth of invasion: 2 mm
+Myometrial thickness: 15 mm
+Cervix, endocervix, lower uterine segment: Not involved
+Bilateral ovaries, fallopian tubes, bilateral parametrium: Not
+involved
+Margins: Uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: more
+than 10 mm (Uterine serosa)
+Lymph-Vascular Invasion: Not identified
+
+Pathologic Staging
+pTla [IA]: Tumor limited to endometrium or invades less
+than one-half of the myometrium
+pN0: No regional lymph node metastasis
+MX
+Additional Pathologic Findings: Bilateral chronic salpingitis.
+
+B. Omentum, omentectomy:
+
+Printed By:
+Printed:
+Confidential Patient Information
+NOT A CHART COPY
+Page 1
+
+UUID:C0A753A3-5202-4DD2-94BE-2921AFBCB3BC
+TCGA-A5-A1OF-01A-PR Redacted
+
+===================================== PAGE 2 =====================================
+View Detail                                                                 Page 2 of 4
+
+------------------------------------------------------------------------------------
+
+SURGICAL PATHOLOGY                    (Continued)
+
+ACct#: [BLACKED OUT]                 Adm:
+
+- Benign fibroadipose tissue.
+- 13 benign diminutive lymph nodes (0/13).
+
+C. Right pelvic lymph nodes, dissection:
+- 3 benign lymph nodes (0/3).
+
+D. Left pelvic lymph nodes, dissection:
+- 1 benign lymph node (0/1).
+
+E. Left paraaortic lymph node, dissection:
+- No lymph node.
+
+F. Right paraaortic lymph nodes, dissection:
+- 3 benign lymph nodes (0/3).
+
+***Electronically Signed Out
+
+Comment(s)
+The previous EMB report is noted.
+
+Pre Operative Diagnosis
+Highly grade endometrial CA
+
+Operation Performed
+EUA, TAH BSO, Bil. pelvic intracolic omental bx
+
+Intraoperative Diagnosis
+FS#1: Endometrium: FIGO Grade III endometrioid carcinoma with
+focal high nuclear grade, probable serous component. Superficial
+myometrial invasion.
+
+FS#2: Cervix, endocervix, and lower uterine segment: No
+malignancy.
+
+Signed by
+
+Gross Description
+The specimen is submitted in 6 parts, labeled as
+in formalin fixative.
+
+Specimen A is labeled as "Uterus, cervix, bilateral tubes \T\
+ovaries (F/S)", consists of uterus, cervix, and bilateral
+
+Printed By:                          Confidential Patient Information      Page 2
+Printed:                              NOT A CHART COPY
+
+===================================== PAGE 3 =====================================
+View Detail
+Page 3 of 4
+
+Surgical Pathology
+(Continued)
+
+Acct#: [blacked out]
+Adm: [blacked out]
+
+adnexa, weighing 84 grams in total and measuring 4.5cm in width,
+8.0cm in length, 3.5cm in anterior posteriorly for the uterus,
+2.5 x 1.0 x 0.7cm for the right ovary, 4.0 x 1.0 x 0.7cm for the
+left ovary. The cervix is unremarkable and measuring 1.5cm in
+width, 1.5cm in anteroposteriorly. The parametrial margins are
+inked black. When it is opened it shows uterus fundus with
+polypoid tumor, measuring 2.5 x 2.0 x 1.0 cm. The serial
+sectioning shows superficial
+myometrial
+invasion in the posterior aspect.
+
+The cut surface of the bilateral ovary shows fibrotic atrophic
+appearance without tumor.
+The mucosa surface of
+cervix and endocervix is unremarkable. In the lower interior
+segments there are minute polypoid lesion measuring 0.2cm. The
+representative section of the tumor of endometrium is submitted
+into frozen section #1, resubmitted into cassette A1. The
+representative sections of the cervix, endocervix and lower endo
+segment with polypoid lesion is submitted into frozen section
+#2, resubmitted into cassette A2. Bilateral fallopian tubes are
+unremarkable except for serosal hematoma, measuring 2.0cm in
+greatest dimension.
+
+Cassette summary:
+A3- anterior cervix,
+A4- posterior cervix,
+A5- lower uterine segment
+A6 ,A7- right adnexa
+A8- left adnexa
+A9- right parametrial tissue,
+A10-left parametrial tissue
+A11-A13- additional tumor with myometrium
+A14- unremarkable endomyometrium.
+
+Specimen B is labeled as "Omentum" (permanent)", consists of one
+piece of fibroadipose tissue, weighing 90 gram and measuring 31
+cm x 2.0 x 1.5 cm. The surface of the fatty tissue shows
+unremarkable yellowish fat without definitive tumor nodules or
+lymph nodes. Representative sections are summarized into B1-B4.
+
+Specimen C is labeled as "Rt pelvic lymph node", consists of a
+few fragments of fibroadipose tissue, measuring in aggregate 4.5
+x 3.0 x 1.0 cm. A few lymph nodes are identified, each is
+bisected and submitted in to cassettes Cl-C3. The fatty tissue
+with nodularly is submitted into cassette C4.
+
+Printed By:
+Printed:
+Confidential Patient Information
+NOT A CHART COPY
+Page 3
+
+===================================== PAGE 4 =====================================
+View Detail
+Page 4 of 4
+
+Surgical Pathology
+(Continued)
+Acct#: ___________________     Adm: _______________
+
+Specimen D is labeled "Left pelvic lymph node, consists of several fragments of fibroadipose tissue and pinkish nodular area, measuring in average 3.5 x 2.0 x 1.0cm. The nodular areas are bisected and submitted entirely in D1 and D2.
+
+Specimen E is labeled as "Left paraaortic lymph node", consists of one piece of hemorrhagic nodular tissue, measuring 1.0 x 0.5 x 0.7cm. The specimen is bisected and submitted into cassette E1.
+
+Specimen F is labeled as "Right paraaortic lymph node", consists of whitish oval nodule tissue, measuring 2.6 xl.5 x 0.7 cm. The specimen is bisected and submitted into cassettes Fl and F2 entirely.
+
+Microscopic Description Was performed.
+
+
+* System:   ************************************************ For: *
+*           End:
+*******************************************************
+
+Printed By:               Confidential Patient Information      Page 4
+Printed:                  NOT A CHART COPY
+
+Criteria          Yes       No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): QUALIFIED    DSQUALIFIED
+Reviewer Initials: ____________ Date Reviewed: 3/6/14

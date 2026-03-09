@@ -1,0 +1,293 @@
+
+
+===================================== PAGE 1 =====================================
+ICD-0-3
+Adenocarcinoma, Endometrioid, Nos
+8380/3
+12/7/10
+mu
+
+UUID:960B26D6-F9BA-4099-B6F4-6D1DEA6C0F0F
+TCGA-A5-A0VP-01A-PR Redacted
+
+Criteria
+Diagnosis Discrepancy   Yes     No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is(circle):  QUALIFIED / DISEQUALIFIED
+Reviewer Initials: _______ Date Reviewed: _____
+
+
+SURGICAL PATHOLOGY REPORT
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, AND BILATERAL ADNEXA, TOTAL HYSTERECTOMY AND
+BILATERAL SALPINGO-OOPHORECTOMY:
+    - High grade endometrial adenocarcinoma, endometrioid type, FIGO grade III, with
+      focal undifferentiated component (<5%)
+    - Pathologic stage: pT1a N0
+    - Right fallopian tube with a tiny focus of intraepithelial carcinoma
+    - See synoptic report
+
+B. OMENTUM # 1, EXCISION:
+    - No evidence of carcinoma
+
+C. OMENTUM # 2, EXCISION:
+    - No evidence of carcinoma
+
+D. LYMPH NODES, LEFT PELVIC, EXCISION:
+    - Ten lymph nodes, negative for carcinoma (0/10)
+
+E. LYMPH NODES, LEFT COMMON ILIAC, EXCISION:
+    - Two lymph nodes, negative for carcinoma (0/2)
+
+F. LYMPH NODES, RIGHT PELVIC, EXCISION:
+    - Four lymph nodes, negative for carcinoma (0/4)
+
+G. LYMPH NODES, RIGHT COMMON ILIAC, EXCISION:
+    - Two lymph nodes, negative for carcinoma (0/2)
+
+Consultation: Dr.
+
+SYNOPTIC REPORT:
+Applies To:
+A : CERVIX/UTERUS/LT & RT TUBES AND OVARIIES
+B : OMENTUM 1
+C : OMENTUM 2
+D : LT PELVIC Lymph Nodes
+E : LT COMMON Iliac
+F : RT PELVIC Lymph Nodes
+G : RT COMMON Iliac Lymph Nodes
+
+
+Specimen Type:               Macroscopic
+Patient Case(s):
+Uterus
+
+Copy For: \
+Page 1 of 5                Sunset
+
+===================================== PAGE 2 =====================================
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Omentum
+None
+
+Other Organs Present:
+Procedure:
+Total abdominal hysterectomy and bilateral salpingo-
+oophorectomy
+Specimen Integrity:
+Intact hysterectomy specimen
+Lymph Node Sampling:
+Pelvic lymph nodes
+Common iliac lymph nodes
+
+Microscopic
+Histologic Type:
+Endometrioid adenocarcinoma, not otherwise
+characterized
+Histologic Grade:
+FIGO grade III
+Tumor Site:
+Corpus
+Fundus
+Lower uterine segment
+Tumor Size:
+Dimensions: 4 x 3.8 x 1.3cm
+Myometrial Invasion:
+Invasion present
+Less than 50% myometrial invasion
+Comment(s): Minimal superficial invasion, less than 1
+mm
+Involvement of Cervix:
+No involvement
+Extent of Involvement
+of Other Organs:
+None
+Margins:
+Uninvolved by invasive carcinoma
+Lymphovascular Invasion:
+Not identified
+
+Pathologic Staging (pTNM [FIGO]) AJCC 7th Edition 2010
+Primary Tumor (pT):
+pT1a [IA]: Tumor limited to endometrium or invades less
+than one-half of the myometrium
+Regional Lymph Nodes (pN):
+pN0: No regional lymph node metastasis
+Number of pelvic lymph
+nodes examined:
+14
+Number of pelvic lymph
+nodes involved:
+0
+Number of common illac
+lymph nodes examined:
+4
+Number of common illac
+lymph nodes involved:
+0
+
+Additional Pathologic Findings
+Focal intraepithelial carcinoma, right fallopian tube
+Xanthogranulomatous salpingitis, right fallopian tube
+Uterine leiomyoma
+Adenomyosis, focal, involving less than 50% of the myometrial thickness
+Both ovaries with surface epithelial inclusion cysts
+Left fallopian tube with no histopathologic abnormality
+
+
+SURGICAL PATHOLOGY REPORT
+Page 2 of 5
+
+===================================== PAGE 3 =====================================
+HISTORY:
+Endometrial thickening, prior endometrial curettage showed scanty fragments of inactive/atrophic
+endometrium
+
+MICROSCOPIC FINDINGS:
+See diagnosis.
+
+SPECIAL STUDIES:
+Decalcification (A7)
+
+IMMUNOHISTOCHEMISTRY:
+
+Study / Antibody	Block	Result
+Ki-67 QL	A9	Highlights the focus of intraepithelial carcinoma in the fallopian tube
+P53 QL	A9	Highlights the focus of intraepithelial carcinoma in the fallopian tube
+PAX-8	A4	Endometrial carcinoma with few cells positive
+PAX-8	A9	Intraepithelial carcinoma in the fallopian tube positive
+
+GROSS:
+A. CERVIX/UTERUS/LEFT AND RIGHT TUBES AND OVARIES
+Labeled with the patient's name, labeled "cervix/uterus/left and right tubes and ovaries" and received
+fresh in the operating room for frozen section consultation and subsequently fixed in formalin is an intact
+62.5 gm total hysterectomy and bilateral salpingo-oophorectomy specimen. The uterus is about 4.5 x 4.3
+x 3.5 cm. The cervix is 3.5 cm in length and has a width of 3.1 cm. The endometrial cavity is 3.8 cm in
+length and has a maximum width of 2.2 cm. The left fimbriated fallopian tube is 6.5 cm in length and has
+a maximal width of 0.6 cm. The left ovary is 2.7 x 1.1 x 1.0 cm. The right fimbriated fallopian tube is 6.5
+cm in length and has a maximum width of 0.5 cm. The right ovary is 2.9 x 1.3 x 1.3 cm. The uterine wall
+thickness ranges in size from 0.7 cm to 1.3 cm. A small amount of parametrial tissue is present
+bilaterally. The left parametrial tissue is purple-tan, smooth and glistening and is 0.6 x 0.5 cm.
+
+Within the posterior endometrial cavity in the corpus and fundus, there is a soft, irregular, polypoid white-
+tan mass that is 4.0 x 3.8 x 1.3 cm. The lesion grossly involves the lower uterine segment. The cut
+surface of the lesion shows no myometrial invasion. The cut surface of the mass is white-tan,
+homogeneous with no areas of hemorrhage or necrosis grossly identified. The uterine serosa is grossly
+free of tumor.
+
+Within the intramural portion of the anterior uterine corpus there is an intramural, white-tan, semi-firm,
+well-circumscribed leiomyoma. The leiomyoma is 2.7 x 2.2 x 0.7 cm. The cut surface of the leiomyoma
+shows focal areas of yellow-tan calcified areas. The remaining cut surface is white-tan, semi-firm, and
+worled pattern with no areas of hemorrhage or necrosis grossly identified. Within the right fallopian tube
+there is a paratubal cyst within the mid third of the fallopian tube that measures 0.6 x 0.3 cm. The serosal
+surface of the cyst is white-tan, semi-translucent, and smooth and glistening. Sectioning through the cyst
+reveals semitranslucent, straw-colored cyst fluid. The lining of the cyst wall is tan, smooth and glistening
+with no masses or lesions seen grossly protruding from the cyst lining into the lumen of the cyst. Within
+the left ovary is a single corpora albicans which measures 0.2 cm in greatest dimension. The right ovary
+shows multiple white-tan, firm corpora albicans that range in size from 0.1 to 0.2 cm in greatest
+dimension.
+
+SURGICAL PATHOLOGY REPORT
+
+Page 3 of 5
+
+===================================== PAGE 4 =====================================
+No other masses or lesions are grossly identified. Representative sections are submitted.
+
+Ink key:
+Black - anterior and posterior serosal surface of uterine corpus and fundus
+
+Slide key:
+A1. Anterior cervix - 1
+A2. Posterior cervix - 1
+A3. Full thickness section of the mass - 1
+A4. Mass to posterior lower uterine segment - 1
+A5. Tumor to posterior lower uterine segment - 1
+A6. Anterior uterine corpus and leiomyoma, full thickness section with serosa - 1
+A7. Endometrial mucosa, anterior uterine corpus, underlying leiomyoma with full thickness cross section
+to serosal surface - 1
+A8. Proximal, mid, distal fimbriated left fallopian tube; left ovary - 5
+A9. Proximal, mid, distal fimbriated right fallopian tube, right ovary – 5
+A10-A12. Additional sections of tumor, full thickness – 1 each
+A13. Frozen section remnant – 1
+A14-A16. Parametrium – 2
+A17. Additional right fallopian tube – 4
+A18,A19. Right fallopian tube – multiple
+A20,A21. Left Fallopian tube – multiple
+A22,A23. Additional tumor – 1 each
+
+B. OMENTUM #1
+Labeled with the patient's name, labeled "omentum #1" and received in formalin is an irregular portion of
+yellow-tan, smooth and glistening, soft fibroadipose tissue that is 7 x 4.5 x 0.9 cm. Sectioning through the
+tissue does not reveal any masses or lesions grossly. Representative sections are submitted.
+
+Slide key:
+B1. Multiple
+
+C. OMENTUM #2
+Labeled with the patient's name, labeled "omentum #2" and received in formalin are multiple irregular
+fragments of yellow-tan, soft, smooth and glistening fibroadipose tissue that measure in aggregate 7.0 x
+4.9 x 1.2 cm. Sectioning through the fat does not reveal any masses or lesions grossly. No lymph nodes
+are grossly identified. Representative sections are submitted.
+
+Slide key:
+C1. Multiple
+
+D. LEFT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "left pelvic lymph node" and received in formalin are multiple
+fragments of yellow-tan, smooth and glistening, soft to semi-firm fibroadipose tissue with marked
+distortion and marked brown-tan cautery artifact. The specimen measures in aggregate 4.5 x 3.3 x 0.7
+cm. Individual fragments range in size from 0.3 to 1.4 cm in greatest dimension. Sectioning through the
+tissue reveals multiple fragments of white-tan, semi-firm lymph nodes. The cut surfaces show a white-
+tan, homogeneous, semi-firm and fleshy parenchyma with no lesions or masses grossly identified. No
+other lesions or masses are grossly identified. All suspected lymphoid tissue is submitted.
+
+Slide key:
+D1-D4. Lymph nodes - 2, 3, 3, 2
+
+E. LEFT COMMON Iliac
+
+SURGICAL PATHOLOGY REPORT
+Page 4 of 5
+
+===================================== PAGE 5 =====================================
+Labeled with the patient's name, labeled "left common iliac" and received in formalin is a single elliptical portion of yellow-tan, semi-firm tissue that is 1.3 x 0.6 x 0.4 cm. Within the tissue there is one lymph node identified that is 1.2 x 0.4 x 0.4 cm. The cut surfaces of the lymph node are white-tan, semi-firm, homogenous and fleshy with no focal masses or lesions grossly identified. The lymph node is bisected and entirely submitted.
+
+Slide key:
+E1. 2
+
+F. RIGHT PELVIC LYMPH NODE
+Labeled with the patient's name, labeled "right pelvic lymph node" and received in formalin are multiple irregular fragments of tan, smooth and glistening soft tissue that measure in aggregate 4.0 x 3.5 x 0.9 cm. Within the tissue approximately two lymph nodes are identified, which measure 2.1 x 1.5 x 0.5 cm and 2.3 x 1.0 x 0.8 cm. The cut surfaces of the lymph nodes show white-tan, semi-firm, homogeneous and fleshy parenchyma with no focal masses or lesions grossly identified. The lymph nodes are entirely submitted.
+
+Slide key:
+F1, F2. Lymph nodes - 2, 1
+
+G. RIGHT COMMON IliAC LYMPH NODE
+Labeled with the patient's name, labeled "right common iliac lymph node" and received in formalin are multiple fragments of yellow-tan, semi-firm tissue fragments and two fragments of red-tan, soft and friable blood clot that measure in aggregate 3.0 x 2.5 x 0.6 cm. Within the tissue, two lymph nodes are grossly identified. The cut surfaces of the lymph nodes are tan, homogeneous, fleshy, and smooth and glistening with no masses or lesions grossly identified. Entirely submitted.
+
+Slide key:
+G1. Lymph nodes - 2
+G2. Soft tissue - multiple
+
+Gross dictated by
+
+INTRAOPERATIVE CONSULTATION:
+OPERATIVE CALL
+OPERATIVE CONSULT (FROZEN):
+
+FSA.
+- Adenocarcinoma, endometrium
+
+I have personally examined the specimen. interpreted the results, reviewed the report and signed it electronically.
+Electronically signed
+
+SURGICAL PATHOLOGY REPORT
+If this report includes immunohistochemical test results, please note the following: All immunohistochemical tests were developed and their performance characteristics determined by Those immunohistochemical tests have not been cleared or approved by the U.S. Food and Drug Administration (FDA), and FDA approval is not required.
+Page 5 of 5

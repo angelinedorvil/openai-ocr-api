@@ -1,0 +1,275 @@
+{
+  "pdf": "reports\\TCGA-B5-A11P\\TCGA-B5-A11P.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 34.58683395385742,
+        "chars": 3242,
+        "words": 515,
+        "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1\n4/25/11\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle):\nReviewr Initials\nQualified\nDisqualified\nDate Reviewed:\n\n7/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\", received fresh for frozen section is a 126 gram, 8.2 x 6.5 x 3.1 cm uterus with attached bilateral adnexa. The deep soft tissue is inked blue. The serosa is tan-gray, smooth and glistening. The uterus is bivalved to reveal a 3.1 x 2.6 x 1.1 cm tan, sessile, firm mass with a friable surface overlying the endometrium at the fundus and extending into anterior and posterior endometrial cavities. The mass grossly appears to invade 0.2 cm into a 1.2 cm thick myometrium. The mass does not extend to the cervix (2.6 cm at closest approach from the posterior half). The uninvolved endometrium is otherwise tan, smooth and with multiple less than 0.1 cm cysts. The 0.1 cm thick endometrium overlies a 1 cm in average thickness unremarkable myometrium. The cervix (2.9 cm in diameter with a 1.1 cm patent os) has an unremarkable ecto and endocervical mucosa. A representative of the mass is frozen as AF1. The frozen section remnant is submitted in block A1.\n\nBLOCK SUMMARY:\n\nA2- mass at fundus\nA3- anterior endomyometrium with mass, full-thickness\nA4- anterior endomyometrium (uninvolved) and anterior lower uterine segment\nA5- anterior cervix\nA6- mass at fundus\nA7- posterior endomyometrium with mass, full thickness\nA8- posterior endomyometrium (uninvolved) and posterior lower uterine segment\nA9- posterior cervix\n\nThe left fallopian tube (4 x 0.4 cm) has a tan serosal surface with multiple thin adhesions. There are two paratubal cysts up to 0.5 cm in greatest dimension. Attached is a 2.3 x 2.1 x 1.4 cm ovary with a tan-yellow uniform, calcified surface with three paraovarian cysts up to 0.7 cm in greatest dimension. The left ovary has a tan-white cut surface with two calcified cysts with a 0.2 cm thick yellow lining. Representative left fallopian tube and ovary are submitted in blocks A10 and A13. The right fallopian tube (4.1 x 0.3 cm) has a tan serosa with multiple adhesions. The fallopian tube is otherwise unremarkable. The attached ovary (2.1 x 1.3 x 1 cm) has a tan, firm, calcified surface. There are three paraovarian cysts up to 1.1 cm in greatest dimension. The cut surface is tan-white, firm and unremarkable. Representative right fallopian tube and ovary are submitted in blocks A11-12. NOTE: Blocks A12-13 submitted for decalcification.\n\nB. \"Right polyp\", received fresh and placed in formalin is an 8.5 x 7.5 x 2.5 cm aggregate of yellow-pink fibroadipose tissue. The tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 2.5 cm in greatest dimension are identified.\n\nBLOCK SUMMARY:\n\nB1- seven lymph node candidates\nB2- two lymph node candidates, bisected, one inked blue\nB3- one lymph node candidate, bisected\nB4- one lymph node candidate, bisected\nB5- five lymph node candidates\nB6- two lymph node candidates, bisected, one inked blue",
+        "confidence": {
+          "mean_probability": 0.9884433468796285,
+          "mean_log_probability": -0.015013134636264929,
+          "perplexity": 1.0151263978441538,
+          "min_probability": 0.1606572604870282
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 922,
+          "total_tokens": 3394
+        },
+        "composite_score": 0.9881671406022583,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 34.58683395385742,
+          "chars": 3242,
+          "words": 515,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1\n4/25/11\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle):\nReviewr Initials\nQualified\nDisqualified\nDate Reviewed:\n\n7/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\", received fresh for frozen section is a 126 gram, 8.2 x 6.5 x 3.1 cm uterus with attached bilateral adnexa. The deep soft tissue is inked blue. The serosa is tan-gray, smooth and glistening. The uterus is bivalved to reveal a 3.1 x 2.6 x 1.1 cm tan, sessile, firm mass with a friable surface overlying the endometrium at the fundus and extending into anterior and posterior endometrial cavities. The mass grossly appears to invade 0.2 cm into a 1.2 cm thick myometrium. The mass does not extend to the cervix (2.6 cm at closest approach from the posterior half). The uninvolved endometrium is otherwise tan, smooth and with multiple less than 0.1 cm cysts. The 0.1 cm thick endometrium overlies a 1 cm in average thickness unremarkable myometrium. The cervix (2.9 cm in diameter with a 1.1 cm patent os) has an unremarkable ecto and endocervical mucosa. A representative of the mass is frozen as AF1. The frozen section remnant is submitted in block A1.\n\nBLOCK SUMMARY:\n\nA2- mass at fundus\nA3- anterior endomyometrium with mass, full-thickness\nA4- anterior endomyometrium (uninvolved) and anterior lower uterine segment\nA5- anterior cervix\nA6- mass at fundus\nA7- posterior endomyometrium with mass, full thickness\nA8- posterior endomyometrium (uninvolved) and posterior lower uterine segment\nA9- posterior cervix\n\nThe left fallopian tube (4 x 0.4 cm) has a tan serosal surface with multiple thin adhesions. There are two paratubal cysts up to 0.5 cm in greatest dimension. Attached is a 2.3 x 2.1 x 1.4 cm ovary with a tan-yellow uniform, calcified surface with three paraovarian cysts up to 0.7 cm in greatest dimension. The left ovary has a tan-white cut surface with two calcified cysts with a 0.2 cm thick yellow lining. Representative left fallopian tube and ovary are submitted in blocks A10 and A13. The right fallopian tube (4.1 x 0.3 cm) has a tan serosa with multiple adhesions. The fallopian tube is otherwise unremarkable. The attached ovary (2.1 x 1.3 x 1 cm) has a tan, firm, calcified surface. There are three paraovarian cysts up to 1.1 cm in greatest dimension. The cut surface is tan-white, firm and unremarkable. Representative right fallopian tube and ovary are submitted in blocks A11-12. NOTE: Blocks A12-13 submitted for decalcification.\n\nB. \"Right polyp\", received fresh and placed in formalin is an 8.5 x 7.5 x 2.5 cm aggregate of yellow-pink fibroadipose tissue. The tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 2.5 cm in greatest dimension are identified.\n\nBLOCK SUMMARY:\n\nB1- seven lymph node candidates\nB2- two lymph node candidates, bisected, one inked blue\nB3- one lymph node candidate, bisected\nB4- one lymph node candidate, bisected\nB5- five lymph node candidates\nB6- two lymph node candidates, bisected, one inked blue",
+          "confidence": {
+            "mean_probability": 0.9884433468796285,
+            "mean_log_probability": -0.015013134636264929,
+            "perplexity": 1.0151263978441538,
+            "min_probability": 0.1606572604870282
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 922,
+            "total_tokens": 3394
+          },
+          "composite_score": 0.9881671406022583,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 34.45176887512207,
+          "chars": 3252,
+          "words": 516,
+          "text": "Page 1 of 3\n\nICD-0-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1\n4/25/11\n\nCriteria\nDiagnosis Discrepancy\tYes\nPrimary Tumor Site Discrepancy\t\nHIPAA Discrepancy\t\nPrior Malignancy History\t\nDual/Synchronous Primary Noted\t\nCase is (circle):\tQUALIFIED\tDISQUALIFIED\nReviewer Initials\t\nDate Reviewed:\t\n2/25/11\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\", received fresh for frozen section is a 126 gram, 8.2 x 6.5 x 3.1 cm uterus with attached bilateral adnexa. The deep soft tissue is inked blue. The serosa is tan-gray, smooth and glistening. The uterus is bivalved to reveal a 3.1 x 2.6 x 1.1 cm tan, sessile, firm mass with a friable surface overlying the endometrium at the fundus and extending into anterior and posterior endometrial cavities. The mass grossly appears to invade 0.2 cm into a 1.2 cm thick myometrium. The mass does not extend to the cervix (2.6 cm at closest approach from the posterior half). The uninvolved endometrium is otherwise tan, smooth and with multiple less than 0.1 cm cysts. The 0.1 cm thick endometrium overlies a 1 cm in average thickness unremarkable myometrium. The cervix (2.9 cm in diameter with a 1.1 cm patent os) has an unremarkable ecto and endocervical mucosa. A representative of the mass is frozen as AF1. The frozen section remnant is submitted in block A1.\n\nBLOCK SUMMARY:\n\nA2-\tmass at fundus\nA3-\tanterior endomyometrium with mass, full-thickness\nA4-\tanterior endomyometrium (uninvolved) and anterior lower uterine segment\nA5-\tanterior cervix\nA6-\tmass at fundus\nA7-\tposterior endomyometrium with mass, full thickness\nA8-\tposterior endomyometrium (uninvolved) and posterior lower uterine segment\nA9-\tposterior cervix\n\nThe left fallopian tube (4 x 0.4 cm) has a tan serosal surface with multiple thin adhesions. There are two paratubal cysts up to 0.5 cm in greatest dimension. Attached is a 2.3 x 2.1 x 1.4 cm ovary with a tan-yellow uniform, calcified surface with three paraovarian cysts up to 0.7 cm in greatest dimension. The left ovary has a tan-white cut surface with two calcified cysts with a 0.2 cm thick yellow lining. Representative left fallopian tube and ovary are submitted in blocks A10 and A13. The right fallopian tube (4.1 x 0.3 cm) has a tan serosa with multiple adhesions. The fallopian tube is otherwise unremarkable. The attached ovary (2.1 x 1.3 x 1 cm) has a tan, firm, calcified surface. There are three paraovarian cysts up to 1.1 cm in greatest dimension. The cut surface is tan-white, firm and unremarkable. Representative right fallopian tube and ovary are submitted in blocks A11-12. NOTE: Blocks A12-13 submitted for decalcification.\n\nB. \"Right polyp\", received fresh and placed in formalin is an 8.5 x 7.5 x 2.5 cm aggregate of yellow-pink fibroadipose tissue. The tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 2.5 cm in greatest dimension are identified.\n\nBLOCK SUMMARY:\n\nB1-\tseven lymph node candidates\nB2-\ttwo lymph node candidates, bisected, one inked blue\nB3-\tone lymph node candidate, bisected\nB4-\tone lymph node candidate, bisected\nB5-\tfive lymph node candidates\nB6-\ttwo lymph node candidates, bisected, one inked blue",
+          "confidence": {
+            "mean_probability": 0.986470683388419,
+            "mean_log_probability": -0.017545958642629905,
+            "perplexity": 1.017700793223046,
+            "min_probability": 0.1895919780346757
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 944,
+            "total_tokens": 3416
+          },
+          "composite_score": 0.9368950110261487
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 31.753573656082153,
+          "chars": 3235,
+          "words": 514,
+          "text": "ICD-O-3\nAdenocarcinoma, endometrioid, NOS 8380/3\nSite: endometrium C54.1\n\nPage 1 of 3\n\nCriteria\nDiagnosis Discrepancy\nPrimary Tumor Site Discrepancy\nHIPAA Discrepancy\nPrior Malignancy History\nDual/Synchronous Primary Noted\nCase is (circle):\nReviewr Initials\nQualified\nDisqualified\nDate Reviewed:\n\n7/25/11\n\n\nSurg Path\n\nCLINICAL HISTORY:\nMalignant neoplasm corpus uteri.\n\nGROSS EXAMINATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries (AF1)\", received fresh for frozen section is a 126 gram, 8.2 x 6.5 x 3.1 cm uterus with attached bilateral adnexa. The deep soft tissue is inked blue. The serosa is tan-gray, smooth and glistening. The uterus is bivalved to reveal a 3.1 x 2.6 x 1.1 cm tan, sessile, firm mass with a friable surface overlying the endometrium at the fundus and extending into anterior and posterior endometrial cavities. The mass grossly appears to invade 0.2 cm into a 1.2 cm thick myometrium. The mass does not extend to the cervix (2.6 cm at closest approach from the posterior half). The uninvolved endometrium is otherwise tan, smooth and with multiple less than 0.1 cm cysts. The 0.1 cm thick endometrium overlies a 1 cm in average thickness unremarkable myometrium. The cervix (2.9 cm in diameter with a 1.1 cm patent os) has an unremarkable ecto and endocervical mucosa. A representative of the mass is frozen as AF1. The frozen section remnant is submitted in block A1.\n\nBLOCK SUMMARY:\n\nA2- mass at fundus\nA3- anterior endomyometrium with mass, full-thickness\nA4- anterior endomyometrium (uninvolved) and anterior lower uterine segment\nA5- anterior cervix\nA6- mass at fundus\nA7- posterior endomyometrium with mass, full thickness\nA8- posterior endomyometrium (uninvolved) and posterior lower uterine segment\nA9- posterior cervix\n\nThe left fallopian tube (4 x 0.4 cm) has a tan serosal surface with multiple thin adhesions. There are two paratubal cysts up to 0.5 cm in greatest dimension. Attached is a 2.3 x 2.1 x 1.4 cm ovary with a tan-yellow uniform, calcified surface with three paraovarian cysts up to 0.7 cm in greatest dimension. The left ovary has a tan-white cut surface with two calcified cysts with a 0.2 cm thick yellow lining. Representative left fallopian tube and ovary are submitted in blocks A10 and A13. The right fallopian tube (4.1 x 0.3 cm) has a tan serosa with multiple adhesions. The fallopian tube is otherwise unremarkable. The attached ovary (2.1 x 1.3 x 1 cm) has a tan, firm, calcified surface. There are three paraovarian cysts up to 1.1 cm in greatest dimension. The cut surface is tan-white, firm and unremarkable. Representative right fallopian tube and ovary are submitted in blocks A11-12. NOTE: Blocks A12-13 submitted for decalcification.\n\nB. \"Right polyp\", received fresh and placed in formalin is an 8.5 x 7.5 x 2.5 cm aggregate of yellow-pink fibroadipose tissue. The tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 2.5 cm in greatest dimension are identified.\n\nBLOCK SUMMARY:\n\nB1- seven lymph node candidates\nB2- two lymph node candidates, bisected, one inked blue\nB3- one lymph node candidate, bisected\nB4- one lymph node candidate, bisected\nB5- five lymph node candidates\nB6- two lymph node candidates, bisected, one inked blue",
+          "confidence": {
+            "mean_probability": 0.9873766111337473,
+            "mean_log_probability": -0.016920702407002188,
+            "perplexity": 1.0170646683473268,
+            "min_probability": 0.26458783590352947
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 915,
+            "total_tokens": 3387
+          },
+          "composite_score": 0.9373542412905124
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 2,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 23.705924034118652,
+        "chars": 2541,
+        "words": 370,
+        "text": "Page 2 of 3\n\nB7- two lymph node candidates, bisected, one inked blue\nB8- two lymph node candidates, bisected, one inked blue\nB9- one lymph node candidate, trisected\nB10- two lymph node candidates, one bisected and inked blue\n\nC. \"Left pelvic lymph node\", received fresh and placed in formalin is a 6 x 4.5 x 1.5 cm aggregate of yellow-pink fibroadipose tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 1.5 cm are identified.\n\nBLOCK SUMMARY:\n\nC1- one lymph node candidate, bisected\nC2- five lymph node candidates\nC3- two lymph node candidates, bisected, one inked blue\nC4- two lymph node candidates, bisected, one inked blue\nC5- one lymph node candidate, bisected\nC6- two lymph node candidates, bisected, one inked blue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\": AF1 (anterior endometrium with tumor)-adenocarcinoma consistent with FIGO 3 with superficial myometrial invasion as above\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY WITH NODE DISSECTION.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (TOTAL ABDOMINAL HYSTERECTOMY AND SALPINGO-OOPHORECTOMY):\n\nUTERUS: 126 GRAMS\nENDOMETRIUM:\nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA\nFIGO GRADE: 3\nTUMOR SIZE: 3.1 X 2.6 X 1.1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1 CM. THICK WALL.\nLYMPHATIC/VASCULAR INVASION: NEGATIVE\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIUM IS ATROPHIC\nREMAINING MYOMETRIUM: LEIOMYOMATA, UP TO 0.2 CM\nCERVIX: FREE OF TUMOR\nNO PATHOLOGIC DIAGNOSIS.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\nRIGHT OVARY, MULTIPLE SIMPLE CYST, UP TO 0.4 CM.\nRIGHT FALLOPIAN TUBE, PARATUBAL CYST, UP TO 0.3 CM.\nLEFT OVARY:",
+        "confidence": {
+          "mean_probability": 0.9922290849882637,
+          "mean_log_probability": -0.00989535552596538,
+          "perplexity": 1.0099444764457521,
+          "min_probability": 0.2960641870572076
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 752,
+          "total_tokens": 3224
+        },
+        "composite_score": 0.9921612824759953,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 23.705924034118652,
+          "chars": 2541,
+          "words": 370,
+          "text": "Page 2 of 3\n\nB7- two lymph node candidates, bisected, one inked blue\nB8- two lymph node candidates, bisected, one inked blue\nB9- one lymph node candidate, trisected\nB10- two lymph node candidates, one bisected and inked blue\n\nC. \"Left pelvic lymph node\", received fresh and placed in formalin is a 6 x 4.5 x 1.5 cm aggregate of yellow-pink fibroadipose tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 1.5 cm are identified.\n\nBLOCK SUMMARY:\n\nC1- one lymph node candidate, bisected\nC2- five lymph node candidates\nC3- two lymph node candidates, bisected, one inked blue\nC4- two lymph node candidates, bisected, one inked blue\nC5- one lymph node candidate, bisected\nC6- two lymph node candidates, bisected, one inked blue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\": AF1 (anterior endometrium with tumor)-adenocarcinoma consistent with FIGO 3 with superficial myometrial invasion as above\n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY WITH NODE DISSECTION.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (TOTAL ABDOMINAL HYSTERECTOMY AND SALPINGO-OOPHORECTOMY):\n\nUTERUS: 126 GRAMS\nENDOMETRIUM:\nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA\nFIGO GRADE: 3\nTUMOR SIZE: 3.1 X 2.6 X 1.1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1 CM. THICK WALL.\nLYMPHATIC/VASCULAR INVASION: NEGATIVE\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIUM IS ATROPHIC\nREMAINING MYOMETRIUM: LEIOMYOMATA, UP TO 0.2 CM\nCERVIX: FREE OF TUMOR\nNO PATHOLOGIC DIAGNOSIS.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\nRIGHT OVARY, MULTIPLE SIMPLE CYST, UP TO 0.4 CM.\nRIGHT FALLOPIAN TUBE, PARATUBAL CYST, UP TO 0.3 CM.\nLEFT OVARY:",
+          "confidence": {
+            "mean_probability": 0.9922290849882637,
+            "mean_log_probability": -0.00989535552596538,
+            "perplexity": 1.0099444764457521,
+            "min_probability": 0.2960641870572076
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 752,
+            "total_tokens": 3224
+          },
+          "composite_score": 0.9921612824759953,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 22.32141947746277,
+          "chars": 2573,
+          "words": 370,
+          "text": "Page 2 of 3\n\nB7- two lymph node candidates, bisected, one inked blue\nB8- two lymph node candidates, bisected, one inked blue\nB9- one lymph node candidate, trisected\nB10- two lymph node candidates, one bisected and inked blue\n\nC. \"Left pelvic lymph node\", received fresh and placed in formalin is a 6 x 4.5 x 1.5 cm aggregate of yellow-pink fibroadipose tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 1.5 cm are identified.\n\nBLOCK SUMMARY:\nC1- one lymph node candidate, bisected\nC2- five lymph node candidates\nC3- two lymph node candidates, bisected, one inked blue\nC4- two lymph node candidates, bisected, one inked blue\nC5- one lymph node candidate, bisected\nC6- two lymph node candidates, bisected, one inked blue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\": AF1 (anterior endometrium with tumor)-adenocarcinoma consistent with FIGO 3 with superficial myometrial invasion as above \n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY WITH NODE DISSECTION.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (TOTAL ABDOMINAL HYSTERECTOMY AND SALPINGO-OOPHORECTOMY):\n\nUTERUS: 126 GRAMS\nENDOMETRIUM:\n    TUMOR SITE: FUNDUS\n    HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA\n    FIGO GRADE: 3\n    TUMOR SIZE: 3.1 X 2.6 X 1.1 CM.\n    MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1 CM. THICK WALL.\n    LYMPHATIC/VASCULAR INVASION: NEGATIVE\n    ADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIUM IS ATROPHIC\nREMAINING MYOMETRIUM: LEIOMYOMATA, UP TO 0.2 CM\nCERVIX: FREE OF TUMOR\n    NO PATHOLOGIC DIAGNOSIS.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\nRIGHT OVARY, MULTIPLE SIMPLE CYST, UP TO 0.4 CM.\nRIGHT FALLOPIAN TUBE, PARATUBAL CYST, UP TO 0.3 CM.\nLEFT OVARY:",
+          "confidence": {
+            "mean_probability": 0.9908737775269196,
+            "mean_log_probability": -0.012280407651715038,
+            "perplexity": 1.012356121472522,
+            "min_probability": 0.2401928828200121
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 759,
+            "total_tokens": 3231
+          },
+          "composite_score": 0.9407801141415406
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 25.91895627975464,
+          "chars": 2543,
+          "words": 370,
+          "text": "Page 2 of 3\n\nB7- two lymph node candidates, bisected, one inked blue\nB8- two lymph node candidates, bisected, one inked blue\nB9- one lymph node candidate, trisected\nB10- two lymph node candidates, one bisected and inked blue\n\nC. \"Left pelvic lymph node\", received fresh and placed in formalin is a 6 x 4.5 x 1.5 cm aggregate of yellow-pink fibroadiopse tissue is dissected for lymph node candidates. Multiple lymph node candidates up to 1.5 cm are identified.\n\nBLOCK SUMMARY:\n\nC1- one lymph node candidate, bisected\nC2- five lymph node candidates\nC3- two lymph node candidates, bisected, one inked blue\nC4- two lymph node candidates, bisected, one inked blue\nC5- one lymph node candidate, bisected\nC6- two lymph node candidates, bisected, one inked blue\n\nINTRA OPERATIVE CONSULTATION:\nA. \"Uterus, cervix, bilateral tubes and ovaries\": AFI (anterior endometrium with tumor)-adenocarcinoma consistent with FIGO 3 with superficial myometrial invasion as above \n\nMICROSCOPIC EXAMINATION:\nMicroscopic examination is performed.\n\nPATHOLOGIC STAGE:\nPROCEDURE: TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY WITH NODE DISSECTION.\n\nPATHOLOGIC STAGE (AJCC 6th Edition): pT1b pN0 pMX\n\nNOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated, and does not incorporate information on any specimens submitted separately to our Cytology section, past pathology information, imaging studies, or clinical or operative findings. Pathology stage is only a component to be considered in determining the clinical stage, and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative report.\n\nDIAGNOSIS:\nA. \"UTERUS, CERVIX, BILATERAL TUBES AND OVARIES\" (TOTAL ABDOMINAL HYSTERECTOMY AND SALPINGO-OOPHORECTOMY):\n\nUTERUS: 126 GRAMS\nENDOMETRIUM: \nTUMOR SITE: FUNDUS\nHISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA\nFIGO GRADE: 3\nTUMOR SIZE: 3.1 X 2.6 X 1.1 CM.\nMAXIMUM DEPTH OF MYOMETRIAL INVASION: 0.2 CM, IN A 1 CM. THICK WALL.\nLYMPHATIC/VASCULAR INVASION: NEGATIVE\nADJACENT NON-NEOPLASTIC ENDOMETRIUM: ENDOMETRIUM IS ATROPHIC\nREMAINING MYOMETRIUM: LEIOMYOMATA, UP TO 0.2 CM\nCERVIX: FREE OF TUMOR\nNO PATHOLOGIC DIAGNOSIS.\nSEROSA: FREE OF TUMOR.\nSPECIMEN MARGINS: NOT INVOLVED\nRIGHT OVARY, MULTIPLE SIMPLE CYST, UP TO 0.4 CM.\nRIGHT FALLOPIAN TUBE, PARATUBAL CYST, UP TO 0.3 CM.\nLEFT OVARY:",
+          "confidence": {
+            "mean_probability": 0.988324425684539,
+            "mean_log_probability": -0.015700266311584554,
+            "perplexity": 1.015824163047398,
+            "min_probability": 0.24782956672900713
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 752,
+            "total_tokens": 3224
+          },
+          "composite_score": 0.9382522405550459
+        }
+      ],
+      "total_attempts": 3
+    },
+    {
+      "page_num": 3,
+      "best_response": {
+        "attempt": 1,
+        "temperature": 0.1,
+        "time": 7.178413391113281,
+        "chars": 763,
+        "words": 106,
+        "text": "Page 3 of 3\n\nLEFT FALLOPIAN TUBE: PARATUBAL CYST, UP TO 0.5 CM.\n\nB. \"RIGHT POLYP(?)\" (LYMPHADENECTOMY)\":\n\n    ZERO OF TWENTY-ONE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/21).\n\nC. \"PELVIC LYMPH NODE\" (LYMPHADENECTOMY):\n\n    ZERO OF TWELVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\n    The decalcified tissue from the left ovary reveals ovarian tissue with\ncalicification. No tumor is seen. The original diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\n[redacted]",
+        "confidence": {
+          "mean_probability": 0.975725800616472,
+          "mean_log_probability": -0.03291515486725664,
+          "perplexity": 1.0334628512286097,
+          "min_probability": 0.29536836697842495
+        },
+        "usage": {
+          "input_tokens": 2472,
+          "output_tokens": 227,
+          "total_tokens": 2699
+        },
+        "composite_score": 0.8508069827180634,
+        "quality_warning": false,
+        "quality_warnings": []
+      },
+      "all_responses": [
+        {
+          "attempt": 1,
+          "temperature": 0.1,
+          "time": 7.178413391113281,
+          "chars": 763,
+          "words": 106,
+          "text": "Page 3 of 3\n\nLEFT FALLOPIAN TUBE: PARATUBAL CYST, UP TO 0.5 CM.\n\nB. \"RIGHT POLYP(?)\" (LYMPHADENECTOMY)\":\n\n    ZERO OF TWENTY-ONE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/21).\n\nC. \"PELVIC LYMPH NODE\" (LYMPHADENECTOMY):\n\n    ZERO OF TWELVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\n    The decalcified tissue from the left ovary reveals ovarian tissue with\ncalicification. No tumor is seen. The original diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.975725800616472,
+            "mean_log_probability": -0.03291515486725664,
+            "perplexity": 1.0334628512286097,
+            "min_probability": 0.29536836697842495
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 227,
+            "total_tokens": 2699
+          },
+          "composite_score": 0.8508069827180634,
+          "quality_warning": false,
+          "quality_warnings": []
+        },
+        {
+          "attempt": 2,
+          "temperature": 0.2,
+          "time": 4.884820938110352,
+          "chars": 750,
+          "words": 106,
+          "text": "Page 3 of 3\n\nLEFT FALLOPIAN TUBE: PARATUBAL CYST, UP TO 0.5 CM.\n\nB. \"RIGHT POLYP(?)\" (LYMPHADENECTOMY)\":\n\nZERO OF TWENTY-ONE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/21).\n\nC. \"PELVIC LYMPH NODE\" (LYMPHADENECTOMY):\n\nZERO OF TWELVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\nThe decalcified tissue from the left ovary reveals ovarian tissue with calcification. No tumor is seen. The original diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above specimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.9786633208129476,
+            "mean_log_probability": -0.027132050691244244,
+            "perplexity": 1.0275034763497046,
+            "min_probability": 0.4561051061887129
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 218,
+            "total_tokens": 2690
+          },
+          "composite_score": 0.8111743354236015
+        },
+        {
+          "attempt": 3,
+          "temperature": 0.3,
+          "time": 5.057461738586426,
+          "chars": 751,
+          "words": 106,
+          "text": "Page 3 of 3\n\nLEFT FALLOPIAN TUBE: PARATUBAL CYST, UP TO 0.5 CM.\n\nB. \"RIGHT POLYP(?)\" (LYMPHADENECTOMY)\":\n\nZERO OF TWENTY-ONE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/21).\n\nC. \"PELVIC LYMPH NODE\" (LYMPHADENECTOMY):\n\nZERO OF TWELVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/12).\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\nADDENDUM 1:\nThe decalcified tissue from the left ovary reveals ovarian tissue with\ncalicification. No tumor is seen. The original diagnoses are unchanged.\n\nI certify that I personally conducted the diagnostic evaluation of the above\nspecimen(s) and have rendered the above diagnosis(es).\n\n[redacted]\n\n[redacted]",
+          "confidence": {
+            "mean_probability": 0.9807850570869876,
+            "mean_log_probability": -0.02419073542600897,
+            "perplexity": 1.024485704973788,
+            "min_probability": 0.436324083924074
+          },
+          "usage": {
+            "input_tokens": 2472,
+            "output_tokens": 224,
+            "total_tokens": 2696
+          },
+          "composite_score": 0.8133942821426278
+        }
+      ],
+      "total_attempts": 3
+    }
+  ]
+}
