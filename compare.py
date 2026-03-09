@@ -19,7 +19,6 @@ def char_diff_count(s1, s2):
     matcher = SequenceMatcher(None, s1, s2)
     diff_count_1 = 0
     diff_count_2 = 0
-    char_blocks = []
 
     for tag, i1, i2, j1, j2 in matcher.get_opcodes():
         part1 = s1[i1:i2]
@@ -36,20 +35,28 @@ def char_diff_count(s1, s2):
         elif tag == "insert":
             diff_count_2 += len(part2)
 
-        # char_blocks.append({
-        #     "operation": tag,
-        #     "text1_chars": part1,
-        #     "text2_chars": part2,
-        #     "count_text1": len(part1),
-        #     "count_text2": len(part2),
-        # })
-
     return {
         "different_chars_in_text1": diff_count_1,
         "different_chars_in_text2": diff_count_2,
         "total_different_chars": diff_count_1 + diff_count_2,
-        # "char_diff_blocks": char_blocks
     }
+
+
+def strip_openai_header(text):
+    """
+    Remove the metadata header block at the top of OpenAI output files.
+    Strips everything up to and including the blank line after the last
+    header separator (================...=) before PAGE 1 content begins.
+    """
+    # Split on the PAGE 1 marker and keep everything from there onward
+    marker = "PAGE 1"
+    idx = text.find(marker)
+    if idx != -1:
+        # Walk back to include the separator line before PAGE 1
+        start = text.rfind("=" * 10, 0, idx)
+        if start != -1:
+            return text[start:].strip()
+    return text.strip()
 
 
 def compare_texts(text1, text2):
@@ -86,15 +93,6 @@ def compare_texts(text1, text2):
         total_char_diff_1 += char_result["different_chars_in_text1"]
         total_char_diff_2 += char_result["different_chars_in_text2"]
 
-        # diff_blocks.append({
-        #     "operation": tag,
-        #     "text1_words": block1,
-        #     "text2_words": block2,
-        #     "count_words_text1": len(block1),
-        #     "count_words_text2": len(block2),
-        #     "char_comparison": char_result
-        # })
-
     return {
         "total_words_text1": len(words1),
         "total_words_text2": len(words2),
@@ -108,36 +106,74 @@ def compare_texts(text1, text2):
     }
 
 
+# ── Paths ──────────────────────────────────────────────────────────────────────
+QWEN_DIR   = r'outputs\ovarian_cancer\ocr'     # qwen files: <ID>.<GUID>_ocr.txt
+OPENAI_DIR = r'outputs\ovarian_cancer\openai'  # openai files: <ID>_openai.txt
+OUTPUT_FILE = 'results-openai.csv'
 
-path = 'ocr/stats.csv' # list of file names
-stats = pd.read_csv(path, header='infer')
-output_file = 'results.csv' # output file for comparison results
-if os.path.exists(output_file):
-    results = open(output_file, 'a', newline='', encoding='utf-8')
-    writer = csv.DictWriter(results, fieldnames=['file_name', 'total_words_qwen', 'total_words_claude', 'different_words_in_qwen', 'different_words_in_claude', 'different_chars_in_qwen', 'different_chars_in_claude', 'total_different_chars', 'total_different_words'])
+FIELDNAMES = [
+    'file_name',
+    'total_words_qwen', 'total_words_openai',
+    'different_words_in_qwen', 'different_words_in_openai',
+    'different_chars_in_qwen', 'different_chars_in_openai',
+    'total_different_chars', 'total_different_words',
+]
+
+# ── Build a lookup: short ID -> full qwen filepath ────────────────────────────
+# Qwen filenames look like:  TCGA-A5-A0G1.A2EB7E85-..._ocr.txt
+# The short ID is everything before the first dot: TCGA-A5-A0G1
+qwen_lookup = {}
+for fp in glob.glob(os.path.join(QWEN_DIR, '*.txt')):
+    basename = os.path.basename(fp)               # TCGA-A5-A0G1.GUID_ocr.txt
+    short_id = basename.split('.')[0]             # TCGA-A5-A0G1
+    qwen_lookup[short_id] = fp
+
+# ── Open output CSV ───────────────────────────────────────────────────────────
+file_exists = os.path.exists(OUTPUT_FILE)
+results = open(OUTPUT_FILE, 'a' if file_exists else 'w', newline='', encoding='utf-8')
+writer = csv.DictWriter(results, fieldnames=FIELDNAMES)
+if not file_exists:
     writer.writeheader()
-else:
-    results = open(output_file, 'w', newline='', encoding='utf-8')
-    writer = csv.DictWriter(results, fieldnames=['file_name', 'total_words_qwen', 'total_words_claude', 'different_words_in_qwen', 'different_words_in_claude', 'different_chars_in_qwen', 'different_chars_in_claude', 'total_different_chars', 'total_different_words'])
 
-for idx, row in stats.iterrows():
-    file_qwen = glob.glob('ocr/' + row['file'] + '*') #root folder of outputs from qwen-ocr
-    file_claude = glob.glob('claude/' + row['file'] + '*') #root folder of outputs from claude <==== update with your model
+# ── Main loop ─────────────────────────────────────────────────────────────────
+skipped = []
 
-    with open(file_qwen[0], 'r', encoding='utf-8') as f:
-        text1 = f.read()
-    with open(file_claude[0], 'r', encoding='utf-8') as f:
-        text2 = f.read()
+for fp_openai in glob.glob(os.path.join(OPENAI_DIR, '*_openai.txt')):
+    basename = os.path.basename(fp_openai)        # TCGA-A5-A0G1_openai.txt
+    short_id = basename.replace('_openai.txt', '') # TCGA-A5-A0G1
 
-    result = compare_texts(text1, text2)
+    fp_qwen = qwen_lookup.get(short_id)
+    if fp_qwen is None:
+        print(f"[SKIP] No matching qwen file for: {short_id}")
+        skipped.append(short_id)
+        continue
+
+    with open(fp_qwen, 'r', encoding='utf-8') as f:
+        text_qwen = f.read()
+
+    with open(fp_openai, 'r', encoding='utf-8') as f:
+        raw_openai = f.read()
+
+    text_openai = strip_openai_header(raw_openai)
+
+    result = compare_texts(text_qwen, text_openai)
+
     writer.writerow({
-        'file_name': row['file'],
-        'total_words_qwen': result['total_words_text1'],
-        'total_words_claude': result['total_words_text2'],
-        'different_words_in_qwen': result['different_words_in_text1'],
-        'different_words_in_claude': result['different_words_in_text2'],
-        'different_chars_in_qwen': result['different_chars_in_text1'],
-        'different_chars_in_claude': result['different_chars_in_text2'],
-        'total_different_chars': result['total_different_chars'],
-        'total_different_words': result['total_different_words']
+        'file_name':                short_id,
+        'total_words_qwen':         result['total_words_text1'],
+        'total_words_openai':       result['total_words_text2'],
+        'different_words_in_qwen':  result['different_words_in_text1'],
+        'different_words_in_openai':result['different_words_in_text2'],
+        'different_chars_in_qwen':  result['different_chars_in_text1'],
+        'different_chars_in_openai':result['different_chars_in_text2'],
+        'total_different_chars':    result['total_different_chars'],
+        'total_different_words':    result['total_different_words'],
     })
+    print(f"[OK] {short_id}")
+
+results.close()
+
+if skipped:
+    print(f"\nSkipped {len(skipped)} files with no qwen match: {skipped}")
+else:
+    print("\nAll files matched successfully.")
